@@ -1,0 +1,746 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"31049",0,"10",70,0,2013,1,"","Deuel County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",87,609,612,606,3881038,2089273,30672,490
+"31049",0,"10",70,0,2013,2,"","Deuel County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",86,608,622,641,4142782,1019126,15283,511
+"31049",0,"10",70,0,2013,3,"","Deuel County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",87,625,609,592,4183882,644255,11117,529
+"31049",1,"10",71,0,2013,1,"","Deuel County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",2,6,3,4,62098,0,0,1102
+"31049",1,"10",71,0,2013,2,"","Deuel County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",2,8,4,5,52139,0,0,708
+"31049",1,"10",71,0,2013,3,"","Deuel County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",2,5,4,3,39440,0,0,758
+"31049",1,"102",72,0,2013,1,"","Deuel County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",2,6,3,4,62098,0,0,1102
+"31049",1,"102",72,0,2013,2,"","Deuel County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",2,8,4,5,52139,0,0,708
+"31049",1,"102",72,0,2013,3,"","Deuel County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",2,5,4,3,39440,0,0,758
+"31049",1,"1021",73,0,2013,1,"","Deuel County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,6,3,4,62098,0,0,1102
+"31049",1,"1021",73,0,2013,2,"","Deuel County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,8,4,5,52139,0,0,708
+"31049",1,"1021",73,0,2013,3,"","Deuel County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,5,4,3,39440,0,0,758
+"31049",1,"48-49",74,0,2013,1,"","Deuel County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,6,3,4,62098,0,0,1102
+"31049",1,"48-49",74,0,2013,2,"","Deuel County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,8,4,5,52139,0,0,708
+"31049",1,"48-49",74,0,2013,3,"","Deuel County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,5,4,3,39440,0,0,758
+"31049",1,"491",75,0,2013,1,"","Deuel County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,6,3,4,62098,0,0,1102
+"31049",1,"491",75,0,2013,2,"","Deuel County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,8,4,5,52139,0,0,708
+"31049",1,"491",75,0,2013,3,"","Deuel County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,5,4,3,39440,0,0,758
+"31049",1,"4911",76,0,2013,1,"","Deuel County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,6,3,4,62098,0,0,1102
+"31049",1,"4911",76,0,2013,2,"","Deuel County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,8,4,5,52139,0,0,708
+"31049",1,"4911",76,0,2013,3,"","Deuel County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,5,4,3,39440,0,0,758
+"31049",1,"49111",77,0,2013,1,"","Deuel County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,6,3,4,62098,0,0,1102
+"31049",1,"49111",77,0,2013,2,"","Deuel County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,8,4,5,52139,0,0,708
+"31049",1,"49111",77,0,2013,3,"","Deuel County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,5,4,3,39440,0,0,758
+"31049",1,"491110",78,0,2013,1,"","Deuel County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,6,3,4,62098,0,0,1102
+"31049",1,"491110",78,0,2013,2,"","Deuel County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,8,4,5,52139,0,0,708
+"31049",1,"491110",78,0,2013,3,"","Deuel County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,5,4,3,39440,0,0,758
+"31049",2,"10",71,0,2013,1,"","Deuel County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,21,22,23,200114,0,0,700
+"31049",2,"10",71,0,2013,2,"","Deuel County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,22,23,25,228491,0,0,753
+"31049",2,"10",71,0,2013,3,"","Deuel County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,25,26,22,203306,0,0,643
+"31049",2,"102",72,0,2013,1,"","Deuel County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,21,22,23,200114,0,0,700
+"31049",2,"102",72,0,2013,2,"","Deuel County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,22,23,25,228491,0,0,753
+"31049",2,"102",72,0,2013,3,"","Deuel County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,25,26,22,203306,0,0,643
+"31049",2,"1025",73,0,2013,1,"N","Deuel County, Nebraska","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"1025",73,0,2013,2,"N","Deuel County, Nebraska","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"1025",73,0,2013,3,"N","Deuel County, Nebraska","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"1028",73,0,2013,1,"N","Deuel County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",2,"1028",73,0,2013,2,"N","Deuel County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",2,"1028",73,0,2013,3,"N","Deuel County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",2,"61",74,0,2013,1,"N","Deuel County, Nebraska","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"61",74,0,2013,2,"N","Deuel County, Nebraska","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"61",74,0,2013,3,"N","Deuel County, Nebraska","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"611",75,0,2013,1,"N","Deuel County, Nebraska","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"611",75,0,2013,2,"N","Deuel County, Nebraska","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"611",75,0,2013,3,"N","Deuel County, Nebraska","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"6113",76,0,2013,1,"N","Deuel County, Nebraska","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"6113",76,0,2013,2,"N","Deuel County, Nebraska","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"6113",76,0,2013,3,"N","Deuel County, Nebraska","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"61131",77,0,2013,1,"N","Deuel County, Nebraska","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"61131",77,0,2013,2,"N","Deuel County, Nebraska","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"61131",77,0,2013,3,"N","Deuel County, Nebraska","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"611310",78,0,2013,1,"N","Deuel County, Nebraska","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"611310",78,0,2013,2,"N","Deuel County, Nebraska","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"611310",78,0,2013,3,"N","Deuel County, Nebraska","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"92",74,0,2013,1,"N","Deuel County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",2,"92",74,0,2013,2,"N","Deuel County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",2,"92",74,0,2013,3,"N","Deuel County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",2,"926",75,0,2013,1,"N","Deuel County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",2,"926",75,0,2013,2,"N","Deuel County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",2,"926",75,0,2013,3,"N","Deuel County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",2,"9261",76,0,2013,1,"N","Deuel County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",2,"9261",76,0,2013,2,"N","Deuel County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",2,"9261",76,0,2013,3,"N","Deuel County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",2,"92611",77,0,2013,1,"N","Deuel County, Nebraska","State Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"92611",77,0,2013,2,"N","Deuel County, Nebraska","State Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"92611",77,0,2013,3,"N","Deuel County, Nebraska","State Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"926110",78,0,2013,1,"N","Deuel County, Nebraska","State Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"926110",78,0,2013,2,"N","Deuel County, Nebraska","State Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"926110",78,0,2013,3,"N","Deuel County, Nebraska","State Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",2,"92612",77,0,2013,1,"N","Deuel County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",2,"92612",77,0,2013,2,"N","Deuel County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",2,"92612",77,0,2013,3,"N","Deuel County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",2,"926120",78,0,2013,1,"N","Deuel County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",2,"926120",78,0,2013,2,"N","Deuel County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",2,"926120",78,0,2013,3,"N","Deuel County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",2,"92614",77,0,2013,1,"N","Deuel County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",2,"92614",77,0,2013,2,"N","Deuel County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",2,"92614",77,0,2013,3,"N","Deuel County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",2,"926140",78,0,2013,1,"N","Deuel County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",2,"926140",78,0,2013,2,"N","Deuel County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",2,"926140",78,0,2013,3,"N","Deuel County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",3,"10",71,0,2013,1,"","Deuel County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",9,175,185,182,1138722,2162,0,485
+"31049",3,"10",71,0,2013,2,"","Deuel County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",9,178,193,198,1155508,3878,0,469
+"31049",3,"10",71,0,2013,3,"","Deuel County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",9,173,169,173,1140855,3310,0,511
+"31049",3,"102",72,0,2013,1,"","Deuel County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",9,175,185,182,1138722,2162,0,485
+"31049",3,"102",72,0,2013,2,"","Deuel County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",9,178,193,198,1155508,3878,0,469
+"31049",3,"102",72,0,2013,3,"","Deuel County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",9,173,169,173,1140855,3310,0,511
+"31049",3,"1025",73,0,2013,1,"","Deuel County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,108,117,116,864717,0,0,585
+"31049",3,"1025",73,0,2013,2,"","Deuel County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,109,115,106,863654,0,0,604
+"31049",3,"1025",73,0,2013,3,"","Deuel County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,79,78,101,830062,0,0,742
+"31049",3,"1027",73,0,2013,1,"N","Deuel County, Nebraska","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"1027",73,0,2013,2,"N","Deuel County, Nebraska","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"1027",73,0,2013,3,"N","Deuel County, Nebraska","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"1028",73,0,2013,1,"N","Deuel County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",3,"1028",73,0,2013,2,"N","Deuel County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",3,"1028",73,0,2013,3,"N","Deuel County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",3,"61",74,0,2013,1,"N","Deuel County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",3,"61",74,0,2013,2,"N","Deuel County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",3,"61",74,0,2013,3,"N","Deuel County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",3,"611",75,0,2013,1,"N","Deuel County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",3,"611",75,0,2013,2,"N","Deuel County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",3,"611",75,0,2013,3,"N","Deuel County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",3,"6111",76,0,2013,1,"N","Deuel County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",3,"6111",76,0,2013,2,"N","Deuel County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",3,"6111",76,0,2013,3,"N","Deuel County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",3,"61111",77,0,2013,1,"N","Deuel County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",3,"61111",77,0,2013,2,"N","Deuel County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",3,"61111",77,0,2013,3,"N","Deuel County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",3,"611110",78,0,2013,1,"N","Deuel County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",3,"611110",78,0,2013,2,"N","Deuel County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",3,"611110",78,0,2013,3,"N","Deuel County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",3,"6117",76,0,2013,1,"N","Deuel County, Nebraska","Local Government","Educational support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"6117",76,0,2013,2,"N","Deuel County, Nebraska","Local Government","Educational support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"6117",76,0,2013,3,"N","Deuel County, Nebraska","Local Government","Educational support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"61171",77,0,2013,1,"N","Deuel County, Nebraska","Local Government","Educational support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"61171",77,0,2013,2,"N","Deuel County, Nebraska","Local Government","Educational support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"61171",77,0,2013,3,"N","Deuel County, Nebraska","Local Government","Educational support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"611710",78,0,2013,1,"N","Deuel County, Nebraska","Local Government","Educational support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"611710",78,0,2013,2,"N","Deuel County, Nebraska","Local Government","Educational support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"611710",78,0,2013,3,"N","Deuel County, Nebraska","Local Government","Educational support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"62",74,0,2013,1,"N","Deuel County, Nebraska","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"62",74,0,2013,2,"N","Deuel County, Nebraska","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"62",74,0,2013,3,"N","Deuel County, Nebraska","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"624",75,0,2013,1,"N","Deuel County, Nebraska","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"624",75,0,2013,2,"N","Deuel County, Nebraska","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"624",75,0,2013,3,"N","Deuel County, Nebraska","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"6241",76,0,2013,1,"N","Deuel County, Nebraska","Local Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"6241",76,0,2013,2,"N","Deuel County, Nebraska","Local Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"6241",76,0,2013,3,"N","Deuel County, Nebraska","Local Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"62412",77,0,2013,1,"N","Deuel County, Nebraska","Local Government","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"62412",77,0,2013,2,"N","Deuel County, Nebraska","Local Government","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"62412",77,0,2013,3,"N","Deuel County, Nebraska","Local Government","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"624120",78,0,2013,1,"N","Deuel County, Nebraska","Local Government","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"624120",78,0,2013,2,"N","Deuel County, Nebraska","Local Government","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"624120",78,0,2013,3,"N","Deuel County, Nebraska","Local Government","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"81",74,0,2013,1,"N","Deuel County, Nebraska","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"81",74,0,2013,2,"N","Deuel County, Nebraska","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"81",74,0,2013,3,"N","Deuel County, Nebraska","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"812",75,0,2013,1,"N","Deuel County, Nebraska","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"812",75,0,2013,2,"N","Deuel County, Nebraska","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"812",75,0,2013,3,"N","Deuel County, Nebraska","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"8122",76,0,2013,1,"N","Deuel County, Nebraska","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"8122",76,0,2013,2,"N","Deuel County, Nebraska","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"8122",76,0,2013,3,"N","Deuel County, Nebraska","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"81222",77,0,2013,1,"N","Deuel County, Nebraska","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"81222",77,0,2013,2,"N","Deuel County, Nebraska","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"81222",77,0,2013,3,"N","Deuel County, Nebraska","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"812220",78,0,2013,1,"N","Deuel County, Nebraska","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"812220",78,0,2013,2,"N","Deuel County, Nebraska","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"812220",78,0,2013,3,"N","Deuel County, Nebraska","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"92",74,0,2013,1,"N","Deuel County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",3,"92",74,0,2013,2,"N","Deuel County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",3,"92",74,0,2013,3,"N","Deuel County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",3,"921",75,0,2013,1,"N","Deuel County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",3,"921",75,0,2013,2,"","Deuel County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,67,75,89,286396,0,0,286
+"31049",3,"921",75,0,2013,3,"","Deuel County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,91,88,69,304334,0,0,283
+"31049",3,"9211",76,0,2013,1,"N","Deuel County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",3,"9211",76,0,2013,2,"","Deuel County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,67,75,89,286396,0,0,286
+"31049",3,"9211",76,0,2013,3,"","Deuel County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,91,88,69,304334,0,0,283
+"31049",3,"92114",77,0,2013,1,"N","Deuel County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",3,"92114",77,0,2013,2,"","Deuel County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,67,75,89,286396,0,0,286
+"31049",3,"92114",77,0,2013,3,"","Deuel County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,91,88,69,304334,0,0,283
+"31049",3,"921140",78,0,2013,1,"N","Deuel County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",3,"921140",78,0,2013,2,"","Deuel County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,67,75,89,286396,0,0,286
+"31049",3,"921140",78,0,2013,3,"","Deuel County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,91,88,69,304334,0,0,283
+"31049",3,"925",75,0,2013,1,"N","Deuel County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"925",75,0,2013,2,"N","Deuel County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"925",75,0,2013,3,"N","Deuel County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"9251",76,0,2013,1,"N","Deuel County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"9251",76,0,2013,2,"N","Deuel County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"9251",76,0,2013,3,"N","Deuel County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"92511",77,0,2013,1,"N","Deuel County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"92511",77,0,2013,2,"N","Deuel County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"92511",77,0,2013,3,"N","Deuel County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"925110",78,0,2013,1,"N","Deuel County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"925110",78,0,2013,2,"N","Deuel County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",3,"925110",78,0,2013,3,"N","Deuel County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"10",71,0,2013,1,"","Deuel County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",70,407,402,397,2480104,2087111,30672,475
+"31049",5,"10",71,0,2013,2,"","Deuel County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",69,400,402,413,2706644,1015248,15283,514
+"31049",5,"10",71,0,2013,3,"","Deuel County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",70,422,410,394,2800281,640945,11117,527
+"31049",5,"101",72,0,2013,1,"","Deuel County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",12,49,47,50,427078,367470,5782,675
+"31049",5,"101",72,0,2013,2,"","Deuel County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",12,45,51,50,465402,100847,1252,736
+"31049",5,"101",72,0,2013,3,"","Deuel County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",12,50,54,48,490021,62161,1170,744
+"31049",5,"1011",73,0,2013,1,"","Deuel County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",9,45,44,47,421533,361925,5752,715
+"31049",5,"1011",73,0,2013,2,"N","Deuel County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31049",5,"1011",73,0,2013,3,"N","Deuel County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31049",5,"1012",73,0,2013,1,"","Deuel County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,4,3,3,5545,5545,30,128
+"31049",5,"1012",73,0,2013,2,"N","Deuel County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",5,"1012",73,0,2013,3,"N","Deuel County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",5,"102",72,0,2013,1,"","Deuel County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",58,358,355,347,2053026,1719641,24890,447
+"31049",5,"102",72,0,2013,2,"","Deuel County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",57,355,351,363,2241242,914401,14031,484
+"31049",5,"102",72,0,2013,3,"","Deuel County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",58,372,356,346,2310260,578784,9947,496
+"31049",5,"1021",73,0,2013,1,"","Deuel County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",23,159,159,160,1097811,869096,12172,530
+"31049",5,"1021",73,0,2013,2,"","Deuel County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",22,161,165,168,1198857,411382,6506,560
+"31049",5,"1021",73,0,2013,3,"","Deuel County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",22,180,173,171,1256963,237260,3873,554
+"31049",5,"1022",73,0,2013,1,"N","Deuel County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"1022",73,0,2013,2,"N","Deuel County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"1022",73,0,2013,3,"N","Deuel County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"1023",73,0,2013,1,"","Deuel County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",6,24,25,24,181947,128171,1305,575
+"31049",5,"1023",73,0,2013,2,"","Deuel County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",6,24,22,22,164974,33821,430,560
+"31049",5,"1023",73,0,2013,3,"","Deuel County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",6,22,23,23,169867,7813,188,576
+"31049",5,"1024",73,0,2013,1,"N","Deuel County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",5,"1024",73,0,2013,2,"N","Deuel County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"1024",73,0,2013,3,"N","Deuel County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"1025",73,0,2013,1,"","Deuel County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",11,68,74,68,380002,360709,6659,418
+"31049",5,"1025",73,0,2013,2,"","Deuel County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",11,76,74,75,411220,183528,3813,422
+"31049",5,"1025",73,0,2013,3,"","Deuel County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",12,75,73,58,421149,146063,3831,472
+"31049",5,"1026",73,0,2013,1,"","Deuel County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",8,59,60,58,202502,193320,1210,264
+"31049",5,"1026",73,0,2013,2,"","Deuel County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",9,57,56,66,270444,205334,1390,349
+"31049",5,"1026",73,0,2013,3,"","Deuel County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",9,64,66,63,278668,145620,1171,333
+"31049",5,"1027",73,0,2013,1,"","Deuel County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",4,29,30,30,138533,126082,3056,359
+"31049",5,"1027",73,0,2013,2,"","Deuel County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",4,27,23,24,156442,68689,1768,488
+"31049",5,"1027",73,0,2013,3,"","Deuel County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",4,24,14,24,139645,34047,866,520
+"31049",5,"11",74,0,2013,1,"","Deuel County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",9,45,44,47,421533,361925,5752,715
+"31049",5,"11",74,0,2013,2,"N","Deuel County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31049",5,"11",74,0,2013,3,"N","Deuel County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31049",5,"111",75,0,2013,1,"","Deuel County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,19,20,20,188043,165591,1801,736
+"31049",5,"111",75,0,2013,2,"","Deuel County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,20,20,20,212145,21670,276,816
+"31049",5,"111",75,0,2013,3,"","Deuel County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,20,21,20,222414,7033,90,841
+"31049",5,"1111",76,0,2013,1,"","Deuel County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,19,20,20,188043,165591,1801,736
+"31049",5,"1111",76,0,2013,2,"","Deuel County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,20,20,20,212145,21670,276,816
+"31049",5,"1111",76,0,2013,3,"","Deuel County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,20,21,20,222414,7033,90,841
+"31049",5,"11114",77,0,2013,1,"N","Deuel County, Nebraska","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"11114",77,0,2013,2,"N","Deuel County, Nebraska","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"11114",77,0,2013,3,"N","Deuel County, Nebraska","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"111140",78,0,2013,1,"N","Deuel County, Nebraska","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"111140",78,0,2013,2,"N","Deuel County, Nebraska","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"111140",78,0,2013,3,"N","Deuel County, Nebraska","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"11119",77,0,2013,1,"N","Deuel County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"11119",77,0,2013,2,"N","Deuel County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"11119",77,0,2013,3,"N","Deuel County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"111191",78,0,2013,1,"N","Deuel County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"111191",78,0,2013,2,"N","Deuel County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"111191",78,0,2013,3,"N","Deuel County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"112",75,0,2013,1,"N","Deuel County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"112",75,0,2013,2,"N","Deuel County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"112",75,0,2013,3,"N","Deuel County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"1121",76,0,2013,1,"N","Deuel County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"1121",76,0,2013,2,"N","Deuel County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"1121",76,0,2013,3,"N","Deuel County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"11211",77,0,2013,1,"N","Deuel County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"11211",77,0,2013,2,"N","Deuel County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"11211",77,0,2013,3,"N","Deuel County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"112111",78,0,2013,1,"N","Deuel County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"112111",78,0,2013,2,"N","Deuel County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"112111",78,0,2013,3,"N","Deuel County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"112112",78,0,2013,1,"N","Deuel County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"112112",78,0,2013,2,"N","Deuel County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"112112",78,0,2013,3,"N","Deuel County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"115",75,0,2013,1,"N","Deuel County, Nebraska","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"115",75,0,2013,2,"N","Deuel County, Nebraska","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"115",75,0,2013,3,"N","Deuel County, Nebraska","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"1151",76,0,2013,1,"N","Deuel County, Nebraska","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"1151",76,0,2013,2,"N","Deuel County, Nebraska","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"1151",76,0,2013,3,"N","Deuel County, Nebraska","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"11511",77,0,2013,1,"N","Deuel County, Nebraska","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"11511",77,0,2013,2,"N","Deuel County, Nebraska","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"11511",77,0,2013,3,"N","Deuel County, Nebraska","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"115112",78,0,2013,1,"N","Deuel County, Nebraska","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"115112",78,0,2013,2,"N","Deuel County, Nebraska","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"115112",78,0,2013,3,"N","Deuel County, Nebraska","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"115114",78,0,2013,1,"N","Deuel County, Nebraska","Private","Other postharvest crop activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"115114",78,0,2013,2,"N","Deuel County, Nebraska","Private","Other postharvest crop activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"115114",78,0,2013,3,"N","Deuel County, Nebraska","Private","Other postharvest crop activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"22",74,0,2013,1,"N","Deuel County, Nebraska","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"22",74,0,2013,2,"N","Deuel County, Nebraska","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"22",74,0,2013,3,"N","Deuel County, Nebraska","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"221",75,0,2013,1,"N","Deuel County, Nebraska","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"221",75,0,2013,2,"N","Deuel County, Nebraska","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"221",75,0,2013,3,"N","Deuel County, Nebraska","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"2212",76,0,2013,1,"N","Deuel County, Nebraska","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"2212",76,0,2013,2,"N","Deuel County, Nebraska","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"2212",76,0,2013,3,"N","Deuel County, Nebraska","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"22121",77,0,2013,1,"N","Deuel County, Nebraska","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"22121",77,0,2013,2,"N","Deuel County, Nebraska","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"22121",77,0,2013,3,"N","Deuel County, Nebraska","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"221210",78,0,2013,1,"N","Deuel County, Nebraska","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"221210",78,0,2013,2,"N","Deuel County, Nebraska","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"221210",78,0,2013,3,"N","Deuel County, Nebraska","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"23",74,0,2013,1,"","Deuel County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,4,3,3,5545,5545,30,128
+"31049",5,"23",74,0,2013,2,"N","Deuel County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",5,"23",74,0,2013,3,"N","Deuel County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",5,"238",75,0,2013,1,"","Deuel County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,4,3,3,5545,5545,30,128
+"31049",5,"238",75,0,2013,2,"N","Deuel County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",5,"238",75,0,2013,3,"N","Deuel County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",5,"2382",76,0,2013,1,"N","Deuel County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"2382",76,0,2013,2,"N","Deuel County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"2382",76,0,2013,3,"N","Deuel County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"23821",77,0,2013,1,"N","Deuel County, Nebraska","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"23821",77,0,2013,2,"N","Deuel County, Nebraska","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"23821",77,0,2013,3,"N","Deuel County, Nebraska","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"238212",78,0,2013,1,"N","Deuel County, Nebraska","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"238212",78,0,2013,2,"N","Deuel County, Nebraska","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"238212",78,0,2013,3,"N","Deuel County, Nebraska","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"2383",76,0,2013,1,"N","Deuel County, Nebraska","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"2383",76,0,2013,2,"N","Deuel County, Nebraska","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"2383",76,0,2013,3,"N","Deuel County, Nebraska","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"23833",77,0,2013,1,"N","Deuel County, Nebraska","Private","Flooring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"23833",77,0,2013,2,"N","Deuel County, Nebraska","Private","Flooring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"23833",77,0,2013,3,"N","Deuel County, Nebraska","Private","Flooring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"238331",78,0,2013,1,"N","Deuel County, Nebraska","Private","Residential flooring contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"238331",78,0,2013,2,"N","Deuel County, Nebraska","Private","Residential flooring contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"238331",78,0,2013,3,"N","Deuel County, Nebraska","Private","Residential flooring contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"23835",77,0,2013,1,"N","Deuel County, Nebraska","Private","Finish carpentry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"23835",77,0,2013,2,"N","Deuel County, Nebraska","Private","Finish carpentry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"23835",77,0,2013,3,"N","Deuel County, Nebraska","Private","Finish carpentry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"238351",78,0,2013,1,"N","Deuel County, Nebraska","Private","Residential finish carpentry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"238351",78,0,2013,2,"N","Deuel County, Nebraska","Private","Residential finish carpentry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"238351",78,0,2013,3,"N","Deuel County, Nebraska","Private","Residential finish carpentry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"42",74,0,2013,1,"","Deuel County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,51,50,52,482782,367345,4976,728
+"31049",5,"42",74,0,2013,2,"","Deuel County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,55,60,60,544269,111830,1481,718
+"31049",5,"42",74,0,2013,3,"","Deuel County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,61,54,54,571006,47968,632,780
+"31049",5,"423",75,0,2013,1,"N","Deuel County, Nebraska","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"423",75,0,2013,2,"N","Deuel County, Nebraska","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"423",75,0,2013,3,"N","Deuel County, Nebraska","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4238",76,0,2013,1,"N","Deuel County, Nebraska","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4238",76,0,2013,2,"N","Deuel County, Nebraska","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4238",76,0,2013,3,"N","Deuel County, Nebraska","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"42382",77,0,2013,1,"N","Deuel County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"42382",77,0,2013,2,"N","Deuel County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"42382",77,0,2013,3,"N","Deuel County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"423820",78,0,2013,1,"N","Deuel County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"423820",78,0,2013,2,"N","Deuel County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"423820",78,0,2013,3,"N","Deuel County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"424",75,0,2013,1,"N","Deuel County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",5,"424",75,0,2013,2,"N","Deuel County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",5,"424",75,0,2013,3,"N","Deuel County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",5,"4245",76,0,2013,1,"N","Deuel County, Nebraska","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",5,"4245",76,0,2013,2,"","Deuel County, Nebraska","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,26,28,28,246233,50874,859,693
+"31049",5,"4245",76,0,2013,3,"N","Deuel County, Nebraska","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",5,"42451",77,0,2013,1,"N","Deuel County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",5,"42451",77,0,2013,2,"","Deuel County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,26,28,28,246233,50874,859,693
+"31049",5,"42451",77,0,2013,3,"N","Deuel County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",5,"424510",78,0,2013,1,"N","Deuel County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",5,"424510",78,0,2013,2,"","Deuel County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,26,28,28,246233,50874,859,693
+"31049",5,"424510",78,0,2013,3,"N","Deuel County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",5,"4247",76,0,2013,1,"N","Deuel County, Nebraska","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4247",76,0,2013,2,"N","Deuel County, Nebraska","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4247",76,0,2013,3,"N","Deuel County, Nebraska","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"42471",77,0,2013,1,"N","Deuel County, Nebraska","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"42471",77,0,2013,2,"N","Deuel County, Nebraska","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"42471",77,0,2013,3,"N","Deuel County, Nebraska","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"424710",78,0,2013,1,"N","Deuel County, Nebraska","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"424710",78,0,2013,2,"N","Deuel County, Nebraska","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"424710",78,0,2013,3,"N","Deuel County, Nebraska","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4249",76,0,2013,1,"N","Deuel County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4249",76,0,2013,2,"N","Deuel County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4249",76,0,2013,3,"N","Deuel County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"42491",77,0,2013,1,"N","Deuel County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"42491",77,0,2013,2,"N","Deuel County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"42491",77,0,2013,3,"N","Deuel County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"424910",78,0,2013,1,"N","Deuel County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"424910",78,0,2013,2,"N","Deuel County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"424910",78,0,2013,3,"N","Deuel County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44-45",74,0,2013,1,"","Deuel County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",11,96,97,96,465138,419738,6092,371
+"31049",5,"44-45",74,0,2013,2,"","Deuel County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",10,93,93,95,474134,273326,4316,389
+"31049",5,"44-45",74,0,2013,3,"","Deuel County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",10,104,104,103,520552,175226,2926,386
+"31049",5,"441",75,0,2013,1,"N","Deuel County, Nebraska","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"441",75,0,2013,2,"-","Deuel County, Nebraska","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31049",5,"441",75,0,2013,3,"-","Deuel County, Nebraska","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31049",5,"4413",76,0,2013,1,"N","Deuel County, Nebraska","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4413",76,0,2013,2,"-","Deuel County, Nebraska","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31049",5,"4413",76,0,2013,3,"-","Deuel County, Nebraska","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31049",5,"44131",77,0,2013,1,"N","Deuel County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44131",77,0,2013,2,"-","Deuel County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31049",5,"44131",77,0,2013,3,"-","Deuel County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31049",5,"441310",78,0,2013,1,"N","Deuel County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"441310",78,0,2013,2,"-","Deuel County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31049",5,"441310",78,0,2013,3,"-","Deuel County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31049",5,"442",75,0,2013,1,"N","Deuel County, Nebraska","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"442",75,0,2013,2,"N","Deuel County, Nebraska","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"442",75,0,2013,3,"N","Deuel County, Nebraska","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4421",76,0,2013,1,"N","Deuel County, Nebraska","Private","Furniture stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4421",76,0,2013,2,"N","Deuel County, Nebraska","Private","Furniture stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4421",76,0,2013,3,"N","Deuel County, Nebraska","Private","Furniture stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44211",77,0,2013,1,"N","Deuel County, Nebraska","Private","Furniture stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44211",77,0,2013,2,"N","Deuel County, Nebraska","Private","Furniture stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44211",77,0,2013,3,"N","Deuel County, Nebraska","Private","Furniture stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"442110",78,0,2013,1,"N","Deuel County, Nebraska","Private","Furniture stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"442110",78,0,2013,2,"N","Deuel County, Nebraska","Private","Furniture stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"442110",78,0,2013,3,"N","Deuel County, Nebraska","Private","Furniture stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"444",75,0,2013,1,"N","Deuel County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"444",75,0,2013,2,"N","Deuel County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"444",75,0,2013,3,"N","Deuel County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"4441",76,0,2013,1,"N","Deuel County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"4441",76,0,2013,2,"N","Deuel County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"4441",76,0,2013,3,"N","Deuel County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"44413",77,0,2013,1,"N","Deuel County, Nebraska","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44413",77,0,2013,2,"N","Deuel County, Nebraska","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44413",77,0,2013,3,"N","Deuel County, Nebraska","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"444130",78,0,2013,1,"N","Deuel County, Nebraska","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"444130",78,0,2013,2,"N","Deuel County, Nebraska","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"444130",78,0,2013,3,"N","Deuel County, Nebraska","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44419",77,0,2013,1,"N","Deuel County, Nebraska","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44419",77,0,2013,2,"N","Deuel County, Nebraska","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44419",77,0,2013,3,"N","Deuel County, Nebraska","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"444190",78,0,2013,1,"N","Deuel County, Nebraska","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"444190",78,0,2013,2,"N","Deuel County, Nebraska","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"444190",78,0,2013,3,"N","Deuel County, Nebraska","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"445",75,0,2013,1,"N","Deuel County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"445",75,0,2013,2,"N","Deuel County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"445",75,0,2013,3,"N","Deuel County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4451",76,0,2013,1,"N","Deuel County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4451",76,0,2013,2,"N","Deuel County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4451",76,0,2013,3,"N","Deuel County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44511",77,0,2013,1,"N","Deuel County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44511",77,0,2013,2,"N","Deuel County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44511",77,0,2013,3,"N","Deuel County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"445110",78,0,2013,1,"N","Deuel County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"445110",78,0,2013,2,"N","Deuel County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"445110",78,0,2013,3,"N","Deuel County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"446",75,0,2013,1,"N","Deuel County, Nebraska","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"446",75,0,2013,2,"N","Deuel County, Nebraska","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"446",75,0,2013,3,"N","Deuel County, Nebraska","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4461",76,0,2013,1,"N","Deuel County, Nebraska","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4461",76,0,2013,2,"N","Deuel County, Nebraska","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4461",76,0,2013,3,"N","Deuel County, Nebraska","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44611",77,0,2013,1,"N","Deuel County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44611",77,0,2013,2,"N","Deuel County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44611",77,0,2013,3,"N","Deuel County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"446110",78,0,2013,1,"N","Deuel County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"446110",78,0,2013,2,"N","Deuel County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"446110",78,0,2013,3,"N","Deuel County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"447",75,0,2013,1,"","Deuel County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,58,57,57,282823,259003,4811,379
+"31049",5,"447",75,0,2013,2,"","Deuel County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,57,58,59,305871,195787,3657,406
+"31049",5,"447",75,0,2013,3,"","Deuel County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,67,68,69,352165,142534,2614,398
+"31049",5,"4471",76,0,2013,1,"","Deuel County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,58,57,57,282823,259003,4811,379
+"31049",5,"4471",76,0,2013,2,"","Deuel County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,57,58,59,305871,195787,3657,406
+"31049",5,"4471",76,0,2013,3,"","Deuel County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,67,68,69,352165,142534,2614,398
+"31049",5,"44711",77,0,2013,1,"N","Deuel County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"44711",77,0,2013,2,"N","Deuel County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"44711",77,0,2013,3,"N","Deuel County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"447110",78,0,2013,1,"N","Deuel County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"447110",78,0,2013,2,"N","Deuel County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"447110",78,0,2013,3,"N","Deuel County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"44719",77,0,2013,1,"N","Deuel County, Nebraska","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44719",77,0,2013,2,"N","Deuel County, Nebraska","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"44719",77,0,2013,3,"N","Deuel County, Nebraska","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"447190",78,0,2013,1,"N","Deuel County, Nebraska","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"447190",78,0,2013,2,"N","Deuel County, Nebraska","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"447190",78,0,2013,3,"N","Deuel County, Nebraska","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"48-49",74,0,2013,1,"N","Deuel County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"48-49",74,0,2013,2,"N","Deuel County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"48-49",74,0,2013,3,"N","Deuel County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"484",75,0,2013,1,"","Deuel County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,4,4,4,18398,18398,456,354
+"31049",5,"484",75,0,2013,2,"","Deuel County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,5,5,34657,19672,509,533
+"31049",5,"484",75,0,2013,3,"","Deuel County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,6,6,34451,11190,241,442
+"31049",5,"4841",76,0,2013,1,"N","Deuel County, Nebraska","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4841",76,0,2013,2,"N","Deuel County, Nebraska","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4841",76,0,2013,3,"N","Deuel County, Nebraska","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"48412",77,0,2013,1,"N","Deuel County, Nebraska","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"48412",77,0,2013,2,"N","Deuel County, Nebraska","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"48412",77,0,2013,3,"N","Deuel County, Nebraska","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"484121",78,0,2013,1,"N","Deuel County, Nebraska","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"484121",78,0,2013,2,"N","Deuel County, Nebraska","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"484121",78,0,2013,3,"N","Deuel County, Nebraska","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4842",76,0,2013,1,"N","Deuel County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"4842",76,0,2013,2,"N","Deuel County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"4842",76,0,2013,3,"N","Deuel County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"48422",77,0,2013,1,"N","Deuel County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"48422",77,0,2013,2,"N","Deuel County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"48422",77,0,2013,3,"N","Deuel County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"484220",78,0,2013,1,"N","Deuel County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"484220",78,0,2013,2,"N","Deuel County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"484220",78,0,2013,3,"N","Deuel County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"488",75,0,2013,1,"N","Deuel County, Nebraska","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"488",75,0,2013,2,"N","Deuel County, Nebraska","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"488",75,0,2013,3,"N","Deuel County, Nebraska","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4884",76,0,2013,1,"N","Deuel County, Nebraska","Private","Support activities for road transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4884",76,0,2013,2,"N","Deuel County, Nebraska","Private","Support activities for road transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"4884",76,0,2013,3,"N","Deuel County, Nebraska","Private","Support activities for road transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"48841",77,0,2013,1,"N","Deuel County, Nebraska","Private","Motor vehicle towing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"48841",77,0,2013,2,"N","Deuel County, Nebraska","Private","Motor vehicle towing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"48841",77,0,2013,3,"N","Deuel County, Nebraska","Private","Motor vehicle towing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"488410",78,0,2013,1,"N","Deuel County, Nebraska","Private","Motor vehicle towing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"488410",78,0,2013,2,"N","Deuel County, Nebraska","Private","Motor vehicle towing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"488410",78,0,2013,3,"N","Deuel County, Nebraska","Private","Motor vehicle towing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"51",74,0,2013,1,"N","Deuel County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"51",74,0,2013,2,"N","Deuel County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"51",74,0,2013,3,"N","Deuel County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"511",75,0,2013,1,"N","Deuel County, Nebraska","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"511",75,0,2013,2,"N","Deuel County, Nebraska","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"511",75,0,2013,3,"N","Deuel County, Nebraska","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5111",76,0,2013,1,"N","Deuel County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5111",76,0,2013,2,"N","Deuel County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5111",76,0,2013,3,"N","Deuel County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"51111",77,0,2013,1,"N","Deuel County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"51111",77,0,2013,2,"N","Deuel County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"51111",77,0,2013,3,"N","Deuel County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"511110",78,0,2013,1,"N","Deuel County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"511110",78,0,2013,2,"N","Deuel County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"511110",78,0,2013,3,"N","Deuel County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"52",74,0,2013,1,"N","Deuel County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"52",74,0,2013,2,"N","Deuel County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"52",74,0,2013,3,"N","Deuel County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31049",5,"522",75,0,2013,1,"N","Deuel County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"522",75,0,2013,2,"N","Deuel County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"522",75,0,2013,3,"N","Deuel County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5221",76,0,2013,1,"N","Deuel County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5221",76,0,2013,2,"N","Deuel County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5221",76,0,2013,3,"N","Deuel County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"52211",77,0,2013,1,"N","Deuel County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"52211",77,0,2013,2,"N","Deuel County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"52211",77,0,2013,3,"N","Deuel County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"522110",78,0,2013,1,"N","Deuel County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"522110",78,0,2013,2,"N","Deuel County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"522110",78,0,2013,3,"N","Deuel County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"524",75,0,2013,1,"","Deuel County, Nebraska","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,17,18,17,118651,85104,1017,527
+"31049",5,"524",75,0,2013,2,"","Deuel County, Nebraska","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,17,15,15,112155,23025,358,551
+"31049",5,"524",75,0,2013,3,"","Deuel County, Nebraska","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,15,15,15,108291,3845,161,555
+"31049",5,"5242",76,0,2013,1,"","Deuel County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,17,18,17,118651,85104,1017,527
+"31049",5,"5242",76,0,2013,2,"","Deuel County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,17,15,15,112155,23025,358,551
+"31049",5,"5242",76,0,2013,3,"","Deuel County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,15,15,15,108291,3845,161,555
+"31049",5,"52421",77,0,2013,1,"","Deuel County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,17,18,17,118651,85104,1017,527
+"31049",5,"52421",77,0,2013,2,"","Deuel County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,17,15,15,112155,23025,358,551
+"31049",5,"52421",77,0,2013,3,"","Deuel County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,15,15,15,108291,3845,161,555
+"31049",5,"524210",78,0,2013,1,"","Deuel County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,17,18,17,118651,85104,1017,527
+"31049",5,"524210",78,0,2013,2,"","Deuel County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,17,15,15,112155,23025,358,551
+"31049",5,"524210",78,0,2013,3,"","Deuel County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,15,15,15,108291,3845,161,555
+"31049",5,"53",74,0,2013,1,"N","Deuel County, Nebraska","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"53",74,0,2013,2,"N","Deuel County, Nebraska","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"53",74,0,2013,3,"N","Deuel County, Nebraska","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"531",75,0,2013,1,"N","Deuel County, Nebraska","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"531",75,0,2013,2,"N","Deuel County, Nebraska","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"531",75,0,2013,3,"N","Deuel County, Nebraska","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"5311",76,0,2013,1,"N","Deuel County, Nebraska","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5311",76,0,2013,2,"N","Deuel County, Nebraska","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5311",76,0,2013,3,"N","Deuel County, Nebraska","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"53112",77,0,2013,1,"N","Deuel County, Nebraska","Private","Lessors of nonresidential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"53112",77,0,2013,2,"N","Deuel County, Nebraska","Private","Lessors of nonresidential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"53112",77,0,2013,3,"N","Deuel County, Nebraska","Private","Lessors of nonresidential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"531120",78,0,2013,1,"N","Deuel County, Nebraska","Private","Lessors of nonresidential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"531120",78,0,2013,2,"N","Deuel County, Nebraska","Private","Lessors of nonresidential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"531120",78,0,2013,3,"N","Deuel County, Nebraska","Private","Lessors of nonresidential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5312",76,0,2013,1,"N","Deuel County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5312",76,0,2013,2,"N","Deuel County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5312",76,0,2013,3,"N","Deuel County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"53121",77,0,2013,1,"N","Deuel County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"53121",77,0,2013,2,"N","Deuel County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"53121",77,0,2013,3,"N","Deuel County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"531210",78,0,2013,1,"N","Deuel County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"531210",78,0,2013,2,"N","Deuel County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"531210",78,0,2013,3,"N","Deuel County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"54",74,0,2013,1,"","Deuel County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,5,5,5,35888,26439,470,552
+"31049",5,"54",74,0,2013,2,"","Deuel County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,5,5,5,34190,6532,0,526
+"31049",5,"54",74,0,2013,3,"","Deuel County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,5,5,5,41869,5882,0,644
+"31049",5,"541",75,0,2013,1,"","Deuel County, Nebraska","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,5,5,35888,26439,470,552
+"31049",5,"541",75,0,2013,2,"","Deuel County, Nebraska","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,5,5,34190,6532,0,526
+"31049",5,"541",75,0,2013,3,"","Deuel County, Nebraska","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,5,5,41869,5882,0,644
+"31049",5,"5411",76,0,2013,1,"N","Deuel County, Nebraska","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5411",76,0,2013,2,"N","Deuel County, Nebraska","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5411",76,0,2013,3,"N","Deuel County, Nebraska","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"54111",77,0,2013,1,"N","Deuel County, Nebraska","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"54111",77,0,2013,2,"N","Deuel County, Nebraska","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"54111",77,0,2013,3,"N","Deuel County, Nebraska","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"541110",78,0,2013,1,"N","Deuel County, Nebraska","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"541110",78,0,2013,2,"N","Deuel County, Nebraska","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"541110",78,0,2013,3,"N","Deuel County, Nebraska","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5413",76,0,2013,1,"N","Deuel County, Nebraska","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5413",76,0,2013,2,"N","Deuel County, Nebraska","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5413",76,0,2013,3,"N","Deuel County, Nebraska","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"54137",77,0,2013,1,"N","Deuel County, Nebraska","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"54137",77,0,2013,2,"N","Deuel County, Nebraska","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"54137",77,0,2013,3,"N","Deuel County, Nebraska","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"541370",78,0,2013,1,"N","Deuel County, Nebraska","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"541370",78,0,2013,2,"N","Deuel County, Nebraska","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"541370",78,0,2013,3,"N","Deuel County, Nebraska","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5416",76,0,2013,1,"N","Deuel County, Nebraska","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5416",76,0,2013,2,"N","Deuel County, Nebraska","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5416",76,0,2013,3,"N","Deuel County, Nebraska","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"54161",77,0,2013,1,"N","Deuel County, Nebraska","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"54161",77,0,2013,2,"N","Deuel County, Nebraska","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"54161",77,0,2013,3,"N","Deuel County, Nebraska","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"541613",78,0,2013,1,"N","Deuel County, Nebraska","Private","Marketing consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"541613",78,0,2013,2,"N","Deuel County, Nebraska","Private","Marketing consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"541613",78,0,2013,3,"N","Deuel County, Nebraska","Private","Marketing consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"56",74,0,2013,1,"N","Deuel County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"56",74,0,2013,2,"N","Deuel County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"56",74,0,2013,3,"N","Deuel County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"561",75,0,2013,1,"N","Deuel County, Nebraska","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"561",75,0,2013,2,"N","Deuel County, Nebraska","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"561",75,0,2013,3,"N","Deuel County, Nebraska","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5613",76,0,2013,1,"N","Deuel County, Nebraska","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5613",76,0,2013,2,"-","Deuel County, Nebraska","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31049",5,"5613",76,0,2013,3,"-","Deuel County, Nebraska","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31049",5,"56132",77,0,2013,1,"N","Deuel County, Nebraska","Private","Temporary help services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"56132",77,0,2013,2,"-","Deuel County, Nebraska","Private","Temporary help services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31049",5,"56132",77,0,2013,3,"-","Deuel County, Nebraska","Private","Temporary help services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31049",5,"561320",78,0,2013,1,"N","Deuel County, Nebraska","Private","Temporary help services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"561320",78,0,2013,2,"-","Deuel County, Nebraska","Private","Temporary help services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31049",5,"561320",78,0,2013,3,"-","Deuel County, Nebraska","Private","Temporary help services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31049",5,"5617",76,0,2013,1,"N","Deuel County, Nebraska","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5617",76,0,2013,2,"N","Deuel County, Nebraska","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"5617",76,0,2013,3,"N","Deuel County, Nebraska","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"56173",77,0,2013,1,"N","Deuel County, Nebraska","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"56173",77,0,2013,2,"N","Deuel County, Nebraska","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"56173",77,0,2013,3,"N","Deuel County, Nebraska","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"561730",78,0,2013,1,"N","Deuel County, Nebraska","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"561730",78,0,2013,2,"N","Deuel County, Nebraska","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"561730",78,0,2013,3,"N","Deuel County, Nebraska","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"62",74,0,2013,1,"","Deuel County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",11,68,74,68,380002,360709,6659,418
+"31049",5,"62",74,0,2013,2,"","Deuel County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",11,76,74,75,411220,183528,3813,422
+"31049",5,"62",74,0,2013,3,"","Deuel County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",12,75,73,58,421149,146063,3831,472
+"31049",5,"621",75,0,2013,1,"N","Deuel County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"621",75,0,2013,2,"N","Deuel County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"621",75,0,2013,3,"N","Deuel County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"6212",76,0,2013,1,"N","Deuel County, Nebraska","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"6212",76,0,2013,2,"N","Deuel County, Nebraska","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"6212",76,0,2013,3,"N","Deuel County, Nebraska","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"62121",77,0,2013,1,"N","Deuel County, Nebraska","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"62121",77,0,2013,2,"N","Deuel County, Nebraska","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"62121",77,0,2013,3,"N","Deuel County, Nebraska","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"621210",78,0,2013,1,"N","Deuel County, Nebraska","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"621210",78,0,2013,2,"N","Deuel County, Nebraska","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"621210",78,0,2013,3,"N","Deuel County, Nebraska","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"6216",76,0,2013,1,"N","Deuel County, Nebraska","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"6216",76,0,2013,2,"N","Deuel County, Nebraska","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"6216",76,0,2013,3,"N","Deuel County, Nebraska","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"62161",77,0,2013,1,"N","Deuel County, Nebraska","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"62161",77,0,2013,2,"N","Deuel County, Nebraska","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"62161",77,0,2013,3,"N","Deuel County, Nebraska","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"621610",78,0,2013,1,"N","Deuel County, Nebraska","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"621610",78,0,2013,2,"N","Deuel County, Nebraska","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"621610",78,0,2013,3,"N","Deuel County, Nebraska","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"623",75,0,2013,1,"N","Deuel County, Nebraska","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"623",75,0,2013,2,"N","Deuel County, Nebraska","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"623",75,0,2013,3,"N","Deuel County, Nebraska","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"6231",76,0,2013,1,"N","Deuel County, Nebraska","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"6231",76,0,2013,2,"N","Deuel County, Nebraska","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"6231",76,0,2013,3,"N","Deuel County, Nebraska","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"62311",77,0,2013,1,"N","Deuel County, Nebraska","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"62311",77,0,2013,2,"N","Deuel County, Nebraska","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"62311",77,0,2013,3,"N","Deuel County, Nebraska","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"623110",78,0,2013,1,"N","Deuel County, Nebraska","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"623110",78,0,2013,2,"N","Deuel County, Nebraska","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"623110",78,0,2013,3,"N","Deuel County, Nebraska","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"624",75,0,2013,1,"","Deuel County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,4,5,4,19398,19398,326,344
+"31049",5,"624",75,0,2013,2,"","Deuel County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,6,6,6,24692,12297,206,317
+"31049",5,"624",75,0,2013,3,"","Deuel County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,5,6,5,24765,8617,145,357
+"31049",5,"6241",76,0,2013,1,"","Deuel County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,4,5,4,19398,19398,326,344
+"31049",5,"6241",76,0,2013,2,"","Deuel County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,6,6,6,24692,12297,206,317
+"31049",5,"6241",76,0,2013,3,"","Deuel County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,5,6,5,24765,8617,145,357
+"31049",5,"62412",77,0,2013,1,"","Deuel County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",8,4,5,4,19398,19398,326,344
+"31049",5,"62412",77,0,2013,2,"","Deuel County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",8,6,6,6,24692,12297,206,317
+"31049",5,"62412",77,0,2013,3,"","Deuel County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,5,6,5,24765,8617,145,357
+"31049",5,"624120",78,0,2013,1,"","Deuel County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",8,4,5,4,19398,19398,326,344
+"31049",5,"624120",78,0,2013,2,"","Deuel County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",8,6,6,6,24692,12297,206,317
+"31049",5,"624120",78,0,2013,3,"","Deuel County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",9,5,6,5,24765,8617,145,357
+"31049",5,"71",74,0,2013,1,"N","Deuel County, Nebraska","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"71",74,0,2013,2,"N","Deuel County, Nebraska","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"71",74,0,2013,3,"N","Deuel County, Nebraska","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"711",75,0,2013,1,"N","Deuel County, Nebraska","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"711",75,0,2013,2,"N","Deuel County, Nebraska","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"711",75,0,2013,3,"N","Deuel County, Nebraska","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"7115",76,0,2013,1,"N","Deuel County, Nebraska","Private","Independent artists, writers, and performers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"7115",76,0,2013,2,"N","Deuel County, Nebraska","Private","Independent artists, writers, and performers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"7115",76,0,2013,3,"N","Deuel County, Nebraska","Private","Independent artists, writers, and performers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"71151",77,0,2013,1,"N","Deuel County, Nebraska","Private","Independent artists, writers, and performers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"71151",77,0,2013,2,"N","Deuel County, Nebraska","Private","Independent artists, writers, and performers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"71151",77,0,2013,3,"N","Deuel County, Nebraska","Private","Independent artists, writers, and performers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"711510",78,0,2013,1,"N","Deuel County, Nebraska","Private","Independent artists, writers, and performers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"711510",78,0,2013,2,"N","Deuel County, Nebraska","Private","Independent artists, writers, and performers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"711510",78,0,2013,3,"N","Deuel County, Nebraska","Private","Independent artists, writers, and performers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"72",74,0,2013,1,"N","Deuel County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31049",5,"72",74,0,2013,2,"N","Deuel County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31049",5,"72",74,0,2013,3,"N","Deuel County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31049",5,"721",75,0,2013,1,"N","Deuel County, Nebraska","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"721",75,0,2013,2,"N","Deuel County, Nebraska","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"721",75,0,2013,3,"N","Deuel County, Nebraska","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"7211",76,0,2013,1,"N","Deuel County, Nebraska","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"7211",76,0,2013,2,"N","Deuel County, Nebraska","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"7211",76,0,2013,3,"N","Deuel County, Nebraska","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"72111",77,0,2013,1,"N","Deuel County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"72111",77,0,2013,2,"N","Deuel County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"72111",77,0,2013,3,"N","Deuel County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"721110",78,0,2013,1,"N","Deuel County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"721110",78,0,2013,2,"N","Deuel County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"721110",78,0,2013,3,"N","Deuel County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"722",75,0,2013,1,"","Deuel County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,49,51,48,170258,161487,968,265
+"31049",5,"722",75,0,2013,2,"","Deuel County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,48,48,58,232200,175179,1161,348
+"31049",5,"722",75,0,2013,3,"","Deuel County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,56,57,55,240148,123382,1002,330
+"31049",5,"7224",76,0,2013,1,"N","Deuel County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"7224",76,0,2013,2,"N","Deuel County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"7224",76,0,2013,3,"N","Deuel County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"72241",77,0,2013,1,"N","Deuel County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"72241",77,0,2013,2,"N","Deuel County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"72241",77,0,2013,3,"N","Deuel County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"722410",78,0,2013,1,"N","Deuel County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"722410",78,0,2013,2,"N","Deuel County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"722410",78,0,2013,3,"N","Deuel County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"7225",76,0,2013,1,"N","Deuel County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",5,"7225",76,0,2013,2,"N","Deuel County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31049",5,"7225",76,0,2013,3,"N","Deuel County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31049",5,"72251",77,0,2013,1,"N","Deuel County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",5,"72251",77,0,2013,2,"N","Deuel County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31049",5,"72251",77,0,2013,3,"N","Deuel County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31049",5,"722511",78,0,2013,1,"N","Deuel County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31049",5,"722511",78,0,2013,2,"","Deuel County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,48,48,55,228314,171293,1096,349
+"31049",5,"722511",78,0,2013,3,"","Deuel County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,53,54,52,227529,110763,790,330
+"31049",5,"722513",78,0,2013,1,"-","Deuel County, Nebraska","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31049",5,"722513",78,0,2013,2,"N","Deuel County, Nebraska","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"722513",78,0,2013,3,"N","Deuel County, Nebraska","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"81",74,0,2013,1,"","Deuel County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,29,30,30,138533,126082,3056,359
+"31049",5,"81",74,0,2013,2,"","Deuel County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,27,23,24,156442,68689,1768,488
+"31049",5,"81",74,0,2013,3,"","Deuel County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,24,14,24,139645,34047,866,520
+"31049",5,"811",75,0,2013,1,"N","Deuel County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",5,"811",75,0,2013,2,"N","Deuel County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",5,"811",75,0,2013,3,"N","Deuel County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31049",5,"8111",76,0,2013,1,"N","Deuel County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"8111",76,0,2013,2,"N","Deuel County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"8111",76,0,2013,3,"N","Deuel County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31049",5,"81111",77,0,2013,1,"N","Deuel County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"81111",77,0,2013,2,"N","Deuel County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"81111",77,0,2013,3,"N","Deuel County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"811111",78,0,2013,1,"N","Deuel County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"811111",78,0,2013,2,"N","Deuel County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"811111",78,0,2013,3,"N","Deuel County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"81119",77,0,2013,1,"N","Deuel County, Nebraska","Private","Other automotive repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"81119",77,0,2013,2,"N","Deuel County, Nebraska","Private","Other automotive repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"81119",77,0,2013,3,"N","Deuel County, Nebraska","Private","Other automotive repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"811192",78,0,2013,1,"N","Deuel County, Nebraska","Private","Car washes","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"811192",78,0,2013,2,"N","Deuel County, Nebraska","Private","Car washes","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"811192",78,0,2013,3,"N","Deuel County, Nebraska","Private","Car washes","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"8114",76,0,2013,1,"N","Deuel County, Nebraska","Private","Household goods repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"8114",76,0,2013,2,"N","Deuel County, Nebraska","Private","Household goods repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"8114",76,0,2013,3,"N","Deuel County, Nebraska","Private","Household goods repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"81149",77,0,2013,1,"N","Deuel County, Nebraska","Private","Other household goods repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"81149",77,0,2013,2,"N","Deuel County, Nebraska","Private","Other household goods repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"81149",77,0,2013,3,"N","Deuel County, Nebraska","Private","Other household goods repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"811490",78,0,2013,1,"N","Deuel County, Nebraska","Private","Other household goods repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"811490",78,0,2013,2,"N","Deuel County, Nebraska","Private","Other household goods repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"811490",78,0,2013,3,"N","Deuel County, Nebraska","Private","Other household goods repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"814",75,0,2013,1,"N","Deuel County, Nebraska","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"814",75,0,2013,2,"N","Deuel County, Nebraska","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"814",75,0,2013,3,"N","Deuel County, Nebraska","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"8141",76,0,2013,1,"N","Deuel County, Nebraska","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"8141",76,0,2013,2,"N","Deuel County, Nebraska","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"8141",76,0,2013,3,"N","Deuel County, Nebraska","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"81411",77,0,2013,1,"N","Deuel County, Nebraska","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"81411",77,0,2013,2,"N","Deuel County, Nebraska","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"81411",77,0,2013,3,"N","Deuel County, Nebraska","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"814110",78,0,2013,1,"N","Deuel County, Nebraska","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"814110",78,0,2013,2,"N","Deuel County, Nebraska","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31049",5,"814110",78,0,2013,3,"N","Deuel County, Nebraska","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

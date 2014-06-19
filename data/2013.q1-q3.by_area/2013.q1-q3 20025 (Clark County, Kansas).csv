@@ -1,0 +1,824 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"20025",0,"10",70,0,2013,1,"","Clark County, Kansas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",86,731,716,743,5306634,4600447,38309,559
+"20025",0,"10",70,0,2013,2,"","Clark County, Kansas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",87,767,789,809,5605690,3649606,21130,547
+"20025",0,"10",70,0,2013,3,"","Clark County, Kansas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",88,728,720,752,5445590,3335914,16559,571
+"20025",1,"10",71,0,2013,1,"","Clark County, Kansas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,12,8,14,94209,0,0,639
+"20025",1,"10",71,0,2013,2,"","Clark County, Kansas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,7,13,8,90796,0,0,748
+"20025",1,"10",71,0,2013,3,"","Clark County, Kansas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,13,8,12,94028,0,0,658
+"20025",1,"102",72,0,2013,1,"","Clark County, Kansas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,12,8,14,94209,0,0,639
+"20025",1,"102",72,0,2013,2,"","Clark County, Kansas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,7,13,8,90796,0,0,748
+"20025",1,"102",72,0,2013,3,"","Clark County, Kansas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,13,8,12,94028,0,0,658
+"20025",1,"1021",73,0,2013,1,"","Clark County, Kansas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,4,5,5,60292,0,0,994
+"20025",1,"1021",73,0,2013,2,"","Clark County, Kansas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,4,5,5,50746,0,0,836
+"20025",1,"1021",73,0,2013,3,"","Clark County, Kansas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,5,5,5,54254,0,0,835
+"20025",1,"1028",73,0,2013,1,"","Clark County, Kansas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,8,3,9,33917,0,0,391
+"20025",1,"1028",73,0,2013,2,"","Clark County, Kansas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,3,8,3,40050,0,0,660
+"20025",1,"1028",73,0,2013,3,"","Clark County, Kansas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,8,3,7,39774,0,0,510
+"20025",1,"48-49",74,0,2013,1,"","Clark County, Kansas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,4,5,5,60292,0,0,994
+"20025",1,"48-49",74,0,2013,2,"","Clark County, Kansas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,4,5,5,50746,0,0,836
+"20025",1,"48-49",74,0,2013,3,"","Clark County, Kansas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,5,5,5,54254,0,0,835
+"20025",1,"491",75,0,2013,1,"","Clark County, Kansas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,4,5,5,60292,0,0,994
+"20025",1,"491",75,0,2013,2,"","Clark County, Kansas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,4,5,5,50746,0,0,836
+"20025",1,"491",75,0,2013,3,"","Clark County, Kansas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,5,5,54254,0,0,835
+"20025",1,"4911",76,0,2013,1,"","Clark County, Kansas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,4,5,5,60292,0,0,994
+"20025",1,"4911",76,0,2013,2,"","Clark County, Kansas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,4,5,5,50746,0,0,836
+"20025",1,"4911",76,0,2013,3,"","Clark County, Kansas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,5,5,5,54254,0,0,835
+"20025",1,"49111",77,0,2013,1,"","Clark County, Kansas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,4,5,5,60292,0,0,994
+"20025",1,"49111",77,0,2013,2,"","Clark County, Kansas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,4,5,5,50746,0,0,836
+"20025",1,"49111",77,0,2013,3,"","Clark County, Kansas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,5,5,5,54254,0,0,835
+"20025",1,"491110",78,0,2013,1,"","Clark County, Kansas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,4,5,5,60292,0,0,994
+"20025",1,"491110",78,0,2013,2,"","Clark County, Kansas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,4,5,5,50746,0,0,836
+"20025",1,"491110",78,0,2013,3,"","Clark County, Kansas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,5,5,5,54254,0,0,835
+"20025",1,"92",74,0,2013,1,"","Clark County, Kansas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,8,3,9,33917,0,0,391
+"20025",1,"92",74,0,2013,2,"","Clark County, Kansas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,3,8,3,40050,0,0,660
+"20025",1,"92",74,0,2013,3,"","Clark County, Kansas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,8,3,7,39774,0,0,510
+"20025",1,"926",75,0,2013,1,"","Clark County, Kansas","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,8,3,9,33917,0,0,391
+"20025",1,"926",75,0,2013,2,"","Clark County, Kansas","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,3,8,3,40050,0,0,660
+"20025",1,"926",75,0,2013,3,"","Clark County, Kansas","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,8,3,7,39774,0,0,510
+"20025",1,"9261",76,0,2013,1,"","Clark County, Kansas","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,8,3,9,33917,0,0,391
+"20025",1,"9261",76,0,2013,2,"","Clark County, Kansas","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,3,8,3,40050,0,0,660
+"20025",1,"9261",76,0,2013,3,"","Clark County, Kansas","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,8,3,7,39774,0,0,510
+"20025",1,"92611",77,0,2013,1,"","Clark County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",1,"92611",77,0,2013,2,"","Clark County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",1,"92611",77,0,2013,3,"","Clark County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",1,"926110",78,0,2013,1,"","Clark County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",1,"926110",78,0,2013,2,"","Clark County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",1,"926110",78,0,2013,3,"","Clark County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",1,"92614",77,0,2013,1,"","Clark County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,8,3,9,33917,0,0,391
+"20025",1,"92614",77,0,2013,2,"","Clark County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,3,8,3,40050,0,0,660
+"20025",1,"92614",77,0,2013,3,"","Clark County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,8,3,7,39774,0,0,510
+"20025",1,"926140",78,0,2013,1,"","Clark County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,8,3,9,33917,0,0,391
+"20025",1,"926140",78,0,2013,2,"","Clark County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,3,8,3,40050,0,0,660
+"20025",1,"926140",78,0,2013,3,"","Clark County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,8,3,7,39774,0,0,510
+"20025",2,"10",71,0,2013,1,"","Clark County, Kansas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,15,15,15,117240,0,0,601
+"20025",2,"10",71,0,2013,2,"","Clark County, Kansas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,15,15,16,100314,0,0,503
+"20025",2,"10",71,0,2013,3,"","Clark County, Kansas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,16,16,16,116144,0,0,558
+"20025",2,"102",72,0,2013,1,"","Clark County, Kansas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,15,15,15,117240,0,0,601
+"20025",2,"102",72,0,2013,2,"","Clark County, Kansas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,15,15,16,100314,0,0,503
+"20025",2,"102",72,0,2013,3,"","Clark County, Kansas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,16,16,16,116144,0,0,558
+"20025",2,"1025",73,0,2013,1,"N","Clark County, Kansas","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"1025",73,0,2013,2,"N","Clark County, Kansas","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"1025",73,0,2013,3,"N","Clark County, Kansas","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"1028",73,0,2013,1,"N","Clark County, Kansas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",2,"1028",73,0,2013,2,"N","Clark County, Kansas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",2,"1028",73,0,2013,3,"N","Clark County, Kansas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",2,"61",74,0,2013,1,"N","Clark County, Kansas","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"61",74,0,2013,2,"N","Clark County, Kansas","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"61",74,0,2013,3,"N","Clark County, Kansas","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"611",75,0,2013,1,"N","Clark County, Kansas","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"611",75,0,2013,2,"N","Clark County, Kansas","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"611",75,0,2013,3,"N","Clark County, Kansas","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"6116",76,0,2013,1,"N","Clark County, Kansas","State Government","Other schools and instruction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"6116",76,0,2013,2,"N","Clark County, Kansas","State Government","Other schools and instruction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"6116",76,0,2013,3,"N","Clark County, Kansas","State Government","Other schools and instruction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"61169",77,0,2013,1,"N","Clark County, Kansas","State Government","All other schools and instruction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"61169",77,0,2013,2,"N","Clark County, Kansas","State Government","All other schools and instruction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"61169",77,0,2013,3,"N","Clark County, Kansas","State Government","All other schools and instruction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"611699",78,0,2013,1,"N","Clark County, Kansas","State Government","Miscellaneous schools and instruction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"611699",78,0,2013,2,"N","Clark County, Kansas","State Government","Miscellaneous schools and instruction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"611699",78,0,2013,3,"N","Clark County, Kansas","State Government","Miscellaneous schools and instruction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"92",74,0,2013,1,"N","Clark County, Kansas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",2,"92",74,0,2013,2,"N","Clark County, Kansas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",2,"92",74,0,2013,3,"N","Clark County, Kansas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",2,"922",75,0,2013,1,"N","Clark County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",2,"922",75,0,2013,2,"N","Clark County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",2,"922",75,0,2013,3,"N","Clark County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",2,"9221",76,0,2013,1,"N","Clark County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",2,"9221",76,0,2013,2,"N","Clark County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",2,"9221",76,0,2013,3,"N","Clark County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",2,"92212",77,0,2013,1,"N","Clark County, Kansas","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"92212",77,0,2013,2,"N","Clark County, Kansas","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"92212",77,0,2013,3,"N","Clark County, Kansas","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"922120",78,0,2013,1,"N","Clark County, Kansas","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"922120",78,0,2013,2,"N","Clark County, Kansas","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"922120",78,0,2013,3,"N","Clark County, Kansas","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"92213",77,0,2013,1,"N","Clark County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"92213",77,0,2013,2,"N","Clark County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"92213",77,0,2013,3,"N","Clark County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"922130",78,0,2013,1,"N","Clark County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"922130",78,0,2013,2,"N","Clark County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"922130",78,0,2013,3,"N","Clark County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"924",75,0,2013,1,"N","Clark County, Kansas","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"924",75,0,2013,2,"N","Clark County, Kansas","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"924",75,0,2013,3,"N","Clark County, Kansas","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"9241",76,0,2013,1,"N","Clark County, Kansas","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"9241",76,0,2013,2,"N","Clark County, Kansas","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"9241",76,0,2013,3,"N","Clark County, Kansas","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"92412",77,0,2013,1,"N","Clark County, Kansas","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"92412",77,0,2013,2,"N","Clark County, Kansas","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"92412",77,0,2013,3,"N","Clark County, Kansas","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"924120",78,0,2013,1,"N","Clark County, Kansas","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"924120",78,0,2013,2,"N","Clark County, Kansas","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"924120",78,0,2013,3,"N","Clark County, Kansas","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"926",75,0,2013,1,"N","Clark County, Kansas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"926",75,0,2013,2,"N","Clark County, Kansas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"926",75,0,2013,3,"N","Clark County, Kansas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"9261",76,0,2013,1,"N","Clark County, Kansas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"9261",76,0,2013,2,"N","Clark County, Kansas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"9261",76,0,2013,3,"N","Clark County, Kansas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"92612",77,0,2013,1,"N","Clark County, Kansas","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"92612",77,0,2013,2,"N","Clark County, Kansas","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"92612",77,0,2013,3,"N","Clark County, Kansas","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"926120",78,0,2013,1,"N","Clark County, Kansas","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"926120",78,0,2013,2,"N","Clark County, Kansas","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",2,"926120",78,0,2013,3,"N","Clark County, Kansas","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"10",71,0,2013,1,"","Clark County, Kansas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",14,422,410,430,3122080,3113151,9509,571
+"20025",3,"10",71,0,2013,2,"","Clark County, Kansas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",14,417,440,442,3186988,3172922,9593,566
+"20025",3,"10",71,0,2013,3,"","Clark County, Kansas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",14,380,379,409,3053584,3043753,9884,603
+"20025",3,"102",72,0,2013,1,"","Clark County, Kansas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",14,422,410,430,3122080,3113151,9509,571
+"20025",3,"102",72,0,2013,2,"","Clark County, Kansas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",14,417,440,442,3186988,3172922,9593,566
+"20025",3,"102",72,0,2013,3,"","Clark County, Kansas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",14,380,379,409,3053584,3043753,9884,603
+"20025",3,"1022",73,0,2013,1,"N","Clark County, Kansas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"1022",73,0,2013,2,"N","Clark County, Kansas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"1022",73,0,2013,3,"N","Clark County, Kansas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"1025",73,0,2013,1,"","Clark County, Kansas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,346,335,356,2750636,2750636,7415,612
+"20025",3,"1025",73,0,2013,2,"","Clark County, Kansas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,342,351,345,2800379,2800379,7526,623
+"20025",3,"1025",73,0,2013,3,"","Clark County, Kansas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,281,286,321,2606555,2606555,7439,677
+"20025",3,"1026",73,0,2013,1,"N","Clark County, Kansas","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"1026",73,0,2013,2,"N","Clark County, Kansas","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"1026",73,0,2013,3,"N","Clark County, Kansas","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"1027",73,0,2013,1,"N","Clark County, Kansas","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"1027",73,0,2013,2,"N","Clark County, Kansas","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"1027",73,0,2013,3,"N","Clark County, Kansas","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"1028",73,0,2013,1,"","Clark County, Kansas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,69,68,67,359290,359290,2090,406
+"20025",3,"1028",73,0,2013,2,"","Clark County, Kansas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,64,78,86,372537,367881,2062,377
+"20025",3,"1028",73,0,2013,3,"","Clark County, Kansas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,86,81,74,432509,432509,2440,414
+"20025",3,"51",74,0,2013,1,"N","Clark County, Kansas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"51",74,0,2013,2,"N","Clark County, Kansas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"51",74,0,2013,3,"N","Clark County, Kansas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"519",75,0,2013,1,"N","Clark County, Kansas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"519",75,0,2013,2,"N","Clark County, Kansas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"519",75,0,2013,3,"N","Clark County, Kansas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"5191",76,0,2013,1,"N","Clark County, Kansas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"5191",76,0,2013,2,"N","Clark County, Kansas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"5191",76,0,2013,3,"N","Clark County, Kansas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"51912",77,0,2013,1,"N","Clark County, Kansas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"51912",77,0,2013,2,"N","Clark County, Kansas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"51912",77,0,2013,3,"N","Clark County, Kansas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"519120",78,0,2013,1,"N","Clark County, Kansas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"519120",78,0,2013,2,"N","Clark County, Kansas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"519120",78,0,2013,3,"N","Clark County, Kansas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"61",74,0,2013,1,"N","Clark County, Kansas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"61",74,0,2013,2,"N","Clark County, Kansas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"61",74,0,2013,3,"N","Clark County, Kansas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"611",75,0,2013,1,"N","Clark County, Kansas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"611",75,0,2013,2,"N","Clark County, Kansas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"611",75,0,2013,3,"N","Clark County, Kansas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"6111",76,0,2013,1,"N","Clark County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"6111",76,0,2013,2,"N","Clark County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"6111",76,0,2013,3,"N","Clark County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"61111",77,0,2013,1,"N","Clark County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"61111",77,0,2013,2,"N","Clark County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"61111",77,0,2013,3,"N","Clark County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"611110",78,0,2013,1,"N","Clark County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"611110",78,0,2013,2,"N","Clark County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"611110",78,0,2013,3,"N","Clark County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"62",74,0,2013,1,"N","Clark County, Kansas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"62",74,0,2013,2,"N","Clark County, Kansas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"62",74,0,2013,3,"N","Clark County, Kansas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"622",75,0,2013,1,"N","Clark County, Kansas","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"622",75,0,2013,2,"N","Clark County, Kansas","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"622",75,0,2013,3,"N","Clark County, Kansas","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"6221",76,0,2013,1,"N","Clark County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"6221",76,0,2013,2,"N","Clark County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"6221",76,0,2013,3,"N","Clark County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"62211",77,0,2013,1,"N","Clark County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"62211",77,0,2013,2,"N","Clark County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"62211",77,0,2013,3,"N","Clark County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"622110",78,0,2013,1,"N","Clark County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"622110",78,0,2013,2,"N","Clark County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"622110",78,0,2013,3,"N","Clark County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",3,"71",74,0,2013,1,"N","Clark County, Kansas","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"71",74,0,2013,2,"N","Clark County, Kansas","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"71",74,0,2013,3,"N","Clark County, Kansas","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"713",75,0,2013,1,"N","Clark County, Kansas","Local Government","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"713",75,0,2013,2,"N","Clark County, Kansas","Local Government","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"713",75,0,2013,3,"N","Clark County, Kansas","Local Government","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"7139",76,0,2013,1,"N","Clark County, Kansas","Local Government","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"7139",76,0,2013,2,"N","Clark County, Kansas","Local Government","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"7139",76,0,2013,3,"N","Clark County, Kansas","Local Government","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"71394",77,0,2013,1,"N","Clark County, Kansas","Local Government","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"71394",77,0,2013,2,"N","Clark County, Kansas","Local Government","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"71394",77,0,2013,3,"N","Clark County, Kansas","Local Government","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"713940",78,0,2013,1,"N","Clark County, Kansas","Local Government","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"713940",78,0,2013,2,"N","Clark County, Kansas","Local Government","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"713940",78,0,2013,3,"N","Clark County, Kansas","Local Government","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"81",74,0,2013,1,"N","Clark County, Kansas","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"81",74,0,2013,2,"N","Clark County, Kansas","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"81",74,0,2013,3,"N","Clark County, Kansas","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"812",75,0,2013,1,"N","Clark County, Kansas","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"812",75,0,2013,2,"N","Clark County, Kansas","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"812",75,0,2013,3,"N","Clark County, Kansas","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"8122",76,0,2013,1,"N","Clark County, Kansas","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"8122",76,0,2013,2,"N","Clark County, Kansas","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"8122",76,0,2013,3,"N","Clark County, Kansas","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"81222",77,0,2013,1,"N","Clark County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"81222",77,0,2013,2,"N","Clark County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"81222",77,0,2013,3,"N","Clark County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"812220",78,0,2013,1,"N","Clark County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"812220",78,0,2013,2,"N","Clark County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"812220",78,0,2013,3,"N","Clark County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"92",74,0,2013,1,"","Clark County, Kansas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,69,68,67,359290,359290,2090,406
+"20025",3,"92",74,0,2013,2,"","Clark County, Kansas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,64,78,86,372537,367881,2062,377
+"20025",3,"92",74,0,2013,3,"","Clark County, Kansas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,86,81,74,432509,432509,2440,414
+"20025",3,"921",75,0,2013,1,"","Clark County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,67,66,65,348605,348605,2075,406
+"20025",3,"921",75,0,2013,2,"","Clark County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,62,76,84,360806,360806,2053,375
+"20025",3,"921",75,0,2013,3,"","Clark County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,84,79,72,421448,421448,2425,414
+"20025",3,"9211",76,0,2013,1,"","Clark County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,67,66,65,348605,348605,2075,406
+"20025",3,"9211",76,0,2013,2,"","Clark County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,62,76,84,360806,360806,2053,375
+"20025",3,"9211",76,0,2013,3,"","Clark County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,84,79,72,421448,421448,2425,414
+"20025",3,"92114",77,0,2013,1,"","Clark County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,67,66,65,348605,348605,2075,406
+"20025",3,"92114",77,0,2013,2,"","Clark County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,62,76,84,360806,360806,2053,375
+"20025",3,"92114",77,0,2013,3,"","Clark County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,84,79,72,421448,421448,2425,414
+"20025",3,"921140",78,0,2013,1,"","Clark County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,67,66,65,348605,348605,2075,406
+"20025",3,"921140",78,0,2013,2,"","Clark County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,62,76,84,360806,360806,2053,375
+"20025",3,"921140",78,0,2013,3,"","Clark County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,84,79,72,421448,421448,2425,414
+"20025",3,"924",75,0,2013,1,"N","Clark County, Kansas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"924",75,0,2013,2,"N","Clark County, Kansas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"924",75,0,2013,3,"N","Clark County, Kansas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"9241",76,0,2013,1,"N","Clark County, Kansas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"9241",76,0,2013,2,"N","Clark County, Kansas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"9241",76,0,2013,3,"N","Clark County, Kansas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"92412",77,0,2013,1,"N","Clark County, Kansas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"92412",77,0,2013,2,"N","Clark County, Kansas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"92412",77,0,2013,3,"N","Clark County, Kansas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"924120",78,0,2013,1,"N","Clark County, Kansas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"924120",78,0,2013,2,"N","Clark County, Kansas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"924120",78,0,2013,3,"N","Clark County, Kansas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"926",75,0,2013,1,"N","Clark County, Kansas","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"926",75,0,2013,2,"N","Clark County, Kansas","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"926",75,0,2013,3,"N","Clark County, Kansas","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"9261",76,0,2013,1,"N","Clark County, Kansas","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"9261",76,0,2013,2,"N","Clark County, Kansas","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"9261",76,0,2013,3,"N","Clark County, Kansas","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"92614",77,0,2013,1,"N","Clark County, Kansas","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"92614",77,0,2013,2,"N","Clark County, Kansas","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"92614",77,0,2013,3,"N","Clark County, Kansas","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"926140",78,0,2013,1,"N","Clark County, Kansas","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"926140",78,0,2013,2,"N","Clark County, Kansas","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",3,"926140",78,0,2013,3,"N","Clark County, Kansas","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"10",71,0,2013,1,"","Clark County, Kansas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",62,282,283,284,1973105,1487296,28800,536
+"20025",5,"10",71,0,2013,2,"","Clark County, Kansas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",63,328,321,343,2227592,476684,11537,518
+"20025",5,"10",71,0,2013,3,"","Clark County, Kansas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",64,319,317,315,2181834,292161,6675,529
+"20025",5,"101",72,0,2013,1,"","Clark County, Kansas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",19,111,111,110,842421,657600,9037,586
+"20025",5,"101",72,0,2013,2,"","Clark County, Kansas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",20,143,143,147,1047579,168880,3412,558
+"20025",5,"101",72,0,2013,3,"","Clark County, Kansas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",20,126,126,128,1036733,139817,2388,630
+"20025",5,"1011",73,0,2013,1,"","Clark County, Kansas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",10,68,67,65,549415,397730,5614,634
+"20025",5,"1011",73,0,2013,2,"","Clark County, Kansas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",11,89,89,91,581678,77940,1525,499
+"20025",5,"1011",73,0,2013,3,"","Clark County, Kansas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",11,68,67,69,610582,61112,869,691
+"20025",5,"1012",73,0,2013,1,"N","Clark County, Kansas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"20025",5,"1012",73,0,2013,2,"N","Clark County, Kansas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"20025",5,"1012",73,0,2013,3,"N","Clark County, Kansas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"20025",5,"1013",73,0,2013,1,"N","Clark County, Kansas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"1013",73,0,2013,2,"N","Clark County, Kansas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"1013",73,0,2013,3,"N","Clark County, Kansas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"102",72,0,2013,1,"","Clark County, Kansas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",43,171,172,174,1130684,829696,19763,505
+"20025",5,"102",72,0,2013,2,"","Clark County, Kansas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",43,185,178,196,1180013,307804,8125,487
+"20025",5,"102",72,0,2013,3,"","Clark County, Kansas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",44,193,191,187,1145101,152344,4287,463
+"20025",5,"1021",73,0,2013,1,"","Clark County, Kansas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",16,80,82,83,484493,373607,8509,456
+"20025",5,"1021",73,0,2013,2,"","Clark County, Kansas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",16,79,75,76,491490,128771,2586,493
+"20025",5,"1021",73,0,2013,3,"","Clark County, Kansas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",16,81,79,76,459507,47118,975,449
+"20025",5,"1022",73,0,2013,1,"N","Clark County, Kansas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"1022",73,0,2013,2,"N","Clark County, Kansas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"1022",73,0,2013,3,"N","Clark County, Kansas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"1023",73,0,2013,1,"","Clark County, Kansas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",6,28,27,27,240744,168873,2560,678
+"20025",5,"1023",73,0,2013,2,"","Clark County, Kansas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",6,26,25,26,243237,31989,714,729
+"20025",5,"1023",73,0,2013,3,"","Clark County, Kansas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",6,27,27,26,251022,12784,327,724
+"20025",5,"1024",73,0,2013,1,"","Clark County, Kansas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",11,38,38,38,326512,231664,6578,661
+"20025",5,"1024",73,0,2013,2,"","Clark County, Kansas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",10,40,39,40,325462,66946,1905,631
+"20025",5,"1024",73,0,2013,3,"","Clark County, Kansas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",10,38,38,38,329888,38749,1012,668
+"20025",5,"1025",73,0,2013,1,"N","Clark County, Kansas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"1025",73,0,2013,2,"N","Clark County, Kansas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"1025",73,0,2013,3,"N","Clark County, Kansas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"1026",73,0,2013,1,"","Clark County, Kansas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",4,17,17,17,14835,14835,483,67
+"20025",5,"1026",73,0,2013,2,"","Clark County, Kansas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",5,30,30,43,42548,42548,1672,95
+"20025",5,"1026",73,0,2013,3,"","Clark County, Kansas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",6,39,39,39,33994,33994,1292,67
+"20025",5,"1027",73,0,2013,1,"","Clark County, Kansas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,6,6,7,24869,24869,915,302
+"20025",5,"1027",73,0,2013,2,"","Clark County, Kansas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,7,7,8,36598,17841,608,384
+"20025",5,"1027",73,0,2013,3,"","Clark County, Kansas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,6,6,6,27747,5309,99,356
+"20025",5,"11",74,0,2013,1,"N","Clark County, Kansas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"20025",5,"11",74,0,2013,2,"N","Clark County, Kansas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"20025",5,"11",74,0,2013,3,"N","Clark County, Kansas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"20025",5,"112",75,0,2013,1,"N","Clark County, Kansas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"20025",5,"112",75,0,2013,2,"N","Clark County, Kansas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"20025",5,"112",75,0,2013,3,"N","Clark County, Kansas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"20025",5,"1121",76,0,2013,1,"","Clark County, Kansas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,55,54,52,397438,316616,5132,570
+"20025",5,"1121",76,0,2013,2,"","Clark County, Kansas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,52,52,54,388388,51183,879,567
+"20025",5,"1121",76,0,2013,3,"","Clark County, Kansas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,50,49,51,428898,37116,583,660
+"20025",5,"11211",77,0,2013,1,"","Clark County, Kansas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,55,54,52,397438,316616,5132,570
+"20025",5,"11211",77,0,2013,2,"","Clark County, Kansas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,52,52,54,388388,51183,879,567
+"20025",5,"11211",77,0,2013,3,"","Clark County, Kansas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,50,49,51,428898,37116,583,660
+"20025",5,"112111",78,0,2013,1,"","Clark County, Kansas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,13,14,13,80936,67833,826,467
+"20025",5,"112111",78,0,2013,2,"","Clark County, Kansas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,13,13,15,84384,15705,285,475
+"20025",5,"112111",78,0,2013,3,"","Clark County, Kansas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,14,14,16,80695,14279,241,423
+"20025",5,"112112",78,0,2013,1,"","Clark County, Kansas","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,42,40,39,316502,248783,4306,604
+"20025",5,"112112",78,0,2013,2,"","Clark County, Kansas","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,39,39,39,304004,35478,594,600
+"20025",5,"112112",78,0,2013,3,"","Clark County, Kansas","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,36,35,35,348203,22837,342,758
+"20025",5,"1129",76,0,2013,1,"N","Clark County, Kansas","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"1129",76,0,2013,2,"N","Clark County, Kansas","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"1129",76,0,2013,3,"N","Clark County, Kansas","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"11299",77,0,2013,1,"N","Clark County, Kansas","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"11299",77,0,2013,2,"N","Clark County, Kansas","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"11299",77,0,2013,3,"N","Clark County, Kansas","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"112990",78,0,2013,1,"N","Clark County, Kansas","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"112990",78,0,2013,2,"N","Clark County, Kansas","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"112990",78,0,2013,3,"N","Clark County, Kansas","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"21",74,0,2013,1,"N","Clark County, Kansas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"21",74,0,2013,2,"N","Clark County, Kansas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"21",74,0,2013,3,"N","Clark County, Kansas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"213",75,0,2013,1,"N","Clark County, Kansas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"213",75,0,2013,2,"N","Clark County, Kansas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"213",75,0,2013,3,"N","Clark County, Kansas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"2131",76,0,2013,1,"N","Clark County, Kansas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"2131",76,0,2013,2,"N","Clark County, Kansas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"2131",76,0,2013,3,"N","Clark County, Kansas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"21311",77,0,2013,1,"N","Clark County, Kansas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"21311",77,0,2013,2,"N","Clark County, Kansas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"21311",77,0,2013,3,"N","Clark County, Kansas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"213112",78,0,2013,1,"N","Clark County, Kansas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"213112",78,0,2013,2,"N","Clark County, Kansas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"213112",78,0,2013,3,"N","Clark County, Kansas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"23",74,0,2013,1,"N","Clark County, Kansas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"20025",5,"23",74,0,2013,2,"N","Clark County, Kansas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"20025",5,"23",74,0,2013,3,"N","Clark County, Kansas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"20025",5,"236",75,0,2013,1,"N","Clark County, Kansas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"236",75,0,2013,2,"N","Clark County, Kansas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"236",75,0,2013,3,"N","Clark County, Kansas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"2361",76,0,2013,1,"N","Clark County, Kansas","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"2361",76,0,2013,2,"N","Clark County, Kansas","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"2361",76,0,2013,3,"N","Clark County, Kansas","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"23611",77,0,2013,1,"N","Clark County, Kansas","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"23611",77,0,2013,2,"N","Clark County, Kansas","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"23611",77,0,2013,3,"N","Clark County, Kansas","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"236118",78,0,2013,1,"N","Clark County, Kansas","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"236118",78,0,2013,2,"N","Clark County, Kansas","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"236118",78,0,2013,3,"N","Clark County, Kansas","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"237",75,0,2013,1,"N","Clark County, Kansas","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"237",75,0,2013,2,"N","Clark County, Kansas","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"237",75,0,2013,3,"N","Clark County, Kansas","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"2371",76,0,2013,1,"N","Clark County, Kansas","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"2371",76,0,2013,2,"N","Clark County, Kansas","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"2371",76,0,2013,3,"N","Clark County, Kansas","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"23712",77,0,2013,1,"N","Clark County, Kansas","Private","Oil and gas pipeline construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"23712",77,0,2013,2,"N","Clark County, Kansas","Private","Oil and gas pipeline construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"23712",77,0,2013,3,"N","Clark County, Kansas","Private","Oil and gas pipeline construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"237120",78,0,2013,1,"N","Clark County, Kansas","Private","Oil and gas pipeline construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"237120",78,0,2013,2,"N","Clark County, Kansas","Private","Oil and gas pipeline construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"237120",78,0,2013,3,"N","Clark County, Kansas","Private","Oil and gas pipeline construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"238",75,0,2013,1,"","Clark County, Kansas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,11,11,11,47896,40745,846,335
+"20025",5,"238",75,0,2013,2,"","Clark County, Kansas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,17,15,15,59521,29261,667,292
+"20025",5,"238",75,0,2013,3,"","Clark County, Kansas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,17,17,16,51740,13526,254,239
+"20025",5,"2382",76,0,2013,1,"N","Clark County, Kansas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",5,"2382",76,0,2013,2,"N","Clark County, Kansas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",5,"2382",76,0,2013,3,"N","Clark County, Kansas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",5,"23821",77,0,2013,1,"N","Clark County, Kansas","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"23821",77,0,2013,2,"N","Clark County, Kansas","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"23821",77,0,2013,3,"N","Clark County, Kansas","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"238212",78,0,2013,1,"N","Clark County, Kansas","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"238212",78,0,2013,2,"N","Clark County, Kansas","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"238212",78,0,2013,3,"N","Clark County, Kansas","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"23822",77,0,2013,1,"","Clark County, Kansas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,9,9,31379,30216,775,268
+"20025",5,"23822",77,0,2013,2,"","Clark County, Kansas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,12,10,10,39009,20770,647,281
+"20025",5,"23822",77,0,2013,3,"","Clark County, Kansas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,10,10,9,31295,7241,242,249
+"20025",5,"238221",78,0,2013,1,"","Clark County, Kansas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,9,9,31379,30216,775,268
+"20025",5,"238221",78,0,2013,2,"","Clark County, Kansas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,12,10,10,39009,20770,647,281
+"20025",5,"238221",78,0,2013,3,"","Clark County, Kansas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,10,10,9,31295,7241,242,249
+"20025",5,"2383",76,0,2013,1,"N","Clark County, Kansas","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"2383",76,0,2013,2,"N","Clark County, Kansas","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"2383",76,0,2013,3,"N","Clark County, Kansas","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"23832",77,0,2013,1,"N","Clark County, Kansas","Private","Painting and wall covering contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"23832",77,0,2013,2,"N","Clark County, Kansas","Private","Painting and wall covering contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"23832",77,0,2013,3,"N","Clark County, Kansas","Private","Painting and wall covering contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"238321",78,0,2013,1,"N","Clark County, Kansas","Private","Residential painting contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"238321",78,0,2013,2,"N","Clark County, Kansas","Private","Residential painting contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"238321",78,0,2013,3,"N","Clark County, Kansas","Private","Residential painting contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"31-33",74,0,2013,1,"N","Clark County, Kansas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"31-33",74,0,2013,2,"N","Clark County, Kansas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"31-33",74,0,2013,3,"N","Clark County, Kansas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"311",75,0,2013,1,"N","Clark County, Kansas","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"311",75,0,2013,2,"N","Clark County, Kansas","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"311",75,0,2013,3,"N","Clark County, Kansas","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"3111",76,0,2013,1,"N","Clark County, Kansas","Private","Animal food manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"3111",76,0,2013,2,"N","Clark County, Kansas","Private","Animal food manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"3111",76,0,2013,3,"N","Clark County, Kansas","Private","Animal food manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"31111",77,0,2013,1,"N","Clark County, Kansas","Private","Animal food manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"31111",77,0,2013,2,"N","Clark County, Kansas","Private","Animal food manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"31111",77,0,2013,3,"N","Clark County, Kansas","Private","Animal food manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"311119",78,0,2013,1,"N","Clark County, Kansas","Private","Other animal food manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"311119",78,0,2013,2,"N","Clark County, Kansas","Private","Other animal food manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"311119",78,0,2013,3,"N","Clark County, Kansas","Private","Other animal food manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"325",75,0,2013,1,"N","Clark County, Kansas","Private","Chemical manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"325",75,0,2013,2,"N","Clark County, Kansas","Private","Chemical manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"325",75,0,2013,3,"N","Clark County, Kansas","Private","Chemical manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"3251",76,0,2013,1,"N","Clark County, Kansas","Private","Basic chemical manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"3251",76,0,2013,2,"N","Clark County, Kansas","Private","Basic chemical manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"3251",76,0,2013,3,"N","Clark County, Kansas","Private","Basic chemical manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"32519",77,0,2013,1,"N","Clark County, Kansas","Private","Other basic organic chemical manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"32519",77,0,2013,2,"N","Clark County, Kansas","Private","Other basic organic chemical manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"32519",77,0,2013,3,"N","Clark County, Kansas","Private","Other basic organic chemical manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"325199",78,0,2013,1,"N","Clark County, Kansas","Private","All other basic organic chemical mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"325199",78,0,2013,2,"N","Clark County, Kansas","Private","All other basic organic chemical mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"325199",78,0,2013,3,"N","Clark County, Kansas","Private","All other basic organic chemical mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"42",74,0,2013,1,"","Clark County, Kansas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,15,15,14,154778,101979,674,812
+"20025",5,"42",74,0,2013,2,"","Clark County, Kansas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,14,14,15,159070,9956,66,854
+"20025",5,"42",74,0,2013,3,"","Clark County, Kansas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,16,14,13,157887,4665,24,847
+"20025",5,"424",75,0,2013,1,"N","Clark County, Kansas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"424",75,0,2013,2,"N","Clark County, Kansas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"424",75,0,2013,3,"N","Clark County, Kansas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"4245",76,0,2013,1,"N","Clark County, Kansas","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"4245",76,0,2013,2,"N","Clark County, Kansas","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"4245",76,0,2013,3,"N","Clark County, Kansas","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"42451",77,0,2013,1,"N","Clark County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"42451",77,0,2013,2,"N","Clark County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"42451",77,0,2013,3,"N","Clark County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"424510",78,0,2013,1,"N","Clark County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"424510",78,0,2013,2,"N","Clark County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"424510",78,0,2013,3,"N","Clark County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"4247",76,0,2013,1,"N","Clark County, Kansas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4247",76,0,2013,2,"N","Clark County, Kansas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4247",76,0,2013,3,"N","Clark County, Kansas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"42472",77,0,2013,1,"N","Clark County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"42472",77,0,2013,2,"N","Clark County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"42472",77,0,2013,3,"N","Clark County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"424720",78,0,2013,1,"N","Clark County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"424720",78,0,2013,2,"N","Clark County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"424720",78,0,2013,3,"N","Clark County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"425",75,0,2013,1,"N","Clark County, Kansas","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"425",75,0,2013,2,"N","Clark County, Kansas","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"425",75,0,2013,3,"N","Clark County, Kansas","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4251",76,0,2013,1,"N","Clark County, Kansas","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4251",76,0,2013,2,"N","Clark County, Kansas","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4251",76,0,2013,3,"N","Clark County, Kansas","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"42511",77,0,2013,1,"N","Clark County, Kansas","Private","Business to business electronic markets","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"42511",77,0,2013,2,"N","Clark County, Kansas","Private","Business to business electronic markets","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"42511",77,0,2013,3,"N","Clark County, Kansas","Private","Business to business electronic markets","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"425110",78,0,2013,1,"N","Clark County, Kansas","Private","Business to business electronic markets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"425110",78,0,2013,2,"N","Clark County, Kansas","Private","Business to business electronic markets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"425110",78,0,2013,3,"N","Clark County, Kansas","Private","Business to business electronic markets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"44-45",74,0,2013,1,"","Clark County, Kansas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,56,57,57,257050,202456,5068,349
+"20025",5,"44-45",74,0,2013,2,"","Clark County, Kansas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,55,53,56,290678,112286,2259,409
+"20025",5,"44-45",74,0,2013,3,"","Clark County, Kansas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,58,58,57,267157,36676,720,356
+"20025",5,"442",75,0,2013,1,"N","Clark County, Kansas","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"442",75,0,2013,2,"N","Clark County, Kansas","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"442",75,0,2013,3,"N","Clark County, Kansas","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4421",76,0,2013,1,"N","Clark County, Kansas","Private","Furniture stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4421",76,0,2013,2,"N","Clark County, Kansas","Private","Furniture stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4421",76,0,2013,3,"N","Clark County, Kansas","Private","Furniture stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"44211",77,0,2013,1,"N","Clark County, Kansas","Private","Furniture stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"44211",77,0,2013,2,"N","Clark County, Kansas","Private","Furniture stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"44211",77,0,2013,3,"N","Clark County, Kansas","Private","Furniture stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"442110",78,0,2013,1,"N","Clark County, Kansas","Private","Furniture stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"442110",78,0,2013,2,"N","Clark County, Kansas","Private","Furniture stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"442110",78,0,2013,3,"N","Clark County, Kansas","Private","Furniture stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"444",75,0,2013,1,"N","Clark County, Kansas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"444",75,0,2013,2,"N","Clark County, Kansas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"444",75,0,2013,3,"N","Clark County, Kansas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4441",76,0,2013,1,"N","Clark County, Kansas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4441",76,0,2013,2,"N","Clark County, Kansas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4441",76,0,2013,3,"N","Clark County, Kansas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"44411",77,0,2013,1,"N","Clark County, Kansas","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"44411",77,0,2013,2,"N","Clark County, Kansas","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"44411",77,0,2013,3,"N","Clark County, Kansas","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"444110",78,0,2013,1,"N","Clark County, Kansas","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"444110",78,0,2013,2,"N","Clark County, Kansas","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"444110",78,0,2013,3,"N","Clark County, Kansas","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"445",75,0,2013,1,"N","Clark County, Kansas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"445",75,0,2013,2,"N","Clark County, Kansas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"445",75,0,2013,3,"N","Clark County, Kansas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"4451",76,0,2013,1,"N","Clark County, Kansas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"4451",76,0,2013,2,"N","Clark County, Kansas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"4451",76,0,2013,3,"N","Clark County, Kansas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"44511",77,0,2013,1,"N","Clark County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"44511",77,0,2013,2,"N","Clark County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"44511",77,0,2013,3,"N","Clark County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"445110",78,0,2013,1,"N","Clark County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"445110",78,0,2013,2,"N","Clark County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"445110",78,0,2013,3,"N","Clark County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"446",75,0,2013,1,"N","Clark County, Kansas","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"446",75,0,2013,2,"N","Clark County, Kansas","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"446",75,0,2013,3,"N","Clark County, Kansas","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"4461",76,0,2013,1,"N","Clark County, Kansas","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"4461",76,0,2013,2,"N","Clark County, Kansas","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"4461",76,0,2013,3,"N","Clark County, Kansas","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"44611",77,0,2013,1,"N","Clark County, Kansas","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"44611",77,0,2013,2,"N","Clark County, Kansas","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"44611",77,0,2013,3,"N","Clark County, Kansas","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"446110",78,0,2013,1,"N","Clark County, Kansas","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"446110",78,0,2013,2,"N","Clark County, Kansas","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"446110",78,0,2013,3,"N","Clark County, Kansas","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"447",75,0,2013,1,"N","Clark County, Kansas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"447",75,0,2013,2,"N","Clark County, Kansas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"447",75,0,2013,3,"N","Clark County, Kansas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4471",76,0,2013,1,"N","Clark County, Kansas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4471",76,0,2013,2,"N","Clark County, Kansas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4471",76,0,2013,3,"N","Clark County, Kansas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"44711",77,0,2013,1,"N","Clark County, Kansas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"44711",77,0,2013,2,"N","Clark County, Kansas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"44711",77,0,2013,3,"N","Clark County, Kansas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"447110",78,0,2013,1,"N","Clark County, Kansas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"447110",78,0,2013,2,"N","Clark County, Kansas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"447110",78,0,2013,3,"N","Clark County, Kansas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"453",75,0,2013,1,"N","Clark County, Kansas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"453",75,0,2013,2,"N","Clark County, Kansas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"453",75,0,2013,3,"N","Clark County, Kansas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"4531",76,0,2013,1,"N","Clark County, Kansas","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4531",76,0,2013,2,"N","Clark County, Kansas","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4531",76,0,2013,3,"N","Clark County, Kansas","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"45311",77,0,2013,1,"N","Clark County, Kansas","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"45311",77,0,2013,2,"N","Clark County, Kansas","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"45311",77,0,2013,3,"N","Clark County, Kansas","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"453110",78,0,2013,1,"N","Clark County, Kansas","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"453110",78,0,2013,2,"N","Clark County, Kansas","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"453110",78,0,2013,3,"N","Clark County, Kansas","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4539",76,0,2013,1,"N","Clark County, Kansas","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4539",76,0,2013,2,"N","Clark County, Kansas","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4539",76,0,2013,3,"N","Clark County, Kansas","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"45399",77,0,2013,1,"N","Clark County, Kansas","Private","All other miscellaneous store retailers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"45399",77,0,2013,2,"N","Clark County, Kansas","Private","All other miscellaneous store retailers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"45399",77,0,2013,3,"N","Clark County, Kansas","Private","All other miscellaneous store retailers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"453998",78,0,2013,1,"N","Clark County, Kansas","Private","Store retailers not specified elsewhere","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"453998",78,0,2013,2,"N","Clark County, Kansas","Private","Store retailers not specified elsewhere","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"453998",78,0,2013,3,"N","Clark County, Kansas","Private","Store retailers not specified elsewhere","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"48-49",74,0,2013,1,"","Clark County, Kansas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,9,10,12,72665,69172,2767,541
+"20025",5,"48-49",74,0,2013,2,"","Clark County, Kansas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,10,8,5,41742,6529,261,419
+"20025",5,"48-49",74,0,2013,3,"","Clark County, Kansas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,7,6,34463,5777,231,398
+"20025",5,"484",75,0,2013,1,"N","Clark County, Kansas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"484",75,0,2013,2,"N","Clark County, Kansas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"484",75,0,2013,3,"N","Clark County, Kansas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"4841",76,0,2013,1,"N","Clark County, Kansas","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4841",76,0,2013,2,"N","Clark County, Kansas","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4841",76,0,2013,3,"N","Clark County, Kansas","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"48412",77,0,2013,1,"N","Clark County, Kansas","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"48412",77,0,2013,2,"N","Clark County, Kansas","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"48412",77,0,2013,3,"N","Clark County, Kansas","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"484121",78,0,2013,1,"N","Clark County, Kansas","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"484121",78,0,2013,2,"N","Clark County, Kansas","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"484121",78,0,2013,3,"N","Clark County, Kansas","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4842",76,0,2013,1,"N","Clark County, Kansas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4842",76,0,2013,2,"N","Clark County, Kansas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4842",76,0,2013,3,"N","Clark County, Kansas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"48422",77,0,2013,1,"N","Clark County, Kansas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"48422",77,0,2013,2,"N","Clark County, Kansas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"48422",77,0,2013,3,"N","Clark County, Kansas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"484220",78,0,2013,1,"N","Clark County, Kansas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"484220",78,0,2013,2,"N","Clark County, Kansas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"484220",78,0,2013,3,"N","Clark County, Kansas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"492",75,0,2013,1,"N","Clark County, Kansas","Private","Couriers and messengers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"492",75,0,2013,2,"N","Clark County, Kansas","Private","Couriers and messengers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"492",75,0,2013,3,"N","Clark County, Kansas","Private","Couriers and messengers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4922",76,0,2013,1,"N","Clark County, Kansas","Private","Local messengers and local delivery","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4922",76,0,2013,2,"N","Clark County, Kansas","Private","Local messengers and local delivery","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"4922",76,0,2013,3,"N","Clark County, Kansas","Private","Local messengers and local delivery","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"49221",77,0,2013,1,"N","Clark County, Kansas","Private","Local messengers and local delivery","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"49221",77,0,2013,2,"N","Clark County, Kansas","Private","Local messengers and local delivery","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"49221",77,0,2013,3,"N","Clark County, Kansas","Private","Local messengers and local delivery","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"492210",78,0,2013,1,"N","Clark County, Kansas","Private","Local messengers and local delivery","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"492210",78,0,2013,2,"N","Clark County, Kansas","Private","Local messengers and local delivery","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"492210",78,0,2013,3,"N","Clark County, Kansas","Private","Local messengers and local delivery","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"51",74,0,2013,1,"N","Clark County, Kansas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"51",74,0,2013,2,"N","Clark County, Kansas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"51",74,0,2013,3,"N","Clark County, Kansas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"517",75,0,2013,1,"N","Clark County, Kansas","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"517",75,0,2013,2,"N","Clark County, Kansas","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"517",75,0,2013,3,"N","Clark County, Kansas","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5171",76,0,2013,1,"N","Clark County, Kansas","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5171",76,0,2013,2,"N","Clark County, Kansas","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5171",76,0,2013,3,"N","Clark County, Kansas","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"51711",77,0,2013,1,"N","Clark County, Kansas","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"51711",77,0,2013,2,"N","Clark County, Kansas","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"51711",77,0,2013,3,"N","Clark County, Kansas","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"517110",78,0,2013,1,"N","Clark County, Kansas","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"517110",78,0,2013,2,"N","Clark County, Kansas","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"517110",78,0,2013,3,"N","Clark County, Kansas","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"52",74,0,2013,1,"","Clark County, Kansas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,28,27,27,240744,168873,2560,678
+"20025",5,"52",74,0,2013,2,"","Clark County, Kansas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,26,25,26,243237,31989,714,729
+"20025",5,"52",74,0,2013,3,"","Clark County, Kansas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,27,27,26,251022,12784,327,724
+"20025",5,"522",75,0,2013,1,"N","Clark County, Kansas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"522",75,0,2013,2,"N","Clark County, Kansas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"522",75,0,2013,3,"N","Clark County, Kansas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5221",76,0,2013,1,"N","Clark County, Kansas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5221",76,0,2013,2,"N","Clark County, Kansas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5221",76,0,2013,3,"N","Clark County, Kansas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"52211",77,0,2013,1,"N","Clark County, Kansas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"52211",77,0,2013,2,"N","Clark County, Kansas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"52211",77,0,2013,3,"N","Clark County, Kansas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"522110",78,0,2013,1,"N","Clark County, Kansas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"522110",78,0,2013,2,"N","Clark County, Kansas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"522110",78,0,2013,3,"N","Clark County, Kansas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"523",75,0,2013,1,"N","Clark County, Kansas","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"523",75,0,2013,2,"N","Clark County, Kansas","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"523",75,0,2013,3,"N","Clark County, Kansas","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5231",76,0,2013,1,"N","Clark County, Kansas","Private","Securities and commodity contracts brokerage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5231",76,0,2013,2,"N","Clark County, Kansas","Private","Securities and commodity contracts brokerage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5231",76,0,2013,3,"N","Clark County, Kansas","Private","Securities and commodity contracts brokerage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"52312",77,0,2013,1,"N","Clark County, Kansas","Private","Securities brokerage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"52312",77,0,2013,2,"N","Clark County, Kansas","Private","Securities brokerage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"52312",77,0,2013,3,"N","Clark County, Kansas","Private","Securities brokerage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"523120",78,0,2013,1,"N","Clark County, Kansas","Private","Securities brokerage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"523120",78,0,2013,2,"N","Clark County, Kansas","Private","Securities brokerage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"523120",78,0,2013,3,"N","Clark County, Kansas","Private","Securities brokerage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"524",75,0,2013,1,"","Clark County, Kansas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,12,12,12,84882,61239,1645,544
+"20025",5,"524",75,0,2013,2,"","Clark County, Kansas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,11,10,10,87893,17025,587,654
+"20025",5,"524",75,0,2013,3,"","Clark County, Kansas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,11,11,11,94062,7448,282,658
+"20025",5,"5242",76,0,2013,1,"","Clark County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,12,12,12,84882,61239,1645,544
+"20025",5,"5242",76,0,2013,2,"","Clark County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,11,10,10,87893,17025,587,654
+"20025",5,"5242",76,0,2013,3,"","Clark County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,11,11,11,94062,7448,282,658
+"20025",5,"52421",77,0,2013,1,"N","Clark County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"52421",77,0,2013,2,"N","Clark County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"52421",77,0,2013,3,"N","Clark County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"524210",78,0,2013,1,"N","Clark County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"524210",78,0,2013,2,"N","Clark County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"524210",78,0,2013,3,"N","Clark County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"52429",77,0,2013,1,"N","Clark County, Kansas","Private","Other insurance related activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"52429",77,0,2013,2,"N","Clark County, Kansas","Private","Other insurance related activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"52429",77,0,2013,3,"N","Clark County, Kansas","Private","Other insurance related activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"524291",78,0,2013,1,"N","Clark County, Kansas","Private","Claims adjusting","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"524291",78,0,2013,2,"N","Clark County, Kansas","Private","Claims adjusting","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"524291",78,0,2013,3,"N","Clark County, Kansas","Private","Claims adjusting","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"524292",78,0,2013,1,"N","Clark County, Kansas","Private","Third party administration of insurance funds","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"524292",78,0,2013,2,"N","Clark County, Kansas","Private","Third party administration of insurance funds","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"524292",78,0,2013,3,"N","Clark County, Kansas","Private","Third party administration of insurance funds","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"54",74,0,2013,1,"","Clark County, Kansas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",7,23,22,22,196479,130934,3448,677
+"20025",5,"54",74,0,2013,2,"","Clark County, Kansas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,23,22,23,205970,34616,860,699
+"20025",5,"54",74,0,2013,3,"","Clark County, Kansas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,24,24,24,198379,24334,597,636
+"20025",5,"541",75,0,2013,1,"","Clark County, Kansas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,23,22,22,196479,130934,3448,677
+"20025",5,"541",75,0,2013,2,"","Clark County, Kansas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,23,22,23,205970,34616,860,699
+"20025",5,"541",75,0,2013,3,"","Clark County, Kansas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,24,24,24,198379,24334,597,636
+"20025",5,"5411",76,0,2013,1,"","Clark County, Kansas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,8,8,33448,33448,499,322
+"20025",5,"5411",76,0,2013,2,"","Clark County, Kansas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,7,7,33130,16827,275,348
+"20025",5,"5411",76,0,2013,3,"","Clark County, Kansas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,8,8,32073,12169,140,308
+"20025",5,"54111",77,0,2013,1,"N","Clark County, Kansas","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"54111",77,0,2013,2,"N","Clark County, Kansas","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"54111",77,0,2013,3,"N","Clark County, Kansas","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"541110",78,0,2013,1,"N","Clark County, Kansas","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"541110",78,0,2013,2,"N","Clark County, Kansas","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"541110",78,0,2013,3,"N","Clark County, Kansas","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"54119",77,0,2013,1,"N","Clark County, Kansas","Private","Other legal services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"54119",77,0,2013,2,"N","Clark County, Kansas","Private","Other legal services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"54119",77,0,2013,3,"N","Clark County, Kansas","Private","Other legal services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"541191",78,0,2013,1,"N","Clark County, Kansas","Private","Title abstract and settlement offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"541191",78,0,2013,2,"N","Clark County, Kansas","Private","Title abstract and settlement offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"541191",78,0,2013,3,"N","Clark County, Kansas","Private","Title abstract and settlement offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5412",76,0,2013,1,"N","Clark County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5412",76,0,2013,2,"N","Clark County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5412",76,0,2013,3,"N","Clark County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"54121",77,0,2013,1,"N","Clark County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"54121",77,0,2013,2,"N","Clark County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"54121",77,0,2013,3,"N","Clark County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"541219",78,0,2013,1,"N","Clark County, Kansas","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"541219",78,0,2013,2,"N","Clark County, Kansas","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"541219",78,0,2013,3,"N","Clark County, Kansas","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5416",76,0,2013,1,"N","Clark County, Kansas","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5416",76,0,2013,2,"-","Clark County, Kansas","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"20025",5,"5416",76,0,2013,3,"-","Clark County, Kansas","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"20025",5,"54169",77,0,2013,1,"N","Clark County, Kansas","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"54169",77,0,2013,2,"-","Clark County, Kansas","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"20025",5,"54169",77,0,2013,3,"-","Clark County, Kansas","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"20025",5,"541690",78,0,2013,1,"N","Clark County, Kansas","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"541690",78,0,2013,2,"-","Clark County, Kansas","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"20025",5,"541690",78,0,2013,3,"-","Clark County, Kansas","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"20025",5,"5419",76,0,2013,1,"N","Clark County, Kansas","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"5419",76,0,2013,2,"N","Clark County, Kansas","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"5419",76,0,2013,3,"N","Clark County, Kansas","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"54194",77,0,2013,1,"N","Clark County, Kansas","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"54194",77,0,2013,2,"N","Clark County, Kansas","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"54194",77,0,2013,3,"N","Clark County, Kansas","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"541940",78,0,2013,1,"N","Clark County, Kansas","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"541940",78,0,2013,2,"N","Clark County, Kansas","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"541940",78,0,2013,3,"N","Clark County, Kansas","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"55",74,0,2013,1,"N","Clark County, Kansas","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"55",74,0,2013,2,"N","Clark County, Kansas","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"55",74,0,2013,3,"N","Clark County, Kansas","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"551",75,0,2013,1,"N","Clark County, Kansas","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"551",75,0,2013,2,"N","Clark County, Kansas","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"551",75,0,2013,3,"N","Clark County, Kansas","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"5511",76,0,2013,1,"N","Clark County, Kansas","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"5511",76,0,2013,2,"N","Clark County, Kansas","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"5511",76,0,2013,3,"N","Clark County, Kansas","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"55111",77,0,2013,1,"N","Clark County, Kansas","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"55111",77,0,2013,2,"N","Clark County, Kansas","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"55111",77,0,2013,3,"N","Clark County, Kansas","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"551111",78,0,2013,1,"N","Clark County, Kansas","Private","Offices of bank holding companies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"551111",78,0,2013,2,"N","Clark County, Kansas","Private","Offices of bank holding companies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"551111",78,0,2013,3,"N","Clark County, Kansas","Private","Offices of bank holding companies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"551114",78,0,2013,1,"N","Clark County, Kansas","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"551114",78,0,2013,2,"N","Clark County, Kansas","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"551114",78,0,2013,3,"N","Clark County, Kansas","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"56",74,0,2013,1,"N","Clark County, Kansas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"56",74,0,2013,2,"N","Clark County, Kansas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"56",74,0,2013,3,"N","Clark County, Kansas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"561",75,0,2013,1,"N","Clark County, Kansas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"561",75,0,2013,2,"N","Clark County, Kansas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"561",75,0,2013,3,"N","Clark County, Kansas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5617",76,0,2013,1,"N","Clark County, Kansas","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5617",76,0,2013,2,"N","Clark County, Kansas","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5617",76,0,2013,3,"N","Clark County, Kansas","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"56173",77,0,2013,1,"N","Clark County, Kansas","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"56173",77,0,2013,2,"N","Clark County, Kansas","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"56173",77,0,2013,3,"N","Clark County, Kansas","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"561730",78,0,2013,1,"N","Clark County, Kansas","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"561730",78,0,2013,2,"N","Clark County, Kansas","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"561730",78,0,2013,3,"N","Clark County, Kansas","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"562",75,0,2013,1,"N","Clark County, Kansas","Private","Waste management and remediation services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"562",75,0,2013,2,"N","Clark County, Kansas","Private","Waste management and remediation services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"562",75,0,2013,3,"N","Clark County, Kansas","Private","Waste management and remediation services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5621",76,0,2013,1,"N","Clark County, Kansas","Private","Waste collection","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5621",76,0,2013,2,"N","Clark County, Kansas","Private","Waste collection","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"5621",76,0,2013,3,"N","Clark County, Kansas","Private","Waste collection","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"56211",77,0,2013,1,"N","Clark County, Kansas","Private","Waste collection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"56211",77,0,2013,2,"N","Clark County, Kansas","Private","Waste collection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"56211",77,0,2013,3,"N","Clark County, Kansas","Private","Waste collection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"562111",78,0,2013,1,"N","Clark County, Kansas","Private","Solid waste collection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"562111",78,0,2013,2,"N","Clark County, Kansas","Private","Solid waste collection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"562111",78,0,2013,3,"N","Clark County, Kansas","Private","Solid waste collection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"62",74,0,2013,1,"N","Clark County, Kansas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"62",74,0,2013,2,"N","Clark County, Kansas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"62",74,0,2013,3,"N","Clark County, Kansas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"621",75,0,2013,1,"N","Clark County, Kansas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"621",75,0,2013,2,"N","Clark County, Kansas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"621",75,0,2013,3,"N","Clark County, Kansas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"6211",76,0,2013,1,"N","Clark County, Kansas","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"6211",76,0,2013,2,"N","Clark County, Kansas","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"6211",76,0,2013,3,"N","Clark County, Kansas","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"62111",77,0,2013,1,"N","Clark County, Kansas","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"62111",77,0,2013,2,"N","Clark County, Kansas","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"62111",77,0,2013,3,"N","Clark County, Kansas","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"621111",78,0,2013,1,"N","Clark County, Kansas","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"621111",78,0,2013,2,"N","Clark County, Kansas","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"621111",78,0,2013,3,"N","Clark County, Kansas","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"71",74,0,2013,1,"N","Clark County, Kansas","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"71",74,0,2013,2,"N","Clark County, Kansas","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"71",74,0,2013,3,"N","Clark County, Kansas","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"713",75,0,2013,1,"N","Clark County, Kansas","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"713",75,0,2013,2,"N","Clark County, Kansas","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"713",75,0,2013,3,"N","Clark County, Kansas","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"7139",76,0,2013,1,"N","Clark County, Kansas","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"7139",76,0,2013,2,"N","Clark County, Kansas","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"7139",76,0,2013,3,"N","Clark County, Kansas","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"71391",77,0,2013,1,"N","Clark County, Kansas","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"71391",77,0,2013,2,"N","Clark County, Kansas","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"71391",77,0,2013,3,"N","Clark County, Kansas","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"713910",78,0,2013,1,"N","Clark County, Kansas","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"713910",78,0,2013,2,"N","Clark County, Kansas","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"713910",78,0,2013,3,"N","Clark County, Kansas","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"71399",77,0,2013,1,"-","Clark County, Kansas","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"20025",5,"71399",77,0,2013,2,"-","Clark County, Kansas","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"20025",5,"71399",77,0,2013,3,"N","Clark County, Kansas","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"713990",78,0,2013,1,"-","Clark County, Kansas","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"20025",5,"713990",78,0,2013,2,"-","Clark County, Kansas","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"20025",5,"713990",78,0,2013,3,"N","Clark County, Kansas","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"72",74,0,2013,1,"N","Clark County, Kansas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"72",74,0,2013,2,"N","Clark County, Kansas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",5,"72",74,0,2013,3,"N","Clark County, Kansas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",5,"722",75,0,2013,1,"N","Clark County, Kansas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"722",75,0,2013,2,"N","Clark County, Kansas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",5,"722",75,0,2013,3,"N","Clark County, Kansas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",5,"7225",76,0,2013,1,"N","Clark County, Kansas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"7225",76,0,2013,2,"N","Clark County, Kansas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",5,"7225",76,0,2013,3,"N","Clark County, Kansas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",5,"72251",77,0,2013,1,"N","Clark County, Kansas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20025",5,"72251",77,0,2013,2,"N","Clark County, Kansas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",5,"72251",77,0,2013,3,"N","Clark County, Kansas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20025",5,"722511",78,0,2013,1,"N","Clark County, Kansas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"722511",78,0,2013,2,"","Clark County, Kansas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,26,26,39,36487,36487,1426,93
+"20025",5,"722511",78,0,2013,3,"","Clark County, Kansas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,34,34,34,26992,26992,1009,61
+"20025",5,"722513",78,0,2013,1,"N","Clark County, Kansas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"722513",78,0,2013,2,"N","Clark County, Kansas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"722513",78,0,2013,3,"N","Clark County, Kansas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"81",74,0,2013,1,"","Clark County, Kansas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,6,7,24869,24869,915,302
+"20025",5,"81",74,0,2013,2,"","Clark County, Kansas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,7,8,36598,17841,608,384
+"20025",5,"81",74,0,2013,3,"","Clark County, Kansas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,6,6,27747,5309,99,356
+"20025",5,"811",75,0,2013,1,"N","Clark County, Kansas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"811",75,0,2013,2,"N","Clark County, Kansas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"811",75,0,2013,3,"N","Clark County, Kansas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20025",5,"8111",76,0,2013,1,"N","Clark County, Kansas","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"8111",76,0,2013,2,"N","Clark County, Kansas","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"8111",76,0,2013,3,"N","Clark County, Kansas","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"81111",77,0,2013,1,"N","Clark County, Kansas","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"81111",77,0,2013,2,"N","Clark County, Kansas","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"81111",77,0,2013,3,"N","Clark County, Kansas","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"811111",78,0,2013,1,"N","Clark County, Kansas","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"811111",78,0,2013,2,"N","Clark County, Kansas","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"811111",78,0,2013,3,"N","Clark County, Kansas","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"8113",76,0,2013,1,"N","Clark County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"8113",76,0,2013,2,"N","Clark County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"8113",76,0,2013,3,"N","Clark County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"81131",77,0,2013,1,"N","Clark County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"81131",77,0,2013,2,"N","Clark County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"81131",77,0,2013,3,"N","Clark County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"811310",78,0,2013,1,"N","Clark County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"811310",78,0,2013,2,"N","Clark County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"811310",78,0,2013,3,"N","Clark County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"813",75,0,2013,1,"N","Clark County, Kansas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"813",75,0,2013,2,"N","Clark County, Kansas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"813",75,0,2013,3,"N","Clark County, Kansas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"8139",76,0,2013,1,"N","Clark County, Kansas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"8139",76,0,2013,2,"N","Clark County, Kansas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"8139",76,0,2013,3,"N","Clark County, Kansas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"81391",77,0,2013,1,"N","Clark County, Kansas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"81391",77,0,2013,2,"N","Clark County, Kansas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"81391",77,0,2013,3,"N","Clark County, Kansas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"813910",78,0,2013,1,"N","Clark County, Kansas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"813910",78,0,2013,2,"N","Clark County, Kansas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20025",5,"813910",78,0,2013,3,"N","Clark County, Kansas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

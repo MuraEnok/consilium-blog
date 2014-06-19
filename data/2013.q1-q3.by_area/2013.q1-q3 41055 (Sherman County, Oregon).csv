@@ -1,0 +1,854 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"41055",0,"10",70,0,2013,1,"","Sherman County, Oregon","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",93,694,701,741,6699281,2932684,85247,724
+"41055",0,"10",70,0,2013,2,"","Sherman County, Oregon","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",94,765,786,806,7672177,3066546,89930,751
+"41055",0,"10",70,0,2013,3,"","Sherman County, Oregon","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",94,760,765,771,7041721,2581902,74913,708
+"41055",1,"10",71,0,2013,1,"","Sherman County, Oregon","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,125,131,137,2419171,0,0,1421
+"41055",1,"10",71,0,2013,2,"","Sherman County, Oregon","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,128,130,130,2640295,0,0,1570
+"41055",1,"10",71,0,2013,3,"","Sherman County, Oregon","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,133,133,130,2362826,0,0,1377
+"41055",1,"101",72,0,2013,1,"","Sherman County, Oregon","Federal Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,2,2,2,33167,0,0,1276
+"41055",1,"101",72,0,2013,2,"","Sherman County, Oregon","Federal Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,2,2,2,38170,0,0,1468
+"41055",1,"101",72,0,2013,3,"","Sherman County, Oregon","Federal Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,2,2,2,37996,0,0,1461
+"41055",1,"1011",73,0,2013,1,"","Sherman County, Oregon","Federal Government","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",1,2,2,2,33167,0,0,1276
+"41055",1,"1011",73,0,2013,2,"","Sherman County, Oregon","Federal Government","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",1,2,2,2,38170,0,0,1468
+"41055",1,"1011",73,0,2013,3,"","Sherman County, Oregon","Federal Government","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",1,2,2,2,37996,0,0,1461
+"41055",1,"102",72,0,2013,1,"","Sherman County, Oregon","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,123,129,135,2386004,0,0,1423
+"41055",1,"102",72,0,2013,2,"","Sherman County, Oregon","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,126,128,128,2602125,0,0,1572
+"41055",1,"102",72,0,2013,3,"","Sherman County, Oregon","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",9,131,131,128,2324830,0,0,1376
+"41055",1,"1021",73,0,2013,1,"","Sherman County, Oregon","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,6,7,9,53612,0,0,562
+"41055",1,"1021",73,0,2013,2,"","Sherman County, Oregon","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,7,8,9,41688,0,0,401
+"41055",1,"1021",73,0,2013,3,"","Sherman County, Oregon","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,8,8,7,48519,0,0,487
+"41055",1,"1024",73,0,2013,1,"","Sherman County, Oregon","Federal Government","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",1,114,118,119,2302869,0,0,1514
+"41055",1,"1024",73,0,2013,2,"","Sherman County, Oregon","Federal Government","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",1,115,113,115,2494222,0,0,1678
+"41055",1,"1024",73,0,2013,3,"","Sherman County, Oregon","Federal Government","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",1,117,120,118,2227687,0,0,1448
+"41055",1,"1028",73,0,2013,1,"","Sherman County, Oregon","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,3,4,7,29523,0,0,487
+"41055",1,"1028",73,0,2013,2,"","Sherman County, Oregon","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,4,7,4,66215,0,0,1019
+"41055",1,"1028",73,0,2013,3,"","Sherman County, Oregon","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,6,3,3,48624,0,0,935
+"41055",1,"11",74,0,2013,1,"","Sherman County, Oregon","Federal Government","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",1,2,2,2,33167,0,0,1276
+"41055",1,"11",74,0,2013,2,"","Sherman County, Oregon","Federal Government","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",1,2,2,2,38170,0,0,1468
+"41055",1,"11",74,0,2013,3,"","Sherman County, Oregon","Federal Government","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",1,2,2,2,37996,0,0,1461
+"41055",1,"113",75,0,2013,1,"","Sherman County, Oregon","Federal Government","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,2,2,33167,0,0,1276
+"41055",1,"113",75,0,2013,2,"","Sherman County, Oregon","Federal Government","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,2,2,38170,0,0,1468
+"41055",1,"113",75,0,2013,3,"","Sherman County, Oregon","Federal Government","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,2,2,37996,0,0,1461
+"41055",1,"1131",76,0,2013,1,"","Sherman County, Oregon","Federal Government","Timber tract operations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,2,2,33167,0,0,1276
+"41055",1,"1131",76,0,2013,2,"","Sherman County, Oregon","Federal Government","Timber tract operations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,2,2,38170,0,0,1468
+"41055",1,"1131",76,0,2013,3,"","Sherman County, Oregon","Federal Government","Timber tract operations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,2,2,37996,0,0,1461
+"41055",1,"11311",77,0,2013,1,"","Sherman County, Oregon","Federal Government","Timber tract operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,33167,0,0,1276
+"41055",1,"11311",77,0,2013,2,"","Sherman County, Oregon","Federal Government","Timber tract operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,38170,0,0,1468
+"41055",1,"11311",77,0,2013,3,"","Sherman County, Oregon","Federal Government","Timber tract operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,37996,0,0,1461
+"41055",1,"113110",78,0,2013,1,"","Sherman County, Oregon","Federal Government","Timber tract operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,33167,0,0,1276
+"41055",1,"113110",78,0,2013,2,"","Sherman County, Oregon","Federal Government","Timber tract operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,38170,0,0,1468
+"41055",1,"113110",78,0,2013,3,"","Sherman County, Oregon","Federal Government","Timber tract operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,37996,0,0,1461
+"41055",1,"48-49",74,0,2013,1,"","Sherman County, Oregon","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,6,7,9,53612,0,0,562
+"41055",1,"48-49",74,0,2013,2,"","Sherman County, Oregon","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,7,8,9,41688,0,0,401
+"41055",1,"48-49",74,0,2013,3,"","Sherman County, Oregon","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,8,8,7,48519,0,0,487
+"41055",1,"491",75,0,2013,1,"","Sherman County, Oregon","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,6,7,9,53612,0,0,562
+"41055",1,"491",75,0,2013,2,"","Sherman County, Oregon","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,7,8,9,41688,0,0,401
+"41055",1,"491",75,0,2013,3,"","Sherman County, Oregon","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,8,8,7,48519,0,0,487
+"41055",1,"4911",76,0,2013,1,"","Sherman County, Oregon","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,6,7,9,53612,0,0,562
+"41055",1,"4911",76,0,2013,2,"","Sherman County, Oregon","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,7,8,9,41688,0,0,401
+"41055",1,"4911",76,0,2013,3,"","Sherman County, Oregon","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,8,8,7,48519,0,0,487
+"41055",1,"49111",77,0,2013,1,"","Sherman County, Oregon","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,6,7,9,53612,0,0,562
+"41055",1,"49111",77,0,2013,2,"","Sherman County, Oregon","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,7,8,9,41688,0,0,401
+"41055",1,"49111",77,0,2013,3,"","Sherman County, Oregon","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,8,8,7,48519,0,0,487
+"41055",1,"491110",78,0,2013,1,"","Sherman County, Oregon","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,6,7,9,53612,0,0,562
+"41055",1,"491110",78,0,2013,2,"","Sherman County, Oregon","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,7,8,9,41688,0,0,401
+"41055",1,"491110",78,0,2013,3,"","Sherman County, Oregon","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,8,8,7,48519,0,0,487
+"41055",1,"54",74,0,2013,1,"","Sherman County, Oregon","Federal Government","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,114,118,119,2302869,0,0,1514
+"41055",1,"54",74,0,2013,2,"","Sherman County, Oregon","Federal Government","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,115,113,115,2494222,0,0,1678
+"41055",1,"54",74,0,2013,3,"","Sherman County, Oregon","Federal Government","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,117,120,118,2227687,0,0,1448
+"41055",1,"541",75,0,2013,1,"","Sherman County, Oregon","Federal Government","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,114,118,119,2302869,0,0,1514
+"41055",1,"541",75,0,2013,2,"","Sherman County, Oregon","Federal Government","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,115,113,115,2494222,0,0,1678
+"41055",1,"541",75,0,2013,3,"","Sherman County, Oregon","Federal Government","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,117,120,118,2227687,0,0,1448
+"41055",1,"5413",76,0,2013,1,"","Sherman County, Oregon","Federal Government","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,114,118,119,2302869,0,0,1514
+"41055",1,"5413",76,0,2013,2,"","Sherman County, Oregon","Federal Government","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,115,113,115,2494222,0,0,1678
+"41055",1,"5413",76,0,2013,3,"","Sherman County, Oregon","Federal Government","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,117,120,118,2227687,0,0,1448
+"41055",1,"54133",77,0,2013,1,"","Sherman County, Oregon","Federal Government","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,114,118,119,2302869,0,0,1514
+"41055",1,"54133",77,0,2013,2,"","Sherman County, Oregon","Federal Government","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,115,113,115,2494222,0,0,1678
+"41055",1,"54133",77,0,2013,3,"","Sherman County, Oregon","Federal Government","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,117,120,118,2227687,0,0,1448
+"41055",1,"541330",78,0,2013,1,"","Sherman County, Oregon","Federal Government","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,114,118,119,2302869,0,0,1514
+"41055",1,"541330",78,0,2013,2,"","Sherman County, Oregon","Federal Government","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,115,113,115,2494222,0,0,1678
+"41055",1,"541330",78,0,2013,3,"","Sherman County, Oregon","Federal Government","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,117,120,118,2227687,0,0,1448
+"41055",1,"92",74,0,2013,1,"","Sherman County, Oregon","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,3,4,7,29523,0,0,487
+"41055",1,"92",74,0,2013,2,"","Sherman County, Oregon","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,4,7,4,66215,0,0,1019
+"41055",1,"92",74,0,2013,3,"","Sherman County, Oregon","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,3,3,48624,0,0,935
+"41055",1,"924",75,0,2013,1,"","Sherman County, Oregon","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",1,"924",75,0,2013,2,"","Sherman County, Oregon","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",1,"924",75,0,2013,3,"-","Sherman County, Oregon","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",1,"9241",76,0,2013,1,"","Sherman County, Oregon","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",1,"9241",76,0,2013,2,"","Sherman County, Oregon","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",1,"9241",76,0,2013,3,"-","Sherman County, Oregon","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",1,"92412",77,0,2013,1,"","Sherman County, Oregon","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",1,"92412",77,0,2013,2,"","Sherman County, Oregon","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",1,"92412",77,0,2013,3,"-","Sherman County, Oregon","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",1,"924120",78,0,2013,1,"","Sherman County, Oregon","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",1,"924120",78,0,2013,2,"","Sherman County, Oregon","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",1,"924120",78,0,2013,3,"-","Sherman County, Oregon","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",1,"926",75,0,2013,1,"","Sherman County, Oregon","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,3,4,7,29523,0,0,487
+"41055",1,"926",75,0,2013,2,"","Sherman County, Oregon","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,4,7,4,66215,0,0,1019
+"41055",1,"926",75,0,2013,3,"","Sherman County, Oregon","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,3,3,48624,0,0,935
+"41055",1,"9261",76,0,2013,1,"","Sherman County, Oregon","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,3,4,7,29523,0,0,487
+"41055",1,"9261",76,0,2013,2,"","Sherman County, Oregon","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,4,7,4,66215,0,0,1019
+"41055",1,"9261",76,0,2013,3,"","Sherman County, Oregon","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,3,3,48624,0,0,935
+"41055",1,"92611",77,0,2013,1,"","Sherman County, Oregon","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",1,"92611",77,0,2013,2,"","Sherman County, Oregon","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",1,"92611",77,0,2013,3,"","Sherman County, Oregon","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",1,"926110",78,0,2013,1,"","Sherman County, Oregon","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",1,"926110",78,0,2013,2,"","Sherman County, Oregon","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",1,"926110",78,0,2013,3,"","Sherman County, Oregon","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",1,"92614",77,0,2013,1,"","Sherman County, Oregon","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,3,4,7,29523,0,0,487
+"41055",1,"92614",77,0,2013,2,"","Sherman County, Oregon","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,4,7,4,66215,0,0,1019
+"41055",1,"92614",77,0,2013,3,"","Sherman County, Oregon","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,6,3,3,48624,0,0,935
+"41055",1,"926140",78,0,2013,1,"","Sherman County, Oregon","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,3,4,7,29523,0,0,487
+"41055",1,"926140",78,0,2013,2,"","Sherman County, Oregon","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,4,7,4,66215,0,0,1019
+"41055",1,"926140",78,0,2013,3,"","Sherman County, Oregon","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,6,3,3,48624,0,0,935
+"41055",2,"10",71,0,2013,1,"","Sherman County, Oregon","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,34,35,39,352808,0,0,754
+"41055",2,"10",71,0,2013,2,"","Sherman County, Oregon","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,32,32,47,329518,0,0,685
+"41055",2,"10",71,0,2013,3,"","Sherman County, Oregon","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,47,43,37,375778,0,0,683
+"41055",2,"101",72,0,2013,1,"N","Sherman County, Oregon","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"101",72,0,2013,2,"N","Sherman County, Oregon","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"101",72,0,2013,3,"N","Sherman County, Oregon","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"1012",73,0,2013,1,"N","Sherman County, Oregon","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"1012",73,0,2013,2,"N","Sherman County, Oregon","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"1012",73,0,2013,3,"N","Sherman County, Oregon","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"102",72,0,2013,1,"N","Sherman County, Oregon","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",2,"102",72,0,2013,2,"N","Sherman County, Oregon","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",2,"102",72,0,2013,3,"N","Sherman County, Oregon","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",2,"1025",73,0,2013,1,"N","Sherman County, Oregon","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"1025",73,0,2013,2,"N","Sherman County, Oregon","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"1025",73,0,2013,3,"N","Sherman County, Oregon","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"1026",73,0,2013,1,"N","Sherman County, Oregon","State Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"1026",73,0,2013,2,"N","Sherman County, Oregon","State Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"1026",73,0,2013,3,"N","Sherman County, Oregon","State Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"1028",73,0,2013,1,"N","Sherman County, Oregon","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"1028",73,0,2013,2,"N","Sherman County, Oregon","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"1028",73,0,2013,3,"N","Sherman County, Oregon","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"23",74,0,2013,1,"N","Sherman County, Oregon","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"23",74,0,2013,2,"N","Sherman County, Oregon","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"23",74,0,2013,3,"N","Sherman County, Oregon","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"237",75,0,2013,1,"N","Sherman County, Oregon","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"237",75,0,2013,2,"N","Sherman County, Oregon","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"237",75,0,2013,3,"N","Sherman County, Oregon","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"2373",76,0,2013,1,"N","Sherman County, Oregon","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"2373",76,0,2013,2,"N","Sherman County, Oregon","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"2373",76,0,2013,3,"N","Sherman County, Oregon","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"23731",77,0,2013,1,"N","Sherman County, Oregon","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"23731",77,0,2013,2,"N","Sherman County, Oregon","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"23731",77,0,2013,3,"N","Sherman County, Oregon","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"237310",78,0,2013,1,"N","Sherman County, Oregon","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"237310",78,0,2013,2,"N","Sherman County, Oregon","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"237310",78,0,2013,3,"N","Sherman County, Oregon","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",2,"62",74,0,2013,1,"N","Sherman County, Oregon","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"62",74,0,2013,2,"N","Sherman County, Oregon","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"62",74,0,2013,3,"N","Sherman County, Oregon","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"624",75,0,2013,1,"N","Sherman County, Oregon","State Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"624",75,0,2013,2,"N","Sherman County, Oregon","State Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"624",75,0,2013,3,"N","Sherman County, Oregon","State Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"6241",76,0,2013,1,"N","Sherman County, Oregon","State Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"6241",76,0,2013,2,"N","Sherman County, Oregon","State Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"6241",76,0,2013,3,"N","Sherman County, Oregon","State Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"62412",77,0,2013,1,"N","Sherman County, Oregon","State Government","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"62412",77,0,2013,2,"N","Sherman County, Oregon","State Government","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"62412",77,0,2013,3,"N","Sherman County, Oregon","State Government","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"624120",78,0,2013,1,"N","Sherman County, Oregon","State Government","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"624120",78,0,2013,2,"N","Sherman County, Oregon","State Government","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"624120",78,0,2013,3,"N","Sherman County, Oregon","State Government","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"71",74,0,2013,1,"N","Sherman County, Oregon","State Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"71",74,0,2013,2,"N","Sherman County, Oregon","State Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"71",74,0,2013,3,"N","Sherman County, Oregon","State Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"712",75,0,2013,1,"N","Sherman County, Oregon","State Government","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"712",75,0,2013,2,"N","Sherman County, Oregon","State Government","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"712",75,0,2013,3,"N","Sherman County, Oregon","State Government","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"7121",76,0,2013,1,"N","Sherman County, Oregon","State Government","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"7121",76,0,2013,2,"N","Sherman County, Oregon","State Government","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"7121",76,0,2013,3,"N","Sherman County, Oregon","State Government","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"71219",77,0,2013,1,"N","Sherman County, Oregon","State Government","Nature parks and other similar institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"71219",77,0,2013,2,"N","Sherman County, Oregon","State Government","Nature parks and other similar institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"71219",77,0,2013,3,"N","Sherman County, Oregon","State Government","Nature parks and other similar institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"712190",78,0,2013,1,"N","Sherman County, Oregon","State Government","Nature parks and other similar institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"712190",78,0,2013,2,"N","Sherman County, Oregon","State Government","Nature parks and other similar institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"712190",78,0,2013,3,"N","Sherman County, Oregon","State Government","Nature parks and other similar institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"92",74,0,2013,1,"N","Sherman County, Oregon","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"92",74,0,2013,2,"N","Sherman County, Oregon","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"92",74,0,2013,3,"N","Sherman County, Oregon","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"922",75,0,2013,1,"N","Sherman County, Oregon","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"922",75,0,2013,2,"N","Sherman County, Oregon","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"922",75,0,2013,3,"N","Sherman County, Oregon","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"9221",76,0,2013,1,"N","Sherman County, Oregon","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"9221",76,0,2013,2,"N","Sherman County, Oregon","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"9221",76,0,2013,3,"N","Sherman County, Oregon","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"92211",77,0,2013,1,"N","Sherman County, Oregon","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"92211",77,0,2013,2,"N","Sherman County, Oregon","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"92211",77,0,2013,3,"N","Sherman County, Oregon","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"922110",78,0,2013,1,"N","Sherman County, Oregon","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"922110",78,0,2013,2,"N","Sherman County, Oregon","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",2,"922110",78,0,2013,3,"N","Sherman County, Oregon","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"10",71,0,2013,1,"","Sherman County, Oregon","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",20,139,144,164,1007346,116377,2678,520
+"41055",3,"10",71,0,2013,2,"","Sherman County, Oregon","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",20,160,167,179,1227705,125952,2907,560
+"41055",3,"10",71,0,2013,3,"","Sherman County, Oregon","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",20,117,116,160,880219,125188,2878,517
+"41055",3,"101",72,0,2013,1,"N","Sherman County, Oregon","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"101",72,0,2013,2,"N","Sherman County, Oregon","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"101",72,0,2013,3,"N","Sherman County, Oregon","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"1012",73,0,2013,1,"N","Sherman County, Oregon","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"1012",73,0,2013,2,"N","Sherman County, Oregon","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"1012",73,0,2013,3,"N","Sherman County, Oregon","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"102",72,0,2013,1,"N","Sherman County, Oregon","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",19,0,0,0,0,0,0,0
+"41055",3,"102",72,0,2013,2,"N","Sherman County, Oregon","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",19,0,0,0,0,0,0,0
+"41055",3,"102",72,0,2013,3,"N","Sherman County, Oregon","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",19,0,0,0,0,0,0,0
+"41055",3,"1025",73,0,2013,1,"","Sherman County, Oregon","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,72,78,80,480872,0,0,482
+"41055",3,"1025",73,0,2013,2,"","Sherman County, Oregon","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,80,86,78,670344,0,0,634
+"41055",3,"1025",73,0,2013,3,"","Sherman County, Oregon","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,29,34,71,309920,0,0,534
+"41055",3,"1026",73,0,2013,1,"N","Sherman County, Oregon","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"1026",73,0,2013,2,"N","Sherman County, Oregon","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"1026",73,0,2013,3,"N","Sherman County, Oregon","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"1028",73,0,2013,1,"","Sherman County, Oregon","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",12,55,56,73,428917,116377,2678,538
+"41055",3,"1028",73,0,2013,2,"","Sherman County, Oregon","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",12,69,70,85,445255,125952,2907,459
+"41055",3,"1028",73,0,2013,3,"","Sherman County, Oregon","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",12,74,68,78,457236,125188,2878,480
+"41055",3,"23",74,0,2013,1,"N","Sherman County, Oregon","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"23",74,0,2013,2,"N","Sherman County, Oregon","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"23",74,0,2013,3,"N","Sherman County, Oregon","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"237",75,0,2013,1,"N","Sherman County, Oregon","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"237",75,0,2013,2,"N","Sherman County, Oregon","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"237",75,0,2013,3,"N","Sherman County, Oregon","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"2373",76,0,2013,1,"N","Sherman County, Oregon","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"2373",76,0,2013,2,"N","Sherman County, Oregon","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"2373",76,0,2013,3,"N","Sherman County, Oregon","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"23731",77,0,2013,1,"N","Sherman County, Oregon","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"23731",77,0,2013,2,"N","Sherman County, Oregon","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"23731",77,0,2013,3,"N","Sherman County, Oregon","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"237310",78,0,2013,1,"N","Sherman County, Oregon","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"237310",78,0,2013,2,"N","Sherman County, Oregon","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"237310",78,0,2013,3,"N","Sherman County, Oregon","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"61",74,0,2013,1,"","Sherman County, Oregon","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,58,64,66,365624,0,0,449
+"41055",3,"61",74,0,2013,2,"","Sherman County, Oregon","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,66,72,64,535412,0,0,612
+"41055",3,"61",74,0,2013,3,"","Sherman County, Oregon","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,10,14,56,173993,0,0,502
+"41055",3,"611",75,0,2013,1,"","Sherman County, Oregon","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,58,64,66,365624,0,0,449
+"41055",3,"611",75,0,2013,2,"","Sherman County, Oregon","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,66,72,64,535412,0,0,612
+"41055",3,"611",75,0,2013,3,"","Sherman County, Oregon","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,10,14,56,173993,0,0,502
+"41055",3,"6111",76,0,2013,1,"","Sherman County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,58,64,66,365624,0,0,449
+"41055",3,"6111",76,0,2013,2,"","Sherman County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,66,72,64,535412,0,0,612
+"41055",3,"6111",76,0,2013,3,"","Sherman County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,10,14,56,173993,0,0,502
+"41055",3,"61111",77,0,2013,1,"","Sherman County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,58,64,66,365624,0,0,449
+"41055",3,"61111",77,0,2013,2,"","Sherman County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,66,72,64,535412,0,0,612
+"41055",3,"61111",77,0,2013,3,"","Sherman County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,10,14,56,173993,0,0,502
+"41055",3,"611110",78,0,2013,1,"","Sherman County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,58,64,66,365624,0,0,449
+"41055",3,"611110",78,0,2013,2,"","Sherman County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,66,72,64,535412,0,0,612
+"41055",3,"611110",78,0,2013,3,"","Sherman County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,10,14,56,173993,0,0,502
+"41055",3,"62",74,0,2013,1,"","Sherman County, Oregon","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,14,14,14,115248,0,0,633
+"41055",3,"62",74,0,2013,2,"","Sherman County, Oregon","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,14,14,14,134932,0,0,741
+"41055",3,"62",74,0,2013,3,"","Sherman County, Oregon","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,19,20,15,135927,0,0,581
+"41055",3,"621",75,0,2013,1,"N","Sherman County, Oregon","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"621",75,0,2013,2,"N","Sherman County, Oregon","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"621",75,0,2013,3,"N","Sherman County, Oregon","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"6211",76,0,2013,1,"N","Sherman County, Oregon","Local Government","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"6211",76,0,2013,2,"N","Sherman County, Oregon","Local Government","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"6211",76,0,2013,3,"N","Sherman County, Oregon","Local Government","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"62111",77,0,2013,1,"N","Sherman County, Oregon","Local Government","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"62111",77,0,2013,2,"N","Sherman County, Oregon","Local Government","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"62111",77,0,2013,3,"N","Sherman County, Oregon","Local Government","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"621111",78,0,2013,1,"N","Sherman County, Oregon","Local Government","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"621111",78,0,2013,2,"N","Sherman County, Oregon","Local Government","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"621111",78,0,2013,3,"N","Sherman County, Oregon","Local Government","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"624",75,0,2013,1,"N","Sherman County, Oregon","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",3,"624",75,0,2013,2,"N","Sherman County, Oregon","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",3,"624",75,0,2013,3,"N","Sherman County, Oregon","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",3,"6241",76,0,2013,1,"N","Sherman County, Oregon","Local Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"6241",76,0,2013,2,"N","Sherman County, Oregon","Local Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"6241",76,0,2013,3,"N","Sherman County, Oregon","Local Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"62412",77,0,2013,1,"N","Sherman County, Oregon","Local Government","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"62412",77,0,2013,2,"N","Sherman County, Oregon","Local Government","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"62412",77,0,2013,3,"N","Sherman County, Oregon","Local Government","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"624120",78,0,2013,1,"N","Sherman County, Oregon","Local Government","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"624120",78,0,2013,2,"N","Sherman County, Oregon","Local Government","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"624120",78,0,2013,3,"N","Sherman County, Oregon","Local Government","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"6244",76,0,2013,1,"N","Sherman County, Oregon","Local Government","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"6244",76,0,2013,2,"N","Sherman County, Oregon","Local Government","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"6244",76,0,2013,3,"N","Sherman County, Oregon","Local Government","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"62441",77,0,2013,1,"N","Sherman County, Oregon","Local Government","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"62441",77,0,2013,2,"N","Sherman County, Oregon","Local Government","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"62441",77,0,2013,3,"N","Sherman County, Oregon","Local Government","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"624410",78,0,2013,1,"N","Sherman County, Oregon","Local Government","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"624410",78,0,2013,2,"N","Sherman County, Oregon","Local Government","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"624410",78,0,2013,3,"N","Sherman County, Oregon","Local Government","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"71",74,0,2013,1,"N","Sherman County, Oregon","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"71",74,0,2013,2,"N","Sherman County, Oregon","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"71",74,0,2013,3,"N","Sherman County, Oregon","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"711",75,0,2013,1,"N","Sherman County, Oregon","Local Government","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"711",75,0,2013,2,"N","Sherman County, Oregon","Local Government","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"711",75,0,2013,3,"N","Sherman County, Oregon","Local Government","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"7113",76,0,2013,1,"N","Sherman County, Oregon","Local Government","Promoters of performing arts and sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"7113",76,0,2013,2,"N","Sherman County, Oregon","Local Government","Promoters of performing arts and sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"7113",76,0,2013,3,"N","Sherman County, Oregon","Local Government","Promoters of performing arts and sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"71131",77,0,2013,1,"N","Sherman County, Oregon","Local Government","Promoters with facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"71131",77,0,2013,2,"N","Sherman County, Oregon","Local Government","Promoters with facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"71131",77,0,2013,3,"N","Sherman County, Oregon","Local Government","Promoters with facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"711310",78,0,2013,1,"N","Sherman County, Oregon","Local Government","Promoters with facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"711310",78,0,2013,2,"N","Sherman County, Oregon","Local Government","Promoters with facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"711310",78,0,2013,3,"N","Sherman County, Oregon","Local Government","Promoters with facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"92",74,0,2013,1,"","Sherman County, Oregon","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",12,55,56,73,428917,116377,2678,538
+"41055",3,"92",74,0,2013,2,"","Sherman County, Oregon","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",12,69,70,85,445255,125952,2907,459
+"41055",3,"92",74,0,2013,3,"","Sherman County, Oregon","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",12,74,68,78,457236,125188,2878,480
+"41055",3,"921",75,0,2013,1,"N","Sherman County, Oregon","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41055",3,"921",75,0,2013,2,"N","Sherman County, Oregon","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41055",3,"921",75,0,2013,3,"N","Sherman County, Oregon","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41055",3,"9211",76,0,2013,1,"N","Sherman County, Oregon","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41055",3,"9211",76,0,2013,2,"N","Sherman County, Oregon","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41055",3,"9211",76,0,2013,3,"N","Sherman County, Oregon","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41055",3,"92114",77,0,2013,1,"","Sherman County, Oregon","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,11,11,12,72907,72907,1707,495
+"41055",3,"92114",77,0,2013,2,"","Sherman County, Oregon","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,16,12,12,82476,82476,1935,476
+"41055",3,"92114",77,0,2013,3,"","Sherman County, Oregon","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,12,12,12,78697,75146,1763,504
+"41055",3,"921140",78,0,2013,1,"","Sherman County, Oregon","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,11,11,12,72907,72907,1707,495
+"41055",3,"921140",78,0,2013,2,"","Sherman County, Oregon","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,16,12,12,82476,82476,1935,476
+"41055",3,"921140",78,0,2013,3,"","Sherman County, Oregon","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,12,12,12,78697,75146,1763,504
+"41055",3,"92119",77,0,2013,1,"N","Sherman County, Oregon","Local Government","Other general government support","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",3,"92119",77,0,2013,2,"N","Sherman County, Oregon","Local Government","Other general government support","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",3,"92119",77,0,2013,3,"N","Sherman County, Oregon","Local Government","Other general government support","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",3,"921190",78,0,2013,1,"N","Sherman County, Oregon","Local Government","Other general government support","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",3,"921190",78,0,2013,2,"N","Sherman County, Oregon","Local Government","Other general government support","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",3,"921190",78,0,2013,3,"N","Sherman County, Oregon","Local Government","Other general government support","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",3,"922",75,0,2013,1,"","Sherman County, Oregon","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,34,35,52,262824,6990,168,501
+"41055",3,"922",75,0,2013,2,"","Sherman County, Oregon","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,44,48,59,269450,13608,315,412
+"41055",3,"922",75,0,2013,3,"","Sherman County, Oregon","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,50,44,55,274298,18998,432,425
+"41055",3,"9221",76,0,2013,1,"","Sherman County, Oregon","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,34,35,52,262824,6990,168,501
+"41055",3,"9221",76,0,2013,2,"","Sherman County, Oregon","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,44,48,59,269450,13608,315,412
+"41055",3,"9221",76,0,2013,3,"","Sherman County, Oregon","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,50,44,55,274298,18998,432,425
+"41055",3,"92211",77,0,2013,1,"N","Sherman County, Oregon","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"92211",77,0,2013,2,"N","Sherman County, Oregon","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"92211",77,0,2013,3,"N","Sherman County, Oregon","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"922110",78,0,2013,1,"N","Sherman County, Oregon","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"922110",78,0,2013,2,"N","Sherman County, Oregon","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"922110",78,0,2013,3,"N","Sherman County, Oregon","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"92216",77,0,2013,1,"","Sherman County, Oregon","Local Government","Fire protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,9,9,8790,6990,168,75
+"41055",3,"92216",77,0,2013,2,"","Sherman County, Oregon","Local Government","Fire protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,12,15,17,15750,13608,315,83
+"41055",3,"92216",77,0,2013,3,"","Sherman County, Oregon","Local Government","Fire protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,19,16,12,21098,18998,432,104
+"41055",3,"922160",78,0,2013,1,"","Sherman County, Oregon","Local Government","Fire protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,9,9,8790,6990,168,75
+"41055",3,"922160",78,0,2013,2,"","Sherman County, Oregon","Local Government","Fire protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,12,15,17,15750,13608,315,83
+"41055",3,"922160",78,0,2013,3,"","Sherman County, Oregon","Local Government","Fire protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,19,16,12,21098,18998,432,104
+"41055",3,"92219",77,0,2013,1,"N","Sherman County, Oregon","Local Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"92219",77,0,2013,2,"N","Sherman County, Oregon","Local Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"92219",77,0,2013,3,"N","Sherman County, Oregon","Local Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"922190",78,0,2013,1,"N","Sherman County, Oregon","Local Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"922190",78,0,2013,2,"N","Sherman County, Oregon","Local Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"922190",78,0,2013,3,"N","Sherman County, Oregon","Local Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"924",75,0,2013,1,"N","Sherman County, Oregon","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"924",75,0,2013,2,"N","Sherman County, Oregon","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"924",75,0,2013,3,"N","Sherman County, Oregon","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"9241",76,0,2013,1,"N","Sherman County, Oregon","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"9241",76,0,2013,2,"N","Sherman County, Oregon","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"9241",76,0,2013,3,"N","Sherman County, Oregon","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"92412",77,0,2013,1,"N","Sherman County, Oregon","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"92412",77,0,2013,2,"N","Sherman County, Oregon","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"92412",77,0,2013,3,"N","Sherman County, Oregon","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"924120",78,0,2013,1,"N","Sherman County, Oregon","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"924120",78,0,2013,2,"N","Sherman County, Oregon","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",3,"924120",78,0,2013,3,"N","Sherman County, Oregon","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"10",71,0,2013,1,"","Sherman County, Oregon","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",57,396,391,401,2919956,2816307,82569,567
+"41055",5,"10",71,0,2013,2,"","Sherman County, Oregon","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",58,445,457,450,3474659,2940594,87023,593
+"41055",5,"10",71,0,2013,3,"","Sherman County, Oregon","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",59,463,473,444,3422898,2456714,72035,572
+"41055",5,"101",72,0,2013,1,"","Sherman County, Oregon","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",9,18,17,18,191569,190070,4631,834
+"41055",5,"101",72,0,2013,2,"","Sherman County, Oregon","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",8,23,22,23,209636,189517,4908,711
+"41055",5,"101",72,0,2013,3,"","Sherman County, Oregon","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",8,26,28,23,251375,165354,4133,753
+"41055",5,"1011",73,0,2013,1,"","Sherman County, Oregon","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",5,11,10,11,114220,113008,2725,824
+"41055",5,"1011",73,0,2013,2,"","Sherman County, Oregon","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",5,12,12,13,105696,96696,2650,659
+"41055",5,"1011",73,0,2013,3,"","Sherman County, Oregon","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",5,15,17,13,147379,94623,2411,756
+"41055",5,"1012",73,0,2013,1,"N","Sherman County, Oregon","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"1012",73,0,2013,2,"N","Sherman County, Oregon","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"1012",73,0,2013,3,"N","Sherman County, Oregon","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"1013",73,0,2013,1,"N","Sherman County, Oregon","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"1013",73,0,2013,2,"N","Sherman County, Oregon","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"1013",73,0,2013,3,"N","Sherman County, Oregon","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"102",72,0,2013,1,"","Sherman County, Oregon","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",48,378,374,383,2728387,2626237,77938,555
+"41055",5,"102",72,0,2013,2,"","Sherman County, Oregon","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",50,422,435,427,3265023,2751077,82115,587
+"41055",5,"102",72,0,2013,3,"","Sherman County, Oregon","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",51,437,445,421,3171523,2291360,67902,562
+"41055",5,"1021",73,0,2013,1,"","Sherman County, Oregon","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",19,211,207,215,1844979,1790568,53373,673
+"41055",5,"1021",73,0,2013,2,"","Sherman County, Oregon","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",18,232,242,246,2241008,1859994,55811,718
+"41055",5,"1021",73,0,2013,3,"","Sherman County, Oregon","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",19,253,259,245,2213751,1525933,45427,675
+"41055",5,"1023",73,0,2013,1,"N","Sherman County, Oregon","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"1023",73,0,2013,2,"N","Sherman County, Oregon","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"1023",73,0,2013,3,"N","Sherman County, Oregon","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"1024",73,0,2013,1,"","Sherman County, Oregon","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",4,14,14,13,80194,80194,2680,451
+"41055",5,"1024",73,0,2013,2,"N","Sherman County, Oregon","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"1024",73,0,2013,3,"N","Sherman County, Oregon","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"1025",73,0,2013,1,"N","Sherman County, Oregon","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"1025",73,0,2013,2,"","Sherman County, Oregon","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,16,18,8,57981,57981,1547,319
+"41055",5,"1025",73,0,2013,3,"","Sherman County, Oregon","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,15,16,20,47165,47165,1291,213
+"41055",5,"1026",73,0,2013,1,"","Sherman County, Oregon","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",10,113,110,115,488968,488968,14006,334
+"41055",5,"1026",73,0,2013,2,"","Sherman County, Oregon","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",11,130,135,135,614264,585251,17021,354
+"41055",5,"1026",73,0,2013,3,"","Sherman County, Oregon","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",11,132,135,122,618091,560300,16321,367
+"41055",5,"1027",73,0,2013,1,"","Sherman County, Oregon","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",9,21,21,23,208446,169785,5553,740
+"41055",5,"1027",73,0,2013,2,"","Sherman County, Oregon","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",9,24,20,19,223748,132940,4229,820
+"41055",5,"1027",73,0,2013,3,"","Sherman County, Oregon","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",9,18,17,17,177577,81193,2593,788
+"41055",5,"1029",73,0,2013,1,"-","Sherman County, Oregon","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"1029",73,0,2013,2,"","Sherman County, Oregon","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"1029",73,0,2013,3,"","Sherman County, Oregon","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"11",74,0,2013,1,"","Sherman County, Oregon","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",5,11,10,11,114220,113008,2725,824
+"41055",5,"11",74,0,2013,2,"","Sherman County, Oregon","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",5,12,12,13,105696,96696,2650,659
+"41055",5,"11",74,0,2013,3,"","Sherman County, Oregon","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",5,15,17,13,147379,94623,2411,756
+"41055",5,"111",75,0,2013,1,"N","Sherman County, Oregon","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"111",75,0,2013,2,"N","Sherman County, Oregon","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"111",75,0,2013,3,"N","Sherman County, Oregon","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"1111",76,0,2013,1,"N","Sherman County, Oregon","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"1111",76,0,2013,2,"N","Sherman County, Oregon","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"1111",76,0,2013,3,"N","Sherman County, Oregon","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"11114",77,0,2013,1,"","Sherman County, Oregon","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,8,8,87270,86058,1894,806
+"41055",5,"11114",77,0,2013,2,"","Sherman County, Oregon","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,9,10,69861,60861,1339,576
+"41055",5,"11114",77,0,2013,3,"","Sherman County, Oregon","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,14,11,90546,70425,1549,615
+"41055",5,"111140",78,0,2013,1,"","Sherman County, Oregon","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,8,8,87270,86058,1894,806
+"41055",5,"111140",78,0,2013,2,"","Sherman County, Oregon","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,9,10,69861,60861,1339,576
+"41055",5,"111140",78,0,2013,3,"","Sherman County, Oregon","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,14,11,90546,70425,1549,615
+"41055",5,"11119",77,0,2013,1,"N","Sherman County, Oregon","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"11119",77,0,2013,2,"N","Sherman County, Oregon","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"11119",77,0,2013,3,"N","Sherman County, Oregon","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"111199",78,0,2013,1,"N","Sherman County, Oregon","Private","All other grain farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"111199",78,0,2013,2,"N","Sherman County, Oregon","Private","All other grain farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"111199",78,0,2013,3,"N","Sherman County, Oregon","Private","All other grain farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"115",75,0,2013,1,"N","Sherman County, Oregon","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"115",75,0,2013,2,"N","Sherman County, Oregon","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"115",75,0,2013,3,"N","Sherman County, Oregon","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"1151",76,0,2013,1,"N","Sherman County, Oregon","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"1151",76,0,2013,2,"N","Sherman County, Oregon","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"1151",76,0,2013,3,"N","Sherman County, Oregon","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"11511",77,0,2013,1,"N","Sherman County, Oregon","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"11511",77,0,2013,2,"N","Sherman County, Oregon","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"11511",77,0,2013,3,"N","Sherman County, Oregon","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"115112",78,0,2013,1,"N","Sherman County, Oregon","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"115112",78,0,2013,2,"N","Sherman County, Oregon","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"115112",78,0,2013,3,"N","Sherman County, Oregon","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"22",74,0,2013,1,"N","Sherman County, Oregon","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"22",74,0,2013,2,"N","Sherman County, Oregon","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"22",74,0,2013,3,"N","Sherman County, Oregon","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"221",75,0,2013,1,"N","Sherman County, Oregon","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"221",75,0,2013,2,"N","Sherman County, Oregon","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"221",75,0,2013,3,"N","Sherman County, Oregon","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"2211",76,0,2013,1,"N","Sherman County, Oregon","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"2211",76,0,2013,2,"N","Sherman County, Oregon","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"2211",76,0,2013,3,"N","Sherman County, Oregon","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"22111",77,0,2013,1,"N","Sherman County, Oregon","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"22111",77,0,2013,2,"N","Sherman County, Oregon","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"22111",77,0,2013,3,"N","Sherman County, Oregon","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"221115",78,0,2013,1,"N","Sherman County, Oregon","Private","Wind electric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"221115",78,0,2013,2,"N","Sherman County, Oregon","Private","Wind electric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"221115",78,0,2013,3,"N","Sherman County, Oregon","Private","Wind electric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"23",74,0,2013,1,"N","Sherman County, Oregon","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"23",74,0,2013,2,"N","Sherman County, Oregon","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"23",74,0,2013,3,"N","Sherman County, Oregon","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"237",75,0,2013,1,"N","Sherman County, Oregon","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"237",75,0,2013,2,"-","Sherman County, Oregon","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"237",75,0,2013,3,"-","Sherman County, Oregon","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"2379",76,0,2013,1,"N","Sherman County, Oregon","Private","Other heavy construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"2379",76,0,2013,2,"-","Sherman County, Oregon","Private","Other heavy construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"2379",76,0,2013,3,"-","Sherman County, Oregon","Private","Other heavy construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"23799",77,0,2013,1,"N","Sherman County, Oregon","Private","Other heavy construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"23799",77,0,2013,2,"-","Sherman County, Oregon","Private","Other heavy construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"23799",77,0,2013,3,"-","Sherman County, Oregon","Private","Other heavy construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"237990",78,0,2013,1,"N","Sherman County, Oregon","Private","Other heavy construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"237990",78,0,2013,2,"-","Sherman County, Oregon","Private","Other heavy construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"237990",78,0,2013,3,"-","Sherman County, Oregon","Private","Other heavy construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"238",75,0,2013,1,"N","Sherman County, Oregon","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"238",75,0,2013,2,"N","Sherman County, Oregon","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"238",75,0,2013,3,"N","Sherman County, Oregon","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"2389",76,0,2013,1,"N","Sherman County, Oregon","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"2389",76,0,2013,2,"N","Sherman County, Oregon","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"2389",76,0,2013,3,"N","Sherman County, Oregon","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"23891",77,0,2013,1,"N","Sherman County, Oregon","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"23891",77,0,2013,2,"N","Sherman County, Oregon","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"23891",77,0,2013,3,"N","Sherman County, Oregon","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"238911",78,0,2013,1,"N","Sherman County, Oregon","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"238911",78,0,2013,2,"N","Sherman County, Oregon","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"238911",78,0,2013,3,"N","Sherman County, Oregon","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"23899",77,0,2013,1,"N","Sherman County, Oregon","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"23899",77,0,2013,2,"N","Sherman County, Oregon","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"23899",77,0,2013,3,"N","Sherman County, Oregon","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"238991",78,0,2013,1,"N","Sherman County, Oregon","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"238991",78,0,2013,2,"N","Sherman County, Oregon","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"238991",78,0,2013,3,"N","Sherman County, Oregon","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"31-33",74,0,2013,1,"N","Sherman County, Oregon","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"31-33",74,0,2013,2,"N","Sherman County, Oregon","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"31-33",74,0,2013,3,"N","Sherman County, Oregon","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"325",75,0,2013,1,"N","Sherman County, Oregon","Private","Chemical manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"325",75,0,2013,2,"N","Sherman County, Oregon","Private","Chemical manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"325",75,0,2013,3,"N","Sherman County, Oregon","Private","Chemical manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"3253",76,0,2013,1,"N","Sherman County, Oregon","Private","Agricultural chemical manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"3253",76,0,2013,2,"N","Sherman County, Oregon","Private","Agricultural chemical manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"3253",76,0,2013,3,"N","Sherman County, Oregon","Private","Agricultural chemical manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"32531",77,0,2013,1,"N","Sherman County, Oregon","Private","Fertilizer manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"32531",77,0,2013,2,"N","Sherman County, Oregon","Private","Fertilizer manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"32531",77,0,2013,3,"N","Sherman County, Oregon","Private","Fertilizer manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"325314",78,0,2013,1,"N","Sherman County, Oregon","Private","Fertilizer, mixing only, manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"325314",78,0,2013,2,"N","Sherman County, Oregon","Private","Fertilizer, mixing only, manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"325314",78,0,2013,3,"N","Sherman County, Oregon","Private","Fertilizer, mixing only, manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"42",74,0,2013,1,"","Sherman County, Oregon","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,69,66,74,909672,879694,26816,1004
+"41055",5,"42",74,0,2013,2,"","Sherman County, Oregon","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,78,77,78,1104630,844505,25829,1094
+"41055",5,"42",74,0,2013,3,"","Sherman County, Oregon","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,90,84,79,1091926,582184,17772,996
+"41055",5,"423",75,0,2013,1,"N","Sherman County, Oregon","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"423",75,0,2013,2,"N","Sherman County, Oregon","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"423",75,0,2013,3,"N","Sherman County, Oregon","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"4233",76,0,2013,1,"N","Sherman County, Oregon","Private","Lumber and const. supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4233",76,0,2013,2,"N","Sherman County, Oregon","Private","Lumber and const. supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4233",76,0,2013,3,"N","Sherman County, Oregon","Private","Lumber and const. supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"42331",77,0,2013,1,"N","Sherman County, Oregon","Private","Lumber and wood merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"42331",77,0,2013,2,"N","Sherman County, Oregon","Private","Lumber and wood merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"42331",77,0,2013,3,"N","Sherman County, Oregon","Private","Lumber and wood merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"423310",78,0,2013,1,"N","Sherman County, Oregon","Private","Lumber and wood merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"423310",78,0,2013,2,"N","Sherman County, Oregon","Private","Lumber and wood merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"423310",78,0,2013,3,"N","Sherman County, Oregon","Private","Lumber and wood merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4238",76,0,2013,1,"N","Sherman County, Oregon","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4238",76,0,2013,2,"N","Sherman County, Oregon","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4238",76,0,2013,3,"N","Sherman County, Oregon","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"42382",77,0,2013,1,"N","Sherman County, Oregon","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"42382",77,0,2013,2,"N","Sherman County, Oregon","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"42382",77,0,2013,3,"N","Sherman County, Oregon","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"423820",78,0,2013,1,"N","Sherman County, Oregon","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"423820",78,0,2013,2,"N","Sherman County, Oregon","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"423820",78,0,2013,3,"N","Sherman County, Oregon","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"424",75,0,2013,1,"","Sherman County, Oregon","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,59,57,64,776508,762848,23378,996
+"41055",5,"424",75,0,2013,2,"","Sherman County, Oregon","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,67,66,67,964675,759719,23280,1113
+"41055",5,"424",75,0,2013,3,"","Sherman County, Oregon","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,79,75,67,966007,524144,15948,1009
+"41055",5,"4245",76,0,2013,1,"N","Sherman County, Oregon","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4245",76,0,2013,2,"N","Sherman County, Oregon","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4245",76,0,2013,3,"N","Sherman County, Oregon","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"42451",77,0,2013,1,"N","Sherman County, Oregon","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"42451",77,0,2013,2,"N","Sherman County, Oregon","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"42451",77,0,2013,3,"N","Sherman County, Oregon","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"424510",78,0,2013,1,"N","Sherman County, Oregon","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"424510",78,0,2013,2,"N","Sherman County, Oregon","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"424510",78,0,2013,3,"N","Sherman County, Oregon","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4249",76,0,2013,1,"N","Sherman County, Oregon","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"4249",76,0,2013,2,"N","Sherman County, Oregon","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"4249",76,0,2013,3,"N","Sherman County, Oregon","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"42491",77,0,2013,1,"N","Sherman County, Oregon","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"42491",77,0,2013,2,"N","Sherman County, Oregon","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"42491",77,0,2013,3,"N","Sherman County, Oregon","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"424910",78,0,2013,1,"N","Sherman County, Oregon","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"424910",78,0,2013,2,"N","Sherman County, Oregon","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"424910",78,0,2013,3,"N","Sherman County, Oregon","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"425",75,0,2013,1,"N","Sherman County, Oregon","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"425",75,0,2013,2,"N","Sherman County, Oregon","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"425",75,0,2013,3,"N","Sherman County, Oregon","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4251",76,0,2013,1,"N","Sherman County, Oregon","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4251",76,0,2013,2,"N","Sherman County, Oregon","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4251",76,0,2013,3,"N","Sherman County, Oregon","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"42512",77,0,2013,1,"N","Sherman County, Oregon","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"42512",77,0,2013,2,"N","Sherman County, Oregon","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"42512",77,0,2013,3,"N","Sherman County, Oregon","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"425120",78,0,2013,1,"N","Sherman County, Oregon","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"425120",78,0,2013,2,"N","Sherman County, Oregon","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"425120",78,0,2013,3,"N","Sherman County, Oregon","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"44-45",74,0,2013,1,"N","Sherman County, Oregon","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"41055",5,"44-45",74,0,2013,2,"N","Sherman County, Oregon","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41055",5,"44-45",74,0,2013,3,"N","Sherman County, Oregon","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41055",5,"441",75,0,2013,1,"N","Sherman County, Oregon","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"441",75,0,2013,2,"N","Sherman County, Oregon","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"441",75,0,2013,3,"N","Sherman County, Oregon","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4413",76,0,2013,1,"N","Sherman County, Oregon","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4413",76,0,2013,2,"N","Sherman County, Oregon","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4413",76,0,2013,3,"N","Sherman County, Oregon","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"44132",77,0,2013,1,"N","Sherman County, Oregon","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"44132",77,0,2013,2,"N","Sherman County, Oregon","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"44132",77,0,2013,3,"N","Sherman County, Oregon","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"441320",78,0,2013,1,"N","Sherman County, Oregon","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"441320",78,0,2013,2,"N","Sherman County, Oregon","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"441320",78,0,2013,3,"N","Sherman County, Oregon","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"445",75,0,2013,1,"N","Sherman County, Oregon","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"445",75,0,2013,2,"N","Sherman County, Oregon","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"445",75,0,2013,3,"N","Sherman County, Oregon","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"4451",76,0,2013,1,"N","Sherman County, Oregon","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"4451",76,0,2013,2,"N","Sherman County, Oregon","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"4451",76,0,2013,3,"N","Sherman County, Oregon","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"44512",77,0,2013,1,"N","Sherman County, Oregon","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"44512",77,0,2013,2,"N","Sherman County, Oregon","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"44512",77,0,2013,3,"N","Sherman County, Oregon","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"445120",78,0,2013,1,"N","Sherman County, Oregon","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"445120",78,0,2013,2,"N","Sherman County, Oregon","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"445120",78,0,2013,3,"N","Sherman County, Oregon","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"447",75,0,2013,1,"","Sherman County, Oregon","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,48,46,47,209826,209826,7105,343
+"41055",5,"447",75,0,2013,2,"","Sherman County, Oregon","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,54,56,56,239622,230957,7879,333
+"41055",5,"447",75,0,2013,3,"","Sherman County, Oregon","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,55,53,50,254986,229336,7777,372
+"41055",5,"4471",76,0,2013,1,"","Sherman County, Oregon","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,48,46,47,209826,209826,7105,343
+"41055",5,"4471",76,0,2013,2,"","Sherman County, Oregon","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,54,56,56,239622,230957,7879,333
+"41055",5,"4471",76,0,2013,3,"","Sherman County, Oregon","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,55,53,50,254986,229336,7777,372
+"41055",5,"44711",77,0,2013,1,"","Sherman County, Oregon","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,48,46,47,209826,209826,7105,343
+"41055",5,"44711",77,0,2013,2,"","Sherman County, Oregon","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,54,56,56,239622,230957,7879,333
+"41055",5,"44711",77,0,2013,3,"","Sherman County, Oregon","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,55,53,50,254986,229336,7777,372
+"41055",5,"447110",78,0,2013,1,"","Sherman County, Oregon","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,48,46,47,209826,209826,7105,343
+"41055",5,"447110",78,0,2013,2,"","Sherman County, Oregon","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,54,56,56,239622,230957,7879,333
+"41055",5,"447110",78,0,2013,3,"","Sherman County, Oregon","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,55,53,50,254986,229336,7777,372
+"41055",5,"48-49",74,0,2013,1,"","Sherman County, Oregon","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,78,79,80,559068,559065,16053,544
+"41055",5,"48-49",74,0,2013,2,"","Sherman County, Oregon","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,86,96,99,708170,696677,19993,582
+"41055",5,"48-49",74,0,2013,3,"","Sherman County, Oregon","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",6,95,110,104,701210,677478,18993,524
+"41055",5,"484",75,0,2013,1,"N","Sherman County, Oregon","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"484",75,0,2013,2,"N","Sherman County, Oregon","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"484",75,0,2013,3,"","Sherman County, Oregon","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,8,78949,77442,1759,828
+"41055",5,"4841",76,0,2013,1,"N","Sherman County, Oregon","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"4841",76,0,2013,2,"N","Sherman County, Oregon","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"4841",76,0,2013,3,"","Sherman County, Oregon","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,7,8,78949,77442,1759,828
+"41055",5,"48412",77,0,2013,1,"N","Sherman County, Oregon","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"48412",77,0,2013,2,"N","Sherman County, Oregon","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"48412",77,0,2013,3,"","Sherman County, Oregon","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,7,8,78949,77442,1759,828
+"41055",5,"484121",78,0,2013,1,"N","Sherman County, Oregon","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"484121",78,0,2013,2,"N","Sherman County, Oregon","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"484121",78,0,2013,3,"","Sherman County, Oregon","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,7,8,78949,77442,1759,828
+"41055",5,"485",75,0,2013,1,"N","Sherman County, Oregon","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"485",75,0,2013,2,"N","Sherman County, Oregon","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"485",75,0,2013,3,"N","Sherman County, Oregon","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4854",76,0,2013,1,"N","Sherman County, Oregon","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4854",76,0,2013,2,"N","Sherman County, Oregon","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4854",76,0,2013,3,"N","Sherman County, Oregon","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"48541",77,0,2013,1,"N","Sherman County, Oregon","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"48541",77,0,2013,2,"N","Sherman County, Oregon","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"48541",77,0,2013,3,"N","Sherman County, Oregon","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"485410",78,0,2013,1,"N","Sherman County, Oregon","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"485410",78,0,2013,2,"N","Sherman County, Oregon","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"485410",78,0,2013,3,"N","Sherman County, Oregon","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"488",75,0,2013,1,"N","Sherman County, Oregon","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"488",75,0,2013,2,"N","Sherman County, Oregon","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"488",75,0,2013,3,"N","Sherman County, Oregon","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4884",76,0,2013,1,"N","Sherman County, Oregon","Private","Support activities for road transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4884",76,0,2013,2,"N","Sherman County, Oregon","Private","Support activities for road transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4884",76,0,2013,3,"N","Sherman County, Oregon","Private","Support activities for road transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"48841",77,0,2013,1,"N","Sherman County, Oregon","Private","Motor vehicle towing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"48841",77,0,2013,2,"N","Sherman County, Oregon","Private","Motor vehicle towing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"48841",77,0,2013,3,"N","Sherman County, Oregon","Private","Motor vehicle towing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"488410",78,0,2013,1,"N","Sherman County, Oregon","Private","Motor vehicle towing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"488410",78,0,2013,2,"N","Sherman County, Oregon","Private","Motor vehicle towing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"488410",78,0,2013,3,"N","Sherman County, Oregon","Private","Motor vehicle towing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"493",75,0,2013,1,"N","Sherman County, Oregon","Private","Warehousing and storage","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"493",75,0,2013,2,"N","Sherman County, Oregon","Private","Warehousing and storage","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"493",75,0,2013,3,"N","Sherman County, Oregon","Private","Warehousing and storage","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4931",76,0,2013,1,"N","Sherman County, Oregon","Private","Warehousing and storage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4931",76,0,2013,2,"N","Sherman County, Oregon","Private","Warehousing and storage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"4931",76,0,2013,3,"N","Sherman County, Oregon","Private","Warehousing and storage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"49319",77,0,2013,1,"N","Sherman County, Oregon","Private","Other warehousing and storage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"49319",77,0,2013,2,"N","Sherman County, Oregon","Private","Other warehousing and storage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"49319",77,0,2013,3,"N","Sherman County, Oregon","Private","Other warehousing and storage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"493190",78,0,2013,1,"N","Sherman County, Oregon","Private","Other warehousing and storage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"493190",78,0,2013,2,"N","Sherman County, Oregon","Private","Other warehousing and storage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"493190",78,0,2013,3,"N","Sherman County, Oregon","Private","Other warehousing and storage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"52",74,0,2013,1,"N","Sherman County, Oregon","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"52",74,0,2013,2,"N","Sherman County, Oregon","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"52",74,0,2013,3,"N","Sherman County, Oregon","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"522",75,0,2013,1,"N","Sherman County, Oregon","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"522",75,0,2013,2,"N","Sherman County, Oregon","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"522",75,0,2013,3,"N","Sherman County, Oregon","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"5221",76,0,2013,1,"N","Sherman County, Oregon","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"5221",76,0,2013,2,"N","Sherman County, Oregon","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"5221",76,0,2013,3,"N","Sherman County, Oregon","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"52211",77,0,2013,1,"N","Sherman County, Oregon","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"52211",77,0,2013,2,"N","Sherman County, Oregon","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"52211",77,0,2013,3,"N","Sherman County, Oregon","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"522110",78,0,2013,1,"N","Sherman County, Oregon","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"522110",78,0,2013,2,"N","Sherman County, Oregon","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"522110",78,0,2013,3,"N","Sherman County, Oregon","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"523",75,0,2013,1,"N","Sherman County, Oregon","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"523",75,0,2013,2,"N","Sherman County, Oregon","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"523",75,0,2013,3,"N","Sherman County, Oregon","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"5239",76,0,2013,1,"N","Sherman County, Oregon","Private","Other financial investment activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"5239",76,0,2013,2,"N","Sherman County, Oregon","Private","Other financial investment activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"5239",76,0,2013,3,"N","Sherman County, Oregon","Private","Other financial investment activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"52393",77,0,2013,1,"N","Sherman County, Oregon","Private","Investment advice","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"52393",77,0,2013,2,"N","Sherman County, Oregon","Private","Investment advice","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"52393",77,0,2013,3,"N","Sherman County, Oregon","Private","Investment advice","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"523930",78,0,2013,1,"N","Sherman County, Oregon","Private","Investment advice","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"523930",78,0,2013,2,"N","Sherman County, Oregon","Private","Investment advice","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"523930",78,0,2013,3,"N","Sherman County, Oregon","Private","Investment advice","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"54",74,0,2013,1,"N","Sherman County, Oregon","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"54",74,0,2013,2,"N","Sherman County, Oregon","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"54",74,0,2013,3,"N","Sherman County, Oregon","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"541",75,0,2013,1,"N","Sherman County, Oregon","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"541",75,0,2013,2,"N","Sherman County, Oregon","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"541",75,0,2013,3,"N","Sherman County, Oregon","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"5416",76,0,2013,1,"N","Sherman County, Oregon","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"5416",76,0,2013,2,"N","Sherman County, Oregon","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"5416",76,0,2013,3,"N","Sherman County, Oregon","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"54161",77,0,2013,1,"N","Sherman County, Oregon","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"54161",77,0,2013,2,"N","Sherman County, Oregon","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"54161",77,0,2013,3,"N","Sherman County, Oregon","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"541611",78,0,2013,1,"N","Sherman County, Oregon","Private","Administrative management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"541611",78,0,2013,2,"N","Sherman County, Oregon","Private","Administrative management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"541611",78,0,2013,3,"N","Sherman County, Oregon","Private","Administrative management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"54169",77,0,2013,1,"N","Sherman County, Oregon","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"54169",77,0,2013,2,"N","Sherman County, Oregon","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"54169",77,0,2013,3,"N","Sherman County, Oregon","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"541690",78,0,2013,1,"N","Sherman County, Oregon","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"541690",78,0,2013,2,"N","Sherman County, Oregon","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"541690",78,0,2013,3,"N","Sherman County, Oregon","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"56",74,0,2013,1,"N","Sherman County, Oregon","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"56",74,0,2013,2,"N","Sherman County, Oregon","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"56",74,0,2013,3,"N","Sherman County, Oregon","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"561",75,0,2013,1,"N","Sherman County, Oregon","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"561",75,0,2013,2,"N","Sherman County, Oregon","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"561",75,0,2013,3,"N","Sherman County, Oregon","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"5617",76,0,2013,1,"N","Sherman County, Oregon","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"5617",76,0,2013,2,"N","Sherman County, Oregon","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"5617",76,0,2013,3,"N","Sherman County, Oregon","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"56172",77,0,2013,1,"N","Sherman County, Oregon","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"56172",77,0,2013,2,"N","Sherman County, Oregon","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"56172",77,0,2013,3,"N","Sherman County, Oregon","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"561720",78,0,2013,1,"N","Sherman County, Oregon","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"561720",78,0,2013,2,"N","Sherman County, Oregon","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"561720",78,0,2013,3,"N","Sherman County, Oregon","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"5619",76,0,2013,1,"N","Sherman County, Oregon","Private","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"5619",76,0,2013,2,"N","Sherman County, Oregon","Private","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"5619",76,0,2013,3,"N","Sherman County, Oregon","Private","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"56199",77,0,2013,1,"N","Sherman County, Oregon","Private","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"56199",77,0,2013,2,"N","Sherman County, Oregon","Private","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"56199",77,0,2013,3,"N","Sherman County, Oregon","Private","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"561990",78,0,2013,1,"N","Sherman County, Oregon","Private","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"561990",78,0,2013,2,"N","Sherman County, Oregon","Private","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"561990",78,0,2013,3,"N","Sherman County, Oregon","Private","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"62",74,0,2013,1,"N","Sherman County, Oregon","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"62",74,0,2013,2,"","Sherman County, Oregon","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,16,18,8,57981,57981,1547,319
+"41055",5,"62",74,0,2013,3,"","Sherman County, Oregon","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,15,16,20,47165,47165,1291,213
+"41055",5,"623",75,0,2013,1,"-","Sherman County, Oregon","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"623",75,0,2013,2,"N","Sherman County, Oregon","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"623",75,0,2013,3,"N","Sherman County, Oregon","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"6233",76,0,2013,1,"-","Sherman County, Oregon","Private","Community care facilities for the elderly","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"6233",76,0,2013,2,"N","Sherman County, Oregon","Private","Community care facilities for the elderly","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"6233",76,0,2013,3,"N","Sherman County, Oregon","Private","Community care facilities for the elderly","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"62331",77,0,2013,1,"-","Sherman County, Oregon","Private","Community care facilities for the elderly","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"62331",77,0,2013,2,"N","Sherman County, Oregon","Private","Community care facilities for the elderly","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"62331",77,0,2013,3,"N","Sherman County, Oregon","Private","Community care facilities for the elderly","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"623312",78,0,2013,1,"-","Sherman County, Oregon","Private","Assisted living facilities for the elderly","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"623312",78,0,2013,2,"N","Sherman County, Oregon","Private","Assisted living facilities for the elderly","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"623312",78,0,2013,3,"N","Sherman County, Oregon","Private","Assisted living facilities for the elderly","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"624",75,0,2013,1,"N","Sherman County, Oregon","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"624",75,0,2013,2,"N","Sherman County, Oregon","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"624",75,0,2013,3,"N","Sherman County, Oregon","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"6244",76,0,2013,1,"N","Sherman County, Oregon","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"6244",76,0,2013,2,"N","Sherman County, Oregon","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"6244",76,0,2013,3,"N","Sherman County, Oregon","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"62441",77,0,2013,1,"N","Sherman County, Oregon","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"62441",77,0,2013,2,"N","Sherman County, Oregon","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"62441",77,0,2013,3,"N","Sherman County, Oregon","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"624410",78,0,2013,1,"N","Sherman County, Oregon","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"624410",78,0,2013,2,"N","Sherman County, Oregon","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"624410",78,0,2013,3,"N","Sherman County, Oregon","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"71",74,0,2013,1,"N","Sherman County, Oregon","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"71",74,0,2013,2,"N","Sherman County, Oregon","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"71",74,0,2013,3,"N","Sherman County, Oregon","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"711",75,0,2013,1,"N","Sherman County, Oregon","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"711",75,0,2013,2,"N","Sherman County, Oregon","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"711",75,0,2013,3,"N","Sherman County, Oregon","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"7112",76,0,2013,1,"N","Sherman County, Oregon","Private","Spectator sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"7112",76,0,2013,2,"N","Sherman County, Oregon","Private","Spectator sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"7112",76,0,2013,3,"N","Sherman County, Oregon","Private","Spectator sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"71121",77,0,2013,1,"N","Sherman County, Oregon","Private","Spectator sports","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"71121",77,0,2013,2,"N","Sherman County, Oregon","Private","Spectator sports","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"71121",77,0,2013,3,"N","Sherman County, Oregon","Private","Spectator sports","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"711212",78,0,2013,1,"N","Sherman County, Oregon","Private","Racetracks","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"711212",78,0,2013,2,"N","Sherman County, Oregon","Private","Racetracks","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"711212",78,0,2013,3,"N","Sherman County, Oregon","Private","Racetracks","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"712",75,0,2013,1,"N","Sherman County, Oregon","Private","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"712",75,0,2013,2,"N","Sherman County, Oregon","Private","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"712",75,0,2013,3,"N","Sherman County, Oregon","Private","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"7121",76,0,2013,1,"N","Sherman County, Oregon","Private","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"7121",76,0,2013,2,"N","Sherman County, Oregon","Private","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"7121",76,0,2013,3,"N","Sherman County, Oregon","Private","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"71211",77,0,2013,1,"N","Sherman County, Oregon","Private","Museums","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"71211",77,0,2013,2,"N","Sherman County, Oregon","Private","Museums","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"71211",77,0,2013,3,"N","Sherman County, Oregon","Private","Museums","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"712110",78,0,2013,1,"N","Sherman County, Oregon","Private","Museums","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"712110",78,0,2013,2,"N","Sherman County, Oregon","Private","Museums","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"712110",78,0,2013,3,"N","Sherman County, Oregon","Private","Museums","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"713",75,0,2013,1,"N","Sherman County, Oregon","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"713",75,0,2013,2,"N","Sherman County, Oregon","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"713",75,0,2013,3,"N","Sherman County, Oregon","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"7139",76,0,2013,1,"N","Sherman County, Oregon","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"7139",76,0,2013,2,"N","Sherman County, Oregon","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"7139",76,0,2013,3,"N","Sherman County, Oregon","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"71399",77,0,2013,1,"N","Sherman County, Oregon","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"71399",77,0,2013,2,"N","Sherman County, Oregon","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"71399",77,0,2013,3,"N","Sherman County, Oregon","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"713990",78,0,2013,1,"N","Sherman County, Oregon","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"713990",78,0,2013,2,"N","Sherman County, Oregon","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"713990",78,0,2013,3,"N","Sherman County, Oregon","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"72",74,0,2013,1,"N","Sherman County, Oregon","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"41055",5,"72",74,0,2013,2,"N","Sherman County, Oregon","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"41055",5,"72",74,0,2013,3,"N","Sherman County, Oregon","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"41055",5,"721",75,0,2013,1,"N","Sherman County, Oregon","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"721",75,0,2013,2,"N","Sherman County, Oregon","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"721",75,0,2013,3,"N","Sherman County, Oregon","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"7211",76,0,2013,1,"N","Sherman County, Oregon","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"7211",76,0,2013,2,"N","Sherman County, Oregon","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"7211",76,0,2013,3,"N","Sherman County, Oregon","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"72111",77,0,2013,1,"N","Sherman County, Oregon","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"72111",77,0,2013,2,"N","Sherman County, Oregon","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"72111",77,0,2013,3,"N","Sherman County, Oregon","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"721110",78,0,2013,1,"N","Sherman County, Oregon","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"721110",78,0,2013,2,"N","Sherman County, Oregon","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"721110",78,0,2013,3,"N","Sherman County, Oregon","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41055",5,"7212",76,0,2013,1,"N","Sherman County, Oregon","Private","Rv parks and recreational camps","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"7212",76,0,2013,2,"N","Sherman County, Oregon","Private","Rv parks and recreational camps","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"7212",76,0,2013,3,"N","Sherman County, Oregon","Private","Rv parks and recreational camps","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"72121",77,0,2013,1,"N","Sherman County, Oregon","Private","Rv parks and recreational camps","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"72121",77,0,2013,2,"N","Sherman County, Oregon","Private","Rv parks and recreational camps","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"72121",77,0,2013,3,"N","Sherman County, Oregon","Private","Rv parks and recreational camps","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"721211",78,0,2013,1,"N","Sherman County, Oregon","Private","Rv parks and campgrounds","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"721211",78,0,2013,2,"N","Sherman County, Oregon","Private","Rv parks and campgrounds","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"721211",78,0,2013,3,"N","Sherman County, Oregon","Private","Rv parks and campgrounds","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"722",75,0,2013,1,"","Sherman County, Oregon","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,100,97,104,442583,442583,12454,339
+"41055",5,"722",75,0,2013,2,"","Sherman County, Oregon","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,109,115,111,547203,518190,14723,377
+"41055",5,"722",75,0,2013,3,"","Sherman County, Oregon","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,108,108,101,538034,480243,13544,392
+"41055",5,"7225",76,0,2013,1,"","Sherman County, Oregon","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,100,97,104,442583,442583,12454,339
+"41055",5,"7225",76,0,2013,2,"","Sherman County, Oregon","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,109,115,111,547203,518190,14723,377
+"41055",5,"7225",76,0,2013,3,"","Sherman County, Oregon","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,108,108,101,538034,480243,13544,392
+"41055",5,"72251",77,0,2013,1,"","Sherman County, Oregon","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,100,97,104,442583,442583,12454,339
+"41055",5,"72251",77,0,2013,2,"","Sherman County, Oregon","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,109,115,111,547203,518190,14723,377
+"41055",5,"72251",77,0,2013,3,"","Sherman County, Oregon","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,108,108,101,538034,480243,13544,392
+"41055",5,"722511",78,0,2013,1,"N","Sherman County, Oregon","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"722511",78,0,2013,2,"N","Sherman County, Oregon","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"722511",78,0,2013,3,"N","Sherman County, Oregon","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"722513",78,0,2013,1,"N","Sherman County, Oregon","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"722513",78,0,2013,2,"N","Sherman County, Oregon","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"722513",78,0,2013,3,"N","Sherman County, Oregon","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"81",74,0,2013,1,"","Sherman County, Oregon","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",9,21,21,23,208446,169785,5553,740
+"41055",5,"81",74,0,2013,2,"","Sherman County, Oregon","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",9,24,20,19,223748,132940,4229,820
+"41055",5,"81",74,0,2013,3,"","Sherman County, Oregon","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",9,18,17,17,177577,81193,2593,788
+"41055",5,"811",75,0,2013,1,"N","Sherman County, Oregon","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"811",75,0,2013,2,"N","Sherman County, Oregon","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41055",5,"811",75,0,2013,3,"","Sherman County, Oregon","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,11,10,11,138020,55586,2029,995
+"41055",5,"8111",76,0,2013,1,"N","Sherman County, Oregon","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"8111",76,0,2013,2,"N","Sherman County, Oregon","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"8111",76,0,2013,3,"N","Sherman County, Oregon","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"81111",77,0,2013,1,"N","Sherman County, Oregon","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"81111",77,0,2013,2,"N","Sherman County, Oregon","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"81111",77,0,2013,3,"N","Sherman County, Oregon","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"811111",78,0,2013,1,"N","Sherman County, Oregon","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"811111",78,0,2013,2,"N","Sherman County, Oregon","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"811111",78,0,2013,3,"N","Sherman County, Oregon","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"8113",76,0,2013,1,"N","Sherman County, Oregon","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"8113",76,0,2013,2,"N","Sherman County, Oregon","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"8113",76,0,2013,3,"N","Sherman County, Oregon","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"81131",77,0,2013,1,"N","Sherman County, Oregon","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"81131",77,0,2013,2,"N","Sherman County, Oregon","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"81131",77,0,2013,3,"N","Sherman County, Oregon","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"811310",78,0,2013,1,"N","Sherman County, Oregon","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"811310",78,0,2013,2,"N","Sherman County, Oregon","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"811310",78,0,2013,3,"N","Sherman County, Oregon","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41055",5,"813",75,0,2013,1,"N","Sherman County, Oregon","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"41055",5,"813",75,0,2013,2,"N","Sherman County, Oregon","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"41055",5,"813",75,0,2013,3,"","Sherman County, Oregon","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,7,7,6,39557,25607,564,456
+"41055",5,"8131",76,0,2013,1,"N","Sherman County, Oregon","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"41055",5,"8131",76,0,2013,2,"N","Sherman County, Oregon","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"41055",5,"8131",76,0,2013,3,"","Sherman County, Oregon","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,7,7,6,39557,25607,564,456
+"41055",5,"81311",77,0,2013,1,"N","Sherman County, Oregon","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"41055",5,"81311",77,0,2013,2,"N","Sherman County, Oregon","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"41055",5,"81311",77,0,2013,3,"","Sherman County, Oregon","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,7,7,6,39557,25607,564,456
+"41055",5,"813110",78,0,2013,1,"N","Sherman County, Oregon","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"41055",5,"813110",78,0,2013,2,"N","Sherman County, Oregon","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"41055",5,"813110",78,0,2013,3,"","Sherman County, Oregon","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,7,7,6,39557,25607,564,456
+"41055",5,"99",74,0,2013,1,"-","Sherman County, Oregon","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"99",74,0,2013,2,"","Sherman County, Oregon","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"99",74,0,2013,3,"","Sherman County, Oregon","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"999",75,0,2013,1,"-","Sherman County, Oregon","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"999",75,0,2013,2,"","Sherman County, Oregon","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"999",75,0,2013,3,"","Sherman County, Oregon","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"9999",76,0,2013,1,"-","Sherman County, Oregon","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"9999",76,0,2013,2,"","Sherman County, Oregon","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"9999",76,0,2013,3,"","Sherman County, Oregon","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"99999",77,0,2013,1,"-","Sherman County, Oregon","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"99999",77,0,2013,2,"","Sherman County, Oregon","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"99999",77,0,2013,3,"","Sherman County, Oregon","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"999999",78,0,2013,1,"-","Sherman County, Oregon","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41055",5,"999999",78,0,2013,2,"","Sherman County, Oregon","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41055",5,"999999",78,0,2013,3,"","Sherman County, Oregon","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

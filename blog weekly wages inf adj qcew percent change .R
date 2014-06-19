@@ -3,6 +3,7 @@ library(choroplethr)
 library(dplyr)
 library(stringr)
 
+loc = paste0(getwd(), "/",  "data/")
 # create a map of location of files
 base = paste0(loc, "2013.q1-q3.by_area/")
 # create list of the files to be used
@@ -41,11 +42,6 @@ top_dte = as.vector(cpi[cpi$date == "2007-09-01",2])
 bot_dte = as.vector(cpi[cpi$date == "2013-09-01",2])
 inflator =  bot_dte /top_dte
 #########################################################################################
-# url = "http://www.bls.gov/cew/data/files/2007/csv/2007_qtrly_by_area.zip"
-# dest = paste0(loc, "2007_qtrly_by_area.zip") 
-# download.file(url, dest) # get the file to data folder
-# unzip(dest, exdir= loc) # unzip the files into data folder
-unlink(dest) 
 
 # create a map of location of files
 base = paste0(loc, "2007.q1-q4.by_area/")
@@ -73,16 +69,14 @@ df.2 <-  filter(qcew, qtr == 2) %.%
 df.2 <- df.2[, c(1, 4)]
 
 names(df.2) <- c( "region", "wg_inf_ad")    
-map2 <- choroplethr(df.2, "county", title = "Average Weekly Wage 2007 Qtr 3 inflation adjusted", states = state.abb.48, num_buckets = 5 )
 
-library(gridExtra)
-library(ggplot2)
-
-grid.arrange(map1, map2 , nrow=1, ncol=2)
 # create a map that shows percent change of wages with inflation adjusted values form 2007 to 2013
 df.pc <- left_join(df, df.2) %.%
-        mutate(pct_ch = (value/wg_inf_ad)-1 )
-df.pc <- df.pc[, c(1, 5)]
-names(df.pc) = c("region", "value")
-choroplethr(df.pc, "county", num_buckets=5, "Percent change avg weekly wage 2007 to 2013 inflation adjusted",
-            states = state.abb.48)
+        mutate(pct_ch = (value/wg_inf_ad)-1) %.%
+        arrange(desc(pct_ch) )
+names(df.pc) <- c("region", "2013_avg_week_wage", "Description", "2007_avg_week_wage_inflation_adj", "percent_change") 
+df.pc <- df.pc[complete.cases(df.pc$percent_change),]
+# save for web presentation using slick grid
+write.csv(df.pc, "data/pctchg_wages.csv")
+
+

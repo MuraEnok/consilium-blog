@@ -1,0 +1,774 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"49031",0,10,70,0,2007,1,"","Piute County, Utah","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",60,293,313,304,1593525,815891,6174,404
+"49031",0,"10",70,0,2007,2,"","Piute County, Utah","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",59,329,357,359,2068683,881909,7597,457
+"49031",0,"10",70,0,2007,3,"","Piute County, Utah","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",61,338,352,362,1670229,828372,9406,366
+"49031",0,"10",70,0,2007,4,"","Piute County, Utah","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",62,349,346,327,2036100,622762,7721,460
+"49031",1,10,71,0,2007,1,"","Piute County, Utah","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,5,5,6,26236,0,0,378
+"49031",1,"10",71,0,2007,2,"","Piute County, Utah","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,6,6,6,46050,0,0,590
+"49031",1,"10",71,0,2007,3,"","Piute County, Utah","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,6,7,7,37273,0,0,430
+"49031",1,"10",71,0,2007,4,"","Piute County, Utah","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,7,7,6,44603,0,0,515
+"49031",1,102,72,0,2007,1,"","Piute County, Utah","Federal Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",3,5,5,6,26236,0,0,378
+"49031",1,"102",72,0,2007,2,"","Piute County, Utah","Federal Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",3,6,6,6,46050,0,0,590
+"49031",1,"102",72,0,2007,3,"","Piute County, Utah","Federal Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",3,6,7,7,37273,0,0,430
+"49031",1,"102",72,0,2007,4,"","Piute County, Utah","Federal Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",3,7,7,6,44603,0,0,515
+"49031",1,1021,73,0,2007,1,"","Piute County, Utah","Federal Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,5,5,6,26236,0,0,378
+"49031",1,"1021",73,0,2007,2,"","Piute County, Utah","Federal Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,6,6,6,46050,0,0,590
+"49031",1,"1021",73,0,2007,3,"","Piute County, Utah","Federal Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,6,7,7,37273,0,0,430
+"49031",1,"1021",73,0,2007,4,"","Piute County, Utah","Federal Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,7,7,6,44603,0,0,515
+"49031",1,48-49,74,0,2007,1,"","Piute County, Utah","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,5,5,6,26236,0,0,378
+"49031",1,"48-49",74,0,2007,2,"","Piute County, Utah","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,6,6,46050,0,0,590
+"49031",1,"48-49",74,0,2007,3,"","Piute County, Utah","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,7,7,37273,0,0,430
+"49031",1,"48-49",74,0,2007,4,"","Piute County, Utah","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,7,6,44603,0,0,515
+"49031",1,491,75,0,2007,1,"","Piute County, Utah","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,5,6,26236,0,0,378
+"49031",1,"491",75,0,2007,2,"","Piute County, Utah","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,6,6,46050,0,0,590
+"49031",1,"491",75,0,2007,3,"","Piute County, Utah","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,7,7,37273,0,0,430
+"49031",1,"491",75,0,2007,4,"","Piute County, Utah","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,6,44603,0,0,515
+"49031",1,4911,76,0,2007,1,"","Piute County, Utah","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,5,5,6,26236,0,0,378
+"49031",1,"4911",76,0,2007,2,"","Piute County, Utah","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,6,6,46050,0,0,590
+"49031",1,"4911",76,0,2007,3,"","Piute County, Utah","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,7,7,37273,0,0,430
+"49031",1,"4911",76,0,2007,4,"","Piute County, Utah","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,7,6,44603,0,0,515
+"49031",1,49111,77,0,2007,1,"","Piute County, Utah","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,5,5,6,26236,0,0,378
+"49031",1,"49111",77,0,2007,2,"","Piute County, Utah","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,6,6,6,46050,0,0,590
+"49031",1,"49111",77,0,2007,3,"","Piute County, Utah","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,6,7,7,37273,0,0,430
+"49031",1,"49111",77,0,2007,4,"","Piute County, Utah","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,7,6,44603,0,0,515
+"49031",1,491110,78,0,2007,1,"","Piute County, Utah","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,5,5,6,26236,0,0,378
+"49031",1,"491110",78,0,2007,2,"","Piute County, Utah","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,6,6,46050,0,0,590
+"49031",1,"491110",78,0,2007,3,"","Piute County, Utah","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,7,7,37273,0,0,430
+"49031",1,"491110",78,0,2007,4,"","Piute County, Utah","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,7,6,44603,0,0,515
+"49031",2,10,71,0,2007,1,"","Piute County, Utah","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,15,15,15,195636,0,0,1003
+"49031",2,"10",71,0,2007,2,"","Piute County, Utah","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,15,15,15,229844,0,0,1179
+"49031",2,"10",71,0,2007,3,"","Piute County, Utah","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,15,15,15,210897,0,0,1082
+"49031",2,"10",71,0,2007,4,"","Piute County, Utah","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,15,15,15,248820,0,0,1276
+"49031",2,102,72,0,2007,1,"","Piute County, Utah","State Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",5,15,15,15,195636,0,0,1003
+"49031",2,"102",72,0,2007,2,"","Piute County, Utah","State Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",5,15,15,15,229844,0,0,1179
+"49031",2,"102",72,0,2007,3,"","Piute County, Utah","State Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",5,15,15,15,210897,0,0,1082
+"49031",2,"102",72,0,2007,4,"","Piute County, Utah","State Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",5,15,15,15,248820,0,0,1276
+"49031",2,1028,73,0,2007,1,"","Piute County, Utah","State Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",5,15,15,15,195636,0,0,1003
+"49031",2,"1028",73,0,2007,2,"","Piute County, Utah","State Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",5,15,15,15,229844,0,0,1179
+"49031",2,"1028",73,0,2007,3,"","Piute County, Utah","State Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",5,15,15,15,210897,0,0,1082
+"49031",2,"1028",73,0,2007,4,"","Piute County, Utah","State Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",5,15,15,15,248820,0,0,1276
+"49031",2,92,74,0,2007,1,"","Piute County, Utah","State Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,15,15,15,195636,0,0,1003
+"49031",2,"92",74,0,2007,2,"","Piute County, Utah","State Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,15,15,15,229844,0,0,1179
+"49031",2,"92",74,0,2007,3,"","Piute County, Utah","State Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,15,15,15,210897,0,0,1082
+"49031",2,"92",74,0,2007,4,"","Piute County, Utah","State Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,15,15,15,248820,0,0,1276
+"49031",2,922,75,0,2007,1,"N","Piute County, Utah","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"922",75,0,2007,2,"N","Piute County, Utah","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"922",75,0,2007,3,"N","Piute County, Utah","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"922",75,0,2007,4,"N","Piute County, Utah","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,9221,76,0,2007,1,"N","Piute County, Utah","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"9221",76,0,2007,2,"N","Piute County, Utah","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"9221",76,0,2007,3,"N","Piute County, Utah","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"9221",76,0,2007,4,"N","Piute County, Utah","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,92219,77,0,2007,1,"N","Piute County, Utah","State Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"92219",77,0,2007,2,"N","Piute County, Utah","State Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"92219",77,0,2007,3,"N","Piute County, Utah","State Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"92219",77,0,2007,4,"N","Piute County, Utah","State Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,922190,78,0,2007,1,"N","Piute County, Utah","State Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"922190",78,0,2007,2,"N","Piute County, Utah","State Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"922190",78,0,2007,3,"N","Piute County, Utah","State Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"922190",78,0,2007,4,"N","Piute County, Utah","State Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,924,75,0,2007,1,"N","Piute County, Utah","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"924",75,0,2007,2,"N","Piute County, Utah","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"924",75,0,2007,3,"N","Piute County, Utah","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"924",75,0,2007,4,"N","Piute County, Utah","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,9241,76,0,2007,1,"N","Piute County, Utah","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"9241",76,0,2007,2,"N","Piute County, Utah","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"9241",76,0,2007,3,"N","Piute County, Utah","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"9241",76,0,2007,4,"N","Piute County, Utah","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,92412,77,0,2007,1,"N","Piute County, Utah","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"92412",77,0,2007,2,"N","Piute County, Utah","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"92412",77,0,2007,3,"N","Piute County, Utah","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"92412",77,0,2007,4,"N","Piute County, Utah","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,924120,78,0,2007,1,"N","Piute County, Utah","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"924120",78,0,2007,2,"N","Piute County, Utah","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"924120",78,0,2007,3,"N","Piute County, Utah","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"924120",78,0,2007,4,"N","Piute County, Utah","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,926,75,0,2007,1,"N","Piute County, Utah","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"926",75,0,2007,2,"N","Piute County, Utah","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"926",75,0,2007,3,"N","Piute County, Utah","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"926",75,0,2007,4,"N","Piute County, Utah","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,9261,76,0,2007,1,"N","Piute County, Utah","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"9261",76,0,2007,2,"N","Piute County, Utah","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"9261",76,0,2007,3,"N","Piute County, Utah","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,"9261",76,0,2007,4,"N","Piute County, Utah","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",2,92612,77,0,2007,1,"N","Piute County, Utah","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"92612",77,0,2007,2,"N","Piute County, Utah","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"92612",77,0,2007,3,"N","Piute County, Utah","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"92612",77,0,2007,4,"N","Piute County, Utah","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,926120,78,0,2007,1,"N","Piute County, Utah","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"926120",78,0,2007,2,"N","Piute County, Utah","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"926120",78,0,2007,3,"N","Piute County, Utah","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"926120",78,0,2007,4,"N","Piute County, Utah","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,92614,77,0,2007,1,"N","Piute County, Utah","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"92614",77,0,2007,2,"N","Piute County, Utah","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"92614",77,0,2007,3,"N","Piute County, Utah","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"92614",77,0,2007,4,"N","Piute County, Utah","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,926140,78,0,2007,1,"N","Piute County, Utah","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"926140",78,0,2007,2,"N","Piute County, Utah","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"926140",78,0,2007,3,"N","Piute County, Utah","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",2,"926140",78,0,2007,4,"N","Piute County, Utah","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,10,71,0,2007,1,"","Piute County, Utah","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",14,114,115,115,569847,17096,51,382
+"49031",3,"10",71,0,2007,2,"","Piute County, Utah","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",14,115,117,110,832347,15703,47,562
+"49031",3,"10",71,0,2007,3,"","Piute County, Utah","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",14,87,90,124,369464,17476,53,283
+"49031",3,"10",71,0,2007,4,"","Piute County, Utah","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",14,118,118,123,670960,11765,35,431
+"49031",3,101,72,0,2007,1,"N","Piute County, Utah","Local Government","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"101",72,0,2007,2,"N","Piute County, Utah","Local Government","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"101",72,0,2007,3,"N","Piute County, Utah","Local Government","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"101",72,0,2007,4,"N","Piute County, Utah","Local Government","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,1012,73,0,2007,1,"N","Piute County, Utah","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"1012",73,0,2007,2,"N","Piute County, Utah","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"1012",73,0,2007,3,"N","Piute County, Utah","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"1012",73,0,2007,4,"N","Piute County, Utah","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,102,72,0,2007,1,"N","Piute County, Utah","Local Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"49031",3,"102",72,0,2007,2,"N","Piute County, Utah","Local Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"49031",3,"102",72,0,2007,3,"N","Piute County, Utah","Local Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"49031",3,"102",72,0,2007,4,"N","Piute County, Utah","Local Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"49031",3,1025,73,0,2007,1,"","Piute County, Utah","Local Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",6,81,88,87,470583,0,0,424
+"49031",3,"1025",73,0,2007,2,"","Piute County, Utah","Local Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",6,85,84,78,707517,0,0,661
+"49031",3,"1025",73,0,2007,3,"","Piute County, Utah","Local Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",6,51,54,83,226950,0,0,279
+"49031",3,"1025",73,0,2007,4,"","Piute County, Utah","Local Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",6,83,82,89,515313,0,0,468
+"49031",3,1028,73,0,2007,1,"N","Piute County, Utah","Local Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"49031",3,"1028",73,0,2007,2,"N","Piute County, Utah","Local Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"49031",3,"1028",73,0,2007,3,"N","Piute County, Utah","Local Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"49031",3,"1028",73,0,2007,4,"N","Piute County, Utah","Local Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"49031",3,23,74,0,2007,1,"N","Piute County, Utah","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"23",74,0,2007,2,"N","Piute County, Utah","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"23",74,0,2007,3,"N","Piute County, Utah","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"23",74,0,2007,4,"N","Piute County, Utah","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,237,75,0,2007,1,"N","Piute County, Utah","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"237",75,0,2007,2,"N","Piute County, Utah","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"237",75,0,2007,3,"N","Piute County, Utah","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"237",75,0,2007,4,"N","Piute County, Utah","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,2373,76,0,2007,1,"N","Piute County, Utah","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"2373",76,0,2007,2,"N","Piute County, Utah","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"2373",76,0,2007,3,"N","Piute County, Utah","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"2373",76,0,2007,4,"N","Piute County, Utah","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,23731,77,0,2007,1,"N","Piute County, Utah","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"23731",77,0,2007,2,"N","Piute County, Utah","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"23731",77,0,2007,3,"N","Piute County, Utah","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"23731",77,0,2007,4,"N","Piute County, Utah","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,237310,78,0,2007,1,"N","Piute County, Utah","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"237310",78,0,2007,2,"N","Piute County, Utah","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"237310",78,0,2007,3,"N","Piute County, Utah","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"237310",78,0,2007,4,"N","Piute County, Utah","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,61,74,0,2007,1,"","Piute County, Utah","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,81,88,87,470583,0,0,424
+"49031",3,"61",74,0,2007,2,"","Piute County, Utah","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,85,84,78,707517,0,0,661
+"49031",3,"61",74,0,2007,3,"","Piute County, Utah","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,51,54,83,226950,0,0,279
+"49031",3,"61",74,0,2007,4,"","Piute County, Utah","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,83,82,89,515313,0,0,468
+"49031",3,611,75,0,2007,1,"","Piute County, Utah","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,81,88,87,470583,0,0,424
+"49031",3,"611",75,0,2007,2,"","Piute County, Utah","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,85,84,78,707517,0,0,661
+"49031",3,"611",75,0,2007,3,"","Piute County, Utah","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,51,54,83,226950,0,0,279
+"49031",3,"611",75,0,2007,4,"","Piute County, Utah","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,83,82,89,515313,0,0,468
+"49031",3,6111,76,0,2007,1,"N","Piute County, Utah","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"49031",3,"6111",76,0,2007,2,"N","Piute County, Utah","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"49031",3,"6111",76,0,2007,3,"N","Piute County, Utah","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"49031",3,"6111",76,0,2007,4,"N","Piute County, Utah","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"49031",3,61111,77,0,2007,1,"N","Piute County, Utah","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"49031",3,"61111",77,0,2007,2,"N","Piute County, Utah","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"49031",3,"61111",77,0,2007,3,"N","Piute County, Utah","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"49031",3,"61111",77,0,2007,4,"N","Piute County, Utah","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"49031",3,611110,78,0,2007,1,"N","Piute County, Utah","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"49031",3,"611110",78,0,2007,2,"N","Piute County, Utah","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"49031",3,"611110",78,0,2007,3,"N","Piute County, Utah","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"49031",3,"611110",78,0,2007,4,"N","Piute County, Utah","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"49031",3,6116,76,0,2007,1,"N","Piute County, Utah","Local Government","Other schools and instruction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"6116",76,0,2007,2,"N","Piute County, Utah","Local Government","Other schools and instruction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"6116",76,0,2007,3,"N","Piute County, Utah","Local Government","Other schools and instruction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"6116",76,0,2007,4,"N","Piute County, Utah","Local Government","Other schools and instruction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,61169,77,0,2007,1,"N","Piute County, Utah","Local Government","All other schools and instruction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"61169",77,0,2007,2,"N","Piute County, Utah","Local Government","All other schools and instruction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"61169",77,0,2007,3,"N","Piute County, Utah","Local Government","All other schools and instruction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"61169",77,0,2007,4,"N","Piute County, Utah","Local Government","All other schools and instruction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,611691,78,0,2007,1,"N","Piute County, Utah","Local Government","Exam preparation and tutoring","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"611691",78,0,2007,2,"N","Piute County, Utah","Local Government","Exam preparation and tutoring","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"611691",78,0,2007,3,"N","Piute County, Utah","Local Government","Exam preparation and tutoring","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"611691",78,0,2007,4,"N","Piute County, Utah","Local Government","Exam preparation and tutoring","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,92,74,0,2007,1,"N","Piute County, Utah","Local Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"49031",3,"92",74,0,2007,2,"N","Piute County, Utah","Local Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"49031",3,"92",74,0,2007,3,"N","Piute County, Utah","Local Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"49031",3,"92",74,0,2007,4,"N","Piute County, Utah","Local Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"49031",3,921,75,0,2007,1,"","Piute County, Utah","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,22,17,18,44416,6329,19,180
+"49031",3,"921",75,0,2007,2,"","Piute County, Utah","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,20,23,22,63699,6333,19,226
+"49031",3,"921",75,0,2007,3,"","Piute County, Utah","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,27,26,31,87869,10544,32,241
+"49031",3,"921",75,0,2007,4,"","Piute County, Utah","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,27,27,25,101852,8377,25,298
+"49031",3,9211,76,0,2007,1,"","Piute County, Utah","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,22,17,18,44416,6329,19,180
+"49031",3,"9211",76,0,2007,2,"","Piute County, Utah","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,20,23,22,63699,6333,19,226
+"49031",3,"9211",76,0,2007,3,"","Piute County, Utah","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,27,26,31,87869,10544,32,241
+"49031",3,"9211",76,0,2007,4,"","Piute County, Utah","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,27,27,25,101852,8377,25,298
+"49031",3,92114,77,0,2007,1,"","Piute County, Utah","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,22,17,18,44416,6329,19,180
+"49031",3,"92114",77,0,2007,2,"","Piute County, Utah","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,20,23,22,63699,6333,19,226
+"49031",3,"92114",77,0,2007,3,"","Piute County, Utah","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,27,26,31,87869,10544,32,241
+"49031",3,"92114",77,0,2007,4,"","Piute County, Utah","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,27,27,25,101852,8377,25,298
+"49031",3,921140,78,0,2007,1,"","Piute County, Utah","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,22,17,18,44416,6329,19,180
+"49031",3,"921140",78,0,2007,2,"","Piute County, Utah","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,20,23,22,63699,6333,19,226
+"49031",3,"921140",78,0,2007,3,"","Piute County, Utah","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,27,26,31,87869,10544,32,241
+"49031",3,"921140",78,0,2007,4,"","Piute County, Utah","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,27,27,25,101852,8377,25,298
+"49031",3,922,75,0,2007,1,"N","Piute County, Utah","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",3,"922",75,0,2007,2,"N","Piute County, Utah","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",3,"922",75,0,2007,3,"N","Piute County, Utah","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",3,"922",75,0,2007,4,"N","Piute County, Utah","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",3,9221,76,0,2007,1,"N","Piute County, Utah","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",3,"9221",76,0,2007,2,"N","Piute County, Utah","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",3,"9221",76,0,2007,3,"N","Piute County, Utah","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",3,"9221",76,0,2007,4,"N","Piute County, Utah","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",3,92211,77,0,2007,1,"N","Piute County, Utah","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"92211",77,0,2007,2,"N","Piute County, Utah","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"92211",77,0,2007,3,"N","Piute County, Utah","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"92211",77,0,2007,4,"N","Piute County, Utah","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,922110,78,0,2007,1,"N","Piute County, Utah","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"922110",78,0,2007,2,"N","Piute County, Utah","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"922110",78,0,2007,3,"N","Piute County, Utah","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"922110",78,0,2007,4,"N","Piute County, Utah","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,92212,77,0,2007,1,"N","Piute County, Utah","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"92212",77,0,2007,2,"N","Piute County, Utah","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"92212",77,0,2007,3,"N","Piute County, Utah","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"92212",77,0,2007,4,"N","Piute County, Utah","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,922120,78,0,2007,1,"N","Piute County, Utah","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"922120",78,0,2007,2,"N","Piute County, Utah","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"922120",78,0,2007,3,"N","Piute County, Utah","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"922120",78,0,2007,4,"N","Piute County, Utah","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,923,75,0,2007,1,"N","Piute County, Utah","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"923",75,0,2007,2,"N","Piute County, Utah","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"923",75,0,2007,3,"N","Piute County, Utah","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"923",75,0,2007,4,"N","Piute County, Utah","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,9231,76,0,2007,1,"N","Piute County, Utah","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"9231",76,0,2007,2,"N","Piute County, Utah","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"9231",76,0,2007,3,"N","Piute County, Utah","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"9231",76,0,2007,4,"N","Piute County, Utah","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,92312,77,0,2007,1,"N","Piute County, Utah","Local Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"92312",77,0,2007,2,"N","Piute County, Utah","Local Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"92312",77,0,2007,3,"N","Piute County, Utah","Local Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"92312",77,0,2007,4,"N","Piute County, Utah","Local Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,923120,78,0,2007,1,"N","Piute County, Utah","Local Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"923120",78,0,2007,2,"N","Piute County, Utah","Local Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"923120",78,0,2007,3,"N","Piute County, Utah","Local Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",3,"923120",78,0,2007,4,"N","Piute County, Utah","Local Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,10,71,0,2007,1,"","Piute County, Utah","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",38,159,178,168,801806,798795,6123,366
+"49031",5,"10",71,0,2007,2,"","Piute County, Utah","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",37,193,219,228,960442,866206,7550,346
+"49031",5,"10",71,0,2007,3,"","Piute County, Utah","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",39,230,240,216,1052595,810896,9353,354
+"49031",5,"10",71,0,2007,4,"","Piute County, Utah","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",40,209,206,183,1071717,610997,7686,414
+"49031",5,101,72,0,2007,1,"N","Piute County, Utah","Private","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"49031",5,"101",72,0,2007,2,"","Piute County, Utah","Private","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",7,29,33,33,201721,189506,2624,490
+"49031",5,"101",72,0,2007,3,"N","Piute County, Utah","Private","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"49031",5,"101",72,0,2007,4,"N","Piute County, Utah","Private","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"49031",5,1011,73,0,2007,1,"N","Piute County, Utah","Private","Natural Resources and Mining","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"1011",73,0,2007,2,"N","Piute County, Utah","Private","Natural Resources and Mining","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"1011",73,0,2007,3,"N","Piute County, Utah","Private","Natural Resources and Mining","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"1011",73,0,2007,4,"N","Piute County, Utah","Private","Natural Resources and Mining","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,1012,73,0,2007,1,"","Piute County, Utah","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,6,6,8,36582,36582,1144,422
+"49031",5,"1012",73,0,2007,2,"","Piute County, Utah","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,10,11,12,58280,58280,2231,408
+"49031",5,"1012",73,0,2007,3,"","Piute County, Utah","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",5,19,19,19,83166,83166,2599,337
+"49031",5,"1012",73,0,2007,4,"N","Piute County, Utah","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"49031",5,1013,73,0,2007,1,"N","Piute County, Utah","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"1013",73,0,2007,2,"N","Piute County, Utah","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"1013",73,0,2007,3,"N","Piute County, Utah","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"1013",73,0,2007,4,"N","Piute County, Utah","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,102,72,0,2007,1,"N","Piute County, Utah","Private","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",31,0,0,0,0,0,0,0
+"49031",5,"102",72,0,2007,2,"","Piute County, Utah","Private","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",30,164,186,195,758721,676700,4926,321
+"49031",5,"102",72,0,2007,3,"N","Piute County, Utah","Private","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",31,0,0,0,0,0,0,0
+"49031",5,"102",72,0,2007,4,"N","Piute County, Utah","Private","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",32,0,0,0,0,0,0,0
+"49031",5,1021,73,0,2007,1,"","Piute County, Utah","Private","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",12,59,74,63,373453,373453,1466,440
+"49031",5,"1021",73,0,2007,2,"","Piute County, Utah","Private","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",12,66,70,74,429179,357179,1416,472
+"49031",5,"1021",73,0,2007,3,"","Piute County, Utah","Private","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",12,77,79,76,441448,301650,2993,439
+"49031",5,"1021",73,0,2007,4,"","Piute County, Utah","Private","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",12,76,82,82,492527,232964,2552,474
+"49031",5,1023,73,0,2007,1,"N","Piute County, Utah","Private","Financial Activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"1023",73,0,2007,2,"N","Piute County, Utah","Private","Financial Activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"1023",73,0,2007,3,"N","Piute County, Utah","Private","Financial Activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"1023",73,0,2007,4,"N","Piute County, Utah","Private","Financial Activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,1024,73,0,2007,1,"N","Piute County, Utah","Private","Professional and Business Services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"1024",73,0,2007,2,"N","Piute County, Utah","Private","Professional and Business Services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"1024",73,0,2007,3,"N","Piute County, Utah","Private","Professional and Business Services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"49031",5,"1024",73,0,2007,4,"N","Piute County, Utah","Private","Professional and Business Services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"49031",5,1025,73,0,2007,1,"N","Piute County, Utah","Private","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"1025",73,0,2007,2,"N","Piute County, Utah","Private","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"1025",73,0,2007,3,"N","Piute County, Utah","Private","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"1025",73,0,2007,4,"N","Piute County, Utah","Private","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,1026,73,0,2007,1,"","Piute County, Utah","Private","Leisure and Hospitality","County, by Supersector -- by ownership sector","All establishment sizes",11,39,42,54,82022,82022,1418,140
+"49031",5,"1026",73,0,2007,2,"","Piute County, Utah","Private","Leisure and Hospitality","County, by Supersector -- by ownership sector","All establishment sizes",10,59,74,81,118847,118847,1601,128
+"49031",5,"1026",73,0,2007,3,"","Piute County, Utah","Private","Leisure and Hospitality","County, by Supersector -- by ownership sector","All establishment sizes",10,76,83,66,147409,147409,1906,151
+"49031",5,"1026",73,0,2007,4,"","Piute County, Utah","Private","Leisure and Hospitality","County, by Supersector -- by ownership sector","All establishment sizes",11,59,54,46,86159,86159,1101,125
+"49031",5,1027,73,0,2007,1,"N","Piute County, Utah","Private","Other Services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"1027",73,0,2007,2,"N","Piute County, Utah","Private","Other Services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"1027",73,0,2007,3,"N","Piute County, Utah","Private","Other Services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"1027",73,0,2007,4,"N","Piute County, Utah","Private","Other Services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,11,74,0,2007,1,"N","Piute County, Utah","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"11",74,0,2007,2,"N","Piute County, Utah","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"11",74,0,2007,3,"N","Piute County, Utah","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"11",74,0,2007,4,"N","Piute County, Utah","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,115,75,0,2007,1,"N","Piute County, Utah","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"115",75,0,2007,2,"N","Piute County, Utah","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"115",75,0,2007,3,"N","Piute County, Utah","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"115",75,0,2007,4,"N","Piute County, Utah","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,1152,76,0,2007,1,"N","Piute County, Utah","Private","Support activities for animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"1152",76,0,2007,2,"N","Piute County, Utah","Private","Support activities for animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"1152",76,0,2007,3,"N","Piute County, Utah","Private","Support activities for animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"1152",76,0,2007,4,"N","Piute County, Utah","Private","Support activities for animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,11521,77,0,2007,1,"N","Piute County, Utah","Private","Support activities for animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"11521",77,0,2007,2,"N","Piute County, Utah","Private","Support activities for animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"11521",77,0,2007,3,"N","Piute County, Utah","Private","Support activities for animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"11521",77,0,2007,4,"N","Piute County, Utah","Private","Support activities for animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,115210,78,0,2007,1,"N","Piute County, Utah","Private","Support activities for animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"115210",78,0,2007,2,"N","Piute County, Utah","Private","Support activities for animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"115210",78,0,2007,3,"N","Piute County, Utah","Private","Support activities for animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"115210",78,0,2007,4,"N","Piute County, Utah","Private","Support activities for animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,21,74,0,2007,1,"N","Piute County, Utah","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"21",74,0,2007,2,"N","Piute County, Utah","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"21",74,0,2007,3,"N","Piute County, Utah","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"21",74,0,2007,4,"N","Piute County, Utah","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,212,75,0,2007,1,"N","Piute County, Utah","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"212",75,0,2007,2,"N","Piute County, Utah","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"212",75,0,2007,3,"N","Piute County, Utah","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"212",75,0,2007,4,"N","Piute County, Utah","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,2122,76,0,2007,1,"N","Piute County, Utah","Private","Metal ore mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"2122",76,0,2007,2,"N","Piute County, Utah","Private","Metal ore mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"2122",76,0,2007,3,"N","Piute County, Utah","Private","Metal ore mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"2122",76,0,2007,4,"N","Piute County, Utah","Private","Metal ore mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,21222,77,0,2007,1,"N","Piute County, Utah","Private","Gold ore and silver ore mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"21222",77,0,2007,2,"N","Piute County, Utah","Private","Gold ore and silver ore mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"21222",77,0,2007,3,"N","Piute County, Utah","Private","Gold ore and silver ore mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"21222",77,0,2007,4,"N","Piute County, Utah","Private","Gold ore and silver ore mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,212221,78,0,2007,1,"N","Piute County, Utah","Private","Gold ore mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"212221",78,0,2007,2,"N","Piute County, Utah","Private","Gold ore mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"212221",78,0,2007,3,"N","Piute County, Utah","Private","Gold ore mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"212221",78,0,2007,4,"N","Piute County, Utah","Private","Gold ore mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,23,74,0,2007,1,"","Piute County, Utah","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,6,6,8,36582,36582,1144,422
+"49031",5,"23",74,0,2007,2,"","Piute County, Utah","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,10,11,12,58280,58280,2231,408
+"49031",5,"23",74,0,2007,3,"","Piute County, Utah","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",5,19,19,19,83166,83166,2599,337
+"49031",5,"23",74,0,2007,4,"N","Piute County, Utah","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"49031",5,236,75,0,2007,1,"N","Piute County, Utah","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"236",75,0,2007,2,"N","Piute County, Utah","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"236",75,0,2007,3,"N","Piute County, Utah","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"236",75,0,2007,4,"N","Piute County, Utah","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,2361,76,0,2007,1,"N","Piute County, Utah","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"2361",76,0,2007,2,"N","Piute County, Utah","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"2361",76,0,2007,3,"N","Piute County, Utah","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"2361",76,0,2007,4,"N","Piute County, Utah","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,23611,77,0,2007,1,"N","Piute County, Utah","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"23611",77,0,2007,2,"N","Piute County, Utah","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"23611",77,0,2007,3,"N","Piute County, Utah","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"23611",77,0,2007,4,"N","Piute County, Utah","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,236118,78,0,2007,1,"N","Piute County, Utah","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"236118",78,0,2007,2,"N","Piute County, Utah","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"236118",78,0,2007,3,"N","Piute County, Utah","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"236118",78,0,2007,4,"N","Piute County, Utah","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,237,75,0,2007,1,"N","Piute County, Utah","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"237",75,0,2007,2,"N","Piute County, Utah","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"237",75,0,2007,3,"N","Piute County, Utah","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"237",75,0,2007,4,"N","Piute County, Utah","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,2371,76,0,2007,1,"N","Piute County, Utah","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"2371",76,0,2007,2,"N","Piute County, Utah","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"2371",76,0,2007,3,"N","Piute County, Utah","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"2371",76,0,2007,4,"N","Piute County, Utah","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,23711,77,0,2007,1,"N","Piute County, Utah","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"23711",77,0,2007,2,"N","Piute County, Utah","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"23711",77,0,2007,3,"N","Piute County, Utah","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"23711",77,0,2007,4,"N","Piute County, Utah","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,237110,78,0,2007,1,"N","Piute County, Utah","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"237110",78,0,2007,2,"N","Piute County, Utah","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"237110",78,0,2007,3,"N","Piute County, Utah","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"237110",78,0,2007,4,"N","Piute County, Utah","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,238,75,0,2007,1,"N","Piute County, Utah","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"238",75,0,2007,2,"N","Piute County, Utah","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"238",75,0,2007,3,"N","Piute County, Utah","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"238",75,0,2007,4,"N","Piute County, Utah","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,2381,76,0,2007,1,"-","Piute County, Utah","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"49031",5,"2381",76,0,2007,2,"-","Piute County, Utah","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"49031",5,"2381",76,0,2007,3,"N","Piute County, Utah","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"2381",76,0,2007,4,"N","Piute County, Utah","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,23811,77,0,2007,1,"-","Piute County, Utah","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"49031",5,"23811",77,0,2007,2,"-","Piute County, Utah","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"49031",5,"23811",77,0,2007,3,"N","Piute County, Utah","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"23811",77,0,2007,4,"N","Piute County, Utah","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,238111,78,0,2007,1,"-","Piute County, Utah","Private","Residential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"49031",5,"238111",78,0,2007,2,"-","Piute County, Utah","Private","Residential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"49031",5,"238111",78,0,2007,3,"N","Piute County, Utah","Private","Residential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"238111",78,0,2007,4,"N","Piute County, Utah","Private","Residential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,2389,76,0,2007,1,"N","Piute County, Utah","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"2389",76,0,2007,2,"N","Piute County, Utah","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"2389",76,0,2007,3,"N","Piute County, Utah","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"2389",76,0,2007,4,"N","Piute County, Utah","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,23899,77,0,2007,1,"N","Piute County, Utah","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"23899",77,0,2007,2,"N","Piute County, Utah","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"23899",77,0,2007,3,"N","Piute County, Utah","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"23899",77,0,2007,4,"N","Piute County, Utah","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,238991,78,0,2007,1,"N","Piute County, Utah","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"238991",78,0,2007,2,"N","Piute County, Utah","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"238991",78,0,2007,3,"N","Piute County, Utah","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"238991",78,0,2007,4,"N","Piute County, Utah","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,31-33,74,0,2007,1,"N","Piute County, Utah","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"31-33",74,0,2007,2,"N","Piute County, Utah","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"31-33",74,0,2007,3,"N","Piute County, Utah","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"31-33",74,0,2007,4,"N","Piute County, Utah","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,336,75,0,2007,1,"N","Piute County, Utah","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"336",75,0,2007,2,"N","Piute County, Utah","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"336",75,0,2007,3,"N","Piute County, Utah","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"336",75,0,2007,4,"N","Piute County, Utah","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,3363,76,0,2007,1,"N","Piute County, Utah","Private","Motor vehicle parts manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"3363",76,0,2007,2,"N","Piute County, Utah","Private","Motor vehicle parts manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"3363",76,0,2007,3,"N","Piute County, Utah","Private","Motor vehicle parts manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"3363",76,0,2007,4,"N","Piute County, Utah","Private","Motor vehicle parts manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,33639,77,0,2007,1,"N","Piute County, Utah","Private","Other motor vehicle parts manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"33639",77,0,2007,2,"N","Piute County, Utah","Private","Other motor vehicle parts manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"33639",77,0,2007,3,"N","Piute County, Utah","Private","Other motor vehicle parts manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"33639",77,0,2007,4,"N","Piute County, Utah","Private","Other motor vehicle parts manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,336399,78,0,2007,1,"N","Piute County, Utah","Private","All other motor vehicle parts manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"336399",78,0,2007,2,"N","Piute County, Utah","Private","All other motor vehicle parts manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"336399",78,0,2007,3,"N","Piute County, Utah","Private","All other motor vehicle parts manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"336399",78,0,2007,4,"N","Piute County, Utah","Private","All other motor vehicle parts manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,42,74,0,2007,1,"N","Piute County, Utah","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"42",74,0,2007,2,"N","Piute County, Utah","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"42",74,0,2007,3,"N","Piute County, Utah","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"42",74,0,2007,4,"N","Piute County, Utah","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,423,75,0,2007,1,"N","Piute County, Utah","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"423",75,0,2007,2,"N","Piute County, Utah","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"423",75,0,2007,3,"N","Piute County, Utah","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"423",75,0,2007,4,"N","Piute County, Utah","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,4231,76,0,2007,1,"N","Piute County, Utah","Private","Motor vehicle and parts merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4231",76,0,2007,2,"N","Piute County, Utah","Private","Motor vehicle and parts merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4231",76,0,2007,3,"N","Piute County, Utah","Private","Motor vehicle and parts merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4231",76,0,2007,4,"N","Piute County, Utah","Private","Motor vehicle and parts merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,42311,77,0,2007,1,"N","Piute County, Utah","Private","Motor vehicle merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"42311",77,0,2007,2,"N","Piute County, Utah","Private","Motor vehicle merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"42311",77,0,2007,3,"N","Piute County, Utah","Private","Motor vehicle merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"42311",77,0,2007,4,"N","Piute County, Utah","Private","Motor vehicle merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,423110,78,0,2007,1,"N","Piute County, Utah","Private","Motor vehicle merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"423110",78,0,2007,2,"N","Piute County, Utah","Private","Motor vehicle merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"423110",78,0,2007,3,"N","Piute County, Utah","Private","Motor vehicle merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"423110",78,0,2007,4,"N","Piute County, Utah","Private","Motor vehicle merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,44-45,74,0,2007,1,"N","Piute County, Utah","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"49031",5,"44-45",74,0,2007,2,"","Piute County, Utah","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,30,33,37,72701,72701,563,168
+"49031",5,"44-45",74,0,2007,3,"N","Piute County, Utah","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"49031",5,"44-45",74,0,2007,4,"N","Piute County, Utah","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"49031",5,441,75,0,2007,1,"N","Piute County, Utah","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"441",75,0,2007,2,"N","Piute County, Utah","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"441",75,0,2007,3,"N","Piute County, Utah","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"441",75,0,2007,4,"N","Piute County, Utah","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,4411,76,0,2007,1,"N","Piute County, Utah","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4411",76,0,2007,2,"N","Piute County, Utah","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4411",76,0,2007,3,"N","Piute County, Utah","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4411",76,0,2007,4,"N","Piute County, Utah","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,44112,77,0,2007,1,"N","Piute County, Utah","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"44112",77,0,2007,2,"N","Piute County, Utah","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"44112",77,0,2007,3,"N","Piute County, Utah","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"44112",77,0,2007,4,"N","Piute County, Utah","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,441120,78,0,2007,1,"N","Piute County, Utah","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"441120",78,0,2007,2,"N","Piute County, Utah","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"441120",78,0,2007,3,"N","Piute County, Utah","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"441120",78,0,2007,4,"N","Piute County, Utah","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,447,75,0,2007,1,"N","Piute County, Utah","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"447",75,0,2007,2,"N","Piute County, Utah","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"447",75,0,2007,3,"N","Piute County, Utah","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"447",75,0,2007,4,"N","Piute County, Utah","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,4471,76,0,2007,1,"N","Piute County, Utah","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"4471",76,0,2007,2,"N","Piute County, Utah","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"4471",76,0,2007,3,"N","Piute County, Utah","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"4471",76,0,2007,4,"N","Piute County, Utah","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,44711,77,0,2007,1,"N","Piute County, Utah","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"44711",77,0,2007,2,"N","Piute County, Utah","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"44711",77,0,2007,3,"N","Piute County, Utah","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"44711",77,0,2007,4,"N","Piute County, Utah","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,447110,78,0,2007,1,"N","Piute County, Utah","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"447110",78,0,2007,2,"N","Piute County, Utah","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"447110",78,0,2007,3,"N","Piute County, Utah","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"447110",78,0,2007,4,"N","Piute County, Utah","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,452,75,0,2007,1,"N","Piute County, Utah","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"452",75,0,2007,2,"N","Piute County, Utah","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"452",75,0,2007,3,"N","Piute County, Utah","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"452",75,0,2007,4,"N","Piute County, Utah","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,4529,76,0,2007,1,"N","Piute County, Utah","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4529",76,0,2007,2,"N","Piute County, Utah","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4529",76,0,2007,3,"N","Piute County, Utah","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4529",76,0,2007,4,"N","Piute County, Utah","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,45299,77,0,2007,1,"N","Piute County, Utah","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"45299",77,0,2007,2,"N","Piute County, Utah","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"45299",77,0,2007,3,"N","Piute County, Utah","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"45299",77,0,2007,4,"N","Piute County, Utah","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,452990,78,0,2007,1,"N","Piute County, Utah","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"452990",78,0,2007,2,"N","Piute County, Utah","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"452990",78,0,2007,3,"N","Piute County, Utah","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"452990",78,0,2007,4,"N","Piute County, Utah","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,453,75,0,2007,1,"N","Piute County, Utah","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"453",75,0,2007,2,"N","Piute County, Utah","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"453",75,0,2007,3,"N","Piute County, Utah","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"453",75,0,2007,4,"N","Piute County, Utah","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,4531,76,0,2007,1,"N","Piute County, Utah","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4531",76,0,2007,2,"N","Piute County, Utah","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4531",76,0,2007,3,"N","Piute County, Utah","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4531",76,0,2007,4,"N","Piute County, Utah","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,45311,77,0,2007,1,"N","Piute County, Utah","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"45311",77,0,2007,2,"N","Piute County, Utah","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"45311",77,0,2007,3,"N","Piute County, Utah","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"45311",77,0,2007,4,"N","Piute County, Utah","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,453110,78,0,2007,1,"N","Piute County, Utah","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"453110",78,0,2007,2,"N","Piute County, Utah","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"453110",78,0,2007,3,"N","Piute County, Utah","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"453110",78,0,2007,4,"N","Piute County, Utah","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,48-49,74,0,2007,1,"N","Piute County, Utah","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"49031",5,"48-49",74,0,2007,2,"N","Piute County, Utah","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"49031",5,"48-49",74,0,2007,3,"","Piute County, Utah","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,47,49,47,368843,229045,2388,595
+"49031",5,"48-49",74,0,2007,4,"","Piute County, Utah","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,46,47,49,420025,167462,1899,683
+"49031",5,484,75,0,2007,1,"N","Piute County, Utah","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"49031",5,"484",75,0,2007,2,"N","Piute County, Utah","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"49031",5,"484",75,0,2007,3,"N","Piute County, Utah","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"49031",5,"484",75,0,2007,4,"N","Piute County, Utah","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"49031",5,4841,76,0,2007,1,"N","Piute County, Utah","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"4841",76,0,2007,2,"N","Piute County, Utah","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"4841",76,0,2007,3,"","Piute County, Utah","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,5,7,7,66479,37519,165,807
+"49031",5,"4841",76,0,2007,4,"","Piute County, Utah","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,8,8,72062,30696,170,723
+"49031",5,48412,77,0,2007,1,"N","Piute County, Utah","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"48412",77,0,2007,2,"N","Piute County, Utah","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"48412",77,0,2007,3,"","Piute County, Utah","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,5,7,7,66479,37519,165,807
+"49031",5,"48412",77,0,2007,4,"","Piute County, Utah","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,8,8,72062,30696,170,723
+"49031",5,484121,78,0,2007,1,"N","Piute County, Utah","Private","General freight trucking, long-distance TL","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"484121",78,0,2007,2,"N","Piute County, Utah","Private","General freight trucking, long-distance TL","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"484121",78,0,2007,3,"","Piute County, Utah","Private","General freight trucking, long-distance TL","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,5,7,7,66479,37519,165,807
+"49031",5,"484121",78,0,2007,4,"","Piute County, Utah","Private","General freight trucking, long-distance TL","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,8,8,72062,30696,170,723
+"49031",5,4842,76,0,2007,1,"N","Piute County, Utah","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4842",76,0,2007,2,"N","Piute County, Utah","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4842",76,0,2007,3,"N","Piute County, Utah","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4842",76,0,2007,4,"N","Piute County, Utah","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,48422,77,0,2007,1,"N","Piute County, Utah","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"48422",77,0,2007,2,"N","Piute County, Utah","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"48422",77,0,2007,3,"N","Piute County, Utah","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"48422",77,0,2007,4,"N","Piute County, Utah","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,484220,78,0,2007,1,"N","Piute County, Utah","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"484220",78,0,2007,2,"N","Piute County, Utah","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"484220",78,0,2007,3,"N","Piute County, Utah","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"484220",78,0,2007,4,"N","Piute County, Utah","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,487,75,0,2007,1,"N","Piute County, Utah","Private","Scenic and sightseeing transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"487",75,0,2007,2,"N","Piute County, Utah","Private","Scenic and sightseeing transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"487",75,0,2007,3,"N","Piute County, Utah","Private","Scenic and sightseeing transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"487",75,0,2007,4,"N","Piute County, Utah","Private","Scenic and sightseeing transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,4871,76,0,2007,1,"N","Piute County, Utah","Private","Scenic and sightseeing transportation, land","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4871",76,0,2007,2,"N","Piute County, Utah","Private","Scenic and sightseeing transportation, land","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4871",76,0,2007,3,"N","Piute County, Utah","Private","Scenic and sightseeing transportation, land","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"4871",76,0,2007,4,"N","Piute County, Utah","Private","Scenic and sightseeing transportation, land","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,48711,77,0,2007,1,"N","Piute County, Utah","Private","Scenic and sightseeing transportation, land","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"48711",77,0,2007,2,"N","Piute County, Utah","Private","Scenic and sightseeing transportation, land","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"48711",77,0,2007,3,"N","Piute County, Utah","Private","Scenic and sightseeing transportation, land","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"48711",77,0,2007,4,"N","Piute County, Utah","Private","Scenic and sightseeing transportation, land","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,487110,78,0,2007,1,"N","Piute County, Utah","Private","Scenic and sightseeing transportation, land","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"487110",78,0,2007,2,"N","Piute County, Utah","Private","Scenic and sightseeing transportation, land","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"487110",78,0,2007,3,"N","Piute County, Utah","Private","Scenic and sightseeing transportation, land","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"487110",78,0,2007,4,"N","Piute County, Utah","Private","Scenic and sightseeing transportation, land","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,52,74,0,2007,1,"N","Piute County, Utah","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"52",74,0,2007,2,"N","Piute County, Utah","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"52",74,0,2007,3,"N","Piute County, Utah","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"52",74,0,2007,4,"N","Piute County, Utah","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,522,75,0,2007,1,"N","Piute County, Utah","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"522",75,0,2007,2,"N","Piute County, Utah","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"522",75,0,2007,3,"N","Piute County, Utah","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"522",75,0,2007,4,"N","Piute County, Utah","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,5221,76,0,2007,1,"N","Piute County, Utah","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"5221",76,0,2007,2,"N","Piute County, Utah","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"5221",76,0,2007,3,"N","Piute County, Utah","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"5221",76,0,2007,4,"N","Piute County, Utah","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,52211,77,0,2007,1,"N","Piute County, Utah","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"52211",77,0,2007,2,"N","Piute County, Utah","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"52211",77,0,2007,3,"N","Piute County, Utah","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"52211",77,0,2007,4,"N","Piute County, Utah","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,522110,78,0,2007,1,"N","Piute County, Utah","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"522110",78,0,2007,2,"N","Piute County, Utah","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"522110",78,0,2007,3,"N","Piute County, Utah","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"522110",78,0,2007,4,"N","Piute County, Utah","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,54,74,0,2007,1,"N","Piute County, Utah","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"54",74,0,2007,2,"N","Piute County, Utah","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"54",74,0,2007,3,"N","Piute County, Utah","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"49031",5,"54",74,0,2007,4,"N","Piute County, Utah","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"49031",5,541,75,0,2007,1,"N","Piute County, Utah","Private","Professional and Technical Services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"541",75,0,2007,2,"N","Piute County, Utah","Private","Professional and Technical Services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"541",75,0,2007,3,"N","Piute County, Utah","Private","Professional and Technical Services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"49031",5,"541",75,0,2007,4,"N","Piute County, Utah","Private","Professional and Technical Services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"49031",5,5413,76,0,2007,1,"N","Piute County, Utah","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"5413",76,0,2007,2,"N","Piute County, Utah","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"5413",76,0,2007,3,"N","Piute County, Utah","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"5413",76,0,2007,4,"N","Piute County, Utah","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,54133,77,0,2007,1,"N","Piute County, Utah","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"54133",77,0,2007,2,"N","Piute County, Utah","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"54133",77,0,2007,3,"N","Piute County, Utah","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"54133",77,0,2007,4,"N","Piute County, Utah","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,541330,78,0,2007,1,"N","Piute County, Utah","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"541330",78,0,2007,2,"N","Piute County, Utah","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"541330",78,0,2007,3,"N","Piute County, Utah","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"541330",78,0,2007,4,"N","Piute County, Utah","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,5416,76,0,2007,1,"N","Piute County, Utah","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"5416",76,0,2007,2,"N","Piute County, Utah","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"5416",76,0,2007,3,"N","Piute County, Utah","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"5416",76,0,2007,4,"N","Piute County, Utah","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,54161,77,0,2007,1,"N","Piute County, Utah","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"54161",77,0,2007,2,"N","Piute County, Utah","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"54161",77,0,2007,3,"N","Piute County, Utah","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"54161",77,0,2007,4,"N","Piute County, Utah","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,541611,78,0,2007,1,"N","Piute County, Utah","Private","Administrative management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"541611",78,0,2007,2,"N","Piute County, Utah","Private","Administrative management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"541611",78,0,2007,3,"N","Piute County, Utah","Private","Administrative management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"541611",78,0,2007,4,"N","Piute County, Utah","Private","Administrative management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,541614,78,0,2007,1,"-","Piute County, Utah","Private","Process and logistics consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"49031",5,"541614",78,0,2007,2,"-","Piute County, Utah","Private","Process and logistics consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"49031",5,"541614",78,0,2007,3,"N","Piute County, Utah","Private","Process and logistics consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"541614",78,0,2007,4,"N","Piute County, Utah","Private","Process and logistics consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,5417,76,0,2007,1,"N","Piute County, Utah","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"5417",76,0,2007,2,"N","Piute County, Utah","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"5417",76,0,2007,3,"N","Piute County, Utah","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"5417",76,0,2007,4,"N","Piute County, Utah","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,54171,77,0,2007,1,"N","Piute County, Utah","Private","Physical, engineering and biological research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"54171",77,0,2007,2,"N","Piute County, Utah","Private","Physical, engineering and biological research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"54171",77,0,2007,3,"N","Piute County, Utah","Private","Physical, engineering and biological research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"54171",77,0,2007,4,"N","Piute County, Utah","Private","Physical, engineering and biological research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,541712,78,0,2007,1,"N","Piute County, Utah","Private","Other physical and biological research","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"541712",78,0,2007,2,"N","Piute County, Utah","Private","Other physical and biological research","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"541712",78,0,2007,3,"N","Piute County, Utah","Private","Other physical and biological research","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"541712",78,0,2007,4,"N","Piute County, Utah","Private","Other physical and biological research","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,62,74,0,2007,1,"N","Piute County, Utah","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"62",74,0,2007,2,"N","Piute County, Utah","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"62",74,0,2007,3,"N","Piute County, Utah","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"62",74,0,2007,4,"N","Piute County, Utah","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,621,75,0,2007,1,"N","Piute County, Utah","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"621",75,0,2007,2,"N","Piute County, Utah","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"621",75,0,2007,3,"N","Piute County, Utah","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"621",75,0,2007,4,"N","Piute County, Utah","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,6211,76,0,2007,1,"N","Piute County, Utah","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"6211",76,0,2007,2,"N","Piute County, Utah","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"6211",76,0,2007,3,"N","Piute County, Utah","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"6211",76,0,2007,4,"N","Piute County, Utah","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,62111,77,0,2007,1,"N","Piute County, Utah","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"62111",77,0,2007,2,"N","Piute County, Utah","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"62111",77,0,2007,3,"N","Piute County, Utah","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"62111",77,0,2007,4,"N","Piute County, Utah","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,621111,78,0,2007,1,"N","Piute County, Utah","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"621111",78,0,2007,2,"N","Piute County, Utah","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"621111",78,0,2007,3,"N","Piute County, Utah","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"621111",78,0,2007,4,"N","Piute County, Utah","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,623,75,0,2007,1,"N","Piute County, Utah","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"623",75,0,2007,2,"N","Piute County, Utah","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"623",75,0,2007,3,"N","Piute County, Utah","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"623",75,0,2007,4,"N","Piute County, Utah","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,6239,76,0,2007,1,"N","Piute County, Utah","Private","Other residential care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"6239",76,0,2007,2,"N","Piute County, Utah","Private","Other residential care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"6239",76,0,2007,3,"N","Piute County, Utah","Private","Other residential care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"6239",76,0,2007,4,"N","Piute County, Utah","Private","Other residential care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,62399,77,0,2007,1,"N","Piute County, Utah","Private","Other residential care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"62399",77,0,2007,2,"N","Piute County, Utah","Private","Other residential care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"62399",77,0,2007,3,"N","Piute County, Utah","Private","Other residential care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"62399",77,0,2007,4,"N","Piute County, Utah","Private","Other residential care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,623990,78,0,2007,1,"N","Piute County, Utah","Private","Other residential care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"623990",78,0,2007,2,"N","Piute County, Utah","Private","Other residential care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"623990",78,0,2007,3,"N","Piute County, Utah","Private","Other residential care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"623990",78,0,2007,4,"N","Piute County, Utah","Private","Other residential care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,624,75,0,2007,1,"N","Piute County, Utah","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"624",75,0,2007,2,"N","Piute County, Utah","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"624",75,0,2007,3,"N","Piute County, Utah","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"624",75,0,2007,4,"N","Piute County, Utah","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,6244,76,0,2007,1,"N","Piute County, Utah","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"6244",76,0,2007,2,"N","Piute County, Utah","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"6244",76,0,2007,3,"N","Piute County, Utah","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"6244",76,0,2007,4,"N","Piute County, Utah","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,62441,77,0,2007,1,"N","Piute County, Utah","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"62441",77,0,2007,2,"N","Piute County, Utah","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"62441",77,0,2007,3,"N","Piute County, Utah","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"62441",77,0,2007,4,"N","Piute County, Utah","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,624410,78,0,2007,1,"N","Piute County, Utah","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"624410",78,0,2007,2,"N","Piute County, Utah","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"624410",78,0,2007,3,"N","Piute County, Utah","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"624410",78,0,2007,4,"N","Piute County, Utah","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,72,74,0,2007,1,"","Piute County, Utah","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",11,39,42,54,82022,82022,1418,140
+"49031",5,"72",74,0,2007,2,"","Piute County, Utah","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",10,59,74,81,118847,118847,1601,128
+"49031",5,"72",74,0,2007,3,"","Piute County, Utah","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",10,76,83,66,147409,147409,1906,151
+"49031",5,"72",74,0,2007,4,"","Piute County, Utah","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",11,59,54,46,86159,86159,1101,125
+"49031",5,721,75,0,2007,1,"","Piute County, Utah","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,13,14,16,39931,39931,836,214
+"49031",5,"721",75,0,2007,2,"","Piute County, Utah","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,15,22,28,42535,42535,424,151
+"49031",5,"721",75,0,2007,3,"","Piute County, Utah","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,26,25,20,52445,52445,494,170
+"49031",5,"721",75,0,2007,4,"","Piute County, Utah","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,21,13,14,21524,21524,165,103
+"49031",5,7211,76,0,2007,1,"N","Piute County, Utah","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"7211",76,0,2007,2,"N","Piute County, Utah","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"7211",76,0,2007,3,"N","Piute County, Utah","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"7211",76,0,2007,4,"N","Piute County, Utah","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"49031",5,72111,77,0,2007,1,"N","Piute County, Utah","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"72111",77,0,2007,2,"N","Piute County, Utah","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"72111",77,0,2007,3,"N","Piute County, Utah","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"72111",77,0,2007,4,"N","Piute County, Utah","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,721110,78,0,2007,1,"N","Piute County, Utah","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"721110",78,0,2007,2,"N","Piute County, Utah","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"721110",78,0,2007,3,"N","Piute County, Utah","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"721110",78,0,2007,4,"N","Piute County, Utah","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,72119,77,0,2007,1,"N","Piute County, Utah","Private","Other traveler accommodation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"72119",77,0,2007,2,"N","Piute County, Utah","Private","Other traveler accommodation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"72119",77,0,2007,3,"N","Piute County, Utah","Private","Other traveler accommodation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"72119",77,0,2007,4,"N","Piute County, Utah","Private","Other traveler accommodation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,721191,78,0,2007,1,"N","Piute County, Utah","Private","Bed-and-breakfast inns","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"721191",78,0,2007,2,"N","Piute County, Utah","Private","Bed-and-breakfast inns","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"721191",78,0,2007,3,"N","Piute County, Utah","Private","Bed-and-breakfast inns","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"721191",78,0,2007,4,"N","Piute County, Utah","Private","Bed-and-breakfast inns","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,7212,76,0,2007,1,"N","Piute County, Utah","Private","RV parks and recreational camps","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"7212",76,0,2007,2,"N","Piute County, Utah","Private","RV parks and recreational camps","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"7212",76,0,2007,3,"N","Piute County, Utah","Private","RV parks and recreational camps","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"7212",76,0,2007,4,"N","Piute County, Utah","Private","RV parks and recreational camps","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,72121,77,0,2007,1,"N","Piute County, Utah","Private","RV parks and recreational camps","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"72121",77,0,2007,2,"N","Piute County, Utah","Private","RV parks and recreational camps","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"72121",77,0,2007,3,"N","Piute County, Utah","Private","RV parks and recreational camps","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"72121",77,0,2007,4,"N","Piute County, Utah","Private","RV parks and recreational camps","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,721211,78,0,2007,1,"N","Piute County, Utah","Private","RV parks and campgrounds","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"49031",5,"721211",78,0,2007,2,"N","Piute County, Utah","Private","RV parks and campgrounds","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"721211",78,0,2007,3,"N","Piute County, Utah","Private","RV parks and campgrounds","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,"721211",78,0,2007,4,"N","Piute County, Utah","Private","RV parks and campgrounds","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"49031",5,722,75,0,2007,1,"","Piute County, Utah","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,26,28,38,42091,42091,582,106
+"49031",5,"722",75,0,2007,2,"","Piute County, Utah","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,44,52,53,76312,76312,1177,118
+"49031",5,"722",75,0,2007,3,"","Piute County, Utah","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,50,58,46,94964,94964,1412,142
+"49031",5,"722",75,0,2007,4,"","Piute County, Utah","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,38,41,32,64635,64635,936,134
+"49031",5,7221,76,0,2007,1,"","Piute County, Utah","Private","Full-service restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,21,23,26,34481,34481,453,114
+"49031",5,"7221",76,0,2007,2,"","Piute County, Utah","Private","Full-service restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,30,36,37,53301,53301,723,119
+"49031",5,"7221",76,0,2007,3,"","Piute County, Utah","Private","Full-service restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,35,40,33,63563,63563,854,136
+"49031",5,"7221",76,0,2007,4,"","Piute County, Utah","Private","Full-service restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,26,28,22,42247,42247,555,128
+"49031",5,72211,77,0,2007,1,"","Piute County, Utah","Private","Full-service restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,21,23,26,34481,34481,453,114
+"49031",5,"72211",77,0,2007,2,"","Piute County, Utah","Private","Full-service restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,30,36,37,53301,53301,723,119
+"49031",5,"72211",77,0,2007,3,"","Piute County, Utah","Private","Full-service restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,35,40,33,63563,63563,854,136
+"49031",5,"72211",77,0,2007,4,"","Piute County, Utah","Private","Full-service restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,26,28,22,42247,42247,555,128
+"49031",5,722110,78,0,2007,1,"","Piute County, Utah","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,21,23,26,34481,34481,453,114
+"49031",5,"722110",78,0,2007,2,"","Piute County, Utah","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,30,36,37,53301,53301,723,119
+"49031",5,"722110",78,0,2007,3,"","Piute County, Utah","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,35,40,33,63563,63563,854,136
+"49031",5,"722110",78,0,2007,4,"","Piute County, Utah","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,26,28,22,42247,42247,555,128
+"49031",5,7222,76,0,2007,1,"N","Piute County, Utah","Private","Limited-service eating places","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"7222",76,0,2007,2,"N","Piute County, Utah","Private","Limited-service eating places","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"7222",76,0,2007,3,"N","Piute County, Utah","Private","Limited-service eating places","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"7222",76,0,2007,4,"N","Piute County, Utah","Private","Limited-service eating places","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,72221,77,0,2007,1,"N","Piute County, Utah","Private","Limited-service eating places","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"72221",77,0,2007,2,"N","Piute County, Utah","Private","Limited-service eating places","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"72221",77,0,2007,3,"N","Piute County, Utah","Private","Limited-service eating places","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"72221",77,0,2007,4,"N","Piute County, Utah","Private","Limited-service eating places","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,722211,78,0,2007,1,"N","Piute County, Utah","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"722211",78,0,2007,2,"N","Piute County, Utah","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"722211",78,0,2007,3,"N","Piute County, Utah","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"722211",78,0,2007,4,"N","Piute County, Utah","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,7223,76,0,2007,1,"N","Piute County, Utah","Private","Special food services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"7223",76,0,2007,2,"N","Piute County, Utah","Private","Special food services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"7223",76,0,2007,3,"N","Piute County, Utah","Private","Special food services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"7223",76,0,2007,4,"N","Piute County, Utah","Private","Special food services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,72232,77,0,2007,1,"N","Piute County, Utah","Private","Caterers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"72232",77,0,2007,2,"N","Piute County, Utah","Private","Caterers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"72232",77,0,2007,3,"N","Piute County, Utah","Private","Caterers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"72232",77,0,2007,4,"N","Piute County, Utah","Private","Caterers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,722320,78,0,2007,1,"N","Piute County, Utah","Private","Caterers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"722320",78,0,2007,2,"N","Piute County, Utah","Private","Caterers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"722320",78,0,2007,3,"N","Piute County, Utah","Private","Caterers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"722320",78,0,2007,4,"N","Piute County, Utah","Private","Caterers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,81,74,0,2007,1,"N","Piute County, Utah","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"81",74,0,2007,2,"N","Piute County, Utah","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"81",74,0,2007,3,"N","Piute County, Utah","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"81",74,0,2007,4,"N","Piute County, Utah","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,811,75,0,2007,1,"N","Piute County, Utah","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"811",75,0,2007,2,"N","Piute County, Utah","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"811",75,0,2007,3,"N","Piute County, Utah","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"811",75,0,2007,4,"N","Piute County, Utah","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,8112,76,0,2007,1,"N","Piute County, Utah","Private","Electronic equipment repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"8112",76,0,2007,2,"N","Piute County, Utah","Private","Electronic equipment repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"8112",76,0,2007,3,"N","Piute County, Utah","Private","Electronic equipment repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"8112",76,0,2007,4,"N","Piute County, Utah","Private","Electronic equipment repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,81121,77,0,2007,1,"N","Piute County, Utah","Private","Electronic equipment repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"81121",77,0,2007,2,"N","Piute County, Utah","Private","Electronic equipment repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"81121",77,0,2007,3,"N","Piute County, Utah","Private","Electronic equipment repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"81121",77,0,2007,4,"N","Piute County, Utah","Private","Electronic equipment repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,811211,78,0,2007,1,"N","Piute County, Utah","Private","Consumer electronics repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"811211",78,0,2007,2,"N","Piute County, Utah","Private","Consumer electronics repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"811211",78,0,2007,3,"N","Piute County, Utah","Private","Consumer electronics repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"49031",5,"811211",78,0,2007,4,"N","Piute County, Utah","Private","Consumer electronics repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

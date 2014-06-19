@@ -1,0 +1,662 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"48235",0,"10",70,0,2013,1,"","Irion County, Texas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",74,644,664,694,8245361,3894088,58952,950
+"48235",0,"10",70,0,2013,2,"","Irion County, Texas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",76,722,723,735,8648672,1429733,22906,916
+"48235",0,"10",70,0,2013,3,"","Irion County, Texas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",76,727,736,780,9915302,860418,12357,1020
+"48235",1,"10",71,0,2013,1,"","Irion County, Texas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",2,4,3,3,23710,0,0,547
+"48235",1,"10",71,0,2013,2,"","Irion County, Texas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",2,4,3,2,18520,0,0,475
+"48235",1,"10",71,0,2013,3,"","Irion County, Texas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",2,3,4,3,21842,0,0,504
+"48235",1,"102",72,0,2013,1,"","Irion County, Texas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",2,4,3,3,23710,0,0,547
+"48235",1,"102",72,0,2013,2,"","Irion County, Texas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",2,4,3,2,18520,0,0,475
+"48235",1,"102",72,0,2013,3,"","Irion County, Texas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",2,3,4,3,21842,0,0,504
+"48235",1,"1021",73,0,2013,1,"","Irion County, Texas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,4,3,3,23710,0,0,547
+"48235",1,"1021",73,0,2013,2,"","Irion County, Texas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,4,3,2,18520,0,0,475
+"48235",1,"1021",73,0,2013,3,"","Irion County, Texas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,3,4,3,21842,0,0,504
+"48235",1,"48-49",74,0,2013,1,"","Irion County, Texas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,4,3,3,23710,0,0,547
+"48235",1,"48-49",74,0,2013,2,"","Irion County, Texas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,4,3,2,18520,0,0,475
+"48235",1,"48-49",74,0,2013,3,"","Irion County, Texas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,3,4,3,21842,0,0,504
+"48235",1,"491",75,0,2013,1,"","Irion County, Texas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,4,3,3,23710,0,0,547
+"48235",1,"491",75,0,2013,2,"","Irion County, Texas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,4,3,2,18520,0,0,475
+"48235",1,"491",75,0,2013,3,"","Irion County, Texas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,3,4,3,21842,0,0,504
+"48235",1,"4911",76,0,2013,1,"","Irion County, Texas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,4,3,3,23710,0,0,547
+"48235",1,"4911",76,0,2013,2,"","Irion County, Texas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,4,3,2,18520,0,0,475
+"48235",1,"4911",76,0,2013,3,"","Irion County, Texas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,3,4,3,21842,0,0,504
+"48235",1,"49111",77,0,2013,1,"","Irion County, Texas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,4,3,3,23710,0,0,547
+"48235",1,"49111",77,0,2013,2,"","Irion County, Texas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,4,3,2,18520,0,0,475
+"48235",1,"49111",77,0,2013,3,"","Irion County, Texas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,3,4,3,21842,0,0,504
+"48235",1,"491110",78,0,2013,1,"","Irion County, Texas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,4,3,3,23710,0,0,547
+"48235",1,"491110",78,0,2013,2,"","Irion County, Texas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,4,3,2,18520,0,0,475
+"48235",1,"491110",78,0,2013,3,"","Irion County, Texas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,3,4,3,21842,0,0,504
+"48235",2,"10",71,0,2013,1,"","Irion County, Texas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,6,6,6,93446,0,0,1198
+"48235",2,"10",71,0,2013,2,"N","Irion County, Texas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48235",2,"10",71,0,2013,3,"N","Irion County, Texas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48235",2,"101",72,0,2013,1,"N","Irion County, Texas","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"101",72,0,2013,2,"N","Irion County, Texas","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"101",72,0,2013,3,"N","Irion County, Texas","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"1012",73,0,2013,1,"N","Irion County, Texas","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"1012",73,0,2013,2,"N","Irion County, Texas","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"1012",73,0,2013,3,"N","Irion County, Texas","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"102",72,0,2013,1,"N","Irion County, Texas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",2,"102",72,0,2013,2,"N","Irion County, Texas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",2,"102",72,0,2013,3,"N","Irion County, Texas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",2,"1028",73,0,2013,1,"N","Irion County, Texas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",2,"1028",73,0,2013,2,"N","Irion County, Texas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",2,"1028",73,0,2013,3,"N","Irion County, Texas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",2,"23",74,0,2013,1,"N","Irion County, Texas","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"23",74,0,2013,2,"N","Irion County, Texas","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"23",74,0,2013,3,"N","Irion County, Texas","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"237",75,0,2013,1,"N","Irion County, Texas","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"237",75,0,2013,2,"N","Irion County, Texas","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"237",75,0,2013,3,"N","Irion County, Texas","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"2373",76,0,2013,1,"N","Irion County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"2373",76,0,2013,2,"N","Irion County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"2373",76,0,2013,3,"N","Irion County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"23731",77,0,2013,1,"N","Irion County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"23731",77,0,2013,2,"N","Irion County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"23731",77,0,2013,3,"N","Irion County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"237310",78,0,2013,1,"N","Irion County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"237310",78,0,2013,2,"N","Irion County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"237310",78,0,2013,3,"N","Irion County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"92",74,0,2013,1,"N","Irion County, Texas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",2,"92",74,0,2013,2,"N","Irion County, Texas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",2,"92",74,0,2013,3,"N","Irion County, Texas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",2,"922",75,0,2013,1,"N","Irion County, Texas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"922",75,0,2013,2,"N","Irion County, Texas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"922",75,0,2013,3,"N","Irion County, Texas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"9221",76,0,2013,1,"N","Irion County, Texas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"9221",76,0,2013,2,"N","Irion County, Texas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"9221",76,0,2013,3,"N","Irion County, Texas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"92212",77,0,2013,1,"N","Irion County, Texas","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"92212",77,0,2013,2,"N","Irion County, Texas","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"92212",77,0,2013,3,"N","Irion County, Texas","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"922120",78,0,2013,1,"N","Irion County, Texas","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"922120",78,0,2013,2,"N","Irion County, Texas","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"922120",78,0,2013,3,"N","Irion County, Texas","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",2,"926",75,0,2013,1,"","Irion County, Texas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,3,3,3,26416,0,0,677
+"48235",2,"926",75,0,2013,2,"N","Irion County, Texas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",2,"926",75,0,2013,3,"N","Irion County, Texas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",2,"9261",76,0,2013,1,"","Irion County, Texas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,3,3,3,26416,0,0,677
+"48235",2,"9261",76,0,2013,2,"N","Irion County, Texas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",2,"9261",76,0,2013,3,"N","Irion County, Texas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",2,"92614",77,0,2013,1,"","Irion County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,3,3,3,26416,0,0,677
+"48235",2,"92614",77,0,2013,2,"N","Irion County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",2,"92614",77,0,2013,3,"N","Irion County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",2,"926140",78,0,2013,1,"","Irion County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,3,3,3,26416,0,0,677
+"48235",2,"926140",78,0,2013,2,"N","Irion County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",2,"926140",78,0,2013,3,"N","Irion County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",3,"10",71,0,2013,1,"","Irion County, Texas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,105,106,110,854717,21457,21,614
+"48235",3,"10",71,0,2013,2,"N","Irion County, Texas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"48235",3,"10",71,0,2013,3,"N","Irion County, Texas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"48235",3,"102",72,0,2013,1,"","Irion County, Texas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,105,106,110,854717,21457,21,614
+"48235",3,"102",72,0,2013,2,"N","Irion County, Texas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"48235",3,"102",72,0,2013,3,"N","Irion County, Texas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"48235",3,"1025",73,0,2013,1,"N","Irion County, Texas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",3,"1025",73,0,2013,2,"N","Irion County, Texas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",3,"1025",73,0,2013,3,"N","Irion County, Texas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",3,"1028",73,0,2013,1,"N","Irion County, Texas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",3,"1028",73,0,2013,2,"","Irion County, Texas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,39,38,47,245965,0,0,458
+"48235",3,"1028",73,0,2013,3,"","Irion County, Texas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,52,49,42,310007,0,0,500
+"48235",3,"61",74,0,2013,1,"N","Irion County, Texas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"61",74,0,2013,2,"N","Irion County, Texas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"61",74,0,2013,3,"N","Irion County, Texas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"611",75,0,2013,1,"N","Irion County, Texas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"611",75,0,2013,2,"N","Irion County, Texas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"611",75,0,2013,3,"N","Irion County, Texas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"6111",76,0,2013,1,"N","Irion County, Texas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"6111",76,0,2013,2,"N","Irion County, Texas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"6111",76,0,2013,3,"N","Irion County, Texas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"61111",77,0,2013,1,"N","Irion County, Texas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"61111",77,0,2013,2,"N","Irion County, Texas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"61111",77,0,2013,3,"N","Irion County, Texas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"611110",78,0,2013,1,"N","Irion County, Texas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"611110",78,0,2013,2,"N","Irion County, Texas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"611110",78,0,2013,3,"N","Irion County, Texas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"62",74,0,2013,1,"N","Irion County, Texas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"62",74,0,2013,2,"N","Irion County, Texas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"62",74,0,2013,3,"N","Irion County, Texas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"624",75,0,2013,1,"N","Irion County, Texas","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"624",75,0,2013,2,"N","Irion County, Texas","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"624",75,0,2013,3,"N","Irion County, Texas","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"6244",76,0,2013,1,"N","Irion County, Texas","Local Government","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"6244",76,0,2013,2,"N","Irion County, Texas","Local Government","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"6244",76,0,2013,3,"N","Irion County, Texas","Local Government","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"62441",77,0,2013,1,"N","Irion County, Texas","Local Government","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"62441",77,0,2013,2,"N","Irion County, Texas","Local Government","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"62441",77,0,2013,3,"N","Irion County, Texas","Local Government","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"624410",78,0,2013,1,"N","Irion County, Texas","Local Government","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"624410",78,0,2013,2,"N","Irion County, Texas","Local Government","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"624410",78,0,2013,3,"N","Irion County, Texas","Local Government","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"92",74,0,2013,1,"N","Irion County, Texas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",3,"92",74,0,2013,2,"","Irion County, Texas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,39,38,47,245965,0,0,458
+"48235",3,"92",74,0,2013,3,"","Irion County, Texas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,52,49,42,310007,0,0,500
+"48235",3,"921",75,0,2013,1,"N","Irion County, Texas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",3,"921",75,0,2013,2,"N","Irion County, Texas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",3,"921",75,0,2013,3,"N","Irion County, Texas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",3,"9211",76,0,2013,1,"N","Irion County, Texas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",3,"9211",76,0,2013,2,"N","Irion County, Texas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",3,"9211",76,0,2013,3,"N","Irion County, Texas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",3,"92113",77,0,2013,1,"N","Irion County, Texas","Local Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"92113",77,0,2013,2,"N","Irion County, Texas","Local Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"92113",77,0,2013,3,"N","Irion County, Texas","Local Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"921130",78,0,2013,1,"N","Irion County, Texas","Local Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"921130",78,0,2013,2,"N","Irion County, Texas","Local Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"921130",78,0,2013,3,"N","Irion County, Texas","Local Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"92114",77,0,2013,1,"N","Irion County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",3,"92114",77,0,2013,2,"N","Irion County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",3,"92114",77,0,2013,3,"N","Irion County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",3,"921140",78,0,2013,1,"N","Irion County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",3,"921140",78,0,2013,2,"N","Irion County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",3,"921140",78,0,2013,3,"N","Irion County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",3,"924",75,0,2013,1,"N","Irion County, Texas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"924",75,0,2013,2,"N","Irion County, Texas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"924",75,0,2013,3,"N","Irion County, Texas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"9241",76,0,2013,1,"N","Irion County, Texas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"9241",76,0,2013,2,"N","Irion County, Texas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"9241",76,0,2013,3,"N","Irion County, Texas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"92411",77,0,2013,1,"N","Irion County, Texas","Local Government","Air, water, and waste program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"92411",77,0,2013,2,"N","Irion County, Texas","Local Government","Air, water, and waste program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"92411",77,0,2013,3,"N","Irion County, Texas","Local Government","Air, water, and waste program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"924110",78,0,2013,1,"N","Irion County, Texas","Local Government","Air, water, and waste program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"924110",78,0,2013,2,"N","Irion County, Texas","Local Government","Air, water, and waste program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",3,"924110",78,0,2013,3,"N","Irion County, Texas","Local Government","Air, water, and waste program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"10",71,0,2013,1,"","Irion County, Texas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",61,529,549,575,7273488,3872631,58931,1015
+"48235",5,"10",71,0,2013,2,"","Irion County, Texas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",63,606,610,614,7712863,1422073,22898,973
+"48235",5,"10",71,0,2013,3,"","Irion County, Texas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",63,610,620,671,8955600,857991,12354,1087
+"48235",5,"101",72,0,2013,1,"","Irion County, Texas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",31,416,444,464,6152592,3144213,43220,1072
+"48235",5,"101",72,0,2013,2,"","Irion County, Texas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",33,490,497,499,6414305,1135114,17107,996
+"48235",5,"101",72,0,2013,3,"","Irion County, Texas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",33,496,506,556,7836899,679344,9035,1161
+"48235",5,"1011",73,0,2013,1,"","Irion County, Texas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",17,333,338,354,5034297,2409676,33773,1133
+"48235",5,"1011",73,0,2013,2,"","Irion County, Texas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",18,381,379,377,5123223,796598,11297,1040
+"48235",5,"1011",73,0,2013,3,"","Irion County, Texas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",18,382,393,402,6582667,514157,7227,1291
+"48235",5,"1012",73,0,2013,1,"N","Irion County, Texas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"48235",5,"1012",73,0,2013,2,"N","Irion County, Texas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"48235",5,"1012",73,0,2013,3,"N","Irion County, Texas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"48235",5,"1013",73,0,2013,1,"N","Irion County, Texas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"1013",73,0,2013,2,"N","Irion County, Texas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"1013",73,0,2013,3,"N","Irion County, Texas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"102",72,0,2013,1,"","Irion County, Texas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",30,113,105,111,1120896,728418,15711,786
+"48235",5,"102",72,0,2013,2,"","Irion County, Texas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",30,116,113,115,1298558,286959,5791,871
+"48235",5,"102",72,0,2013,3,"","Irion County, Texas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",30,114,114,115,1118701,178647,3319,753
+"48235",5,"1021",73,0,2013,1,"","Irion County, Texas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",13,60,60,65,525239,372742,7190,655
+"48235",5,"1021",73,0,2013,2,"","Irion County, Texas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",13,68,64,63,734718,132584,2631,869
+"48235",5,"1021",73,0,2013,3,"","Irion County, Texas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",13,65,66,66,544071,104036,2208,637
+"48235",5,"1023",73,0,2013,1,"N","Irion County, Texas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"1023",73,0,2013,2,"N","Irion County, Texas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"1023",73,0,2013,3,"N","Irion County, Texas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"1024",73,0,2013,1,"","Irion County, Texas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",4,5,5,5,51495,32830,371,792
+"48235",5,"1024",73,0,2013,2,"N","Irion County, Texas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",5,"1024",73,0,2013,3,"N","Irion County, Texas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",5,"1025",73,0,2013,1,"","Irion County, Texas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,11,11,11,274359,108789,5667,1919
+"48235",5,"1025",73,0,2013,2,"","Irion County, Texas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,11,11,11,228931,37978,1838,1601
+"48235",5,"1025",73,0,2013,3,"","Irion County, Texas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,11,11,11,239025,9691,335,1672
+"48235",5,"1026",73,0,2013,1,"N","Irion County, Texas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"1026",73,0,2013,2,"","Irion County, Texas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",3,10,10,12,46108,45859,573,333
+"48235",5,"1026",73,0,2013,3,"","Irion County, Texas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",3,9,9,9,44865,30721,492,383
+"48235",5,"1027",73,0,2013,1,"","Irion County, Texas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,6,6,6,19484,19484,733,250
+"48235",5,"1027",73,0,2013,2,"","Irion County, Texas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,6,5,6,25172,17327,377,342
+"48235",5,"1027",73,0,2013,3,"","Irion County, Texas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,7,6,7,19742,11012,159,228
+"48235",5,"1029",73,0,2013,1,"","Irion County, Texas","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",1,7,0,0,27532,27532,743,908
+"48235",5,"1029",73,0,2013,2,"-","Irion County, Texas","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48235",5,"1029",73,0,2013,3,"-","Irion County, Texas","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48235",5,"11",74,0,2013,1,"","Irion County, Texas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",6,17,19,17,104039,99239,974,453
+"48235",5,"11",74,0,2013,2,"","Irion County, Texas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",6,26,22,20,127715,70904,551,433
+"48235",5,"11",74,0,2013,3,"","Irion County, Texas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",6,18,19,24,167237,25038,133,633
+"48235",5,"112",75,0,2013,1,"N","Irion County, Texas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48235",5,"112",75,0,2013,2,"N","Irion County, Texas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48235",5,"112",75,0,2013,3,"N","Irion County, Texas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48235",5,"1121",76,0,2013,1,"N","Irion County, Texas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48235",5,"1121",76,0,2013,2,"N","Irion County, Texas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48235",5,"1121",76,0,2013,3,"N","Irion County, Texas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48235",5,"11211",77,0,2013,1,"N","Irion County, Texas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48235",5,"11211",77,0,2013,2,"N","Irion County, Texas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48235",5,"11211",77,0,2013,3,"N","Irion County, Texas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48235",5,"112111",78,0,2013,1,"N","Irion County, Texas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48235",5,"112111",78,0,2013,2,"N","Irion County, Texas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48235",5,"112111",78,0,2013,3,"N","Irion County, Texas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48235",5,"114",75,0,2013,1,"N","Irion County, Texas","Private","Fishing, hunting and trapping","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"114",75,0,2013,2,"N","Irion County, Texas","Private","Fishing, hunting and trapping","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"114",75,0,2013,3,"N","Irion County, Texas","Private","Fishing, hunting and trapping","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"1142",76,0,2013,1,"N","Irion County, Texas","Private","Hunting and trapping","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"1142",76,0,2013,2,"N","Irion County, Texas","Private","Hunting and trapping","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"1142",76,0,2013,3,"N","Irion County, Texas","Private","Hunting and trapping","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"11421",77,0,2013,1,"N","Irion County, Texas","Private","Hunting and trapping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"11421",77,0,2013,2,"N","Irion County, Texas","Private","Hunting and trapping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"11421",77,0,2013,3,"N","Irion County, Texas","Private","Hunting and trapping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"114210",78,0,2013,1,"N","Irion County, Texas","Private","Hunting and trapping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"114210",78,0,2013,2,"N","Irion County, Texas","Private","Hunting and trapping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"114210",78,0,2013,3,"N","Irion County, Texas","Private","Hunting and trapping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"21",74,0,2013,1,"","Irion County, Texas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",11,316,319,337,4930258,2310437,32799,1171
+"48235",5,"21",74,0,2013,2,"","Irion County, Texas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",12,355,357,357,4995508,725694,10746,1078
+"48235",5,"21",74,0,2013,3,"","Irion County, Texas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",12,364,374,378,6415430,489119,7094,1327
+"48235",5,"211",75,0,2013,1,"N","Irion County, Texas","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"211",75,0,2013,2,"N","Irion County, Texas","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"211",75,0,2013,3,"N","Irion County, Texas","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"2111",76,0,2013,1,"N","Irion County, Texas","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"2111",76,0,2013,2,"N","Irion County, Texas","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"2111",76,0,2013,3,"N","Irion County, Texas","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"21111",77,0,2013,1,"N","Irion County, Texas","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"21111",77,0,2013,2,"N","Irion County, Texas","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"21111",77,0,2013,3,"N","Irion County, Texas","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"211111",78,0,2013,1,"N","Irion County, Texas","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"211111",78,0,2013,2,"N","Irion County, Texas","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"211111",78,0,2013,3,"N","Irion County, Texas","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"211112",78,0,2013,1,"N","Irion County, Texas","Private","Natural gas liquid extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"211112",78,0,2013,2,"N","Irion County, Texas","Private","Natural gas liquid extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"211112",78,0,2013,3,"N","Irion County, Texas","Private","Natural gas liquid extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"213",75,0,2013,1,"N","Irion County, Texas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"48235",5,"213",75,0,2013,2,"N","Irion County, Texas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"48235",5,"213",75,0,2013,3,"N","Irion County, Texas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"48235",5,"2131",76,0,2013,1,"N","Irion County, Texas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"48235",5,"2131",76,0,2013,2,"N","Irion County, Texas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"48235",5,"2131",76,0,2013,3,"N","Irion County, Texas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"48235",5,"21311",77,0,2013,1,"N","Irion County, Texas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"48235",5,"21311",77,0,2013,2,"N","Irion County, Texas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"48235",5,"21311",77,0,2013,3,"N","Irion County, Texas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"48235",5,"213111",78,0,2013,1,"N","Irion County, Texas","Private","Drilling oil and gas wells","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"213111",78,0,2013,2,"N","Irion County, Texas","Private","Drilling oil and gas wells","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"213111",78,0,2013,3,"N","Irion County, Texas","Private","Drilling oil and gas wells","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"213112",78,0,2013,1,"","Irion County, Texas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,192,196,208,2387106,1582074,15916,924
+"48235",5,"213112",78,0,2013,2,"","Irion County, Texas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,224,226,231,3381061,594183,8597,1146
+"48235",5,"213112",78,0,2013,3,"","Irion County, Texas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,227,235,243,3539872,389183,5203,1159
+"48235",5,"23",74,0,2013,1,"N","Irion County, Texas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"48235",5,"23",74,0,2013,2,"N","Irion County, Texas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"48235",5,"23",74,0,2013,3,"N","Irion County, Texas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"48235",5,"236",75,0,2013,1,"-","Irion County, Texas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48235",5,"236",75,0,2013,2,"N","Irion County, Texas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"236",75,0,2013,3,"N","Irion County, Texas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"2361",76,0,2013,1,"-","Irion County, Texas","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48235",5,"2361",76,0,2013,2,"N","Irion County, Texas","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"2361",76,0,2013,3,"N","Irion County, Texas","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"23611",77,0,2013,1,"-","Irion County, Texas","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48235",5,"23611",77,0,2013,2,"N","Irion County, Texas","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"23611",77,0,2013,3,"N","Irion County, Texas","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"236115",78,0,2013,1,"-","Irion County, Texas","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48235",5,"236115",78,0,2013,2,"N","Irion County, Texas","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"236115",78,0,2013,3,"N","Irion County, Texas","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"237",75,0,2013,1,"N","Irion County, Texas","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",5,"237",75,0,2013,2,"","Irion County, Texas","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,31,34,35,354765,158841,3798,819
+"48235",5,"237",75,0,2013,3,"","Irion County, Texas","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,38,38,38,321761,45221,343,651
+"48235",5,"2371",76,0,2013,1,"","Irion County, Texas","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,19,25,27,210991,171012,3595,686
+"48235",5,"2371",76,0,2013,2,"N","Irion County, Texas","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"2371",76,0,2013,3,"N","Irion County, Texas","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"23711",77,0,2013,1,"N","Irion County, Texas","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"23711",77,0,2013,2,"N","Irion County, Texas","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"23711",77,0,2013,3,"N","Irion County, Texas","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"237110",78,0,2013,1,"N","Irion County, Texas","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"237110",78,0,2013,2,"N","Irion County, Texas","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"237110",78,0,2013,3,"N","Irion County, Texas","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"23712",77,0,2013,1,"N","Irion County, Texas","Private","Oil and gas pipeline construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"23712",77,0,2013,2,"N","Irion County, Texas","Private","Oil and gas pipeline construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"23712",77,0,2013,3,"N","Irion County, Texas","Private","Oil and gas pipeline construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"237120",78,0,2013,1,"N","Irion County, Texas","Private","Oil and gas pipeline construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"237120",78,0,2013,2,"N","Irion County, Texas","Private","Oil and gas pipeline construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"237120",78,0,2013,3,"N","Irion County, Texas","Private","Oil and gas pipeline construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"2372",76,0,2013,1,"N","Irion County, Texas","Private","Land subdivision","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"2372",76,0,2013,2,"N","Irion County, Texas","Private","Land subdivision","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"2372",76,0,2013,3,"N","Irion County, Texas","Private","Land subdivision","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"23721",77,0,2013,1,"N","Irion County, Texas","Private","Land subdivision","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"23721",77,0,2013,2,"N","Irion County, Texas","Private","Land subdivision","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"23721",77,0,2013,3,"N","Irion County, Texas","Private","Land subdivision","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"237210",78,0,2013,1,"N","Irion County, Texas","Private","Land subdivision","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"237210",78,0,2013,2,"N","Irion County, Texas","Private","Land subdivision","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"237210",78,0,2013,3,"N","Irion County, Texas","Private","Land subdivision","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"238",75,0,2013,1,"","Irion County, Texas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,48,62,66,583694,411772,3502,765
+"48235",5,"238",75,0,2013,2,"","Irion County, Texas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,70,76,76,748769,154650,1689,778
+"48235",5,"238",75,0,2013,3,"","Irion County, Texas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,65,65,106,752849,95787,996,736
+"48235",5,"2382",76,0,2013,1,"","Irion County, Texas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,9,10,112008,82643,1480,923
+"48235",5,"2382",76,0,2013,2,"","Irion County, Texas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,10,11,12,137704,29512,434,963
+"48235",5,"2382",76,0,2013,3,"","Irion County, Texas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,10,10,12,142526,9969,289,1028
+"48235",5,"23822",77,0,2013,1,"","Irion County, Texas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,9,10,112008,82643,1480,923
+"48235",5,"23822",77,0,2013,2,"","Irion County, Texas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,10,11,12,137704,29512,434,963
+"48235",5,"23822",77,0,2013,3,"","Irion County, Texas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,10,10,12,142526,9969,289,1028
+"48235",5,"238221",78,0,2013,1,"N","Irion County, Texas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"238221",78,0,2013,2,"N","Irion County, Texas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"238221",78,0,2013,3,"N","Irion County, Texas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"238222",78,0,2013,1,"N","Irion County, Texas","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"238222",78,0,2013,2,"N","Irion County, Texas","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"238222",78,0,2013,3,"N","Irion County, Texas","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"2389",76,0,2013,1,"","Irion County, Texas","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,39,53,56,471686,329129,2022,735
+"48235",5,"2389",76,0,2013,2,"","Irion County, Texas","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,60,65,64,611065,125138,1255,746
+"48235",5,"2389",76,0,2013,3,"","Irion County, Texas","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,55,55,94,610323,85818,707,690
+"48235",5,"23891",77,0,2013,1,"N","Irion County, Texas","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"23891",77,0,2013,2,"N","Irion County, Texas","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"23891",77,0,2013,3,"N","Irion County, Texas","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"238912",78,0,2013,1,"N","Irion County, Texas","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"238912",78,0,2013,2,"N","Irion County, Texas","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"238912",78,0,2013,3,"N","Irion County, Texas","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"23899",77,0,2013,1,"N","Irion County, Texas","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"23899",77,0,2013,2,"N","Irion County, Texas","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"23899",77,0,2013,3,"N","Irion County, Texas","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"238991",78,0,2013,1,"N","Irion County, Texas","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"238991",78,0,2013,2,"N","Irion County, Texas","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"238991",78,0,2013,3,"N","Irion County, Texas","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"238992",78,0,2013,1,"N","Irion County, Texas","Private","All other nonresidential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"238992",78,0,2013,2,"N","Irion County, Texas","Private","All other nonresidential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"238992",78,0,2013,3,"N","Irion County, Texas","Private","All other nonresidential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"31-33",74,0,2013,1,"N","Irion County, Texas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"31-33",74,0,2013,2,"N","Irion County, Texas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"31-33",74,0,2013,3,"N","Irion County, Texas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"311",75,0,2013,1,"N","Irion County, Texas","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"311",75,0,2013,2,"N","Irion County, Texas","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"311",75,0,2013,3,"N","Irion County, Texas","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"3116",76,0,2013,1,"N","Irion County, Texas","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"3116",76,0,2013,2,"N","Irion County, Texas","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"3116",76,0,2013,3,"N","Irion County, Texas","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"31161",77,0,2013,1,"N","Irion County, Texas","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"31161",77,0,2013,2,"N","Irion County, Texas","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"31161",77,0,2013,3,"N","Irion County, Texas","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"311612",78,0,2013,1,"N","Irion County, Texas","Private","Meat processed from carcasses","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"311612",78,0,2013,2,"N","Irion County, Texas","Private","Meat processed from carcasses","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"311612",78,0,2013,3,"N","Irion County, Texas","Private","Meat processed from carcasses","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"324",75,0,2013,1,"N","Irion County, Texas","Private","Petroleum and coal products manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"324",75,0,2013,2,"N","Irion County, Texas","Private","Petroleum and coal products manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"324",75,0,2013,3,"N","Irion County, Texas","Private","Petroleum and coal products manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"3241",76,0,2013,1,"N","Irion County, Texas","Private","Petroleum and coal products manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"3241",76,0,2013,2,"N","Irion County, Texas","Private","Petroleum and coal products manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"3241",76,0,2013,3,"N","Irion County, Texas","Private","Petroleum and coal products manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"32411",77,0,2013,1,"N","Irion County, Texas","Private","Petroleum refineries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"32411",77,0,2013,2,"N","Irion County, Texas","Private","Petroleum refineries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"32411",77,0,2013,3,"N","Irion County, Texas","Private","Petroleum refineries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"324110",78,0,2013,1,"N","Irion County, Texas","Private","Petroleum refineries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"324110",78,0,2013,2,"N","Irion County, Texas","Private","Petroleum refineries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"324110",78,0,2013,3,"N","Irion County, Texas","Private","Petroleum refineries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"42",74,0,2013,1,"N","Irion County, Texas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"42",74,0,2013,2,"N","Irion County, Texas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"42",74,0,2013,3,"N","Irion County, Texas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"424",75,0,2013,1,"N","Irion County, Texas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"424",75,0,2013,2,"N","Irion County, Texas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"424",75,0,2013,3,"N","Irion County, Texas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4245",76,0,2013,1,"N","Irion County, Texas","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4245",76,0,2013,2,"N","Irion County, Texas","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4245",76,0,2013,3,"N","Irion County, Texas","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"42459",77,0,2013,1,"N","Irion County, Texas","Private","Other farm product raw material merch. whls.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"42459",77,0,2013,2,"N","Irion County, Texas","Private","Other farm product raw material merch. whls.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"42459",77,0,2013,3,"N","Irion County, Texas","Private","Other farm product raw material merch. whls.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"424590",78,0,2013,1,"N","Irion County, Texas","Private","Other farm product raw material merch. whls.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"424590",78,0,2013,2,"N","Irion County, Texas","Private","Other farm product raw material merch. whls.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"424590",78,0,2013,3,"N","Irion County, Texas","Private","Other farm product raw material merch. whls.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"44-45",74,0,2013,1,"N","Irion County, Texas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"48235",5,"44-45",74,0,2013,2,"","Irion County, Texas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,27,30,31,148093,80115,1374,388
+"48235",5,"44-45",74,0,2013,3,"N","Irion County, Texas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"48235",5,"441",75,0,2013,1,"N","Irion County, Texas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"441",75,0,2013,2,"N","Irion County, Texas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"441",75,0,2013,3,"N","Irion County, Texas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4413",76,0,2013,1,"N","Irion County, Texas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4413",76,0,2013,2,"N","Irion County, Texas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4413",76,0,2013,3,"N","Irion County, Texas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"44132",77,0,2013,1,"N","Irion County, Texas","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"44132",77,0,2013,2,"N","Irion County, Texas","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"44132",77,0,2013,3,"N","Irion County, Texas","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"441320",78,0,2013,1,"N","Irion County, Texas","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"441320",78,0,2013,2,"N","Irion County, Texas","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"441320",78,0,2013,3,"N","Irion County, Texas","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"444",75,0,2013,1,"N","Irion County, Texas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"444",75,0,2013,2,"N","Irion County, Texas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"444",75,0,2013,3,"N","Irion County, Texas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"4441",76,0,2013,1,"N","Irion County, Texas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4441",76,0,2013,2,"N","Irion County, Texas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4441",76,0,2013,3,"N","Irion County, Texas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"44413",77,0,2013,1,"N","Irion County, Texas","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"44413",77,0,2013,2,"N","Irion County, Texas","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"44413",77,0,2013,3,"N","Irion County, Texas","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"444130",78,0,2013,1,"N","Irion County, Texas","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"444130",78,0,2013,2,"N","Irion County, Texas","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"444130",78,0,2013,3,"N","Irion County, Texas","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4442",76,0,2013,1,"N","Irion County, Texas","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4442",76,0,2013,2,"N","Irion County, Texas","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4442",76,0,2013,3,"N","Irion County, Texas","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"44422",77,0,2013,1,"N","Irion County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"44422",77,0,2013,2,"N","Irion County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"44422",77,0,2013,3,"N","Irion County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"444220",78,0,2013,1,"N","Irion County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"444220",78,0,2013,2,"N","Irion County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"444220",78,0,2013,3,"N","Irion County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"445",75,0,2013,1,"N","Irion County, Texas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"445",75,0,2013,2,"N","Irion County, Texas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"445",75,0,2013,3,"N","Irion County, Texas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"4451",76,0,2013,1,"N","Irion County, Texas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"4451",76,0,2013,2,"N","Irion County, Texas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"4451",76,0,2013,3,"N","Irion County, Texas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"44511",77,0,2013,1,"N","Irion County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"44511",77,0,2013,2,"N","Irion County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"44511",77,0,2013,3,"N","Irion County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"445110",78,0,2013,1,"N","Irion County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"445110",78,0,2013,2,"N","Irion County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"445110",78,0,2013,3,"N","Irion County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"447",75,0,2013,1,"","Irion County, Texas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,6,6,38656,35895,282,496
+"48235",5,"447",75,0,2013,2,"","Irion County, Texas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,6,6,40245,24607,189,516
+"48235",5,"447",75,0,2013,3,"","Irion County, Texas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,6,7,40214,15972,121,488
+"48235",5,"4471",76,0,2013,1,"","Irion County, Texas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,6,6,38656,35895,282,496
+"48235",5,"4471",76,0,2013,2,"","Irion County, Texas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,6,6,40245,24607,189,516
+"48235",5,"4471",76,0,2013,3,"","Irion County, Texas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,6,7,40214,15972,121,488
+"48235",5,"44711",77,0,2013,1,"","Irion County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,6,6,6,38656,35895,282,496
+"48235",5,"44711",77,0,2013,2,"","Irion County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,6,6,6,40245,24607,189,516
+"48235",5,"44711",77,0,2013,3,"","Irion County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,6,6,7,40214,15972,121,488
+"48235",5,"447110",78,0,2013,1,"","Irion County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,6,6,38656,35895,282,496
+"48235",5,"447110",78,0,2013,2,"","Irion County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,6,6,40245,24607,189,516
+"48235",5,"447110",78,0,2013,3,"","Irion County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,6,7,40214,15972,121,488
+"48235",5,"453",75,0,2013,1,"N","Irion County, Texas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"453",75,0,2013,2,"N","Irion County, Texas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"453",75,0,2013,3,"N","Irion County, Texas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4539",76,0,2013,1,"N","Irion County, Texas","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4539",76,0,2013,2,"N","Irion County, Texas","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4539",76,0,2013,3,"N","Irion County, Texas","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"45393",77,0,2013,1,"N","Irion County, Texas","Private","Manufactured, mobile, home dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"45393",77,0,2013,2,"N","Irion County, Texas","Private","Manufactured, mobile, home dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"45393",77,0,2013,3,"N","Irion County, Texas","Private","Manufactured, mobile, home dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"453930",78,0,2013,1,"N","Irion County, Texas","Private","Manufactured, mobile, home dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"453930",78,0,2013,2,"N","Irion County, Texas","Private","Manufactured, mobile, home dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"453930",78,0,2013,3,"N","Irion County, Texas","Private","Manufactured, mobile, home dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"48-49",74,0,2013,1,"","Irion County, Texas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,33,30,37,364049,231821,5501,840
+"48235",5,"48-49",74,0,2013,2,"N","Irion County, Texas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"48-49",74,0,2013,3,"","Irion County, Texas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,32,32,33,371575,41612,1089,884
+"48235",5,"484",75,0,2013,1,"N","Irion County, Texas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"484",75,0,2013,2,"N","Irion County, Texas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"484",75,0,2013,3,"N","Irion County, Texas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"4841",76,0,2013,1,"N","Irion County, Texas","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4841",76,0,2013,2,"N","Irion County, Texas","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4841",76,0,2013,3,"N","Irion County, Texas","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"48411",77,0,2013,1,"N","Irion County, Texas","Private","General freight trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"48411",77,0,2013,2,"N","Irion County, Texas","Private","General freight trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"48411",77,0,2013,3,"N","Irion County, Texas","Private","General freight trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"484110",78,0,2013,1,"N","Irion County, Texas","Private","General freight trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"484110",78,0,2013,2,"N","Irion County, Texas","Private","General freight trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"484110",78,0,2013,3,"N","Irion County, Texas","Private","General freight trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4842",76,0,2013,1,"N","Irion County, Texas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4842",76,0,2013,2,"N","Irion County, Texas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4842",76,0,2013,3,"N","Irion County, Texas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"48422",77,0,2013,1,"N","Irion County, Texas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"48422",77,0,2013,2,"N","Irion County, Texas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"48422",77,0,2013,3,"N","Irion County, Texas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"484220",78,0,2013,1,"N","Irion County, Texas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"484220",78,0,2013,2,"N","Irion County, Texas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"484220",78,0,2013,3,"N","Irion County, Texas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"486",75,0,2013,1,"N","Irion County, Texas","Private","Pipeline transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"486",75,0,2013,2,"N","Irion County, Texas","Private","Pipeline transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"486",75,0,2013,3,"N","Irion County, Texas","Private","Pipeline transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4862",76,0,2013,1,"N","Irion County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4862",76,0,2013,2,"N","Irion County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"4862",76,0,2013,3,"N","Irion County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"48621",77,0,2013,1,"N","Irion County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"48621",77,0,2013,2,"N","Irion County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"48621",77,0,2013,3,"N","Irion County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"486210",78,0,2013,1,"N","Irion County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"486210",78,0,2013,2,"N","Irion County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"486210",78,0,2013,3,"N","Irion County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"52",74,0,2013,1,"N","Irion County, Texas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"52",74,0,2013,2,"N","Irion County, Texas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"52",74,0,2013,3,"N","Irion County, Texas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"522",75,0,2013,1,"N","Irion County, Texas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"522",75,0,2013,2,"N","Irion County, Texas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"522",75,0,2013,3,"N","Irion County, Texas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"5221",76,0,2013,1,"N","Irion County, Texas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"5221",76,0,2013,2,"N","Irion County, Texas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"5221",76,0,2013,3,"N","Irion County, Texas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"52211",77,0,2013,1,"N","Irion County, Texas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"52211",77,0,2013,2,"N","Irion County, Texas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"52211",77,0,2013,3,"N","Irion County, Texas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"522110",78,0,2013,1,"N","Irion County, Texas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"522110",78,0,2013,2,"N","Irion County, Texas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"522110",78,0,2013,3,"N","Irion County, Texas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"53",74,0,2013,1,"N","Irion County, Texas","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"53",74,0,2013,2,"N","Irion County, Texas","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"53",74,0,2013,3,"N","Irion County, Texas","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"531",75,0,2013,1,"N","Irion County, Texas","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"531",75,0,2013,2,"N","Irion County, Texas","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"531",75,0,2013,3,"N","Irion County, Texas","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"5313",76,0,2013,1,"N","Irion County, Texas","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"5313",76,0,2013,2,"N","Irion County, Texas","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"5313",76,0,2013,3,"N","Irion County, Texas","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"53132",77,0,2013,1,"N","Irion County, Texas","Private","Offices of real estate appraisers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"53132",77,0,2013,2,"N","Irion County, Texas","Private","Offices of real estate appraisers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"53132",77,0,2013,3,"N","Irion County, Texas","Private","Offices of real estate appraisers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"531320",78,0,2013,1,"N","Irion County, Texas","Private","Offices of real estate appraisers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"531320",78,0,2013,2,"N","Irion County, Texas","Private","Offices of real estate appraisers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"531320",78,0,2013,3,"N","Irion County, Texas","Private","Offices of real estate appraisers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"54",74,0,2013,1,"N","Irion County, Texas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"54",74,0,2013,2,"N","Irion County, Texas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"54",74,0,2013,3,"N","Irion County, Texas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"541",75,0,2013,1,"N","Irion County, Texas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"541",75,0,2013,2,"N","Irion County, Texas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"541",75,0,2013,3,"N","Irion County, Texas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48235",5,"5411",76,0,2013,1,"N","Irion County, Texas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"5411",76,0,2013,2,"N","Irion County, Texas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"5411",76,0,2013,3,"N","Irion County, Texas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"54111",77,0,2013,1,"N","Irion County, Texas","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"54111",77,0,2013,2,"N","Irion County, Texas","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"54111",77,0,2013,3,"N","Irion County, Texas","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"541110",78,0,2013,1,"N","Irion County, Texas","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"541110",78,0,2013,2,"N","Irion County, Texas","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"541110",78,0,2013,3,"N","Irion County, Texas","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"54119",77,0,2013,1,"N","Irion County, Texas","Private","Other legal services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"54119",77,0,2013,2,"N","Irion County, Texas","Private","Other legal services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"54119",77,0,2013,3,"N","Irion County, Texas","Private","Other legal services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"541191",78,0,2013,1,"N","Irion County, Texas","Private","Title abstract and settlement offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"541191",78,0,2013,2,"N","Irion County, Texas","Private","Title abstract and settlement offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"541191",78,0,2013,3,"N","Irion County, Texas","Private","Title abstract and settlement offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"5412",76,0,2013,1,"N","Irion County, Texas","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"5412",76,0,2013,2,"N","Irion County, Texas","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"5412",76,0,2013,3,"N","Irion County, Texas","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"54121",77,0,2013,1,"N","Irion County, Texas","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"54121",77,0,2013,2,"N","Irion County, Texas","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"54121",77,0,2013,3,"N","Irion County, Texas","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"541211",78,0,2013,1,"N","Irion County, Texas","Private","Offices of certified public accountants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"541211",78,0,2013,2,"N","Irion County, Texas","Private","Offices of certified public accountants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"541211",78,0,2013,3,"N","Irion County, Texas","Private","Offices of certified public accountants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"55",74,0,2013,1,"N","Irion County, Texas","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"55",74,0,2013,2,"N","Irion County, Texas","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"55",74,0,2013,3,"N","Irion County, Texas","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"551",75,0,2013,1,"N","Irion County, Texas","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"551",75,0,2013,2,"N","Irion County, Texas","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"551",75,0,2013,3,"N","Irion County, Texas","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"5511",76,0,2013,1,"N","Irion County, Texas","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"5511",76,0,2013,2,"N","Irion County, Texas","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"5511",76,0,2013,3,"N","Irion County, Texas","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"55111",77,0,2013,1,"N","Irion County, Texas","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"55111",77,0,2013,2,"N","Irion County, Texas","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"55111",77,0,2013,3,"N","Irion County, Texas","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"551114",78,0,2013,1,"N","Irion County, Texas","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"551114",78,0,2013,2,"N","Irion County, Texas","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"551114",78,0,2013,3,"N","Irion County, Texas","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"62",74,0,2013,1,"","Irion County, Texas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,11,11,11,274359,108789,5667,1919
+"48235",5,"62",74,0,2013,2,"","Irion County, Texas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,11,11,11,228931,37978,1838,1601
+"48235",5,"62",74,0,2013,3,"","Irion County, Texas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,11,11,11,239025,9691,335,1672
+"48235",5,"621",75,0,2013,1,"N","Irion County, Texas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"621",75,0,2013,2,"N","Irion County, Texas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"621",75,0,2013,3,"N","Irion County, Texas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"6216",76,0,2013,1,"N","Irion County, Texas","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"6216",76,0,2013,2,"N","Irion County, Texas","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"6216",76,0,2013,3,"N","Irion County, Texas","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"62161",77,0,2013,1,"N","Irion County, Texas","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"62161",77,0,2013,2,"N","Irion County, Texas","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"62161",77,0,2013,3,"N","Irion County, Texas","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"621610",78,0,2013,1,"N","Irion County, Texas","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"621610",78,0,2013,2,"N","Irion County, Texas","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"621610",78,0,2013,3,"N","Irion County, Texas","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"623",75,0,2013,1,"N","Irion County, Texas","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"623",75,0,2013,2,"N","Irion County, Texas","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"623",75,0,2013,3,"N","Irion County, Texas","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"6233",76,0,2013,1,"N","Irion County, Texas","Private","Community care facilities for the elderly","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"6233",76,0,2013,2,"N","Irion County, Texas","Private","Community care facilities for the elderly","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"6233",76,0,2013,3,"N","Irion County, Texas","Private","Community care facilities for the elderly","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"62331",77,0,2013,1,"N","Irion County, Texas","Private","Community care facilities for the elderly","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"62331",77,0,2013,2,"N","Irion County, Texas","Private","Community care facilities for the elderly","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"62331",77,0,2013,3,"N","Irion County, Texas","Private","Community care facilities for the elderly","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"623312",78,0,2013,1,"N","Irion County, Texas","Private","Assisted living facilities for the elderly","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"623312",78,0,2013,2,"N","Irion County, Texas","Private","Assisted living facilities for the elderly","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"623312",78,0,2013,3,"N","Irion County, Texas","Private","Assisted living facilities for the elderly","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"71",74,0,2013,1,"N","Irion County, Texas","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"71",74,0,2013,2,"N","Irion County, Texas","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"71",74,0,2013,3,"N","Irion County, Texas","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"713",75,0,2013,1,"N","Irion County, Texas","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"713",75,0,2013,2,"N","Irion County, Texas","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"713",75,0,2013,3,"N","Irion County, Texas","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"7139",76,0,2013,1,"N","Irion County, Texas","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"7139",76,0,2013,2,"N","Irion County, Texas","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"7139",76,0,2013,3,"N","Irion County, Texas","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"71394",77,0,2013,1,"N","Irion County, Texas","Private","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"71394",77,0,2013,2,"N","Irion County, Texas","Private","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"71394",77,0,2013,3,"N","Irion County, Texas","Private","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"713940",78,0,2013,1,"N","Irion County, Texas","Private","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"713940",78,0,2013,2,"N","Irion County, Texas","Private","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"713940",78,0,2013,3,"N","Irion County, Texas","Private","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"72",74,0,2013,1,"N","Irion County, Texas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"72",74,0,2013,2,"N","Irion County, Texas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"72",74,0,2013,3,"N","Irion County, Texas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"722",75,0,2013,1,"N","Irion County, Texas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"722",75,0,2013,2,"N","Irion County, Texas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"722",75,0,2013,3,"N","Irion County, Texas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"7225",76,0,2013,1,"N","Irion County, Texas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"7225",76,0,2013,2,"N","Irion County, Texas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"7225",76,0,2013,3,"N","Irion County, Texas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"72251",77,0,2013,1,"N","Irion County, Texas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"72251",77,0,2013,2,"N","Irion County, Texas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"72251",77,0,2013,3,"N","Irion County, Texas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48235",5,"722511",78,0,2013,1,"N","Irion County, Texas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"722511",78,0,2013,2,"N","Irion County, Texas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"722511",78,0,2013,3,"N","Irion County, Texas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"722513",78,0,2013,1,"-","Irion County, Texas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48235",5,"722513",78,0,2013,2,"N","Irion County, Texas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"722513",78,0,2013,3,"N","Irion County, Texas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"81",74,0,2013,1,"","Irion County, Texas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,6,6,6,19484,19484,733,250
+"48235",5,"81",74,0,2013,2,"","Irion County, Texas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,6,5,6,25172,17327,377,342
+"48235",5,"81",74,0,2013,3,"","Irion County, Texas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,7,6,7,19742,11012,159,228
+"48235",5,"811",75,0,2013,1,"N","Irion County, Texas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"811",75,0,2013,2,"N","Irion County, Texas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"811",75,0,2013,3,"N","Irion County, Texas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"8111",76,0,2013,1,"N","Irion County, Texas","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"8111",76,0,2013,2,"N","Irion County, Texas","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"8111",76,0,2013,3,"N","Irion County, Texas","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"81111",77,0,2013,1,"N","Irion County, Texas","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"81111",77,0,2013,2,"N","Irion County, Texas","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"81111",77,0,2013,3,"N","Irion County, Texas","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"811111",78,0,2013,1,"N","Irion County, Texas","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"811111",78,0,2013,2,"N","Irion County, Texas","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"811111",78,0,2013,3,"N","Irion County, Texas","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48235",5,"814",75,0,2013,1,"N","Irion County, Texas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",5,"814",75,0,2013,2,"N","Irion County, Texas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",5,"814",75,0,2013,3,"N","Irion County, Texas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",5,"8141",76,0,2013,1,"N","Irion County, Texas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",5,"8141",76,0,2013,2,"N","Irion County, Texas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",5,"8141",76,0,2013,3,"N","Irion County, Texas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",5,"81411",77,0,2013,1,"N","Irion County, Texas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",5,"81411",77,0,2013,2,"N","Irion County, Texas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",5,"81411",77,0,2013,3,"N","Irion County, Texas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",5,"814110",78,0,2013,1,"N","Irion County, Texas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",5,"814110",78,0,2013,2,"N","Irion County, Texas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",5,"814110",78,0,2013,3,"N","Irion County, Texas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48235",5,"99",74,0,2013,1,"","Irion County, Texas","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",1,7,0,0,27532,27532,743,908
+"48235",5,"99",74,0,2013,2,"-","Irion County, Texas","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48235",5,"99",74,0,2013,3,"-","Irion County, Texas","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48235",5,"999",75,0,2013,1,"","Irion County, Texas","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,7,0,0,27532,27532,743,908
+"48235",5,"999",75,0,2013,2,"-","Irion County, Texas","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48235",5,"999",75,0,2013,3,"-","Irion County, Texas","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48235",5,"9999",76,0,2013,1,"","Irion County, Texas","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,7,0,0,27532,27532,743,908
+"48235",5,"9999",76,0,2013,2,"-","Irion County, Texas","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48235",5,"9999",76,0,2013,3,"-","Irion County, Texas","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48235",5,"99999",77,0,2013,1,"","Irion County, Texas","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,7,0,0,27532,27532,743,908
+"48235",5,"99999",77,0,2013,2,"-","Irion County, Texas","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48235",5,"99999",77,0,2013,3,"-","Irion County, Texas","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48235",5,"999999",78,0,2013,1,"","Irion County, Texas","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,7,0,0,27532,27532,743,908
+"48235",5,"999999",78,0,2013,2,"-","Irion County, Texas","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48235",5,"999999",78,0,2013,3,"-","Irion County, Texas","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+

@@ -1,0 +1,953 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"20129",0,"10",70,0,2013,1,"","Morton County, Kansas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",115,1125,1161,1137,9992017,7798772,95268,674
+"20129",0,"10",70,0,2013,2,"","Morton County, Kansas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",114,1149,1147,1150,9399361,5319683,34150,629
+"20129",0,"10",70,0,2013,3,"","Morton County, Kansas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",115,1151,1084,1116,9545312,5162560,27377,657
+"20129",1,"10",71,0,2013,1,"","Morton County, Kansas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,18,19,18,208230,0,0,874
+"20129",1,"10",71,0,2013,2,"","Morton County, Kansas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,21,19,19,213186,0,0,834
+"20129",1,"10",71,0,2013,3,"","Morton County, Kansas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,23,18,17,226217,0,0,900
+"20129",1,"102",72,0,2013,1,"","Morton County, Kansas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,18,19,18,208230,0,0,874
+"20129",1,"102",72,0,2013,2,"","Morton County, Kansas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,21,19,19,213186,0,0,834
+"20129",1,"102",72,0,2013,3,"","Morton County, Kansas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,23,18,17,226217,0,0,900
+"20129",1,"1021",73,0,2013,1,"","Morton County, Kansas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,6,6,6,50477,0,0,647
+"20129",1,"1021",73,0,2013,2,"","Morton County, Kansas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,6,6,6,44543,0,0,571
+"20129",1,"1021",73,0,2013,3,"","Morton County, Kansas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,6,5,6,50745,0,0,689
+"20129",1,"1028",73,0,2013,1,"","Morton County, Kansas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,12,13,12,157753,0,0,984
+"20129",1,"1028",73,0,2013,2,"","Morton County, Kansas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,15,13,13,168643,0,0,949
+"20129",1,"1028",73,0,2013,3,"","Morton County, Kansas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,17,13,11,175472,0,0,988
+"20129",1,"48-49",74,0,2013,1,"","Morton County, Kansas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,6,6,50477,0,0,647
+"20129",1,"48-49",74,0,2013,2,"","Morton County, Kansas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,6,6,44543,0,0,571
+"20129",1,"48-49",74,0,2013,3,"","Morton County, Kansas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,5,6,50745,0,0,689
+"20129",1,"491",75,0,2013,1,"","Morton County, Kansas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,6,6,50477,0,0,647
+"20129",1,"491",75,0,2013,2,"","Morton County, Kansas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,6,6,44543,0,0,571
+"20129",1,"491",75,0,2013,3,"","Morton County, Kansas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,5,6,50745,0,0,689
+"20129",1,"4911",76,0,2013,1,"","Morton County, Kansas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,6,6,50477,0,0,647
+"20129",1,"4911",76,0,2013,2,"","Morton County, Kansas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,6,6,44543,0,0,571
+"20129",1,"4911",76,0,2013,3,"","Morton County, Kansas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,5,6,50745,0,0,689
+"20129",1,"49111",77,0,2013,1,"","Morton County, Kansas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,6,6,6,50477,0,0,647
+"20129",1,"49111",77,0,2013,2,"","Morton County, Kansas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,6,6,6,44543,0,0,571
+"20129",1,"49111",77,0,2013,3,"","Morton County, Kansas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,6,5,6,50745,0,0,689
+"20129",1,"491110",78,0,2013,1,"","Morton County, Kansas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,6,6,50477,0,0,647
+"20129",1,"491110",78,0,2013,2,"","Morton County, Kansas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,6,6,44543,0,0,571
+"20129",1,"491110",78,0,2013,3,"","Morton County, Kansas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,5,6,50745,0,0,689
+"20129",1,"92",74,0,2013,1,"","Morton County, Kansas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,12,13,12,157753,0,0,984
+"20129",1,"92",74,0,2013,2,"","Morton County, Kansas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,15,13,13,168643,0,0,949
+"20129",1,"92",74,0,2013,3,"","Morton County, Kansas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,17,13,11,175472,0,0,988
+"20129",1,"924",75,0,2013,1,"","Morton County, Kansas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,9,9,8,119703,0,0,1062
+"20129",1,"924",75,0,2013,2,"","Morton County, Kansas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,8,10,9,121588,0,0,1039
+"20129",1,"924",75,0,2013,3,"","Morton County, Kansas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,9,9,7,126091,0,0,1164
+"20129",1,"9241",76,0,2013,1,"","Morton County, Kansas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,9,9,8,119703,0,0,1062
+"20129",1,"9241",76,0,2013,2,"","Morton County, Kansas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,8,10,9,121588,0,0,1039
+"20129",1,"9241",76,0,2013,3,"","Morton County, Kansas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,9,9,7,126091,0,0,1164
+"20129",1,"92412",77,0,2013,1,"","Morton County, Kansas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,9,9,8,119703,0,0,1062
+"20129",1,"92412",77,0,2013,2,"","Morton County, Kansas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,8,10,9,121588,0,0,1039
+"20129",1,"92412",77,0,2013,3,"","Morton County, Kansas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,9,9,7,126091,0,0,1164
+"20129",1,"924120",78,0,2013,1,"","Morton County, Kansas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,9,9,8,119703,0,0,1062
+"20129",1,"924120",78,0,2013,2,"","Morton County, Kansas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,8,10,9,121588,0,0,1039
+"20129",1,"924120",78,0,2013,3,"","Morton County, Kansas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,9,9,7,126091,0,0,1164
+"20129",1,"926",75,0,2013,1,"","Morton County, Kansas","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,3,4,4,38050,0,0,798
+"20129",1,"926",75,0,2013,2,"","Morton County, Kansas","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,7,3,4,47055,0,0,776
+"20129",1,"926",75,0,2013,3,"","Morton County, Kansas","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,8,4,4,49381,0,0,712
+"20129",1,"9261",76,0,2013,1,"","Morton County, Kansas","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,3,4,4,38050,0,0,798
+"20129",1,"9261",76,0,2013,2,"","Morton County, Kansas","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,7,3,4,47055,0,0,776
+"20129",1,"9261",76,0,2013,3,"","Morton County, Kansas","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,8,4,4,49381,0,0,712
+"20129",1,"92611",77,0,2013,1,"","Morton County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",1,"92611",77,0,2013,2,"","Morton County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",1,"92611",77,0,2013,3,"","Morton County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",1,"926110",78,0,2013,1,"","Morton County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",1,"926110",78,0,2013,2,"","Morton County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",1,"926110",78,0,2013,3,"","Morton County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",1,"92614",77,0,2013,1,"","Morton County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,3,4,4,38050,0,0,798
+"20129",1,"92614",77,0,2013,2,"","Morton County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,7,3,4,47055,0,0,776
+"20129",1,"92614",77,0,2013,3,"","Morton County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,8,4,4,49381,0,0,712
+"20129",1,"926140",78,0,2013,1,"","Morton County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,3,4,4,38050,0,0,798
+"20129",1,"926140",78,0,2013,2,"","Morton County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,7,3,4,47055,0,0,776
+"20129",1,"926140",78,0,2013,3,"","Morton County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,8,4,4,49381,0,0,712
+"20129",2,"10",71,0,2013,1,"","Morton County, Kansas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,16,16,16,101891,0,0,490
+"20129",2,"10",71,0,2013,2,"","Morton County, Kansas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,16,16,17,86668,0,0,408
+"20129",2,"10",71,0,2013,3,"","Morton County, Kansas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,17,17,16,99377,0,0,459
+"20129",2,"102",72,0,2013,1,"","Morton County, Kansas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,16,16,16,101891,0,0,490
+"20129",2,"102",72,0,2013,2,"","Morton County, Kansas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,16,16,17,86668,0,0,408
+"20129",2,"102",72,0,2013,3,"","Morton County, Kansas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,17,17,16,99377,0,0,459
+"20129",2,"1025",73,0,2013,1,"N","Morton County, Kansas","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"1025",73,0,2013,2,"N","Morton County, Kansas","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"1025",73,0,2013,3,"N","Morton County, Kansas","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"1028",73,0,2013,1,"N","Morton County, Kansas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",2,"1028",73,0,2013,2,"N","Morton County, Kansas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",2,"1028",73,0,2013,3,"N","Morton County, Kansas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",2,"61",74,0,2013,1,"N","Morton County, Kansas","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"61",74,0,2013,2,"N","Morton County, Kansas","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"61",74,0,2013,3,"N","Morton County, Kansas","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"611",75,0,2013,1,"N","Morton County, Kansas","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"611",75,0,2013,2,"N","Morton County, Kansas","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"611",75,0,2013,3,"N","Morton County, Kansas","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"6116",76,0,2013,1,"N","Morton County, Kansas","State Government","Other schools and instruction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"6116",76,0,2013,2,"N","Morton County, Kansas","State Government","Other schools and instruction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"6116",76,0,2013,3,"N","Morton County, Kansas","State Government","Other schools and instruction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"61169",77,0,2013,1,"N","Morton County, Kansas","State Government","All other schools and instruction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"61169",77,0,2013,2,"N","Morton County, Kansas","State Government","All other schools and instruction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"61169",77,0,2013,3,"N","Morton County, Kansas","State Government","All other schools and instruction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"611699",78,0,2013,1,"N","Morton County, Kansas","State Government","Miscellaneous schools and instruction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"611699",78,0,2013,2,"N","Morton County, Kansas","State Government","Miscellaneous schools and instruction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"611699",78,0,2013,3,"N","Morton County, Kansas","State Government","Miscellaneous schools and instruction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"92",74,0,2013,1,"N","Morton County, Kansas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",2,"92",74,0,2013,2,"N","Morton County, Kansas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",2,"92",74,0,2013,3,"N","Morton County, Kansas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",2,"922",75,0,2013,1,"N","Morton County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"922",75,0,2013,2,"N","Morton County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"922",75,0,2013,3,"N","Morton County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"9221",76,0,2013,1,"N","Morton County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"9221",76,0,2013,2,"N","Morton County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"9221",76,0,2013,3,"N","Morton County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"92213",77,0,2013,1,"N","Morton County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"92213",77,0,2013,2,"N","Morton County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"92213",77,0,2013,3,"N","Morton County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"922130",78,0,2013,1,"N","Morton County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"922130",78,0,2013,2,"N","Morton County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"922130",78,0,2013,3,"N","Morton County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"924",75,0,2013,1,"N","Morton County, Kansas","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"924",75,0,2013,2,"N","Morton County, Kansas","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"924",75,0,2013,3,"N","Morton County, Kansas","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"9241",76,0,2013,1,"N","Morton County, Kansas","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"9241",76,0,2013,2,"N","Morton County, Kansas","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"9241",76,0,2013,3,"N","Morton County, Kansas","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"92412",77,0,2013,1,"N","Morton County, Kansas","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"92412",77,0,2013,2,"N","Morton County, Kansas","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"92412",77,0,2013,3,"N","Morton County, Kansas","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"924120",78,0,2013,1,"N","Morton County, Kansas","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"924120",78,0,2013,2,"N","Morton County, Kansas","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"924120",78,0,2013,3,"N","Morton County, Kansas","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"926",75,0,2013,1,"N","Morton County, Kansas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"926",75,0,2013,2,"N","Morton County, Kansas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"926",75,0,2013,3,"N","Morton County, Kansas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"9261",76,0,2013,1,"N","Morton County, Kansas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"9261",76,0,2013,2,"N","Morton County, Kansas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"9261",76,0,2013,3,"N","Morton County, Kansas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"92612",77,0,2013,1,"N","Morton County, Kansas","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"92612",77,0,2013,2,"N","Morton County, Kansas","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"92612",77,0,2013,3,"N","Morton County, Kansas","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"926120",78,0,2013,1,"N","Morton County, Kansas","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"926120",78,0,2013,2,"N","Morton County, Kansas","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",2,"926120",78,0,2013,3,"N","Morton County, Kansas","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"10",71,0,2013,1,"","Morton County, Kansas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",14,545,565,568,4727770,4727770,10131,650
+"20129",3,"10",71,0,2013,2,"","Morton County, Kansas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",14,573,577,584,4460411,4460299,11067,594
+"20129",3,"10",71,0,2013,3,"","Morton County, Kansas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",14,565,513,553,4528523,4522352,9059,641
+"20129",3,"102",72,0,2013,1,"","Morton County, Kansas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",14,545,565,568,4727770,4727770,10131,650
+"20129",3,"102",72,0,2013,2,"","Morton County, Kansas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",14,573,577,584,4460411,4460299,11067,594
+"20129",3,"102",72,0,2013,3,"","Morton County, Kansas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",14,565,513,553,4528523,4522352,9059,641
+"20129",3,"1021",73,0,2013,1,"N","Morton County, Kansas","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"1021",73,0,2013,2,"N","Morton County, Kansas","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"1021",73,0,2013,3,"N","Morton County, Kansas","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"1022",73,0,2013,1,"N","Morton County, Kansas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"1022",73,0,2013,2,"N","Morton County, Kansas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"1022",73,0,2013,3,"N","Morton County, Kansas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"1025",73,0,2013,1,"","Morton County, Kansas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,420,426,432,3965619,3965619,7510,716
+"20129",3,"1025",73,0,2013,2,"","Morton County, Kansas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,431,431,429,3654013,3654013,8216,653
+"20129",3,"1025",73,0,2013,3,"","Morton County, Kansas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,395,359,417,3707631,3707631,6237,731
+"20129",3,"1026",73,0,2013,1,"N","Morton County, Kansas","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"1026",73,0,2013,2,"N","Morton County, Kansas","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"1026",73,0,2013,3,"N","Morton County, Kansas","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"1027",73,0,2013,1,"N","Morton County, Kansas","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"1027",73,0,2013,2,"N","Morton County, Kansas","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"1027",73,0,2013,3,"N","Morton County, Kansas","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"1028",73,0,2013,1,"","Morton County, Kansas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,100,101,99,660275,660275,2243,508
+"20129",3,"1028",73,0,2013,2,"","Morton County, Kansas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,105,110,121,684974,684974,2293,470
+"20129",3,"1028",73,0,2013,3,"","Morton County, Kansas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,126,117,104,696516,696516,2306,463
+"20129",3,"22",74,0,2013,1,"N","Morton County, Kansas","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"22",74,0,2013,2,"N","Morton County, Kansas","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"22",74,0,2013,3,"N","Morton County, Kansas","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"221",75,0,2013,1,"N","Morton County, Kansas","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"221",75,0,2013,2,"N","Morton County, Kansas","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"221",75,0,2013,3,"N","Morton County, Kansas","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"2213",76,0,2013,1,"N","Morton County, Kansas","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"2213",76,0,2013,2,"N","Morton County, Kansas","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"2213",76,0,2013,3,"N","Morton County, Kansas","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"22131",77,0,2013,1,"N","Morton County, Kansas","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"22131",77,0,2013,2,"N","Morton County, Kansas","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"22131",77,0,2013,3,"N","Morton County, Kansas","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"221310",78,0,2013,1,"N","Morton County, Kansas","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"221310",78,0,2013,2,"N","Morton County, Kansas","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"221310",78,0,2013,3,"N","Morton County, Kansas","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"51",74,0,2013,1,"N","Morton County, Kansas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"51",74,0,2013,2,"N","Morton County, Kansas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"51",74,0,2013,3,"N","Morton County, Kansas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"519",75,0,2013,1,"N","Morton County, Kansas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"519",75,0,2013,2,"N","Morton County, Kansas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"519",75,0,2013,3,"N","Morton County, Kansas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"5191",76,0,2013,1,"N","Morton County, Kansas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"5191",76,0,2013,2,"N","Morton County, Kansas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"5191",76,0,2013,3,"N","Morton County, Kansas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"51912",77,0,2013,1,"N","Morton County, Kansas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"51912",77,0,2013,2,"N","Morton County, Kansas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"51912",77,0,2013,3,"N","Morton County, Kansas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"519120",78,0,2013,1,"N","Morton County, Kansas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"519120",78,0,2013,2,"N","Morton County, Kansas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"519120",78,0,2013,3,"N","Morton County, Kansas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"61",74,0,2013,1,"N","Morton County, Kansas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",3,"61",74,0,2013,2,"N","Morton County, Kansas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",3,"61",74,0,2013,3,"N","Morton County, Kansas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",3,"611",75,0,2013,1,"N","Morton County, Kansas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",3,"611",75,0,2013,2,"N","Morton County, Kansas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",3,"611",75,0,2013,3,"N","Morton County, Kansas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",3,"6111",76,0,2013,1,"N","Morton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",3,"6111",76,0,2013,2,"N","Morton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",3,"6111",76,0,2013,3,"N","Morton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",3,"61111",77,0,2013,1,"N","Morton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",3,"61111",77,0,2013,2,"N","Morton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",3,"61111",77,0,2013,3,"N","Morton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",3,"611110",78,0,2013,1,"N","Morton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",3,"611110",78,0,2013,2,"N","Morton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",3,"611110",78,0,2013,3,"N","Morton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",3,"62",74,0,2013,1,"N","Morton County, Kansas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"62",74,0,2013,2,"N","Morton County, Kansas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"62",74,0,2013,3,"N","Morton County, Kansas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"622",75,0,2013,1,"N","Morton County, Kansas","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"622",75,0,2013,2,"N","Morton County, Kansas","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"622",75,0,2013,3,"N","Morton County, Kansas","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"6221",76,0,2013,1,"N","Morton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"6221",76,0,2013,2,"N","Morton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"6221",76,0,2013,3,"N","Morton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"62211",77,0,2013,1,"N","Morton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"62211",77,0,2013,2,"N","Morton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"62211",77,0,2013,3,"N","Morton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"622110",78,0,2013,1,"N","Morton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"622110",78,0,2013,2,"N","Morton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"622110",78,0,2013,3,"N","Morton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"71",74,0,2013,1,"N","Morton County, Kansas","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"71",74,0,2013,2,"N","Morton County, Kansas","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"71",74,0,2013,3,"N","Morton County, Kansas","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"713",75,0,2013,1,"N","Morton County, Kansas","Local Government","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"713",75,0,2013,2,"N","Morton County, Kansas","Local Government","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"713",75,0,2013,3,"N","Morton County, Kansas","Local Government","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"7139",76,0,2013,1,"N","Morton County, Kansas","Local Government","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"7139",76,0,2013,2,"N","Morton County, Kansas","Local Government","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"7139",76,0,2013,3,"N","Morton County, Kansas","Local Government","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"71394",77,0,2013,1,"N","Morton County, Kansas","Local Government","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"71394",77,0,2013,2,"N","Morton County, Kansas","Local Government","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"71394",77,0,2013,3,"N","Morton County, Kansas","Local Government","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"713940",78,0,2013,1,"N","Morton County, Kansas","Local Government","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"713940",78,0,2013,2,"N","Morton County, Kansas","Local Government","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"713940",78,0,2013,3,"N","Morton County, Kansas","Local Government","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"81",74,0,2013,1,"N","Morton County, Kansas","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"81",74,0,2013,2,"N","Morton County, Kansas","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"81",74,0,2013,3,"N","Morton County, Kansas","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"812",75,0,2013,1,"N","Morton County, Kansas","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"812",75,0,2013,2,"N","Morton County, Kansas","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"812",75,0,2013,3,"N","Morton County, Kansas","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"8122",76,0,2013,1,"N","Morton County, Kansas","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"8122",76,0,2013,2,"N","Morton County, Kansas","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"8122",76,0,2013,3,"N","Morton County, Kansas","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"81222",77,0,2013,1,"N","Morton County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"81222",77,0,2013,2,"N","Morton County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"81222",77,0,2013,3,"N","Morton County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"812220",78,0,2013,1,"N","Morton County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"812220",78,0,2013,2,"N","Morton County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"812220",78,0,2013,3,"N","Morton County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",3,"92",74,0,2013,1,"","Morton County, Kansas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,100,101,99,660275,660275,2243,508
+"20129",3,"92",74,0,2013,2,"","Morton County, Kansas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,105,110,121,684974,684974,2293,470
+"20129",3,"92",74,0,2013,3,"","Morton County, Kansas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,126,117,104,696516,696516,2306,463
+"20129",3,"921",75,0,2013,1,"N","Morton County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",3,"921",75,0,2013,2,"N","Morton County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",3,"921",75,0,2013,3,"N","Morton County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",3,"9211",76,0,2013,1,"N","Morton County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",3,"9211",76,0,2013,2,"N","Morton County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",3,"9211",76,0,2013,3,"N","Morton County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",3,"92114",77,0,2013,1,"N","Morton County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",3,"92114",77,0,2013,2,"N","Morton County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",3,"92114",77,0,2013,3,"N","Morton County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",3,"921140",78,0,2013,1,"N","Morton County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",3,"921140",78,0,2013,2,"N","Morton County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",3,"921140",78,0,2013,3,"N","Morton County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",3,"924",75,0,2013,1,"N","Morton County, Kansas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"924",75,0,2013,2,"N","Morton County, Kansas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"924",75,0,2013,3,"N","Morton County, Kansas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"9241",76,0,2013,1,"N","Morton County, Kansas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"9241",76,0,2013,2,"N","Morton County, Kansas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"9241",76,0,2013,3,"N","Morton County, Kansas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"92412",77,0,2013,1,"N","Morton County, Kansas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"92412",77,0,2013,2,"N","Morton County, Kansas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"92412",77,0,2013,3,"N","Morton County, Kansas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"924120",78,0,2013,1,"N","Morton County, Kansas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"924120",78,0,2013,2,"N","Morton County, Kansas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",3,"924120",78,0,2013,3,"N","Morton County, Kansas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"10",71,0,2013,1,"","Morton County, Kansas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",91,546,561,535,4954126,3071002,85137,696
+"20129",5,"10",71,0,2013,2,"","Morton County, Kansas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",90,539,535,530,4639096,859384,23083,667
+"20129",5,"10",71,0,2013,3,"","Morton County, Kansas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",91,546,536,530,4691195,640208,18318,672
+"20129",5,"101",72,0,2013,1,"","Morton County, Kansas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",26,139,142,148,1833223,1009547,34931,986
+"20129",5,"101",72,0,2013,2,"","Morton County, Kansas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",25,146,146,144,1444110,219066,7909,764
+"20129",5,"101",72,0,2013,3,"","Morton County, Kansas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",25,143,147,144,1500521,168546,6412,798
+"20129",5,"1011",73,0,2013,1,"","Morton County, Kansas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",21,89,91,94,1355988,682950,20821,1142
+"20129",5,"1011",73,0,2013,2,"","Morton County, Kansas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",20,90,91,88,950212,126476,3684,815
+"20129",5,"1011",73,0,2013,3,"","Morton County, Kansas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",20,87,90,87,920077,85005,2822,804
+"20129",5,"1012",73,0,2013,1,"N","Morton County, Kansas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",5,"1012",73,0,2013,2,"N","Morton County, Kansas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",5,"1012",73,0,2013,3,"N","Morton County, Kansas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",5,"1013",73,0,2013,1,"N","Morton County, Kansas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"1013",73,0,2013,2,"N","Morton County, Kansas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"1013",73,0,2013,3,"N","Morton County, Kansas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"102",72,0,2013,1,"","Morton County, Kansas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",65,407,419,387,3120903,2061455,50206,594
+"20129",5,"102",72,0,2013,2,"","Morton County, Kansas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",65,393,389,386,3194986,640318,15174,631
+"20129",5,"102",72,0,2013,3,"","Morton County, Kansas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",66,403,389,386,3190674,471662,11906,625
+"20129",5,"1021",73,0,2013,1,"","Morton County, Kansas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",27,196,195,182,1480462,988498,26732,596
+"20129",5,"1021",73,0,2013,2,"","Morton County, Kansas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",27,181,179,175,1596109,303960,7319,688
+"20129",5,"1021",73,0,2013,3,"","Morton County, Kansas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",28,184,176,184,1510670,210946,5093,641
+"20129",5,"1022",73,0,2013,1,"N","Morton County, Kansas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"1022",73,0,2013,2,"N","Morton County, Kansas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"1022",73,0,2013,3,"N","Morton County, Kansas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"1023",73,0,2013,1,"","Morton County, Kansas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",7,36,38,36,311537,224383,8567,654
+"20129",5,"1023",73,0,2013,2,"","Morton County, Kansas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",7,35,37,37,353538,49203,1856,748
+"20129",5,"1023",73,0,2013,3,"","Morton County, Kansas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",7,37,35,36,317249,25254,776,678
+"20129",5,"1024",73,0,2013,1,"N","Morton County, Kansas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"20129",5,"1024",73,0,2013,2,"N","Morton County, Kansas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"20129",5,"1024",73,0,2013,3,"","Morton County, Kansas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",8,25,25,23,169279,53372,1775,535
+"20129",5,"1025",73,0,2013,1,"","Morton County, Kansas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,35,36,35,247991,191757,5853,540
+"20129",5,"1025",73,0,2013,2,"","Morton County, Kansas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,35,32,32,269362,55495,1187,628
+"20129",5,"1025",73,0,2013,3,"","Morton County, Kansas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,30,35,34,261095,39557,1200,609
+"20129",5,"1026",73,0,2013,1,"","Morton County, Kansas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",8,63,72,58,165184,151835,2654,198
+"20129",5,"1026",73,0,2013,2,"","Morton County, Kansas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",8,65,65,63,172524,126456,2176,206
+"20129",5,"1026",73,0,2013,3,"","Morton County, Kansas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",8,67,62,51,177144,91695,2224,227
+"20129",5,"1027",73,0,2013,1,"","Morton County, Kansas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",9,21,21,21,134399,101759,1160,492
+"20129",5,"1027",73,0,2013,2,"","Morton County, Kansas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",9,21,22,21,136334,34147,628,492
+"20129",5,"1027",73,0,2013,3,"N","Morton County, Kansas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"20129",5,"11",74,0,2013,1,"","Morton County, Kansas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",12,30,33,37,250505,223505,4662,578
+"20129",5,"11",74,0,2013,2,"","Morton County, Kansas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",12,37,37,39,269778,69413,1485,551
+"20129",5,"11",74,0,2013,3,"","Morton County, Kansas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",12,39,39,38,276901,32746,734,551
+"20129",5,"111",75,0,2013,1,"","Morton County, Kansas","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,19,22,26,174822,150679,4115,602
+"20129",5,"111",75,0,2013,2,"","Morton County, Kansas","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,26,27,29,200752,59845,1443,565
+"20129",5,"111",75,0,2013,3,"","Morton County, Kansas","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,29,28,26,202444,23683,698,563
+"20129",5,"1111",76,0,2013,1,"","Morton County, Kansas","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,19,19,20,150922,126779,3363,600
+"20129",5,"1111",76,0,2013,2,"N","Morton County, Kansas","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20129",5,"1111",76,0,2013,3,"N","Morton County, Kansas","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20129",5,"11114",77,0,2013,1,"N","Morton County, Kansas","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"11114",77,0,2013,2,"N","Morton County, Kansas","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"11114",77,0,2013,3,"N","Morton County, Kansas","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"111140",78,0,2013,1,"N","Morton County, Kansas","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"111140",78,0,2013,2,"N","Morton County, Kansas","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"111140",78,0,2013,3,"N","Morton County, Kansas","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"11115",77,0,2013,1,"N","Morton County, Kansas","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"11115",77,0,2013,2,"N","Morton County, Kansas","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"11115",77,0,2013,3,"N","Morton County, Kansas","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"111150",78,0,2013,1,"N","Morton County, Kansas","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"111150",78,0,2013,2,"N","Morton County, Kansas","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"111150",78,0,2013,3,"N","Morton County, Kansas","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"11119",77,0,2013,1,"N","Morton County, Kansas","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"11119",77,0,2013,2,"N","Morton County, Kansas","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"11119",77,0,2013,3,"N","Morton County, Kansas","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"111191",78,0,2013,1,"N","Morton County, Kansas","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"111191",78,0,2013,2,"N","Morton County, Kansas","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"111191",78,0,2013,3,"N","Morton County, Kansas","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"1119",76,0,2013,1,"","Morton County, Kansas","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,3,6,23900,23900,752,613
+"20129",5,"1119",76,0,2013,2,"N","Morton County, Kansas","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"1119",76,0,2013,3,"N","Morton County, Kansas","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"11199",77,0,2013,1,"","Morton County, Kansas","Private","All other crop farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,3,6,23900,23900,752,613
+"20129",5,"11199",77,0,2013,2,"N","Morton County, Kansas","Private","All other crop farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"11199",77,0,2013,3,"N","Morton County, Kansas","Private","All other crop farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"111998",78,0,2013,1,"","Morton County, Kansas","Private","All other miscellaneous crop farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,3,6,23900,23900,752,613
+"20129",5,"111998",78,0,2013,2,"N","Morton County, Kansas","Private","All other miscellaneous crop farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"111998",78,0,2013,3,"N","Morton County, Kansas","Private","All other miscellaneous crop farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"112",75,0,2013,1,"","Morton County, Kansas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,11,11,11,75683,72826,547,529
+"20129",5,"112",75,0,2013,2,"","Morton County, Kansas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,11,10,10,69026,9568,42,514
+"20129",5,"112",75,0,2013,3,"","Morton County, Kansas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,10,11,12,74457,9063,36,521
+"20129",5,"1121",76,0,2013,1,"N","Morton County, Kansas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"1121",76,0,2013,2,"N","Morton County, Kansas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"1121",76,0,2013,3,"N","Morton County, Kansas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"11211",77,0,2013,1,"N","Morton County, Kansas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"11211",77,0,2013,2,"N","Morton County, Kansas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"11211",77,0,2013,3,"N","Morton County, Kansas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"112111",78,0,2013,1,"N","Morton County, Kansas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"112111",78,0,2013,2,"N","Morton County, Kansas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"112111",78,0,2013,3,"N","Morton County, Kansas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"1122",76,0,2013,1,"N","Morton County, Kansas","Private","Hog and pig farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"1122",76,0,2013,2,"N","Morton County, Kansas","Private","Hog and pig farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"1122",76,0,2013,3,"N","Morton County, Kansas","Private","Hog and pig farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"11221",77,0,2013,1,"N","Morton County, Kansas","Private","Hog and pig farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"11221",77,0,2013,2,"N","Morton County, Kansas","Private","Hog and pig farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"11221",77,0,2013,3,"N","Morton County, Kansas","Private","Hog and pig farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"112210",78,0,2013,1,"N","Morton County, Kansas","Private","Hog and pig farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"112210",78,0,2013,2,"N","Morton County, Kansas","Private","Hog and pig farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"112210",78,0,2013,3,"N","Morton County, Kansas","Private","Hog and pig farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"21",74,0,2013,1,"","Morton County, Kansas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",9,59,58,57,1105483,459445,16159,1466
+"20129",5,"21",74,0,2013,2,"","Morton County, Kansas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",8,53,54,49,680434,57063,2199,1007
+"20129",5,"21",74,0,2013,3,"","Morton County, Kansas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",8,48,51,49,643176,52259,2088,1003
+"20129",5,"211",75,0,2013,1,"N","Morton County, Kansas","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"211",75,0,2013,2,"N","Morton County, Kansas","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"211",75,0,2013,3,"N","Morton County, Kansas","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"2111",76,0,2013,1,"N","Morton County, Kansas","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"2111",76,0,2013,2,"N","Morton County, Kansas","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"2111",76,0,2013,3,"N","Morton County, Kansas","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"21111",77,0,2013,1,"N","Morton County, Kansas","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"21111",77,0,2013,2,"N","Morton County, Kansas","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"21111",77,0,2013,3,"N","Morton County, Kansas","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"211111",78,0,2013,1,"N","Morton County, Kansas","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"211111",78,0,2013,2,"N","Morton County, Kansas","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"211111",78,0,2013,3,"N","Morton County, Kansas","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"213",75,0,2013,1,"N","Morton County, Kansas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"20129",5,"213",75,0,2013,2,"N","Morton County, Kansas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"20129",5,"213",75,0,2013,3,"N","Morton County, Kansas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"20129",5,"2131",76,0,2013,1,"N","Morton County, Kansas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"20129",5,"2131",76,0,2013,2,"N","Morton County, Kansas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"20129",5,"2131",76,0,2013,3,"N","Morton County, Kansas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"20129",5,"21311",77,0,2013,1,"N","Morton County, Kansas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"20129",5,"21311",77,0,2013,2,"N","Morton County, Kansas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"20129",5,"21311",77,0,2013,3,"N","Morton County, Kansas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"20129",5,"213112",78,0,2013,1,"N","Morton County, Kansas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"20129",5,"213112",78,0,2013,2,"N","Morton County, Kansas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"20129",5,"213112",78,0,2013,3,"N","Morton County, Kansas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"20129",5,"22",74,0,2013,1,"N","Morton County, Kansas","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"22",74,0,2013,2,"N","Morton County, Kansas","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"22",74,0,2013,3,"N","Morton County, Kansas","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"221",75,0,2013,1,"N","Morton County, Kansas","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"221",75,0,2013,2,"N","Morton County, Kansas","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"221",75,0,2013,3,"N","Morton County, Kansas","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"2212",76,0,2013,1,"N","Morton County, Kansas","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"2212",76,0,2013,2,"N","Morton County, Kansas","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"2212",76,0,2013,3,"N","Morton County, Kansas","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"22121",77,0,2013,1,"N","Morton County, Kansas","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"22121",77,0,2013,2,"N","Morton County, Kansas","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"22121",77,0,2013,3,"N","Morton County, Kansas","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"221210",78,0,2013,1,"N","Morton County, Kansas","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"221210",78,0,2013,2,"N","Morton County, Kansas","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"221210",78,0,2013,3,"N","Morton County, Kansas","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"23",74,0,2013,1,"N","Morton County, Kansas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",5,"23",74,0,2013,2,"N","Morton County, Kansas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",5,"23",74,0,2013,3,"N","Morton County, Kansas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",5,"236",75,0,2013,1,"N","Morton County, Kansas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"236",75,0,2013,2,"N","Morton County, Kansas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"236",75,0,2013,3,"N","Morton County, Kansas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"2361",76,0,2013,1,"N","Morton County, Kansas","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"2361",76,0,2013,2,"N","Morton County, Kansas","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"2361",76,0,2013,3,"N","Morton County, Kansas","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"23611",77,0,2013,1,"N","Morton County, Kansas","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"23611",77,0,2013,2,"N","Morton County, Kansas","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"23611",77,0,2013,3,"N","Morton County, Kansas","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"236118",78,0,2013,1,"N","Morton County, Kansas","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"236118",78,0,2013,2,"N","Morton County, Kansas","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"236118",78,0,2013,3,"N","Morton County, Kansas","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"238",75,0,2013,1,"N","Morton County, Kansas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"238",75,0,2013,2,"","Morton County, Kansas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,10,12,53721,29388,1504,427
+"20129",5,"238",75,0,2013,3,"N","Morton County, Kansas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"2381",76,0,2013,1,"N","Morton County, Kansas","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"2381",76,0,2013,2,"N","Morton County, Kansas","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"2381",76,0,2013,3,"N","Morton County, Kansas","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"23817",77,0,2013,1,"N","Morton County, Kansas","Private","Siding contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"23817",77,0,2013,2,"N","Morton County, Kansas","Private","Siding contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"23817",77,0,2013,3,"N","Morton County, Kansas","Private","Siding contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"238172",78,0,2013,1,"N","Morton County, Kansas","Private","Nonresidential siding contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"238172",78,0,2013,2,"N","Morton County, Kansas","Private","Nonresidential siding contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"238172",78,0,2013,3,"N","Morton County, Kansas","Private","Nonresidential siding contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"2382",76,0,2013,1,"N","Morton County, Kansas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"2382",76,0,2013,2,"N","Morton County, Kansas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"2382",76,0,2013,3,"N","Morton County, Kansas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"23821",77,0,2013,1,"N","Morton County, Kansas","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"23821",77,0,2013,2,"N","Morton County, Kansas","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"23821",77,0,2013,3,"N","Morton County, Kansas","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"238211",78,0,2013,1,"N","Morton County, Kansas","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"238211",78,0,2013,2,"N","Morton County, Kansas","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"238211",78,0,2013,3,"N","Morton County, Kansas","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"23822",77,0,2013,1,"N","Morton County, Kansas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"23822",77,0,2013,2,"N","Morton County, Kansas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"23822",77,0,2013,3,"N","Morton County, Kansas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"238221",78,0,2013,1,"N","Morton County, Kansas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"238221",78,0,2013,2,"N","Morton County, Kansas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"238221",78,0,2013,3,"N","Morton County, Kansas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"31-33",74,0,2013,1,"N","Morton County, Kansas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"31-33",74,0,2013,2,"N","Morton County, Kansas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"31-33",74,0,2013,3,"N","Morton County, Kansas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"332",75,0,2013,1,"N","Morton County, Kansas","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"332",75,0,2013,2,"N","Morton County, Kansas","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"332",75,0,2013,3,"N","Morton County, Kansas","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"3324",76,0,2013,1,"N","Morton County, Kansas","Private","Boiler, tank, and shipping container mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"3324",76,0,2013,2,"N","Morton County, Kansas","Private","Boiler, tank, and shipping container mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"3324",76,0,2013,3,"N","Morton County, Kansas","Private","Boiler, tank, and shipping container mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"33242",77,0,2013,1,"N","Morton County, Kansas","Private","Metal tank, heavy gauge, manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"33242",77,0,2013,2,"N","Morton County, Kansas","Private","Metal tank, heavy gauge, manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"33242",77,0,2013,3,"N","Morton County, Kansas","Private","Metal tank, heavy gauge, manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"332420",78,0,2013,1,"N","Morton County, Kansas","Private","Metal tank, heavy gauge, manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"332420",78,0,2013,2,"N","Morton County, Kansas","Private","Metal tank, heavy gauge, manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"332420",78,0,2013,3,"N","Morton County, Kansas","Private","Metal tank, heavy gauge, manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"42",74,0,2013,1,"","Morton County, Kansas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,65,65,64,735269,428914,12160,875
+"20129",5,"42",74,0,2013,2,"","Morton County, Kansas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,66,67,66,831829,83876,1714,965
+"20129",5,"42",74,0,2013,3,"","Morton County, Kansas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,67,65,71,756174,69081,1196,860
+"20129",5,"423",75,0,2013,1,"N","Morton County, Kansas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"423",75,0,2013,2,"N","Morton County, Kansas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"423",75,0,2013,3,"N","Morton County, Kansas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"4238",76,0,2013,1,"N","Morton County, Kansas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"4238",76,0,2013,2,"N","Morton County, Kansas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"4238",76,0,2013,3,"N","Morton County, Kansas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"42382",77,0,2013,1,"N","Morton County, Kansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"42382",77,0,2013,2,"N","Morton County, Kansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"42382",77,0,2013,3,"N","Morton County, Kansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"423820",78,0,2013,1,"N","Morton County, Kansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"423820",78,0,2013,2,"N","Morton County, Kansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"423820",78,0,2013,3,"N","Morton County, Kansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"424",75,0,2013,1,"","Morton County, Kansas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,37,38,37,348968,248859,6021,719
+"20129",5,"424",75,0,2013,2,"","Morton County, Kansas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,36,37,36,430304,50239,1151,911
+"20129",5,"424",75,0,2013,3,"","Morton County, Kansas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,38,36,40,366881,27062,385,743
+"20129",5,"4245",76,0,2013,1,"N","Morton County, Kansas","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20129",5,"4245",76,0,2013,2,"N","Morton County, Kansas","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20129",5,"4245",76,0,2013,3,"N","Morton County, Kansas","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20129",5,"42451",77,0,2013,1,"N","Morton County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20129",5,"42451",77,0,2013,2,"N","Morton County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20129",5,"42451",77,0,2013,3,"N","Morton County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20129",5,"424510",78,0,2013,1,"N","Morton County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20129",5,"424510",78,0,2013,2,"N","Morton County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20129",5,"424510",78,0,2013,3,"N","Morton County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20129",5,"4247",76,0,2013,1,"N","Morton County, Kansas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"4247",76,0,2013,2,"N","Morton County, Kansas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"4247",76,0,2013,3,"N","Morton County, Kansas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"42472",77,0,2013,1,"N","Morton County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"42472",77,0,2013,2,"N","Morton County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"42472",77,0,2013,3,"N","Morton County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"424720",78,0,2013,1,"N","Morton County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"424720",78,0,2013,2,"N","Morton County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"424720",78,0,2013,3,"N","Morton County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"425",75,0,2013,1,"N","Morton County, Kansas","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"425",75,0,2013,2,"N","Morton County, Kansas","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"425",75,0,2013,3,"N","Morton County, Kansas","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"4251",76,0,2013,1,"N","Morton County, Kansas","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"4251",76,0,2013,2,"N","Morton County, Kansas","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"4251",76,0,2013,3,"N","Morton County, Kansas","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"42512",77,0,2013,1,"N","Morton County, Kansas","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"42512",77,0,2013,2,"N","Morton County, Kansas","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"42512",77,0,2013,3,"N","Morton County, Kansas","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"425120",78,0,2013,1,"N","Morton County, Kansas","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"425120",78,0,2013,2,"N","Morton County, Kansas","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"425120",78,0,2013,3,"N","Morton County, Kansas","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"44-45",74,0,2013,1,"","Morton County, Kansas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,127,126,114,678919,527282,14527,427
+"20129",5,"44-45",74,0,2013,2,"","Morton County, Kansas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,112,109,106,720241,204760,5580,508
+"20129",5,"44-45",74,0,2013,3,"","Morton County, Kansas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,114,108,109,714313,137709,3787,498
+"20129",5,"441",75,0,2013,1,"N","Morton County, Kansas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"441",75,0,2013,2,"N","Morton County, Kansas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"441",75,0,2013,3,"N","Morton County, Kansas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"4411",76,0,2013,1,"N","Morton County, Kansas","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"4411",76,0,2013,2,"N","Morton County, Kansas","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"4411",76,0,2013,3,"N","Morton County, Kansas","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"44111",77,0,2013,1,"N","Morton County, Kansas","Private","New car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44111",77,0,2013,2,"N","Morton County, Kansas","Private","New car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44111",77,0,2013,3,"N","Morton County, Kansas","Private","New car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"441110",78,0,2013,1,"N","Morton County, Kansas","Private","New car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"441110",78,0,2013,2,"N","Morton County, Kansas","Private","New car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"441110",78,0,2013,3,"N","Morton County, Kansas","Private","New car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44112",77,0,2013,1,"N","Morton County, Kansas","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44112",77,0,2013,2,"N","Morton County, Kansas","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44112",77,0,2013,3,"N","Morton County, Kansas","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"441120",78,0,2013,1,"N","Morton County, Kansas","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"441120",78,0,2013,2,"N","Morton County, Kansas","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"441120",78,0,2013,3,"N","Morton County, Kansas","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"442",75,0,2013,1,"N","Morton County, Kansas","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"442",75,0,2013,2,"N","Morton County, Kansas","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"442",75,0,2013,3,"N","Morton County, Kansas","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4422",76,0,2013,1,"N","Morton County, Kansas","Private","Home furnishings stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4422",76,0,2013,2,"N","Morton County, Kansas","Private","Home furnishings stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4422",76,0,2013,3,"N","Morton County, Kansas","Private","Home furnishings stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44221",77,0,2013,1,"N","Morton County, Kansas","Private","Floor covering stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44221",77,0,2013,2,"N","Morton County, Kansas","Private","Floor covering stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44221",77,0,2013,3,"N","Morton County, Kansas","Private","Floor covering stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"442210",78,0,2013,1,"N","Morton County, Kansas","Private","Floor covering stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"442210",78,0,2013,2,"N","Morton County, Kansas","Private","Floor covering stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"442210",78,0,2013,3,"N","Morton County, Kansas","Private","Floor covering stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"444",75,0,2013,1,"N","Morton County, Kansas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"444",75,0,2013,2,"N","Morton County, Kansas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"444",75,0,2013,3,"N","Morton County, Kansas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4441",76,0,2013,1,"N","Morton County, Kansas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4441",76,0,2013,2,"N","Morton County, Kansas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4441",76,0,2013,3,"N","Morton County, Kansas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44411",77,0,2013,1,"N","Morton County, Kansas","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44411",77,0,2013,2,"N","Morton County, Kansas","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44411",77,0,2013,3,"N","Morton County, Kansas","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"444110",78,0,2013,1,"N","Morton County, Kansas","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"444110",78,0,2013,2,"N","Morton County, Kansas","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"444110",78,0,2013,3,"N","Morton County, Kansas","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"445",75,0,2013,1,"","Morton County, Kansas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,34,33,31,113552,111152,2157,267
+"20129",5,"445",75,0,2013,2,"N","Morton County, Kansas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"445",75,0,2013,3,"","Morton County, Kansas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,36,33,33,114014,54270,1086,258
+"20129",5,"4451",76,0,2013,1,"N","Morton County, Kansas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"4451",76,0,2013,2,"N","Morton County, Kansas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"4451",76,0,2013,3,"N","Morton County, Kansas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"44511",77,0,2013,1,"N","Morton County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44511",77,0,2013,2,"N","Morton County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44511",77,0,2013,3,"N","Morton County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"445110",78,0,2013,1,"N","Morton County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"445110",78,0,2013,2,"N","Morton County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"445110",78,0,2013,3,"N","Morton County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44512",77,0,2013,1,"N","Morton County, Kansas","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44512",77,0,2013,2,"N","Morton County, Kansas","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44512",77,0,2013,3,"N","Morton County, Kansas","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"445120",78,0,2013,1,"N","Morton County, Kansas","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"445120",78,0,2013,2,"N","Morton County, Kansas","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"445120",78,0,2013,3,"N","Morton County, Kansas","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4453",76,0,2013,1,"N","Morton County, Kansas","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4453",76,0,2013,2,"N","Morton County, Kansas","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4453",76,0,2013,3,"N","Morton County, Kansas","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44531",77,0,2013,1,"N","Morton County, Kansas","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44531",77,0,2013,2,"N","Morton County, Kansas","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44531",77,0,2013,3,"N","Morton County, Kansas","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"445310",78,0,2013,1,"N","Morton County, Kansas","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"445310",78,0,2013,2,"N","Morton County, Kansas","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"445310",78,0,2013,3,"N","Morton County, Kansas","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"446",75,0,2013,1,"N","Morton County, Kansas","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"446",75,0,2013,2,"N","Morton County, Kansas","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"446",75,0,2013,3,"N","Morton County, Kansas","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4461",76,0,2013,1,"N","Morton County, Kansas","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4461",76,0,2013,2,"N","Morton County, Kansas","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4461",76,0,2013,3,"N","Morton County, Kansas","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44611",77,0,2013,1,"N","Morton County, Kansas","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44611",77,0,2013,2,"N","Morton County, Kansas","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"44611",77,0,2013,3,"N","Morton County, Kansas","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"446110",78,0,2013,1,"N","Morton County, Kansas","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"446110",78,0,2013,2,"N","Morton County, Kansas","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"446110",78,0,2013,3,"N","Morton County, Kansas","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"447",75,0,2013,1,"N","Morton County, Kansas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"447",75,0,2013,2,"N","Morton County, Kansas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"447",75,0,2013,3,"N","Morton County, Kansas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"4471",76,0,2013,1,"N","Morton County, Kansas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"4471",76,0,2013,2,"N","Morton County, Kansas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"4471",76,0,2013,3,"N","Morton County, Kansas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"44711",77,0,2013,1,"N","Morton County, Kansas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"44711",77,0,2013,2,"N","Morton County, Kansas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"44711",77,0,2013,3,"N","Morton County, Kansas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"447110",78,0,2013,1,"N","Morton County, Kansas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"447110",78,0,2013,2,"N","Morton County, Kansas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"447110",78,0,2013,3,"N","Morton County, Kansas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"452",75,0,2013,1,"N","Morton County, Kansas","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"452",75,0,2013,2,"N","Morton County, Kansas","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"452",75,0,2013,3,"N","Morton County, Kansas","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4529",76,0,2013,1,"N","Morton County, Kansas","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4529",76,0,2013,2,"N","Morton County, Kansas","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4529",76,0,2013,3,"N","Morton County, Kansas","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"45299",77,0,2013,1,"N","Morton County, Kansas","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"45299",77,0,2013,2,"N","Morton County, Kansas","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"45299",77,0,2013,3,"N","Morton County, Kansas","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"452990",78,0,2013,1,"N","Morton County, Kansas","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"452990",78,0,2013,2,"N","Morton County, Kansas","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"452990",78,0,2013,3,"N","Morton County, Kansas","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"454",75,0,2013,1,"N","Morton County, Kansas","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"454",75,0,2013,2,"N","Morton County, Kansas","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"454",75,0,2013,3,"N","Morton County, Kansas","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4543",76,0,2013,1,"N","Morton County, Kansas","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4543",76,0,2013,2,"N","Morton County, Kansas","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"4543",76,0,2013,3,"N","Morton County, Kansas","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"45431",77,0,2013,1,"N","Morton County, Kansas","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"45431",77,0,2013,2,"N","Morton County, Kansas","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"45431",77,0,2013,3,"N","Morton County, Kansas","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"454310",78,0,2013,1,"N","Morton County, Kansas","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"454310",78,0,2013,2,"N","Morton County, Kansas","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"454310",78,0,2013,3,"N","Morton County, Kansas","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"48-49",74,0,2013,1,"N","Morton County, Kansas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"48-49",74,0,2013,2,"N","Morton County, Kansas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"48-49",74,0,2013,3,"N","Morton County, Kansas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"484",75,0,2013,1,"N","Morton County, Kansas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"484",75,0,2013,2,"N","Morton County, Kansas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"484",75,0,2013,3,"N","Morton County, Kansas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"4842",76,0,2013,1,"N","Morton County, Kansas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"4842",76,0,2013,2,"N","Morton County, Kansas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"4842",76,0,2013,3,"N","Morton County, Kansas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"48422",77,0,2013,1,"N","Morton County, Kansas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"48422",77,0,2013,2,"N","Morton County, Kansas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"48422",77,0,2013,3,"N","Morton County, Kansas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"484220",78,0,2013,1,"N","Morton County, Kansas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"484220",78,0,2013,2,"N","Morton County, Kansas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"484220",78,0,2013,3,"N","Morton County, Kansas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"51",74,0,2013,1,"N","Morton County, Kansas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"51",74,0,2013,2,"N","Morton County, Kansas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"51",74,0,2013,3,"N","Morton County, Kansas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"511",75,0,2013,1,"N","Morton County, Kansas","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"511",75,0,2013,2,"N","Morton County, Kansas","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"511",75,0,2013,3,"N","Morton County, Kansas","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5111",76,0,2013,1,"N","Morton County, Kansas","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5111",76,0,2013,2,"N","Morton County, Kansas","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5111",76,0,2013,3,"N","Morton County, Kansas","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"51111",77,0,2013,1,"N","Morton County, Kansas","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"51111",77,0,2013,2,"N","Morton County, Kansas","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"51111",77,0,2013,3,"N","Morton County, Kansas","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"511110",78,0,2013,1,"N","Morton County, Kansas","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"511110",78,0,2013,2,"N","Morton County, Kansas","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"511110",78,0,2013,3,"N","Morton County, Kansas","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"517",75,0,2013,1,"N","Morton County, Kansas","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"517",75,0,2013,2,"N","Morton County, Kansas","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"517",75,0,2013,3,"N","Morton County, Kansas","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5171",76,0,2013,1,"N","Morton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5171",76,0,2013,2,"N","Morton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5171",76,0,2013,3,"N","Morton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"51711",77,0,2013,1,"N","Morton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"51711",77,0,2013,2,"N","Morton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"51711",77,0,2013,3,"N","Morton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"517110",78,0,2013,1,"N","Morton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"517110",78,0,2013,2,"N","Morton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"517110",78,0,2013,3,"N","Morton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"52",74,0,2013,1,"","Morton County, Kansas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",7,36,38,36,311537,224383,8567,654
+"20129",5,"52",74,0,2013,2,"","Morton County, Kansas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",7,35,37,37,353538,49203,1856,748
+"20129",5,"52",74,0,2013,3,"","Morton County, Kansas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",7,37,35,36,317249,25254,776,678
+"20129",5,"522",75,0,2013,1,"N","Morton County, Kansas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"522",75,0,2013,2,"N","Morton County, Kansas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"522",75,0,2013,3,"N","Morton County, Kansas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5221",76,0,2013,1,"N","Morton County, Kansas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5221",76,0,2013,2,"N","Morton County, Kansas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5221",76,0,2013,3,"N","Morton County, Kansas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"52211",77,0,2013,1,"N","Morton County, Kansas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"52211",77,0,2013,2,"N","Morton County, Kansas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"52211",77,0,2013,3,"N","Morton County, Kansas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"522110",78,0,2013,1,"N","Morton County, Kansas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"522110",78,0,2013,2,"N","Morton County, Kansas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"522110",78,0,2013,3,"N","Morton County, Kansas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"523",75,0,2013,1,"N","Morton County, Kansas","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"523",75,0,2013,2,"N","Morton County, Kansas","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"523",75,0,2013,3,"N","Morton County, Kansas","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"5231",76,0,2013,1,"N","Morton County, Kansas","Private","Securities and commodity contracts brokerage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5231",76,0,2013,2,"N","Morton County, Kansas","Private","Securities and commodity contracts brokerage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5231",76,0,2013,3,"N","Morton County, Kansas","Private","Securities and commodity contracts brokerage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"52312",77,0,2013,1,"N","Morton County, Kansas","Private","Securities brokerage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"52312",77,0,2013,2,"N","Morton County, Kansas","Private","Securities brokerage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"52312",77,0,2013,3,"N","Morton County, Kansas","Private","Securities brokerage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"523120",78,0,2013,1,"N","Morton County, Kansas","Private","Securities brokerage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"523120",78,0,2013,2,"N","Morton County, Kansas","Private","Securities brokerage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"523120",78,0,2013,3,"N","Morton County, Kansas","Private","Securities brokerage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5239",76,0,2013,1,"N","Morton County, Kansas","Private","Other financial investment activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5239",76,0,2013,2,"N","Morton County, Kansas","Private","Other financial investment activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5239",76,0,2013,3,"N","Morton County, Kansas","Private","Other financial investment activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"52399",77,0,2013,1,"N","Morton County, Kansas","Private","All other financial investment activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"52399",77,0,2013,2,"N","Morton County, Kansas","Private","All other financial investment activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"52399",77,0,2013,3,"N","Morton County, Kansas","Private","All other financial investment activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"523991",78,0,2013,1,"N","Morton County, Kansas","Private","Trust, fiduciary, and custody activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"523991",78,0,2013,2,"N","Morton County, Kansas","Private","Trust, fiduciary, and custody activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"523991",78,0,2013,3,"N","Morton County, Kansas","Private","Trust, fiduciary, and custody activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"524",75,0,2013,1,"","Morton County, Kansas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,11,11,11,94903,70357,540,664
+"20129",5,"524",75,0,2013,2,"","Morton County, Kansas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,10,10,11,92749,15112,86,690
+"20129",5,"524",75,0,2013,3,"","Morton County, Kansas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,11,10,11,93153,11948,84,672
+"20129",5,"5241",76,0,2013,1,"N","Morton County, Kansas","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5241",76,0,2013,2,"N","Morton County, Kansas","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5241",76,0,2013,3,"N","Morton County, Kansas","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"52412",77,0,2013,1,"N","Morton County, Kansas","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"52412",77,0,2013,2,"N","Morton County, Kansas","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"52412",77,0,2013,3,"N","Morton County, Kansas","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"524126",78,0,2013,1,"N","Morton County, Kansas","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"524126",78,0,2013,2,"N","Morton County, Kansas","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"524126",78,0,2013,3,"N","Morton County, Kansas","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5242",76,0,2013,1,"N","Morton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"5242",76,0,2013,2,"N","Morton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"5242",76,0,2013,3,"N","Morton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"52421",77,0,2013,1,"N","Morton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"52421",77,0,2013,2,"N","Morton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"52421",77,0,2013,3,"N","Morton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"524210",78,0,2013,1,"N","Morton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"524210",78,0,2013,2,"N","Morton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"524210",78,0,2013,3,"N","Morton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"54",74,0,2013,1,"","Morton County, Kansas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,12,14,14,74715,73067,776,431
+"20129",5,"54",74,0,2013,2,"","Morton County, Kansas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,14,13,14,80197,29231,382,451
+"20129",5,"54",74,0,2013,3,"","Morton County, Kansas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,16,17,17,89295,18396,142,412
+"20129",5,"541",75,0,2013,1,"","Morton County, Kansas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,12,14,14,74715,73067,776,431
+"20129",5,"541",75,0,2013,2,"","Morton County, Kansas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,14,13,14,80197,29231,382,451
+"20129",5,"541",75,0,2013,3,"","Morton County, Kansas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,16,17,17,89295,18396,142,412
+"20129",5,"5411",76,0,2013,1,"N","Morton County, Kansas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"5411",76,0,2013,2,"N","Morton County, Kansas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"5411",76,0,2013,3,"N","Morton County, Kansas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"54111",77,0,2013,1,"N","Morton County, Kansas","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"54111",77,0,2013,2,"N","Morton County, Kansas","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"54111",77,0,2013,3,"N","Morton County, Kansas","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"541110",78,0,2013,1,"N","Morton County, Kansas","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"541110",78,0,2013,2,"N","Morton County, Kansas","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"541110",78,0,2013,3,"N","Morton County, Kansas","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"5412",76,0,2013,1,"N","Morton County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"5412",76,0,2013,2,"N","Morton County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"5412",76,0,2013,3,"N","Morton County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"54121",77,0,2013,1,"N","Morton County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"54121",77,0,2013,2,"N","Morton County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"54121",77,0,2013,3,"N","Morton County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"541219",78,0,2013,1,"N","Morton County, Kansas","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"541219",78,0,2013,2,"N","Morton County, Kansas","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"541219",78,0,2013,3,"N","Morton County, Kansas","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"5413",76,0,2013,1,"N","Morton County, Kansas","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5413",76,0,2013,2,"N","Morton County, Kansas","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5413",76,0,2013,3,"N","Morton County, Kansas","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"54137",77,0,2013,1,"N","Morton County, Kansas","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"54137",77,0,2013,2,"N","Morton County, Kansas","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"54137",77,0,2013,3,"N","Morton County, Kansas","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"541370",78,0,2013,1,"N","Morton County, Kansas","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"541370",78,0,2013,2,"N","Morton County, Kansas","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"541370",78,0,2013,3,"N","Morton County, Kansas","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"56",74,0,2013,1,"N","Morton County, Kansas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"56",74,0,2013,2,"N","Morton County, Kansas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"56",74,0,2013,3,"","Morton County, Kansas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,9,8,6,79984,34976,1633,803
+"20129",5,"561",75,0,2013,1,"N","Morton County, Kansas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"561",75,0,2013,2,"N","Morton County, Kansas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"561",75,0,2013,3,"N","Morton County, Kansas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"5611",76,0,2013,1,"N","Morton County, Kansas","Private","Office administrative services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5611",76,0,2013,2,"N","Morton County, Kansas","Private","Office administrative services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5611",76,0,2013,3,"N","Morton County, Kansas","Private","Office administrative services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"56111",77,0,2013,1,"N","Morton County, Kansas","Private","Office administrative services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"56111",77,0,2013,2,"N","Morton County, Kansas","Private","Office administrative services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"56111",77,0,2013,3,"N","Morton County, Kansas","Private","Office administrative services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"561110",78,0,2013,1,"N","Morton County, Kansas","Private","Office administrative services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"561110",78,0,2013,2,"N","Morton County, Kansas","Private","Office administrative services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"561110",78,0,2013,3,"N","Morton County, Kansas","Private","Office administrative services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5613",76,0,2013,1,"N","Morton County, Kansas","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5613",76,0,2013,2,"N","Morton County, Kansas","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5613",76,0,2013,3,"N","Morton County, Kansas","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"56132",77,0,2013,1,"N","Morton County, Kansas","Private","Temporary help services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"56132",77,0,2013,2,"N","Morton County, Kansas","Private","Temporary help services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"56132",77,0,2013,3,"N","Morton County, Kansas","Private","Temporary help services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"561320",78,0,2013,1,"N","Morton County, Kansas","Private","Temporary help services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"561320",78,0,2013,2,"N","Morton County, Kansas","Private","Temporary help services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"561320",78,0,2013,3,"N","Morton County, Kansas","Private","Temporary help services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"562",75,0,2013,1,"N","Morton County, Kansas","Private","Waste management and remediation services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"562",75,0,2013,2,"N","Morton County, Kansas","Private","Waste management and remediation services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"562",75,0,2013,3,"N","Morton County, Kansas","Private","Waste management and remediation services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5621",76,0,2013,1,"N","Morton County, Kansas","Private","Waste collection","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5621",76,0,2013,2,"N","Morton County, Kansas","Private","Waste collection","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"5621",76,0,2013,3,"N","Morton County, Kansas","Private","Waste collection","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"56211",77,0,2013,1,"N","Morton County, Kansas","Private","Waste collection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"56211",77,0,2013,2,"N","Morton County, Kansas","Private","Waste collection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"56211",77,0,2013,3,"N","Morton County, Kansas","Private","Waste collection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"562111",78,0,2013,1,"N","Morton County, Kansas","Private","Solid waste collection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"562111",78,0,2013,2,"N","Morton County, Kansas","Private","Solid waste collection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"562111",78,0,2013,3,"N","Morton County, Kansas","Private","Solid waste collection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"61",74,0,2013,1,"N","Morton County, Kansas","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"61",74,0,2013,2,"N","Morton County, Kansas","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"61",74,0,2013,3,"N","Morton County, Kansas","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"611",75,0,2013,1,"N","Morton County, Kansas","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"611",75,0,2013,2,"N","Morton County, Kansas","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"611",75,0,2013,3,"N","Morton County, Kansas","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"6111",76,0,2013,1,"N","Morton County, Kansas","Private","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"6111",76,0,2013,2,"N","Morton County, Kansas","Private","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"6111",76,0,2013,3,"N","Morton County, Kansas","Private","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"61111",77,0,2013,1,"N","Morton County, Kansas","Private","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"61111",77,0,2013,2,"N","Morton County, Kansas","Private","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"61111",77,0,2013,3,"N","Morton County, Kansas","Private","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"611110",78,0,2013,1,"N","Morton County, Kansas","Private","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"611110",78,0,2013,2,"N","Morton County, Kansas","Private","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"611110",78,0,2013,3,"N","Morton County, Kansas","Private","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"62",74,0,2013,1,"N","Morton County, Kansas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"62",74,0,2013,2,"N","Morton County, Kansas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"62",74,0,2013,3,"N","Morton County, Kansas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"621",75,0,2013,1,"N","Morton County, Kansas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"621",75,0,2013,2,"N","Morton County, Kansas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"621",75,0,2013,3,"N","Morton County, Kansas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"6211",76,0,2013,1,"N","Morton County, Kansas","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"6211",76,0,2013,2,"N","Morton County, Kansas","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"6211",76,0,2013,3,"N","Morton County, Kansas","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"62111",77,0,2013,1,"N","Morton County, Kansas","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"62111",77,0,2013,2,"N","Morton County, Kansas","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"62111",77,0,2013,3,"N","Morton County, Kansas","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"621111",78,0,2013,1,"N","Morton County, Kansas","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"621111",78,0,2013,2,"N","Morton County, Kansas","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"621111",78,0,2013,3,"N","Morton County, Kansas","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"6212",76,0,2013,1,"N","Morton County, Kansas","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"6212",76,0,2013,2,"N","Morton County, Kansas","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"6212",76,0,2013,3,"N","Morton County, Kansas","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"62121",77,0,2013,1,"N","Morton County, Kansas","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"62121",77,0,2013,2,"N","Morton County, Kansas","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"62121",77,0,2013,3,"N","Morton County, Kansas","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"621210",78,0,2013,1,"N","Morton County, Kansas","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"621210",78,0,2013,2,"N","Morton County, Kansas","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"621210",78,0,2013,3,"N","Morton County, Kansas","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"624",75,0,2013,1,"N","Morton County, Kansas","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"624",75,0,2013,2,"N","Morton County, Kansas","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"624",75,0,2013,3,"N","Morton County, Kansas","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"6244",76,0,2013,1,"N","Morton County, Kansas","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"6244",76,0,2013,2,"N","Morton County, Kansas","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"6244",76,0,2013,3,"N","Morton County, Kansas","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"62441",77,0,2013,1,"N","Morton County, Kansas","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"62441",77,0,2013,2,"N","Morton County, Kansas","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"62441",77,0,2013,3,"N","Morton County, Kansas","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"624410",78,0,2013,1,"N","Morton County, Kansas","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"624410",78,0,2013,2,"N","Morton County, Kansas","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"624410",78,0,2013,3,"N","Morton County, Kansas","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"72",74,0,2013,1,"","Morton County, Kansas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",8,63,72,58,165184,151835,2654,198
+"20129",5,"72",74,0,2013,2,"","Morton County, Kansas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",8,65,65,63,172524,126456,2176,206
+"20129",5,"72",74,0,2013,3,"","Morton County, Kansas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",8,67,62,51,177144,91695,2224,227
+"20129",5,"721",75,0,2013,1,"N","Morton County, Kansas","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"721",75,0,2013,2,"N","Morton County, Kansas","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"721",75,0,2013,3,"N","Morton County, Kansas","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"7211",76,0,2013,1,"N","Morton County, Kansas","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"7211",76,0,2013,2,"N","Morton County, Kansas","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"7211",76,0,2013,3,"N","Morton County, Kansas","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"72111",77,0,2013,1,"N","Morton County, Kansas","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"72111",77,0,2013,2,"N","Morton County, Kansas","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"72111",77,0,2013,3,"N","Morton County, Kansas","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"721110",78,0,2013,1,"N","Morton County, Kansas","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"721110",78,0,2013,2,"N","Morton County, Kansas","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"721110",78,0,2013,3,"N","Morton County, Kansas","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"722",75,0,2013,1,"N","Morton County, Kansas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"20129",5,"722",75,0,2013,2,"N","Morton County, Kansas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"20129",5,"722",75,0,2013,3,"N","Morton County, Kansas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"20129",5,"7225",76,0,2013,1,"N","Morton County, Kansas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"20129",5,"7225",76,0,2013,2,"N","Morton County, Kansas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"20129",5,"7225",76,0,2013,3,"N","Morton County, Kansas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"20129",5,"72251",77,0,2013,1,"N","Morton County, Kansas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"20129",5,"72251",77,0,2013,2,"N","Morton County, Kansas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"20129",5,"72251",77,0,2013,3,"N","Morton County, Kansas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"20129",5,"722511",78,0,2013,1,"N","Morton County, Kansas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",5,"722511",78,0,2013,2,"N","Morton County, Kansas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",5,"722511",78,0,2013,3,"N","Morton County, Kansas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20129",5,"722513",78,0,2013,1,"N","Morton County, Kansas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"722513",78,0,2013,2,"N","Morton County, Kansas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"722513",78,0,2013,3,"N","Morton County, Kansas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"722515",78,0,2013,1,"N","Morton County, Kansas","Private","Snack and nonalcoholic beverage bars","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"722515",78,0,2013,2,"N","Morton County, Kansas","Private","Snack and nonalcoholic beverage bars","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"722515",78,0,2013,3,"N","Morton County, Kansas","Private","Snack and nonalcoholic beverage bars","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"81",74,0,2013,1,"","Morton County, Kansas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",9,21,21,21,134399,101759,1160,492
+"20129",5,"81",74,0,2013,2,"","Morton County, Kansas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",9,21,22,21,136334,34147,628,492
+"20129",5,"81",74,0,2013,3,"N","Morton County, Kansas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"20129",5,"811",75,0,2013,1,"","Morton County, Kansas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,15,15,15,117286,85946,800,601
+"20129",5,"811",75,0,2013,2,"","Morton County, Kansas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,15,16,15,116830,16237,186,586
+"20129",5,"811",75,0,2013,3,"","Morton County, Kansas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,16,15,15,127051,28690,339,637
+"20129",5,"8111",76,0,2013,1,"N","Morton County, Kansas","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"8111",76,0,2013,2,"N","Morton County, Kansas","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"8111",76,0,2013,3,"N","Morton County, Kansas","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20129",5,"81111",77,0,2013,1,"N","Morton County, Kansas","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"81111",77,0,2013,2,"N","Morton County, Kansas","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"81111",77,0,2013,3,"N","Morton County, Kansas","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"811111",78,0,2013,1,"N","Morton County, Kansas","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"811111",78,0,2013,2,"N","Morton County, Kansas","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"811111",78,0,2013,3,"N","Morton County, Kansas","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"81119",77,0,2013,1,"N","Morton County, Kansas","Private","Other automotive repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"81119",77,0,2013,2,"N","Morton County, Kansas","Private","Other automotive repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"81119",77,0,2013,3,"N","Morton County, Kansas","Private","Other automotive repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"811192",78,0,2013,1,"N","Morton County, Kansas","Private","Car washes","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"811192",78,0,2013,2,"N","Morton County, Kansas","Private","Car washes","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"811192",78,0,2013,3,"N","Morton County, Kansas","Private","Car washes","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"8113",76,0,2013,1,"N","Morton County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"8113",76,0,2013,2,"N","Morton County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"8113",76,0,2013,3,"N","Morton County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"81131",77,0,2013,1,"N","Morton County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"81131",77,0,2013,2,"N","Morton County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"81131",77,0,2013,3,"N","Morton County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"811310",78,0,2013,1,"N","Morton County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"811310",78,0,2013,2,"N","Morton County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"811310",78,0,2013,3,"N","Morton County, Kansas","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"812",75,0,2013,1,"N","Morton County, Kansas","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"812",75,0,2013,2,"N","Morton County, Kansas","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"812",75,0,2013,3,"N","Morton County, Kansas","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"8122",76,0,2013,1,"N","Morton County, Kansas","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"8122",76,0,2013,2,"N","Morton County, Kansas","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"8122",76,0,2013,3,"N","Morton County, Kansas","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"81222",77,0,2013,1,"N","Morton County, Kansas","Private","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"81222",77,0,2013,2,"N","Morton County, Kansas","Private","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"81222",77,0,2013,3,"N","Morton County, Kansas","Private","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"812220",78,0,2013,1,"N","Morton County, Kansas","Private","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"812220",78,0,2013,2,"N","Morton County, Kansas","Private","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"812220",78,0,2013,3,"N","Morton County, Kansas","Private","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"813",75,0,2013,1,"N","Morton County, Kansas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"813",75,0,2013,2,"N","Morton County, Kansas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"813",75,0,2013,3,"N","Morton County, Kansas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"8139",76,0,2013,1,"N","Morton County, Kansas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"8139",76,0,2013,2,"N","Morton County, Kansas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"8139",76,0,2013,3,"N","Morton County, Kansas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"81391",77,0,2013,1,"N","Morton County, Kansas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"81391",77,0,2013,2,"N","Morton County, Kansas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"81391",77,0,2013,3,"N","Morton County, Kansas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"813910",78,0,2013,1,"N","Morton County, Kansas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"813910",78,0,2013,2,"N","Morton County, Kansas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"813910",78,0,2013,3,"N","Morton County, Kansas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20129",5,"814",75,0,2013,1,"N","Morton County, Kansas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"814",75,0,2013,2,"N","Morton County, Kansas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"814",75,0,2013,3,"N","Morton County, Kansas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"8141",76,0,2013,1,"N","Morton County, Kansas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"8141",76,0,2013,2,"N","Morton County, Kansas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"8141",76,0,2013,3,"N","Morton County, Kansas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"81411",77,0,2013,1,"N","Morton County, Kansas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"81411",77,0,2013,2,"N","Morton County, Kansas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"81411",77,0,2013,3,"N","Morton County, Kansas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"814110",78,0,2013,1,"N","Morton County, Kansas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"814110",78,0,2013,2,"N","Morton County, Kansas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20129",5,"814110",78,0,2013,3,"N","Morton County, Kansas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+

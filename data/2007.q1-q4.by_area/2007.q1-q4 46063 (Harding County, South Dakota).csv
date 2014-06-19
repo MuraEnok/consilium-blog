@@ -1,0 +1,830 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"46063",0,10,70,0,2007,1,"","Harding County, South Dakota","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",52,352,352,362,2379962,1215663,5188,515
+"46063",0,"10",70,0,2007,2,"","Harding County, South Dakota","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",51,366,397,402,2733575,492661,5024,541
+"46063",0,"10",70,0,2007,3,"","Harding County, South Dakota","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",53,396,367,372,2860323,337957,4009,582
+"46063",0,"10",70,0,2007,4,"","Harding County, South Dakota","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",55,381,381,383,2569648,244221,2695,518
+"46063",1,10,71,0,2007,1,"","Harding County, South Dakota","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,27,25,27,256744,0,0,750
+"46063",1,"10",71,0,2007,2,"","Harding County, South Dakota","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,26,27,38,325692,0,0,826
+"46063",1,"10",71,0,2007,3,"","Harding County, South Dakota","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,37,34,28,339005,0,0,790
+"46063",1,"10",71,0,2007,4,"","Harding County, South Dakota","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,30,28,31,314944,0,0,817
+"46063",1,102,72,0,2007,1,"","Harding County, South Dakota","Federal Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",8,27,25,27,256744,0,0,750
+"46063",1,"102",72,0,2007,2,"","Harding County, South Dakota","Federal Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",8,26,27,38,325692,0,0,826
+"46063",1,"102",72,0,2007,3,"","Harding County, South Dakota","Federal Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",8,37,34,28,339005,0,0,790
+"46063",1,"102",72,0,2007,4,"","Harding County, South Dakota","Federal Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",8,30,28,31,314944,0,0,817
+"46063",1,1021,73,0,2007,1,"","Harding County, South Dakota","Federal Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",4,6,7,7,41154,0,0,475
+"46063",1,"1021",73,0,2007,2,"","Harding County, South Dakota","Federal Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",4,7,7,7,44386,0,0,488
+"46063",1,"1021",73,0,2007,3,"","Harding County, South Dakota","Federal Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",4,7,7,6,39161,0,0,452
+"46063",1,"1021",73,0,2007,4,"","Harding County, South Dakota","Federal Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",4,7,7,7,45259,0,0,497
+"46063",1,1028,73,0,2007,1,"","Harding County, South Dakota","Federal Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",4,21,18,20,215590,0,0,843
+"46063",1,"1028",73,0,2007,2,"","Harding County, South Dakota","Federal Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",4,19,20,31,281306,0,0,927
+"46063",1,"1028",73,0,2007,3,"","Harding County, South Dakota","Federal Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",4,30,27,22,299844,0,0,876
+"46063",1,"1028",73,0,2007,4,"","Harding County, South Dakota","Federal Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",4,23,21,24,269685,0,0,915
+"46063",1,48-49,74,0,2007,1,"","Harding County, South Dakota","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,6,7,7,41154,0,0,475
+"46063",1,"48-49",74,0,2007,2,"","Harding County, South Dakota","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,7,7,7,44386,0,0,488
+"46063",1,"48-49",74,0,2007,3,"","Harding County, South Dakota","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,7,7,6,39161,0,0,452
+"46063",1,"48-49",74,0,2007,4,"","Harding County, South Dakota","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,7,7,7,45259,0,0,497
+"46063",1,491,75,0,2007,1,"","Harding County, South Dakota","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,6,7,7,41154,0,0,475
+"46063",1,"491",75,0,2007,2,"","Harding County, South Dakota","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,7,7,7,44386,0,0,488
+"46063",1,"491",75,0,2007,3,"","Harding County, South Dakota","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,7,7,6,39161,0,0,452
+"46063",1,"491",75,0,2007,4,"","Harding County, South Dakota","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,7,7,7,45259,0,0,497
+"46063",1,4911,76,0,2007,1,"","Harding County, South Dakota","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,6,7,7,41154,0,0,475
+"46063",1,"4911",76,0,2007,2,"","Harding County, South Dakota","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,7,7,7,44386,0,0,488
+"46063",1,"4911",76,0,2007,3,"","Harding County, South Dakota","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,7,7,6,39161,0,0,452
+"46063",1,"4911",76,0,2007,4,"","Harding County, South Dakota","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,7,7,7,45259,0,0,497
+"46063",1,49111,77,0,2007,1,"","Harding County, South Dakota","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,6,7,7,41154,0,0,475
+"46063",1,"49111",77,0,2007,2,"","Harding County, South Dakota","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,7,7,7,44386,0,0,488
+"46063",1,"49111",77,0,2007,3,"","Harding County, South Dakota","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,7,7,6,39161,0,0,452
+"46063",1,"49111",77,0,2007,4,"","Harding County, South Dakota","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,7,7,7,45259,0,0,497
+"46063",1,491110,78,0,2007,1,"","Harding County, South Dakota","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,6,7,7,41154,0,0,475
+"46063",1,"491110",78,0,2007,2,"","Harding County, South Dakota","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,7,7,7,44386,0,0,488
+"46063",1,"491110",78,0,2007,3,"","Harding County, South Dakota","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,7,7,6,39161,0,0,452
+"46063",1,"491110",78,0,2007,4,"","Harding County, South Dakota","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,7,7,7,45259,0,0,497
+"46063",1,92,74,0,2007,1,"","Harding County, South Dakota","Federal Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,21,18,20,215590,0,0,843
+"46063",1,"92",74,0,2007,2,"","Harding County, South Dakota","Federal Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,19,20,31,281306,0,0,927
+"46063",1,"92",74,0,2007,3,"","Harding County, South Dakota","Federal Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,30,27,22,299844,0,0,876
+"46063",1,"92",74,0,2007,4,"","Harding County, South Dakota","Federal Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,23,21,24,269685,0,0,915
+"46063",1,924,75,0,2007,1,"","Harding County, South Dakota","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,21,18,20,215590,0,0,843
+"46063",1,"924",75,0,2007,2,"","Harding County, South Dakota","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,19,20,31,281306,0,0,927
+"46063",1,"924",75,0,2007,3,"","Harding County, South Dakota","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,30,27,22,299844,0,0,876
+"46063",1,"924",75,0,2007,4,"","Harding County, South Dakota","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,23,21,24,269685,0,0,915
+"46063",1,9241,76,0,2007,1,"","Harding County, South Dakota","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,21,18,20,215590,0,0,843
+"46063",1,"9241",76,0,2007,2,"","Harding County, South Dakota","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,19,20,31,281306,0,0,927
+"46063",1,"9241",76,0,2007,3,"","Harding County, South Dakota","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,30,27,22,299844,0,0,876
+"46063",1,"9241",76,0,2007,4,"","Harding County, South Dakota","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,23,21,24,269685,0,0,915
+"46063",1,92412,77,0,2007,1,"","Harding County, South Dakota","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,21,18,20,215590,0,0,843
+"46063",1,"92412",77,0,2007,2,"","Harding County, South Dakota","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,19,20,31,281306,0,0,927
+"46063",1,"92412",77,0,2007,3,"","Harding County, South Dakota","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,30,27,22,299844,0,0,876
+"46063",1,"92412",77,0,2007,4,"","Harding County, South Dakota","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,23,21,24,269685,0,0,915
+"46063",1,924120,78,0,2007,1,"","Harding County, South Dakota","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,21,18,20,215590,0,0,843
+"46063",1,"924120",78,0,2007,2,"","Harding County, South Dakota","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,19,20,31,281306,0,0,927
+"46063",1,"924120",78,0,2007,3,"","Harding County, South Dakota","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,30,27,22,299844,0,0,876
+"46063",1,"924120",78,0,2007,4,"","Harding County, South Dakota","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,23,21,24,269685,0,0,915
+"46063",2,10,71,0,2007,1,"","Harding County, South Dakota","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,10,10,10,58023,0,0,446
+"46063",2,"10",71,0,2007,2,"","Harding County, South Dakota","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,10,11,11,59006,0,0,426
+"46063",2,"10",71,0,2007,3,"","Harding County, South Dakota","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,10,10,11,61884,0,0,461
+"46063",2,"10",71,0,2007,4,"","Harding County, South Dakota","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,9,10,11,61027,0,0,469
+"46063",2,101,72,0,2007,1,"N","Harding County, South Dakota","State Government","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"101",72,0,2007,2,"N","Harding County, South Dakota","State Government","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"101",72,0,2007,3,"N","Harding County, South Dakota","State Government","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"101",72,0,2007,4,"N","Harding County, South Dakota","State Government","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,1012,73,0,2007,1,"N","Harding County, South Dakota","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"1012",73,0,2007,2,"N","Harding County, South Dakota","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"1012",73,0,2007,3,"N","Harding County, South Dakota","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"1012",73,0,2007,4,"N","Harding County, South Dakota","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,102,72,0,2007,1,"N","Harding County, South Dakota","State Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",2,"102",72,0,2007,2,"N","Harding County, South Dakota","State Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",2,"102",72,0,2007,3,"N","Harding County, South Dakota","State Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",2,"102",72,0,2007,4,"N","Harding County, South Dakota","State Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",2,1028,73,0,2007,1,"N","Harding County, South Dakota","State Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",2,"1028",73,0,2007,2,"N","Harding County, South Dakota","State Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",2,"1028",73,0,2007,3,"N","Harding County, South Dakota","State Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",2,"1028",73,0,2007,4,"N","Harding County, South Dakota","State Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",2,23,74,0,2007,1,"N","Harding County, South Dakota","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"23",74,0,2007,2,"N","Harding County, South Dakota","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"23",74,0,2007,3,"N","Harding County, South Dakota","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"23",74,0,2007,4,"N","Harding County, South Dakota","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,237,75,0,2007,1,"N","Harding County, South Dakota","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"237",75,0,2007,2,"N","Harding County, South Dakota","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"237",75,0,2007,3,"N","Harding County, South Dakota","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"237",75,0,2007,4,"N","Harding County, South Dakota","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,2373,76,0,2007,1,"N","Harding County, South Dakota","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"2373",76,0,2007,2,"N","Harding County, South Dakota","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"2373",76,0,2007,3,"N","Harding County, South Dakota","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"2373",76,0,2007,4,"N","Harding County, South Dakota","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,23731,77,0,2007,1,"N","Harding County, South Dakota","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"23731",77,0,2007,2,"N","Harding County, South Dakota","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"23731",77,0,2007,3,"N","Harding County, South Dakota","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"23731",77,0,2007,4,"N","Harding County, South Dakota","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,237310,78,0,2007,1,"N","Harding County, South Dakota","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"237310",78,0,2007,2,"N","Harding County, South Dakota","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"237310",78,0,2007,3,"N","Harding County, South Dakota","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"237310",78,0,2007,4,"N","Harding County, South Dakota","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,92,74,0,2007,1,"N","Harding County, South Dakota","State Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",2,"92",74,0,2007,2,"N","Harding County, South Dakota","State Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",2,"92",74,0,2007,3,"N","Harding County, South Dakota","State Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",2,"92",74,0,2007,4,"N","Harding County, South Dakota","State Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",2,922,75,0,2007,1,"N","Harding County, South Dakota","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"922",75,0,2007,2,"N","Harding County, South Dakota","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"922",75,0,2007,3,"N","Harding County, South Dakota","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"922",75,0,2007,4,"N","Harding County, South Dakota","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,9221,76,0,2007,1,"N","Harding County, South Dakota","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"9221",76,0,2007,2,"N","Harding County, South Dakota","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"9221",76,0,2007,3,"N","Harding County, South Dakota","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"9221",76,0,2007,4,"N","Harding County, South Dakota","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,92211,77,0,2007,1,"N","Harding County, South Dakota","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"92211",77,0,2007,2,"N","Harding County, South Dakota","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"92211",77,0,2007,3,"N","Harding County, South Dakota","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"92211",77,0,2007,4,"N","Harding County, South Dakota","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,922110,78,0,2007,1,"N","Harding County, South Dakota","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"922110",78,0,2007,2,"N","Harding County, South Dakota","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"922110",78,0,2007,3,"N","Harding County, South Dakota","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"922110",78,0,2007,4,"N","Harding County, South Dakota","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,923,75,0,2007,1,"N","Harding County, South Dakota","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"923",75,0,2007,2,"N","Harding County, South Dakota","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"923",75,0,2007,3,"N","Harding County, South Dakota","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"923",75,0,2007,4,"N","Harding County, South Dakota","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,9231,76,0,2007,1,"N","Harding County, South Dakota","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"9231",76,0,2007,2,"N","Harding County, South Dakota","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"9231",76,0,2007,3,"N","Harding County, South Dakota","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"9231",76,0,2007,4,"N","Harding County, South Dakota","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,92312,77,0,2007,1,"N","Harding County, South Dakota","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"92312",77,0,2007,2,"N","Harding County, South Dakota","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"92312",77,0,2007,3,"N","Harding County, South Dakota","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"92312",77,0,2007,4,"N","Harding County, South Dakota","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,923120,78,0,2007,1,"N","Harding County, South Dakota","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"923120",78,0,2007,2,"N","Harding County, South Dakota","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"923120",78,0,2007,3,"N","Harding County, South Dakota","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"923120",78,0,2007,4,"N","Harding County, South Dakota","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,924,75,0,2007,1,"N","Harding County, South Dakota","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"924",75,0,2007,2,"N","Harding County, South Dakota","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"924",75,0,2007,3,"N","Harding County, South Dakota","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"924",75,0,2007,4,"N","Harding County, South Dakota","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,9241,76,0,2007,1,"N","Harding County, South Dakota","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"9241",76,0,2007,2,"N","Harding County, South Dakota","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"9241",76,0,2007,3,"N","Harding County, South Dakota","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"9241",76,0,2007,4,"N","Harding County, South Dakota","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,92412,77,0,2007,1,"N","Harding County, South Dakota","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"92412",77,0,2007,2,"N","Harding County, South Dakota","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"92412",77,0,2007,3,"N","Harding County, South Dakota","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"92412",77,0,2007,4,"N","Harding County, South Dakota","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,924120,78,0,2007,1,"N","Harding County, South Dakota","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"924120",78,0,2007,2,"N","Harding County, South Dakota","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"924120",78,0,2007,3,"N","Harding County, South Dakota","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",2,"924120",78,0,2007,4,"N","Harding County, South Dakota","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,10,71,0,2007,1,"","Harding County, South Dakota","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,68,70,71,396301,0,0,438
+"46063",3,"10",71,0,2007,2,"","Harding County, South Dakota","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,77,77,71,413967,0,0,425
+"46063",3,"10",71,0,2007,3,"","Harding County, South Dakota","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,65,65,71,391096,0,0,449
+"46063",3,"10",71,0,2007,4,"","Harding County, South Dakota","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,75,73,71,401276,0,0,423
+"46063",3,102,72,0,2007,1,"","Harding County, South Dakota","Local Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",5,68,70,71,396301,0,0,438
+"46063",3,"102",72,0,2007,2,"","Harding County, South Dakota","Local Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",5,77,77,71,413967,0,0,425
+"46063",3,"102",72,0,2007,3,"","Harding County, South Dakota","Local Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",5,65,65,71,391096,0,0,449
+"46063",3,"102",72,0,2007,4,"","Harding County, South Dakota","Local Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",5,75,73,71,401276,0,0,423
+"46063",3,1025,73,0,2007,1,"N","Harding County, South Dakota","Local Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"1025",73,0,2007,2,"N","Harding County, South Dakota","Local Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"1025",73,0,2007,3,"N","Harding County, South Dakota","Local Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"1025",73,0,2007,4,"N","Harding County, South Dakota","Local Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,1028,73,0,2007,1,"N","Harding County, South Dakota","Local Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"46063",3,"1028",73,0,2007,2,"N","Harding County, South Dakota","Local Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"46063",3,"1028",73,0,2007,3,"N","Harding County, South Dakota","Local Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"46063",3,"1028",73,0,2007,4,"N","Harding County, South Dakota","Local Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"46063",3,61,74,0,2007,1,"N","Harding County, South Dakota","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"61",74,0,2007,2,"N","Harding County, South Dakota","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"61",74,0,2007,3,"N","Harding County, South Dakota","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"61",74,0,2007,4,"N","Harding County, South Dakota","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,611,75,0,2007,1,"N","Harding County, South Dakota","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"611",75,0,2007,2,"N","Harding County, South Dakota","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"611",75,0,2007,3,"N","Harding County, South Dakota","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"611",75,0,2007,4,"N","Harding County, South Dakota","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,6111,76,0,2007,1,"N","Harding County, South Dakota","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"6111",76,0,2007,2,"N","Harding County, South Dakota","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"6111",76,0,2007,3,"N","Harding County, South Dakota","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"6111",76,0,2007,4,"N","Harding County, South Dakota","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,61111,77,0,2007,1,"N","Harding County, South Dakota","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"61111",77,0,2007,2,"N","Harding County, South Dakota","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"61111",77,0,2007,3,"N","Harding County, South Dakota","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"61111",77,0,2007,4,"N","Harding County, South Dakota","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,611110,78,0,2007,1,"N","Harding County, South Dakota","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"611110",78,0,2007,2,"N","Harding County, South Dakota","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"611110",78,0,2007,3,"N","Harding County, South Dakota","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"611110",78,0,2007,4,"N","Harding County, South Dakota","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,92,74,0,2007,1,"N","Harding County, South Dakota","Local Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"46063",3,"92",74,0,2007,2,"N","Harding County, South Dakota","Local Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"46063",3,"92",74,0,2007,3,"N","Harding County, South Dakota","Local Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"46063",3,"92",74,0,2007,4,"N","Harding County, South Dakota","Local Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"46063",3,921,75,0,2007,1,"N","Harding County, South Dakota","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",3,"921",75,0,2007,2,"N","Harding County, South Dakota","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",3,"921",75,0,2007,3,"N","Harding County, South Dakota","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",3,"921",75,0,2007,4,"N","Harding County, South Dakota","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",3,9211,76,0,2007,1,"N","Harding County, South Dakota","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",3,"9211",76,0,2007,2,"N","Harding County, South Dakota","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",3,"9211",76,0,2007,3,"N","Harding County, South Dakota","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",3,"9211",76,0,2007,4,"N","Harding County, South Dakota","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",3,92114,77,0,2007,1,"N","Harding County, South Dakota","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",3,"92114",77,0,2007,2,"N","Harding County, South Dakota","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",3,"92114",77,0,2007,3,"N","Harding County, South Dakota","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",3,"92114",77,0,2007,4,"N","Harding County, South Dakota","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",3,921140,78,0,2007,1,"N","Harding County, South Dakota","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",3,"921140",78,0,2007,2,"N","Harding County, South Dakota","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",3,"921140",78,0,2007,3,"N","Harding County, South Dakota","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",3,"921140",78,0,2007,4,"N","Harding County, South Dakota","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",3,924,75,0,2007,1,"N","Harding County, South Dakota","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"924",75,0,2007,2,"N","Harding County, South Dakota","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"924",75,0,2007,3,"N","Harding County, South Dakota","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"924",75,0,2007,4,"N","Harding County, South Dakota","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,9241,76,0,2007,1,"N","Harding County, South Dakota","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"9241",76,0,2007,2,"N","Harding County, South Dakota","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"9241",76,0,2007,3,"N","Harding County, South Dakota","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"9241",76,0,2007,4,"N","Harding County, South Dakota","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,92412,77,0,2007,1,"N","Harding County, South Dakota","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"92412",77,0,2007,2,"N","Harding County, South Dakota","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"92412",77,0,2007,3,"N","Harding County, South Dakota","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"92412",77,0,2007,4,"N","Harding County, South Dakota","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,924120,78,0,2007,1,"N","Harding County, South Dakota","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"924120",78,0,2007,2,"N","Harding County, South Dakota","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"924120",78,0,2007,3,"N","Harding County, South Dakota","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",3,"924120",78,0,2007,4,"N","Harding County, South Dakota","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,10,71,0,2007,1,"","Harding County, South Dakota","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",35,247,247,254,1668894,1215663,5188,515
+"46063",5,"10",71,0,2007,2,"","Harding County, South Dakota","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",34,253,282,282,1934910,492661,5024,547
+"46063",5,"10",71,0,2007,3,"","Harding County, South Dakota","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",36,284,258,262,2068338,337957,4009,594
+"46063",5,"10",71,0,2007,4,"","Harding County, South Dakota","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",38,267,270,270,1792401,244221,2695,513
+"46063",5,101,72,0,2007,1,"","Harding County, South Dakota","Private","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",12,67,63,71,786616,463801,3083,903
+"46063",5,"101",72,0,2007,2,"","Harding County, South Dakota","Private","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",12,68,99,96,976965,142273,3496,857
+"46063",5,"101",72,0,2007,3,"","Harding County, South Dakota","Private","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",13,102,77,73,1144598,106679,2741,1048
+"46063",5,"101",72,0,2007,4,"","Harding County, South Dakota","Private","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",16,76,81,82,778248,79441,1904,751
+"46063",5,1011,73,0,2007,1,"","Harding County, South Dakota","Private","Natural Resources and Mining","County, by Supersector -- by ownership sector","All establishment sizes",7,40,39,37,595151,293205,791,1184
+"46063",5,"1011",73,0,2007,2,"","Harding County, South Dakota","Private","Natural Resources and Mining","County, by Supersector -- by ownership sector","All establishment sizes",7,39,65,59,748004,50814,2124,1059
+"46063",5,"1011",73,0,2007,3,"","Harding County, South Dakota","Private","Natural Resources and Mining","County, by Supersector -- by ownership sector","All establishment sizes",7,61,42,36,705956,27635,908,1172
+"46063",5,"1011",73,0,2007,4,"","Harding County, South Dakota","Private","Natural Resources and Mining","County, by Supersector -- by ownership sector","All establishment sizes",8,33,36,46,512119,38588,350,1028
+"46063",5,1012,73,0,2007,1,"","Harding County, South Dakota","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",5,27,24,34,191465,170596,2292,520
+"46063",5,"1012",73,0,2007,2,"","Harding County, South Dakota","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",5,29,34,37,228961,91459,1372,528
+"46063",5,"1012",73,0,2007,3,"","Harding County, South Dakota","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",6,41,35,37,438642,79044,1833,896
+"46063",5,"1012",73,0,2007,4,"","Harding County, South Dakota","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",8,43,45,36,266129,40853,1554,495
+"46063",5,102,72,0,2007,1,"","Harding County, South Dakota","Private","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",23,180,184,183,882278,751862,2105,372
+"46063",5,"102",72,0,2007,2,"","Harding County, South Dakota","Private","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",22,185,183,186,957945,350388,1528,399
+"46063",5,"102",72,0,2007,3,"","Harding County, South Dakota","Private","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",23,182,181,189,923740,231278,1268,386
+"46063",5,"102",72,0,2007,4,"","Harding County, South Dakota","Private","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",22,191,189,188,1014153,164780,791,412
+"46063",5,1021,73,0,2007,1,"","Harding County, South Dakota","Private","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",9,39,41,46,229807,193606,193,421
+"46063",5,"1021",73,0,2007,2,"","Harding County, South Dakota","Private","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",9,44,41,43,226286,84450,62,408
+"46063",5,"1021",73,0,2007,3,"","Harding County, South Dakota","Private","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",9,42,39,47,250339,55815,51,451
+"46063",5,"1021",73,0,2007,4,"","Harding County, South Dakota","Private","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",9,50,49,50,265430,44247,82,411
+"46063",5,1022,73,0,2007,1,"N","Harding County, South Dakota","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"1022",73,0,2007,2,"N","Harding County, South Dakota","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"1022",73,0,2007,3,"N","Harding County, South Dakota","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"1022",73,0,2007,4,"N","Harding County, South Dakota","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,1023,73,0,2007,1,"N","Harding County, South Dakota","Private","Financial Activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"1023",73,0,2007,2,"N","Harding County, South Dakota","Private","Financial Activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"1023",73,0,2007,3,"N","Harding County, South Dakota","Private","Financial Activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"1023",73,0,2007,4,"N","Harding County, South Dakota","Private","Financial Activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,1024,73,0,2007,1,"N","Harding County, South Dakota","Private","Professional and Business Services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"1024",73,0,2007,2,"N","Harding County, South Dakota","Private","Professional and Business Services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"1024",73,0,2007,3,"N","Harding County, South Dakota","Private","Professional and Business Services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"1024",73,0,2007,4,"N","Harding County, South Dakota","Private","Professional and Business Services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,1025,73,0,2007,1,"","Harding County, South Dakota","Private","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",4,104,105,97,437542,409786,1401,330
+"46063",5,"1025",73,0,2007,2,"N","Harding County, South Dakota","Private","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"1025",73,0,2007,3,"N","Harding County, South Dakota","Private","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"1025",73,0,2007,4,"N","Harding County, South Dakota","Private","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,1026,73,0,2007,1,"","Harding County, South Dakota","Private","Leisure and Hospitality","County, by Supersector -- by ownership sector","All establishment sizes",5,21,22,23,41715,41715,248,146
+"46063",5,"1026",73,0,2007,2,"","Harding County, South Dakota","Private","Leisure and Hospitality","County, by Supersector -- by ownership sector","All establishment sizes",5,19,19,24,36193,34993,200,135
+"46063",5,"1026",73,0,2007,3,"","Harding County, South Dakota","Private","Leisure and Hospitality","County, by Supersector -- by ownership sector","All establishment sizes",5,22,26,25,42508,26409,151,134
+"46063",5,"1026",73,0,2007,4,"","Harding County, South Dakota","Private","Leisure and Hospitality","County, by Supersector -- by ownership sector","All establishment sizes",4,21,25,25,114943,25345,93,374
+"46063",5,1027,73,0,2007,1,"N","Harding County, South Dakota","Private","Other Services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"1027",73,0,2007,2,"N","Harding County, South Dakota","Private","Other Services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"1027",73,0,2007,3,"N","Harding County, South Dakota","Private","Other Services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"1027",73,0,2007,4,"N","Harding County, South Dakota","Private","Other Services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,11,74,0,2007,1,"N","Harding County, South Dakota","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"11",74,0,2007,2,"","Harding County, South Dakota","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",3,8,6,6,40850,9950,68,471
+"46063",5,"11",74,0,2007,3,"N","Harding County, South Dakota","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"11",74,0,2007,4,"","Harding County, South Dakota","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",4,7,8,10,104506,24800,294,965
+"46063",5,112,75,0,2007,1,"N","Harding County, South Dakota","Private","Animal production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"112",75,0,2007,2,"","Harding County, South Dakota","Private","Animal production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,6,6,40850,9950,68,471
+"46063",5,"112",75,0,2007,3,"N","Harding County, South Dakota","Private","Animal production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"112",75,0,2007,4,"","Harding County, South Dakota","Private","Animal production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,7,8,10,104506,24800,294,965
+"46063",5,1121,76,0,2007,1,"N","Harding County, South Dakota","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"1121",76,0,2007,2,"N","Harding County, South Dakota","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"1121",76,0,2007,3,"N","Harding County, South Dakota","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"1121",76,0,2007,4,"N","Harding County, South Dakota","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,11211,77,0,2007,1,"N","Harding County, South Dakota","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"11211",77,0,2007,2,"N","Harding County, South Dakota","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"11211",77,0,2007,3,"N","Harding County, South Dakota","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"11211",77,0,2007,4,"N","Harding County, South Dakota","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,112111,78,0,2007,1,"N","Harding County, South Dakota","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"112111",78,0,2007,2,"N","Harding County, South Dakota","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"112111",78,0,2007,3,"N","Harding County, South Dakota","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"112111",78,0,2007,4,"N","Harding County, South Dakota","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,1129,76,0,2007,1,"N","Harding County, South Dakota","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"1129",76,0,2007,2,"N","Harding County, South Dakota","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"1129",76,0,2007,3,"N","Harding County, South Dakota","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"1129",76,0,2007,4,"N","Harding County, South Dakota","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,11299,77,0,2007,1,"N","Harding County, South Dakota","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"11299",77,0,2007,2,"N","Harding County, South Dakota","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"11299",77,0,2007,3,"N","Harding County, South Dakota","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"11299",77,0,2007,4,"N","Harding County, South Dakota","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,112990,78,0,2007,1,"N","Harding County, South Dakota","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"112990",78,0,2007,2,"N","Harding County, South Dakota","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"112990",78,0,2007,3,"N","Harding County, South Dakota","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"112990",78,0,2007,4,"N","Harding County, South Dakota","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,21,74,0,2007,1,"N","Harding County, South Dakota","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"46063",5,"21",74,0,2007,2,"","Harding County, South Dakota","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,31,59,53,707154,40864,2056,1141
+"46063",5,"21",74,0,2007,3,"N","Harding County, South Dakota","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"46063",5,"21",74,0,2007,4,"","Harding County, South Dakota","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,26,28,36,407613,13788,56,1045
+"46063",5,211,75,0,2007,1,"N","Harding County, South Dakota","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"211",75,0,2007,2,"N","Harding County, South Dakota","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"211",75,0,2007,3,"N","Harding County, South Dakota","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"211",75,0,2007,4,"N","Harding County, South Dakota","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,2111,76,0,2007,1,"N","Harding County, South Dakota","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2111",76,0,2007,2,"N","Harding County, South Dakota","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2111",76,0,2007,3,"N","Harding County, South Dakota","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2111",76,0,2007,4,"N","Harding County, South Dakota","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,21111,77,0,2007,1,"N","Harding County, South Dakota","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"21111",77,0,2007,2,"N","Harding County, South Dakota","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"21111",77,0,2007,3,"N","Harding County, South Dakota","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"21111",77,0,2007,4,"N","Harding County, South Dakota","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,211111,78,0,2007,1,"N","Harding County, South Dakota","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"211111",78,0,2007,2,"N","Harding County, South Dakota","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"211111",78,0,2007,3,"N","Harding County, South Dakota","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"211111",78,0,2007,4,"N","Harding County, South Dakota","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,213,75,0,2007,1,"N","Harding County, South Dakota","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"213",75,0,2007,2,"N","Harding County, South Dakota","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"213",75,0,2007,3,"N","Harding County, South Dakota","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"213",75,0,2007,4,"N","Harding County, South Dakota","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,2131,76,0,2007,1,"N","Harding County, South Dakota","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"2131",76,0,2007,2,"N","Harding County, South Dakota","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"2131",76,0,2007,3,"N","Harding County, South Dakota","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"2131",76,0,2007,4,"N","Harding County, South Dakota","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,21311,77,0,2007,1,"N","Harding County, South Dakota","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"21311",77,0,2007,2,"N","Harding County, South Dakota","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"21311",77,0,2007,3,"N","Harding County, South Dakota","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"21311",77,0,2007,4,"N","Harding County, South Dakota","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,213111,78,0,2007,1,"N","Harding County, South Dakota","Private","Drilling oil and gas wells","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"213111",78,0,2007,2,"N","Harding County, South Dakota","Private","Drilling oil and gas wells","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"213111",78,0,2007,3,"N","Harding County, South Dakota","Private","Drilling oil and gas wells","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"213111",78,0,2007,4,"N","Harding County, South Dakota","Private","Drilling oil and gas wells","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,213112,78,0,2007,1,"N","Harding County, South Dakota","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"213112",78,0,2007,2,"N","Harding County, South Dakota","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"213112",78,0,2007,3,"N","Harding County, South Dakota","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"213112",78,0,2007,4,"N","Harding County, South Dakota","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,22,74,0,2007,1,"N","Harding County, South Dakota","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"22",74,0,2007,2,"N","Harding County, South Dakota","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"22",74,0,2007,3,"N","Harding County, South Dakota","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"22",74,0,2007,4,"N","Harding County, South Dakota","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,221,75,0,2007,1,"N","Harding County, South Dakota","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"221",75,0,2007,2,"N","Harding County, South Dakota","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"221",75,0,2007,3,"N","Harding County, South Dakota","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"221",75,0,2007,4,"N","Harding County, South Dakota","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,2211,76,0,2007,1,"N","Harding County, South Dakota","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2211",76,0,2007,2,"N","Harding County, South Dakota","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2211",76,0,2007,3,"N","Harding County, South Dakota","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2211",76,0,2007,4,"N","Harding County, South Dakota","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,22112,77,0,2007,1,"N","Harding County, South Dakota","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"22112",77,0,2007,2,"N","Harding County, South Dakota","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"22112",77,0,2007,3,"N","Harding County, South Dakota","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"22112",77,0,2007,4,"N","Harding County, South Dakota","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,221122,78,0,2007,1,"N","Harding County, South Dakota","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"221122",78,0,2007,2,"N","Harding County, South Dakota","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"221122",78,0,2007,3,"N","Harding County, South Dakota","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"221122",78,0,2007,4,"N","Harding County, South Dakota","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,2212,76,0,2007,1,"N","Harding County, South Dakota","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2212",76,0,2007,2,"N","Harding County, South Dakota","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2212",76,0,2007,3,"N","Harding County, South Dakota","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2212",76,0,2007,4,"N","Harding County, South Dakota","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,22121,77,0,2007,1,"N","Harding County, South Dakota","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"22121",77,0,2007,2,"N","Harding County, South Dakota","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"22121",77,0,2007,3,"N","Harding County, South Dakota","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"22121",77,0,2007,4,"N","Harding County, South Dakota","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,221210,78,0,2007,1,"N","Harding County, South Dakota","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"221210",78,0,2007,2,"N","Harding County, South Dakota","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"221210",78,0,2007,3,"N","Harding County, South Dakota","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"221210",78,0,2007,4,"N","Harding County, South Dakota","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,23,74,0,2007,1,"","Harding County, South Dakota","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",5,27,24,34,191465,170596,2292,520
+"46063",5,"23",74,0,2007,2,"","Harding County, South Dakota","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",5,29,34,37,228961,91459,1372,528
+"46063",5,"23",74,0,2007,3,"","Harding County, South Dakota","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",6,41,35,37,438642,79044,1833,896
+"46063",5,"23",74,0,2007,4,"","Harding County, South Dakota","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",8,43,45,36,266129,40853,1554,495
+"46063",5,236,75,0,2007,1,"N","Harding County, South Dakota","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"236",75,0,2007,2,"N","Harding County, South Dakota","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"236",75,0,2007,3,"N","Harding County, South Dakota","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"236",75,0,2007,4,"N","Harding County, South Dakota","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,2362,76,0,2007,1,"N","Harding County, South Dakota","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2362",76,0,2007,2,"N","Harding County, South Dakota","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2362",76,0,2007,3,"N","Harding County, South Dakota","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"2362",76,0,2007,4,"N","Harding County, South Dakota","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,23622,77,0,2007,1,"N","Harding County, South Dakota","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"23622",77,0,2007,2,"N","Harding County, South Dakota","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"23622",77,0,2007,3,"N","Harding County, South Dakota","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"23622",77,0,2007,4,"N","Harding County, South Dakota","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,236220,78,0,2007,1,"N","Harding County, South Dakota","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"236220",78,0,2007,2,"N","Harding County, South Dakota","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"236220",78,0,2007,3,"N","Harding County, South Dakota","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"236220",78,0,2007,4,"N","Harding County, South Dakota","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,237,75,0,2007,1,"N","Harding County, South Dakota","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"237",75,0,2007,2,"N","Harding County, South Dakota","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"237",75,0,2007,3,"N","Harding County, South Dakota","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"237",75,0,2007,4,"N","Harding County, South Dakota","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"46063",5,2371,76,0,2007,1,"N","Harding County, South Dakota","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"2371",76,0,2007,2,"N","Harding County, South Dakota","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"2371",76,0,2007,3,"N","Harding County, South Dakota","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"2371",76,0,2007,4,"N","Harding County, South Dakota","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,23712,77,0,2007,1,"N","Harding County, South Dakota","Private","Oil and gas pipeline construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"23712",77,0,2007,2,"N","Harding County, South Dakota","Private","Oil and gas pipeline construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"23712",77,0,2007,3,"N","Harding County, South Dakota","Private","Oil and gas pipeline construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"23712",77,0,2007,4,"N","Harding County, South Dakota","Private","Oil and gas pipeline construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,237120,78,0,2007,1,"N","Harding County, South Dakota","Private","Oil and gas pipeline construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"237120",78,0,2007,2,"N","Harding County, South Dakota","Private","Oil and gas pipeline construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"237120",78,0,2007,3,"N","Harding County, South Dakota","Private","Oil and gas pipeline construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"237120",78,0,2007,4,"N","Harding County, South Dakota","Private","Oil and gas pipeline construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,23713,77,0,2007,1,"N","Harding County, South Dakota","Private","Power and communication system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"23713",77,0,2007,2,"N","Harding County, South Dakota","Private","Power and communication system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"23713",77,0,2007,3,"N","Harding County, South Dakota","Private","Power and communication system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"23713",77,0,2007,4,"N","Harding County, South Dakota","Private","Power and communication system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,237130,78,0,2007,1,"N","Harding County, South Dakota","Private","Power and communication system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"237130",78,0,2007,2,"N","Harding County, South Dakota","Private","Power and communication system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"237130",78,0,2007,3,"N","Harding County, South Dakota","Private","Power and communication system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"237130",78,0,2007,4,"N","Harding County, South Dakota","Private","Power and communication system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,2373,76,0,2007,1,"-","Harding County, South Dakota","Private","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"2373",76,0,2007,2,"-","Harding County, South Dakota","Private","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"2373",76,0,2007,3,"-","Harding County, South Dakota","Private","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"2373",76,0,2007,4,"N","Harding County, South Dakota","Private","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,23731,77,0,2007,1,"-","Harding County, South Dakota","Private","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"23731",77,0,2007,2,"-","Harding County, South Dakota","Private","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"23731",77,0,2007,3,"-","Harding County, South Dakota","Private","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"23731",77,0,2007,4,"N","Harding County, South Dakota","Private","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,237310,78,0,2007,1,"-","Harding County, South Dakota","Private","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"237310",78,0,2007,2,"-","Harding County, South Dakota","Private","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"237310",78,0,2007,3,"-","Harding County, South Dakota","Private","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"237310",78,0,2007,4,"N","Harding County, South Dakota","Private","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,238,75,0,2007,1,"N","Harding County, South Dakota","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"238",75,0,2007,2,"N","Harding County, South Dakota","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"238",75,0,2007,3,"N","Harding County, South Dakota","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"238",75,0,2007,4,"N","Harding County, South Dakota","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,2381,76,0,2007,1,"N","Harding County, South Dakota","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2381",76,0,2007,2,"N","Harding County, South Dakota","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2381",76,0,2007,3,"N","Harding County, South Dakota","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2381",76,0,2007,4,"N","Harding County, South Dakota","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,23813,77,0,2007,1,"N","Harding County, South Dakota","Private","Framing contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"23813",77,0,2007,2,"N","Harding County, South Dakota","Private","Framing contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"23813",77,0,2007,3,"N","Harding County, South Dakota","Private","Framing contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"23813",77,0,2007,4,"N","Harding County, South Dakota","Private","Framing contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,238131,78,0,2007,1,"N","Harding County, South Dakota","Private","Residential framing contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"238131",78,0,2007,2,"N","Harding County, South Dakota","Private","Residential framing contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"238131",78,0,2007,3,"N","Harding County, South Dakota","Private","Residential framing contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"238131",78,0,2007,4,"N","Harding County, South Dakota","Private","Residential framing contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,2389,76,0,2007,1,"N","Harding County, South Dakota","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2389",76,0,2007,2,"N","Harding County, South Dakota","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2389",76,0,2007,3,"N","Harding County, South Dakota","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"2389",76,0,2007,4,"N","Harding County, South Dakota","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,23891,77,0,2007,1,"N","Harding County, South Dakota","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"23891",77,0,2007,2,"N","Harding County, South Dakota","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"23891",77,0,2007,3,"N","Harding County, South Dakota","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"23891",77,0,2007,4,"N","Harding County, South Dakota","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,238912,78,0,2007,1,"N","Harding County, South Dakota","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"238912",78,0,2007,2,"N","Harding County, South Dakota","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"238912",78,0,2007,3,"N","Harding County, South Dakota","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"238912",78,0,2007,4,"N","Harding County, South Dakota","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,42,74,0,2007,1,"N","Harding County, South Dakota","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"42",74,0,2007,2,"N","Harding County, South Dakota","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"42",74,0,2007,3,"N","Harding County, South Dakota","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"42",74,0,2007,4,"N","Harding County, South Dakota","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,424,75,0,2007,1,"N","Harding County, South Dakota","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"424",75,0,2007,2,"N","Harding County, South Dakota","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"424",75,0,2007,3,"N","Harding County, South Dakota","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"424",75,0,2007,4,"N","Harding County, South Dakota","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,4249,76,0,2007,1,"N","Harding County, South Dakota","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4249",76,0,2007,2,"N","Harding County, South Dakota","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4249",76,0,2007,3,"N","Harding County, South Dakota","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4249",76,0,2007,4,"N","Harding County, South Dakota","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,42491,77,0,2007,1,"N","Harding County, South Dakota","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"42491",77,0,2007,2,"N","Harding County, South Dakota","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"42491",77,0,2007,3,"N","Harding County, South Dakota","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"42491",77,0,2007,4,"N","Harding County, South Dakota","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,424910,78,0,2007,1,"N","Harding County, South Dakota","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"424910",78,0,2007,2,"N","Harding County, South Dakota","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"424910",78,0,2007,3,"N","Harding County, South Dakota","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"424910",78,0,2007,4,"N","Harding County, South Dakota","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,44-45,74,0,2007,1,"","Harding County, South Dakota","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,23,24,26,94857,91294,0,300
+"46063",5,"44-45",74,0,2007,2,"","Harding County, South Dakota","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,26,25,26,98444,61741,0,295
+"46063",5,"44-45",74,0,2007,3,"","Harding County, South Dakota","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,26,24,27,113052,40431,0,339
+"46063",5,"44-45",74,0,2007,4,"","Harding County, South Dakota","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,31,31,31,109417,18653,0,272
+"46063",5,444,75,0,2007,1,"N","Harding County, South Dakota","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"444",75,0,2007,2,"N","Harding County, South Dakota","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"444",75,0,2007,3,"N","Harding County, South Dakota","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"444",75,0,2007,4,"N","Harding County, South Dakota","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,4441,76,0,2007,1,"N","Harding County, South Dakota","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4441",76,0,2007,2,"N","Harding County, South Dakota","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4441",76,0,2007,3,"N","Harding County, South Dakota","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4441",76,0,2007,4,"N","Harding County, South Dakota","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,44411,77,0,2007,1,"N","Harding County, South Dakota","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"44411",77,0,2007,2,"N","Harding County, South Dakota","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"44411",77,0,2007,3,"N","Harding County, South Dakota","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"44411",77,0,2007,4,"N","Harding County, South Dakota","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,444110,78,0,2007,1,"N","Harding County, South Dakota","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"444110",78,0,2007,2,"N","Harding County, South Dakota","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"444110",78,0,2007,3,"N","Harding County, South Dakota","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"444110",78,0,2007,4,"N","Harding County, South Dakota","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,445,75,0,2007,1,"N","Harding County, South Dakota","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"445",75,0,2007,2,"N","Harding County, South Dakota","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"445",75,0,2007,3,"N","Harding County, South Dakota","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"445",75,0,2007,4,"N","Harding County, South Dakota","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,4451,76,0,2007,1,"N","Harding County, South Dakota","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4451",76,0,2007,2,"N","Harding County, South Dakota","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4451",76,0,2007,3,"N","Harding County, South Dakota","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4451",76,0,2007,4,"N","Harding County, South Dakota","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,44511,77,0,2007,1,"N","Harding County, South Dakota","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"44511",77,0,2007,2,"N","Harding County, South Dakota","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"44511",77,0,2007,3,"N","Harding County, South Dakota","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"44511",77,0,2007,4,"N","Harding County, South Dakota","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,445110,78,0,2007,1,"N","Harding County, South Dakota","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"445110",78,0,2007,2,"N","Harding County, South Dakota","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"445110",78,0,2007,3,"N","Harding County, South Dakota","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"445110",78,0,2007,4,"N","Harding County, South Dakota","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,447,75,0,2007,1,"N","Harding County, South Dakota","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"447",75,0,2007,2,"N","Harding County, South Dakota","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"447",75,0,2007,3,"N","Harding County, South Dakota","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"447",75,0,2007,4,"N","Harding County, South Dakota","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,4471,76,0,2007,1,"N","Harding County, South Dakota","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4471",76,0,2007,2,"N","Harding County, South Dakota","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4471",76,0,2007,3,"N","Harding County, South Dakota","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4471",76,0,2007,4,"N","Harding County, South Dakota","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,44711,77,0,2007,1,"N","Harding County, South Dakota","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"44711",77,0,2007,2,"N","Harding County, South Dakota","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"44711",77,0,2007,3,"N","Harding County, South Dakota","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"44711",77,0,2007,4,"N","Harding County, South Dakota","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,447110,78,0,2007,1,"N","Harding County, South Dakota","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"447110",78,0,2007,2,"N","Harding County, South Dakota","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"447110",78,0,2007,3,"N","Harding County, South Dakota","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"447110",78,0,2007,4,"N","Harding County, South Dakota","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,454,75,0,2007,1,"N","Harding County, South Dakota","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"454",75,0,2007,2,"N","Harding County, South Dakota","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"454",75,0,2007,3,"N","Harding County, South Dakota","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"454",75,0,2007,4,"N","Harding County, South Dakota","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,4543,76,0,2007,1,"N","Harding County, South Dakota","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4543",76,0,2007,2,"N","Harding County, South Dakota","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4543",76,0,2007,3,"N","Harding County, South Dakota","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4543",76,0,2007,4,"N","Harding County, South Dakota","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,45431,77,0,2007,1,"N","Harding County, South Dakota","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"45431",77,0,2007,2,"N","Harding County, South Dakota","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"45431",77,0,2007,3,"N","Harding County, South Dakota","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"45431",77,0,2007,4,"N","Harding County, South Dakota","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,454312,78,0,2007,1,"N","Harding County, South Dakota","Private","Liquefied petroleum gas, bottled gas, dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"454312",78,0,2007,2,"N","Harding County, South Dakota","Private","Liquefied petroleum gas, bottled gas, dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"454312",78,0,2007,3,"N","Harding County, South Dakota","Private","Liquefied petroleum gas, bottled gas, dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"454312",78,0,2007,4,"N","Harding County, South Dakota","Private","Liquefied petroleum gas, bottled gas, dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,48-49,74,0,2007,1,"N","Harding County, South Dakota","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"48-49",74,0,2007,2,"N","Harding County, South Dakota","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"48-49",74,0,2007,3,"N","Harding County, South Dakota","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"48-49",74,0,2007,4,"N","Harding County, South Dakota","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,484,75,0,2007,1,"N","Harding County, South Dakota","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"484",75,0,2007,2,"N","Harding County, South Dakota","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"484",75,0,2007,3,"N","Harding County, South Dakota","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"484",75,0,2007,4,"N","Harding County, South Dakota","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,4842,76,0,2007,1,"N","Harding County, South Dakota","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4842",76,0,2007,2,"N","Harding County, South Dakota","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4842",76,0,2007,3,"N","Harding County, South Dakota","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4842",76,0,2007,4,"N","Harding County, South Dakota","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,48422,77,0,2007,1,"N","Harding County, South Dakota","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"48422",77,0,2007,2,"N","Harding County, South Dakota","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"48422",77,0,2007,3,"N","Harding County, South Dakota","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"48422",77,0,2007,4,"N","Harding County, South Dakota","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,484220,78,0,2007,1,"N","Harding County, South Dakota","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"484220",78,0,2007,2,"N","Harding County, South Dakota","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"484220",78,0,2007,3,"N","Harding County, South Dakota","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"484220",78,0,2007,4,"N","Harding County, South Dakota","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,485,75,0,2007,1,"N","Harding County, South Dakota","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"485",75,0,2007,2,"N","Harding County, South Dakota","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"485",75,0,2007,3,"N","Harding County, South Dakota","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"485",75,0,2007,4,"N","Harding County, South Dakota","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,4854,76,0,2007,1,"N","Harding County, South Dakota","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4854",76,0,2007,2,"N","Harding County, South Dakota","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4854",76,0,2007,3,"N","Harding County, South Dakota","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"4854",76,0,2007,4,"N","Harding County, South Dakota","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,48541,77,0,2007,1,"N","Harding County, South Dakota","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"48541",77,0,2007,2,"N","Harding County, South Dakota","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"48541",77,0,2007,3,"N","Harding County, South Dakota","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"48541",77,0,2007,4,"N","Harding County, South Dakota","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,485410,78,0,2007,1,"N","Harding County, South Dakota","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"485410",78,0,2007,2,"N","Harding County, South Dakota","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"485410",78,0,2007,3,"N","Harding County, South Dakota","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"485410",78,0,2007,4,"N","Harding County, South Dakota","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,51,74,0,2007,1,"N","Harding County, South Dakota","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"51",74,0,2007,2,"N","Harding County, South Dakota","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"51",74,0,2007,3,"N","Harding County, South Dakota","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"51",74,0,2007,4,"N","Harding County, South Dakota","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,511,75,0,2007,1,"N","Harding County, South Dakota","Private","Publishing industries, except Internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"511",75,0,2007,2,"N","Harding County, South Dakota","Private","Publishing industries, except Internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"511",75,0,2007,3,"N","Harding County, South Dakota","Private","Publishing industries, except Internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"511",75,0,2007,4,"N","Harding County, South Dakota","Private","Publishing industries, except Internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,5111,76,0,2007,1,"N","Harding County, South Dakota","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"5111",76,0,2007,2,"N","Harding County, South Dakota","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"5111",76,0,2007,3,"N","Harding County, South Dakota","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"5111",76,0,2007,4,"N","Harding County, South Dakota","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,51111,77,0,2007,1,"N","Harding County, South Dakota","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"51111",77,0,2007,2,"N","Harding County, South Dakota","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"51111",77,0,2007,3,"N","Harding County, South Dakota","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"51111",77,0,2007,4,"N","Harding County, South Dakota","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,511110,78,0,2007,1,"N","Harding County, South Dakota","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"511110",78,0,2007,2,"N","Harding County, South Dakota","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"511110",78,0,2007,3,"N","Harding County, South Dakota","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"511110",78,0,2007,4,"N","Harding County, South Dakota","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,52,74,0,2007,1,"N","Harding County, South Dakota","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"52",74,0,2007,2,"N","Harding County, South Dakota","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"52",74,0,2007,3,"N","Harding County, South Dakota","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"52",74,0,2007,4,"N","Harding County, South Dakota","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,522,75,0,2007,1,"N","Harding County, South Dakota","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"522",75,0,2007,2,"N","Harding County, South Dakota","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"522",75,0,2007,3,"N","Harding County, South Dakota","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"522",75,0,2007,4,"N","Harding County, South Dakota","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,5221,76,0,2007,1,"N","Harding County, South Dakota","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"5221",76,0,2007,2,"N","Harding County, South Dakota","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"5221",76,0,2007,3,"N","Harding County, South Dakota","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"5221",76,0,2007,4,"N","Harding County, South Dakota","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,52211,77,0,2007,1,"N","Harding County, South Dakota","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"52211",77,0,2007,2,"N","Harding County, South Dakota","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"52211",77,0,2007,3,"N","Harding County, South Dakota","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"52211",77,0,2007,4,"N","Harding County, South Dakota","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,522110,78,0,2007,1,"N","Harding County, South Dakota","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"522110",78,0,2007,2,"N","Harding County, South Dakota","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"522110",78,0,2007,3,"N","Harding County, South Dakota","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"522110",78,0,2007,4,"N","Harding County, South Dakota","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,54,74,0,2007,1,"N","Harding County, South Dakota","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"54",74,0,2007,2,"N","Harding County, South Dakota","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"54",74,0,2007,3,"N","Harding County, South Dakota","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"54",74,0,2007,4,"N","Harding County, South Dakota","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,541,75,0,2007,1,"N","Harding County, South Dakota","Private","Professional and Technical Services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"541",75,0,2007,2,"N","Harding County, South Dakota","Private","Professional and Technical Services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"541",75,0,2007,3,"N","Harding County, South Dakota","Private","Professional and Technical Services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"541",75,0,2007,4,"N","Harding County, South Dakota","Private","Professional and Technical Services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,5411,76,0,2007,1,"N","Harding County, South Dakota","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"5411",76,0,2007,2,"N","Harding County, South Dakota","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"5411",76,0,2007,3,"N","Harding County, South Dakota","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"5411",76,0,2007,4,"N","Harding County, South Dakota","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,54119,77,0,2007,1,"N","Harding County, South Dakota","Private","Other legal services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"54119",77,0,2007,2,"N","Harding County, South Dakota","Private","Other legal services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"54119",77,0,2007,3,"N","Harding County, South Dakota","Private","Other legal services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"54119",77,0,2007,4,"N","Harding County, South Dakota","Private","Other legal services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,541191,78,0,2007,1,"N","Harding County, South Dakota","Private","Title abstract and settlement offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"541191",78,0,2007,2,"N","Harding County, South Dakota","Private","Title abstract and settlement offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"541191",78,0,2007,3,"N","Harding County, South Dakota","Private","Title abstract and settlement offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"541191",78,0,2007,4,"N","Harding County, South Dakota","Private","Title abstract and settlement offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,5417,76,0,2007,1,"N","Harding County, South Dakota","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"5417",76,0,2007,2,"N","Harding County, South Dakota","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"5417",76,0,2007,3,"N","Harding County, South Dakota","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"5417",76,0,2007,4,"N","Harding County, South Dakota","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,54171,77,0,2007,1,"N","Harding County, South Dakota","Private","Physical, engineering and biological research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"54171",77,0,2007,2,"N","Harding County, South Dakota","Private","Physical, engineering and biological research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"54171",77,0,2007,3,"N","Harding County, South Dakota","Private","Physical, engineering and biological research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"54171",77,0,2007,4,"N","Harding County, South Dakota","Private","Physical, engineering and biological research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,541712,78,0,2007,1,"N","Harding County, South Dakota","Private","Other physical and biological research","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"541712",78,0,2007,2,"N","Harding County, South Dakota","Private","Other physical and biological research","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"541712",78,0,2007,3,"N","Harding County, South Dakota","Private","Other physical and biological research","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"541712",78,0,2007,4,"N","Harding County, South Dakota","Private","Other physical and biological research","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,56,74,0,2007,1,"-","Harding County, South Dakota","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"56",74,0,2007,2,"-","Harding County, South Dakota","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"56",74,0,2007,3,"N","Harding County, South Dakota","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"56",74,0,2007,4,"N","Harding County, South Dakota","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,561,75,0,2007,1,"-","Harding County, South Dakota","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"561",75,0,2007,2,"-","Harding County, South Dakota","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"561",75,0,2007,3,"N","Harding County, South Dakota","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"561",75,0,2007,4,"N","Harding County, South Dakota","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,5619,76,0,2007,1,"-","Harding County, South Dakota","Private","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"5619",76,0,2007,2,"-","Harding County, South Dakota","Private","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"5619",76,0,2007,3,"N","Harding County, South Dakota","Private","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"5619",76,0,2007,4,"N","Harding County, South Dakota","Private","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,56199,77,0,2007,1,"-","Harding County, South Dakota","Private","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"56199",77,0,2007,2,"-","Harding County, South Dakota","Private","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"56199",77,0,2007,3,"N","Harding County, South Dakota","Private","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"56199",77,0,2007,4,"N","Harding County, South Dakota","Private","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,561990,78,0,2007,1,"-","Harding County, South Dakota","Private","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"561990",78,0,2007,2,"-","Harding County, South Dakota","Private","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"561990",78,0,2007,3,"N","Harding County, South Dakota","Private","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"561990",78,0,2007,4,"N","Harding County, South Dakota","Private","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,62,74,0,2007,1,"","Harding County, South Dakota","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,104,105,97,437542,409786,1401,330
+"46063",5,"62",74,0,2007,2,"N","Harding County, South Dakota","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"62",74,0,2007,3,"N","Harding County, South Dakota","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,"62",74,0,2007,4,"N","Harding County, South Dakota","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,621,75,0,2007,1,"N","Harding County, South Dakota","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"621",75,0,2007,2,"N","Harding County, South Dakota","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"621",75,0,2007,3,"N","Harding County, South Dakota","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"621",75,0,2007,4,"N","Harding County, South Dakota","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,6211,76,0,2007,1,"N","Harding County, South Dakota","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"6211",76,0,2007,2,"-","Harding County, South Dakota","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"6211",76,0,2007,3,"-","Harding County, South Dakota","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"6211",76,0,2007,4,"-","Harding County, South Dakota","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,62111,77,0,2007,1,"N","Harding County, South Dakota","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"62111",77,0,2007,2,"-","Harding County, South Dakota","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"62111",77,0,2007,3,"-","Harding County, South Dakota","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"62111",77,0,2007,4,"-","Harding County, South Dakota","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,621111,78,0,2007,1,"N","Harding County, South Dakota","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"621111",78,0,2007,2,"-","Harding County, South Dakota","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"621111",78,0,2007,3,"-","Harding County, South Dakota","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,"621111",78,0,2007,4,"-","Harding County, South Dakota","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,6216,76,0,2007,1,"N","Harding County, South Dakota","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"6216",76,0,2007,2,"N","Harding County, South Dakota","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"6216",76,0,2007,3,"N","Harding County, South Dakota","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"6216",76,0,2007,4,"N","Harding County, South Dakota","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,62161,77,0,2007,1,"N","Harding County, South Dakota","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"62161",77,0,2007,2,"N","Harding County, South Dakota","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"62161",77,0,2007,3,"N","Harding County, South Dakota","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"62161",77,0,2007,4,"N","Harding County, South Dakota","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,621610,78,0,2007,1,"N","Harding County, South Dakota","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"621610",78,0,2007,2,"N","Harding County, South Dakota","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"621610",78,0,2007,3,"N","Harding County, South Dakota","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"621610",78,0,2007,4,"N","Harding County, South Dakota","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,623,75,0,2007,1,"N","Harding County, South Dakota","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"623",75,0,2007,2,"N","Harding County, South Dakota","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"623",75,0,2007,3,"N","Harding County, South Dakota","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"623",75,0,2007,4,"N","Harding County, South Dakota","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,6239,76,0,2007,1,"N","Harding County, South Dakota","Private","Other residential care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"6239",76,0,2007,2,"N","Harding County, South Dakota","Private","Other residential care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"6239",76,0,2007,3,"N","Harding County, South Dakota","Private","Other residential care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"6239",76,0,2007,4,"N","Harding County, South Dakota","Private","Other residential care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,62399,77,0,2007,1,"N","Harding County, South Dakota","Private","Other residential care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"62399",77,0,2007,2,"N","Harding County, South Dakota","Private","Other residential care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"62399",77,0,2007,3,"N","Harding County, South Dakota","Private","Other residential care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"62399",77,0,2007,4,"N","Harding County, South Dakota","Private","Other residential care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,623990,78,0,2007,1,"N","Harding County, South Dakota","Private","Other residential care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"623990",78,0,2007,2,"N","Harding County, South Dakota","Private","Other residential care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"623990",78,0,2007,3,"N","Harding County, South Dakota","Private","Other residential care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"623990",78,0,2007,4,"N","Harding County, South Dakota","Private","Other residential care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,624,75,0,2007,1,"N","Harding County, South Dakota","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"624",75,0,2007,2,"N","Harding County, South Dakota","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"624",75,0,2007,3,"N","Harding County, South Dakota","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"624",75,0,2007,4,"N","Harding County, South Dakota","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,6241,76,0,2007,1,"N","Harding County, South Dakota","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"6241",76,0,2007,2,"N","Harding County, South Dakota","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"6241",76,0,2007,3,"N","Harding County, South Dakota","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"6241",76,0,2007,4,"N","Harding County, South Dakota","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,62412,77,0,2007,1,"N","Harding County, South Dakota","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"62412",77,0,2007,2,"N","Harding County, South Dakota","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"62412",77,0,2007,3,"N","Harding County, South Dakota","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"62412",77,0,2007,4,"N","Harding County, South Dakota","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,624120,78,0,2007,1,"N","Harding County, South Dakota","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"624120",78,0,2007,2,"N","Harding County, South Dakota","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"624120",78,0,2007,3,"N","Harding County, South Dakota","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"624120",78,0,2007,4,"N","Harding County, South Dakota","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,71,74,0,2007,1,"N","Harding County, South Dakota","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"71",74,0,2007,2,"N","Harding County, South Dakota","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"71",74,0,2007,3,"N","Harding County, South Dakota","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"71",74,0,2007,4,"N","Harding County, South Dakota","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,711,75,0,2007,1,"N","Harding County, South Dakota","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"711",75,0,2007,2,"N","Harding County, South Dakota","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"711",75,0,2007,3,"N","Harding County, South Dakota","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"711",75,0,2007,4,"N","Harding County, South Dakota","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,7112,76,0,2007,1,"N","Harding County, South Dakota","Private","Spectator sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"7112",76,0,2007,2,"N","Harding County, South Dakota","Private","Spectator sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"7112",76,0,2007,3,"N","Harding County, South Dakota","Private","Spectator sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"7112",76,0,2007,4,"N","Harding County, South Dakota","Private","Spectator sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,71121,77,0,2007,1,"N","Harding County, South Dakota","Private","Spectator sports","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"71121",77,0,2007,2,"N","Harding County, South Dakota","Private","Spectator sports","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"71121",77,0,2007,3,"N","Harding County, South Dakota","Private","Spectator sports","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"71121",77,0,2007,4,"N","Harding County, South Dakota","Private","Spectator sports","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,711219,78,0,2007,1,"N","Harding County, South Dakota","Private","Other spectator sports","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"711219",78,0,2007,2,"N","Harding County, South Dakota","Private","Other spectator sports","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"711219",78,0,2007,3,"N","Harding County, South Dakota","Private","Other spectator sports","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"711219",78,0,2007,4,"N","Harding County, South Dakota","Private","Other spectator sports","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,72,74,0,2007,1,"N","Harding County, South Dakota","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"46063",5,"72",74,0,2007,2,"N","Harding County, South Dakota","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"46063",5,"72",74,0,2007,3,"N","Harding County, South Dakota","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"46063",5,"72",74,0,2007,4,"N","Harding County, South Dakota","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"46063",5,721,75,0,2007,1,"N","Harding County, South Dakota","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"721",75,0,2007,2,"N","Harding County, South Dakota","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"721",75,0,2007,3,"N","Harding County, South Dakota","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"721",75,0,2007,4,"N","Harding County, South Dakota","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,7211,76,0,2007,1,"N","Harding County, South Dakota","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"7211",76,0,2007,2,"N","Harding County, South Dakota","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"7211",76,0,2007,3,"N","Harding County, South Dakota","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"7211",76,0,2007,4,"N","Harding County, South Dakota","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,72111,77,0,2007,1,"N","Harding County, South Dakota","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"72111",77,0,2007,2,"N","Harding County, South Dakota","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"72111",77,0,2007,3,"N","Harding County, South Dakota","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"72111",77,0,2007,4,"N","Harding County, South Dakota","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,721110,78,0,2007,1,"N","Harding County, South Dakota","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"721110",78,0,2007,2,"N","Harding County, South Dakota","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"721110",78,0,2007,3,"N","Harding County, South Dakota","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"721110",78,0,2007,4,"N","Harding County, South Dakota","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,722,75,0,2007,1,"","Harding County, South Dakota","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,18,19,20,32815,32815,217,133
+"46063",5,"722",75,0,2007,2,"","Harding County, South Dakota","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,16,16,20,31928,30728,200,142
+"46063",5,"722",75,0,2007,3,"","Harding County, South Dakota","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,17,20,19,37318,21219,151,154
+"46063",5,"722",75,0,2007,4,"N","Harding County, South Dakota","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,7221,76,0,2007,1,"N","Harding County, South Dakota","Private","Full-service restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"7221",76,0,2007,2,"N","Harding County, South Dakota","Private","Full-service restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"7221",76,0,2007,3,"N","Harding County, South Dakota","Private","Full-service restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"7221",76,0,2007,4,"-","Harding County, South Dakota","Private","Full-service restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,72211,77,0,2007,1,"N","Harding County, South Dakota","Private","Full-service restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"72211",77,0,2007,2,"N","Harding County, South Dakota","Private","Full-service restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"72211",77,0,2007,3,"N","Harding County, South Dakota","Private","Full-service restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"72211",77,0,2007,4,"-","Harding County, South Dakota","Private","Full-service restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,722110,78,0,2007,1,"N","Harding County, South Dakota","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"722110",78,0,2007,2,"N","Harding County, South Dakota","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"722110",78,0,2007,3,"N","Harding County, South Dakota","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"722110",78,0,2007,4,"-","Harding County, South Dakota","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"46063",5,7224,76,0,2007,1,"N","Harding County, South Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"7224",76,0,2007,2,"N","Harding County, South Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"7224",76,0,2007,3,"N","Harding County, South Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"7224",76,0,2007,4,"N","Harding County, South Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,72241,77,0,2007,1,"N","Harding County, South Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"72241",77,0,2007,2,"N","Harding County, South Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"72241",77,0,2007,3,"N","Harding County, South Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"72241",77,0,2007,4,"N","Harding County, South Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,722410,78,0,2007,1,"N","Harding County, South Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"722410",78,0,2007,2,"N","Harding County, South Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"722410",78,0,2007,3,"N","Harding County, South Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,"722410",78,0,2007,4,"N","Harding County, South Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"46063",5,81,74,0,2007,1,"N","Harding County, South Dakota","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"81",74,0,2007,2,"N","Harding County, South Dakota","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"81",74,0,2007,3,"N","Harding County, South Dakota","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"81",74,0,2007,4,"N","Harding County, South Dakota","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,811,75,0,2007,1,"N","Harding County, South Dakota","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"811",75,0,2007,2,"N","Harding County, South Dakota","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"811",75,0,2007,3,"N","Harding County, South Dakota","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"811",75,0,2007,4,"N","Harding County, South Dakota","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,8113,76,0,2007,1,"N","Harding County, South Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"8113",76,0,2007,2,"N","Harding County, South Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"8113",76,0,2007,3,"N","Harding County, South Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"8113",76,0,2007,4,"N","Harding County, South Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,81131,77,0,2007,1,"N","Harding County, South Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"81131",77,0,2007,2,"N","Harding County, South Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"81131",77,0,2007,3,"N","Harding County, South Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"81131",77,0,2007,4,"N","Harding County, South Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,811310,78,0,2007,1,"N","Harding County, South Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"811310",78,0,2007,2,"N","Harding County, South Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"811310",78,0,2007,3,"N","Harding County, South Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"46063",5,"811310",78,0,2007,4,"N","Harding County, South Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

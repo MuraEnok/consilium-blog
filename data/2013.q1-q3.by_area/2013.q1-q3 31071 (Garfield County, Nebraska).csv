@@ -1,0 +1,956 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"31071",0,"10",70,0,2013,1,"","Garfield County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",110,813,815,831,4868837,2796580,39710,457
+"31071",0,"10",70,0,2013,2,"","Garfield County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",111,840,870,888,5244944,1256099,19066,466
+"31071",0,"10",70,0,2013,3,"","Garfield County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",115,861,849,830,5633029,708974,10610,512
+"31071",1,"10",71,0,2013,1,"","Garfield County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,9,10,10,98825,0,0,786
+"31071",1,"10",71,0,2013,2,"","Garfield County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,10,9,10,95118,0,0,757
+"31071",1,"10",71,0,2013,3,"","Garfield County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,10,9,8,108553,0,0,928
+"31071",1,"102",72,0,2013,1,"","Garfield County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,9,10,10,98825,0,0,786
+"31071",1,"102",72,0,2013,2,"","Garfield County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,10,9,10,95118,0,0,757
+"31071",1,"102",72,0,2013,3,"","Garfield County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,10,9,8,108553,0,0,928
+"31071",1,"1021",73,0,2013,1,"","Garfield County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,5,6,6,58951,0,0,800
+"31071",1,"1021",73,0,2013,2,"","Garfield County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,6,6,6,53642,0,0,688
+"31071",1,"1021",73,0,2013,3,"","Garfield County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,6,5,4,60346,0,0,928
+"31071",1,"1028",73,0,2013,1,"","Garfield County, Nebraska","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,4,4,4,39874,0,0,767
+"31071",1,"1028",73,0,2013,2,"","Garfield County, Nebraska","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,4,3,4,41476,0,0,870
+"31071",1,"1028",73,0,2013,3,"","Garfield County, Nebraska","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,4,4,4,48207,0,0,927
+"31071",1,"48-49",74,0,2013,1,"","Garfield County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,5,6,6,58951,0,0,800
+"31071",1,"48-49",74,0,2013,2,"","Garfield County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,6,6,6,53642,0,0,688
+"31071",1,"48-49",74,0,2013,3,"","Garfield County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,6,5,4,60346,0,0,928
+"31071",1,"491",75,0,2013,1,"","Garfield County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,5,6,6,58951,0,0,800
+"31071",1,"491",75,0,2013,2,"","Garfield County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,6,6,6,53642,0,0,688
+"31071",1,"491",75,0,2013,3,"","Garfield County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,6,5,4,60346,0,0,928
+"31071",1,"4911",76,0,2013,1,"","Garfield County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,5,6,6,58951,0,0,800
+"31071",1,"4911",76,0,2013,2,"","Garfield County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,6,6,6,53642,0,0,688
+"31071",1,"4911",76,0,2013,3,"","Garfield County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,6,5,4,60346,0,0,928
+"31071",1,"49111",77,0,2013,1,"","Garfield County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,5,6,6,58951,0,0,800
+"31071",1,"49111",77,0,2013,2,"","Garfield County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,6,6,6,53642,0,0,688
+"31071",1,"49111",77,0,2013,3,"","Garfield County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,6,5,4,60346,0,0,928
+"31071",1,"491110",78,0,2013,1,"","Garfield County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,5,6,6,58951,0,0,800
+"31071",1,"491110",78,0,2013,2,"","Garfield County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,6,6,6,53642,0,0,688
+"31071",1,"491110",78,0,2013,3,"","Garfield County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,6,5,4,60346,0,0,928
+"31071",1,"92",74,0,2013,1,"","Garfield County, Nebraska","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,4,4,4,39874,0,0,767
+"31071",1,"92",74,0,2013,2,"","Garfield County, Nebraska","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,4,3,4,41476,0,0,870
+"31071",1,"92",74,0,2013,3,"","Garfield County, Nebraska","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,4,4,4,48207,0,0,927
+"31071",1,"924",75,0,2013,1,"","Garfield County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,3,3,3,33893,0,0,869
+"31071",1,"924",75,0,2013,2,"","Garfield County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,3,2,3,35002,0,0,1010
+"31071",1,"924",75,0,2013,3,"","Garfield County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,3,3,3,42067,0,0,1079
+"31071",1,"9241",76,0,2013,1,"","Garfield County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,3,3,3,33893,0,0,869
+"31071",1,"9241",76,0,2013,2,"","Garfield County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,3,2,3,35002,0,0,1010
+"31071",1,"9241",76,0,2013,3,"","Garfield County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,3,3,3,42067,0,0,1079
+"31071",1,"92412",77,0,2013,1,"","Garfield County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,3,3,3,33893,0,0,869
+"31071",1,"92412",77,0,2013,2,"","Garfield County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,3,2,3,35002,0,0,1010
+"31071",1,"92412",77,0,2013,3,"","Garfield County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,3,3,3,42067,0,0,1079
+"31071",1,"924120",78,0,2013,1,"","Garfield County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,3,3,3,33893,0,0,869
+"31071",1,"924120",78,0,2013,2,"","Garfield County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,3,2,3,35002,0,0,1010
+"31071",1,"924120",78,0,2013,3,"","Garfield County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,3,3,3,42067,0,0,1079
+"31071",1,"926",75,0,2013,1,"","Garfield County, Nebraska","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,5981,0,0,460
+"31071",1,"926",75,0,2013,2,"","Garfield County, Nebraska","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,6474,0,0,498
+"31071",1,"926",75,0,2013,3,"","Garfield County, Nebraska","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,6140,0,0,472
+"31071",1,"9261",76,0,2013,1,"","Garfield County, Nebraska","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,5981,0,0,460
+"31071",1,"9261",76,0,2013,2,"","Garfield County, Nebraska","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,6474,0,0,498
+"31071",1,"9261",76,0,2013,3,"","Garfield County, Nebraska","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,6140,0,0,472
+"31071",1,"92611",77,0,2013,1,"","Garfield County, Nebraska","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,5981,0,0,460
+"31071",1,"92611",77,0,2013,2,"","Garfield County, Nebraska","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,6474,0,0,498
+"31071",1,"92611",77,0,2013,3,"","Garfield County, Nebraska","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,6140,0,0,472
+"31071",1,"926110",78,0,2013,1,"","Garfield County, Nebraska","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,5981,0,0,460
+"31071",1,"926110",78,0,2013,2,"","Garfield County, Nebraska","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,6474,0,0,498
+"31071",1,"926110",78,0,2013,3,"","Garfield County, Nebraska","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,6140,0,0,472
+"31071",2,"10",71,0,2013,1,"","Garfield County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,21,22,25,203756,0,0,691
+"31071",2,"10",71,0,2013,2,"","Garfield County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,25,29,33,257178,0,0,682
+"31071",2,"10",71,0,2013,3,"","Garfield County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,35,32,31,262162,0,0,617
+"31071",2,"102",72,0,2013,1,"","Garfield County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,21,22,25,203756,0,0,691
+"31071",2,"102",72,0,2013,2,"","Garfield County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,25,29,33,257178,0,0,682
+"31071",2,"102",72,0,2013,3,"","Garfield County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,35,32,31,262162,0,0,617
+"31071",2,"1025",73,0,2013,1,"N","Garfield County, Nebraska","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"1025",73,0,2013,2,"N","Garfield County, Nebraska","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"1025",73,0,2013,3,"N","Garfield County, Nebraska","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"1028",73,0,2013,1,"N","Garfield County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",2,"1028",73,0,2013,2,"N","Garfield County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",2,"1028",73,0,2013,3,"N","Garfield County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",2,"61",74,0,2013,1,"N","Garfield County, Nebraska","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"61",74,0,2013,2,"N","Garfield County, Nebraska","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"61",74,0,2013,3,"N","Garfield County, Nebraska","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"611",75,0,2013,1,"N","Garfield County, Nebraska","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"611",75,0,2013,2,"N","Garfield County, Nebraska","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"611",75,0,2013,3,"N","Garfield County, Nebraska","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"6113",76,0,2013,1,"N","Garfield County, Nebraska","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"6113",76,0,2013,2,"N","Garfield County, Nebraska","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"6113",76,0,2013,3,"N","Garfield County, Nebraska","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"61131",77,0,2013,1,"N","Garfield County, Nebraska","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"61131",77,0,2013,2,"N","Garfield County, Nebraska","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"61131",77,0,2013,3,"N","Garfield County, Nebraska","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"611310",78,0,2013,1,"N","Garfield County, Nebraska","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"611310",78,0,2013,2,"N","Garfield County, Nebraska","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"611310",78,0,2013,3,"N","Garfield County, Nebraska","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"92",74,0,2013,1,"N","Garfield County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",2,"92",74,0,2013,2,"N","Garfield County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",2,"92",74,0,2013,3,"N","Garfield County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",2,"921",75,0,2013,1,"N","Garfield County, Nebraska","State Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"921",75,0,2013,2,"N","Garfield County, Nebraska","State Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"921",75,0,2013,3,"N","Garfield County, Nebraska","State Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"9211",76,0,2013,1,"N","Garfield County, Nebraska","State Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"9211",76,0,2013,2,"N","Garfield County, Nebraska","State Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"9211",76,0,2013,3,"N","Garfield County, Nebraska","State Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"92113",77,0,2013,1,"N","Garfield County, Nebraska","State Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"92113",77,0,2013,2,"N","Garfield County, Nebraska","State Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"92113",77,0,2013,3,"N","Garfield County, Nebraska","State Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"921130",78,0,2013,1,"N","Garfield County, Nebraska","State Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"921130",78,0,2013,2,"N","Garfield County, Nebraska","State Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"921130",78,0,2013,3,"N","Garfield County, Nebraska","State Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"922",75,0,2013,1,"N","Garfield County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"922",75,0,2013,2,"N","Garfield County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"922",75,0,2013,3,"N","Garfield County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"9221",76,0,2013,1,"N","Garfield County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"9221",76,0,2013,2,"N","Garfield County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"9221",76,0,2013,3,"N","Garfield County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"92211",77,0,2013,1,"N","Garfield County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"92211",77,0,2013,2,"N","Garfield County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"92211",77,0,2013,3,"N","Garfield County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"922110",78,0,2013,1,"N","Garfield County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"922110",78,0,2013,2,"N","Garfield County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"922110",78,0,2013,3,"N","Garfield County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"924",75,0,2013,1,"N","Garfield County, Nebraska","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"924",75,0,2013,2,"N","Garfield County, Nebraska","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"924",75,0,2013,3,"N","Garfield County, Nebraska","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"9241",76,0,2013,1,"N","Garfield County, Nebraska","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"9241",76,0,2013,2,"N","Garfield County, Nebraska","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"9241",76,0,2013,3,"N","Garfield County, Nebraska","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"92412",77,0,2013,1,"N","Garfield County, Nebraska","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"92412",77,0,2013,2,"N","Garfield County, Nebraska","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"92412",77,0,2013,3,"N","Garfield County, Nebraska","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"924120",78,0,2013,1,"N","Garfield County, Nebraska","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"924120",78,0,2013,2,"N","Garfield County, Nebraska","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"924120",78,0,2013,3,"N","Garfield County, Nebraska","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"926",75,0,2013,1,"N","Garfield County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",2,"926",75,0,2013,2,"N","Garfield County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",2,"926",75,0,2013,3,"N","Garfield County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",2,"9261",76,0,2013,1,"N","Garfield County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",2,"9261",76,0,2013,2,"N","Garfield County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",2,"9261",76,0,2013,3,"N","Garfield County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",2,"92612",77,0,2013,1,"N","Garfield County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"92612",77,0,2013,2,"N","Garfield County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"92612",77,0,2013,3,"N","Garfield County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"926120",78,0,2013,1,"N","Garfield County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"926120",78,0,2013,2,"N","Garfield County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"926120",78,0,2013,3,"N","Garfield County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"92614",77,0,2013,1,"N","Garfield County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"92614",77,0,2013,2,"N","Garfield County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"92614",77,0,2013,3,"N","Garfield County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"926140",78,0,2013,1,"N","Garfield County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"926140",78,0,2013,2,"N","Garfield County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",2,"926140",78,0,2013,3,"N","Garfield County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"10",71,0,2013,1,"","Garfield County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,138,140,139,967922,89993,226,536
+"31071",3,"10",71,0,2013,2,"","Garfield County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,139,144,146,967821,26660,36,521
+"31071",3,"10",71,0,2013,3,"","Garfield County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,111,108,118,921416,17006,27,631
+"31071",3,"102",72,0,2013,1,"","Garfield County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,138,140,139,967922,89993,226,536
+"31071",3,"102",72,0,2013,2,"","Garfield County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,139,144,146,967821,26660,36,521
+"31071",3,"102",72,0,2013,3,"","Garfield County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,111,108,118,921416,17006,27,631
+"31071",3,"1025",73,0,2013,1,"N","Garfield County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"1025",73,0,2013,2,"N","Garfield County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"1025",73,0,2013,3,"N","Garfield County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"1028",73,0,2013,1,"N","Garfield County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",3,"1028",73,0,2013,2,"N","Garfield County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",3,"1028",73,0,2013,3,"N","Garfield County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",3,"61",74,0,2013,1,"N","Garfield County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"61",74,0,2013,2,"N","Garfield County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"61",74,0,2013,3,"N","Garfield County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"611",75,0,2013,1,"N","Garfield County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"611",75,0,2013,2,"N","Garfield County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"611",75,0,2013,3,"N","Garfield County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"6111",76,0,2013,1,"N","Garfield County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"6111",76,0,2013,2,"N","Garfield County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"6111",76,0,2013,3,"N","Garfield County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"61111",77,0,2013,1,"N","Garfield County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"61111",77,0,2013,2,"N","Garfield County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"61111",77,0,2013,3,"N","Garfield County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"611110",78,0,2013,1,"N","Garfield County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"611110",78,0,2013,2,"N","Garfield County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"611110",78,0,2013,3,"N","Garfield County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"92",74,0,2013,1,"N","Garfield County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",3,"92",74,0,2013,2,"N","Garfield County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",3,"92",74,0,2013,3,"N","Garfield County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",3,"921",75,0,2013,1,"N","Garfield County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",3,"921",75,0,2013,2,"N","Garfield County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",3,"921",75,0,2013,3,"N","Garfield County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",3,"9211",76,0,2013,1,"N","Garfield County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",3,"9211",76,0,2013,2,"N","Garfield County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",3,"9211",76,0,2013,3,"N","Garfield County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",3,"92114",77,0,2013,1,"N","Garfield County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",3,"92114",77,0,2013,2,"N","Garfield County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",3,"92114",77,0,2013,3,"N","Garfield County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",3,"921140",78,0,2013,1,"N","Garfield County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",3,"921140",78,0,2013,2,"N","Garfield County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",3,"921140",78,0,2013,3,"N","Garfield County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",3,"923",75,0,2013,1,"N","Garfield County, Nebraska","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"923",75,0,2013,2,"N","Garfield County, Nebraska","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"923",75,0,2013,3,"N","Garfield County, Nebraska","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"9231",76,0,2013,1,"N","Garfield County, Nebraska","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"9231",76,0,2013,2,"N","Garfield County, Nebraska","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"9231",76,0,2013,3,"N","Garfield County, Nebraska","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"92312",77,0,2013,1,"N","Garfield County, Nebraska","Local Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"92312",77,0,2013,2,"N","Garfield County, Nebraska","Local Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"92312",77,0,2013,3,"N","Garfield County, Nebraska","Local Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"923120",78,0,2013,1,"N","Garfield County, Nebraska","Local Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"923120",78,0,2013,2,"N","Garfield County, Nebraska","Local Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"923120",78,0,2013,3,"N","Garfield County, Nebraska","Local Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"924",75,0,2013,1,"N","Garfield County, Nebraska","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"924",75,0,2013,2,"N","Garfield County, Nebraska","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"924",75,0,2013,3,"N","Garfield County, Nebraska","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"9241",76,0,2013,1,"N","Garfield County, Nebraska","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"9241",76,0,2013,2,"N","Garfield County, Nebraska","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"9241",76,0,2013,3,"N","Garfield County, Nebraska","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"92412",77,0,2013,1,"N","Garfield County, Nebraska","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"92412",77,0,2013,2,"N","Garfield County, Nebraska","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"92412",77,0,2013,3,"N","Garfield County, Nebraska","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"924120",78,0,2013,1,"N","Garfield County, Nebraska","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"924120",78,0,2013,2,"N","Garfield County, Nebraska","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"924120",78,0,2013,3,"N","Garfield County, Nebraska","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"925",75,0,2013,1,"N","Garfield County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"925",75,0,2013,2,"N","Garfield County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"925",75,0,2013,3,"N","Garfield County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"9251",76,0,2013,1,"N","Garfield County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"9251",76,0,2013,2,"N","Garfield County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"9251",76,0,2013,3,"N","Garfield County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"92511",77,0,2013,1,"N","Garfield County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"92511",77,0,2013,2,"N","Garfield County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"92511",77,0,2013,3,"N","Garfield County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"925110",78,0,2013,1,"N","Garfield County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"925110",78,0,2013,2,"N","Garfield County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",3,"925110",78,0,2013,3,"N","Garfield County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"10",71,0,2013,1,"","Garfield County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",95,645,643,657,3598334,2706587,39484,427
+"31071",5,"10",71,0,2013,2,"","Garfield County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",96,666,688,699,3924827,1229439,19030,441
+"31071",5,"10",71,0,2013,3,"","Garfield County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",100,705,700,673,4340898,691968,10583,482
+"31071",5,"101",72,0,2013,1,"","Garfield County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",20,104,107,112,848002,755822,11548,606
+"31071",5,"101",72,0,2013,2,"","Garfield County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",21,113,116,128,907346,285706,5145,587
+"31071",5,"101",72,0,2013,3,"","Garfield County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",21,128,126,120,1117364,218199,4078,689
+"31071",5,"1011",73,0,2013,1,"","Garfield County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",5,28,27,31,236868,207480,4958,636
+"31071",5,"1011",73,0,2013,2,"","Garfield County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",5,30,30,35,269492,95936,2714,655
+"31071",5,"1011",73,0,2013,3,"","Garfield County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",5,33,33,34,310882,34537,763,717
+"31071",5,"1012",73,0,2013,1,"","Garfield County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",8,18,22,21,152191,135951,1796,576
+"31071",5,"1012",73,0,2013,2,"","Garfield County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",9,23,27,31,174537,72590,804,497
+"31071",5,"1012",73,0,2013,3,"","Garfield County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",9,34,34,28,241978,114600,2339,582
+"31071",5,"1013",73,0,2013,1,"","Garfield County, Nebraska","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",7,58,58,60,458943,412391,4794,602
+"31071",5,"1013",73,0,2013,2,"","Garfield County, Nebraska","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",7,60,59,62,463317,117180,1627,591
+"31071",5,"1013",73,0,2013,3,"","Garfield County, Nebraska","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",7,61,59,58,564504,69062,976,732
+"31071",5,"102",72,0,2013,1,"","Garfield County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",75,541,536,545,2750332,1950765,27936,391
+"31071",5,"102",72,0,2013,2,"","Garfield County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",75,553,572,571,3017481,943733,13885,411
+"31071",5,"102",72,0,2013,3,"","Garfield County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",79,577,574,553,3223534,473769,6505,437
+"31071",5,"1021",73,0,2013,1,"","Garfield County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",26,259,256,262,1306835,1180900,17315,388
+"31071",5,"1021",73,0,2013,2,"","Garfield County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",26,273,282,282,1561139,652603,9699,430
+"31071",5,"1021",73,0,2013,3,"","Garfield County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",27,279,281,276,1556245,275420,3661,430
+"31071",5,"1022",73,0,2013,1,"","Garfield County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",3,14,14,14,94179,49784,477,517
+"31071",5,"1022",73,0,2013,2,"","Garfield County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",3,14,14,14,97822,6894,9,537
+"31071",5,"1022",73,0,2013,3,"","Garfield County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",3,14,13,12,91816,7529,3,543
+"31071",5,"1023",73,0,2013,1,"","Garfield County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,18,18,20,162118,119315,2295,668
+"31071",5,"1023",73,0,2013,2,"","Garfield County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,18,18,18,141307,22568,478,604
+"31071",5,"1023",73,0,2013,3,"","Garfield County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,19,19,18,160539,9850,245,662
+"31071",5,"1024",73,0,2013,1,"","Garfield County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,21,23,23,100569,91666,1416,346
+"31071",5,"1024",73,0,2013,2,"","Garfield County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,18,20,18,100171,34440,486,413
+"31071",5,"1024",73,0,2013,3,"","Garfield County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",7,22,20,19,100747,22429,345,381
+"31071",5,"1025",73,0,2013,1,"","Garfield County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",14,136,133,129,743422,186567,2694,431
+"31071",5,"1025",73,0,2013,2,"","Garfield County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",14,135,129,126,713404,58561,996,422
+"31071",5,"1025",73,0,2013,3,"","Garfield County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",16,128,130,126,848863,31234,509,510
+"31071",5,"1026",73,0,2013,1,"","Garfield County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",10,58,56,59,98544,97451,1500,131
+"31071",5,"1026",73,0,2013,2,"","Garfield County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",10,59,70,75,140025,106971,1640,158
+"31071",5,"1026",73,0,2013,3,"","Garfield County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",10,80,78,69,158032,106553,1612,161
+"31071",5,"1027",73,0,2013,1,"","Garfield County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",11,35,36,38,244665,225082,2239,518
+"31071",5,"1027",73,0,2013,2,"","Garfield County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",11,36,39,38,263613,61696,577,538
+"31071",5,"1027",73,0,2013,3,"","Garfield County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",11,35,33,33,307292,20754,130,702
+"31071",5,"11",74,0,2013,1,"N","Garfield County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"11",74,0,2013,2,"N","Garfield County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"11",74,0,2013,3,"N","Garfield County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"112",75,0,2013,1,"N","Garfield County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"112",75,0,2013,2,"N","Garfield County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"112",75,0,2013,3,"N","Garfield County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"1121",76,0,2013,1,"N","Garfield County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"1121",76,0,2013,2,"N","Garfield County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"1121",76,0,2013,3,"N","Garfield County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"11211",77,0,2013,1,"N","Garfield County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"11211",77,0,2013,2,"N","Garfield County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"11211",77,0,2013,3,"N","Garfield County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"112111",78,0,2013,1,"","Garfield County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,8,8,9,61459,60074,690,567
+"31071",5,"112111",78,0,2013,2,"","Garfield County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,9,13,74192,23963,263,552
+"31071",5,"112111",78,0,2013,3,"","Garfield County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,11,12,10,83955,23377,393,587
+"31071",5,"112112",78,0,2013,1,"N","Garfield County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"112112",78,0,2013,2,"N","Garfield County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"112112",78,0,2013,3,"N","Garfield County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"21",74,0,2013,1,"N","Garfield County, Nebraska","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"21",74,0,2013,2,"N","Garfield County, Nebraska","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"21",74,0,2013,3,"N","Garfield County, Nebraska","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"212",75,0,2013,1,"N","Garfield County, Nebraska","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"212",75,0,2013,2,"N","Garfield County, Nebraska","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"212",75,0,2013,3,"N","Garfield County, Nebraska","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"2123",76,0,2013,1,"N","Garfield County, Nebraska","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"2123",76,0,2013,2,"N","Garfield County, Nebraska","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"2123",76,0,2013,3,"N","Garfield County, Nebraska","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"21232",77,0,2013,1,"N","Garfield County, Nebraska","Private","Sand, gravel, clay, and refractory mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"21232",77,0,2013,2,"N","Garfield County, Nebraska","Private","Sand, gravel, clay, and refractory mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"21232",77,0,2013,3,"N","Garfield County, Nebraska","Private","Sand, gravel, clay, and refractory mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"212321",78,0,2013,1,"N","Garfield County, Nebraska","Private","Construction sand and gravel mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"212321",78,0,2013,2,"N","Garfield County, Nebraska","Private","Construction sand and gravel mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"212321",78,0,2013,3,"N","Garfield County, Nebraska","Private","Construction sand and gravel mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"23",74,0,2013,1,"","Garfield County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",8,18,22,21,152191,135951,1796,576
+"31071",5,"23",74,0,2013,2,"","Garfield County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",9,23,27,31,174537,72590,804,497
+"31071",5,"23",74,0,2013,3,"","Garfield County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",9,34,34,28,241978,114600,2339,582
+"31071",5,"236",75,0,2013,1,"N","Garfield County, Nebraska","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"236",75,0,2013,2,"","Garfield County, Nebraska","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,10,14,63860,27519,357,461
+"31071",5,"236",75,0,2013,3,"","Garfield County, Nebraska","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,14,15,15,124247,68022,1751,652
+"31071",5,"2361",76,0,2013,1,"N","Garfield County, Nebraska","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"2361",76,0,2013,2,"N","Garfield County, Nebraska","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"2361",76,0,2013,3,"N","Garfield County, Nebraska","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"23611",77,0,2013,1,"N","Garfield County, Nebraska","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"23611",77,0,2013,2,"N","Garfield County, Nebraska","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"23611",77,0,2013,3,"N","Garfield County, Nebraska","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"236115",78,0,2013,1,"-","Garfield County, Nebraska","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31071",5,"236115",78,0,2013,2,"N","Garfield County, Nebraska","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"236115",78,0,2013,3,"N","Garfield County, Nebraska","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"236118",78,0,2013,1,"N","Garfield County, Nebraska","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"236118",78,0,2013,2,"N","Garfield County, Nebraska","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"236118",78,0,2013,3,"N","Garfield County, Nebraska","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"2362",76,0,2013,1,"N","Garfield County, Nebraska","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"2362",76,0,2013,2,"N","Garfield County, Nebraska","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"2362",76,0,2013,3,"N","Garfield County, Nebraska","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"23622",77,0,2013,1,"N","Garfield County, Nebraska","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"23622",77,0,2013,2,"N","Garfield County, Nebraska","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"23622",77,0,2013,3,"N","Garfield County, Nebraska","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"236220",78,0,2013,1,"N","Garfield County, Nebraska","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"236220",78,0,2013,2,"N","Garfield County, Nebraska","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"236220",78,0,2013,3,"N","Garfield County, Nebraska","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"237",75,0,2013,1,"","Garfield County, Nebraska","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,8,8,48738,46972,307,469
+"31071",5,"237",75,0,2013,2,"","Garfield County, Nebraska","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,10,10,11,57268,30129,199,426
+"31071",5,"237",75,0,2013,3,"","Garfield County, Nebraska","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,14,13,8,65911,25931,196,435
+"31071",5,"2371",76,0,2013,1,"","Garfield County, Nebraska","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,8,8,48738,46972,307,469
+"31071",5,"2371",76,0,2013,2,"","Garfield County, Nebraska","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,10,10,11,57268,30129,199,426
+"31071",5,"2371",76,0,2013,3,"","Garfield County, Nebraska","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,14,13,8,65911,25931,196,435
+"31071",5,"23711",77,0,2013,1,"","Garfield County, Nebraska","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,8,8,8,48738,46972,307,469
+"31071",5,"23711",77,0,2013,2,"","Garfield County, Nebraska","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,10,10,11,57268,30129,199,426
+"31071",5,"23711",77,0,2013,3,"","Garfield County, Nebraska","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,14,13,8,65911,25931,196,435
+"31071",5,"237110",78,0,2013,1,"","Garfield County, Nebraska","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,8,8,8,48738,46972,307,469
+"31071",5,"237110",78,0,2013,2,"","Garfield County, Nebraska","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,10,10,11,57268,30129,199,426
+"31071",5,"237110",78,0,2013,3,"","Garfield County, Nebraska","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,14,13,8,65911,25931,196,435
+"31071",5,"238",75,0,2013,1,"N","Garfield County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"238",75,0,2013,2,"","Garfield County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,7,6,53409,14942,248,685
+"31071",5,"238",75,0,2013,3,"","Garfield County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,6,5,51820,20647,392,703
+"31071",5,"2382",76,0,2013,1,"N","Garfield County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"2382",76,0,2013,2,"","Garfield County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,5,7,6,53409,14942,248,685
+"31071",5,"2382",76,0,2013,3,"","Garfield County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,6,5,51820,20647,392,703
+"31071",5,"23821",77,0,2013,1,"N","Garfield County, Nebraska","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"23821",77,0,2013,2,"N","Garfield County, Nebraska","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"23821",77,0,2013,3,"N","Garfield County, Nebraska","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"238211",78,0,2013,1,"N","Garfield County, Nebraska","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"238211",78,0,2013,2,"N","Garfield County, Nebraska","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"238211",78,0,2013,3,"N","Garfield County, Nebraska","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"238212",78,0,2013,1,"N","Garfield County, Nebraska","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"238212",78,0,2013,2,"N","Garfield County, Nebraska","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"238212",78,0,2013,3,"N","Garfield County, Nebraska","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"23822",77,0,2013,1,"N","Garfield County, Nebraska","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"23822",77,0,2013,2,"N","Garfield County, Nebraska","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"23822",77,0,2013,3,"N","Garfield County, Nebraska","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"238221",78,0,2013,1,"N","Garfield County, Nebraska","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"238221",78,0,2013,2,"N","Garfield County, Nebraska","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"238221",78,0,2013,3,"N","Garfield County, Nebraska","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"31-33",74,0,2013,1,"","Garfield County, Nebraska","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,58,58,60,458943,412391,4794,602
+"31071",5,"31-33",74,0,2013,2,"","Garfield County, Nebraska","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,60,59,62,463317,117180,1627,591
+"31071",5,"31-33",74,0,2013,3,"","Garfield County, Nebraska","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,61,59,58,564504,69062,976,732
+"31071",5,"311",75,0,2013,1,"N","Garfield County, Nebraska","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"311",75,0,2013,2,"N","Garfield County, Nebraska","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"311",75,0,2013,3,"N","Garfield County, Nebraska","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"3111",76,0,2013,1,"N","Garfield County, Nebraska","Private","Animal food manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"3111",76,0,2013,2,"N","Garfield County, Nebraska","Private","Animal food manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"3111",76,0,2013,3,"N","Garfield County, Nebraska","Private","Animal food manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"31111",77,0,2013,1,"N","Garfield County, Nebraska","Private","Animal food manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"31111",77,0,2013,2,"N","Garfield County, Nebraska","Private","Animal food manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"31111",77,0,2013,3,"N","Garfield County, Nebraska","Private","Animal food manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"311119",78,0,2013,1,"N","Garfield County, Nebraska","Private","Other animal food manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"311119",78,0,2013,2,"N","Garfield County, Nebraska","Private","Other animal food manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"311119",78,0,2013,3,"N","Garfield County, Nebraska","Private","Other animal food manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"3116",76,0,2013,1,"N","Garfield County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"3116",76,0,2013,2,"N","Garfield County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"3116",76,0,2013,3,"N","Garfield County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"31161",77,0,2013,1,"N","Garfield County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"31161",77,0,2013,2,"N","Garfield County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"31161",77,0,2013,3,"N","Garfield County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"311611",78,0,2013,1,"N","Garfield County, Nebraska","Private","Animal, except poultry, slaughtering","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"311611",78,0,2013,2,"N","Garfield County, Nebraska","Private","Animal, except poultry, slaughtering","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"311611",78,0,2013,3,"N","Garfield County, Nebraska","Private","Animal, except poultry, slaughtering","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"314",75,0,2013,1,"N","Garfield County, Nebraska","Private","Textile product mills","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"314",75,0,2013,2,"N","Garfield County, Nebraska","Private","Textile product mills","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"314",75,0,2013,3,"N","Garfield County, Nebraska","Private","Textile product mills","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"3149",76,0,2013,1,"N","Garfield County, Nebraska","Private","Other textile product mills","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"3149",76,0,2013,2,"N","Garfield County, Nebraska","Private","Other textile product mills","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"3149",76,0,2013,3,"N","Garfield County, Nebraska","Private","Other textile product mills","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"31491",77,0,2013,1,"N","Garfield County, Nebraska","Private","Textile bag and canvas mills","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"31491",77,0,2013,2,"N","Garfield County, Nebraska","Private","Textile bag and canvas mills","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"31491",77,0,2013,3,"N","Garfield County, Nebraska","Private","Textile bag and canvas mills","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"314910",78,0,2013,1,"N","Garfield County, Nebraska","Private","Textile bag and canvas mills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"314910",78,0,2013,2,"N","Garfield County, Nebraska","Private","Textile bag and canvas mills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"314910",78,0,2013,3,"N","Garfield County, Nebraska","Private","Textile bag and canvas mills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"327",75,0,2013,1,"N","Garfield County, Nebraska","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"327",75,0,2013,2,"N","Garfield County, Nebraska","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"327",75,0,2013,3,"N","Garfield County, Nebraska","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"3273",76,0,2013,1,"N","Garfield County, Nebraska","Private","Cement and concrete product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"3273",76,0,2013,2,"N","Garfield County, Nebraska","Private","Cement and concrete product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"3273",76,0,2013,3,"N","Garfield County, Nebraska","Private","Cement and concrete product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"32732",77,0,2013,1,"N","Garfield County, Nebraska","Private","Ready-mix concrete manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"32732",77,0,2013,2,"N","Garfield County, Nebraska","Private","Ready-mix concrete manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"32732",77,0,2013,3,"N","Garfield County, Nebraska","Private","Ready-mix concrete manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"327320",78,0,2013,1,"N","Garfield County, Nebraska","Private","Ready-mix concrete manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"327320",78,0,2013,2,"N","Garfield County, Nebraska","Private","Ready-mix concrete manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"327320",78,0,2013,3,"N","Garfield County, Nebraska","Private","Ready-mix concrete manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"332",75,0,2013,1,"N","Garfield County, Nebraska","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"332",75,0,2013,2,"N","Garfield County, Nebraska","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"332",75,0,2013,3,"N","Garfield County, Nebraska","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"3327",76,0,2013,1,"N","Garfield County, Nebraska","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"3327",76,0,2013,2,"N","Garfield County, Nebraska","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"3327",76,0,2013,3,"N","Garfield County, Nebraska","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"33271",77,0,2013,1,"N","Garfield County, Nebraska","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"33271",77,0,2013,2,"N","Garfield County, Nebraska","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"33271",77,0,2013,3,"N","Garfield County, Nebraska","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"332710",78,0,2013,1,"N","Garfield County, Nebraska","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"332710",78,0,2013,2,"N","Garfield County, Nebraska","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"332710",78,0,2013,3,"N","Garfield County, Nebraska","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"333",75,0,2013,1,"N","Garfield County, Nebraska","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"333",75,0,2013,2,"N","Garfield County, Nebraska","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"333",75,0,2013,3,"N","Garfield County, Nebraska","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"3331",76,0,2013,1,"N","Garfield County, Nebraska","Private","Ag., construction, and mining machinery mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"3331",76,0,2013,2,"N","Garfield County, Nebraska","Private","Ag., construction, and mining machinery mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"3331",76,0,2013,3,"N","Garfield County, Nebraska","Private","Ag., construction, and mining machinery mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"33311",77,0,2013,1,"N","Garfield County, Nebraska","Private","Agricultural implement manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"33311",77,0,2013,2,"N","Garfield County, Nebraska","Private","Agricultural implement manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"33311",77,0,2013,3,"N","Garfield County, Nebraska","Private","Agricultural implement manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"333111",78,0,2013,1,"N","Garfield County, Nebraska","Private","Farm machinery and equipment manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"333111",78,0,2013,2,"N","Garfield County, Nebraska","Private","Farm machinery and equipment manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"333111",78,0,2013,3,"N","Garfield County, Nebraska","Private","Farm machinery and equipment manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"42",74,0,2013,1,"","Garfield County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",5,136,137,137,697924,640324,10771,393
+"31071",5,"42",74,0,2013,2,"","Garfield County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",5,144,151,148,889936,359544,6200,464
+"31071",5,"42",74,0,2013,3,"","Garfield County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",5,147,151,146,877036,104661,1687,456
+"31071",5,"423",75,0,2013,1,"N","Garfield County, Nebraska","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"423",75,0,2013,2,"N","Garfield County, Nebraska","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"423",75,0,2013,3,"N","Garfield County, Nebraska","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"4236",76,0,2013,1,"N","Garfield County, Nebraska","Private","Electric goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4236",76,0,2013,2,"N","Garfield County, Nebraska","Private","Electric goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4236",76,0,2013,3,"N","Garfield County, Nebraska","Private","Electric goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"42361",77,0,2013,1,"N","Garfield County, Nebraska","Private","Elec. equip. and wiring merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"42361",77,0,2013,2,"N","Garfield County, Nebraska","Private","Elec. equip. and wiring merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"42361",77,0,2013,3,"N","Garfield County, Nebraska","Private","Elec. equip. and wiring merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"423610",78,0,2013,1,"N","Garfield County, Nebraska","Private","Elec. equip. and wiring merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"423610",78,0,2013,2,"N","Garfield County, Nebraska","Private","Elec. equip. and wiring merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"423610",78,0,2013,3,"N","Garfield County, Nebraska","Private","Elec. equip. and wiring merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4238",76,0,2013,1,"N","Garfield County, Nebraska","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4238",76,0,2013,2,"N","Garfield County, Nebraska","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4238",76,0,2013,3,"N","Garfield County, Nebraska","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"42382",77,0,2013,1,"N","Garfield County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"42382",77,0,2013,2,"N","Garfield County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"42382",77,0,2013,3,"N","Garfield County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"423820",78,0,2013,1,"N","Garfield County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"423820",78,0,2013,2,"N","Garfield County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"423820",78,0,2013,3,"N","Garfield County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"424",75,0,2013,1,"N","Garfield County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"424",75,0,2013,2,"N","Garfield County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"424",75,0,2013,3,"N","Garfield County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"4245",76,0,2013,1,"N","Garfield County, Nebraska","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4245",76,0,2013,2,"N","Garfield County, Nebraska","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4245",76,0,2013,3,"N","Garfield County, Nebraska","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"42452",77,0,2013,1,"N","Garfield County, Nebraska","Private","Livestock merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"42452",77,0,2013,2,"N","Garfield County, Nebraska","Private","Livestock merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"42452",77,0,2013,3,"N","Garfield County, Nebraska","Private","Livestock merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"424520",78,0,2013,1,"N","Garfield County, Nebraska","Private","Livestock merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"424520",78,0,2013,2,"N","Garfield County, Nebraska","Private","Livestock merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"424520",78,0,2013,3,"N","Garfield County, Nebraska","Private","Livestock merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4249",76,0,2013,1,"N","Garfield County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"4249",76,0,2013,2,"N","Garfield County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"4249",76,0,2013,3,"N","Garfield County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"42491",77,0,2013,1,"N","Garfield County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"42491",77,0,2013,2,"N","Garfield County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"42491",77,0,2013,3,"N","Garfield County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"424910",78,0,2013,1,"N","Garfield County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"424910",78,0,2013,2,"N","Garfield County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"424910",78,0,2013,3,"N","Garfield County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"44-45",74,0,2013,1,"","Garfield County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",17,98,94,99,412353,381292,3977,327
+"31071",5,"44-45",74,0,2013,2,"","Garfield County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",17,102,105,105,454604,204580,2065,336
+"31071",5,"44-45",74,0,2013,3,"","Garfield County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",18,102,98,104,451433,131474,1337,343
+"31071",5,"441",75,0,2013,1,"N","Garfield County, Nebraska","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"441",75,0,2013,2,"N","Garfield County, Nebraska","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"441",75,0,2013,3,"N","Garfield County, Nebraska","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"4413",76,0,2013,1,"N","Garfield County, Nebraska","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"4413",76,0,2013,2,"N","Garfield County, Nebraska","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"4413",76,0,2013,3,"N","Garfield County, Nebraska","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"44131",77,0,2013,1,"N","Garfield County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"44131",77,0,2013,2,"N","Garfield County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"44131",77,0,2013,3,"N","Garfield County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"441310",78,0,2013,1,"N","Garfield County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"441310",78,0,2013,2,"N","Garfield County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"441310",78,0,2013,3,"N","Garfield County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"442",75,0,2013,1,"N","Garfield County, Nebraska","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"442",75,0,2013,2,"N","Garfield County, Nebraska","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"442",75,0,2013,3,"N","Garfield County, Nebraska","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4422",76,0,2013,1,"N","Garfield County, Nebraska","Private","Home furnishings stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4422",76,0,2013,2,"N","Garfield County, Nebraska","Private","Home furnishings stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4422",76,0,2013,3,"N","Garfield County, Nebraska","Private","Home furnishings stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"44221",77,0,2013,1,"N","Garfield County, Nebraska","Private","Floor covering stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"44221",77,0,2013,2,"N","Garfield County, Nebraska","Private","Floor covering stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"44221",77,0,2013,3,"N","Garfield County, Nebraska","Private","Floor covering stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"442210",78,0,2013,1,"N","Garfield County, Nebraska","Private","Floor covering stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"442210",78,0,2013,2,"N","Garfield County, Nebraska","Private","Floor covering stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"442210",78,0,2013,3,"N","Garfield County, Nebraska","Private","Floor covering stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"444",75,0,2013,1,"N","Garfield County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"444",75,0,2013,2,"N","Garfield County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"444",75,0,2013,3,"N","Garfield County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"4441",76,0,2013,1,"N","Garfield County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"4441",76,0,2013,2,"N","Garfield County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"4441",76,0,2013,3,"N","Garfield County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"44411",77,0,2013,1,"N","Garfield County, Nebraska","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"44411",77,0,2013,2,"N","Garfield County, Nebraska","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"44411",77,0,2013,3,"N","Garfield County, Nebraska","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"444110",78,0,2013,1,"N","Garfield County, Nebraska","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"444110",78,0,2013,2,"N","Garfield County, Nebraska","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"444110",78,0,2013,3,"N","Garfield County, Nebraska","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"445",75,0,2013,1,"N","Garfield County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"445",75,0,2013,2,"N","Garfield County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"445",75,0,2013,3,"N","Garfield County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"4451",76,0,2013,1,"N","Garfield County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"4451",76,0,2013,2,"N","Garfield County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"4451",76,0,2013,3,"N","Garfield County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"44511",77,0,2013,1,"N","Garfield County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"44511",77,0,2013,2,"N","Garfield County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"44511",77,0,2013,3,"N","Garfield County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"445110",78,0,2013,1,"N","Garfield County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"445110",78,0,2013,2,"N","Garfield County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"445110",78,0,2013,3,"N","Garfield County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"446",75,0,2013,1,"N","Garfield County, Nebraska","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"446",75,0,2013,2,"N","Garfield County, Nebraska","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"446",75,0,2013,3,"N","Garfield County, Nebraska","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4461",76,0,2013,1,"N","Garfield County, Nebraska","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4461",76,0,2013,2,"N","Garfield County, Nebraska","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4461",76,0,2013,3,"N","Garfield County, Nebraska","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"44611",77,0,2013,1,"N","Garfield County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"44611",77,0,2013,2,"N","Garfield County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"44611",77,0,2013,3,"N","Garfield County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"446110",78,0,2013,1,"N","Garfield County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"446110",78,0,2013,2,"N","Garfield County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"446110",78,0,2013,3,"N","Garfield County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"447",75,0,2013,1,"","Garfield County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,22,22,22,123074,112565,1722,430
+"31071",5,"447",75,0,2013,2,"","Garfield County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,19,23,23,133704,53181,853,475
+"31071",5,"447",75,0,2013,3,"","Garfield County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,24,24,24,123858,38750,581,397
+"31071",5,"4471",76,0,2013,1,"","Garfield County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,22,22,22,123074,112565,1722,430
+"31071",5,"4471",76,0,2013,2,"","Garfield County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,19,23,23,133704,53181,853,475
+"31071",5,"4471",76,0,2013,3,"","Garfield County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,24,24,24,123858,38750,581,397
+"31071",5,"44711",77,0,2013,1,"N","Garfield County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"44711",77,0,2013,2,"N","Garfield County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"44711",77,0,2013,3,"N","Garfield County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"447110",78,0,2013,1,"N","Garfield County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"447110",78,0,2013,2,"N","Garfield County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"447110",78,0,2013,3,"N","Garfield County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31071",5,"44719",77,0,2013,1,"N","Garfield County, Nebraska","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"44719",77,0,2013,2,"N","Garfield County, Nebraska","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"44719",77,0,2013,3,"N","Garfield County, Nebraska","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"447190",78,0,2013,1,"N","Garfield County, Nebraska","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"447190",78,0,2013,2,"N","Garfield County, Nebraska","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"447190",78,0,2013,3,"N","Garfield County, Nebraska","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"448",75,0,2013,1,"N","Garfield County, Nebraska","Private","Clothing and clothing accessories stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"448",75,0,2013,2,"N","Garfield County, Nebraska","Private","Clothing and clothing accessories stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"448",75,0,2013,3,"N","Garfield County, Nebraska","Private","Clothing and clothing accessories stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4481",76,0,2013,1,"N","Garfield County, Nebraska","Private","Clothing stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4481",76,0,2013,2,"N","Garfield County, Nebraska","Private","Clothing stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4481",76,0,2013,3,"N","Garfield County, Nebraska","Private","Clothing stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"44814",77,0,2013,1,"N","Garfield County, Nebraska","Private","Family clothing stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"44814",77,0,2013,2,"N","Garfield County, Nebraska","Private","Family clothing stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"44814",77,0,2013,3,"N","Garfield County, Nebraska","Private","Family clothing stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"448140",78,0,2013,1,"N","Garfield County, Nebraska","Private","Family clothing stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"448140",78,0,2013,2,"N","Garfield County, Nebraska","Private","Family clothing stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"448140",78,0,2013,3,"N","Garfield County, Nebraska","Private","Family clothing stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"453",75,0,2013,1,"N","Garfield County, Nebraska","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"453",75,0,2013,2,"N","Garfield County, Nebraska","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"453",75,0,2013,3,"N","Garfield County, Nebraska","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4531",76,0,2013,1,"N","Garfield County, Nebraska","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4531",76,0,2013,2,"N","Garfield County, Nebraska","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4531",76,0,2013,3,"N","Garfield County, Nebraska","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"45311",77,0,2013,1,"N","Garfield County, Nebraska","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"45311",77,0,2013,2,"N","Garfield County, Nebraska","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"45311",77,0,2013,3,"N","Garfield County, Nebraska","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"453110",78,0,2013,1,"N","Garfield County, Nebraska","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"453110",78,0,2013,2,"N","Garfield County, Nebraska","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"453110",78,0,2013,3,"N","Garfield County, Nebraska","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"454",75,0,2013,1,"N","Garfield County, Nebraska","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"454",75,0,2013,2,"N","Garfield County, Nebraska","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"454",75,0,2013,3,"N","Garfield County, Nebraska","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4543",76,0,2013,1,"N","Garfield County, Nebraska","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4543",76,0,2013,2,"N","Garfield County, Nebraska","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4543",76,0,2013,3,"N","Garfield County, Nebraska","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"45431",77,0,2013,1,"N","Garfield County, Nebraska","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"45431",77,0,2013,2,"N","Garfield County, Nebraska","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"45431",77,0,2013,3,"N","Garfield County, Nebraska","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"454310",78,0,2013,1,"N","Garfield County, Nebraska","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"454310",78,0,2013,2,"N","Garfield County, Nebraska","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"454310",78,0,2013,3,"N","Garfield County, Nebraska","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"48-49",74,0,2013,1,"","Garfield County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,25,25,26,196558,159284,2567,597
+"31071",5,"48-49",74,0,2013,2,"","Garfield County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,27,26,29,216599,88479,1434,610
+"31071",5,"48-49",74,0,2013,3,"","Garfield County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,30,32,26,227776,39285,637,597
+"31071",5,"484",75,0,2013,1,"","Garfield County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,25,25,26,196558,159284,2567,597
+"31071",5,"484",75,0,2013,2,"","Garfield County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,27,26,29,216599,88479,1434,610
+"31071",5,"484",75,0,2013,3,"","Garfield County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,30,32,26,227776,39285,637,597
+"31071",5,"4841",76,0,2013,1,"N","Garfield County, Nebraska","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4841",76,0,2013,2,"N","Garfield County, Nebraska","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4841",76,0,2013,3,"N","Garfield County, Nebraska","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"48412",77,0,2013,1,"N","Garfield County, Nebraska","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"48412",77,0,2013,2,"N","Garfield County, Nebraska","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"48412",77,0,2013,3,"N","Garfield County, Nebraska","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"484121",78,0,2013,1,"N","Garfield County, Nebraska","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"484121",78,0,2013,2,"N","Garfield County, Nebraska","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"484121",78,0,2013,3,"N","Garfield County, Nebraska","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"4842",76,0,2013,1,"N","Garfield County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"4842",76,0,2013,2,"N","Garfield County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"4842",76,0,2013,3,"N","Garfield County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"48422",77,0,2013,1,"N","Garfield County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"48422",77,0,2013,2,"N","Garfield County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"48422",77,0,2013,3,"N","Garfield County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"484220",78,0,2013,1,"N","Garfield County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"484220",78,0,2013,2,"N","Garfield County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"484220",78,0,2013,3,"N","Garfield County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"51",74,0,2013,1,"","Garfield County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",3,14,14,14,94179,49784,477,517
+"31071",5,"51",74,0,2013,2,"","Garfield County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",3,14,14,14,97822,6894,9,537
+"31071",5,"51",74,0,2013,3,"","Garfield County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",3,14,13,12,91816,7529,3,543
+"31071",5,"511",75,0,2013,1,"N","Garfield County, Nebraska","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"511",75,0,2013,2,"N","Garfield County, Nebraska","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"511",75,0,2013,3,"N","Garfield County, Nebraska","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"5111",76,0,2013,1,"N","Garfield County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"5111",76,0,2013,2,"N","Garfield County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"5111",76,0,2013,3,"N","Garfield County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"51111",77,0,2013,1,"N","Garfield County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"51111",77,0,2013,2,"N","Garfield County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"51111",77,0,2013,3,"N","Garfield County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"511110",78,0,2013,1,"N","Garfield County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"511110",78,0,2013,2,"N","Garfield County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"511110",78,0,2013,3,"N","Garfield County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"51114",77,0,2013,1,"N","Garfield County, Nebraska","Private","Directory and mailing list publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"51114",77,0,2013,2,"N","Garfield County, Nebraska","Private","Directory and mailing list publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"51114",77,0,2013,3,"N","Garfield County, Nebraska","Private","Directory and mailing list publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"511140",78,0,2013,1,"N","Garfield County, Nebraska","Private","Directory and mailing list publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"511140",78,0,2013,2,"N","Garfield County, Nebraska","Private","Directory and mailing list publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"511140",78,0,2013,3,"N","Garfield County, Nebraska","Private","Directory and mailing list publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"517",75,0,2013,1,"N","Garfield County, Nebraska","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"517",75,0,2013,2,"N","Garfield County, Nebraska","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"517",75,0,2013,3,"N","Garfield County, Nebraska","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"5171",76,0,2013,1,"N","Garfield County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"5171",76,0,2013,2,"N","Garfield County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"5171",76,0,2013,3,"N","Garfield County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"51711",77,0,2013,1,"N","Garfield County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"51711",77,0,2013,2,"N","Garfield County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"51711",77,0,2013,3,"N","Garfield County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"517110",78,0,2013,1,"N","Garfield County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"517110",78,0,2013,2,"N","Garfield County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"517110",78,0,2013,3,"N","Garfield County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"52",74,0,2013,1,"N","Garfield County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"52",74,0,2013,2,"N","Garfield County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"52",74,0,2013,3,"N","Garfield County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"522",75,0,2013,1,"N","Garfield County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"522",75,0,2013,2,"N","Garfield County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"522",75,0,2013,3,"N","Garfield County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"5221",76,0,2013,1,"N","Garfield County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"5221",76,0,2013,2,"N","Garfield County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"5221",76,0,2013,3,"N","Garfield County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"52211",77,0,2013,1,"N","Garfield County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"52211",77,0,2013,2,"N","Garfield County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"52211",77,0,2013,3,"N","Garfield County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"522110",78,0,2013,1,"N","Garfield County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"522110",78,0,2013,2,"N","Garfield County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"522110",78,0,2013,3,"N","Garfield County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"524",75,0,2013,1,"N","Garfield County, Nebraska","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"524",75,0,2013,2,"N","Garfield County, Nebraska","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"524",75,0,2013,3,"N","Garfield County, Nebraska","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"5242",76,0,2013,1,"N","Garfield County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"5242",76,0,2013,2,"N","Garfield County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"5242",76,0,2013,3,"N","Garfield County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"52421",77,0,2013,1,"N","Garfield County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"52421",77,0,2013,2,"N","Garfield County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"52421",77,0,2013,3,"N","Garfield County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"524210",78,0,2013,1,"N","Garfield County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"524210",78,0,2013,2,"N","Garfield County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"524210",78,0,2013,3,"N","Garfield County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"53",74,0,2013,1,"N","Garfield County, Nebraska","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"53",74,0,2013,2,"N","Garfield County, Nebraska","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"53",74,0,2013,3,"N","Garfield County, Nebraska","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"531",75,0,2013,1,"N","Garfield County, Nebraska","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"531",75,0,2013,2,"N","Garfield County, Nebraska","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"531",75,0,2013,3,"N","Garfield County, Nebraska","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"5312",76,0,2013,1,"N","Garfield County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"5312",76,0,2013,2,"N","Garfield County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"5312",76,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"53121",77,0,2013,1,"N","Garfield County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"53121",77,0,2013,2,"N","Garfield County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"53121",77,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"531210",78,0,2013,1,"N","Garfield County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"531210",78,0,2013,2,"N","Garfield County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"531210",78,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"54",74,0,2013,1,"","Garfield County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,21,23,23,100569,91666,1416,346
+"31071",5,"54",74,0,2013,2,"","Garfield County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,18,20,18,100171,34440,486,413
+"31071",5,"54",74,0,2013,3,"","Garfield County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",7,22,20,19,100747,22429,345,381
+"31071",5,"541",75,0,2013,1,"","Garfield County, Nebraska","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,21,23,23,100569,91666,1416,346
+"31071",5,"541",75,0,2013,2,"","Garfield County, Nebraska","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,18,20,18,100171,34440,486,413
+"31071",5,"541",75,0,2013,3,"","Garfield County, Nebraska","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,22,20,19,100747,22429,345,381
+"31071",5,"5411",76,0,2013,1,"N","Garfield County, Nebraska","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"5411",76,0,2013,2,"N","Garfield County, Nebraska","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"5411",76,0,2013,3,"N","Garfield County, Nebraska","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"54111",77,0,2013,1,"N","Garfield County, Nebraska","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"54111",77,0,2013,2,"N","Garfield County, Nebraska","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"54111",77,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"541110",78,0,2013,1,"N","Garfield County, Nebraska","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"541110",78,0,2013,2,"N","Garfield County, Nebraska","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"541110",78,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"5412",76,0,2013,1,"N","Garfield County, Nebraska","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"5412",76,0,2013,2,"N","Garfield County, Nebraska","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"5412",76,0,2013,3,"N","Garfield County, Nebraska","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"54121",77,0,2013,1,"N","Garfield County, Nebraska","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"54121",77,0,2013,2,"N","Garfield County, Nebraska","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"54121",77,0,2013,3,"N","Garfield County, Nebraska","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"541211",78,0,2013,1,"-","Garfield County, Nebraska","Private","Offices of certified public accountants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31071",5,"541211",78,0,2013,2,"-","Garfield County, Nebraska","Private","Offices of certified public accountants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31071",5,"541211",78,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of certified public accountants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"541219",78,0,2013,1,"N","Garfield County, Nebraska","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"541219",78,0,2013,2,"N","Garfield County, Nebraska","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"541219",78,0,2013,3,"N","Garfield County, Nebraska","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"5413",76,0,2013,1,"N","Garfield County, Nebraska","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"5413",76,0,2013,2,"N","Garfield County, Nebraska","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"5413",76,0,2013,3,"N","Garfield County, Nebraska","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"54133",77,0,2013,1,"N","Garfield County, Nebraska","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"54133",77,0,2013,2,"N","Garfield County, Nebraska","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"54133",77,0,2013,3,"N","Garfield County, Nebraska","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"541330",78,0,2013,1,"N","Garfield County, Nebraska","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"541330",78,0,2013,2,"N","Garfield County, Nebraska","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"541330",78,0,2013,3,"N","Garfield County, Nebraska","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"5419",76,0,2013,1,"N","Garfield County, Nebraska","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"5419",76,0,2013,2,"N","Garfield County, Nebraska","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"5419",76,0,2013,3,"N","Garfield County, Nebraska","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"54194",77,0,2013,1,"N","Garfield County, Nebraska","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"54194",77,0,2013,2,"N","Garfield County, Nebraska","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"54194",77,0,2013,3,"N","Garfield County, Nebraska","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"541940",78,0,2013,1,"N","Garfield County, Nebraska","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"541940",78,0,2013,2,"N","Garfield County, Nebraska","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"541940",78,0,2013,3,"N","Garfield County, Nebraska","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62",74,0,2013,1,"","Garfield County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",14,136,133,129,743422,186567,2694,431
+"31071",5,"62",74,0,2013,2,"","Garfield County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",14,135,129,126,713404,58561,996,422
+"31071",5,"62",74,0,2013,3,"","Garfield County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",16,128,130,126,848863,31234,509,510
+"31071",5,"621",75,0,2013,1,"","Garfield County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,23,23,23,204953,142482,1403,685
+"31071",5,"621",75,0,2013,2,"","Garfield County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,24,24,24,180979,34015,361,580
+"31071",5,"621",75,0,2013,3,"","Garfield County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,24,23,23,222158,15446,168,732
+"31071",5,"6211",76,0,2013,1,"N","Garfield County, Nebraska","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"6211",76,0,2013,2,"N","Garfield County, Nebraska","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"6211",76,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62111",77,0,2013,1,"N","Garfield County, Nebraska","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62111",77,0,2013,2,"N","Garfield County, Nebraska","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62111",77,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"621111",78,0,2013,1,"N","Garfield County, Nebraska","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"621111",78,0,2013,2,"N","Garfield County, Nebraska","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"621111",78,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"6212",76,0,2013,1,"N","Garfield County, Nebraska","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"6212",76,0,2013,2,"N","Garfield County, Nebraska","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"6212",76,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62121",77,0,2013,1,"N","Garfield County, Nebraska","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62121",77,0,2013,2,"N","Garfield County, Nebraska","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62121",77,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"621210",78,0,2013,1,"N","Garfield County, Nebraska","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"621210",78,0,2013,2,"N","Garfield County, Nebraska","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"621210",78,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"6213",76,0,2013,1,"N","Garfield County, Nebraska","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"6213",76,0,2013,2,"N","Garfield County, Nebraska","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"6213",76,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"62131",77,0,2013,1,"N","Garfield County, Nebraska","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62131",77,0,2013,2,"N","Garfield County, Nebraska","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62131",77,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"621310",78,0,2013,1,"N","Garfield County, Nebraska","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"621310",78,0,2013,2,"N","Garfield County, Nebraska","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"621310",78,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62134",77,0,2013,1,"N","Garfield County, Nebraska","Private","Offices of specialty therapists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62134",77,0,2013,2,"N","Garfield County, Nebraska","Private","Offices of specialty therapists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62134",77,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of specialty therapists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"621340",78,0,2013,1,"N","Garfield County, Nebraska","Private","Offices of specialty therapists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"621340",78,0,2013,2,"N","Garfield County, Nebraska","Private","Offices of specialty therapists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"621340",78,0,2013,3,"N","Garfield County, Nebraska","Private","Offices of specialty therapists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"623",75,0,2013,1,"N","Garfield County, Nebraska","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"623",75,0,2013,2,"N","Garfield County, Nebraska","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"623",75,0,2013,3,"N","Garfield County, Nebraska","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"6233",76,0,2013,1,"N","Garfield County, Nebraska","Private","Community care facilities for the elderly","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"6233",76,0,2013,2,"N","Garfield County, Nebraska","Private","Community care facilities for the elderly","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"6233",76,0,2013,3,"N","Garfield County, Nebraska","Private","Community care facilities for the elderly","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62331",77,0,2013,1,"N","Garfield County, Nebraska","Private","Community care facilities for the elderly","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62331",77,0,2013,2,"N","Garfield County, Nebraska","Private","Community care facilities for the elderly","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62331",77,0,2013,3,"N","Garfield County, Nebraska","Private","Community care facilities for the elderly","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"623311",78,0,2013,1,"N","Garfield County, Nebraska","Private","Continuing care retirement communities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"623311",78,0,2013,2,"N","Garfield County, Nebraska","Private","Continuing care retirement communities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"623311",78,0,2013,3,"N","Garfield County, Nebraska","Private","Continuing care retirement communities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"624",75,0,2013,1,"N","Garfield County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31071",5,"624",75,0,2013,2,"N","Garfield County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31071",5,"624",75,0,2013,3,"N","Garfield County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"31071",5,"6241",76,0,2013,1,"","Garfield County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,10,11,9,15713,15713,264,121
+"31071",5,"6241",76,0,2013,2,"","Garfield County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,9,9,8,15121,12964,216,134
+"31071",5,"6241",76,0,2013,3,"","Garfield County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",10,11,12,9,19297,11775,196,139
+"31071",5,"62412",77,0,2013,1,"","Garfield County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",8,10,11,9,15713,15713,264,121
+"31071",5,"62412",77,0,2013,2,"","Garfield County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",8,9,9,8,15121,12964,216,134
+"31071",5,"62412",77,0,2013,3,"","Garfield County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",10,11,12,9,19297,11775,196,139
+"31071",5,"624120",78,0,2013,1,"","Garfield County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",8,10,11,9,15713,15713,264,121
+"31071",5,"624120",78,0,2013,2,"","Garfield County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",8,9,9,8,15121,12964,216,134
+"31071",5,"624120",78,0,2013,3,"","Garfield County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",10,11,12,9,19297,11775,196,139
+"31071",5,"6244",76,0,2013,1,"N","Garfield County, Nebraska","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"6244",76,0,2013,2,"N","Garfield County, Nebraska","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"6244",76,0,2013,3,"N","Garfield County, Nebraska","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62441",77,0,2013,1,"N","Garfield County, Nebraska","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62441",77,0,2013,2,"N","Garfield County, Nebraska","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"62441",77,0,2013,3,"N","Garfield County, Nebraska","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"624410",78,0,2013,1,"N","Garfield County, Nebraska","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"624410",78,0,2013,2,"N","Garfield County, Nebraska","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"624410",78,0,2013,3,"N","Garfield County, Nebraska","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"71",74,0,2013,1,"N","Garfield County, Nebraska","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"71",74,0,2013,2,"N","Garfield County, Nebraska","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"71",74,0,2013,3,"N","Garfield County, Nebraska","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"713",75,0,2013,1,"N","Garfield County, Nebraska","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"713",75,0,2013,2,"N","Garfield County, Nebraska","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"713",75,0,2013,3,"N","Garfield County, Nebraska","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"7139",76,0,2013,1,"N","Garfield County, Nebraska","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"7139",76,0,2013,2,"N","Garfield County, Nebraska","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"7139",76,0,2013,3,"N","Garfield County, Nebraska","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"71391",77,0,2013,1,"N","Garfield County, Nebraska","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"71391",77,0,2013,2,"N","Garfield County, Nebraska","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"71391",77,0,2013,3,"N","Garfield County, Nebraska","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"713910",78,0,2013,1,"N","Garfield County, Nebraska","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"713910",78,0,2013,2,"N","Garfield County, Nebraska","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"713910",78,0,2013,3,"N","Garfield County, Nebraska","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"71399",77,0,2013,1,"N","Garfield County, Nebraska","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"71399",77,0,2013,2,"N","Garfield County, Nebraska","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"71399",77,0,2013,3,"N","Garfield County, Nebraska","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"713990",78,0,2013,1,"N","Garfield County, Nebraska","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"713990",78,0,2013,2,"N","Garfield County, Nebraska","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"713990",78,0,2013,3,"N","Garfield County, Nebraska","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"72",74,0,2013,1,"N","Garfield County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31071",5,"72",74,0,2013,2,"N","Garfield County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31071",5,"72",74,0,2013,3,"N","Garfield County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31071",5,"721",75,0,2013,1,"N","Garfield County, Nebraska","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"721",75,0,2013,2,"N","Garfield County, Nebraska","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"721",75,0,2013,3,"N","Garfield County, Nebraska","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"7211",76,0,2013,1,"N","Garfield County, Nebraska","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"7211",76,0,2013,2,"N","Garfield County, Nebraska","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"7211",76,0,2013,3,"N","Garfield County, Nebraska","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"72111",77,0,2013,1,"N","Garfield County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"72111",77,0,2013,2,"N","Garfield County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"72111",77,0,2013,3,"N","Garfield County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"721110",78,0,2013,1,"N","Garfield County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"721110",78,0,2013,2,"N","Garfield County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"721110",78,0,2013,3,"N","Garfield County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"722",75,0,2013,1,"","Garfield County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,53,51,54,79753,78660,1281,116
+"31071",5,"722",75,0,2013,2,"","Garfield County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,54,57,58,103927,85600,1371,142
+"31071",5,"722",75,0,2013,3,"","Garfield County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,64,64,57,116773,87539,1364,146
+"31071",5,"7224",76,0,2013,1,"N","Garfield County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"7224",76,0,2013,2,"N","Garfield County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"7224",76,0,2013,3,"N","Garfield County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"72241",77,0,2013,1,"N","Garfield County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"72241",77,0,2013,2,"N","Garfield County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"72241",77,0,2013,3,"N","Garfield County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"722410",78,0,2013,1,"N","Garfield County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"722410",78,0,2013,2,"N","Garfield County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"722410",78,0,2013,3,"N","Garfield County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"7225",76,0,2013,1,"N","Garfield County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",5,"7225",76,0,2013,2,"N","Garfield County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",5,"7225",76,0,2013,3,"N","Garfield County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",5,"72251",77,0,2013,1,"N","Garfield County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",5,"72251",77,0,2013,2,"N","Garfield County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",5,"72251",77,0,2013,3,"N","Garfield County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31071",5,"722511",78,0,2013,1,"","Garfield County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,18,17,17,29406,29406,572,131
+"31071",5,"722511",78,0,2013,2,"N","Garfield County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31071",5,"722511",78,0,2013,3,"","Garfield County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,25,25,22,41601,39244,716,133
+"31071",5,"722513",78,0,2013,1,"N","Garfield County, Nebraska","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"722513",78,0,2013,2,"N","Garfield County, Nebraska","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"722513",78,0,2013,3,"N","Garfield County, Nebraska","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"81",74,0,2013,1,"","Garfield County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",11,35,36,38,244665,225082,2239,518
+"31071",5,"81",74,0,2013,2,"","Garfield County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",11,36,39,38,263613,61696,577,538
+"31071",5,"81",74,0,2013,3,"","Garfield County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",11,35,33,33,307292,20754,130,702
+"31071",5,"811",75,0,2013,1,"","Garfield County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,27,27,28,203308,190593,2037,572
+"31071",5,"811",75,0,2013,2,"","Garfield County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,27,27,26,215825,43068,367,623
+"31071",5,"811",75,0,2013,3,"","Garfield County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,24,24,23,261327,10003,71,849
+"31071",5,"8111",76,0,2013,1,"","Garfield County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,10,10,10,71318,68577,603,549
+"31071",5,"8111",76,0,2013,2,"","Garfield County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,10,11,9,84446,17967,63,650
+"31071",5,"8111",76,0,2013,3,"","Garfield County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,9,10,88242,1591,7,727
+"31071",5,"81111",77,0,2013,1,"N","Garfield County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"81111",77,0,2013,2,"N","Garfield County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"81111",77,0,2013,3,"N","Garfield County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"811111",78,0,2013,1,"N","Garfield County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"811111",78,0,2013,2,"N","Garfield County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"811111",78,0,2013,3,"N","Garfield County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"81112",77,0,2013,1,"N","Garfield County, Nebraska","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81112",77,0,2013,2,"N","Garfield County, Nebraska","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81112",77,0,2013,3,"N","Garfield County, Nebraska","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"811121",78,0,2013,1,"N","Garfield County, Nebraska","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"811121",78,0,2013,2,"N","Garfield County, Nebraska","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"811121",78,0,2013,3,"N","Garfield County, Nebraska","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"8113",76,0,2013,1,"N","Garfield County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"8113",76,0,2013,2,"N","Garfield County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"8113",76,0,2013,3,"N","Garfield County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"81131",77,0,2013,1,"N","Garfield County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"81131",77,0,2013,2,"N","Garfield County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"81131",77,0,2013,3,"N","Garfield County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"811310",78,0,2013,1,"N","Garfield County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"811310",78,0,2013,2,"N","Garfield County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"811310",78,0,2013,3,"N","Garfield County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"8114",76,0,2013,1,"N","Garfield County, Nebraska","Private","Household goods repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"8114",76,0,2013,2,"N","Garfield County, Nebraska","Private","Household goods repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"8114",76,0,2013,3,"N","Garfield County, Nebraska","Private","Household goods repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81149",77,0,2013,1,"N","Garfield County, Nebraska","Private","Other household goods repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81149",77,0,2013,2,"N","Garfield County, Nebraska","Private","Other household goods repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81149",77,0,2013,3,"N","Garfield County, Nebraska","Private","Other household goods repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"811490",78,0,2013,1,"N","Garfield County, Nebraska","Private","Other household goods repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"811490",78,0,2013,2,"N","Garfield County, Nebraska","Private","Other household goods repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"811490",78,0,2013,3,"N","Garfield County, Nebraska","Private","Other household goods repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"812",75,0,2013,1,"N","Garfield County, Nebraska","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"812",75,0,2013,2,"N","Garfield County, Nebraska","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"812",75,0,2013,3,"N","Garfield County, Nebraska","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"8121",76,0,2013,1,"N","Garfield County, Nebraska","Private","Personal care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"8121",76,0,2013,2,"N","Garfield County, Nebraska","Private","Personal care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"8121",76,0,2013,3,"N","Garfield County, Nebraska","Private","Personal care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81211",77,0,2013,1,"N","Garfield County, Nebraska","Private","Hair, nail, and skin care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81211",77,0,2013,2,"N","Garfield County, Nebraska","Private","Hair, nail, and skin care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81211",77,0,2013,3,"N","Garfield County, Nebraska","Private","Hair, nail, and skin care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"812112",78,0,2013,1,"N","Garfield County, Nebraska","Private","Beauty salons","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"812112",78,0,2013,2,"N","Garfield County, Nebraska","Private","Beauty salons","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"812112",78,0,2013,3,"N","Garfield County, Nebraska","Private","Beauty salons","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"8122",76,0,2013,1,"N","Garfield County, Nebraska","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"8122",76,0,2013,2,"N","Garfield County, Nebraska","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"8122",76,0,2013,3,"N","Garfield County, Nebraska","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81221",77,0,2013,1,"N","Garfield County, Nebraska","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81221",77,0,2013,2,"N","Garfield County, Nebraska","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81221",77,0,2013,3,"N","Garfield County, Nebraska","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"812210",78,0,2013,1,"N","Garfield County, Nebraska","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"812210",78,0,2013,2,"N","Garfield County, Nebraska","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"812210",78,0,2013,3,"N","Garfield County, Nebraska","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"813",75,0,2013,1,"N","Garfield County, Nebraska","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"813",75,0,2013,2,"N","Garfield County, Nebraska","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"813",75,0,2013,3,"N","Garfield County, Nebraska","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31071",5,"8133",76,0,2013,1,"N","Garfield County, Nebraska","Private","Social advocacy organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"8133",76,0,2013,2,"N","Garfield County, Nebraska","Private","Social advocacy organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"8133",76,0,2013,3,"N","Garfield County, Nebraska","Private","Social advocacy organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81331",77,0,2013,1,"N","Garfield County, Nebraska","Private","Social advocacy organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81331",77,0,2013,2,"N","Garfield County, Nebraska","Private","Social advocacy organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81331",77,0,2013,3,"N","Garfield County, Nebraska","Private","Social advocacy organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"813319",78,0,2013,1,"N","Garfield County, Nebraska","Private","Other social advocacy organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"813319",78,0,2013,2,"N","Garfield County, Nebraska","Private","Other social advocacy organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"813319",78,0,2013,3,"N","Garfield County, Nebraska","Private","Other social advocacy organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"8134",76,0,2013,1,"N","Garfield County, Nebraska","Private","Civic and social organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"8134",76,0,2013,2,"N","Garfield County, Nebraska","Private","Civic and social organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"8134",76,0,2013,3,"N","Garfield County, Nebraska","Private","Civic and social organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81341",77,0,2013,1,"N","Garfield County, Nebraska","Private","Civic and social organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81341",77,0,2013,2,"N","Garfield County, Nebraska","Private","Civic and social organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81341",77,0,2013,3,"N","Garfield County, Nebraska","Private","Civic and social organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"813410",78,0,2013,1,"N","Garfield County, Nebraska","Private","Civic and social organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"813410",78,0,2013,2,"N","Garfield County, Nebraska","Private","Civic and social organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"813410",78,0,2013,3,"N","Garfield County, Nebraska","Private","Civic and social organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"814",75,0,2013,1,"N","Garfield County, Nebraska","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"814",75,0,2013,2,"N","Garfield County, Nebraska","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"814",75,0,2013,3,"N","Garfield County, Nebraska","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"8141",76,0,2013,1,"N","Garfield County, Nebraska","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"8141",76,0,2013,2,"N","Garfield County, Nebraska","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"8141",76,0,2013,3,"N","Garfield County, Nebraska","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81411",77,0,2013,1,"N","Garfield County, Nebraska","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81411",77,0,2013,2,"N","Garfield County, Nebraska","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"81411",77,0,2013,3,"N","Garfield County, Nebraska","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"814110",78,0,2013,1,"N","Garfield County, Nebraska","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"814110",78,0,2013,2,"N","Garfield County, Nebraska","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31071",5,"814110",78,0,2013,3,"N","Garfield County, Nebraska","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

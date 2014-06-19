@@ -1,0 +1,956 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"47087",0,"10",70,0,2013,1,"","Jackson County, Tennessee","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",108,1404,1390,1419,10622212,6300299,264912,582
+"47087",0,"10",70,0,2013,2,"","Jackson County, Tennessee","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",109,1462,1465,1336,11631903,2272609,85924,630
+"47087",0,"10",70,0,2013,3,"","Jackson County, Tennessee","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",108,1304,1457,1448,9824756,1021496,22897,539
+"47087",1,"10",71,0,2013,1,"","Jackson County, Tennessee","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,23,23,28,246145,0,0,768
+"47087",1,"10",71,0,2013,2,"","Jackson County, Tennessee","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,23,24,30,240536,0,0,721
+"47087",1,"10",71,0,2013,3,"","Jackson County, Tennessee","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,24,30,23,265501,0,0,796
+"47087",1,"102",72,0,2013,1,"","Jackson County, Tennessee","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,23,23,28,246145,0,0,768
+"47087",1,"102",72,0,2013,2,"","Jackson County, Tennessee","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,23,24,30,240536,0,0,721
+"47087",1,"102",72,0,2013,3,"","Jackson County, Tennessee","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,24,30,23,265501,0,0,796
+"47087",1,"1021",73,0,2013,1,"","Jackson County, Tennessee","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,17,17,16,171088,0,0,790
+"47087",1,"1021",73,0,2013,2,"","Jackson County, Tennessee","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,17,18,18,151047,0,0,658
+"47087",1,"1021",73,0,2013,3,"","Jackson County, Tennessee","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,18,18,17,176065,0,0,767
+"47087",1,"1028",73,0,2013,1,"","Jackson County, Tennessee","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,6,6,12,75057,0,0,722
+"47087",1,"1028",73,0,2013,2,"","Jackson County, Tennessee","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,6,6,12,89489,0,0,860
+"47087",1,"1028",73,0,2013,3,"","Jackson County, Tennessee","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,6,12,6,89436,0,0,860
+"47087",1,"48-49",74,0,2013,1,"","Jackson County, Tennessee","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,17,17,16,171088,0,0,790
+"47087",1,"48-49",74,0,2013,2,"","Jackson County, Tennessee","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,17,18,18,151047,0,0,658
+"47087",1,"48-49",74,0,2013,3,"","Jackson County, Tennessee","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,18,18,17,176065,0,0,767
+"47087",1,"491",75,0,2013,1,"","Jackson County, Tennessee","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,17,17,16,171088,0,0,790
+"47087",1,"491",75,0,2013,2,"","Jackson County, Tennessee","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,17,18,18,151047,0,0,658
+"47087",1,"491",75,0,2013,3,"","Jackson County, Tennessee","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,18,18,17,176065,0,0,767
+"47087",1,"4911",76,0,2013,1,"","Jackson County, Tennessee","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,17,17,16,171088,0,0,790
+"47087",1,"4911",76,0,2013,2,"","Jackson County, Tennessee","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,17,18,18,151047,0,0,658
+"47087",1,"4911",76,0,2013,3,"","Jackson County, Tennessee","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,18,18,17,176065,0,0,767
+"47087",1,"49111",77,0,2013,1,"","Jackson County, Tennessee","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,17,17,16,171088,0,0,790
+"47087",1,"49111",77,0,2013,2,"","Jackson County, Tennessee","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,17,18,18,151047,0,0,658
+"47087",1,"49111",77,0,2013,3,"","Jackson County, Tennessee","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,18,18,17,176065,0,0,767
+"47087",1,"491110",78,0,2013,1,"","Jackson County, Tennessee","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,17,17,16,171088,0,0,790
+"47087",1,"491110",78,0,2013,2,"","Jackson County, Tennessee","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,17,18,18,151047,0,0,658
+"47087",1,"491110",78,0,2013,3,"","Jackson County, Tennessee","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,18,18,17,176065,0,0,767
+"47087",1,"92",74,0,2013,1,"","Jackson County, Tennessee","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,6,12,75057,0,0,722
+"47087",1,"92",74,0,2013,2,"","Jackson County, Tennessee","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,6,12,89489,0,0,860
+"47087",1,"92",74,0,2013,3,"","Jackson County, Tennessee","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,12,6,89436,0,0,860
+"47087",1,"924",75,0,2013,1,"","Jackson County, Tennessee","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,6,6,12,75057,0,0,722
+"47087",1,"924",75,0,2013,2,"","Jackson County, Tennessee","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,6,6,12,89489,0,0,860
+"47087",1,"924",75,0,2013,3,"","Jackson County, Tennessee","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,6,12,6,89436,0,0,860
+"47087",1,"9241",76,0,2013,1,"","Jackson County, Tennessee","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,6,6,12,75057,0,0,722
+"47087",1,"9241",76,0,2013,2,"","Jackson County, Tennessee","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,6,6,12,89489,0,0,860
+"47087",1,"9241",76,0,2013,3,"","Jackson County, Tennessee","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,6,12,6,89436,0,0,860
+"47087",1,"92412",77,0,2013,1,"","Jackson County, Tennessee","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,6,6,12,75057,0,0,722
+"47087",1,"92412",77,0,2013,2,"","Jackson County, Tennessee","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,6,6,12,89489,0,0,860
+"47087",1,"92412",77,0,2013,3,"","Jackson County, Tennessee","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,6,12,6,89436,0,0,860
+"47087",1,"924120",78,0,2013,1,"","Jackson County, Tennessee","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,6,6,12,75057,0,0,722
+"47087",1,"924120",78,0,2013,2,"","Jackson County, Tennessee","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,6,6,12,89489,0,0,860
+"47087",1,"924120",78,0,2013,3,"","Jackson County, Tennessee","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,6,12,6,89436,0,0,860
+"47087",1,"928",75,0,2013,1,"","Jackson County, Tennessee","Federal Government","National security and international affairs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",1,"928",75,0,2013,2,"","Jackson County, Tennessee","Federal Government","National security and international affairs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",1,"928",75,0,2013,3,"","Jackson County, Tennessee","Federal Government","National security and international affairs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",1,"9281",76,0,2013,1,"","Jackson County, Tennessee","Federal Government","National security and international affairs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",1,"9281",76,0,2013,2,"","Jackson County, Tennessee","Federal Government","National security and international affairs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",1,"9281",76,0,2013,3,"","Jackson County, Tennessee","Federal Government","National security and international affairs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",1,"92811",77,0,2013,1,"","Jackson County, Tennessee","Federal Government","National security","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",1,"92811",77,0,2013,2,"","Jackson County, Tennessee","Federal Government","National security","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",1,"92811",77,0,2013,3,"","Jackson County, Tennessee","Federal Government","National security","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",1,"928110",78,0,2013,1,"","Jackson County, Tennessee","Federal Government","National security","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",1,"928110",78,0,2013,2,"","Jackson County, Tennessee","Federal Government","National security","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",1,"928110",78,0,2013,3,"","Jackson County, Tennessee","Federal Government","National security","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"10",71,0,2013,1,"N","Jackson County, Tennessee","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",2,"10",71,0,2013,2,"N","Jackson County, Tennessee","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",2,"10",71,0,2013,3,"N","Jackson County, Tennessee","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",2,"101",72,0,2013,1,"N","Jackson County, Tennessee","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"101",72,0,2013,2,"N","Jackson County, Tennessee","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"101",72,0,2013,3,"N","Jackson County, Tennessee","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"1012",73,0,2013,1,"N","Jackson County, Tennessee","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"1012",73,0,2013,2,"N","Jackson County, Tennessee","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"1012",73,0,2013,3,"N","Jackson County, Tennessee","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"102",72,0,2013,1,"N","Jackson County, Tennessee","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"102",72,0,2013,2,"N","Jackson County, Tennessee","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"102",72,0,2013,3,"N","Jackson County, Tennessee","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"1028",73,0,2013,1,"N","Jackson County, Tennessee","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"1028",73,0,2013,2,"N","Jackson County, Tennessee","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"1028",73,0,2013,3,"N","Jackson County, Tennessee","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"23",74,0,2013,1,"N","Jackson County, Tennessee","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"23",74,0,2013,2,"N","Jackson County, Tennessee","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"23",74,0,2013,3,"N","Jackson County, Tennessee","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"237",75,0,2013,1,"N","Jackson County, Tennessee","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"237",75,0,2013,2,"N","Jackson County, Tennessee","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"237",75,0,2013,3,"N","Jackson County, Tennessee","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"2373",76,0,2013,1,"N","Jackson County, Tennessee","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"2373",76,0,2013,2,"N","Jackson County, Tennessee","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"2373",76,0,2013,3,"N","Jackson County, Tennessee","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"23731",77,0,2013,1,"N","Jackson County, Tennessee","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"23731",77,0,2013,2,"N","Jackson County, Tennessee","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"23731",77,0,2013,3,"N","Jackson County, Tennessee","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"237310",78,0,2013,1,"N","Jackson County, Tennessee","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"237310",78,0,2013,2,"N","Jackson County, Tennessee","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"237310",78,0,2013,3,"N","Jackson County, Tennessee","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"92",74,0,2013,1,"N","Jackson County, Tennessee","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"92",74,0,2013,2,"N","Jackson County, Tennessee","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"92",74,0,2013,3,"N","Jackson County, Tennessee","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"922",75,0,2013,1,"N","Jackson County, Tennessee","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"922",75,0,2013,2,"N","Jackson County, Tennessee","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"922",75,0,2013,3,"N","Jackson County, Tennessee","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"9221",76,0,2013,1,"N","Jackson County, Tennessee","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"9221",76,0,2013,2,"N","Jackson County, Tennessee","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"9221",76,0,2013,3,"N","Jackson County, Tennessee","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"92212",77,0,2013,1,"N","Jackson County, Tennessee","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"92212",77,0,2013,2,"N","Jackson County, Tennessee","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"92212",77,0,2013,3,"N","Jackson County, Tennessee","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"922120",78,0,2013,1,"N","Jackson County, Tennessee","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"922120",78,0,2013,2,"N","Jackson County, Tennessee","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",2,"922120",78,0,2013,3,"N","Jackson County, Tennessee","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"10",71,0,2013,1,"N","Jackson County, Tennessee","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"47087",3,"10",71,0,2013,2,"N","Jackson County, Tennessee","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"47087",3,"10",71,0,2013,3,"N","Jackson County, Tennessee","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"47087",3,"101",72,0,2013,1,"N","Jackson County, Tennessee","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"101",72,0,2013,2,"N","Jackson County, Tennessee","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"101",72,0,2013,3,"N","Jackson County, Tennessee","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"1012",73,0,2013,1,"N","Jackson County, Tennessee","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"1012",73,0,2013,2,"N","Jackson County, Tennessee","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"1012",73,0,2013,3,"N","Jackson County, Tennessee","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"102",72,0,2013,1,"","Jackson County, Tennessee","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,461,459,459,2896711,800626,19248,485
+"47087",3,"102",72,0,2013,2,"","Jackson County, Tennessee","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,462,468,335,3879880,315688,7565,708
+"47087",3,"102",72,0,2013,3,"","Jackson County, Tennessee","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,304,450,457,1651586,115511,2546,315
+"47087",3,"1021",73,0,2013,1,"N","Jackson County, Tennessee","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"1021",73,0,2013,2,"N","Jackson County, Tennessee","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"1021",73,0,2013,3,"N","Jackson County, Tennessee","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"1025",73,0,2013,1,"N","Jackson County, Tennessee","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",3,"1025",73,0,2013,2,"N","Jackson County, Tennessee","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",3,"1025",73,0,2013,3,"N","Jackson County, Tennessee","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",3,"1028",73,0,2013,1,"","Jackson County, Tennessee","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,145,144,144,753672,735272,17856,402
+"47087",3,"1028",73,0,2013,2,"","Jackson County, Tennessee","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,146,148,147,751204,294983,7089,393
+"47087",3,"1028",73,0,2013,3,"","Jackson County, Tennessee","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,142,143,144,735130,107733,2414,395
+"47087",3,"22",74,0,2013,1,"N","Jackson County, Tennessee","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"22",74,0,2013,2,"N","Jackson County, Tennessee","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"22",74,0,2013,3,"N","Jackson County, Tennessee","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"221",75,0,2013,1,"N","Jackson County, Tennessee","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"221",75,0,2013,2,"N","Jackson County, Tennessee","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"221",75,0,2013,3,"N","Jackson County, Tennessee","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"2213",76,0,2013,1,"N","Jackson County, Tennessee","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"2213",76,0,2013,2,"N","Jackson County, Tennessee","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"2213",76,0,2013,3,"N","Jackson County, Tennessee","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"22131",77,0,2013,1,"N","Jackson County, Tennessee","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"22131",77,0,2013,2,"N","Jackson County, Tennessee","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"22131",77,0,2013,3,"N","Jackson County, Tennessee","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"221310",78,0,2013,1,"N","Jackson County, Tennessee","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"221310",78,0,2013,2,"N","Jackson County, Tennessee","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"221310",78,0,2013,3,"N","Jackson County, Tennessee","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"23",74,0,2013,1,"N","Jackson County, Tennessee","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"23",74,0,2013,2,"N","Jackson County, Tennessee","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"23",74,0,2013,3,"N","Jackson County, Tennessee","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"238",75,0,2013,1,"N","Jackson County, Tennessee","Local Government","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"238",75,0,2013,2,"N","Jackson County, Tennessee","Local Government","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"238",75,0,2013,3,"N","Jackson County, Tennessee","Local Government","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"2389",76,0,2013,1,"N","Jackson County, Tennessee","Local Government","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"2389",76,0,2013,2,"N","Jackson County, Tennessee","Local Government","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"2389",76,0,2013,3,"N","Jackson County, Tennessee","Local Government","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"23891",77,0,2013,1,"N","Jackson County, Tennessee","Local Government","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"23891",77,0,2013,2,"N","Jackson County, Tennessee","Local Government","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"23891",77,0,2013,3,"N","Jackson County, Tennessee","Local Government","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"238912",78,0,2013,1,"N","Jackson County, Tennessee","Local Government","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"238912",78,0,2013,2,"N","Jackson County, Tennessee","Local Government","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"238912",78,0,2013,3,"N","Jackson County, Tennessee","Local Government","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"61",74,0,2013,1,"N","Jackson County, Tennessee","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"61",74,0,2013,2,"N","Jackson County, Tennessee","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"61",74,0,2013,3,"N","Jackson County, Tennessee","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"611",75,0,2013,1,"N","Jackson County, Tennessee","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"611",75,0,2013,2,"N","Jackson County, Tennessee","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"611",75,0,2013,3,"N","Jackson County, Tennessee","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"6111",76,0,2013,1,"N","Jackson County, Tennessee","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"6111",76,0,2013,2,"N","Jackson County, Tennessee","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"6111",76,0,2013,3,"N","Jackson County, Tennessee","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"61111",77,0,2013,1,"N","Jackson County, Tennessee","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"61111",77,0,2013,2,"N","Jackson County, Tennessee","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"61111",77,0,2013,3,"N","Jackson County, Tennessee","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"611110",78,0,2013,1,"N","Jackson County, Tennessee","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"611110",78,0,2013,2,"N","Jackson County, Tennessee","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"611110",78,0,2013,3,"N","Jackson County, Tennessee","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"62",74,0,2013,1,"N","Jackson County, Tennessee","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"62",74,0,2013,2,"N","Jackson County, Tennessee","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"62",74,0,2013,3,"N","Jackson County, Tennessee","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"624",75,0,2013,1,"N","Jackson County, Tennessee","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"624",75,0,2013,2,"N","Jackson County, Tennessee","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"624",75,0,2013,3,"N","Jackson County, Tennessee","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"6244",76,0,2013,1,"N","Jackson County, Tennessee","Local Government","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"6244",76,0,2013,2,"N","Jackson County, Tennessee","Local Government","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"6244",76,0,2013,3,"N","Jackson County, Tennessee","Local Government","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"62441",77,0,2013,1,"N","Jackson County, Tennessee","Local Government","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"62441",77,0,2013,2,"N","Jackson County, Tennessee","Local Government","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"62441",77,0,2013,3,"N","Jackson County, Tennessee","Local Government","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"624410",78,0,2013,1,"N","Jackson County, Tennessee","Local Government","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"624410",78,0,2013,2,"N","Jackson County, Tennessee","Local Government","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"624410",78,0,2013,3,"N","Jackson County, Tennessee","Local Government","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"92",74,0,2013,1,"","Jackson County, Tennessee","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,145,144,144,753672,735272,17856,402
+"47087",3,"92",74,0,2013,2,"","Jackson County, Tennessee","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,146,148,147,751204,294983,7089,393
+"47087",3,"92",74,0,2013,3,"","Jackson County, Tennessee","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,142,143,144,735130,107733,2414,395
+"47087",3,"921",75,0,2013,1,"N","Jackson County, Tennessee","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",3,"921",75,0,2013,2,"N","Jackson County, Tennessee","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",3,"921",75,0,2013,3,"N","Jackson County, Tennessee","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",3,"9211",76,0,2013,1,"N","Jackson County, Tennessee","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",3,"9211",76,0,2013,2,"N","Jackson County, Tennessee","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",3,"9211",76,0,2013,3,"N","Jackson County, Tennessee","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",3,"92114",77,0,2013,1,"N","Jackson County, Tennessee","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",3,"92114",77,0,2013,2,"N","Jackson County, Tennessee","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",3,"92114",77,0,2013,3,"N","Jackson County, Tennessee","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",3,"921140",78,0,2013,1,"N","Jackson County, Tennessee","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",3,"921140",78,0,2013,2,"N","Jackson County, Tennessee","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",3,"921140",78,0,2013,3,"N","Jackson County, Tennessee","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",3,"922",75,0,2013,1,"N","Jackson County, Tennessee","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"922",75,0,2013,2,"N","Jackson County, Tennessee","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"922",75,0,2013,3,"N","Jackson County, Tennessee","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"9221",76,0,2013,1,"N","Jackson County, Tennessee","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"9221",76,0,2013,2,"N","Jackson County, Tennessee","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"9221",76,0,2013,3,"N","Jackson County, Tennessee","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"92219",77,0,2013,1,"N","Jackson County, Tennessee","Local Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"92219",77,0,2013,2,"N","Jackson County, Tennessee","Local Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"92219",77,0,2013,3,"N","Jackson County, Tennessee","Local Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"922190",78,0,2013,1,"N","Jackson County, Tennessee","Local Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"922190",78,0,2013,2,"N","Jackson County, Tennessee","Local Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",3,"922190",78,0,2013,3,"N","Jackson County, Tennessee","Local Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"10",71,0,2013,1,"","Jackson County, Tennessee","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",93,893,881,904,7230200,5404379,242805,623
+"47087",5,"10",71,0,2013,2,"","Jackson County, Tennessee","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",94,948,932,927,7207252,1866503,75646,593
+"47087",5,"10",71,0,2013,3,"","Jackson County, Tennessee","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",93,933,937,923,7578258,842016,18432,626
+"47087",5,"101",72,0,2013,1,"","Jackson County, Tennessee","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",17,284,275,274,2379365,1962639,172285,659
+"47087",5,"101",72,0,2013,2,"","Jackson County, Tennessee","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",17,288,287,283,2402032,541665,44877,646
+"47087",5,"101",72,0,2013,3,"","Jackson County, Tennessee","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",17,295,295,293,2424325,134688,9558,634
+"47087",5,"1012",73,0,2013,1,"","Jackson County, Tennessee","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",12,63,59,57,354109,333291,27896,457
+"47087",5,"1012",73,0,2013,2,"","Jackson County, Tennessee","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",12,72,72,70,456747,214079,18423,493
+"47087",5,"1012",73,0,2013,3,"","Jackson County, Tennessee","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",12,82,84,83,448598,87210,7203,416
+"47087",5,"1013",73,0,2013,1,"","Jackson County, Tennessee","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",5,221,216,217,2025256,1629348,144389,715
+"47087",5,"1013",73,0,2013,2,"","Jackson County, Tennessee","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",5,216,215,213,1945285,327586,26454,697
+"47087",5,"1013",73,0,2013,3,"","Jackson County, Tennessee","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",5,213,211,210,1975727,47478,2355,719
+"47087",5,"102",72,0,2013,1,"","Jackson County, Tennessee","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",76,609,606,630,4850835,3441740,70520,607
+"47087",5,"102",72,0,2013,2,"","Jackson County, Tennessee","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",77,660,645,644,4805220,1324838,30769,569
+"47087",5,"102",72,0,2013,3,"","Jackson County, Tennessee","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",76,638,642,630,5153933,707328,8874,623
+"47087",5,"1021",73,0,2013,1,"","Jackson County, Tennessee","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",35,206,212,211,1376746,1065386,24252,505
+"47087",5,"1021",73,0,2013,2,"","Jackson County, Tennessee","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",35,233,235,235,1452272,488258,12771,477
+"47087",5,"1021",73,0,2013,3,"","Jackson County, Tennessee","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",35,234,231,232,1466000,262446,2996,485
+"47087",5,"1022",73,0,2013,1,"N","Jackson County, Tennessee","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"1022",73,0,2013,2,"N","Jackson County, Tennessee","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"1022",73,0,2013,3,"N","Jackson County, Tennessee","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"1023",73,0,2013,1,"","Jackson County, Tennessee","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",8,42,41,42,325240,258215,6123,600
+"47087",5,"1023",73,0,2013,2,"","Jackson County, Tennessee","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",8,41,39,40,317117,68339,1691,610
+"47087",5,"1023",73,0,2013,3,"","Jackson County, Tennessee","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",8,40,40,37,335467,10957,78,662
+"47087",5,"1024",73,0,2013,1,"","Jackson County, Tennessee","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",10,55,55,51,234682,220363,13511,336
+"47087",5,"1024",73,0,2013,2,"","Jackson County, Tennessee","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",12,54,30,31,255949,136636,5668,514
+"47087",5,"1024",73,0,2013,3,"","Jackson County, Tennessee","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",12,31,32,32,275548,68420,1385,669
+"47087",5,"1025",73,0,2013,1,"","Jackson County, Tennessee","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",7,121,121,120,720812,610610,8811,460
+"47087",5,"1025",73,0,2013,2,"","Jackson County, Tennessee","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",7,121,121,122,751547,331265,4427,476
+"47087",5,"1025",73,0,2013,3,"","Jackson County, Tennessee","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",7,123,118,115,742119,136132,636,481
+"47087",5,"1026",73,0,2013,1,"","Jackson County, Tennessee","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",8,48,44,74,184521,164984,2822,257
+"47087",5,"1026",73,0,2013,2,"","Jackson County, Tennessee","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",7,78,88,85,321015,240535,5158,295
+"47087",5,"1026",73,0,2013,3,"","Jackson County, Tennessee","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",7,80,90,86,327097,201749,3663,295
+"47087",5,"1027",73,0,2013,1,"N","Jackson County, Tennessee","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"1027",73,0,2013,2,"N","Jackson County, Tennessee","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"1027",73,0,2013,3,"N","Jackson County, Tennessee","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"47087",5,"22",74,0,2013,1,"N","Jackson County, Tennessee","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"22",74,0,2013,2,"N","Jackson County, Tennessee","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"22",74,0,2013,3,"N","Jackson County, Tennessee","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"221",75,0,2013,1,"N","Jackson County, Tennessee","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"221",75,0,2013,2,"N","Jackson County, Tennessee","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"221",75,0,2013,3,"N","Jackson County, Tennessee","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"2211",76,0,2013,1,"N","Jackson County, Tennessee","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"2211",76,0,2013,2,"N","Jackson County, Tennessee","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"2211",76,0,2013,3,"N","Jackson County, Tennessee","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"22112",77,0,2013,1,"N","Jackson County, Tennessee","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"22112",77,0,2013,2,"N","Jackson County, Tennessee","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"22112",77,0,2013,3,"N","Jackson County, Tennessee","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"221122",78,0,2013,1,"N","Jackson County, Tennessee","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"221122",78,0,2013,2,"N","Jackson County, Tennessee","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"221122",78,0,2013,3,"N","Jackson County, Tennessee","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"23",74,0,2013,1,"","Jackson County, Tennessee","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",12,63,59,57,354109,333291,27896,457
+"47087",5,"23",74,0,2013,2,"","Jackson County, Tennessee","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",12,72,72,70,456747,214079,18423,493
+"47087",5,"23",74,0,2013,3,"","Jackson County, Tennessee","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",12,82,84,83,448598,87210,7203,416
+"47087",5,"237",75,0,2013,1,"N","Jackson County, Tennessee","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"237",75,0,2013,2,"N","Jackson County, Tennessee","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"237",75,0,2013,3,"N","Jackson County, Tennessee","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"2371",76,0,2013,1,"N","Jackson County, Tennessee","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"2371",76,0,2013,2,"N","Jackson County, Tennessee","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"2371",76,0,2013,3,"N","Jackson County, Tennessee","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"23711",77,0,2013,1,"N","Jackson County, Tennessee","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"23711",77,0,2013,2,"N","Jackson County, Tennessee","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"23711",77,0,2013,3,"N","Jackson County, Tennessee","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"237110",78,0,2013,1,"N","Jackson County, Tennessee","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"237110",78,0,2013,2,"N","Jackson County, Tennessee","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"237110",78,0,2013,3,"N","Jackson County, Tennessee","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"2373",76,0,2013,1,"N","Jackson County, Tennessee","Private","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"2373",76,0,2013,2,"N","Jackson County, Tennessee","Private","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"2373",76,0,2013,3,"N","Jackson County, Tennessee","Private","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"23731",77,0,2013,1,"N","Jackson County, Tennessee","Private","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"23731",77,0,2013,2,"N","Jackson County, Tennessee","Private","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"23731",77,0,2013,3,"N","Jackson County, Tennessee","Private","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"237310",78,0,2013,1,"N","Jackson County, Tennessee","Private","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"237310",78,0,2013,2,"N","Jackson County, Tennessee","Private","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"237310",78,0,2013,3,"N","Jackson County, Tennessee","Private","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"238",75,0,2013,1,"N","Jackson County, Tennessee","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"47087",5,"238",75,0,2013,2,"N","Jackson County, Tennessee","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"47087",5,"238",75,0,2013,3,"N","Jackson County, Tennessee","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"47087",5,"2381",76,0,2013,1,"N","Jackson County, Tennessee","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"2381",76,0,2013,2,"N","Jackson County, Tennessee","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"2381",76,0,2013,3,"N","Jackson County, Tennessee","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"23814",77,0,2013,1,"N","Jackson County, Tennessee","Private","Masonry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"23814",77,0,2013,2,"N","Jackson County, Tennessee","Private","Masonry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"23814",77,0,2013,3,"N","Jackson County, Tennessee","Private","Masonry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"238141",78,0,2013,1,"N","Jackson County, Tennessee","Private","Residential masonry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"238141",78,0,2013,2,"N","Jackson County, Tennessee","Private","Residential masonry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"238141",78,0,2013,3,"N","Jackson County, Tennessee","Private","Residential masonry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"2382",76,0,2013,1,"","Jackson County, Tennessee","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,13,13,14,99064,87520,6301,572
+"47087",5,"2382",76,0,2013,2,"","Jackson County, Tennessee","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,14,12,13,114757,35451,2415,679
+"47087",5,"2382",76,0,2013,3,"","Jackson County, Tennessee","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,13,14,12,103300,2617,8,611
+"47087",5,"23821",77,0,2013,1,"N","Jackson County, Tennessee","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"23821",77,0,2013,2,"N","Jackson County, Tennessee","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"23821",77,0,2013,3,"N","Jackson County, Tennessee","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"238211",78,0,2013,1,"N","Jackson County, Tennessee","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"238211",78,0,2013,2,"N","Jackson County, Tennessee","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"238211",78,0,2013,3,"N","Jackson County, Tennessee","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"238212",78,0,2013,1,"N","Jackson County, Tennessee","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"238212",78,0,2013,2,"N","Jackson County, Tennessee","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"238212",78,0,2013,3,"N","Jackson County, Tennessee","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"23822",77,0,2013,1,"N","Jackson County, Tennessee","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"23822",77,0,2013,2,"N","Jackson County, Tennessee","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"23822",77,0,2013,3,"N","Jackson County, Tennessee","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"238221",78,0,2013,1,"N","Jackson County, Tennessee","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"238221",78,0,2013,2,"N","Jackson County, Tennessee","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"238221",78,0,2013,3,"N","Jackson County, Tennessee","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"2383",76,0,2013,1,"N","Jackson County, Tennessee","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"2383",76,0,2013,2,"N","Jackson County, Tennessee","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"2383",76,0,2013,3,"N","Jackson County, Tennessee","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"23833",77,0,2013,1,"N","Jackson County, Tennessee","Private","Flooring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"23833",77,0,2013,2,"N","Jackson County, Tennessee","Private","Flooring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"23833",77,0,2013,3,"N","Jackson County, Tennessee","Private","Flooring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"238331",78,0,2013,1,"N","Jackson County, Tennessee","Private","Residential flooring contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"238331",78,0,2013,2,"N","Jackson County, Tennessee","Private","Residential flooring contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"238331",78,0,2013,3,"N","Jackson County, Tennessee","Private","Residential flooring contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"23835",77,0,2013,1,"N","Jackson County, Tennessee","Private","Finish carpentry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"23835",77,0,2013,2,"N","Jackson County, Tennessee","Private","Finish carpentry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"23835",77,0,2013,3,"N","Jackson County, Tennessee","Private","Finish carpentry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"238351",78,0,2013,1,"N","Jackson County, Tennessee","Private","Residential finish carpentry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"238351",78,0,2013,2,"N","Jackson County, Tennessee","Private","Residential finish carpentry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"238351",78,0,2013,3,"N","Jackson County, Tennessee","Private","Residential finish carpentry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"2389",76,0,2013,1,"N","Jackson County, Tennessee","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"2389",76,0,2013,2,"N","Jackson County, Tennessee","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"2389",76,0,2013,3,"N","Jackson County, Tennessee","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"23891",77,0,2013,1,"N","Jackson County, Tennessee","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"23891",77,0,2013,2,"N","Jackson County, Tennessee","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"23891",77,0,2013,3,"N","Jackson County, Tennessee","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"238911",78,0,2013,1,"N","Jackson County, Tennessee","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"238911",78,0,2013,2,"N","Jackson County, Tennessee","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"238911",78,0,2013,3,"N","Jackson County, Tennessee","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"31-33",74,0,2013,1,"","Jackson County, Tennessee","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,221,216,217,2025256,1629348,144389,715
+"47087",5,"31-33",74,0,2013,2,"","Jackson County, Tennessee","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,216,215,213,1945285,327586,26454,697
+"47087",5,"31-33",74,0,2013,3,"","Jackson County, Tennessee","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,213,211,210,1975727,47478,2355,719
+"47087",5,"321",75,0,2013,1,"N","Jackson County, Tennessee","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"321",75,0,2013,2,"N","Jackson County, Tennessee","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"321",75,0,2013,3,"N","Jackson County, Tennessee","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"3219",76,0,2013,1,"N","Jackson County, Tennessee","Private","Other wood product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"3219",76,0,2013,2,"N","Jackson County, Tennessee","Private","Other wood product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"3219",76,0,2013,3,"N","Jackson County, Tennessee","Private","Other wood product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"32199",77,0,2013,1,"N","Jackson County, Tennessee","Private","All other wood product manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"32199",77,0,2013,2,"N","Jackson County, Tennessee","Private","All other wood product manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"32199",77,0,2013,3,"N","Jackson County, Tennessee","Private","All other wood product manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"321999",78,0,2013,1,"N","Jackson County, Tennessee","Private","All other miscellaneous wood product mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"321999",78,0,2013,2,"N","Jackson County, Tennessee","Private","All other miscellaneous wood product mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"321999",78,0,2013,3,"N","Jackson County, Tennessee","Private","All other miscellaneous wood product mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"326",75,0,2013,1,"N","Jackson County, Tennessee","Private","Plastics and rubber products manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"326",75,0,2013,2,"N","Jackson County, Tennessee","Private","Plastics and rubber products manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"326",75,0,2013,3,"N","Jackson County, Tennessee","Private","Plastics and rubber products manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"3261",76,0,2013,1,"N","Jackson County, Tennessee","Private","Plastics product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"3261",76,0,2013,2,"N","Jackson County, Tennessee","Private","Plastics product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"3261",76,0,2013,3,"N","Jackson County, Tennessee","Private","Plastics product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"32611",77,0,2013,1,"N","Jackson County, Tennessee","Private","Plastics packaging materials, film and sheet","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"32611",77,0,2013,2,"N","Jackson County, Tennessee","Private","Plastics packaging materials, film and sheet","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"32611",77,0,2013,3,"N","Jackson County, Tennessee","Private","Plastics packaging materials, film and sheet","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"326113",78,0,2013,1,"N","Jackson County, Tennessee","Private","Nonpackaging plastics film and sheet mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"326113",78,0,2013,2,"N","Jackson County, Tennessee","Private","Nonpackaging plastics film and sheet mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"326113",78,0,2013,3,"N","Jackson County, Tennessee","Private","Nonpackaging plastics film and sheet mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"332",75,0,2013,1,"N","Jackson County, Tennessee","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"332",75,0,2013,2,"N","Jackson County, Tennessee","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"332",75,0,2013,3,"N","Jackson County, Tennessee","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"3327",76,0,2013,1,"N","Jackson County, Tennessee","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"3327",76,0,2013,2,"N","Jackson County, Tennessee","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"3327",76,0,2013,3,"N","Jackson County, Tennessee","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"33271",77,0,2013,1,"N","Jackson County, Tennessee","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"33271",77,0,2013,2,"N","Jackson County, Tennessee","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"33271",77,0,2013,3,"N","Jackson County, Tennessee","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"332710",78,0,2013,1,"N","Jackson County, Tennessee","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"332710",78,0,2013,2,"N","Jackson County, Tennessee","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"332710",78,0,2013,3,"N","Jackson County, Tennessee","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"336",75,0,2013,1,"N","Jackson County, Tennessee","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"336",75,0,2013,2,"N","Jackson County, Tennessee","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"336",75,0,2013,3,"N","Jackson County, Tennessee","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"3363",76,0,2013,1,"N","Jackson County, Tennessee","Private","Motor vehicle parts manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"3363",76,0,2013,2,"N","Jackson County, Tennessee","Private","Motor vehicle parts manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"3363",76,0,2013,3,"N","Jackson County, Tennessee","Private","Motor vehicle parts manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"33639",77,0,2013,1,"N","Jackson County, Tennessee","Private","Other motor vehicle parts manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"33639",77,0,2013,2,"N","Jackson County, Tennessee","Private","Other motor vehicle parts manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"33639",77,0,2013,3,"N","Jackson County, Tennessee","Private","Other motor vehicle parts manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"336390",78,0,2013,1,"N","Jackson County, Tennessee","Private","Other motor vehicle parts manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"336390",78,0,2013,2,"N","Jackson County, Tennessee","Private","Other motor vehicle parts manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"336390",78,0,2013,3,"N","Jackson County, Tennessee","Private","Other motor vehicle parts manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"339",75,0,2013,1,"N","Jackson County, Tennessee","Private","Miscellaneous manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"339",75,0,2013,2,"N","Jackson County, Tennessee","Private","Miscellaneous manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"339",75,0,2013,3,"N","Jackson County, Tennessee","Private","Miscellaneous manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"3399",76,0,2013,1,"N","Jackson County, Tennessee","Private","Other miscellaneous manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"3399",76,0,2013,2,"N","Jackson County, Tennessee","Private","Other miscellaneous manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"3399",76,0,2013,3,"N","Jackson County, Tennessee","Private","Other miscellaneous manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"33999",77,0,2013,1,"N","Jackson County, Tennessee","Private","All other miscellaneous manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"33999",77,0,2013,2,"N","Jackson County, Tennessee","Private","All other miscellaneous manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"33999",77,0,2013,3,"N","Jackson County, Tennessee","Private","All other miscellaneous manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"339999",78,0,2013,1,"N","Jackson County, Tennessee","Private","All other miscellaneous manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"339999",78,0,2013,2,"N","Jackson County, Tennessee","Private","All other miscellaneous manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"339999",78,0,2013,3,"N","Jackson County, Tennessee","Private","All other miscellaneous manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42",74,0,2013,1,"","Jackson County, Tennessee","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",11,60,62,62,660906,441553,12177,829
+"47087",5,"42",74,0,2013,2,"","Jackson County, Tennessee","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",11,64,62,64,653283,113706,4185,793
+"47087",5,"42",74,0,2013,3,"","Jackson County, Tennessee","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",11,64,59,61,680215,37506,579,853
+"47087",5,"423",75,0,2013,1,"","Jackson County, Tennessee","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,54,55,55,509939,378553,11101,718
+"47087",5,"423",75,0,2013,2,"","Jackson County, Tennessee","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,56,54,56,515554,104706,3231,717
+"47087",5,"423",75,0,2013,3,"","Jackson County, Tennessee","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,57,52,54,490061,33006,568,694
+"47087",5,"4231",76,0,2013,1,"N","Jackson County, Tennessee","Private","Motor vehicle and parts merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4231",76,0,2013,2,"N","Jackson County, Tennessee","Private","Motor vehicle and parts merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4231",76,0,2013,3,"N","Jackson County, Tennessee","Private","Motor vehicle and parts merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42312",77,0,2013,1,"N","Jackson County, Tennessee","Private","New motor vehicle parts merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42312",77,0,2013,2,"N","Jackson County, Tennessee","Private","New motor vehicle parts merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42312",77,0,2013,3,"N","Jackson County, Tennessee","Private","New motor vehicle parts merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"423120",78,0,2013,1,"N","Jackson County, Tennessee","Private","New motor vehicle parts merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"423120",78,0,2013,2,"N","Jackson County, Tennessee","Private","New motor vehicle parts merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"423120",78,0,2013,3,"N","Jackson County, Tennessee","Private","New motor vehicle parts merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4233",76,0,2013,1,"N","Jackson County, Tennessee","Private","Lumber and const. supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4233",76,0,2013,2,"N","Jackson County, Tennessee","Private","Lumber and const. supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4233",76,0,2013,3,"N","Jackson County, Tennessee","Private","Lumber and const. supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42333",77,0,2013,1,"N","Jackson County, Tennessee","Private","Roofing and siding merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42333",77,0,2013,2,"N","Jackson County, Tennessee","Private","Roofing and siding merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42333",77,0,2013,3,"N","Jackson County, Tennessee","Private","Roofing and siding merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"423330",78,0,2013,1,"N","Jackson County, Tennessee","Private","Roofing and siding merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"423330",78,0,2013,2,"N","Jackson County, Tennessee","Private","Roofing and siding merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"423330",78,0,2013,3,"N","Jackson County, Tennessee","Private","Roofing and siding merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4234",76,0,2013,1,"N","Jackson County, Tennessee","Private","Commercial equip. merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4234",76,0,2013,2,"N","Jackson County, Tennessee","Private","Commercial equip. merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4234",76,0,2013,3,"N","Jackson County, Tennessee","Private","Commercial equip. merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42342",77,0,2013,1,"N","Jackson County, Tennessee","Private","Office equipment merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42342",77,0,2013,2,"N","Jackson County, Tennessee","Private","Office equipment merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42342",77,0,2013,3,"N","Jackson County, Tennessee","Private","Office equipment merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"423420",78,0,2013,1,"N","Jackson County, Tennessee","Private","Office equipment merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"423420",78,0,2013,2,"N","Jackson County, Tennessee","Private","Office equipment merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"423420",78,0,2013,3,"N","Jackson County, Tennessee","Private","Office equipment merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4235",76,0,2013,1,"N","Jackson County, Tennessee","Private","Metal and mineral merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4235",76,0,2013,2,"N","Jackson County, Tennessee","Private","Metal and mineral merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4235",76,0,2013,3,"N","Jackson County, Tennessee","Private","Metal and mineral merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42351",77,0,2013,1,"N","Jackson County, Tennessee","Private","Metal merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42351",77,0,2013,2,"N","Jackson County, Tennessee","Private","Metal merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42351",77,0,2013,3,"N","Jackson County, Tennessee","Private","Metal merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"423510",78,0,2013,1,"N","Jackson County, Tennessee","Private","Metal merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"423510",78,0,2013,2,"N","Jackson County, Tennessee","Private","Metal merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"423510",78,0,2013,3,"N","Jackson County, Tennessee","Private","Metal merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4238",76,0,2013,1,"N","Jackson County, Tennessee","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4238",76,0,2013,2,"N","Jackson County, Tennessee","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4238",76,0,2013,3,"N","Jackson County, Tennessee","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42383",77,0,2013,1,"N","Jackson County, Tennessee","Private","Industrial machinery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42383",77,0,2013,2,"N","Jackson County, Tennessee","Private","Industrial machinery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42383",77,0,2013,3,"N","Jackson County, Tennessee","Private","Industrial machinery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"423830",78,0,2013,1,"N","Jackson County, Tennessee","Private","Industrial machinery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"423830",78,0,2013,2,"N","Jackson County, Tennessee","Private","Industrial machinery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"423830",78,0,2013,3,"N","Jackson County, Tennessee","Private","Industrial machinery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4239",76,0,2013,1,"N","Jackson County, Tennessee","Private","Misc. durable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"4239",76,0,2013,2,"N","Jackson County, Tennessee","Private","Misc. durable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"4239",76,0,2013,3,"N","Jackson County, Tennessee","Private","Misc. durable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"42393",77,0,2013,1,"N","Jackson County, Tennessee","Private","Recyclable material merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"42393",77,0,2013,2,"N","Jackson County, Tennessee","Private","Recyclable material merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"42393",77,0,2013,3,"N","Jackson County, Tennessee","Private","Recyclable material merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"423930",78,0,2013,1,"N","Jackson County, Tennessee","Private","Recyclable material merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"423930",78,0,2013,2,"N","Jackson County, Tennessee","Private","Recyclable material merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"423930",78,0,2013,3,"N","Jackson County, Tennessee","Private","Recyclable material merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"424",75,0,2013,1,"N","Jackson County, Tennessee","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"424",75,0,2013,2,"N","Jackson County, Tennessee","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"424",75,0,2013,3,"N","Jackson County, Tennessee","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4246",76,0,2013,1,"N","Jackson County, Tennessee","Private","Chemical merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4246",76,0,2013,2,"N","Jackson County, Tennessee","Private","Chemical merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4246",76,0,2013,3,"N","Jackson County, Tennessee","Private","Chemical merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42469",77,0,2013,1,"N","Jackson County, Tennessee","Private","Other chemicals merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42469",77,0,2013,2,"N","Jackson County, Tennessee","Private","Other chemicals merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42469",77,0,2013,3,"N","Jackson County, Tennessee","Private","Other chemicals merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"424690",78,0,2013,1,"N","Jackson County, Tennessee","Private","Other chemicals merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"424690",78,0,2013,2,"N","Jackson County, Tennessee","Private","Other chemicals merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"424690",78,0,2013,3,"N","Jackson County, Tennessee","Private","Other chemicals merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"425",75,0,2013,1,"N","Jackson County, Tennessee","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"425",75,0,2013,2,"N","Jackson County, Tennessee","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"425",75,0,2013,3,"N","Jackson County, Tennessee","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"4251",76,0,2013,1,"N","Jackson County, Tennessee","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"4251",76,0,2013,2,"N","Jackson County, Tennessee","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"4251",76,0,2013,3,"N","Jackson County, Tennessee","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"42511",77,0,2013,1,"N","Jackson County, Tennessee","Private","Business to business electronic markets","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42511",77,0,2013,2,"N","Jackson County, Tennessee","Private","Business to business electronic markets","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42511",77,0,2013,3,"N","Jackson County, Tennessee","Private","Business to business electronic markets","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"425110",78,0,2013,1,"N","Jackson County, Tennessee","Private","Business to business electronic markets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"425110",78,0,2013,2,"N","Jackson County, Tennessee","Private","Business to business electronic markets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"425110",78,0,2013,3,"N","Jackson County, Tennessee","Private","Business to business electronic markets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"42512",77,0,2013,1,"N","Jackson County, Tennessee","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"42512",77,0,2013,2,"N","Jackson County, Tennessee","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"42512",77,0,2013,3,"N","Jackson County, Tennessee","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"425120",78,0,2013,1,"N","Jackson County, Tennessee","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"425120",78,0,2013,2,"N","Jackson County, Tennessee","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"425120",78,0,2013,3,"N","Jackson County, Tennessee","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"44-45",74,0,2013,1,"","Jackson County, Tennessee","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",21,121,125,126,481926,442541,8611,299
+"47087",5,"44-45",74,0,2013,2,"","Jackson County, Tennessee","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",21,142,144,143,527111,320655,7148,284
+"47087",5,"44-45",74,0,2013,3,"","Jackson County, Tennessee","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",21,143,145,146,534415,200095,1887,284
+"47087",5,"441",75,0,2013,1,"","Jackson County, Tennessee","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,8,7,35902,35902,1589,377
+"47087",5,"441",75,0,2013,2,"","Jackson County, Tennessee","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,7,36823,27847,1421,405
+"47087",5,"441",75,0,2013,3,"","Jackson County, Tennessee","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,7,34825,4473,38,383
+"47087",5,"4412",76,0,2013,1,"N","Jackson County, Tennessee","Private","Other motor vehicle dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4412",76,0,2013,2,"N","Jackson County, Tennessee","Private","Other motor vehicle dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4412",76,0,2013,3,"N","Jackson County, Tennessee","Private","Other motor vehicle dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44122",77,0,2013,1,"N","Jackson County, Tennessee","Private","Motorcycle, boat, and other vehicle dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44122",77,0,2013,2,"N","Jackson County, Tennessee","Private","Motorcycle, boat, and other vehicle dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44122",77,0,2013,3,"N","Jackson County, Tennessee","Private","Motorcycle, boat, and other vehicle dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"441228",78,0,2013,1,"N","Jackson County, Tennessee","Private","Motorcycle and other motor vehicle dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"441228",78,0,2013,2,"N","Jackson County, Tennessee","Private","Motorcycle and other motor vehicle dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"441228",78,0,2013,3,"N","Jackson County, Tennessee","Private","Motorcycle and other motor vehicle dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4413",76,0,2013,1,"N","Jackson County, Tennessee","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"4413",76,0,2013,2,"N","Jackson County, Tennessee","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"4413",76,0,2013,3,"N","Jackson County, Tennessee","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"44131",77,0,2013,1,"N","Jackson County, Tennessee","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44131",77,0,2013,2,"N","Jackson County, Tennessee","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44131",77,0,2013,3,"N","Jackson County, Tennessee","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"441310",78,0,2013,1,"N","Jackson County, Tennessee","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"441310",78,0,2013,2,"N","Jackson County, Tennessee","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"441310",78,0,2013,3,"N","Jackson County, Tennessee","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44132",77,0,2013,1,"N","Jackson County, Tennessee","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44132",77,0,2013,2,"N","Jackson County, Tennessee","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44132",77,0,2013,3,"N","Jackson County, Tennessee","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"441320",78,0,2013,1,"N","Jackson County, Tennessee","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"441320",78,0,2013,2,"N","Jackson County, Tennessee","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"441320",78,0,2013,3,"N","Jackson County, Tennessee","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"444",75,0,2013,1,"N","Jackson County, Tennessee","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"444",75,0,2013,2,"N","Jackson County, Tennessee","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"444",75,0,2013,3,"N","Jackson County, Tennessee","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"4441",76,0,2013,1,"N","Jackson County, Tennessee","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"4441",76,0,2013,2,"N","Jackson County, Tennessee","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"4441",76,0,2013,3,"N","Jackson County, Tennessee","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"44419",77,0,2013,1,"N","Jackson County, Tennessee","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"44419",77,0,2013,2,"N","Jackson County, Tennessee","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"44419",77,0,2013,3,"N","Jackson County, Tennessee","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"444190",78,0,2013,1,"N","Jackson County, Tennessee","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"444190",78,0,2013,2,"N","Jackson County, Tennessee","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"444190",78,0,2013,3,"N","Jackson County, Tennessee","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"4442",76,0,2013,1,"N","Jackson County, Tennessee","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4442",76,0,2013,2,"N","Jackson County, Tennessee","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4442",76,0,2013,3,"N","Jackson County, Tennessee","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44422",77,0,2013,1,"N","Jackson County, Tennessee","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44422",77,0,2013,2,"N","Jackson County, Tennessee","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44422",77,0,2013,3,"N","Jackson County, Tennessee","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"444220",78,0,2013,1,"N","Jackson County, Tennessee","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"444220",78,0,2013,2,"N","Jackson County, Tennessee","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"444220",78,0,2013,3,"N","Jackson County, Tennessee","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"445",75,0,2013,1,"","Jackson County, Tennessee","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,34,35,35,123288,110608,1646,274
+"47087",5,"445",75,0,2013,2,"","Jackson County, Tennessee","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,34,34,32,121450,78063,1166,280
+"47087",5,"445",75,0,2013,3,"N","Jackson County, Tennessee","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"4451",76,0,2013,1,"N","Jackson County, Tennessee","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"4451",76,0,2013,2,"N","Jackson County, Tennessee","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"4451",76,0,2013,3,"N","Jackson County, Tennessee","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"44511",77,0,2013,1,"N","Jackson County, Tennessee","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"44511",77,0,2013,2,"N","Jackson County, Tennessee","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"44511",77,0,2013,3,"N","Jackson County, Tennessee","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"445110",78,0,2013,1,"N","Jackson County, Tennessee","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"445110",78,0,2013,2,"N","Jackson County, Tennessee","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"445110",78,0,2013,3,"N","Jackson County, Tennessee","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"4453",76,0,2013,1,"N","Jackson County, Tennessee","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4453",76,0,2013,2,"N","Jackson County, Tennessee","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4453",76,0,2013,3,"N","Jackson County, Tennessee","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44531",77,0,2013,1,"N","Jackson County, Tennessee","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44531",77,0,2013,2,"N","Jackson County, Tennessee","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44531",77,0,2013,3,"N","Jackson County, Tennessee","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"445310",78,0,2013,1,"N","Jackson County, Tennessee","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"445310",78,0,2013,2,"N","Jackson County, Tennessee","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"445310",78,0,2013,3,"N","Jackson County, Tennessee","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"446",75,0,2013,1,"N","Jackson County, Tennessee","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"446",75,0,2013,2,"N","Jackson County, Tennessee","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"446",75,0,2013,3,"N","Jackson County, Tennessee","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"4461",76,0,2013,1,"N","Jackson County, Tennessee","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"4461",76,0,2013,2,"N","Jackson County, Tennessee","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"4461",76,0,2013,3,"N","Jackson County, Tennessee","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"44611",77,0,2013,1,"N","Jackson County, Tennessee","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"44611",77,0,2013,2,"N","Jackson County, Tennessee","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"44611",77,0,2013,3,"N","Jackson County, Tennessee","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"446110",78,0,2013,1,"N","Jackson County, Tennessee","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"446110",78,0,2013,2,"N","Jackson County, Tennessee","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"446110",78,0,2013,3,"N","Jackson County, Tennessee","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"447",75,0,2013,1,"","Jackson County, Tennessee","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,24,24,24,58643,58643,1233,188
+"47087",5,"447",75,0,2013,2,"","Jackson County, Tennessee","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,26,25,25,74398,73312,1795,226
+"47087",5,"447",75,0,2013,3,"","Jackson County, Tennessee","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,23,25,27,77175,54804,1165,237
+"47087",5,"4471",76,0,2013,1,"","Jackson County, Tennessee","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,24,24,24,58643,58643,1233,188
+"47087",5,"4471",76,0,2013,2,"","Jackson County, Tennessee","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,26,25,25,74398,73312,1795,226
+"47087",5,"4471",76,0,2013,3,"","Jackson County, Tennessee","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,23,25,27,77175,54804,1165,237
+"47087",5,"44711",77,0,2013,1,"","Jackson County, Tennessee","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,24,24,24,58643,58643,1233,188
+"47087",5,"44711",77,0,2013,2,"","Jackson County, Tennessee","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,26,25,25,74398,73312,1795,226
+"47087",5,"44711",77,0,2013,3,"","Jackson County, Tennessee","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,23,25,27,77175,54804,1165,237
+"47087",5,"447110",78,0,2013,1,"","Jackson County, Tennessee","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,24,24,24,58643,58643,1233,188
+"47087",5,"447110",78,0,2013,2,"","Jackson County, Tennessee","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,26,25,25,74398,73312,1795,226
+"47087",5,"447110",78,0,2013,3,"","Jackson County, Tennessee","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,23,25,27,77175,54804,1165,237
+"47087",5,"448",75,0,2013,1,"N","Jackson County, Tennessee","Private","Clothing and clothing accessories stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"448",75,0,2013,2,"N","Jackson County, Tennessee","Private","Clothing and clothing accessories stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"448",75,0,2013,3,"N","Jackson County, Tennessee","Private","Clothing and clothing accessories stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4481",76,0,2013,1,"N","Jackson County, Tennessee","Private","Clothing stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4481",76,0,2013,2,"N","Jackson County, Tennessee","Private","Clothing stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4481",76,0,2013,3,"N","Jackson County, Tennessee","Private","Clothing stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44819",77,0,2013,1,"N","Jackson County, Tennessee","Private","Other clothing stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44819",77,0,2013,2,"N","Jackson County, Tennessee","Private","Other clothing stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"44819",77,0,2013,3,"N","Jackson County, Tennessee","Private","Other clothing stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"448190",78,0,2013,1,"N","Jackson County, Tennessee","Private","Other clothing stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"448190",78,0,2013,2,"N","Jackson County, Tennessee","Private","Other clothing stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"448190",78,0,2013,3,"N","Jackson County, Tennessee","Private","Other clothing stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"452",75,0,2013,1,"N","Jackson County, Tennessee","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"452",75,0,2013,2,"N","Jackson County, Tennessee","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"452",75,0,2013,3,"N","Jackson County, Tennessee","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"4529",76,0,2013,1,"N","Jackson County, Tennessee","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"4529",76,0,2013,2,"N","Jackson County, Tennessee","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"4529",76,0,2013,3,"N","Jackson County, Tennessee","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"45299",77,0,2013,1,"N","Jackson County, Tennessee","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"45299",77,0,2013,2,"N","Jackson County, Tennessee","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"45299",77,0,2013,3,"N","Jackson County, Tennessee","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"452990",78,0,2013,1,"N","Jackson County, Tennessee","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"452990",78,0,2013,2,"N","Jackson County, Tennessee","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"452990",78,0,2013,3,"N","Jackson County, Tennessee","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"453",75,0,2013,1,"N","Jackson County, Tennessee","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"453",75,0,2013,2,"N","Jackson County, Tennessee","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"453",75,0,2013,3,"N","Jackson County, Tennessee","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4539",76,0,2013,1,"N","Jackson County, Tennessee","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4539",76,0,2013,2,"N","Jackson County, Tennessee","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4539",76,0,2013,3,"N","Jackson County, Tennessee","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"45399",77,0,2013,1,"N","Jackson County, Tennessee","Private","All other miscellaneous store retailers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"45399",77,0,2013,2,"N","Jackson County, Tennessee","Private","All other miscellaneous store retailers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"45399",77,0,2013,3,"N","Jackson County, Tennessee","Private","All other miscellaneous store retailers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"453991",78,0,2013,1,"N","Jackson County, Tennessee","Private","Tobacco stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"453991",78,0,2013,2,"N","Jackson County, Tennessee","Private","Tobacco stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"453991",78,0,2013,3,"N","Jackson County, Tennessee","Private","Tobacco stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"48-49",74,0,2013,1,"N","Jackson County, Tennessee","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"48-49",74,0,2013,2,"N","Jackson County, Tennessee","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"48-49",74,0,2013,3,"N","Jackson County, Tennessee","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"484",75,0,2013,1,"N","Jackson County, Tennessee","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"484",75,0,2013,2,"N","Jackson County, Tennessee","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"484",75,0,2013,3,"N","Jackson County, Tennessee","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4841",76,0,2013,1,"N","Jackson County, Tennessee","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4841",76,0,2013,2,"N","Jackson County, Tennessee","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4841",76,0,2013,3,"N","Jackson County, Tennessee","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"48412",77,0,2013,1,"N","Jackson County, Tennessee","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"48412",77,0,2013,2,"N","Jackson County, Tennessee","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"48412",77,0,2013,3,"N","Jackson County, Tennessee","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"484121",78,0,2013,1,"N","Jackson County, Tennessee","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"484121",78,0,2013,2,"N","Jackson County, Tennessee","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"484121",78,0,2013,3,"N","Jackson County, Tennessee","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"486",75,0,2013,1,"N","Jackson County, Tennessee","Private","Pipeline transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"486",75,0,2013,2,"N","Jackson County, Tennessee","Private","Pipeline transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"486",75,0,2013,3,"N","Jackson County, Tennessee","Private","Pipeline transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4862",76,0,2013,1,"N","Jackson County, Tennessee","Private","Pipeline transportation of natural gas","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4862",76,0,2013,2,"N","Jackson County, Tennessee","Private","Pipeline transportation of natural gas","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"4862",76,0,2013,3,"N","Jackson County, Tennessee","Private","Pipeline transportation of natural gas","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"48621",77,0,2013,1,"N","Jackson County, Tennessee","Private","Pipeline transportation of natural gas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"48621",77,0,2013,2,"N","Jackson County, Tennessee","Private","Pipeline transportation of natural gas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"48621",77,0,2013,3,"N","Jackson County, Tennessee","Private","Pipeline transportation of natural gas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"486210",78,0,2013,1,"N","Jackson County, Tennessee","Private","Pipeline transportation of natural gas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"486210",78,0,2013,2,"N","Jackson County, Tennessee","Private","Pipeline transportation of natural gas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"486210",78,0,2013,3,"N","Jackson County, Tennessee","Private","Pipeline transportation of natural gas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"51",74,0,2013,1,"N","Jackson County, Tennessee","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"51",74,0,2013,2,"N","Jackson County, Tennessee","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"51",74,0,2013,3,"N","Jackson County, Tennessee","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"517",75,0,2013,1,"N","Jackson County, Tennessee","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"517",75,0,2013,2,"N","Jackson County, Tennessee","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"517",75,0,2013,3,"N","Jackson County, Tennessee","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"5171",76,0,2013,1,"N","Jackson County, Tennessee","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"5171",76,0,2013,2,"N","Jackson County, Tennessee","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"5171",76,0,2013,3,"N","Jackson County, Tennessee","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"51711",77,0,2013,1,"N","Jackson County, Tennessee","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"51711",77,0,2013,2,"N","Jackson County, Tennessee","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"51711",77,0,2013,3,"N","Jackson County, Tennessee","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"517110",78,0,2013,1,"N","Jackson County, Tennessee","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"517110",78,0,2013,2,"N","Jackson County, Tennessee","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"517110",78,0,2013,3,"N","Jackson County, Tennessee","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"5174",76,0,2013,1,"N","Jackson County, Tennessee","Private","Satellite telecommunications","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"5174",76,0,2013,2,"N","Jackson County, Tennessee","Private","Satellite telecommunications","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"5174",76,0,2013,3,"N","Jackson County, Tennessee","Private","Satellite telecommunications","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"51741",77,0,2013,1,"N","Jackson County, Tennessee","Private","Satellite telecommunications","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"51741",77,0,2013,2,"N","Jackson County, Tennessee","Private","Satellite telecommunications","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"51741",77,0,2013,3,"N","Jackson County, Tennessee","Private","Satellite telecommunications","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"517410",78,0,2013,1,"N","Jackson County, Tennessee","Private","Satellite telecommunications","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"517410",78,0,2013,2,"N","Jackson County, Tennessee","Private","Satellite telecommunications","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"517410",78,0,2013,3,"N","Jackson County, Tennessee","Private","Satellite telecommunications","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"52",74,0,2013,1,"N","Jackson County, Tennessee","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"52",74,0,2013,2,"N","Jackson County, Tennessee","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"52",74,0,2013,3,"N","Jackson County, Tennessee","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"522",75,0,2013,1,"N","Jackson County, Tennessee","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"522",75,0,2013,2,"N","Jackson County, Tennessee","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"522",75,0,2013,3,"N","Jackson County, Tennessee","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"5221",76,0,2013,1,"N","Jackson County, Tennessee","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"5221",76,0,2013,2,"N","Jackson County, Tennessee","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"5221",76,0,2013,3,"N","Jackson County, Tennessee","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"52211",77,0,2013,1,"N","Jackson County, Tennessee","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"52211",77,0,2013,2,"N","Jackson County, Tennessee","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"52211",77,0,2013,3,"N","Jackson County, Tennessee","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"522110",78,0,2013,1,"N","Jackson County, Tennessee","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"522110",78,0,2013,2,"N","Jackson County, Tennessee","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"522110",78,0,2013,3,"N","Jackson County, Tennessee","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"524",75,0,2013,1,"","Jackson County, Tennessee","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,7,53039,41210,822,583
+"47087",5,"524",75,0,2013,2,"","Jackson County, Tennessee","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,6,5,52590,14698,343,674
+"47087",5,"524",75,0,2013,3,"","Jackson County, Tennessee","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,6,6,43448,840,17,557
+"47087",5,"5242",76,0,2013,1,"","Jackson County, Tennessee","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,7,7,53039,41210,822,583
+"47087",5,"5242",76,0,2013,2,"","Jackson County, Tennessee","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,6,5,52590,14698,343,674
+"47087",5,"5242",76,0,2013,3,"","Jackson County, Tennessee","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,6,6,43448,840,17,557
+"47087",5,"52421",77,0,2013,1,"","Jackson County, Tennessee","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,7,7,53039,41210,822,583
+"47087",5,"52421",77,0,2013,2,"","Jackson County, Tennessee","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,6,5,52590,14698,343,674
+"47087",5,"52421",77,0,2013,3,"","Jackson County, Tennessee","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,6,6,6,43448,840,17,557
+"47087",5,"524210",78,0,2013,1,"","Jackson County, Tennessee","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,7,7,53039,41210,822,583
+"47087",5,"524210",78,0,2013,2,"","Jackson County, Tennessee","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,6,5,52590,14698,343,674
+"47087",5,"524210",78,0,2013,3,"","Jackson County, Tennessee","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,6,6,43448,840,17,557
+"47087",5,"53",74,0,2013,1,"N","Jackson County, Tennessee","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"53",74,0,2013,2,"N","Jackson County, Tennessee","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"53",74,0,2013,3,"N","Jackson County, Tennessee","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"531",75,0,2013,1,"N","Jackson County, Tennessee","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"531",75,0,2013,2,"N","Jackson County, Tennessee","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"531",75,0,2013,3,"N","Jackson County, Tennessee","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"5313",76,0,2013,1,"N","Jackson County, Tennessee","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"5313",76,0,2013,2,"N","Jackson County, Tennessee","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"5313",76,0,2013,3,"N","Jackson County, Tennessee","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"53131",77,0,2013,1,"N","Jackson County, Tennessee","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"53131",77,0,2013,2,"N","Jackson County, Tennessee","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"53131",77,0,2013,3,"N","Jackson County, Tennessee","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"531311",78,0,2013,1,"N","Jackson County, Tennessee","Private","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"531311",78,0,2013,2,"N","Jackson County, Tennessee","Private","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"531311",78,0,2013,3,"N","Jackson County, Tennessee","Private","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"54",74,0,2013,1,"","Jackson County, Tennessee","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,34,34,29,139435,125556,11625,332
+"47087",5,"54",74,0,2013,2,"N","Jackson County, Tennessee","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"47087",5,"54",74,0,2013,3,"N","Jackson County, Tennessee","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"47087",5,"541",75,0,2013,1,"","Jackson County, Tennessee","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,34,34,29,139435,125556,11625,332
+"47087",5,"541",75,0,2013,2,"N","Jackson County, Tennessee","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"47087",5,"541",75,0,2013,3,"N","Jackson County, Tennessee","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"47087",5,"5411",76,0,2013,1,"N","Jackson County, Tennessee","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"5411",76,0,2013,2,"N","Jackson County, Tennessee","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"5411",76,0,2013,3,"N","Jackson County, Tennessee","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"54111",77,0,2013,1,"N","Jackson County, Tennessee","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"54111",77,0,2013,2,"N","Jackson County, Tennessee","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"54111",77,0,2013,3,"N","Jackson County, Tennessee","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"541110",78,0,2013,1,"N","Jackson County, Tennessee","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"541110",78,0,2013,2,"N","Jackson County, Tennessee","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"541110",78,0,2013,3,"N","Jackson County, Tennessee","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"5412",76,0,2013,1,"N","Jackson County, Tennessee","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"5412",76,0,2013,2,"N","Jackson County, Tennessee","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"5412",76,0,2013,3,"N","Jackson County, Tennessee","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"54121",77,0,2013,1,"N","Jackson County, Tennessee","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"54121",77,0,2013,2,"N","Jackson County, Tennessee","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"54121",77,0,2013,3,"N","Jackson County, Tennessee","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"541213",78,0,2013,1,"N","Jackson County, Tennessee","Private","Tax preparation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"541213",78,0,2013,2,"N","Jackson County, Tennessee","Private","Tax preparation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"541213",78,0,2013,3,"N","Jackson County, Tennessee","Private","Tax preparation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"5413",76,0,2013,1,"N","Jackson County, Tennessee","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"5413",76,0,2013,2,"N","Jackson County, Tennessee","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"5413",76,0,2013,3,"N","Jackson County, Tennessee","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"54137",77,0,2013,1,"N","Jackson County, Tennessee","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"54137",77,0,2013,2,"N","Jackson County, Tennessee","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"54137",77,0,2013,3,"N","Jackson County, Tennessee","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"541370",78,0,2013,1,"N","Jackson County, Tennessee","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"541370",78,0,2013,2,"N","Jackson County, Tennessee","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"541370",78,0,2013,3,"N","Jackson County, Tennessee","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"5415",76,0,2013,1,"N","Jackson County, Tennessee","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"5415",76,0,2013,2,"N","Jackson County, Tennessee","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"5415",76,0,2013,3,"N","Jackson County, Tennessee","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"54151",77,0,2013,1,"N","Jackson County, Tennessee","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"54151",77,0,2013,2,"N","Jackson County, Tennessee","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"54151",77,0,2013,3,"N","Jackson County, Tennessee","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"541512",78,0,2013,1,"N","Jackson County, Tennessee","Private","Computer systems design services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"541512",78,0,2013,2,"N","Jackson County, Tennessee","Private","Computer systems design services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"541512",78,0,2013,3,"N","Jackson County, Tennessee","Private","Computer systems design services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"55",74,0,2013,1,"N","Jackson County, Tennessee","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"55",74,0,2013,2,"N","Jackson County, Tennessee","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"55",74,0,2013,3,"N","Jackson County, Tennessee","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"551",75,0,2013,1,"N","Jackson County, Tennessee","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"551",75,0,2013,2,"N","Jackson County, Tennessee","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"551",75,0,2013,3,"N","Jackson County, Tennessee","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"5511",76,0,2013,1,"N","Jackson County, Tennessee","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"5511",76,0,2013,2,"N","Jackson County, Tennessee","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"5511",76,0,2013,3,"N","Jackson County, Tennessee","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"55111",77,0,2013,1,"N","Jackson County, Tennessee","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"55111",77,0,2013,2,"N","Jackson County, Tennessee","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"55111",77,0,2013,3,"N","Jackson County, Tennessee","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"551114",78,0,2013,1,"N","Jackson County, Tennessee","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"551114",78,0,2013,2,"N","Jackson County, Tennessee","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"551114",78,0,2013,3,"N","Jackson County, Tennessee","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"56",74,0,2013,1,"N","Jackson County, Tennessee","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"56",74,0,2013,2,"","Jackson County, Tennessee","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,23,21,22,114011,83799,1755,399
+"47087",5,"56",74,0,2013,3,"","Jackson County, Tennessee","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,20,21,21,105188,36708,447,392
+"47087",5,"561",75,0,2013,1,"N","Jackson County, Tennessee","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"561",75,0,2013,2,"","Jackson County, Tennessee","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,23,21,22,114011,83799,1755,399
+"47087",5,"561",75,0,2013,3,"","Jackson County, Tennessee","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,20,21,21,105188,36708,447,392
+"47087",5,"5615",76,0,2013,1,"N","Jackson County, Tennessee","Private","Travel arrangement and reservation services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"5615",76,0,2013,2,"N","Jackson County, Tennessee","Private","Travel arrangement and reservation services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"5615",76,0,2013,3,"N","Jackson County, Tennessee","Private","Travel arrangement and reservation services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"56152",77,0,2013,1,"N","Jackson County, Tennessee","Private","Tour operators","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"56152",77,0,2013,2,"N","Jackson County, Tennessee","Private","Tour operators","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"56152",77,0,2013,3,"N","Jackson County, Tennessee","Private","Tour operators","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"561520",78,0,2013,1,"N","Jackson County, Tennessee","Private","Tour operators","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"561520",78,0,2013,2,"N","Jackson County, Tennessee","Private","Tour operators","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"561520",78,0,2013,3,"N","Jackson County, Tennessee","Private","Tour operators","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"5617",76,0,2013,1,"N","Jackson County, Tennessee","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"47087",5,"5617",76,0,2013,2,"N","Jackson County, Tennessee","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"47087",5,"5617",76,0,2013,3,"N","Jackson County, Tennessee","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"47087",5,"56172",77,0,2013,1,"N","Jackson County, Tennessee","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"56172",77,0,2013,2,"N","Jackson County, Tennessee","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"56172",77,0,2013,3,"N","Jackson County, Tennessee","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"561720",78,0,2013,1,"N","Jackson County, Tennessee","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"561720",78,0,2013,2,"N","Jackson County, Tennessee","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"561720",78,0,2013,3,"N","Jackson County, Tennessee","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"56173",77,0,2013,1,"N","Jackson County, Tennessee","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"56173",77,0,2013,2,"","Jackson County, Tennessee","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,21,20,21,93371,77929,1579,348
+"47087",5,"56173",77,0,2013,3,"","Jackson County, Tennessee","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,19,20,20,95573,36708,447,374
+"47087",5,"561730",78,0,2013,1,"N","Jackson County, Tennessee","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"561730",78,0,2013,2,"","Jackson County, Tennessee","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,21,20,21,93371,77929,1579,348
+"47087",5,"561730",78,0,2013,3,"","Jackson County, Tennessee","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,19,20,20,95573,36708,447,374
+"47087",5,"61",74,0,2013,1,"N","Jackson County, Tennessee","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"61",74,0,2013,2,"N","Jackson County, Tennessee","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"61",74,0,2013,3,"N","Jackson County, Tennessee","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"611",75,0,2013,1,"N","Jackson County, Tennessee","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"611",75,0,2013,2,"N","Jackson County, Tennessee","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"611",75,0,2013,3,"N","Jackson County, Tennessee","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"6117",76,0,2013,1,"N","Jackson County, Tennessee","Private","Educational support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"6117",76,0,2013,2,"N","Jackson County, Tennessee","Private","Educational support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"6117",76,0,2013,3,"N","Jackson County, Tennessee","Private","Educational support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"61171",77,0,2013,1,"N","Jackson County, Tennessee","Private","Educational support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"61171",77,0,2013,2,"N","Jackson County, Tennessee","Private","Educational support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"61171",77,0,2013,3,"N","Jackson County, Tennessee","Private","Educational support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"611710",78,0,2013,1,"N","Jackson County, Tennessee","Private","Educational support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"611710",78,0,2013,2,"N","Jackson County, Tennessee","Private","Educational support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"611710",78,0,2013,3,"N","Jackson County, Tennessee","Private","Educational support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"62",74,0,2013,1,"N","Jackson County, Tennessee","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"47087",5,"62",74,0,2013,2,"N","Jackson County, Tennessee","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"47087",5,"62",74,0,2013,3,"N","Jackson County, Tennessee","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"47087",5,"621",75,0,2013,1,"","Jackson County, Tennessee","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,21,21,20,129738,116924,1661,483
+"47087",5,"621",75,0,2013,2,"","Jackson County, Tennessee","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,21,23,23,139950,39282,553,482
+"47087",5,"621",75,0,2013,3,"","Jackson County, Tennessee","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,24,20,19,127292,9973,31,466
+"47087",5,"6211",76,0,2013,1,"N","Jackson County, Tennessee","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"6211",76,0,2013,2,"N","Jackson County, Tennessee","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"6211",76,0,2013,3,"N","Jackson County, Tennessee","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"62111",77,0,2013,1,"N","Jackson County, Tennessee","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"62111",77,0,2013,2,"N","Jackson County, Tennessee","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"62111",77,0,2013,3,"N","Jackson County, Tennessee","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"621111",78,0,2013,1,"N","Jackson County, Tennessee","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"621111",78,0,2013,2,"N","Jackson County, Tennessee","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"621111",78,0,2013,3,"N","Jackson County, Tennessee","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"6212",76,0,2013,1,"N","Jackson County, Tennessee","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"6212",76,0,2013,2,"N","Jackson County, Tennessee","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"6212",76,0,2013,3,"N","Jackson County, Tennessee","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"62121",77,0,2013,1,"N","Jackson County, Tennessee","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"62121",77,0,2013,2,"N","Jackson County, Tennessee","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"62121",77,0,2013,3,"N","Jackson County, Tennessee","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"621210",78,0,2013,1,"N","Jackson County, Tennessee","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"621210",78,0,2013,2,"N","Jackson County, Tennessee","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"621210",78,0,2013,3,"N","Jackson County, Tennessee","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"623",75,0,2013,1,"N","Jackson County, Tennessee","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"623",75,0,2013,2,"N","Jackson County, Tennessee","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"623",75,0,2013,3,"N","Jackson County, Tennessee","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"6231",76,0,2013,1,"N","Jackson County, Tennessee","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"6231",76,0,2013,2,"N","Jackson County, Tennessee","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"6231",76,0,2013,3,"N","Jackson County, Tennessee","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"62311",77,0,2013,1,"N","Jackson County, Tennessee","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"62311",77,0,2013,2,"N","Jackson County, Tennessee","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"62311",77,0,2013,3,"N","Jackson County, Tennessee","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"623110",78,0,2013,1,"N","Jackson County, Tennessee","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"623110",78,0,2013,2,"N","Jackson County, Tennessee","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"623110",78,0,2013,3,"N","Jackson County, Tennessee","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"624",75,0,2013,1,"N","Jackson County, Tennessee","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"624",75,0,2013,2,"N","Jackson County, Tennessee","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"624",75,0,2013,3,"N","Jackson County, Tennessee","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"6241",76,0,2013,1,"N","Jackson County, Tennessee","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"6241",76,0,2013,2,"N","Jackson County, Tennessee","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"6241",76,0,2013,3,"N","Jackson County, Tennessee","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"62419",77,0,2013,1,"N","Jackson County, Tennessee","Private","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"62419",77,0,2013,2,"N","Jackson County, Tennessee","Private","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"62419",77,0,2013,3,"N","Jackson County, Tennessee","Private","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"624190",78,0,2013,1,"N","Jackson County, Tennessee","Private","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"624190",78,0,2013,2,"N","Jackson County, Tennessee","Private","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"624190",78,0,2013,3,"N","Jackson County, Tennessee","Private","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"6244",76,0,2013,1,"N","Jackson County, Tennessee","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"6244",76,0,2013,2,"N","Jackson County, Tennessee","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"6244",76,0,2013,3,"N","Jackson County, Tennessee","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"62441",77,0,2013,1,"N","Jackson County, Tennessee","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"62441",77,0,2013,2,"N","Jackson County, Tennessee","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"62441",77,0,2013,3,"N","Jackson County, Tennessee","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"624410",78,0,2013,1,"N","Jackson County, Tennessee","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"624410",78,0,2013,2,"N","Jackson County, Tennessee","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"624410",78,0,2013,3,"N","Jackson County, Tennessee","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"71",74,0,2013,1,"N","Jackson County, Tennessee","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"71",74,0,2013,2,"N","Jackson County, Tennessee","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"71",74,0,2013,3,"N","Jackson County, Tennessee","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"713",75,0,2013,1,"N","Jackson County, Tennessee","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"713",75,0,2013,2,"N","Jackson County, Tennessee","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"713",75,0,2013,3,"N","Jackson County, Tennessee","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"7139",76,0,2013,1,"N","Jackson County, Tennessee","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"7139",76,0,2013,2,"N","Jackson County, Tennessee","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"7139",76,0,2013,3,"N","Jackson County, Tennessee","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"71391",77,0,2013,1,"N","Jackson County, Tennessee","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"71391",77,0,2013,2,"N","Jackson County, Tennessee","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"71391",77,0,2013,3,"N","Jackson County, Tennessee","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"713910",78,0,2013,1,"N","Jackson County, Tennessee","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"713910",78,0,2013,2,"N","Jackson County, Tennessee","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"713910",78,0,2013,3,"N","Jackson County, Tennessee","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"71393",77,0,2013,1,"N","Jackson County, Tennessee","Private","Marinas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"71393",77,0,2013,2,"N","Jackson County, Tennessee","Private","Marinas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"71393",77,0,2013,3,"N","Jackson County, Tennessee","Private","Marinas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"713930",78,0,2013,1,"N","Jackson County, Tennessee","Private","Marinas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"713930",78,0,2013,2,"N","Jackson County, Tennessee","Private","Marinas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"713930",78,0,2013,3,"N","Jackson County, Tennessee","Private","Marinas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"72",74,0,2013,1,"N","Jackson County, Tennessee","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"47087",5,"72",74,0,2013,2,"N","Jackson County, Tennessee","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"72",74,0,2013,3,"N","Jackson County, Tennessee","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"722",75,0,2013,1,"N","Jackson County, Tennessee","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"47087",5,"722",75,0,2013,2,"N","Jackson County, Tennessee","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"722",75,0,2013,3,"N","Jackson County, Tennessee","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"7225",76,0,2013,1,"N","Jackson County, Tennessee","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"47087",5,"7225",76,0,2013,2,"N","Jackson County, Tennessee","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"7225",76,0,2013,3,"N","Jackson County, Tennessee","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"72251",77,0,2013,1,"N","Jackson County, Tennessee","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"47087",5,"72251",77,0,2013,2,"N","Jackson County, Tennessee","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"72251",77,0,2013,3,"N","Jackson County, Tennessee","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"722511",78,0,2013,1,"","Jackson County, Tennessee","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,19,16,48,76348,76117,1578,212
+"47087",5,"722511",78,0,2013,2,"","Jackson County, Tennessee","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,49,56,55,201934,160447,3803,291
+"47087",5,"722511",78,0,2013,3,"","Jackson County, Tennessee","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,50,59,52,203197,133337,2893,291
+"47087",5,"722513",78,0,2013,1,"N","Jackson County, Tennessee","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"722513",78,0,2013,2,"N","Jackson County, Tennessee","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"722513",78,0,2013,3,"N","Jackson County, Tennessee","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"81",74,0,2013,1,"N","Jackson County, Tennessee","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"81",74,0,2013,2,"N","Jackson County, Tennessee","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"47087",5,"81",74,0,2013,3,"N","Jackson County, Tennessee","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"47087",5,"812",75,0,2013,1,"N","Jackson County, Tennessee","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"812",75,0,2013,2,"N","Jackson County, Tennessee","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"812",75,0,2013,3,"N","Jackson County, Tennessee","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"8122",76,0,2013,1,"N","Jackson County, Tennessee","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"8122",76,0,2013,2,"N","Jackson County, Tennessee","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"8122",76,0,2013,3,"N","Jackson County, Tennessee","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"81221",77,0,2013,1,"N","Jackson County, Tennessee","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"81221",77,0,2013,2,"N","Jackson County, Tennessee","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"81221",77,0,2013,3,"N","Jackson County, Tennessee","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"812210",78,0,2013,1,"N","Jackson County, Tennessee","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"812210",78,0,2013,2,"N","Jackson County, Tennessee","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"812210",78,0,2013,3,"N","Jackson County, Tennessee","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"813",75,0,2013,1,"N","Jackson County, Tennessee","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"813",75,0,2013,2,"N","Jackson County, Tennessee","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"813",75,0,2013,3,"N","Jackson County, Tennessee","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"8133",76,0,2013,1,"N","Jackson County, Tennessee","Private","Social advocacy organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"8133",76,0,2013,2,"N","Jackson County, Tennessee","Private","Social advocacy organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"8133",76,0,2013,3,"N","Jackson County, Tennessee","Private","Social advocacy organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"81331",77,0,2013,1,"N","Jackson County, Tennessee","Private","Social advocacy organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"81331",77,0,2013,2,"N","Jackson County, Tennessee","Private","Social advocacy organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"81331",77,0,2013,3,"N","Jackson County, Tennessee","Private","Social advocacy organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"813319",78,0,2013,1,"N","Jackson County, Tennessee","Private","Other social advocacy organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"813319",78,0,2013,2,"N","Jackson County, Tennessee","Private","Other social advocacy organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"813319",78,0,2013,3,"N","Jackson County, Tennessee","Private","Other social advocacy organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"47087",5,"814",75,0,2013,1,"N","Jackson County, Tennessee","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"814",75,0,2013,2,"N","Jackson County, Tennessee","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"814",75,0,2013,3,"N","Jackson County, Tennessee","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"8141",76,0,2013,1,"N","Jackson County, Tennessee","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"8141",76,0,2013,2,"N","Jackson County, Tennessee","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"8141",76,0,2013,3,"N","Jackson County, Tennessee","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"81411",77,0,2013,1,"N","Jackson County, Tennessee","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"81411",77,0,2013,2,"N","Jackson County, Tennessee","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"81411",77,0,2013,3,"N","Jackson County, Tennessee","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"47087",5,"814110",78,0,2013,1,"N","Jackson County, Tennessee","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"814110",78,0,2013,2,"N","Jackson County, Tennessee","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"47087",5,"814110",78,0,2013,3,"N","Jackson County, Tennessee","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+

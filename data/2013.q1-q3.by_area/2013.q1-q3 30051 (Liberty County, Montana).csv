@@ -1,0 +1,857 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"30051",0,"10",70,0,2013,1,"","Liberty County, Montana","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",88,474,483,476,3248590,1648439,20372,523
+"30051",0,"10",70,0,2013,2,"","Liberty County, Montana","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",89,515,522,509,3694289,1584102,21961,551
+"30051",0,"10",70,0,2013,3,"","Liberty County, Montana","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",88,470,463,485,3198674,1443003,20343,521
+"30051",1,"10",71,0,2013,1,"","Liberty County, Montana","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,20,26,20,232547,0,0,813
+"30051",1,"10",71,0,2013,2,"","Liberty County, Montana","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,26,25,21,253977,0,0,814
+"30051",1,"10",71,0,2013,3,"","Liberty County, Montana","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,25,20,21,228352,0,0,798
+"30051",1,"102",72,0,2013,1,"","Liberty County, Montana","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,20,26,20,232547,0,0,813
+"30051",1,"102",72,0,2013,2,"","Liberty County, Montana","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,26,25,21,253977,0,0,814
+"30051",1,"102",72,0,2013,3,"","Liberty County, Montana","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,25,20,21,228352,0,0,798
+"30051",1,"1021",73,0,2013,1,"","Liberty County, Montana","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,5,7,5,42866,0,0,582
+"30051",1,"1021",73,0,2013,2,"","Liberty County, Montana","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,7,6,6,38645,0,0,469
+"30051",1,"1021",73,0,2013,3,"","Liberty County, Montana","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,6,7,6,44764,0,0,544
+"30051",1,"1028",73,0,2013,1,"","Liberty County, Montana","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,15,19,15,189681,0,0,893
+"30051",1,"1028",73,0,2013,2,"","Liberty County, Montana","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,19,19,15,215332,0,0,938
+"30051",1,"1028",73,0,2013,3,"","Liberty County, Montana","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,19,13,15,183588,0,0,901
+"30051",1,"48-49",74,0,2013,1,"","Liberty County, Montana","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,5,7,5,42866,0,0,582
+"30051",1,"48-49",74,0,2013,2,"","Liberty County, Montana","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,6,6,38645,0,0,469
+"30051",1,"48-49",74,0,2013,3,"","Liberty County, Montana","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,7,6,44764,0,0,544
+"30051",1,"491",75,0,2013,1,"","Liberty County, Montana","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,7,5,42866,0,0,582
+"30051",1,"491",75,0,2013,2,"","Liberty County, Montana","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,6,6,38645,0,0,469
+"30051",1,"491",75,0,2013,3,"","Liberty County, Montana","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,7,6,44764,0,0,544
+"30051",1,"4911",76,0,2013,1,"","Liberty County, Montana","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,5,7,5,42866,0,0,582
+"30051",1,"4911",76,0,2013,2,"","Liberty County, Montana","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,6,6,38645,0,0,469
+"30051",1,"4911",76,0,2013,3,"","Liberty County, Montana","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,7,6,44764,0,0,544
+"30051",1,"49111",77,0,2013,1,"","Liberty County, Montana","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,5,7,5,42866,0,0,582
+"30051",1,"49111",77,0,2013,2,"","Liberty County, Montana","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,6,6,38645,0,0,469
+"30051",1,"49111",77,0,2013,3,"","Liberty County, Montana","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,6,7,6,44764,0,0,544
+"30051",1,"491110",78,0,2013,1,"","Liberty County, Montana","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,5,7,5,42866,0,0,582
+"30051",1,"491110",78,0,2013,2,"","Liberty County, Montana","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,6,6,38645,0,0,469
+"30051",1,"491110",78,0,2013,3,"","Liberty County, Montana","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,7,6,44764,0,0,544
+"30051",1,"92",74,0,2013,1,"","Liberty County, Montana","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,15,19,15,189681,0,0,893
+"30051",1,"92",74,0,2013,2,"","Liberty County, Montana","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,19,19,15,215332,0,0,938
+"30051",1,"92",74,0,2013,3,"","Liberty County, Montana","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,19,13,15,183588,0,0,901
+"30051",1,"924",75,0,2013,1,"","Liberty County, Montana","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,15,19,15,189681,0,0,893
+"30051",1,"924",75,0,2013,2,"","Liberty County, Montana","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,19,19,15,215332,0,0,938
+"30051",1,"924",75,0,2013,3,"","Liberty County, Montana","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,19,13,15,183588,0,0,901
+"30051",1,"9241",76,0,2013,1,"","Liberty County, Montana","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,15,19,15,189681,0,0,893
+"30051",1,"9241",76,0,2013,2,"","Liberty County, Montana","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,19,19,15,215332,0,0,938
+"30051",1,"9241",76,0,2013,3,"","Liberty County, Montana","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,19,13,15,183588,0,0,901
+"30051",1,"92412",77,0,2013,1,"","Liberty County, Montana","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,15,19,15,189681,0,0,893
+"30051",1,"92412",77,0,2013,2,"","Liberty County, Montana","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,19,19,15,215332,0,0,938
+"30051",1,"92412",77,0,2013,3,"","Liberty County, Montana","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,19,13,15,183588,0,0,901
+"30051",1,"924120",78,0,2013,1,"","Liberty County, Montana","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,15,19,15,189681,0,0,893
+"30051",1,"924120",78,0,2013,2,"","Liberty County, Montana","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,19,19,15,215332,0,0,938
+"30051",1,"924120",78,0,2013,3,"","Liberty County, Montana","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,19,13,15,183588,0,0,901
+"30051",2,"10",71,0,2013,1,"N","Liberty County, Montana","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"10",71,0,2013,2,"N","Liberty County, Montana","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"10",71,0,2013,3,"N","Liberty County, Montana","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"102",72,0,2013,1,"N","Liberty County, Montana","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"102",72,0,2013,2,"N","Liberty County, Montana","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"102",72,0,2013,3,"N","Liberty County, Montana","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"1028",73,0,2013,1,"N","Liberty County, Montana","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"1028",73,0,2013,2,"N","Liberty County, Montana","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"1028",73,0,2013,3,"N","Liberty County, Montana","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"92",74,0,2013,1,"N","Liberty County, Montana","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"92",74,0,2013,2,"N","Liberty County, Montana","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"92",74,0,2013,3,"N","Liberty County, Montana","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"921",75,0,2013,1,"N","Liberty County, Montana","State Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"921",75,0,2013,2,"N","Liberty County, Montana","State Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"921",75,0,2013,3,"N","Liberty County, Montana","State Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"9211",76,0,2013,1,"N","Liberty County, Montana","State Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"9211",76,0,2013,2,"N","Liberty County, Montana","State Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"9211",76,0,2013,3,"N","Liberty County, Montana","State Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"92113",77,0,2013,1,"N","Liberty County, Montana","State Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"92113",77,0,2013,2,"N","Liberty County, Montana","State Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"92113",77,0,2013,3,"N","Liberty County, Montana","State Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"921130",78,0,2013,1,"N","Liberty County, Montana","State Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"921130",78,0,2013,2,"N","Liberty County, Montana","State Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",2,"921130",78,0,2013,3,"N","Liberty County, Montana","State Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"10",71,0,2013,1,"N","Liberty County, Montana","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"30051",3,"10",71,0,2013,2,"N","Liberty County, Montana","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"30051",3,"10",71,0,2013,3,"N","Liberty County, Montana","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"30051",3,"102",72,0,2013,1,"N","Liberty County, Montana","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"30051",3,"102",72,0,2013,2,"N","Liberty County, Montana","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"30051",3,"102",72,0,2013,3,"N","Liberty County, Montana","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"30051",3,"1025",73,0,2013,1,"N","Liberty County, Montana","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"1025",73,0,2013,2,"N","Liberty County, Montana","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"1025",73,0,2013,3,"N","Liberty County, Montana","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"1027",73,0,2013,1,"N","Liberty County, Montana","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"1027",73,0,2013,2,"N","Liberty County, Montana","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"1027",73,0,2013,3,"N","Liberty County, Montana","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"1028",73,0,2013,1,"N","Liberty County, Montana","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"1028",73,0,2013,2,"N","Liberty County, Montana","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"1028",73,0,2013,3,"N","Liberty County, Montana","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"61",74,0,2013,1,"N","Liberty County, Montana","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"61",74,0,2013,2,"N","Liberty County, Montana","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"61",74,0,2013,3,"N","Liberty County, Montana","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"611",75,0,2013,1,"N","Liberty County, Montana","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"611",75,0,2013,2,"N","Liberty County, Montana","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"611",75,0,2013,3,"N","Liberty County, Montana","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"6111",76,0,2013,1,"N","Liberty County, Montana","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"6111",76,0,2013,2,"N","Liberty County, Montana","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"6111",76,0,2013,3,"N","Liberty County, Montana","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"61111",77,0,2013,1,"N","Liberty County, Montana","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"61111",77,0,2013,2,"N","Liberty County, Montana","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"61111",77,0,2013,3,"N","Liberty County, Montana","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"611110",78,0,2013,1,"N","Liberty County, Montana","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"611110",78,0,2013,2,"N","Liberty County, Montana","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"611110",78,0,2013,3,"N","Liberty County, Montana","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"81",74,0,2013,1,"N","Liberty County, Montana","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"81",74,0,2013,2,"N","Liberty County, Montana","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"81",74,0,2013,3,"N","Liberty County, Montana","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"812",75,0,2013,1,"N","Liberty County, Montana","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"812",75,0,2013,2,"N","Liberty County, Montana","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"812",75,0,2013,3,"N","Liberty County, Montana","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"8122",76,0,2013,1,"N","Liberty County, Montana","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"8122",76,0,2013,2,"N","Liberty County, Montana","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"8122",76,0,2013,3,"N","Liberty County, Montana","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"81222",77,0,2013,1,"N","Liberty County, Montana","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"81222",77,0,2013,2,"N","Liberty County, Montana","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"81222",77,0,2013,3,"N","Liberty County, Montana","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"812220",78,0,2013,1,"N","Liberty County, Montana","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"812220",78,0,2013,2,"N","Liberty County, Montana","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"812220",78,0,2013,3,"N","Liberty County, Montana","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"92",74,0,2013,1,"N","Liberty County, Montana","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"92",74,0,2013,2,"N","Liberty County, Montana","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"92",74,0,2013,3,"N","Liberty County, Montana","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",3,"921",75,0,2013,1,"N","Liberty County, Montana","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",3,"921",75,0,2013,2,"N","Liberty County, Montana","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",3,"921",75,0,2013,3,"N","Liberty County, Montana","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",3,"9211",76,0,2013,1,"N","Liberty County, Montana","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",3,"9211",76,0,2013,2,"N","Liberty County, Montana","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",3,"9211",76,0,2013,3,"N","Liberty County, Montana","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",3,"92119",77,0,2013,1,"N","Liberty County, Montana","Local Government","Other general government support","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",3,"92119",77,0,2013,2,"N","Liberty County, Montana","Local Government","Other general government support","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",3,"92119",77,0,2013,3,"N","Liberty County, Montana","Local Government","Other general government support","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",3,"921190",78,0,2013,1,"N","Liberty County, Montana","Local Government","Other general government support","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",3,"921190",78,0,2013,2,"N","Liberty County, Montana","Local Government","Other general government support","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",3,"921190",78,0,2013,3,"N","Liberty County, Montana","Local Government","Other general government support","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",3,"924",75,0,2013,1,"N","Liberty County, Montana","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"924",75,0,2013,2,"N","Liberty County, Montana","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"924",75,0,2013,3,"N","Liberty County, Montana","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"9241",76,0,2013,1,"N","Liberty County, Montana","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"9241",76,0,2013,2,"N","Liberty County, Montana","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"9241",76,0,2013,3,"N","Liberty County, Montana","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"92412",77,0,2013,1,"N","Liberty County, Montana","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"92412",77,0,2013,2,"N","Liberty County, Montana","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"92412",77,0,2013,3,"N","Liberty County, Montana","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"924120",78,0,2013,1,"N","Liberty County, Montana","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"924120",78,0,2013,2,"N","Liberty County, Montana","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",3,"924120",78,0,2013,3,"N","Liberty County, Montana","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"10",71,0,2013,1,"","Liberty County, Montana","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",74,340,339,333,2285184,1308652,19451,521
+"30051",5,"10",71,0,2013,2,"","Liberty County, Montana","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",75,355,360,356,2460847,1173749,20853,530
+"30051",5,"10",71,0,2013,3,"","Liberty County, Montana","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",74,353,357,349,2477340,1127312,19209,540
+"30051",5,"101",72,0,2013,1,"","Liberty County, Montana","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",18,47,45,45,235891,235891,4543,397
+"30051",5,"101",72,0,2013,2,"","Liberty County, Montana","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",18,57,63,59,379795,359695,9951,490
+"30051",5,"101",72,0,2013,3,"","Liberty County, Montana","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",17,55,54,55,445718,389977,9460,627
+"30051",5,"1011",73,0,2013,1,"","Liberty County, Montana","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",13,35,35,38,186526,186526,3315,399
+"30051",5,"1011",73,0,2013,2,"","Liberty County, Montana","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",13,47,49,48,314545,294445,8245,504
+"30051",5,"1011",73,0,2013,3,"","Liberty County, Montana","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",13,45,46,45,380519,332238,8169,646
+"30051",5,"1012",73,0,2013,1,"N","Liberty County, Montana","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"1012",73,0,2013,2,"N","Liberty County, Montana","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"1012",73,0,2013,3,"N","Liberty County, Montana","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"1013",73,0,2013,1,"N","Liberty County, Montana","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"1013",73,0,2013,2,"N","Liberty County, Montana","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"1013",73,0,2013,3,"N","Liberty County, Montana","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"102",72,0,2013,1,"","Liberty County, Montana","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",56,293,294,288,2049293,1072761,14908,540
+"30051",5,"102",72,0,2013,2,"","Liberty County, Montana","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",57,298,297,297,2081052,814054,10902,538
+"30051",5,"102",72,0,2013,3,"","Liberty County, Montana","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",57,298,303,294,2031622,737335,9749,524
+"30051",5,"1021",73,0,2013,1,"","Liberty County, Montana","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",19,83,85,83,621177,586769,8693,571
+"30051",5,"1021",73,0,2013,2,"","Liberty County, Montana","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",20,86,85,85,647718,474232,6855,584
+"30051",5,"1021",73,0,2013,3,"","Liberty County, Montana","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",20,87,90,97,772902,475891,6678,651
+"30051",5,"1022",73,0,2013,1,"N","Liberty County, Montana","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"1022",73,0,2013,2,"N","Liberty County, Montana","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"1022",73,0,2013,3,"N","Liberty County, Montana","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"1023",73,0,2013,1,"","Liberty County, Montana","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",7,24,25,24,430477,296126,3817,1361
+"30051",5,"1023",73,0,2013,2,"","Liberty County, Montana","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",7,25,26,27,300008,130398,1581,888
+"30051",5,"1023",73,0,2013,3,"","Liberty County, Montana","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",7,28,28,28,271049,93214,1133,745
+"30051",5,"1024",73,0,2013,1,"","Liberty County, Montana","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,8,9,8,55639,55639,809,514
+"30051",5,"1024",73,0,2013,2,"","Liberty County, Montana","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,11,9,8,54670,43187,514,451
+"30051",5,"1024",73,0,2013,3,"","Liberty County, Montana","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,6,7,8,50946,23897,218,560
+"30051",5,"1025",73,0,2013,1,"N","Liberty County, Montana","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"1025",73,0,2013,2,"N","Liberty County, Montana","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"1025",73,0,2013,3,"N","Liberty County, Montana","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"1026",73,0,2013,1,"","Liberty County, Montana","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",8,34,36,32,54777,54777,828,124
+"30051",5,"1026",73,0,2013,2,"","Liberty County, Montana","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",8,33,36,38,65327,65327,954,141
+"30051",5,"1026",73,0,2013,3,"","Liberty County, Montana","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",8,37,39,34,72386,72386,1042,152
+"30051",5,"1027",73,0,2013,1,"","Liberty County, Montana","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",11,20,17,19,50785,39409,331,209
+"30051",5,"1027",73,0,2013,2,"","Liberty County, Montana","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",11,20,17,18,46047,34687,297,193
+"30051",5,"1027",73,0,2013,3,"","Liberty County, Montana","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",11,16,14,14,40112,31912,269,210
+"30051",5,"11",74,0,2013,1,"N","Liberty County, Montana","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"30051",5,"11",74,0,2013,2,"N","Liberty County, Montana","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"30051",5,"11",74,0,2013,3,"N","Liberty County, Montana","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"30051",5,"111",75,0,2013,1,"","Liberty County, Montana","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,13,12,12,73556,73556,1087,459
+"30051",5,"111",75,0,2013,2,"","Liberty County, Montana","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,10,9,9,65383,55283,707,539
+"30051",5,"111",75,0,2013,3,"","Liberty County, Montana","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,9,8,136414,118212,1799,1259
+"30051",5,"1111",76,0,2013,1,"","Liberty County, Montana","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,13,12,12,73556,73556,1087,459
+"30051",5,"1111",76,0,2013,2,"","Liberty County, Montana","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,10,9,9,65383,55283,707,539
+"30051",5,"1111",76,0,2013,3,"","Liberty County, Montana","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,9,8,136414,118212,1799,1259
+"30051",5,"11114",77,0,2013,1,"N","Liberty County, Montana","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"11114",77,0,2013,2,"N","Liberty County, Montana","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"11114",77,0,2013,3,"N","Liberty County, Montana","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"111140",78,0,2013,1,"N","Liberty County, Montana","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"111140",78,0,2013,2,"N","Liberty County, Montana","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"111140",78,0,2013,3,"N","Liberty County, Montana","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"11119",77,0,2013,1,"N","Liberty County, Montana","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"11119",77,0,2013,2,"N","Liberty County, Montana","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"11119",77,0,2013,3,"N","Liberty County, Montana","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"111191",78,0,2013,1,"N","Liberty County, Montana","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"111191",78,0,2013,2,"N","Liberty County, Montana","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"111191",78,0,2013,3,"N","Liberty County, Montana","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"111199",78,0,2013,1,"N","Liberty County, Montana","Private","All other grain farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"111199",78,0,2013,2,"N","Liberty County, Montana","Private","All other grain farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"111199",78,0,2013,3,"N","Liberty County, Montana","Private","All other grain farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"112",75,0,2013,1,"N","Liberty County, Montana","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"112",75,0,2013,2,"N","Liberty County, Montana","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"112",75,0,2013,3,"N","Liberty County, Montana","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"1121",76,0,2013,1,"N","Liberty County, Montana","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"1121",76,0,2013,2,"N","Liberty County, Montana","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"1121",76,0,2013,3,"N","Liberty County, Montana","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"11211",77,0,2013,1,"N","Liberty County, Montana","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"11211",77,0,2013,2,"N","Liberty County, Montana","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"11211",77,0,2013,3,"N","Liberty County, Montana","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"112111",78,0,2013,1,"N","Liberty County, Montana","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"112111",78,0,2013,2,"N","Liberty County, Montana","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"112111",78,0,2013,3,"N","Liberty County, Montana","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"115",75,0,2013,1,"","Liberty County, Montana","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,3,3,6,20450,20450,835,393
+"30051",5,"115",75,0,2013,2,"","Liberty County, Montana","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,11,13,13,117848,107848,5659,735
+"30051",5,"115",75,0,2013,3,"","Liberty County, Montana","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,14,14,13,112100,87466,4534,631
+"30051",5,"1151",76,0,2013,1,"N","Liberty County, Montana","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"1151",76,0,2013,2,"N","Liberty County, Montana","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"1151",76,0,2013,3,"N","Liberty County, Montana","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"11511",77,0,2013,1,"N","Liberty County, Montana","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"11511",77,0,2013,2,"N","Liberty County, Montana","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"11511",77,0,2013,3,"N","Liberty County, Montana","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"115112",78,0,2013,1,"N","Liberty County, Montana","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"115112",78,0,2013,2,"N","Liberty County, Montana","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"115112",78,0,2013,3,"N","Liberty County, Montana","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"1153",76,0,2013,1,"N","Liberty County, Montana","Private","Support activities for forestry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"1153",76,0,2013,2,"N","Liberty County, Montana","Private","Support activities for forestry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"1153",76,0,2013,3,"N","Liberty County, Montana","Private","Support activities for forestry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"11531",77,0,2013,1,"N","Liberty County, Montana","Private","Support activities for forestry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"11531",77,0,2013,2,"N","Liberty County, Montana","Private","Support activities for forestry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"11531",77,0,2013,3,"N","Liberty County, Montana","Private","Support activities for forestry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"115310",78,0,2013,1,"N","Liberty County, Montana","Private","Support activities for forestry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"115310",78,0,2013,2,"N","Liberty County, Montana","Private","Support activities for forestry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"115310",78,0,2013,3,"N","Liberty County, Montana","Private","Support activities for forestry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"21",74,0,2013,1,"N","Liberty County, Montana","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"21",74,0,2013,2,"N","Liberty County, Montana","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"21",74,0,2013,3,"N","Liberty County, Montana","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"211",75,0,2013,1,"N","Liberty County, Montana","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"211",75,0,2013,2,"N","Liberty County, Montana","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"211",75,0,2013,3,"N","Liberty County, Montana","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2111",76,0,2013,1,"N","Liberty County, Montana","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2111",76,0,2013,2,"N","Liberty County, Montana","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2111",76,0,2013,3,"N","Liberty County, Montana","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"21111",77,0,2013,1,"N","Liberty County, Montana","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"21111",77,0,2013,2,"N","Liberty County, Montana","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"21111",77,0,2013,3,"N","Liberty County, Montana","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"211111",78,0,2013,1,"N","Liberty County, Montana","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"211111",78,0,2013,2,"N","Liberty County, Montana","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"211111",78,0,2013,3,"N","Liberty County, Montana","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"212",75,0,2013,1,"N","Liberty County, Montana","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"212",75,0,2013,2,"N","Liberty County, Montana","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"212",75,0,2013,3,"N","Liberty County, Montana","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2123",76,0,2013,1,"N","Liberty County, Montana","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2123",76,0,2013,2,"N","Liberty County, Montana","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2123",76,0,2013,3,"N","Liberty County, Montana","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"21232",77,0,2013,1,"N","Liberty County, Montana","Private","Sand, gravel, clay, and refractory mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"21232",77,0,2013,2,"N","Liberty County, Montana","Private","Sand, gravel, clay, and refractory mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"21232",77,0,2013,3,"N","Liberty County, Montana","Private","Sand, gravel, clay, and refractory mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"212321",78,0,2013,1,"N","Liberty County, Montana","Private","Construction sand and gravel mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"212321",78,0,2013,2,"N","Liberty County, Montana","Private","Construction sand and gravel mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"212321",78,0,2013,3,"N","Liberty County, Montana","Private","Construction sand and gravel mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"213",75,0,2013,1,"N","Liberty County, Montana","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"213",75,0,2013,2,"N","Liberty County, Montana","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"213",75,0,2013,3,"N","Liberty County, Montana","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2131",76,0,2013,1,"N","Liberty County, Montana","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2131",76,0,2013,2,"N","Liberty County, Montana","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2131",76,0,2013,3,"N","Liberty County, Montana","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"21311",77,0,2013,1,"N","Liberty County, Montana","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"21311",77,0,2013,2,"N","Liberty County, Montana","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"21311",77,0,2013,3,"N","Liberty County, Montana","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"213112",78,0,2013,1,"N","Liberty County, Montana","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"213112",78,0,2013,2,"N","Liberty County, Montana","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"213112",78,0,2013,3,"N","Liberty County, Montana","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"22",74,0,2013,1,"N","Liberty County, Montana","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"22",74,0,2013,2,"N","Liberty County, Montana","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"22",74,0,2013,3,"N","Liberty County, Montana","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"221",75,0,2013,1,"N","Liberty County, Montana","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"221",75,0,2013,2,"N","Liberty County, Montana","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"221",75,0,2013,3,"N","Liberty County, Montana","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"2211",76,0,2013,1,"N","Liberty County, Montana","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2211",76,0,2013,2,"N","Liberty County, Montana","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2211",76,0,2013,3,"N","Liberty County, Montana","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"22112",77,0,2013,1,"N","Liberty County, Montana","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"22112",77,0,2013,2,"N","Liberty County, Montana","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"22112",77,0,2013,3,"N","Liberty County, Montana","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"221122",78,0,2013,1,"N","Liberty County, Montana","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"221122",78,0,2013,2,"N","Liberty County, Montana","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"221122",78,0,2013,3,"N","Liberty County, Montana","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2213",76,0,2013,1,"N","Liberty County, Montana","Private","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2213",76,0,2013,2,"N","Liberty County, Montana","Private","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2213",76,0,2013,3,"N","Liberty County, Montana","Private","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"22131",77,0,2013,1,"N","Liberty County, Montana","Private","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"22131",77,0,2013,2,"N","Liberty County, Montana","Private","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"22131",77,0,2013,3,"N","Liberty County, Montana","Private","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"221310",78,0,2013,1,"N","Liberty County, Montana","Private","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"221310",78,0,2013,2,"N","Liberty County, Montana","Private","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"221310",78,0,2013,3,"N","Liberty County, Montana","Private","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"23",74,0,2013,1,"N","Liberty County, Montana","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"23",74,0,2013,2,"N","Liberty County, Montana","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"23",74,0,2013,3,"N","Liberty County, Montana","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"236",75,0,2013,1,"N","Liberty County, Montana","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"236",75,0,2013,2,"N","Liberty County, Montana","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"236",75,0,2013,3,"N","Liberty County, Montana","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2361",76,0,2013,1,"N","Liberty County, Montana","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2361",76,0,2013,2,"N","Liberty County, Montana","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2361",76,0,2013,3,"N","Liberty County, Montana","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"23611",77,0,2013,1,"N","Liberty County, Montana","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"23611",77,0,2013,2,"N","Liberty County, Montana","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"23611",77,0,2013,3,"N","Liberty County, Montana","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"236115",78,0,2013,1,"N","Liberty County, Montana","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"236115",78,0,2013,2,"N","Liberty County, Montana","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"236115",78,0,2013,3,"N","Liberty County, Montana","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"238",75,0,2013,1,"N","Liberty County, Montana","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"238",75,0,2013,2,"N","Liberty County, Montana","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"238",75,0,2013,3,"N","Liberty County, Montana","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"2381",76,0,2013,1,"N","Liberty County, Montana","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2381",76,0,2013,2,"N","Liberty County, Montana","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2381",76,0,2013,3,"N","Liberty County, Montana","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"23811",77,0,2013,1,"N","Liberty County, Montana","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"23811",77,0,2013,2,"N","Liberty County, Montana","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"23811",77,0,2013,3,"N","Liberty County, Montana","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"238112",78,0,2013,1,"N","Liberty County, Montana","Private","Nonresidential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"238112",78,0,2013,2,"N","Liberty County, Montana","Private","Nonresidential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"238112",78,0,2013,3,"N","Liberty County, Montana","Private","Nonresidential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2383",76,0,2013,1,"N","Liberty County, Montana","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2383",76,0,2013,2,"N","Liberty County, Montana","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2383",76,0,2013,3,"-","Liberty County, Montana","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"30051",5,"23835",77,0,2013,1,"N","Liberty County, Montana","Private","Finish carpentry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"23835",77,0,2013,2,"N","Liberty County, Montana","Private","Finish carpentry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"23835",77,0,2013,3,"-","Liberty County, Montana","Private","Finish carpentry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"30051",5,"238351",78,0,2013,1,"N","Liberty County, Montana","Private","Residential finish carpentry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"238351",78,0,2013,2,"N","Liberty County, Montana","Private","Residential finish carpentry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"238351",78,0,2013,3,"-","Liberty County, Montana","Private","Residential finish carpentry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"30051",5,"2389",76,0,2013,1,"N","Liberty County, Montana","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2389",76,0,2013,2,"N","Liberty County, Montana","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"2389",76,0,2013,3,"N","Liberty County, Montana","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"23891",77,0,2013,1,"N","Liberty County, Montana","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"23891",77,0,2013,2,"N","Liberty County, Montana","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"23891",77,0,2013,3,"N","Liberty County, Montana","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"238912",78,0,2013,1,"N","Liberty County, Montana","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"238912",78,0,2013,2,"N","Liberty County, Montana","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"238912",78,0,2013,3,"N","Liberty County, Montana","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"31-33",74,0,2013,1,"N","Liberty County, Montana","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"31-33",74,0,2013,2,"N","Liberty County, Montana","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"31-33",74,0,2013,3,"N","Liberty County, Montana","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"325",75,0,2013,1,"N","Liberty County, Montana","Private","Chemical manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"325",75,0,2013,2,"N","Liberty County, Montana","Private","Chemical manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"325",75,0,2013,3,"N","Liberty County, Montana","Private","Chemical manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"3251",76,0,2013,1,"N","Liberty County, Montana","Private","Basic chemical manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"3251",76,0,2013,2,"N","Liberty County, Montana","Private","Basic chemical manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"3251",76,0,2013,3,"N","Liberty County, Montana","Private","Basic chemical manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"32519",77,0,2013,1,"N","Liberty County, Montana","Private","Other basic organic chemical manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"32519",77,0,2013,2,"N","Liberty County, Montana","Private","Other basic organic chemical manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"32519",77,0,2013,3,"N","Liberty County, Montana","Private","Other basic organic chemical manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"325199",78,0,2013,1,"N","Liberty County, Montana","Private","All other basic organic chemical mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"325199",78,0,2013,2,"N","Liberty County, Montana","Private","All other basic organic chemical mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"325199",78,0,2013,3,"N","Liberty County, Montana","Private","All other basic organic chemical mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"42",74,0,2013,1,"","Liberty County, Montana","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",7,30,32,33,336561,308071,5667,818
+"30051",5,"42",74,0,2013,2,"","Liberty County, Montana","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",7,36,33,33,404309,250094,4554,915
+"30051",5,"42",74,0,2013,3,"","Liberty County, Montana","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",7,35,39,40,455822,208365,3758,923
+"30051",5,"423",75,0,2013,1,"N","Liberty County, Montana","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"423",75,0,2013,2,"N","Liberty County, Montana","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"423",75,0,2013,3,"N","Liberty County, Montana","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4238",76,0,2013,1,"N","Liberty County, Montana","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4238",76,0,2013,2,"N","Liberty County, Montana","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4238",76,0,2013,3,"N","Liberty County, Montana","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"42382",77,0,2013,1,"N","Liberty County, Montana","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"42382",77,0,2013,2,"N","Liberty County, Montana","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"42382",77,0,2013,3,"N","Liberty County, Montana","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"423820",78,0,2013,1,"N","Liberty County, Montana","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"423820",78,0,2013,2,"N","Liberty County, Montana","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"423820",78,0,2013,3,"N","Liberty County, Montana","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"424",75,0,2013,1,"","Liberty County, Montana","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,20,22,21,200839,172349,3360,736
+"30051",5,"424",75,0,2013,2,"","Liberty County, Montana","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,22,21,21,216220,111512,2198,780
+"30051",5,"424",75,0,2013,3,"","Liberty County, Montana","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,23,23,23,236628,109100,2070,791
+"30051",5,"4242",76,0,2013,1,"N","Liberty County, Montana","Private","Druggists' goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4242",76,0,2013,2,"N","Liberty County, Montana","Private","Druggists' goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4242",76,0,2013,3,"N","Liberty County, Montana","Private","Druggists' goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"42421",77,0,2013,1,"N","Liberty County, Montana","Private","Druggists' goods merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"42421",77,0,2013,2,"N","Liberty County, Montana","Private","Druggists' goods merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"42421",77,0,2013,3,"N","Liberty County, Montana","Private","Druggists' goods merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"424210",78,0,2013,1,"N","Liberty County, Montana","Private","Druggists' goods merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"424210",78,0,2013,2,"N","Liberty County, Montana","Private","Druggists' goods merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"424210",78,0,2013,3,"N","Liberty County, Montana","Private","Druggists' goods merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4245",76,0,2013,1,"N","Liberty County, Montana","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"4245",76,0,2013,2,"N","Liberty County, Montana","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"4245",76,0,2013,3,"N","Liberty County, Montana","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"42451",77,0,2013,1,"N","Liberty County, Montana","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"42451",77,0,2013,2,"N","Liberty County, Montana","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"42451",77,0,2013,3,"N","Liberty County, Montana","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"424510",78,0,2013,1,"N","Liberty County, Montana","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"424510",78,0,2013,2,"N","Liberty County, Montana","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"424510",78,0,2013,3,"N","Liberty County, Montana","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"4249",76,0,2013,1,"N","Liberty County, Montana","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"4249",76,0,2013,2,"N","Liberty County, Montana","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"4249",76,0,2013,3,"N","Liberty County, Montana","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"42491",77,0,2013,1,"N","Liberty County, Montana","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"42491",77,0,2013,2,"N","Liberty County, Montana","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"42491",77,0,2013,3,"N","Liberty County, Montana","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"424910",78,0,2013,1,"N","Liberty County, Montana","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"424910",78,0,2013,2,"N","Liberty County, Montana","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"424910",78,0,2013,3,"N","Liberty County, Montana","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"425",75,0,2013,1,"N","Liberty County, Montana","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"425",75,0,2013,2,"N","Liberty County, Montana","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"425",75,0,2013,3,"N","Liberty County, Montana","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4251",76,0,2013,1,"N","Liberty County, Montana","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4251",76,0,2013,2,"N","Liberty County, Montana","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4251",76,0,2013,3,"N","Liberty County, Montana","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"42512",77,0,2013,1,"N","Liberty County, Montana","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"42512",77,0,2013,2,"N","Liberty County, Montana","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"42512",77,0,2013,3,"N","Liberty County, Montana","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"425120",78,0,2013,1,"N","Liberty County, Montana","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"425120",78,0,2013,2,"N","Liberty County, Montana","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"425120",78,0,2013,3,"N","Liberty County, Montana","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44-45",74,0,2013,1,"","Liberty County, Montana","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,42,42,41,222375,222375,2487,411
+"30051",5,"44-45",74,0,2013,2,"","Liberty County, Montana","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,41,44,47,192709,192709,2013,337
+"30051",5,"44-45",74,0,2013,3,"","Liberty County, Montana","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,44,43,40,260476,237264,2673,473
+"30051",5,"441",75,0,2013,1,"N","Liberty County, Montana","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"441",75,0,2013,2,"N","Liberty County, Montana","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"441",75,0,2013,3,"N","Liberty County, Montana","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4413",76,0,2013,1,"N","Liberty County, Montana","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4413",76,0,2013,2,"N","Liberty County, Montana","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4413",76,0,2013,3,"N","Liberty County, Montana","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44131",77,0,2013,1,"N","Liberty County, Montana","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44131",77,0,2013,2,"N","Liberty County, Montana","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44131",77,0,2013,3,"N","Liberty County, Montana","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"441310",78,0,2013,1,"N","Liberty County, Montana","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"441310",78,0,2013,2,"N","Liberty County, Montana","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"441310",78,0,2013,3,"N","Liberty County, Montana","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"444",75,0,2013,1,"N","Liberty County, Montana","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"444",75,0,2013,2,"N","Liberty County, Montana","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"444",75,0,2013,3,"N","Liberty County, Montana","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"4441",76,0,2013,1,"N","Liberty County, Montana","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"4441",76,0,2013,2,"N","Liberty County, Montana","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"4441",76,0,2013,3,"N","Liberty County, Montana","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"44413",77,0,2013,1,"N","Liberty County, Montana","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44413",77,0,2013,2,"N","Liberty County, Montana","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44413",77,0,2013,3,"N","Liberty County, Montana","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"444130",78,0,2013,1,"N","Liberty County, Montana","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"444130",78,0,2013,2,"N","Liberty County, Montana","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"444130",78,0,2013,3,"N","Liberty County, Montana","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44419",77,0,2013,1,"N","Liberty County, Montana","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44419",77,0,2013,2,"N","Liberty County, Montana","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44419",77,0,2013,3,"N","Liberty County, Montana","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"444190",78,0,2013,1,"N","Liberty County, Montana","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"444190",78,0,2013,2,"N","Liberty County, Montana","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"444190",78,0,2013,3,"N","Liberty County, Montana","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"445",75,0,2013,1,"N","Liberty County, Montana","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"445",75,0,2013,2,"N","Liberty County, Montana","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"445",75,0,2013,3,"N","Liberty County, Montana","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"4451",76,0,2013,1,"N","Liberty County, Montana","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"4451",76,0,2013,2,"N","Liberty County, Montana","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"4451",76,0,2013,3,"N","Liberty County, Montana","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"44511",77,0,2013,1,"N","Liberty County, Montana","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44511",77,0,2013,2,"N","Liberty County, Montana","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44511",77,0,2013,3,"N","Liberty County, Montana","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"445110",78,0,2013,1,"N","Liberty County, Montana","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"445110",78,0,2013,2,"N","Liberty County, Montana","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"445110",78,0,2013,3,"N","Liberty County, Montana","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44512",77,0,2013,1,"N","Liberty County, Montana","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44512",77,0,2013,2,"N","Liberty County, Montana","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44512",77,0,2013,3,"N","Liberty County, Montana","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"445120",78,0,2013,1,"N","Liberty County, Montana","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"445120",78,0,2013,2,"N","Liberty County, Montana","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"445120",78,0,2013,3,"N","Liberty County, Montana","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"446",75,0,2013,1,"-","Liberty County, Montana","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"30051",5,"446",75,0,2013,2,"N","Liberty County, Montana","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"446",75,0,2013,3,"N","Liberty County, Montana","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4461",76,0,2013,1,"-","Liberty County, Montana","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"30051",5,"4461",76,0,2013,2,"N","Liberty County, Montana","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4461",76,0,2013,3,"N","Liberty County, Montana","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44611",77,0,2013,1,"-","Liberty County, Montana","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"30051",5,"44611",77,0,2013,2,"N","Liberty County, Montana","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44611",77,0,2013,3,"N","Liberty County, Montana","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"446110",78,0,2013,1,"-","Liberty County, Montana","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"30051",5,"446110",78,0,2013,2,"N","Liberty County, Montana","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"446110",78,0,2013,3,"N","Liberty County, Montana","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"447",75,0,2013,1,"N","Liberty County, Montana","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"447",75,0,2013,2,"N","Liberty County, Montana","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"447",75,0,2013,3,"N","Liberty County, Montana","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4471",76,0,2013,1,"N","Liberty County, Montana","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4471",76,0,2013,2,"N","Liberty County, Montana","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4471",76,0,2013,3,"N","Liberty County, Montana","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44719",77,0,2013,1,"N","Liberty County, Montana","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44719",77,0,2013,2,"N","Liberty County, Montana","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"44719",77,0,2013,3,"N","Liberty County, Montana","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"447190",78,0,2013,1,"N","Liberty County, Montana","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"447190",78,0,2013,2,"N","Liberty County, Montana","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"447190",78,0,2013,3,"N","Liberty County, Montana","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"453",75,0,2013,1,"N","Liberty County, Montana","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"453",75,0,2013,2,"N","Liberty County, Montana","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"453",75,0,2013,3,"N","Liberty County, Montana","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4531",76,0,2013,1,"N","Liberty County, Montana","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4531",76,0,2013,2,"N","Liberty County, Montana","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4531",76,0,2013,3,"N","Liberty County, Montana","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"45311",77,0,2013,1,"N","Liberty County, Montana","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"45311",77,0,2013,2,"N","Liberty County, Montana","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"45311",77,0,2013,3,"N","Liberty County, Montana","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"453110",78,0,2013,1,"N","Liberty County, Montana","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"453110",78,0,2013,2,"N","Liberty County, Montana","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"453110",78,0,2013,3,"N","Liberty County, Montana","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"454",75,0,2013,1,"N","Liberty County, Montana","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"454",75,0,2013,2,"N","Liberty County, Montana","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"454",75,0,2013,3,"N","Liberty County, Montana","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4541",76,0,2013,1,"N","Liberty County, Montana","Private","Electronic shopping and mail-order houses","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4541",76,0,2013,2,"N","Liberty County, Montana","Private","Electronic shopping and mail-order houses","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4541",76,0,2013,3,"N","Liberty County, Montana","Private","Electronic shopping and mail-order houses","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"45411",77,0,2013,1,"N","Liberty County, Montana","Private","Electronic shopping and mail-order houses","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"45411",77,0,2013,2,"N","Liberty County, Montana","Private","Electronic shopping and mail-order houses","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"45411",77,0,2013,3,"N","Liberty County, Montana","Private","Electronic shopping and mail-order houses","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"454111",78,0,2013,1,"N","Liberty County, Montana","Private","Electronic shopping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"454111",78,0,2013,2,"N","Liberty County, Montana","Private","Electronic shopping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"454111",78,0,2013,3,"N","Liberty County, Montana","Private","Electronic shopping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"48-49",74,0,2013,1,"N","Liberty County, Montana","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"48-49",74,0,2013,2,"N","Liberty County, Montana","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"48-49",74,0,2013,3,"N","Liberty County, Montana","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"484",75,0,2013,1,"N","Liberty County, Montana","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"484",75,0,2013,2,"N","Liberty County, Montana","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"484",75,0,2013,3,"N","Liberty County, Montana","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4842",76,0,2013,1,"N","Liberty County, Montana","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4842",76,0,2013,2,"N","Liberty County, Montana","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4842",76,0,2013,3,"N","Liberty County, Montana","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"48422",77,0,2013,1,"N","Liberty County, Montana","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"48422",77,0,2013,2,"N","Liberty County, Montana","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"48422",77,0,2013,3,"N","Liberty County, Montana","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"484220",78,0,2013,1,"N","Liberty County, Montana","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"484220",78,0,2013,2,"N","Liberty County, Montana","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"484220",78,0,2013,3,"N","Liberty County, Montana","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"485",75,0,2013,1,"N","Liberty County, Montana","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"485",75,0,2013,2,"N","Liberty County, Montana","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"485",75,0,2013,3,"N","Liberty County, Montana","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4854",76,0,2013,1,"N","Liberty County, Montana","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4854",76,0,2013,2,"N","Liberty County, Montana","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"4854",76,0,2013,3,"N","Liberty County, Montana","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"48541",77,0,2013,1,"N","Liberty County, Montana","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"48541",77,0,2013,2,"N","Liberty County, Montana","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"48541",77,0,2013,3,"N","Liberty County, Montana","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"485410",78,0,2013,1,"N","Liberty County, Montana","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"485410",78,0,2013,2,"N","Liberty County, Montana","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"485410",78,0,2013,3,"N","Liberty County, Montana","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"51",74,0,2013,1,"N","Liberty County, Montana","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"51",74,0,2013,2,"N","Liberty County, Montana","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"51",74,0,2013,3,"N","Liberty County, Montana","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"511",75,0,2013,1,"N","Liberty County, Montana","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"511",75,0,2013,2,"N","Liberty County, Montana","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"511",75,0,2013,3,"N","Liberty County, Montana","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5111",76,0,2013,1,"N","Liberty County, Montana","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5111",76,0,2013,2,"N","Liberty County, Montana","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5111",76,0,2013,3,"N","Liberty County, Montana","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"51111",77,0,2013,1,"N","Liberty County, Montana","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"51111",77,0,2013,2,"N","Liberty County, Montana","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"51111",77,0,2013,3,"N","Liberty County, Montana","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"511110",78,0,2013,1,"N","Liberty County, Montana","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"511110",78,0,2013,2,"N","Liberty County, Montana","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"511110",78,0,2013,3,"N","Liberty County, Montana","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"52",74,0,2013,1,"N","Liberty County, Montana","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"30051",5,"52",74,0,2013,2,"N","Liberty County, Montana","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"30051",5,"52",74,0,2013,3,"N","Liberty County, Montana","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"30051",5,"522",75,0,2013,1,"","Liberty County, Montana","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,8,8,77983,62025,672,750
+"30051",5,"522",75,0,2013,2,"","Liberty County, Montana","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,8,8,69667,42614,447,670
+"30051",5,"522",75,0,2013,3,"","Liberty County, Montana","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,8,8,70811,29436,322,681
+"30051",5,"5221",76,0,2013,1,"","Liberty County, Montana","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,8,8,77983,62025,672,750
+"30051",5,"5221",76,0,2013,2,"","Liberty County, Montana","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,8,8,69667,42614,447,670
+"30051",5,"5221",76,0,2013,3,"","Liberty County, Montana","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,8,8,70811,29436,322,681
+"30051",5,"52211",77,0,2013,1,"","Liberty County, Montana","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,8,8,8,77983,62025,672,750
+"30051",5,"52211",77,0,2013,2,"","Liberty County, Montana","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,8,8,8,69667,42614,447,670
+"30051",5,"52211",77,0,2013,3,"","Liberty County, Montana","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,8,8,8,70811,29436,322,681
+"30051",5,"522110",78,0,2013,1,"","Liberty County, Montana","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,8,8,8,77983,62025,672,750
+"30051",5,"522110",78,0,2013,2,"","Liberty County, Montana","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,8,8,8,69667,42614,447,670
+"30051",5,"522110",78,0,2013,3,"","Liberty County, Montana","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,8,8,8,70811,29436,322,681
+"30051",5,"523",75,0,2013,1,"N","Liberty County, Montana","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"523",75,0,2013,2,"N","Liberty County, Montana","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"523",75,0,2013,3,"N","Liberty County, Montana","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5231",76,0,2013,1,"N","Liberty County, Montana","Private","Securities and commodity contracts brokerage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5231",76,0,2013,2,"N","Liberty County, Montana","Private","Securities and commodity contracts brokerage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5231",76,0,2013,3,"N","Liberty County, Montana","Private","Securities and commodity contracts brokerage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"52312",77,0,2013,1,"N","Liberty County, Montana","Private","Securities brokerage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"52312",77,0,2013,2,"N","Liberty County, Montana","Private","Securities brokerage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"52312",77,0,2013,3,"N","Liberty County, Montana","Private","Securities brokerage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"523120",78,0,2013,1,"N","Liberty County, Montana","Private","Securities brokerage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"523120",78,0,2013,2,"N","Liberty County, Montana","Private","Securities brokerage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"523120",78,0,2013,3,"N","Liberty County, Montana","Private","Securities brokerage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"524",75,0,2013,1,"N","Liberty County, Montana","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"524",75,0,2013,2,"N","Liberty County, Montana","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"524",75,0,2013,3,"N","Liberty County, Montana","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"5242",76,0,2013,1,"N","Liberty County, Montana","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"5242",76,0,2013,2,"N","Liberty County, Montana","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"5242",76,0,2013,3,"N","Liberty County, Montana","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"52421",77,0,2013,1,"N","Liberty County, Montana","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"52421",77,0,2013,2,"N","Liberty County, Montana","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"52421",77,0,2013,3,"N","Liberty County, Montana","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"524210",78,0,2013,1,"N","Liberty County, Montana","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"524210",78,0,2013,2,"N","Liberty County, Montana","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"524210",78,0,2013,3,"N","Liberty County, Montana","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"53",74,0,2013,1,"N","Liberty County, Montana","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"53",74,0,2013,2,"N","Liberty County, Montana","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"53",74,0,2013,3,"N","Liberty County, Montana","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"531",75,0,2013,1,"N","Liberty County, Montana","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"531",75,0,2013,2,"N","Liberty County, Montana","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"531",75,0,2013,3,"N","Liberty County, Montana","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5311",76,0,2013,1,"N","Liberty County, Montana","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5311",76,0,2013,2,"N","Liberty County, Montana","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5311",76,0,2013,3,"N","Liberty County, Montana","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"53111",77,0,2013,1,"N","Liberty County, Montana","Private","Lessors of residential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"53111",77,0,2013,2,"N","Liberty County, Montana","Private","Lessors of residential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"53111",77,0,2013,3,"N","Liberty County, Montana","Private","Lessors of residential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"531110",78,0,2013,1,"N","Liberty County, Montana","Private","Lessors of residential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"531110",78,0,2013,2,"N","Liberty County, Montana","Private","Lessors of residential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"531110",78,0,2013,3,"N","Liberty County, Montana","Private","Lessors of residential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"54",74,0,2013,1,"N","Liberty County, Montana","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"30051",5,"54",74,0,2013,2,"N","Liberty County, Montana","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"30051",5,"54",74,0,2013,3,"N","Liberty County, Montana","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"30051",5,"541",75,0,2013,1,"N","Liberty County, Montana","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"30051",5,"541",75,0,2013,2,"N","Liberty County, Montana","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"30051",5,"541",75,0,2013,3,"N","Liberty County, Montana","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"30051",5,"5411",76,0,2013,1,"N","Liberty County, Montana","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5411",76,0,2013,2,"N","Liberty County, Montana","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5411",76,0,2013,3,"N","Liberty County, Montana","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"54111",77,0,2013,1,"N","Liberty County, Montana","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"54111",77,0,2013,2,"N","Liberty County, Montana","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"54111",77,0,2013,3,"N","Liberty County, Montana","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"541110",78,0,2013,1,"N","Liberty County, Montana","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"541110",78,0,2013,2,"N","Liberty County, Montana","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"541110",78,0,2013,3,"N","Liberty County, Montana","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5412",76,0,2013,1,"N","Liberty County, Montana","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"5412",76,0,2013,2,"N","Liberty County, Montana","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"5412",76,0,2013,3,"N","Liberty County, Montana","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"54121",77,0,2013,1,"N","Liberty County, Montana","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"54121",77,0,2013,2,"N","Liberty County, Montana","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"54121",77,0,2013,3,"N","Liberty County, Montana","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"541211",78,0,2013,1,"N","Liberty County, Montana","Private","Offices of certified public accountants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"541211",78,0,2013,2,"N","Liberty County, Montana","Private","Offices of certified public accountants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"541211",78,0,2013,3,"N","Liberty County, Montana","Private","Offices of certified public accountants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"5413",76,0,2013,1,"N","Liberty County, Montana","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5413",76,0,2013,2,"N","Liberty County, Montana","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5413",76,0,2013,3,"N","Liberty County, Montana","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"54137",77,0,2013,1,"N","Liberty County, Montana","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"54137",77,0,2013,2,"N","Liberty County, Montana","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"54137",77,0,2013,3,"N","Liberty County, Montana","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"541370",78,0,2013,1,"N","Liberty County, Montana","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"541370",78,0,2013,2,"N","Liberty County, Montana","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"541370",78,0,2013,3,"N","Liberty County, Montana","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5419",76,0,2013,1,"N","Liberty County, Montana","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5419",76,0,2013,2,"N","Liberty County, Montana","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5419",76,0,2013,3,"N","Liberty County, Montana","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"54191",77,0,2013,1,"N","Liberty County, Montana","Private","Marketing research and public opinion polling","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"54191",77,0,2013,2,"N","Liberty County, Montana","Private","Marketing research and public opinion polling","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"54191",77,0,2013,3,"N","Liberty County, Montana","Private","Marketing research and public opinion polling","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"541910",78,0,2013,1,"N","Liberty County, Montana","Private","Marketing research and public opinion polling","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"541910",78,0,2013,2,"N","Liberty County, Montana","Private","Marketing research and public opinion polling","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"541910",78,0,2013,3,"N","Liberty County, Montana","Private","Marketing research and public opinion polling","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"56",74,0,2013,1,"N","Liberty County, Montana","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"56",74,0,2013,2,"N","Liberty County, Montana","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"56",74,0,2013,3,"N","Liberty County, Montana","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"562",75,0,2013,1,"N","Liberty County, Montana","Private","Waste management and remediation services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"562",75,0,2013,2,"N","Liberty County, Montana","Private","Waste management and remediation services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"562",75,0,2013,3,"N","Liberty County, Montana","Private","Waste management and remediation services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5621",76,0,2013,1,"N","Liberty County, Montana","Private","Waste collection","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5621",76,0,2013,2,"N","Liberty County, Montana","Private","Waste collection","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"5621",76,0,2013,3,"N","Liberty County, Montana","Private","Waste collection","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"56211",77,0,2013,1,"N","Liberty County, Montana","Private","Waste collection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"56211",77,0,2013,2,"N","Liberty County, Montana","Private","Waste collection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"56211",77,0,2013,3,"N","Liberty County, Montana","Private","Waste collection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"562111",78,0,2013,1,"N","Liberty County, Montana","Private","Solid waste collection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"562111",78,0,2013,2,"N","Liberty County, Montana","Private","Solid waste collection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"562111",78,0,2013,3,"N","Liberty County, Montana","Private","Solid waste collection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"61",74,0,2013,1,"N","Liberty County, Montana","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"61",74,0,2013,2,"N","Liberty County, Montana","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"61",74,0,2013,3,"N","Liberty County, Montana","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"611",75,0,2013,1,"N","Liberty County, Montana","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"611",75,0,2013,2,"N","Liberty County, Montana","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"611",75,0,2013,3,"N","Liberty County, Montana","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"6116",76,0,2013,1,"N","Liberty County, Montana","Private","Other schools and instruction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"6116",76,0,2013,2,"N","Liberty County, Montana","Private","Other schools and instruction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"6116",76,0,2013,3,"N","Liberty County, Montana","Private","Other schools and instruction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"61169",77,0,2013,1,"N","Liberty County, Montana","Private","All other schools and instruction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"61169",77,0,2013,2,"N","Liberty County, Montana","Private","All other schools and instruction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"61169",77,0,2013,3,"N","Liberty County, Montana","Private","All other schools and instruction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"611691",78,0,2013,1,"N","Liberty County, Montana","Private","Exam preparation and tutoring","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"611691",78,0,2013,2,"N","Liberty County, Montana","Private","Exam preparation and tutoring","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"611691",78,0,2013,3,"N","Liberty County, Montana","Private","Exam preparation and tutoring","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"62",74,0,2013,1,"N","Liberty County, Montana","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"62",74,0,2013,2,"N","Liberty County, Montana","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"62",74,0,2013,3,"N","Liberty County, Montana","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"621",75,0,2013,1,"N","Liberty County, Montana","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"621",75,0,2013,2,"N","Liberty County, Montana","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"621",75,0,2013,3,"N","Liberty County, Montana","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"6212",76,0,2013,1,"N","Liberty County, Montana","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"6212",76,0,2013,2,"N","Liberty County, Montana","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"6212",76,0,2013,3,"N","Liberty County, Montana","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"62121",77,0,2013,1,"N","Liberty County, Montana","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"62121",77,0,2013,2,"N","Liberty County, Montana","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"62121",77,0,2013,3,"N","Liberty County, Montana","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"621210",78,0,2013,1,"N","Liberty County, Montana","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"621210",78,0,2013,2,"N","Liberty County, Montana","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"621210",78,0,2013,3,"N","Liberty County, Montana","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"622",75,0,2013,1,"N","Liberty County, Montana","Private","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"622",75,0,2013,2,"N","Liberty County, Montana","Private","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"622",75,0,2013,3,"N","Liberty County, Montana","Private","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"6221",76,0,2013,1,"N","Liberty County, Montana","Private","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"6221",76,0,2013,2,"N","Liberty County, Montana","Private","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"6221",76,0,2013,3,"N","Liberty County, Montana","Private","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"62211",77,0,2013,1,"N","Liberty County, Montana","Private","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"62211",77,0,2013,2,"N","Liberty County, Montana","Private","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"62211",77,0,2013,3,"N","Liberty County, Montana","Private","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"622110",78,0,2013,1,"N","Liberty County, Montana","Private","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"622110",78,0,2013,2,"N","Liberty County, Montana","Private","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"622110",78,0,2013,3,"N","Liberty County, Montana","Private","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"624",75,0,2013,1,"N","Liberty County, Montana","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"624",75,0,2013,2,"N","Liberty County, Montana","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"624",75,0,2013,3,"N","Liberty County, Montana","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"6244",76,0,2013,1,"N","Liberty County, Montana","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"6244",76,0,2013,2,"N","Liberty County, Montana","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"6244",76,0,2013,3,"N","Liberty County, Montana","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"62441",77,0,2013,1,"N","Liberty County, Montana","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"62441",77,0,2013,2,"N","Liberty County, Montana","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"62441",77,0,2013,3,"N","Liberty County, Montana","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"624410",78,0,2013,1,"N","Liberty County, Montana","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"624410",78,0,2013,2,"N","Liberty County, Montana","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"624410",78,0,2013,3,"N","Liberty County, Montana","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"71",74,0,2013,1,"N","Liberty County, Montana","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"71",74,0,2013,2,"","Liberty County, Montana","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",4,4,7,10,11929,11929,127,131
+"30051",5,"71",74,0,2013,3,"","Liberty County, Montana","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",4,9,10,5,14636,14636,154,141
+"30051",5,"711",75,0,2013,1,"N","Liberty County, Montana","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"711",75,0,2013,2,"N","Liberty County, Montana","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"711",75,0,2013,3,"N","Liberty County, Montana","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"7112",76,0,2013,1,"N","Liberty County, Montana","Private","Spectator sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"7112",76,0,2013,2,"N","Liberty County, Montana","Private","Spectator sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"7112",76,0,2013,3,"N","Liberty County, Montana","Private","Spectator sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"71121",77,0,2013,1,"N","Liberty County, Montana","Private","Spectator sports","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"71121",77,0,2013,2,"N","Liberty County, Montana","Private","Spectator sports","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"71121",77,0,2013,3,"N","Liberty County, Montana","Private","Spectator sports","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"711211",78,0,2013,1,"N","Liberty County, Montana","Private","Sports teams and clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"711211",78,0,2013,2,"N","Liberty County, Montana","Private","Sports teams and clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"711211",78,0,2013,3,"N","Liberty County, Montana","Private","Sports teams and clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"712",75,0,2013,1,"N","Liberty County, Montana","Private","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"712",75,0,2013,2,"N","Liberty County, Montana","Private","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"712",75,0,2013,3,"N","Liberty County, Montana","Private","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"7121",76,0,2013,1,"N","Liberty County, Montana","Private","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"7121",76,0,2013,2,"N","Liberty County, Montana","Private","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"7121",76,0,2013,3,"N","Liberty County, Montana","Private","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"71211",77,0,2013,1,"N","Liberty County, Montana","Private","Museums","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"71211",77,0,2013,2,"N","Liberty County, Montana","Private","Museums","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"71211",77,0,2013,3,"N","Liberty County, Montana","Private","Museums","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"712110",78,0,2013,1,"N","Liberty County, Montana","Private","Museums","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"712110",78,0,2013,2,"N","Liberty County, Montana","Private","Museums","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"712110",78,0,2013,3,"N","Liberty County, Montana","Private","Museums","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"713",75,0,2013,1,"N","Liberty County, Montana","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"713",75,0,2013,2,"N","Liberty County, Montana","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"713",75,0,2013,3,"N","Liberty County, Montana","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"7139",76,0,2013,1,"N","Liberty County, Montana","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"7139",76,0,2013,2,"N","Liberty County, Montana","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"7139",76,0,2013,3,"N","Liberty County, Montana","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"71394",77,0,2013,1,"N","Liberty County, Montana","Private","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"71394",77,0,2013,2,"N","Liberty County, Montana","Private","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"71394",77,0,2013,3,"N","Liberty County, Montana","Private","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"713940",78,0,2013,1,"N","Liberty County, Montana","Private","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"713940",78,0,2013,2,"N","Liberty County, Montana","Private","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"713940",78,0,2013,3,"N","Liberty County, Montana","Private","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"72",74,0,2013,1,"N","Liberty County, Montana","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"72",74,0,2013,2,"","Liberty County, Montana","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,29,29,28,53398,53398,827,143
+"30051",5,"72",74,0,2013,3,"","Liberty County, Montana","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,28,29,29,57750,57750,888,155
+"30051",5,"722",75,0,2013,1,"N","Liberty County, Montana","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"722",75,0,2013,2,"","Liberty County, Montana","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,29,29,28,53398,53398,827,143
+"30051",5,"722",75,0,2013,3,"","Liberty County, Montana","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,28,29,29,57750,57750,888,155
+"30051",5,"7224",76,0,2013,1,"","Liberty County, Montana","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,22,22,19,33243,33243,565,122
+"30051",5,"7224",76,0,2013,2,"N","Liberty County, Montana","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"7224",76,0,2013,3,"N","Liberty County, Montana","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"72241",77,0,2013,1,"","Liberty County, Montana","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,22,22,19,33243,33243,565,122
+"30051",5,"72241",77,0,2013,2,"N","Liberty County, Montana","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"72241",77,0,2013,3,"N","Liberty County, Montana","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"722410",78,0,2013,1,"","Liberty County, Montana","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,22,22,19,33243,33243,565,122
+"30051",5,"722410",78,0,2013,2,"N","Liberty County, Montana","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"722410",78,0,2013,3,"N","Liberty County, Montana","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"7225",76,0,2013,1,"N","Liberty County, Montana","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"7225",76,0,2013,2,"N","Liberty County, Montana","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"7225",76,0,2013,3,"N","Liberty County, Montana","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"72251",77,0,2013,1,"N","Liberty County, Montana","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"72251",77,0,2013,2,"N","Liberty County, Montana","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"72251",77,0,2013,3,"N","Liberty County, Montana","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"722511",78,0,2013,1,"N","Liberty County, Montana","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"722511",78,0,2013,2,"N","Liberty County, Montana","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"722511",78,0,2013,3,"N","Liberty County, Montana","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"81",74,0,2013,1,"","Liberty County, Montana","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",11,20,17,19,50785,39409,331,209
+"30051",5,"81",74,0,2013,2,"","Liberty County, Montana","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",11,20,17,18,46047,34687,297,193
+"30051",5,"81",74,0,2013,3,"","Liberty County, Montana","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",11,16,14,14,40112,31912,269,210
+"30051",5,"811",75,0,2013,1,"","Liberty County, Montana","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,5,6,29757,29757,198,429
+"30051",5,"811",75,0,2013,2,"","Liberty County, Montana","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,5,6,27680,27680,190,399
+"30051",5,"811",75,0,2013,3,"N","Liberty County, Montana","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"30051",5,"8111",76,0,2013,1,"N","Liberty County, Montana","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"8111",76,0,2013,2,"N","Liberty County, Montana","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"8111",76,0,2013,3,"N","Liberty County, Montana","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"81112",77,0,2013,1,"N","Liberty County, Montana","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"81112",77,0,2013,2,"N","Liberty County, Montana","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"81112",77,0,2013,3,"N","Liberty County, Montana","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"811121",78,0,2013,1,"N","Liberty County, Montana","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"811121",78,0,2013,2,"N","Liberty County, Montana","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"811121",78,0,2013,3,"N","Liberty County, Montana","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"8113",76,0,2013,1,"N","Liberty County, Montana","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"8113",76,0,2013,2,"N","Liberty County, Montana","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"8113",76,0,2013,3,"N","Liberty County, Montana","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"81131",77,0,2013,1,"N","Liberty County, Montana","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"81131",77,0,2013,2,"N","Liberty County, Montana","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"81131",77,0,2013,3,"N","Liberty County, Montana","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"811310",78,0,2013,1,"N","Liberty County, Montana","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"811310",78,0,2013,2,"N","Liberty County, Montana","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"811310",78,0,2013,3,"N","Liberty County, Montana","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"812",75,0,2013,1,"N","Liberty County, Montana","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"812",75,0,2013,2,"N","Liberty County, Montana","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"812",75,0,2013,3,"N","Liberty County, Montana","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"8122",76,0,2013,1,"N","Liberty County, Montana","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"8122",76,0,2013,2,"N","Liberty County, Montana","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"8122",76,0,2013,3,"N","Liberty County, Montana","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"81221",77,0,2013,1,"N","Liberty County, Montana","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"81221",77,0,2013,2,"N","Liberty County, Montana","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"81221",77,0,2013,3,"N","Liberty County, Montana","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"812210",78,0,2013,1,"N","Liberty County, Montana","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"812210",78,0,2013,2,"N","Liberty County, Montana","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"812210",78,0,2013,3,"N","Liberty County, Montana","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"813",75,0,2013,1,"","Liberty County, Montana","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,12,10,10,14864,3488,63,107
+"30051",5,"813",75,0,2013,2,"","Liberty County, Montana","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,13,10,10,14479,3119,57,101
+"30051",5,"813",75,0,2013,3,"","Liberty County, Montana","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,8,8,8,11621,3421,62,112
+"30051",5,"8131",76,0,2013,1,"N","Liberty County, Montana","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"8131",76,0,2013,2,"N","Liberty County, Montana","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"8131",76,0,2013,3,"N","Liberty County, Montana","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"81311",77,0,2013,1,"N","Liberty County, Montana","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"81311",77,0,2013,2,"N","Liberty County, Montana","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"81311",77,0,2013,3,"N","Liberty County, Montana","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"813110",78,0,2013,1,"N","Liberty County, Montana","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"813110",78,0,2013,2,"N","Liberty County, Montana","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"813110",78,0,2013,3,"N","Liberty County, Montana","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"30051",5,"8139",76,0,2013,1,"N","Liberty County, Montana","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"8139",76,0,2013,2,"N","Liberty County, Montana","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"8139",76,0,2013,3,"N","Liberty County, Montana","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"81391",77,0,2013,1,"N","Liberty County, Montana","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"81391",77,0,2013,2,"N","Liberty County, Montana","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"81391",77,0,2013,3,"N","Liberty County, Montana","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"813910",78,0,2013,1,"N","Liberty County, Montana","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"813910",78,0,2013,2,"N","Liberty County, Montana","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"813910",78,0,2013,3,"N","Liberty County, Montana","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"30051",5,"814",75,0,2013,1,"N","Liberty County, Montana","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"814",75,0,2013,2,"N","Liberty County, Montana","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"814",75,0,2013,3,"N","Liberty County, Montana","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"8141",76,0,2013,1,"N","Liberty County, Montana","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"8141",76,0,2013,2,"N","Liberty County, Montana","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"8141",76,0,2013,3,"N","Liberty County, Montana","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"81411",77,0,2013,1,"N","Liberty County, Montana","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"81411",77,0,2013,2,"N","Liberty County, Montana","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"81411",77,0,2013,3,"N","Liberty County, Montana","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"814110",78,0,2013,1,"N","Liberty County, Montana","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"814110",78,0,2013,2,"N","Liberty County, Montana","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"30051",5,"814110",78,0,2013,3,"N","Liberty County, Montana","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+

@@ -1,0 +1,851 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"17171",0,"10",70,0,2013,1,"","Scott County, Illinois","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",109,979,982,1014,7832501,5665886,176134,608
+"17171",0,"10",70,0,2013,2,"","Scott County, Illinois","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",110,1005,1028,1033,8091712,3010275,96428,609
+"17171",0,"10",70,0,2013,3,"","Scott County, Illinois","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",110,980,989,1002,8200180,1330235,44273,637
+"17171",1,"10",71,0,2013,1,"","Scott County, Illinois","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,13,17,18,200936,0,0,966
+"17171",1,"10",71,0,2013,2,"","Scott County, Illinois","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,16,17,16,169970,0,0,800
+"17171",1,"10",71,0,2013,3,"","Scott County, Illinois","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,18,16,15,204931,0,0,965
+"17171",1,"102",72,0,2013,1,"","Scott County, Illinois","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,13,17,18,200936,0,0,966
+"17171",1,"102",72,0,2013,2,"","Scott County, Illinois","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,16,17,16,169970,0,0,800
+"17171",1,"102",72,0,2013,3,"","Scott County, Illinois","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,18,16,15,204931,0,0,965
+"17171",1,"1021",73,0,2013,1,"","Scott County, Illinois","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",4,10,14,15,141809,0,0,839
+"17171",1,"1021",73,0,2013,2,"","Scott County, Illinois","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",4,13,14,13,111795,0,0,645
+"17171",1,"1021",73,0,2013,3,"","Scott County, Illinois","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",4,15,13,12,145433,0,0,839
+"17171",1,"1028",73,0,2013,1,"","Scott County, Illinois","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,3,3,3,59127,0,0,1516
+"17171",1,"1028",73,0,2013,2,"","Scott County, Illinois","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,3,3,3,58175,0,0,1492
+"17171",1,"1028",73,0,2013,3,"","Scott County, Illinois","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,3,3,3,59498,0,0,1526
+"17171",1,"48-49",74,0,2013,1,"","Scott County, Illinois","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,10,14,15,141809,0,0,839
+"17171",1,"48-49",74,0,2013,2,"","Scott County, Illinois","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,13,14,13,111795,0,0,645
+"17171",1,"48-49",74,0,2013,3,"","Scott County, Illinois","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,15,13,12,145433,0,0,839
+"17171",1,"491",75,0,2013,1,"","Scott County, Illinois","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,10,14,15,141809,0,0,839
+"17171",1,"491",75,0,2013,2,"","Scott County, Illinois","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,13,14,13,111795,0,0,645
+"17171",1,"491",75,0,2013,3,"","Scott County, Illinois","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,15,13,12,145433,0,0,839
+"17171",1,"4911",76,0,2013,1,"","Scott County, Illinois","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,10,14,15,141809,0,0,839
+"17171",1,"4911",76,0,2013,2,"","Scott County, Illinois","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,13,14,13,111795,0,0,645
+"17171",1,"4911",76,0,2013,3,"","Scott County, Illinois","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,15,13,12,145433,0,0,839
+"17171",1,"49111",77,0,2013,1,"","Scott County, Illinois","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,10,14,15,141809,0,0,839
+"17171",1,"49111",77,0,2013,2,"","Scott County, Illinois","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,13,14,13,111795,0,0,645
+"17171",1,"49111",77,0,2013,3,"","Scott County, Illinois","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,15,13,12,145433,0,0,839
+"17171",1,"491110",78,0,2013,1,"","Scott County, Illinois","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,10,14,15,141809,0,0,839
+"17171",1,"491110",78,0,2013,2,"","Scott County, Illinois","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,13,14,13,111795,0,0,645
+"17171",1,"491110",78,0,2013,3,"","Scott County, Illinois","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,15,13,12,145433,0,0,839
+"17171",1,"92",74,0,2013,1,"","Scott County, Illinois","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,3,3,3,59127,0,0,1516
+"17171",1,"92",74,0,2013,2,"","Scott County, Illinois","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,3,3,3,58175,0,0,1492
+"17171",1,"92",74,0,2013,3,"","Scott County, Illinois","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,3,3,3,59498,0,0,1526
+"17171",1,"924",75,0,2013,1,"","Scott County, Illinois","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,2,2,24298,0,0,935
+"17171",1,"924",75,0,2013,2,"","Scott County, Illinois","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,2,2,28347,0,0,1090
+"17171",1,"924",75,0,2013,3,"","Scott County, Illinois","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,2,2,28347,0,0,1090
+"17171",1,"9241",76,0,2013,1,"","Scott County, Illinois","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,2,2,24298,0,0,935
+"17171",1,"9241",76,0,2013,2,"","Scott County, Illinois","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,2,2,28347,0,0,1090
+"17171",1,"9241",76,0,2013,3,"","Scott County, Illinois","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,2,2,28347,0,0,1090
+"17171",1,"92412",77,0,2013,1,"","Scott County, Illinois","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,24298,0,0,935
+"17171",1,"92412",77,0,2013,2,"","Scott County, Illinois","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,28347,0,0,1090
+"17171",1,"92412",77,0,2013,3,"","Scott County, Illinois","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,28347,0,0,1090
+"17171",1,"924120",78,0,2013,1,"","Scott County, Illinois","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,24298,0,0,935
+"17171",1,"924120",78,0,2013,2,"","Scott County, Illinois","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,28347,0,0,1090
+"17171",1,"924120",78,0,2013,3,"","Scott County, Illinois","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,28347,0,0,1090
+"17171",1,"926",75,0,2013,1,"","Scott County, Illinois","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",1,"926",75,0,2013,2,"","Scott County, Illinois","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",1,"926",75,0,2013,3,"","Scott County, Illinois","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,313,0,0,0
+"17171",1,"9261",76,0,2013,1,"","Scott County, Illinois","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",1,"9261",76,0,2013,2,"","Scott County, Illinois","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",1,"9261",76,0,2013,3,"","Scott County, Illinois","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,313,0,0,0
+"17171",1,"92611",77,0,2013,1,"","Scott County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",1,"92611",77,0,2013,2,"","Scott County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",1,"92611",77,0,2013,3,"","Scott County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",1,"926110",78,0,2013,1,"","Scott County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",1,"926110",78,0,2013,2,"","Scott County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",1,"926110",78,0,2013,3,"","Scott County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",1,"92614",77,0,2013,1,"","Scott County, Illinois","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",1,"92614",77,0,2013,2,"","Scott County, Illinois","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",1,"92614",77,0,2013,3,"","Scott County, Illinois","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,313,0,0,0
+"17171",1,"926140",78,0,2013,1,"","Scott County, Illinois","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",1,"926140",78,0,2013,2,"","Scott County, Illinois","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",1,"926140",78,0,2013,3,"","Scott County, Illinois","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,313,0,0,0
+"17171",1,"928",75,0,2013,1,"","Scott County, Illinois","Federal Government","National security and international affairs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,34829,0,0,2679
+"17171",1,"928",75,0,2013,2,"","Scott County, Illinois","Federal Government","National security and international affairs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,29828,0,0,2294
+"17171",1,"928",75,0,2013,3,"","Scott County, Illinois","Federal Government","National security and international affairs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,30838,0,0,2372
+"17171",1,"9281",76,0,2013,1,"","Scott County, Illinois","Federal Government","National security and international affairs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,34829,0,0,2679
+"17171",1,"9281",76,0,2013,2,"","Scott County, Illinois","Federal Government","National security and international affairs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,29828,0,0,2294
+"17171",1,"9281",76,0,2013,3,"","Scott County, Illinois","Federal Government","National security and international affairs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,30838,0,0,2372
+"17171",1,"92811",77,0,2013,1,"","Scott County, Illinois","Federal Government","National security","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,34829,0,0,2679
+"17171",1,"92811",77,0,2013,2,"","Scott County, Illinois","Federal Government","National security","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,29828,0,0,2294
+"17171",1,"92811",77,0,2013,3,"","Scott County, Illinois","Federal Government","National security","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,30838,0,0,2372
+"17171",1,"928110",78,0,2013,1,"","Scott County, Illinois","Federal Government","National security","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,34829,0,0,2679
+"17171",1,"928110",78,0,2013,2,"","Scott County, Illinois","Federal Government","National security","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,29828,0,0,2294
+"17171",1,"928110",78,0,2013,3,"","Scott County, Illinois","Federal Government","National security","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,30838,0,0,2372
+"17171",3,"10",71,0,2013,1,"","Scott County, Illinois","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",18,302,302,303,2196569,1106955,20948,559
+"17171",3,"10",71,0,2013,2,"","Scott County, Illinois","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",18,283,289,285,2000922,601631,10803,539
+"17171",3,"10",71,0,2013,3,"","Scott County, Illinois","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",18,267,273,275,2008989,268102,4788,569
+"17171",3,"101",72,0,2013,1,"N","Scott County, Illinois","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"101",72,0,2013,2,"","Scott County, Illinois","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",5,7,5,7,29303,29303,380,356
+"17171",3,"101",72,0,2013,3,"N","Scott County, Illinois","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"1012",73,0,2013,1,"N","Scott County, Illinois","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"1012",73,0,2013,2,"","Scott County, Illinois","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",5,7,5,7,29303,29303,380,356
+"17171",3,"1012",73,0,2013,3,"N","Scott County, Illinois","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"102",72,0,2013,1,"N","Scott County, Illinois","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"17171",3,"102",72,0,2013,2,"","Scott County, Illinois","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",13,276,284,278,1971619,572328,10423,543
+"17171",3,"102",72,0,2013,3,"N","Scott County, Illinois","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"17171",3,"1022",73,0,2013,1,"N","Scott County, Illinois","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"1022",73,0,2013,2,"N","Scott County, Illinois","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"1022",73,0,2013,3,"N","Scott County, Illinois","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"1025",73,0,2013,1,"N","Scott County, Illinois","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"1025",73,0,2013,2,"N","Scott County, Illinois","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"1025",73,0,2013,3,"N","Scott County, Illinois","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"1028",73,0,2013,1,"","Scott County, Illinois","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",10,134,136,134,855987,727205,12060,489
+"17171",3,"1028",73,0,2013,2,"","Scott County, Illinois","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",10,110,117,120,650904,410590,6570,433
+"17171",3,"1028",73,0,2013,3,"","Scott County, Illinois","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",10,124,127,117,761294,184732,3031,477
+"17171",3,"23",74,0,2013,1,"N","Scott County, Illinois","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"23",74,0,2013,2,"","Scott County, Illinois","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",5,7,5,7,29303,29303,380,356
+"17171",3,"23",74,0,2013,3,"N","Scott County, Illinois","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"237",75,0,2013,1,"N","Scott County, Illinois","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"237",75,0,2013,2,"","Scott County, Illinois","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,7,5,7,29303,29303,380,356
+"17171",3,"237",75,0,2013,3,"N","Scott County, Illinois","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"2373",76,0,2013,1,"N","Scott County, Illinois","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"2373",76,0,2013,2,"","Scott County, Illinois","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,7,5,7,29303,29303,380,356
+"17171",3,"2373",76,0,2013,3,"N","Scott County, Illinois","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"23731",77,0,2013,1,"N","Scott County, Illinois","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"23731",77,0,2013,2,"","Scott County, Illinois","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,7,5,7,29303,29303,380,356
+"17171",3,"23731",77,0,2013,3,"N","Scott County, Illinois","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"237310",78,0,2013,1,"N","Scott County, Illinois","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"237310",78,0,2013,2,"","Scott County, Illinois","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,7,5,7,29303,29303,380,356
+"17171",3,"237310",78,0,2013,3,"N","Scott County, Illinois","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"51",74,0,2013,1,"N","Scott County, Illinois","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"51",74,0,2013,2,"N","Scott County, Illinois","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"51",74,0,2013,3,"N","Scott County, Illinois","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"519",75,0,2013,1,"N","Scott County, Illinois","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"519",75,0,2013,2,"N","Scott County, Illinois","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"519",75,0,2013,3,"N","Scott County, Illinois","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"5191",76,0,2013,1,"N","Scott County, Illinois","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"5191",76,0,2013,2,"N","Scott County, Illinois","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"5191",76,0,2013,3,"N","Scott County, Illinois","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"51912",77,0,2013,1,"N","Scott County, Illinois","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"51912",77,0,2013,2,"N","Scott County, Illinois","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"51912",77,0,2013,3,"N","Scott County, Illinois","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"519120",78,0,2013,1,"N","Scott County, Illinois","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"519120",78,0,2013,2,"N","Scott County, Illinois","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"519120",78,0,2013,3,"N","Scott County, Illinois","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"61",74,0,2013,1,"N","Scott County, Illinois","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"61",74,0,2013,2,"N","Scott County, Illinois","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"61",74,0,2013,3,"N","Scott County, Illinois","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"611",75,0,2013,1,"N","Scott County, Illinois","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"611",75,0,2013,2,"N","Scott County, Illinois","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"611",75,0,2013,3,"N","Scott County, Illinois","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"6111",76,0,2013,1,"N","Scott County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"6111",76,0,2013,2,"N","Scott County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"6111",76,0,2013,3,"N","Scott County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"61111",77,0,2013,1,"N","Scott County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"61111",77,0,2013,2,"N","Scott County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"61111",77,0,2013,3,"N","Scott County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"611110",78,0,2013,1,"N","Scott County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"611110",78,0,2013,2,"N","Scott County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"611110",78,0,2013,3,"N","Scott County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",3,"92",74,0,2013,1,"","Scott County, Illinois","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,134,136,134,855987,727205,12060,489
+"17171",3,"92",74,0,2013,2,"","Scott County, Illinois","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,110,117,120,650904,410590,6570,433
+"17171",3,"92",74,0,2013,3,"","Scott County, Illinois","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,124,127,117,761294,184732,3031,477
+"17171",3,"921",75,0,2013,1,"","Scott County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,126,128,126,794058,665276,11719,482
+"17171",3,"921",75,0,2013,2,"N","Scott County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"921",75,0,2013,3,"N","Scott County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"9211",76,0,2013,1,"","Scott County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,126,128,126,794058,665276,11719,482
+"17171",3,"9211",76,0,2013,2,"N","Scott County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"9211",76,0,2013,3,"N","Scott County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"92111",77,0,2013,1,"","Scott County, Illinois","Local Government","Executive offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,126,128,126,794058,665276,11719,482
+"17171",3,"92111",77,0,2013,2,"N","Scott County, Illinois","Local Government","Executive offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"92111",77,0,2013,3,"N","Scott County, Illinois","Local Government","Executive offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"921110",78,0,2013,1,"","Scott County, Illinois","Local Government","Executive offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,126,128,126,794058,665276,11719,482
+"17171",3,"921110",78,0,2013,2,"N","Scott County, Illinois","Local Government","Executive offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"921110",78,0,2013,3,"N","Scott County, Illinois","Local Government","Executive offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",3,"924",75,0,2013,1,"N","Scott County, Illinois","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",3,"924",75,0,2013,2,"","Scott County, Illinois","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,3,5,5,29418,20045,110,522
+"17171",3,"924",75,0,2013,3,"","Scott County, Illinois","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,7,9,5,34667,15173,84,381
+"17171",3,"9241",76,0,2013,1,"N","Scott County, Illinois","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",3,"9241",76,0,2013,2,"","Scott County, Illinois","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,3,5,5,29418,20045,110,522
+"17171",3,"9241",76,0,2013,3,"","Scott County, Illinois","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,7,9,5,34667,15173,84,381
+"17171",3,"92411",77,0,2013,1,"N","Scott County, Illinois","Local Government","Air, water, and waste program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",3,"92411",77,0,2013,2,"N","Scott County, Illinois","Local Government","Air, water, and waste program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",3,"92411",77,0,2013,3,"N","Scott County, Illinois","Local Government","Air, water, and waste program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",3,"924110",78,0,2013,1,"N","Scott County, Illinois","Local Government","Air, water, and waste program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",3,"924110",78,0,2013,2,"N","Scott County, Illinois","Local Government","Air, water, and waste program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",3,"924110",78,0,2013,3,"N","Scott County, Illinois","Local Government","Air, water, and waste program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",3,"92412",77,0,2013,1,"N","Scott County, Illinois","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"92412",77,0,2013,2,"N","Scott County, Illinois","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"92412",77,0,2013,3,"N","Scott County, Illinois","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"924120",78,0,2013,1,"N","Scott County, Illinois","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"924120",78,0,2013,2,"N","Scott County, Illinois","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"924120",78,0,2013,3,"N","Scott County, Illinois","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"925",75,0,2013,1,"N","Scott County, Illinois","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"925",75,0,2013,2,"N","Scott County, Illinois","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"925",75,0,2013,3,"N","Scott County, Illinois","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"9251",76,0,2013,1,"N","Scott County, Illinois","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"9251",76,0,2013,2,"N","Scott County, Illinois","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"9251",76,0,2013,3,"N","Scott County, Illinois","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"92511",77,0,2013,1,"N","Scott County, Illinois","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"92511",77,0,2013,2,"N","Scott County, Illinois","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"92511",77,0,2013,3,"N","Scott County, Illinois","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"925110",78,0,2013,1,"N","Scott County, Illinois","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"925110",78,0,2013,2,"N","Scott County, Illinois","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",3,"925110",78,0,2013,3,"N","Scott County, Illinois","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"10",71,0,2013,1,"","Scott County, Illinois","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",83,664,663,693,5434996,4558931,155186,621
+"17171",5,"10",71,0,2013,2,"","Scott County, Illinois","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",84,706,722,732,5920820,2408644,85625,633
+"17171",5,"10",71,0,2013,3,"","Scott County, Illinois","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",84,695,700,712,5986260,1062133,39485,656
+"17171",5,"101",72,0,2013,1,"","Scott County, Illinois","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",25,233,234,243,1991144,1818723,74177,647
+"17171",5,"101",72,0,2013,2,"","Scott County, Illinois","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",26,234,244,252,2089531,1184474,51433,661
+"17171",5,"101",72,0,2013,3,"","Scott County, Illinois","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",26,258,268,262,2246641,488929,22258,658
+"17171",5,"1011",73,0,2013,1,"","Scott County, Illinois","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",8,64,65,67,497929,461359,4627,586
+"17171",5,"1011",73,0,2013,2,"","Scott County, Illinois","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",8,65,67,66,511241,330817,3543,596
+"17171",5,"1011",73,0,2013,3,"","Scott County, Illinois","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",8,64,69,65,485666,107466,1193,566
+"17171",5,"1012",73,0,2013,1,"N","Scott County, Illinois","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"17171",5,"1012",73,0,2013,2,"N","Scott County, Illinois","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"17171",5,"1012",73,0,2013,3,"N","Scott County, Illinois","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"17171",5,"1013",73,0,2013,1,"N","Scott County, Illinois","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"1013",73,0,2013,2,"N","Scott County, Illinois","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",5,"1013",73,0,2013,3,"N","Scott County, Illinois","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",5,"102",72,0,2013,1,"","Scott County, Illinois","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",58,431,429,450,3443852,2740208,81009,607
+"17171",5,"102",72,0,2013,2,"","Scott County, Illinois","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",58,472,478,480,3831289,1224170,34192,618
+"17171",5,"102",72,0,2013,3,"","Scott County, Illinois","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",58,437,432,450,3739619,573204,17227,654
+"17171",5,"1021",73,0,2013,1,"","Scott County, Illinois","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",21,223,225,256,2458382,1981992,65424,806
+"17171",5,"1021",73,0,2013,2,"","Scott County, Illinois","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",21,255,261,264,2755302,821087,24985,815
+"17171",5,"1021",73,0,2013,3,"","Scott County, Illinois","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",21,234,231,256,2719437,295954,9539,870
+"17171",5,"1023",73,0,2013,1,"","Scott County, Illinois","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",7,42,42,42,332319,276071,1684,609
+"17171",5,"1023",73,0,2013,2,"","Scott County, Illinois","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",7,42,42,42,325636,141010,919,596
+"17171",5,"1023",73,0,2013,3,"","Scott County, Illinois","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",7,43,43,43,324314,68395,476,580
+"17171",5,"1024",73,0,2013,1,"N","Scott County, Illinois","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"1024",73,0,2013,2,"","Scott County, Illinois","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",3,22,21,23,95261,95261,4364,333
+"17171",5,"1024",73,0,2013,3,"N","Scott County, Illinois","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"1025",73,0,2013,1,"","Scott County, Illinois","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,16,26,19,215969,82484,1783,817
+"17171",5,"1025",73,0,2013,2,"N","Scott County, Illinois","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"17171",5,"1025",73,0,2013,3,"","Scott County, Illinois","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,21,20,21,166168,18254,270,618
+"17171",5,"1026",73,0,2013,1,"","Scott County, Illinois","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",17,131,121,116,376530,345909,10785,236
+"17171",5,"1026",73,0,2013,2,"","Scott County, Illinois","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",17,130,128,129,398311,122690,2996,238
+"17171",5,"1026",73,0,2013,3,"","Scott County, Illinois","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",17,117,116,111,407104,107537,3327,273
+"17171",5,"1027",73,0,2013,1,"N","Scott County, Illinois","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"1027",73,0,2013,2,"N","Scott County, Illinois","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"1027",73,0,2013,3,"N","Scott County, Illinois","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"11",74,0,2013,1,"","Scott County, Illinois","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",8,64,65,67,497929,461359,4627,586
+"17171",5,"11",74,0,2013,2,"","Scott County, Illinois","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",8,65,67,66,511241,330817,3543,596
+"17171",5,"11",74,0,2013,3,"","Scott County, Illinois","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",8,64,69,65,485666,107466,1193,566
+"17171",5,"111",75,0,2013,1,"","Scott County, Illinois","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,17,17,16,109434,95102,1888,505
+"17171",5,"111",75,0,2013,2,"","Scott County, Illinois","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,14,16,15,101315,60610,1292,520
+"17171",5,"111",75,0,2013,3,"","Scott County, Illinois","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,14,18,13,81014,24746,592,415
+"17171",5,"1111",76,0,2013,1,"N","Scott County, Illinois","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"1111",76,0,2013,2,"N","Scott County, Illinois","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"1111",76,0,2013,3,"N","Scott County, Illinois","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"11115",77,0,2013,1,"N","Scott County, Illinois","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"11115",77,0,2013,2,"N","Scott County, Illinois","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"11115",77,0,2013,3,"N","Scott County, Illinois","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"111150",78,0,2013,1,"N","Scott County, Illinois","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"111150",78,0,2013,2,"N","Scott County, Illinois","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"111150",78,0,2013,3,"N","Scott County, Illinois","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"11119",77,0,2013,1,"","Scott County, Illinois","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,9,9,53628,42896,1601,458
+"17171",5,"11119",77,0,2013,2,"","Scott County, Illinois","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,9,8,45432,27095,1117,437
+"17171",5,"11119",77,0,2013,3,"N","Scott County, Illinois","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"111191",78,0,2013,1,"","Scott County, Illinois","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,9,9,53628,42896,1601,458
+"17171",5,"111191",78,0,2013,2,"","Scott County, Illinois","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,9,8,45432,27095,1117,437
+"17171",5,"111191",78,0,2013,3,"N","Scott County, Illinois","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"1112",76,0,2013,1,"N","Scott County, Illinois","Private","Vegetable and melon farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"1112",76,0,2013,2,"N","Scott County, Illinois","Private","Vegetable and melon farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"1112",76,0,2013,3,"N","Scott County, Illinois","Private","Vegetable and melon farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"11121",77,0,2013,1,"N","Scott County, Illinois","Private","Vegetable and melon farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"11121",77,0,2013,2,"N","Scott County, Illinois","Private","Vegetable and melon farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"11121",77,0,2013,3,"N","Scott County, Illinois","Private","Vegetable and melon farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"111219",78,0,2013,1,"N","Scott County, Illinois","Private","Other vegetable and melon farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"111219",78,0,2013,2,"N","Scott County, Illinois","Private","Other vegetable and melon farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"111219",78,0,2013,3,"N","Scott County, Illinois","Private","Other vegetable and melon farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"112",75,0,2013,1,"N","Scott County, Illinois","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"112",75,0,2013,2,"N","Scott County, Illinois","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"112",75,0,2013,3,"N","Scott County, Illinois","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"1122",76,0,2013,1,"N","Scott County, Illinois","Private","Hog and pig farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"1122",76,0,2013,2,"N","Scott County, Illinois","Private","Hog and pig farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"1122",76,0,2013,3,"N","Scott County, Illinois","Private","Hog and pig farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"11221",77,0,2013,1,"N","Scott County, Illinois","Private","Hog and pig farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"11221",77,0,2013,2,"N","Scott County, Illinois","Private","Hog and pig farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"11221",77,0,2013,3,"N","Scott County, Illinois","Private","Hog and pig farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"112210",78,0,2013,1,"N","Scott County, Illinois","Private","Hog and pig farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"112210",78,0,2013,2,"N","Scott County, Illinois","Private","Hog and pig farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"112210",78,0,2013,3,"N","Scott County, Illinois","Private","Hog and pig farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"115",75,0,2013,1,"N","Scott County, Illinois","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"115",75,0,2013,2,"N","Scott County, Illinois","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"115",75,0,2013,3,"N","Scott County, Illinois","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"1151",76,0,2013,1,"N","Scott County, Illinois","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"1151",76,0,2013,2,"N","Scott County, Illinois","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"1151",76,0,2013,3,"N","Scott County, Illinois","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"11511",77,0,2013,1,"N","Scott County, Illinois","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"11511",77,0,2013,2,"N","Scott County, Illinois","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"11511",77,0,2013,3,"N","Scott County, Illinois","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"115115",78,0,2013,1,"N","Scott County, Illinois","Private","Farm labor contractors and crew leaders","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"115115",78,0,2013,2,"N","Scott County, Illinois","Private","Farm labor contractors and crew leaders","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"115115",78,0,2013,3,"N","Scott County, Illinois","Private","Farm labor contractors and crew leaders","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"22",74,0,2013,1,"N","Scott County, Illinois","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"22",74,0,2013,2,"N","Scott County, Illinois","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"22",74,0,2013,3,"N","Scott County, Illinois","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"221",75,0,2013,1,"N","Scott County, Illinois","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"221",75,0,2013,2,"N","Scott County, Illinois","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"221",75,0,2013,3,"N","Scott County, Illinois","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"2211",76,0,2013,1,"N","Scott County, Illinois","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"2211",76,0,2013,2,"N","Scott County, Illinois","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"2211",76,0,2013,3,"N","Scott County, Illinois","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"22112",77,0,2013,1,"N","Scott County, Illinois","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"22112",77,0,2013,2,"N","Scott County, Illinois","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"22112",77,0,2013,3,"N","Scott County, Illinois","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"221122",78,0,2013,1,"N","Scott County, Illinois","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"221122",78,0,2013,2,"N","Scott County, Illinois","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"221122",78,0,2013,3,"N","Scott County, Illinois","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"2213",76,0,2013,1,"N","Scott County, Illinois","Private","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"2213",76,0,2013,2,"N","Scott County, Illinois","Private","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"2213",76,0,2013,3,"N","Scott County, Illinois","Private","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"22131",77,0,2013,1,"N","Scott County, Illinois","Private","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"22131",77,0,2013,2,"N","Scott County, Illinois","Private","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"22131",77,0,2013,3,"N","Scott County, Illinois","Private","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"221310",78,0,2013,1,"N","Scott County, Illinois","Private","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"221310",78,0,2013,2,"N","Scott County, Illinois","Private","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"221310",78,0,2013,3,"N","Scott County, Illinois","Private","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"23",74,0,2013,1,"N","Scott County, Illinois","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"17171",5,"23",74,0,2013,2,"N","Scott County, Illinois","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"17171",5,"23",74,0,2013,3,"N","Scott County, Illinois","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"17171",5,"236",75,0,2013,1,"N","Scott County, Illinois","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"236",75,0,2013,2,"N","Scott County, Illinois","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"236",75,0,2013,3,"N","Scott County, Illinois","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"2361",76,0,2013,1,"N","Scott County, Illinois","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"2361",76,0,2013,2,"N","Scott County, Illinois","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"2361",76,0,2013,3,"N","Scott County, Illinois","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"23611",77,0,2013,1,"N","Scott County, Illinois","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"23611",77,0,2013,2,"N","Scott County, Illinois","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"23611",77,0,2013,3,"N","Scott County, Illinois","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"236118",78,0,2013,1,"N","Scott County, Illinois","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"236118",78,0,2013,2,"N","Scott County, Illinois","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"236118",78,0,2013,3,"N","Scott County, Illinois","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"237",75,0,2013,1,"N","Scott County, Illinois","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"237",75,0,2013,2,"N","Scott County, Illinois","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"237",75,0,2013,3,"N","Scott County, Illinois","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"2373",76,0,2013,1,"N","Scott County, Illinois","Private","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"2373",76,0,2013,2,"N","Scott County, Illinois","Private","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"2373",76,0,2013,3,"N","Scott County, Illinois","Private","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"23731",77,0,2013,1,"N","Scott County, Illinois","Private","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"23731",77,0,2013,2,"N","Scott County, Illinois","Private","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"23731",77,0,2013,3,"N","Scott County, Illinois","Private","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"237310",78,0,2013,1,"N","Scott County, Illinois","Private","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"237310",78,0,2013,2,"N","Scott County, Illinois","Private","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"237310",78,0,2013,3,"N","Scott County, Illinois","Private","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"238",75,0,2013,1,"","Scott County, Illinois","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,17,15,14,80623,80623,1173,404
+"17171",5,"238",75,0,2013,2,"","Scott County, Illinois","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,17,18,22,129659,94979,3612,525
+"17171",5,"238",75,0,2013,3,"","Scott County, Illinois","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,23,25,26,182750,83118,5749,570
+"17171",5,"2381",76,0,2013,1,"N","Scott County, Illinois","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"2381",76,0,2013,2,"N","Scott County, Illinois","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"2381",76,0,2013,3,"N","Scott County, Illinois","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"23814",77,0,2013,1,"N","Scott County, Illinois","Private","Masonry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"23814",77,0,2013,2,"N","Scott County, Illinois","Private","Masonry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"23814",77,0,2013,3,"N","Scott County, Illinois","Private","Masonry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"238141",78,0,2013,1,"N","Scott County, Illinois","Private","Residential masonry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"238141",78,0,2013,2,"N","Scott County, Illinois","Private","Residential masonry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"238141",78,0,2013,3,"N","Scott County, Illinois","Private","Residential masonry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"2382",76,0,2013,1,"","Scott County, Illinois","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,11,11,11,59510,59510,410,416
+"17171",5,"2382",76,0,2013,2,"N","Scott County, Illinois","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"2382",76,0,2013,3,"N","Scott County, Illinois","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"23822",77,0,2013,1,"","Scott County, Illinois","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,11,11,11,59510,59510,410,416
+"17171",5,"23822",77,0,2013,2,"N","Scott County, Illinois","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"23822",77,0,2013,3,"N","Scott County, Illinois","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"238221",78,0,2013,1,"N","Scott County, Illinois","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"238221",78,0,2013,2,"N","Scott County, Illinois","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"238221",78,0,2013,3,"N","Scott County, Illinois","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"238222",78,0,2013,1,"N","Scott County, Illinois","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"238222",78,0,2013,2,"N","Scott County, Illinois","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"238222",78,0,2013,3,"N","Scott County, Illinois","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"2389",76,0,2013,1,"N","Scott County, Illinois","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",5,"2389",76,0,2013,2,"","Scott County, Illinois","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,6,7,11,69324,63024,3293,667
+"17171",5,"2389",76,0,2013,3,"","Scott County, Illinois","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,12,14,15,121708,68036,5481,685
+"17171",5,"23891",77,0,2013,1,"N","Scott County, Illinois","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"23891",77,0,2013,2,"N","Scott County, Illinois","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"23891",77,0,2013,3,"N","Scott County, Illinois","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"238911",78,0,2013,1,"N","Scott County, Illinois","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"238911",78,0,2013,2,"N","Scott County, Illinois","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"238911",78,0,2013,3,"N","Scott County, Illinois","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"238912",78,0,2013,1,"N","Scott County, Illinois","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"238912",78,0,2013,2,"","Scott County, Illinois","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,5,6,10,63711,57411,3223,700
+"17171",5,"238912",78,0,2013,3,"N","Scott County, Illinois","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"23899",77,0,2013,1,"N","Scott County, Illinois","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"23899",77,0,2013,2,"N","Scott County, Illinois","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"23899",77,0,2013,3,"N","Scott County, Illinois","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"238992",78,0,2013,1,"N","Scott County, Illinois","Private","All other nonresidential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"238992",78,0,2013,2,"N","Scott County, Illinois","Private","All other nonresidential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"238992",78,0,2013,3,"N","Scott County, Illinois","Private","All other nonresidential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"31-33",74,0,2013,1,"N","Scott County, Illinois","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"31-33",74,0,2013,2,"N","Scott County, Illinois","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",5,"31-33",74,0,2013,3,"N","Scott County, Illinois","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",5,"327",75,0,2013,1,"N","Scott County, Illinois","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"327",75,0,2013,2,"N","Scott County, Illinois","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"327",75,0,2013,3,"N","Scott County, Illinois","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"3271",76,0,2013,1,"N","Scott County, Illinois","Private","Clay product and refractory manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"3271",76,0,2013,2,"N","Scott County, Illinois","Private","Clay product and refractory manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"3271",76,0,2013,3,"N","Scott County, Illinois","Private","Clay product and refractory manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"32712",77,0,2013,1,"N","Scott County, Illinois","Private","Clay building material and refractories mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"32712",77,0,2013,2,"N","Scott County, Illinois","Private","Clay building material and refractories mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"32712",77,0,2013,3,"N","Scott County, Illinois","Private","Clay building material and refractories mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"327120",78,0,2013,1,"N","Scott County, Illinois","Private","Clay building material and refractories mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"327120",78,0,2013,2,"N","Scott County, Illinois","Private","Clay building material and refractories mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"327120",78,0,2013,3,"N","Scott County, Illinois","Private","Clay building material and refractories mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"332",75,0,2013,1,"N","Scott County, Illinois","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"332",75,0,2013,2,"N","Scott County, Illinois","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"332",75,0,2013,3,"N","Scott County, Illinois","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"3327",76,0,2013,1,"N","Scott County, Illinois","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"3327",76,0,2013,2,"N","Scott County, Illinois","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"3327",76,0,2013,3,"N","Scott County, Illinois","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"33271",77,0,2013,1,"N","Scott County, Illinois","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"33271",77,0,2013,2,"N","Scott County, Illinois","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"33271",77,0,2013,3,"N","Scott County, Illinois","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"332710",78,0,2013,1,"N","Scott County, Illinois","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"332710",78,0,2013,2,"N","Scott County, Illinois","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"332710",78,0,2013,3,"N","Scott County, Illinois","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"3329",76,0,2013,1,"-","Scott County, Illinois","Private","Other fabricated metal product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"17171",5,"3329",76,0,2013,2,"N","Scott County, Illinois","Private","Other fabricated metal product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"3329",76,0,2013,3,"N","Scott County, Illinois","Private","Other fabricated metal product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"33299",77,0,2013,1,"-","Scott County, Illinois","Private","All other fabricated metal product mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"17171",5,"33299",77,0,2013,2,"N","Scott County, Illinois","Private","All other fabricated metal product mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"33299",77,0,2013,3,"N","Scott County, Illinois","Private","All other fabricated metal product mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"332999",78,0,2013,1,"-","Scott County, Illinois","Private","Miscellaneous fabricated metal product mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"17171",5,"332999",78,0,2013,2,"N","Scott County, Illinois","Private","Miscellaneous fabricated metal product mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"332999",78,0,2013,3,"N","Scott County, Illinois","Private","Miscellaneous fabricated metal product mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"333",75,0,2013,1,"N","Scott County, Illinois","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"333",75,0,2013,2,"N","Scott County, Illinois","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"333",75,0,2013,3,"N","Scott County, Illinois","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"3334",76,0,2013,1,"N","Scott County, Illinois","Private","Hvac and commercial refrigeration equipment","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"3334",76,0,2013,2,"N","Scott County, Illinois","Private","Hvac and commercial refrigeration equipment","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"3334",76,0,2013,3,"N","Scott County, Illinois","Private","Hvac and commercial refrigeration equipment","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"33341",77,0,2013,1,"N","Scott County, Illinois","Private","Hvac and commercial refrigeration equipment","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"33341",77,0,2013,2,"N","Scott County, Illinois","Private","Hvac and commercial refrigeration equipment","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"33341",77,0,2013,3,"N","Scott County, Illinois","Private","Hvac and commercial refrigeration equipment","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"333415",78,0,2013,1,"N","Scott County, Illinois","Private","Ac, refrigeration, and forced air heating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"333415",78,0,2013,2,"N","Scott County, Illinois","Private","Ac, refrigeration, and forced air heating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"333415",78,0,2013,3,"N","Scott County, Illinois","Private","Ac, refrigeration, and forced air heating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"336",75,0,2013,1,"N","Scott County, Illinois","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"336",75,0,2013,2,"N","Scott County, Illinois","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"336",75,0,2013,3,"N","Scott County, Illinois","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"3362",76,0,2013,1,"N","Scott County, Illinois","Private","Motor vehicle body and trailer manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"3362",76,0,2013,2,"N","Scott County, Illinois","Private","Motor vehicle body and trailer manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"3362",76,0,2013,3,"N","Scott County, Illinois","Private","Motor vehicle body and trailer manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"33621",77,0,2013,1,"N","Scott County, Illinois","Private","Motor vehicle body and trailer manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"33621",77,0,2013,2,"N","Scott County, Illinois","Private","Motor vehicle body and trailer manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"33621",77,0,2013,3,"N","Scott County, Illinois","Private","Motor vehicle body and trailer manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"336214",78,0,2013,1,"N","Scott County, Illinois","Private","Travel trailer and camper manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"336214",78,0,2013,2,"N","Scott County, Illinois","Private","Travel trailer and camper manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"336214",78,0,2013,3,"N","Scott County, Illinois","Private","Travel trailer and camper manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"42",74,0,2013,1,"","Scott County, Illinois","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",3,116,117,116,1163032,1033938,32116,769
+"17171",5,"42",74,0,2013,2,"","Scott County, Illinois","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",3,117,119,120,1367661,451078,14531,887
+"17171",5,"42",74,0,2013,3,"","Scott County, Illinois","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",3,122,119,120,1511068,114625,3711,966
+"17171",5,"423",75,0,2013,1,"N","Scott County, Illinois","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"423",75,0,2013,2,"N","Scott County, Illinois","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"423",75,0,2013,3,"N","Scott County, Illinois","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4238",76,0,2013,1,"N","Scott County, Illinois","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4238",76,0,2013,2,"N","Scott County, Illinois","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4238",76,0,2013,3,"N","Scott County, Illinois","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"42382",77,0,2013,1,"N","Scott County, Illinois","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"42382",77,0,2013,2,"N","Scott County, Illinois","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"42382",77,0,2013,3,"N","Scott County, Illinois","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"423820",78,0,2013,1,"N","Scott County, Illinois","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"423820",78,0,2013,2,"N","Scott County, Illinois","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"423820",78,0,2013,3,"N","Scott County, Illinois","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"424",75,0,2013,1,"N","Scott County, Illinois","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"424",75,0,2013,2,"N","Scott County, Illinois","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"424",75,0,2013,3,"N","Scott County, Illinois","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"4245",76,0,2013,1,"N","Scott County, Illinois","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4245",76,0,2013,2,"N","Scott County, Illinois","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4245",76,0,2013,3,"N","Scott County, Illinois","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"42451",77,0,2013,1,"N","Scott County, Illinois","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"42451",77,0,2013,2,"N","Scott County, Illinois","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"42451",77,0,2013,3,"N","Scott County, Illinois","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"424510",78,0,2013,1,"N","Scott County, Illinois","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"424510",78,0,2013,2,"N","Scott County, Illinois","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"424510",78,0,2013,3,"N","Scott County, Illinois","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4249",76,0,2013,1,"N","Scott County, Illinois","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4249",76,0,2013,2,"N","Scott County, Illinois","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4249",76,0,2013,3,"N","Scott County, Illinois","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"42491",77,0,2013,1,"N","Scott County, Illinois","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"42491",77,0,2013,2,"N","Scott County, Illinois","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"42491",77,0,2013,3,"N","Scott County, Illinois","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"424910",78,0,2013,1,"N","Scott County, Illinois","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"424910",78,0,2013,2,"N","Scott County, Illinois","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"424910",78,0,2013,3,"N","Scott County, Illinois","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44-45",74,0,2013,1,"","Scott County, Illinois","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,50,52,82,404970,382469,6886,508
+"17171",5,"44-45",74,0,2013,2,"","Scott County, Illinois","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,81,83,83,433625,254374,5223,405
+"17171",5,"44-45",74,0,2013,3,"","Scott County, Illinois","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,51,51,78,414742,132497,3478,532
+"17171",5,"441",75,0,2013,1,"N","Scott County, Illinois","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"441",75,0,2013,2,"N","Scott County, Illinois","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"441",75,0,2013,3,"N","Scott County, Illinois","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"4411",76,0,2013,1,"N","Scott County, Illinois","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"4411",76,0,2013,2,"N","Scott County, Illinois","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"4411",76,0,2013,3,"N","Scott County, Illinois","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"44111",77,0,2013,1,"N","Scott County, Illinois","Private","New car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44111",77,0,2013,2,"N","Scott County, Illinois","Private","New car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44111",77,0,2013,3,"N","Scott County, Illinois","Private","New car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"441110",78,0,2013,1,"N","Scott County, Illinois","Private","New car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"441110",78,0,2013,2,"N","Scott County, Illinois","Private","New car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"441110",78,0,2013,3,"N","Scott County, Illinois","Private","New car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44112",77,0,2013,1,"N","Scott County, Illinois","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44112",77,0,2013,2,"N","Scott County, Illinois","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44112",77,0,2013,3,"N","Scott County, Illinois","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"441120",78,0,2013,1,"N","Scott County, Illinois","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"441120",78,0,2013,2,"N","Scott County, Illinois","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"441120",78,0,2013,3,"N","Scott County, Illinois","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4413",76,0,2013,1,"N","Scott County, Illinois","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4413",76,0,2013,2,"N","Scott County, Illinois","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4413",76,0,2013,3,"N","Scott County, Illinois","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44131",77,0,2013,1,"N","Scott County, Illinois","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44131",77,0,2013,2,"N","Scott County, Illinois","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44131",77,0,2013,3,"N","Scott County, Illinois","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"441310",78,0,2013,1,"N","Scott County, Illinois","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"441310",78,0,2013,2,"N","Scott County, Illinois","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"441310",78,0,2013,3,"N","Scott County, Illinois","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"443",75,0,2013,1,"N","Scott County, Illinois","Private","Electronics and appliance stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"443",75,0,2013,2,"N","Scott County, Illinois","Private","Electronics and appliance stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"443",75,0,2013,3,"N","Scott County, Illinois","Private","Electronics and appliance stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4431",76,0,2013,1,"N","Scott County, Illinois","Private","Electronics and appliance stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4431",76,0,2013,2,"N","Scott County, Illinois","Private","Electronics and appliance stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4431",76,0,2013,3,"N","Scott County, Illinois","Private","Electronics and appliance stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44314",77,0,2013,1,"N","Scott County, Illinois","Private","Electronics and appliances stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44314",77,0,2013,2,"N","Scott County, Illinois","Private","Electronics and appliances stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44314",77,0,2013,3,"N","Scott County, Illinois","Private","Electronics and appliances stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"443142",78,0,2013,1,"N","Scott County, Illinois","Private","Electronics stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"443142",78,0,2013,2,"N","Scott County, Illinois","Private","Electronics stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"443142",78,0,2013,3,"N","Scott County, Illinois","Private","Electronics stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"444",75,0,2013,1,"N","Scott County, Illinois","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"444",75,0,2013,2,"N","Scott County, Illinois","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"444",75,0,2013,3,"N","Scott County, Illinois","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"4441",76,0,2013,1,"N","Scott County, Illinois","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4441",76,0,2013,2,"N","Scott County, Illinois","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4441",76,0,2013,3,"N","Scott County, Illinois","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44413",77,0,2013,1,"N","Scott County, Illinois","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44413",77,0,2013,2,"N","Scott County, Illinois","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44413",77,0,2013,3,"N","Scott County, Illinois","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"444130",78,0,2013,1,"N","Scott County, Illinois","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"444130",78,0,2013,2,"N","Scott County, Illinois","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"444130",78,0,2013,3,"N","Scott County, Illinois","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4442",76,0,2013,1,"N","Scott County, Illinois","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4442",76,0,2013,2,"N","Scott County, Illinois","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4442",76,0,2013,3,"N","Scott County, Illinois","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44422",77,0,2013,1,"N","Scott County, Illinois","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44422",77,0,2013,2,"N","Scott County, Illinois","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44422",77,0,2013,3,"N","Scott County, Illinois","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"444220",78,0,2013,1,"N","Scott County, Illinois","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"444220",78,0,2013,2,"N","Scott County, Illinois","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"444220",78,0,2013,3,"N","Scott County, Illinois","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"445",75,0,2013,1,"N","Scott County, Illinois","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"445",75,0,2013,2,"N","Scott County, Illinois","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"445",75,0,2013,3,"N","Scott County, Illinois","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4451",76,0,2013,1,"N","Scott County, Illinois","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4451",76,0,2013,2,"N","Scott County, Illinois","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4451",76,0,2013,3,"N","Scott County, Illinois","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44511",77,0,2013,1,"N","Scott County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44511",77,0,2013,2,"N","Scott County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44511",77,0,2013,3,"N","Scott County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"445110",78,0,2013,1,"N","Scott County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"445110",78,0,2013,2,"N","Scott County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"445110",78,0,2013,3,"N","Scott County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"447",75,0,2013,1,"N","Scott County, Illinois","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"447",75,0,2013,2,"N","Scott County, Illinois","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"447",75,0,2013,3,"N","Scott County, Illinois","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"4471",76,0,2013,1,"N","Scott County, Illinois","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"4471",76,0,2013,2,"N","Scott County, Illinois","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"4471",76,0,2013,3,"N","Scott County, Illinois","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"44711",77,0,2013,1,"N","Scott County, Illinois","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"44711",77,0,2013,2,"N","Scott County, Illinois","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"44711",77,0,2013,3,"N","Scott County, Illinois","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"447110",78,0,2013,1,"N","Scott County, Illinois","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"447110",78,0,2013,2,"N","Scott County, Illinois","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"447110",78,0,2013,3,"N","Scott County, Illinois","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"44719",77,0,2013,1,"N","Scott County, Illinois","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44719",77,0,2013,2,"N","Scott County, Illinois","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"44719",77,0,2013,3,"N","Scott County, Illinois","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"447190",78,0,2013,1,"N","Scott County, Illinois","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"447190",78,0,2013,2,"N","Scott County, Illinois","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"447190",78,0,2013,3,"N","Scott County, Illinois","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"451",75,0,2013,1,"N","Scott County, Illinois","Private","Sporting goods, hobby, book and music stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"451",75,0,2013,2,"N","Scott County, Illinois","Private","Sporting goods, hobby, book and music stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"451",75,0,2013,3,"N","Scott County, Illinois","Private","Sporting goods, hobby, book and music stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4511",76,0,2013,1,"N","Scott County, Illinois","Private","Sporting goods and musical instrument stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4511",76,0,2013,2,"N","Scott County, Illinois","Private","Sporting goods and musical instrument stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4511",76,0,2013,3,"N","Scott County, Illinois","Private","Sporting goods and musical instrument stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"45114",77,0,2013,1,"N","Scott County, Illinois","Private","Musical instrument and supplies stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"45114",77,0,2013,2,"N","Scott County, Illinois","Private","Musical instrument and supplies stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"45114",77,0,2013,3,"N","Scott County, Illinois","Private","Musical instrument and supplies stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"451140",78,0,2013,1,"N","Scott County, Illinois","Private","Musical instrument and supplies stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"451140",78,0,2013,2,"N","Scott County, Illinois","Private","Musical instrument and supplies stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"451140",78,0,2013,3,"N","Scott County, Illinois","Private","Musical instrument and supplies stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"452",75,0,2013,1,"N","Scott County, Illinois","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"452",75,0,2013,2,"N","Scott County, Illinois","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"452",75,0,2013,3,"N","Scott County, Illinois","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4529",76,0,2013,1,"N","Scott County, Illinois","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4529",76,0,2013,2,"N","Scott County, Illinois","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4529",76,0,2013,3,"N","Scott County, Illinois","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"45299",77,0,2013,1,"N","Scott County, Illinois","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"45299",77,0,2013,2,"N","Scott County, Illinois","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"45299",77,0,2013,3,"N","Scott County, Illinois","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"452990",78,0,2013,1,"N","Scott County, Illinois","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"452990",78,0,2013,2,"N","Scott County, Illinois","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"452990",78,0,2013,3,"N","Scott County, Illinois","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"48-49",74,0,2013,1,"N","Scott County, Illinois","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"48-49",74,0,2013,2,"N","Scott County, Illinois","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"48-49",74,0,2013,3,"N","Scott County, Illinois","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"484",75,0,2013,1,"N","Scott County, Illinois","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"484",75,0,2013,2,"N","Scott County, Illinois","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"484",75,0,2013,3,"N","Scott County, Illinois","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"4841",76,0,2013,1,"N","Scott County, Illinois","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4841",76,0,2013,2,"N","Scott County, Illinois","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4841",76,0,2013,3,"N","Scott County, Illinois","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"48412",77,0,2013,1,"N","Scott County, Illinois","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"48412",77,0,2013,2,"N","Scott County, Illinois","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"48412",77,0,2013,3,"N","Scott County, Illinois","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"484121",78,0,2013,1,"N","Scott County, Illinois","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"484121",78,0,2013,2,"N","Scott County, Illinois","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"484121",78,0,2013,3,"N","Scott County, Illinois","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"4842",76,0,2013,1,"N","Scott County, Illinois","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"4842",76,0,2013,2,"N","Scott County, Illinois","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"4842",76,0,2013,3,"N","Scott County, Illinois","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"48422",77,0,2013,1,"N","Scott County, Illinois","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"48422",77,0,2013,2,"N","Scott County, Illinois","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"48422",77,0,2013,3,"N","Scott County, Illinois","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"484220",78,0,2013,1,"N","Scott County, Illinois","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"484220",78,0,2013,2,"N","Scott County, Illinois","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"484220",78,0,2013,3,"N","Scott County, Illinois","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"48423",77,0,2013,1,"N","Scott County, Illinois","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"48423",77,0,2013,2,"N","Scott County, Illinois","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"48423",77,0,2013,3,"N","Scott County, Illinois","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"484230",78,0,2013,1,"N","Scott County, Illinois","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"484230",78,0,2013,2,"N","Scott County, Illinois","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"484230",78,0,2013,3,"N","Scott County, Illinois","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"52",74,0,2013,1,"N","Scott County, Illinois","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"17171",5,"52",74,0,2013,2,"N","Scott County, Illinois","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"17171",5,"52",74,0,2013,3,"N","Scott County, Illinois","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"17171",5,"522",75,0,2013,1,"N","Scott County, Illinois","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"522",75,0,2013,2,"N","Scott County, Illinois","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"522",75,0,2013,3,"N","Scott County, Illinois","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"5221",76,0,2013,1,"N","Scott County, Illinois","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"5221",76,0,2013,2,"N","Scott County, Illinois","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"5221",76,0,2013,3,"N","Scott County, Illinois","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"52211",77,0,2013,1,"N","Scott County, Illinois","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"52211",77,0,2013,2,"N","Scott County, Illinois","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"52211",77,0,2013,3,"N","Scott County, Illinois","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"522110",78,0,2013,1,"N","Scott County, Illinois","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"522110",78,0,2013,2,"N","Scott County, Illinois","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"522110",78,0,2013,3,"N","Scott County, Illinois","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"524",75,0,2013,1,"","Scott County, Illinois","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,16,16,16,123338,100222,551,593
+"17171",5,"524",75,0,2013,2,"","Scott County, Illinois","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,16,16,16,119823,53519,295,576
+"17171",5,"524",75,0,2013,3,"","Scott County, Illinois","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,16,16,16,113855,38027,209,547
+"17171",5,"5242",76,0,2013,1,"","Scott County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,16,16,16,123338,100222,551,593
+"17171",5,"5242",76,0,2013,2,"","Scott County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,16,16,16,119823,53519,295,576
+"17171",5,"5242",76,0,2013,3,"","Scott County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,16,16,16,113855,38027,209,547
+"17171",5,"52421",77,0,2013,1,"","Scott County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,16,16,16,123338,100222,551,593
+"17171",5,"52421",77,0,2013,2,"","Scott County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,16,16,16,119823,53519,295,576
+"17171",5,"52421",77,0,2013,3,"","Scott County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,16,16,16,113855,38027,209,547
+"17171",5,"524210",78,0,2013,1,"","Scott County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,16,16,16,123338,100222,551,593
+"17171",5,"524210",78,0,2013,2,"","Scott County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,16,16,16,119823,53519,295,576
+"17171",5,"524210",78,0,2013,3,"","Scott County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,16,16,16,113855,38027,209,547
+"17171",5,"53",74,0,2013,1,"N","Scott County, Illinois","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"53",74,0,2013,2,"N","Scott County, Illinois","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"53",74,0,2013,3,"N","Scott County, Illinois","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"531",75,0,2013,1,"N","Scott County, Illinois","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"531",75,0,2013,2,"N","Scott County, Illinois","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"531",75,0,2013,3,"N","Scott County, Illinois","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"5313",76,0,2013,1,"N","Scott County, Illinois","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"5313",76,0,2013,2,"N","Scott County, Illinois","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"5313",76,0,2013,3,"N","Scott County, Illinois","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"53132",77,0,2013,1,"N","Scott County, Illinois","Private","Offices of real estate appraisers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"53132",77,0,2013,2,"N","Scott County, Illinois","Private","Offices of real estate appraisers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"53132",77,0,2013,3,"N","Scott County, Illinois","Private","Offices of real estate appraisers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"531320",78,0,2013,1,"N","Scott County, Illinois","Private","Offices of real estate appraisers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"531320",78,0,2013,2,"N","Scott County, Illinois","Private","Offices of real estate appraisers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"531320",78,0,2013,3,"N","Scott County, Illinois","Private","Offices of real estate appraisers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"54",74,0,2013,1,"N","Scott County, Illinois","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"54",74,0,2013,2,"N","Scott County, Illinois","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"54",74,0,2013,3,"N","Scott County, Illinois","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"541",75,0,2013,1,"N","Scott County, Illinois","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"541",75,0,2013,2,"N","Scott County, Illinois","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"541",75,0,2013,3,"N","Scott County, Illinois","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"5411",76,0,2013,1,"N","Scott County, Illinois","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"5411",76,0,2013,2,"N","Scott County, Illinois","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"5411",76,0,2013,3,"N","Scott County, Illinois","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"54111",77,0,2013,1,"N","Scott County, Illinois","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"54111",77,0,2013,2,"N","Scott County, Illinois","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"54111",77,0,2013,3,"N","Scott County, Illinois","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"541110",78,0,2013,1,"N","Scott County, Illinois","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"541110",78,0,2013,2,"N","Scott County, Illinois","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"541110",78,0,2013,3,"N","Scott County, Illinois","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"56",74,0,2013,1,"N","Scott County, Illinois","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"56",74,0,2013,2,"N","Scott County, Illinois","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"56",74,0,2013,3,"N","Scott County, Illinois","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"561",75,0,2013,1,"N","Scott County, Illinois","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"561",75,0,2013,2,"N","Scott County, Illinois","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"561",75,0,2013,3,"N","Scott County, Illinois","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"5617",76,0,2013,1,"N","Scott County, Illinois","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"5617",76,0,2013,2,"N","Scott County, Illinois","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"5617",76,0,2013,3,"N","Scott County, Illinois","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"56173",77,0,2013,1,"N","Scott County, Illinois","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"56173",77,0,2013,2,"N","Scott County, Illinois","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"56173",77,0,2013,3,"N","Scott County, Illinois","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"561730",78,0,2013,1,"N","Scott County, Illinois","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"561730",78,0,2013,2,"N","Scott County, Illinois","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"561730",78,0,2013,3,"N","Scott County, Illinois","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"61",74,0,2013,1,"N","Scott County, Illinois","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"61",74,0,2013,2,"N","Scott County, Illinois","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"61",74,0,2013,3,"N","Scott County, Illinois","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"611",75,0,2013,1,"N","Scott County, Illinois","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"611",75,0,2013,2,"N","Scott County, Illinois","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"611",75,0,2013,3,"N","Scott County, Illinois","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"6113",76,0,2013,1,"N","Scott County, Illinois","Private","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"6113",76,0,2013,2,"N","Scott County, Illinois","Private","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"6113",76,0,2013,3,"N","Scott County, Illinois","Private","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"61131",77,0,2013,1,"N","Scott County, Illinois","Private","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"61131",77,0,2013,2,"N","Scott County, Illinois","Private","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"61131",77,0,2013,3,"N","Scott County, Illinois","Private","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"611310",78,0,2013,1,"N","Scott County, Illinois","Private","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"611310",78,0,2013,2,"N","Scott County, Illinois","Private","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"611310",78,0,2013,3,"N","Scott County, Illinois","Private","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"62",74,0,2013,1,"N","Scott County, Illinois","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",5,"62",74,0,2013,2,"","Scott County, Illinois","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,9,10,10,144838,39122,900,1153
+"17171",5,"62",74,0,2013,3,"N","Scott County, Illinois","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",5,"621",75,0,2013,1,"N","Scott County, Illinois","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"621",75,0,2013,2,"N","Scott County, Illinois","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"621",75,0,2013,3,"","Scott County, Illinois","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,10,7,7,77938,16816,142,749
+"17171",5,"6211",76,0,2013,1,"N","Scott County, Illinois","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"6211",76,0,2013,2,"N","Scott County, Illinois","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"6211",76,0,2013,3,"N","Scott County, Illinois","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"62111",77,0,2013,1,"N","Scott County, Illinois","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"62111",77,0,2013,2,"N","Scott County, Illinois","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"62111",77,0,2013,3,"N","Scott County, Illinois","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"621111",78,0,2013,1,"N","Scott County, Illinois","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"621111",78,0,2013,2,"N","Scott County, Illinois","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"621111",78,0,2013,3,"N","Scott County, Illinois","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"6212",76,0,2013,1,"N","Scott County, Illinois","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"6212",76,0,2013,2,"N","Scott County, Illinois","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"6212",76,0,2013,3,"N","Scott County, Illinois","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"62121",77,0,2013,1,"N","Scott County, Illinois","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"62121",77,0,2013,2,"N","Scott County, Illinois","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"62121",77,0,2013,3,"N","Scott County, Illinois","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"621210",78,0,2013,1,"N","Scott County, Illinois","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"621210",78,0,2013,2,"N","Scott County, Illinois","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"621210",78,0,2013,3,"N","Scott County, Illinois","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"6213",76,0,2013,1,"N","Scott County, Illinois","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"6213",76,0,2013,2,"N","Scott County, Illinois","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"6213",76,0,2013,3,"N","Scott County, Illinois","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"62131",77,0,2013,1,"N","Scott County, Illinois","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"62131",77,0,2013,2,"N","Scott County, Illinois","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"62131",77,0,2013,3,"N","Scott County, Illinois","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"621310",78,0,2013,1,"N","Scott County, Illinois","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"621310",78,0,2013,2,"N","Scott County, Illinois","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"621310",78,0,2013,3,"N","Scott County, Illinois","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"624",75,0,2013,1,"N","Scott County, Illinois","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"624",75,0,2013,2,"N","Scott County, Illinois","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"624",75,0,2013,3,"N","Scott County, Illinois","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"6244",76,0,2013,1,"N","Scott County, Illinois","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"6244",76,0,2013,2,"N","Scott County, Illinois","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"6244",76,0,2013,3,"N","Scott County, Illinois","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"62441",77,0,2013,1,"N","Scott County, Illinois","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"62441",77,0,2013,2,"N","Scott County, Illinois","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"62441",77,0,2013,3,"N","Scott County, Illinois","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"624410",78,0,2013,1,"N","Scott County, Illinois","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"624410",78,0,2013,2,"N","Scott County, Illinois","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"624410",78,0,2013,3,"N","Scott County, Illinois","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"71",74,0,2013,1,"","Scott County, Illinois","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",3,22,22,22,100404,70350,1174,351
+"17171",5,"71",74,0,2013,2,"","Scott County, Illinois","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",3,32,32,32,116156,41456,1385,279
+"17171",5,"71",74,0,2013,3,"","Scott County, Illinois","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",3,25,25,20,133604,48854,2237,440
+"17171",5,"711",75,0,2013,1,"N","Scott County, Illinois","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"711",75,0,2013,2,"N","Scott County, Illinois","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"711",75,0,2013,3,"N","Scott County, Illinois","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"7115",76,0,2013,1,"N","Scott County, Illinois","Private","Independent artists, writers, and performers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"7115",76,0,2013,2,"N","Scott County, Illinois","Private","Independent artists, writers, and performers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"7115",76,0,2013,3,"N","Scott County, Illinois","Private","Independent artists, writers, and performers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"71151",77,0,2013,1,"N","Scott County, Illinois","Private","Independent artists, writers, and performers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"71151",77,0,2013,2,"N","Scott County, Illinois","Private","Independent artists, writers, and performers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"71151",77,0,2013,3,"N","Scott County, Illinois","Private","Independent artists, writers, and performers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"711510",78,0,2013,1,"N","Scott County, Illinois","Private","Independent artists, writers, and performers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"711510",78,0,2013,2,"N","Scott County, Illinois","Private","Independent artists, writers, and performers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"711510",78,0,2013,3,"N","Scott County, Illinois","Private","Independent artists, writers, and performers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"713",75,0,2013,1,"N","Scott County, Illinois","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"713",75,0,2013,2,"N","Scott County, Illinois","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"713",75,0,2013,3,"N","Scott County, Illinois","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"7139",76,0,2013,1,"N","Scott County, Illinois","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"7139",76,0,2013,2,"N","Scott County, Illinois","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"7139",76,0,2013,3,"N","Scott County, Illinois","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"71391",77,0,2013,1,"N","Scott County, Illinois","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"71391",77,0,2013,2,"N","Scott County, Illinois","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"71391",77,0,2013,3,"N","Scott County, Illinois","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"713910",78,0,2013,1,"N","Scott County, Illinois","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"713910",78,0,2013,2,"N","Scott County, Illinois","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"713910",78,0,2013,3,"N","Scott County, Illinois","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"71395",77,0,2013,1,"N","Scott County, Illinois","Private","Bowling centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"71395",77,0,2013,2,"N","Scott County, Illinois","Private","Bowling centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"71395",77,0,2013,3,"N","Scott County, Illinois","Private","Bowling centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"713950",78,0,2013,1,"N","Scott County, Illinois","Private","Bowling centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"713950",78,0,2013,2,"N","Scott County, Illinois","Private","Bowling centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"713950",78,0,2013,3,"N","Scott County, Illinois","Private","Bowling centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"72",74,0,2013,1,"","Scott County, Illinois","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",14,109,99,94,276126,275559,9611,211
+"17171",5,"72",74,0,2013,2,"","Scott County, Illinois","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",14,98,96,97,282155,81234,1611,224
+"17171",5,"72",74,0,2013,3,"","Scott County, Illinois","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",14,92,91,91,273500,58683,1090,230
+"17171",5,"721",75,0,2013,1,"N","Scott County, Illinois","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"721",75,0,2013,2,"N","Scott County, Illinois","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"721",75,0,2013,3,"N","Scott County, Illinois","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"7212",76,0,2013,1,"N","Scott County, Illinois","Private","Rv parks and recreational camps","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"7212",76,0,2013,2,"N","Scott County, Illinois","Private","Rv parks and recreational camps","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"7212",76,0,2013,3,"N","Scott County, Illinois","Private","Rv parks and recreational camps","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"72121",77,0,2013,1,"N","Scott County, Illinois","Private","Rv parks and recreational camps","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"72121",77,0,2013,2,"N","Scott County, Illinois","Private","Rv parks and recreational camps","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"72121",77,0,2013,3,"N","Scott County, Illinois","Private","Rv parks and recreational camps","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"721214",78,0,2013,1,"N","Scott County, Illinois","Private","Recreational and vacation camps","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"721214",78,0,2013,2,"N","Scott County, Illinois","Private","Recreational and vacation camps","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"721214",78,0,2013,3,"N","Scott County, Illinois","Private","Recreational and vacation camps","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"722",75,0,2013,1,"N","Scott County, Illinois","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"17171",5,"722",75,0,2013,2,"N","Scott County, Illinois","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"17171",5,"722",75,0,2013,3,"N","Scott County, Illinois","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"17171",5,"7224",76,0,2013,1,"N","Scott County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"7224",76,0,2013,2,"N","Scott County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"7224",76,0,2013,3,"N","Scott County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"72241",77,0,2013,1,"N","Scott County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"72241",77,0,2013,2,"N","Scott County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"72241",77,0,2013,3,"N","Scott County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"722410",78,0,2013,1,"N","Scott County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"722410",78,0,2013,2,"N","Scott County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"722410",78,0,2013,3,"N","Scott County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"7225",76,0,2013,1,"","Scott County, Illinois","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,101,91,86,265090,264523,9323,220
+"17171",5,"7225",76,0,2013,2,"","Scott County, Illinois","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,90,88,89,264201,63280,1036,228
+"17171",5,"7225",76,0,2013,3,"","Scott County, Illinois","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,85,85,85,261316,46499,744,236
+"17171",5,"72251",77,0,2013,1,"","Scott County, Illinois","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,101,91,86,265090,264523,9323,220
+"17171",5,"72251",77,0,2013,2,"","Scott County, Illinois","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,90,88,89,264201,63280,1036,228
+"17171",5,"72251",77,0,2013,3,"","Scott County, Illinois","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,85,85,85,261316,46499,744,236
+"17171",5,"722511",78,0,2013,1,"N","Scott County, Illinois","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",5,"722511",78,0,2013,2,"N","Scott County, Illinois","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",5,"722511",78,0,2013,3,"N","Scott County, Illinois","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17171",5,"722513",78,0,2013,1,"N","Scott County, Illinois","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"722513",78,0,2013,2,"N","Scott County, Illinois","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"722513",78,0,2013,3,"N","Scott County, Illinois","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"722515",78,0,2013,1,"N","Scott County, Illinois","Private","Snack and nonalcoholic beverage bars","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"722515",78,0,2013,2,"N","Scott County, Illinois","Private","Snack and nonalcoholic beverage bars","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"722515",78,0,2013,3,"N","Scott County, Illinois","Private","Snack and nonalcoholic beverage bars","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"81",74,0,2013,1,"N","Scott County, Illinois","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"81",74,0,2013,2,"N","Scott County, Illinois","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"81",74,0,2013,3,"N","Scott County, Illinois","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"811",75,0,2013,1,"N","Scott County, Illinois","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"811",75,0,2013,2,"N","Scott County, Illinois","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"811",75,0,2013,3,"N","Scott County, Illinois","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17171",5,"8111",76,0,2013,1,"N","Scott County, Illinois","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"8111",76,0,2013,2,"N","Scott County, Illinois","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"8111",76,0,2013,3,"N","Scott County, Illinois","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17171",5,"81111",77,0,2013,1,"N","Scott County, Illinois","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"81111",77,0,2013,2,"N","Scott County, Illinois","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"81111",77,0,2013,3,"N","Scott County, Illinois","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"811111",78,0,2013,1,"N","Scott County, Illinois","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"811111",78,0,2013,2,"N","Scott County, Illinois","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"811111",78,0,2013,3,"N","Scott County, Illinois","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17171",5,"81112",77,0,2013,1,"N","Scott County, Illinois","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"81112",77,0,2013,2,"N","Scott County, Illinois","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"81112",77,0,2013,3,"N","Scott County, Illinois","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"811121",78,0,2013,1,"N","Scott County, Illinois","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"811121",78,0,2013,2,"N","Scott County, Illinois","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"811121",78,0,2013,3,"N","Scott County, Illinois","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"8112",76,0,2013,1,"N","Scott County, Illinois","Private","Electronic equipment repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"8112",76,0,2013,2,"N","Scott County, Illinois","Private","Electronic equipment repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"8112",76,0,2013,3,"N","Scott County, Illinois","Private","Electronic equipment repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"81121",77,0,2013,1,"N","Scott County, Illinois","Private","Electronic equipment repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"81121",77,0,2013,2,"N","Scott County, Illinois","Private","Electronic equipment repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"81121",77,0,2013,3,"N","Scott County, Illinois","Private","Electronic equipment repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"811212",78,0,2013,1,"N","Scott County, Illinois","Private","Computer and office machine repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"811212",78,0,2013,2,"N","Scott County, Illinois","Private","Computer and office machine repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17171",5,"811212",78,0,2013,3,"N","Scott County, Illinois","Private","Computer and office machine repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

@@ -1,0 +1,854 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"17013",0,"10",70,0,2013,1,"","Calhoun County, Illinois","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",117,802,794,791,4434536,2911044,89002,429
+"17013",0,"10",70,0,2013,2,"","Calhoun County, Illinois","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",117,793,792,806,4294969,1967161,56601,415
+"17013",0,"10",70,0,2013,3,"","Calhoun County, Illinois","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",117,820,865,842,4703216,1297210,50240,430
+"17013",1,"10",71,0,2013,1,"","Calhoun County, Illinois","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,24,23,24,296444,0,0,964
+"17013",1,"10",71,0,2013,2,"","Calhoun County, Illinois","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,23,23,28,288413,0,0,899
+"17013",1,"10",71,0,2013,3,"","Calhoun County, Illinois","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,25,29,25,295515,0,0,863
+"17013",1,"102",72,0,2013,1,"","Calhoun County, Illinois","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,24,23,24,296444,0,0,964
+"17013",1,"102",72,0,2013,2,"","Calhoun County, Illinois","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,23,23,28,288413,0,0,899
+"17013",1,"102",72,0,2013,3,"","Calhoun County, Illinois","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,25,29,25,295515,0,0,863
+"17013",1,"1021",73,0,2013,1,"","Calhoun County, Illinois","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,15,14,15,145351,0,0,762
+"17013",1,"1021",73,0,2013,2,"","Calhoun County, Illinois","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,14,14,15,121946,0,0,654
+"17013",1,"1021",73,0,2013,3,"","Calhoun County, Illinois","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,15,15,15,149354,0,0,766
+"17013",1,"1028",73,0,2013,1,"","Calhoun County, Illinois","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,9,9,9,151093,0,0,1291
+"17013",1,"1028",73,0,2013,2,"","Calhoun County, Illinois","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,9,9,13,166467,0,0,1239
+"17013",1,"1028",73,0,2013,3,"","Calhoun County, Illinois","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,10,14,10,146161,0,0,992
+"17013",1,"48-49",74,0,2013,1,"","Calhoun County, Illinois","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,15,14,15,145351,0,0,762
+"17013",1,"48-49",74,0,2013,2,"","Calhoun County, Illinois","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,14,14,15,121946,0,0,654
+"17013",1,"48-49",74,0,2013,3,"","Calhoun County, Illinois","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,15,15,15,149354,0,0,766
+"17013",1,"491",75,0,2013,1,"","Calhoun County, Illinois","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,15,14,15,145351,0,0,762
+"17013",1,"491",75,0,2013,2,"","Calhoun County, Illinois","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,14,14,15,121946,0,0,654
+"17013",1,"491",75,0,2013,3,"","Calhoun County, Illinois","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,15,15,15,149354,0,0,766
+"17013",1,"4911",76,0,2013,1,"","Calhoun County, Illinois","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,15,14,15,145351,0,0,762
+"17013",1,"4911",76,0,2013,2,"","Calhoun County, Illinois","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,14,14,15,121946,0,0,654
+"17013",1,"4911",76,0,2013,3,"","Calhoun County, Illinois","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,15,15,15,149354,0,0,766
+"17013",1,"49111",77,0,2013,1,"","Calhoun County, Illinois","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,15,14,15,145351,0,0,762
+"17013",1,"49111",77,0,2013,2,"","Calhoun County, Illinois","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,14,14,15,121946,0,0,654
+"17013",1,"49111",77,0,2013,3,"","Calhoun County, Illinois","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,15,15,15,149354,0,0,766
+"17013",1,"491110",78,0,2013,1,"","Calhoun County, Illinois","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,15,14,15,145351,0,0,762
+"17013",1,"491110",78,0,2013,2,"","Calhoun County, Illinois","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,14,14,15,121946,0,0,654
+"17013",1,"491110",78,0,2013,3,"","Calhoun County, Illinois","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,15,15,15,149354,0,0,766
+"17013",1,"92",74,0,2013,1,"","Calhoun County, Illinois","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,9,9,9,151093,0,0,1291
+"17013",1,"92",74,0,2013,2,"","Calhoun County, Illinois","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,9,9,13,166467,0,0,1239
+"17013",1,"92",74,0,2013,3,"","Calhoun County, Illinois","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,10,14,10,146161,0,0,992
+"17013",1,"921",75,0,2013,1,"","Calhoun County, Illinois","Federal Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,24153,0,0,1858
+"17013",1,"921",75,0,2013,2,"","Calhoun County, Illinois","Federal Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,20702,0,0,1592
+"17013",1,"921",75,0,2013,3,"","Calhoun County, Illinois","Federal Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,24153,0,0,1858
+"17013",1,"9211",76,0,2013,1,"","Calhoun County, Illinois","Federal Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,24153,0,0,1858
+"17013",1,"9211",76,0,2013,2,"","Calhoun County, Illinois","Federal Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,20702,0,0,1592
+"17013",1,"9211",76,0,2013,3,"","Calhoun County, Illinois","Federal Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,24153,0,0,1858
+"17013",1,"92119",77,0,2013,1,"","Calhoun County, Illinois","Federal Government","Other general government support","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,24153,0,0,1858
+"17013",1,"92119",77,0,2013,2,"","Calhoun County, Illinois","Federal Government","Other general government support","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,20702,0,0,1592
+"17013",1,"92119",77,0,2013,3,"","Calhoun County, Illinois","Federal Government","Other general government support","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,24153,0,0,1858
+"17013",1,"921190",78,0,2013,1,"","Calhoun County, Illinois","Federal Government","Other general government support","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,24153,0,0,1858
+"17013",1,"921190",78,0,2013,2,"","Calhoun County, Illinois","Federal Government","Other general government support","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,20702,0,0,1592
+"17013",1,"921190",78,0,2013,3,"","Calhoun County, Illinois","Federal Government","Other general government support","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,24153,0,0,1858
+"17013",1,"924",75,0,2013,1,"","Calhoun County, Illinois","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,8,8,8,126940,0,0,1221
+"17013",1,"924",75,0,2013,2,"","Calhoun County, Illinois","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,8,8,12,145765,0,0,1201
+"17013",1,"924",75,0,2013,3,"","Calhoun County, Illinois","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,9,9,9,121841,0,0,1041
+"17013",1,"9241",76,0,2013,1,"","Calhoun County, Illinois","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,8,8,8,126940,0,0,1221
+"17013",1,"9241",76,0,2013,2,"","Calhoun County, Illinois","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,8,8,12,145765,0,0,1201
+"17013",1,"9241",76,0,2013,3,"","Calhoun County, Illinois","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,9,9,9,121841,0,0,1041
+"17013",1,"92412",77,0,2013,1,"","Calhoun County, Illinois","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,8,8,8,126940,0,0,1221
+"17013",1,"92412",77,0,2013,2,"","Calhoun County, Illinois","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,8,8,12,145765,0,0,1201
+"17013",1,"92412",77,0,2013,3,"","Calhoun County, Illinois","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,9,9,9,121841,0,0,1041
+"17013",1,"924120",78,0,2013,1,"","Calhoun County, Illinois","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,8,8,8,126940,0,0,1221
+"17013",1,"924120",78,0,2013,2,"","Calhoun County, Illinois","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,8,8,12,145765,0,0,1201
+"17013",1,"924120",78,0,2013,3,"","Calhoun County, Illinois","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,9,9,9,121841,0,0,1041
+"17013",1,"926",75,0,2013,1,"","Calhoun County, Illinois","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",1,"926",75,0,2013,2,"","Calhoun County, Illinois","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",1,"926",75,0,2013,3,"","Calhoun County, Illinois","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,4,0,167,0,0,10
+"17013",1,"9261",76,0,2013,1,"","Calhoun County, Illinois","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",1,"9261",76,0,2013,2,"","Calhoun County, Illinois","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",1,"9261",76,0,2013,3,"","Calhoun County, Illinois","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,4,0,167,0,0,10
+"17013",1,"92611",77,0,2013,1,"","Calhoun County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",1,"92611",77,0,2013,2,"","Calhoun County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",1,"92611",77,0,2013,3,"","Calhoun County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",1,"926110",78,0,2013,1,"","Calhoun County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",1,"926110",78,0,2013,2,"","Calhoun County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",1,"926110",78,0,2013,3,"","Calhoun County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",1,"92614",77,0,2013,1,"","Calhoun County, Illinois","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",1,"92614",77,0,2013,2,"","Calhoun County, Illinois","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",1,"92614",77,0,2013,3,"","Calhoun County, Illinois","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,4,0,167,0,0,10
+"17013",1,"926140",78,0,2013,1,"","Calhoun County, Illinois","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",1,"926140",78,0,2013,2,"","Calhoun County, Illinois","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",1,"926140",78,0,2013,3,"","Calhoun County, Illinois","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,4,0,167,0,0,10
+"17013",3,"10",71,0,2013,1,"","Calhoun County, Illinois","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,211,212,209,1340206,421434,16098,489
+"17013",3,"10",71,0,2013,2,"","Calhoun County, Illinois","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,216,224,206,1259867,246472,8194,450
+"17013",3,"10",71,0,2013,3,"","Calhoun County, Illinois","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,191,198,214,1340169,63993,2112,513
+"17013",3,"102",72,0,2013,1,"","Calhoun County, Illinois","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",11,211,212,209,1340206,421434,16098,489
+"17013",3,"102",72,0,2013,2,"","Calhoun County, Illinois","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",11,216,224,206,1259867,246472,8194,450
+"17013",3,"102",72,0,2013,3,"","Calhoun County, Illinois","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",11,191,198,214,1340169,63993,2112,513
+"17013",3,"1022",73,0,2013,1,"N","Calhoun County, Illinois","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"1022",73,0,2013,2,"N","Calhoun County, Illinois","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"1022",73,0,2013,3,"N","Calhoun County, Illinois","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"1025",73,0,2013,1,"","Calhoun County, Illinois","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,139,143,140,909540,0,0,497
+"17013",3,"1025",73,0,2013,2,"","Calhoun County, Illinois","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,146,150,122,798415,0,0,441
+"17013",3,"1025",73,0,2013,3,"","Calhoun County, Illinois","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,106,111,135,895383,0,0,587
+"17013",3,"1028",73,0,2013,1,"N","Calhoun County, Illinois","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"17013",3,"1028",73,0,2013,2,"N","Calhoun County, Illinois","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"17013",3,"1028",73,0,2013,3,"N","Calhoun County, Illinois","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"17013",3,"51",74,0,2013,1,"N","Calhoun County, Illinois","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"51",74,0,2013,2,"N","Calhoun County, Illinois","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"51",74,0,2013,3,"N","Calhoun County, Illinois","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"519",75,0,2013,1,"N","Calhoun County, Illinois","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"519",75,0,2013,2,"N","Calhoun County, Illinois","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"519",75,0,2013,3,"N","Calhoun County, Illinois","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"5191",76,0,2013,1,"N","Calhoun County, Illinois","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"5191",76,0,2013,2,"N","Calhoun County, Illinois","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"5191",76,0,2013,3,"N","Calhoun County, Illinois","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"51912",77,0,2013,1,"N","Calhoun County, Illinois","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"51912",77,0,2013,2,"N","Calhoun County, Illinois","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"51912",77,0,2013,3,"N","Calhoun County, Illinois","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"519120",78,0,2013,1,"N","Calhoun County, Illinois","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"519120",78,0,2013,2,"N","Calhoun County, Illinois","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"519120",78,0,2013,3,"N","Calhoun County, Illinois","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"61",74,0,2013,1,"","Calhoun County, Illinois","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,139,143,140,909540,0,0,497
+"17013",3,"61",74,0,2013,2,"","Calhoun County, Illinois","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,146,150,122,798415,0,0,441
+"17013",3,"61",74,0,2013,3,"","Calhoun County, Illinois","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,106,111,135,895383,0,0,587
+"17013",3,"611",75,0,2013,1,"","Calhoun County, Illinois","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,139,143,140,909540,0,0,497
+"17013",3,"611",75,0,2013,2,"","Calhoun County, Illinois","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,146,150,122,798415,0,0,441
+"17013",3,"611",75,0,2013,3,"","Calhoun County, Illinois","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,106,111,135,895383,0,0,587
+"17013",3,"6111",76,0,2013,1,"","Calhoun County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,139,143,140,909540,0,0,497
+"17013",3,"6111",76,0,2013,2,"","Calhoun County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,146,150,122,798415,0,0,441
+"17013",3,"6111",76,0,2013,3,"","Calhoun County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,106,111,135,895383,0,0,587
+"17013",3,"61111",77,0,2013,1,"","Calhoun County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,139,143,140,909540,0,0,497
+"17013",3,"61111",77,0,2013,2,"","Calhoun County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,146,150,122,798415,0,0,441
+"17013",3,"61111",77,0,2013,3,"","Calhoun County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,106,111,135,895383,0,0,587
+"17013",3,"611110",78,0,2013,1,"","Calhoun County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,139,143,140,909540,0,0,497
+"17013",3,"611110",78,0,2013,2,"","Calhoun County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,146,150,122,798415,0,0,441
+"17013",3,"611110",78,0,2013,3,"","Calhoun County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,106,111,135,895383,0,0,587
+"17013",3,"92",74,0,2013,1,"N","Calhoun County, Illinois","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"17013",3,"92",74,0,2013,2,"N","Calhoun County, Illinois","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"17013",3,"92",74,0,2013,3,"N","Calhoun County, Illinois","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"17013",3,"921",75,0,2013,1,"","Calhoun County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,66,64,64,405557,396325,15960,482
+"17013",3,"921",75,0,2013,2,"","Calhoun County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,64,68,77,434817,225976,8081,480
+"17013",3,"921",75,0,2013,3,"","Calhoun County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,79,80,73,418737,58873,2084,417
+"17013",3,"9211",76,0,2013,1,"","Calhoun County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,66,64,64,405557,396325,15960,482
+"17013",3,"9211",76,0,2013,2,"","Calhoun County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,64,68,77,434817,225976,8081,480
+"17013",3,"9211",76,0,2013,3,"","Calhoun County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,79,80,73,418737,58873,2084,417
+"17013",3,"92111",77,0,2013,1,"N","Calhoun County, Illinois","Local Government","Executive offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",3,"92111",77,0,2013,2,"N","Calhoun County, Illinois","Local Government","Executive offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",3,"92111",77,0,2013,3,"N","Calhoun County, Illinois","Local Government","Executive offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",3,"921110",78,0,2013,1,"N","Calhoun County, Illinois","Local Government","Executive offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",3,"921110",78,0,2013,2,"N","Calhoun County, Illinois","Local Government","Executive offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",3,"921110",78,0,2013,3,"N","Calhoun County, Illinois","Local Government","Executive offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",3,"92114",77,0,2013,1,"N","Calhoun County, Illinois","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",3,"92114",77,0,2013,2,"N","Calhoun County, Illinois","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",3,"92114",77,0,2013,3,"N","Calhoun County, Illinois","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",3,"921140",78,0,2013,1,"N","Calhoun County, Illinois","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",3,"921140",78,0,2013,2,"N","Calhoun County, Illinois","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",3,"921140",78,0,2013,3,"N","Calhoun County, Illinois","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",3,"924",75,0,2013,1,"N","Calhoun County, Illinois","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"924",75,0,2013,2,"N","Calhoun County, Illinois","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"924",75,0,2013,3,"N","Calhoun County, Illinois","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"9241",76,0,2013,1,"N","Calhoun County, Illinois","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"9241",76,0,2013,2,"N","Calhoun County, Illinois","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"9241",76,0,2013,3,"N","Calhoun County, Illinois","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"92412",77,0,2013,1,"N","Calhoun County, Illinois","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"92412",77,0,2013,2,"N","Calhoun County, Illinois","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"92412",77,0,2013,3,"N","Calhoun County, Illinois","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"924120",78,0,2013,1,"N","Calhoun County, Illinois","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"924120",78,0,2013,2,"N","Calhoun County, Illinois","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"924120",78,0,2013,3,"N","Calhoun County, Illinois","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"925",75,0,2013,1,"N","Calhoun County, Illinois","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"925",75,0,2013,2,"N","Calhoun County, Illinois","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"925",75,0,2013,3,"N","Calhoun County, Illinois","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"9251",76,0,2013,1,"N","Calhoun County, Illinois","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"9251",76,0,2013,2,"N","Calhoun County, Illinois","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"9251",76,0,2013,3,"N","Calhoun County, Illinois","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"92511",77,0,2013,1,"N","Calhoun County, Illinois","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"92511",77,0,2013,2,"N","Calhoun County, Illinois","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"92511",77,0,2013,3,"N","Calhoun County, Illinois","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"925110",78,0,2013,1,"N","Calhoun County, Illinois","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"925110",78,0,2013,2,"N","Calhoun County, Illinois","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",3,"925110",78,0,2013,3,"N","Calhoun County, Illinois","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"10",71,0,2013,1,"","Calhoun County, Illinois","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",96,567,559,558,2797886,2489610,72904,383
+"17013",5,"10",71,0,2013,2,"","Calhoun County, Illinois","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",96,554,545,572,2746689,1720689,48407,379
+"17013",5,"10",71,0,2013,3,"","Calhoun County, Illinois","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",96,604,638,603,3067532,1233217,48128,384
+"17013",5,"101",72,0,2013,1,"","Calhoun County, Illinois","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",23,74,68,74,387330,379114,17599,414
+"17013",5,"101",72,0,2013,2,"","Calhoun County, Illinois","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",23,60,74,74,430811,292603,16486,478
+"17013",5,"101",72,0,2013,3,"","Calhoun County, Illinois","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",24,97,110,95,600554,305887,19423,459
+"17013",5,"1011",73,0,2013,1,"","Calhoun County, Illinois","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",5,31,29,38,156677,156677,9156,369
+"17013",5,"1011",73,0,2013,2,"","Calhoun County, Illinois","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",5,24,39,33,178333,136211,7868,429
+"17013",5,"1011",73,0,2013,3,"","Calhoun County, Illinois","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",5,53,65,52,296905,194326,13244,403
+"17013",5,"1012",73,0,2013,1,"","Calhoun County, Illinois","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",15,28,23,20,151500,143284,4683,492
+"17013",5,"1012",73,0,2013,2,"","Calhoun County, Illinois","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",15,19,18,24,146302,74478,3016,553
+"17013",5,"1012",73,0,2013,3,"","Calhoun County, Illinois","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",16,28,29,27,192853,68949,3028,530
+"17013",5,"1013",73,0,2013,1,"","Calhoun County, Illinois","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",3,15,16,16,79153,79153,3760,389
+"17013",5,"1013",73,0,2013,2,"","Calhoun County, Illinois","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",3,17,17,17,106176,81914,5602,480
+"17013",5,"1013",73,0,2013,3,"","Calhoun County, Illinois","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",3,16,16,16,110796,42612,3151,533
+"17013",5,"102",72,0,2013,1,"","Calhoun County, Illinois","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",73,493,491,484,2410556,2110496,55305,379
+"17013",5,"102",72,0,2013,2,"","Calhoun County, Illinois","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",73,494,471,498,2315878,1428086,31921,365
+"17013",5,"102",72,0,2013,3,"","Calhoun County, Illinois","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",72,507,528,508,2466978,927330,28705,369
+"17013",5,"1021",73,0,2013,1,"","Calhoun County, Illinois","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",26,143,142,142,856824,764481,29966,463
+"17013",5,"1021",73,0,2013,2,"","Calhoun County, Illinois","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",26,153,144,141,752927,462296,15583,397
+"17013",5,"1021",73,0,2013,3,"","Calhoun County, Illinois","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",26,155,154,140,816660,243748,10297,420
+"17013",5,"1022",73,0,2013,1,"N","Calhoun County, Illinois","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"1022",73,0,2013,2,"N","Calhoun County, Illinois","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"1022",73,0,2013,3,"N","Calhoun County, Illinois","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"1023",73,0,2013,1,"","Calhoun County, Illinois","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",10,80,81,81,533802,451587,6582,509
+"17013",5,"1023",73,0,2013,2,"","Calhoun County, Illinois","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",10,81,79,80,479289,248541,4008,461
+"17013",5,"1023",73,0,2013,3,"","Calhoun County, Illinois","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",10,60,80,80,527092,149886,2383,553
+"17013",5,"1024",73,0,2013,1,"N","Calhoun County, Illinois","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17013",5,"1024",73,0,2013,2,"N","Calhoun County, Illinois","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17013",5,"1024",73,0,2013,3,"","Calhoun County, Illinois","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",5,24,23,13,78155,37614,2805,301
+"17013",5,"1025",73,0,2013,1,"","Calhoun County, Illinois","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,109,106,103,600607,483383,7436,436
+"17013",5,"1025",73,0,2013,2,"","Calhoun County, Illinois","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,108,112,108,707265,373808,5617,498
+"17013",5,"1025",73,0,2013,3,"","Calhoun County, Illinois","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,109,111,114,615353,133906,2027,425
+"17013",5,"1026",73,0,2013,1,"","Calhoun County, Illinois","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",20,138,139,136,283010,274732,6335,158
+"17013",5,"1026",73,0,2013,2,"","Calhoun County, Illinois","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",20,134,111,136,258032,256094,4533,156
+"17013",5,"1026",73,0,2013,3,"","Calhoun County, Illinois","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",20,147,148,153,364913,347840,11114,188
+"17013",5,"1027",73,0,2013,1,"","Calhoun County, Illinois","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",7,17,16,16,97940,97940,2926,461
+"17013",5,"1027",73,0,2013,2,"","Calhoun County, Illinois","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",7,8,12,8,58151,34220,189,479
+"17013",5,"1027",73,0,2013,3,"N","Calhoun County, Illinois","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"17013",5,"11",74,0,2013,1,"N","Calhoun County, Illinois","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17013",5,"11",74,0,2013,2,"N","Calhoun County, Illinois","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17013",5,"11",74,0,2013,3,"N","Calhoun County, Illinois","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17013",5,"111",75,0,2013,1,"N","Calhoun County, Illinois","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"111",75,0,2013,2,"N","Calhoun County, Illinois","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"111",75,0,2013,3,"N","Calhoun County, Illinois","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"1113",76,0,2013,1,"N","Calhoun County, Illinois","Private","Fruit and tree nut farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"1113",76,0,2013,2,"N","Calhoun County, Illinois","Private","Fruit and tree nut farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"1113",76,0,2013,3,"N","Calhoun County, Illinois","Private","Fruit and tree nut farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"11133",77,0,2013,1,"N","Calhoun County, Illinois","Private","Noncitrus fruit and tree nut farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"11133",77,0,2013,2,"N","Calhoun County, Illinois","Private","Noncitrus fruit and tree nut farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"11133",77,0,2013,3,"N","Calhoun County, Illinois","Private","Noncitrus fruit and tree nut farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"111336",78,0,2013,1,"N","Calhoun County, Illinois","Private","Fruit and tree nut combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"111336",78,0,2013,2,"N","Calhoun County, Illinois","Private","Fruit and tree nut combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"111336",78,0,2013,3,"N","Calhoun County, Illinois","Private","Fruit and tree nut combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"111339",78,0,2013,1,"N","Calhoun County, Illinois","Private","Other noncitrus fruit farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"111339",78,0,2013,2,"N","Calhoun County, Illinois","Private","Other noncitrus fruit farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"111339",78,0,2013,3,"N","Calhoun County, Illinois","Private","Other noncitrus fruit farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"115",75,0,2013,1,"N","Calhoun County, Illinois","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"115",75,0,2013,2,"N","Calhoun County, Illinois","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"115",75,0,2013,3,"N","Calhoun County, Illinois","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"1151",76,0,2013,1,"N","Calhoun County, Illinois","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"1151",76,0,2013,2,"N","Calhoun County, Illinois","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"1151",76,0,2013,3,"N","Calhoun County, Illinois","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"11511",77,0,2013,1,"N","Calhoun County, Illinois","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"11511",77,0,2013,2,"N","Calhoun County, Illinois","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"11511",77,0,2013,3,"N","Calhoun County, Illinois","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"115113",78,0,2013,1,"N","Calhoun County, Illinois","Private","Crop harvesting, primarily by machine","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"115113",78,0,2013,2,"N","Calhoun County, Illinois","Private","Crop harvesting, primarily by machine","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"115113",78,0,2013,3,"N","Calhoun County, Illinois","Private","Crop harvesting, primarily by machine","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"1153",76,0,2013,1,"N","Calhoun County, Illinois","Private","Support activities for forestry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"1153",76,0,2013,2,"N","Calhoun County, Illinois","Private","Support activities for forestry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"1153",76,0,2013,3,"N","Calhoun County, Illinois","Private","Support activities for forestry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"11531",77,0,2013,1,"N","Calhoun County, Illinois","Private","Support activities for forestry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"11531",77,0,2013,2,"N","Calhoun County, Illinois","Private","Support activities for forestry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"11531",77,0,2013,3,"N","Calhoun County, Illinois","Private","Support activities for forestry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"115310",78,0,2013,1,"N","Calhoun County, Illinois","Private","Support activities for forestry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"115310",78,0,2013,2,"N","Calhoun County, Illinois","Private","Support activities for forestry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"115310",78,0,2013,3,"N","Calhoun County, Illinois","Private","Support activities for forestry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"21",74,0,2013,1,"N","Calhoun County, Illinois","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"21",74,0,2013,2,"N","Calhoun County, Illinois","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"21",74,0,2013,3,"N","Calhoun County, Illinois","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"212",75,0,2013,1,"N","Calhoun County, Illinois","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"212",75,0,2013,2,"N","Calhoun County, Illinois","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"212",75,0,2013,3,"N","Calhoun County, Illinois","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"2123",76,0,2013,1,"N","Calhoun County, Illinois","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"2123",76,0,2013,2,"N","Calhoun County, Illinois","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"2123",76,0,2013,3,"N","Calhoun County, Illinois","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"21231",77,0,2013,1,"N","Calhoun County, Illinois","Private","Stone mining and quarrying","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"21231",77,0,2013,2,"N","Calhoun County, Illinois","Private","Stone mining and quarrying","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"21231",77,0,2013,3,"N","Calhoun County, Illinois","Private","Stone mining and quarrying","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"212312",78,0,2013,1,"N","Calhoun County, Illinois","Private","Crushed and broken limestone mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"212312",78,0,2013,2,"N","Calhoun County, Illinois","Private","Crushed and broken limestone mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"212312",78,0,2013,3,"N","Calhoun County, Illinois","Private","Crushed and broken limestone mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"23",74,0,2013,1,"","Calhoun County, Illinois","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",15,28,23,20,151500,143284,4683,492
+"17013",5,"23",74,0,2013,2,"","Calhoun County, Illinois","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",15,19,18,24,146302,74478,3016,553
+"17013",5,"23",74,0,2013,3,"","Calhoun County, Illinois","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",16,28,29,27,192853,68949,3028,530
+"17013",5,"236",75,0,2013,1,"","Calhoun County, Illinois","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,17,14,13,91018,88318,3016,477
+"17013",5,"236",75,0,2013,2,"","Calhoun County, Illinois","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,11,11,16,89731,52076,2395,545
+"17013",5,"236",75,0,2013,3,"","Calhoun County, Illinois","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,15,14,13,83298,12643,511,458
+"17013",5,"2361",76,0,2013,1,"","Calhoun County, Illinois","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,17,14,13,91018,88318,3016,477
+"17013",5,"2361",76,0,2013,2,"","Calhoun County, Illinois","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,11,11,16,89731,52076,2395,545
+"17013",5,"2361",76,0,2013,3,"N","Calhoun County, Illinois","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"17013",5,"23611",77,0,2013,1,"","Calhoun County, Illinois","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,17,14,13,91018,88318,3016,477
+"17013",5,"23611",77,0,2013,2,"","Calhoun County, Illinois","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,11,11,16,89731,52076,2395,545
+"17013",5,"23611",77,0,2013,3,"N","Calhoun County, Illinois","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"17013",5,"236115",78,0,2013,1,"N","Calhoun County, Illinois","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"236115",78,0,2013,2,"N","Calhoun County, Illinois","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"236115",78,0,2013,3,"","Calhoun County, Illinois","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,15,14,13,83298,12643,511,458
+"17013",5,"236118",78,0,2013,1,"N","Calhoun County, Illinois","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"236118",78,0,2013,2,"N","Calhoun County, Illinois","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"236118",78,0,2013,3,"N","Calhoun County, Illinois","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"2362",76,0,2013,1,"-","Calhoun County, Illinois","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"17013",5,"2362",76,0,2013,2,"-","Calhoun County, Illinois","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"17013",5,"2362",76,0,2013,3,"N","Calhoun County, Illinois","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"23622",77,0,2013,1,"-","Calhoun County, Illinois","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"17013",5,"23622",77,0,2013,2,"-","Calhoun County, Illinois","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"17013",5,"23622",77,0,2013,3,"N","Calhoun County, Illinois","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"236220",78,0,2013,1,"-","Calhoun County, Illinois","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"17013",5,"236220",78,0,2013,2,"-","Calhoun County, Illinois","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"17013",5,"236220",78,0,2013,3,"N","Calhoun County, Illinois","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"238",75,0,2013,1,"","Calhoun County, Illinois","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,11,9,7,60482,54966,1667,517
+"17013",5,"238",75,0,2013,2,"","Calhoun County, Illinois","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,8,7,8,56571,22402,621,568
+"17013",5,"238",75,0,2013,3,"","Calhoun County, Illinois","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,13,15,14,109555,56306,2517,602
+"17013",5,"2381",76,0,2013,1,"N","Calhoun County, Illinois","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"2381",76,0,2013,2,"N","Calhoun County, Illinois","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"2381",76,0,2013,3,"N","Calhoun County, Illinois","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"23811",77,0,2013,1,"N","Calhoun County, Illinois","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"23811",77,0,2013,2,"N","Calhoun County, Illinois","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"23811",77,0,2013,3,"N","Calhoun County, Illinois","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"238112",78,0,2013,1,"N","Calhoun County, Illinois","Private","Nonresidential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"238112",78,0,2013,2,"N","Calhoun County, Illinois","Private","Nonresidential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"238112",78,0,2013,3,"N","Calhoun County, Illinois","Private","Nonresidential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"2382",76,0,2013,1,"","Calhoun County, Illinois","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,11,9,7,60482,54966,1667,517
+"17013",5,"2382",76,0,2013,2,"","Calhoun County, Illinois","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,8,7,8,55571,21402,615,558
+"17013",5,"2382",76,0,2013,3,"","Calhoun County, Illinois","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,9,10,10,79167,25918,1191,630
+"17013",5,"23821",77,0,2013,1,"N","Calhoun County, Illinois","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"23821",77,0,2013,2,"N","Calhoun County, Illinois","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"23821",77,0,2013,3,"N","Calhoun County, Illinois","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"238211",78,0,2013,1,"N","Calhoun County, Illinois","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"238211",78,0,2013,2,"N","Calhoun County, Illinois","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"238211",78,0,2013,3,"N","Calhoun County, Illinois","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"23822",77,0,2013,1,"N","Calhoun County, Illinois","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17013",5,"23822",77,0,2013,2,"N","Calhoun County, Illinois","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17013",5,"23822",77,0,2013,3,"N","Calhoun County, Illinois","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17013",5,"238221",78,0,2013,1,"N","Calhoun County, Illinois","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"238221",78,0,2013,2,"N","Calhoun County, Illinois","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"238221",78,0,2013,3,"N","Calhoun County, Illinois","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"238222",78,0,2013,1,"N","Calhoun County, Illinois","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"238222",78,0,2013,2,"N","Calhoun County, Illinois","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"238222",78,0,2013,3,"N","Calhoun County, Illinois","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"2383",76,0,2013,1,"N","Calhoun County, Illinois","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"2383",76,0,2013,2,"N","Calhoun County, Illinois","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"2383",76,0,2013,3,"N","Calhoun County, Illinois","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"23832",77,0,2013,1,"N","Calhoun County, Illinois","Private","Painting and wall covering contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"23832",77,0,2013,2,"N","Calhoun County, Illinois","Private","Painting and wall covering contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"23832",77,0,2013,3,"N","Calhoun County, Illinois","Private","Painting and wall covering contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"238321",78,0,2013,1,"N","Calhoun County, Illinois","Private","Residential painting contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"238321",78,0,2013,2,"N","Calhoun County, Illinois","Private","Residential painting contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"238321",78,0,2013,3,"N","Calhoun County, Illinois","Private","Residential painting contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"2389",76,0,2013,1,"N","Calhoun County, Illinois","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"2389",76,0,2013,2,"N","Calhoun County, Illinois","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"2389",76,0,2013,3,"N","Calhoun County, Illinois","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"23891",77,0,2013,1,"N","Calhoun County, Illinois","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"23891",77,0,2013,2,"N","Calhoun County, Illinois","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"23891",77,0,2013,3,"N","Calhoun County, Illinois","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"238911",78,0,2013,1,"N","Calhoun County, Illinois","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"238911",78,0,2013,2,"N","Calhoun County, Illinois","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"238911",78,0,2013,3,"N","Calhoun County, Illinois","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"31-33",74,0,2013,1,"","Calhoun County, Illinois","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,15,16,16,79153,79153,3760,389
+"17013",5,"31-33",74,0,2013,2,"","Calhoun County, Illinois","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,17,17,17,106176,81914,5602,480
+"17013",5,"31-33",74,0,2013,3,"","Calhoun County, Illinois","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,16,16,16,110796,42612,3151,533
+"17013",5,"311",75,0,2013,1,"N","Calhoun County, Illinois","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"311",75,0,2013,2,"N","Calhoun County, Illinois","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"311",75,0,2013,3,"N","Calhoun County, Illinois","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"3116",76,0,2013,1,"N","Calhoun County, Illinois","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"3116",76,0,2013,2,"N","Calhoun County, Illinois","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"3116",76,0,2013,3,"N","Calhoun County, Illinois","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"31161",77,0,2013,1,"N","Calhoun County, Illinois","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"31161",77,0,2013,2,"N","Calhoun County, Illinois","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"31161",77,0,2013,3,"N","Calhoun County, Illinois","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"311612",78,0,2013,1,"N","Calhoun County, Illinois","Private","Meat processed from carcasses","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"311612",78,0,2013,2,"N","Calhoun County, Illinois","Private","Meat processed from carcasses","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"311612",78,0,2013,3,"N","Calhoun County, Illinois","Private","Meat processed from carcasses","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"327",75,0,2013,1,"N","Calhoun County, Illinois","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"327",75,0,2013,2,"N","Calhoun County, Illinois","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"327",75,0,2013,3,"N","Calhoun County, Illinois","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"3273",76,0,2013,1,"N","Calhoun County, Illinois","Private","Cement and concrete product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"3273",76,0,2013,2,"N","Calhoun County, Illinois","Private","Cement and concrete product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"3273",76,0,2013,3,"N","Calhoun County, Illinois","Private","Cement and concrete product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"32732",77,0,2013,1,"N","Calhoun County, Illinois","Private","Ready-mix concrete manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"32732",77,0,2013,2,"N","Calhoun County, Illinois","Private","Ready-mix concrete manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"32732",77,0,2013,3,"N","Calhoun County, Illinois","Private","Ready-mix concrete manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"327320",78,0,2013,1,"N","Calhoun County, Illinois","Private","Ready-mix concrete manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"327320",78,0,2013,2,"N","Calhoun County, Illinois","Private","Ready-mix concrete manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"327320",78,0,2013,3,"N","Calhoun County, Illinois","Private","Ready-mix concrete manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"332",75,0,2013,1,"N","Calhoun County, Illinois","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"332",75,0,2013,2,"N","Calhoun County, Illinois","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"332",75,0,2013,3,"N","Calhoun County, Illinois","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"3323",76,0,2013,1,"N","Calhoun County, Illinois","Private","Architectural and structural metals mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"3323",76,0,2013,2,"N","Calhoun County, Illinois","Private","Architectural and structural metals mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"3323",76,0,2013,3,"N","Calhoun County, Illinois","Private","Architectural and structural metals mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"33232",77,0,2013,1,"N","Calhoun County, Illinois","Private","Ornamental and architectural metal products","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"33232",77,0,2013,2,"N","Calhoun County, Illinois","Private","Ornamental and architectural metal products","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"33232",77,0,2013,3,"N","Calhoun County, Illinois","Private","Ornamental and architectural metal products","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"332322",78,0,2013,1,"N","Calhoun County, Illinois","Private","Sheet metal work manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"332322",78,0,2013,2,"N","Calhoun County, Illinois","Private","Sheet metal work manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"332322",78,0,2013,3,"N","Calhoun County, Illinois","Private","Sheet metal work manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"42",74,0,2013,1,"","Calhoun County, Illinois","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,22,21,22,161141,103266,3464,572
+"17013",5,"42",74,0,2013,2,"","Calhoun County, Illinois","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,22,22,22,118967,57857,2305,416
+"17013",5,"42",74,0,2013,3,"N","Calhoun County, Illinois","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"17013",5,"423",75,0,2013,1,"N","Calhoun County, Illinois","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"423",75,0,2013,2,"N","Calhoun County, Illinois","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"423",75,0,2013,3,"N","Calhoun County, Illinois","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4231",76,0,2013,1,"N","Calhoun County, Illinois","Private","Motor vehicle and parts merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4231",76,0,2013,2,"N","Calhoun County, Illinois","Private","Motor vehicle and parts merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4231",76,0,2013,3,"N","Calhoun County, Illinois","Private","Motor vehicle and parts merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"42312",77,0,2013,1,"N","Calhoun County, Illinois","Private","New motor vehicle parts merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"42312",77,0,2013,2,"N","Calhoun County, Illinois","Private","New motor vehicle parts merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"42312",77,0,2013,3,"N","Calhoun County, Illinois","Private","New motor vehicle parts merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"423120",78,0,2013,1,"N","Calhoun County, Illinois","Private","New motor vehicle parts merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"423120",78,0,2013,2,"N","Calhoun County, Illinois","Private","New motor vehicle parts merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"423120",78,0,2013,3,"N","Calhoun County, Illinois","Private","New motor vehicle parts merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"424",75,0,2013,1,"","Calhoun County, Illinois","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,21,20,21,151585,93710,3411,564
+"17013",5,"424",75,0,2013,2,"","Calhoun County, Illinois","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,21,21,21,109411,54513,2287,401
+"17013",5,"424",75,0,2013,3,"","Calhoun County, Illinois","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,21,21,19,109154,25599,810,413
+"17013",5,"4247",76,0,2013,1,"N","Calhoun County, Illinois","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4247",76,0,2013,2,"N","Calhoun County, Illinois","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4247",76,0,2013,3,"N","Calhoun County, Illinois","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"42472",77,0,2013,1,"N","Calhoun County, Illinois","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"42472",77,0,2013,2,"N","Calhoun County, Illinois","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"42472",77,0,2013,3,"N","Calhoun County, Illinois","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"424720",78,0,2013,1,"N","Calhoun County, Illinois","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"424720",78,0,2013,2,"N","Calhoun County, Illinois","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"424720",78,0,2013,3,"N","Calhoun County, Illinois","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4249",76,0,2013,1,"N","Calhoun County, Illinois","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"4249",76,0,2013,2,"N","Calhoun County, Illinois","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"4249",76,0,2013,3,"N","Calhoun County, Illinois","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"42491",77,0,2013,1,"N","Calhoun County, Illinois","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"42491",77,0,2013,2,"N","Calhoun County, Illinois","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"42491",77,0,2013,3,"N","Calhoun County, Illinois","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"424910",78,0,2013,1,"N","Calhoun County, Illinois","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"424910",78,0,2013,2,"N","Calhoun County, Illinois","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"424910",78,0,2013,3,"N","Calhoun County, Illinois","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"42499",77,0,2013,1,"N","Calhoun County, Illinois","Private","Other nondurable goods merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"42499",77,0,2013,2,"N","Calhoun County, Illinois","Private","Other nondurable goods merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"42499",77,0,2013,3,"N","Calhoun County, Illinois","Private","Other nondurable goods merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"424990",78,0,2013,1,"N","Calhoun County, Illinois","Private","Other nondurable goods merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"424990",78,0,2013,2,"N","Calhoun County, Illinois","Private","Other nondurable goods merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"424990",78,0,2013,3,"N","Calhoun County, Illinois","Private","Other nondurable goods merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"425",75,0,2013,1,"N","Calhoun County, Illinois","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"425",75,0,2013,2,"N","Calhoun County, Illinois","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"425",75,0,2013,3,"N","Calhoun County, Illinois","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4251",76,0,2013,1,"N","Calhoun County, Illinois","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4251",76,0,2013,2,"N","Calhoun County, Illinois","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4251",76,0,2013,3,"N","Calhoun County, Illinois","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"42512",77,0,2013,1,"N","Calhoun County, Illinois","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"42512",77,0,2013,2,"N","Calhoun County, Illinois","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"42512",77,0,2013,3,"N","Calhoun County, Illinois","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"425120",78,0,2013,1,"N","Calhoun County, Illinois","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"425120",78,0,2013,2,"N","Calhoun County, Illinois","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"425120",78,0,2013,3,"N","Calhoun County, Illinois","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"44-45",74,0,2013,1,"","Calhoun County, Illinois","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",15,104,102,101,562421,527953,16128,423
+"17013",5,"44-45",74,0,2013,2,"","Calhoun County, Illinois","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",15,114,116,113,556820,357117,10015,375
+"17013",5,"44-45",74,0,2013,3,"","Calhoun County, Illinois","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",15,115,113,99,556422,170466,5413,393
+"17013",5,"441",75,0,2013,1,"N","Calhoun County, Illinois","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"441",75,0,2013,2,"N","Calhoun County, Illinois","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"441",75,0,2013,3,"N","Calhoun County, Illinois","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"4411",76,0,2013,1,"N","Calhoun County, Illinois","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4411",76,0,2013,2,"N","Calhoun County, Illinois","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4411",76,0,2013,3,"N","Calhoun County, Illinois","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"44111",77,0,2013,1,"N","Calhoun County, Illinois","Private","New car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"44111",77,0,2013,2,"N","Calhoun County, Illinois","Private","New car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"44111",77,0,2013,3,"N","Calhoun County, Illinois","Private","New car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"441110",78,0,2013,1,"N","Calhoun County, Illinois","Private","New car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"441110",78,0,2013,2,"N","Calhoun County, Illinois","Private","New car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"441110",78,0,2013,3,"N","Calhoun County, Illinois","Private","New car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4412",76,0,2013,1,"N","Calhoun County, Illinois","Private","Other motor vehicle dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4412",76,0,2013,2,"N","Calhoun County, Illinois","Private","Other motor vehicle dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4412",76,0,2013,3,"N","Calhoun County, Illinois","Private","Other motor vehicle dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"44122",77,0,2013,1,"N","Calhoun County, Illinois","Private","Motorcycle, boat, and other vehicle dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"44122",77,0,2013,2,"N","Calhoun County, Illinois","Private","Motorcycle, boat, and other vehicle dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"44122",77,0,2013,3,"N","Calhoun County, Illinois","Private","Motorcycle, boat, and other vehicle dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"441222",78,0,2013,1,"N","Calhoun County, Illinois","Private","Boat dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"441222",78,0,2013,2,"N","Calhoun County, Illinois","Private","Boat dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"441222",78,0,2013,3,"N","Calhoun County, Illinois","Private","Boat dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"444",75,0,2013,1,"","Calhoun County, Illinois","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,11,11,11,97223,97223,1821,680
+"17013",5,"444",75,0,2013,2,"","Calhoun County, Illinois","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,11,11,11,68467,49035,872,479
+"17013",5,"444",75,0,2013,3,"","Calhoun County, Illinois","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,11,11,11,68124,17174,260,476
+"17013",5,"4441",76,0,2013,1,"","Calhoun County, Illinois","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,11,11,11,97223,97223,1821,680
+"17013",5,"4441",76,0,2013,2,"","Calhoun County, Illinois","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,11,11,11,68467,49035,872,479
+"17013",5,"4441",76,0,2013,3,"","Calhoun County, Illinois","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,11,11,11,68124,17174,260,476
+"17013",5,"44411",77,0,2013,1,"N","Calhoun County, Illinois","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"44411",77,0,2013,2,"N","Calhoun County, Illinois","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"44411",77,0,2013,3,"N","Calhoun County, Illinois","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"444110",78,0,2013,1,"N","Calhoun County, Illinois","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"444110",78,0,2013,2,"N","Calhoun County, Illinois","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"444110",78,0,2013,3,"N","Calhoun County, Illinois","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"44413",77,0,2013,1,"N","Calhoun County, Illinois","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"44413",77,0,2013,2,"N","Calhoun County, Illinois","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"44413",77,0,2013,3,"N","Calhoun County, Illinois","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"444130",78,0,2013,1,"N","Calhoun County, Illinois","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"444130",78,0,2013,2,"N","Calhoun County, Illinois","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"444130",78,0,2013,3,"N","Calhoun County, Illinois","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"445",75,0,2013,1,"","Calhoun County, Illinois","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,41,41,41,124222,118035,628,233
+"17013",5,"445",75,0,2013,2,"","Calhoun County, Illinois","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,53,55,53,150712,133896,797,216
+"17013",5,"445",75,0,2013,3,"","Calhoun County, Illinois","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,54,53,44,156052,72083,393,238
+"17013",5,"4451",76,0,2013,1,"N","Calhoun County, Illinois","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17013",5,"4451",76,0,2013,2,"N","Calhoun County, Illinois","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17013",5,"4451",76,0,2013,3,"N","Calhoun County, Illinois","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17013",5,"44511",77,0,2013,1,"","Calhoun County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,22,22,22,58295,58295,299,204
+"17013",5,"44511",77,0,2013,2,"","Calhoun County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,23,25,23,59979,59979,330,195
+"17013",5,"44511",77,0,2013,3,"","Calhoun County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,24,23,21,59948,39601,214,203
+"17013",5,"445110",78,0,2013,1,"","Calhoun County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,22,22,22,58295,58295,299,204
+"17013",5,"445110",78,0,2013,2,"","Calhoun County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,23,25,23,59979,59979,330,195
+"17013",5,"445110",78,0,2013,3,"","Calhoun County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,24,23,21,59948,39601,214,203
+"17013",5,"44512",77,0,2013,1,"N","Calhoun County, Illinois","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"44512",77,0,2013,2,"N","Calhoun County, Illinois","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"44512",77,0,2013,3,"N","Calhoun County, Illinois","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"445120",78,0,2013,1,"N","Calhoun County, Illinois","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"445120",78,0,2013,2,"N","Calhoun County, Illinois","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"445120",78,0,2013,3,"N","Calhoun County, Illinois","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"4453",76,0,2013,1,"N","Calhoun County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4453",76,0,2013,2,"N","Calhoun County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4453",76,0,2013,3,"N","Calhoun County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"44531",77,0,2013,1,"N","Calhoun County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"44531",77,0,2013,2,"N","Calhoun County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"44531",77,0,2013,3,"N","Calhoun County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"445310",78,0,2013,1,"N","Calhoun County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"445310",78,0,2013,2,"N","Calhoun County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"445310",78,0,2013,3,"N","Calhoun County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"446",75,0,2013,1,"N","Calhoun County, Illinois","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"446",75,0,2013,2,"N","Calhoun County, Illinois","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"446",75,0,2013,3,"N","Calhoun County, Illinois","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4461",76,0,2013,1,"N","Calhoun County, Illinois","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4461",76,0,2013,2,"N","Calhoun County, Illinois","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4461",76,0,2013,3,"N","Calhoun County, Illinois","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"44611",77,0,2013,1,"N","Calhoun County, Illinois","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"44611",77,0,2013,2,"N","Calhoun County, Illinois","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"44611",77,0,2013,3,"N","Calhoun County, Illinois","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"446110",78,0,2013,1,"N","Calhoun County, Illinois","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"446110",78,0,2013,2,"N","Calhoun County, Illinois","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"446110",78,0,2013,3,"N","Calhoun County, Illinois","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"451",75,0,2013,1,"N","Calhoun County, Illinois","Private","Sporting goods, hobby, book and music stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"451",75,0,2013,2,"N","Calhoun County, Illinois","Private","Sporting goods, hobby, book and music stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"451",75,0,2013,3,"N","Calhoun County, Illinois","Private","Sporting goods, hobby, book and music stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4512",76,0,2013,1,"N","Calhoun County, Illinois","Private","Book, periodical, and music stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4512",76,0,2013,2,"N","Calhoun County, Illinois","Private","Book, periodical, and music stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4512",76,0,2013,3,"N","Calhoun County, Illinois","Private","Book, periodical, and music stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"45121",77,0,2013,1,"N","Calhoun County, Illinois","Private","Book stores and news dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"45121",77,0,2013,2,"N","Calhoun County, Illinois","Private","Book stores and news dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"45121",77,0,2013,3,"N","Calhoun County, Illinois","Private","Book stores and news dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"451212",78,0,2013,1,"N","Calhoun County, Illinois","Private","News dealers and newsstands","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"451212",78,0,2013,2,"N","Calhoun County, Illinois","Private","News dealers and newsstands","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"451212",78,0,2013,3,"N","Calhoun County, Illinois","Private","News dealers and newsstands","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"452",75,0,2013,1,"N","Calhoun County, Illinois","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"452",75,0,2013,2,"N","Calhoun County, Illinois","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"452",75,0,2013,3,"N","Calhoun County, Illinois","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4529",76,0,2013,1,"N","Calhoun County, Illinois","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4529",76,0,2013,2,"N","Calhoun County, Illinois","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4529",76,0,2013,3,"N","Calhoun County, Illinois","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"45299",77,0,2013,1,"N","Calhoun County, Illinois","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"45299",77,0,2013,2,"N","Calhoun County, Illinois","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"45299",77,0,2013,3,"N","Calhoun County, Illinois","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"452990",78,0,2013,1,"N","Calhoun County, Illinois","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"452990",78,0,2013,2,"N","Calhoun County, Illinois","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"452990",78,0,2013,3,"N","Calhoun County, Illinois","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"454",75,0,2013,1,"N","Calhoun County, Illinois","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"454",75,0,2013,2,"N","Calhoun County, Illinois","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"454",75,0,2013,3,"N","Calhoun County, Illinois","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4541",76,0,2013,1,"N","Calhoun County, Illinois","Private","Electronic shopping and mail-order houses","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4541",76,0,2013,2,"N","Calhoun County, Illinois","Private","Electronic shopping and mail-order houses","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4541",76,0,2013,3,"N","Calhoun County, Illinois","Private","Electronic shopping and mail-order houses","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"45411",77,0,2013,1,"N","Calhoun County, Illinois","Private","Electronic shopping and mail-order houses","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"45411",77,0,2013,2,"N","Calhoun County, Illinois","Private","Electronic shopping and mail-order houses","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"45411",77,0,2013,3,"N","Calhoun County, Illinois","Private","Electronic shopping and mail-order houses","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"454113",78,0,2013,1,"N","Calhoun County, Illinois","Private","Mail-order houses","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"454113",78,0,2013,2,"N","Calhoun County, Illinois","Private","Mail-order houses","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"454113",78,0,2013,3,"N","Calhoun County, Illinois","Private","Mail-order houses","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"48-49",74,0,2013,1,"","Calhoun County, Illinois","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,17,19,19,133262,133262,10374,559
+"17013",5,"48-49",74,0,2013,2,"","Calhoun County, Illinois","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,17,6,6,77140,47322,3263,614
+"17013",5,"48-49",74,0,2013,3,"N","Calhoun County, Illinois","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"17013",5,"483",75,0,2013,1,"N","Calhoun County, Illinois","Private","Water transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"483",75,0,2013,2,"N","Calhoun County, Illinois","Private","Water transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"483",75,0,2013,3,"N","Calhoun County, Illinois","Private","Water transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4832",76,0,2013,1,"N","Calhoun County, Illinois","Private","Inland water transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4832",76,0,2013,2,"N","Calhoun County, Illinois","Private","Inland water transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"4832",76,0,2013,3,"N","Calhoun County, Illinois","Private","Inland water transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"48321",77,0,2013,1,"N","Calhoun County, Illinois","Private","Inland water transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"48321",77,0,2013,2,"N","Calhoun County, Illinois","Private","Inland water transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"48321",77,0,2013,3,"N","Calhoun County, Illinois","Private","Inland water transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"483212",78,0,2013,1,"N","Calhoun County, Illinois","Private","Inland water passenger transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"483212",78,0,2013,2,"N","Calhoun County, Illinois","Private","Inland water passenger transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"483212",78,0,2013,3,"N","Calhoun County, Illinois","Private","Inland water passenger transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"484",75,0,2013,1,"N","Calhoun County, Illinois","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"484",75,0,2013,2,"N","Calhoun County, Illinois","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"484",75,0,2013,3,"N","Calhoun County, Illinois","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"4842",76,0,2013,1,"N","Calhoun County, Illinois","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"4842",76,0,2013,2,"N","Calhoun County, Illinois","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"4842",76,0,2013,3,"N","Calhoun County, Illinois","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"48422",77,0,2013,1,"N","Calhoun County, Illinois","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"48422",77,0,2013,2,"N","Calhoun County, Illinois","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"48422",77,0,2013,3,"N","Calhoun County, Illinois","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"484220",78,0,2013,1,"N","Calhoun County, Illinois","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"484220",78,0,2013,2,"N","Calhoun County, Illinois","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"484220",78,0,2013,3,"N","Calhoun County, Illinois","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"488",75,0,2013,1,"N","Calhoun County, Illinois","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"488",75,0,2013,2,"N","Calhoun County, Illinois","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"488",75,0,2013,3,"N","Calhoun County, Illinois","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"4883",76,0,2013,1,"N","Calhoun County, Illinois","Private","Support activities for water transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"4883",76,0,2013,2,"N","Calhoun County, Illinois","Private","Support activities for water transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"4883",76,0,2013,3,"N","Calhoun County, Illinois","Private","Support activities for water transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"48833",77,0,2013,1,"N","Calhoun County, Illinois","Private","Navigational services to shipping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"48833",77,0,2013,2,"N","Calhoun County, Illinois","Private","Navigational services to shipping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"48833",77,0,2013,3,"N","Calhoun County, Illinois","Private","Navigational services to shipping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"488330",78,0,2013,1,"N","Calhoun County, Illinois","Private","Navigational services to shipping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"488330",78,0,2013,2,"N","Calhoun County, Illinois","Private","Navigational services to shipping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"488330",78,0,2013,3,"N","Calhoun County, Illinois","Private","Navigational services to shipping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"51",74,0,2013,1,"N","Calhoun County, Illinois","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"51",74,0,2013,2,"N","Calhoun County, Illinois","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"51",74,0,2013,3,"N","Calhoun County, Illinois","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"511",75,0,2013,1,"N","Calhoun County, Illinois","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"511",75,0,2013,2,"N","Calhoun County, Illinois","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"511",75,0,2013,3,"N","Calhoun County, Illinois","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5111",76,0,2013,1,"N","Calhoun County, Illinois","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5111",76,0,2013,2,"N","Calhoun County, Illinois","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5111",76,0,2013,3,"N","Calhoun County, Illinois","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"51111",77,0,2013,1,"N","Calhoun County, Illinois","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"51111",77,0,2013,2,"N","Calhoun County, Illinois","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"51111",77,0,2013,3,"N","Calhoun County, Illinois","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"511110",78,0,2013,1,"N","Calhoun County, Illinois","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"511110",78,0,2013,2,"N","Calhoun County, Illinois","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"511110",78,0,2013,3,"N","Calhoun County, Illinois","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"52",74,0,2013,1,"N","Calhoun County, Illinois","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"17013",5,"52",74,0,2013,2,"N","Calhoun County, Illinois","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"17013",5,"52",74,0,2013,3,"N","Calhoun County, Illinois","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"17013",5,"522",75,0,2013,1,"N","Calhoun County, Illinois","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"522",75,0,2013,2,"N","Calhoun County, Illinois","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"522",75,0,2013,3,"N","Calhoun County, Illinois","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"5221",76,0,2013,1,"N","Calhoun County, Illinois","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"5221",76,0,2013,2,"N","Calhoun County, Illinois","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"5221",76,0,2013,3,"N","Calhoun County, Illinois","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"52211",77,0,2013,1,"N","Calhoun County, Illinois","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"52211",77,0,2013,2,"N","Calhoun County, Illinois","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"52211",77,0,2013,3,"N","Calhoun County, Illinois","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"522110",78,0,2013,1,"N","Calhoun County, Illinois","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"522110",78,0,2013,2,"N","Calhoun County, Illinois","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"522110",78,0,2013,3,"N","Calhoun County, Illinois","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"523",75,0,2013,1,"N","Calhoun County, Illinois","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"523",75,0,2013,2,"N","Calhoun County, Illinois","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"523",75,0,2013,3,"N","Calhoun County, Illinois","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5239",76,0,2013,1,"N","Calhoun County, Illinois","Private","Other financial investment activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5239",76,0,2013,2,"N","Calhoun County, Illinois","Private","Other financial investment activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5239",76,0,2013,3,"N","Calhoun County, Illinois","Private","Other financial investment activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"52391",77,0,2013,1,"N","Calhoun County, Illinois","Private","Miscellaneous intermediation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"52391",77,0,2013,2,"N","Calhoun County, Illinois","Private","Miscellaneous intermediation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"52391",77,0,2013,3,"N","Calhoun County, Illinois","Private","Miscellaneous intermediation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"523910",78,0,2013,1,"N","Calhoun County, Illinois","Private","Miscellaneous intermediation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"523910",78,0,2013,2,"N","Calhoun County, Illinois","Private","Miscellaneous intermediation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"523910",78,0,2013,3,"N","Calhoun County, Illinois","Private","Miscellaneous intermediation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"524",75,0,2013,1,"","Calhoun County, Illinois","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,23,23,23,179084,143864,791,599
+"17013",5,"524",75,0,2013,2,"","Calhoun County, Illinois","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,23,23,23,153112,60317,332,512
+"17013",5,"524",75,0,2013,3,"","Calhoun County, Illinois","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,23,22,23,166186,26042,143,564
+"17013",5,"5242",76,0,2013,1,"","Calhoun County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,23,23,23,179084,143864,791,599
+"17013",5,"5242",76,0,2013,2,"","Calhoun County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,23,23,23,153112,60317,332,512
+"17013",5,"5242",76,0,2013,3,"","Calhoun County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,23,22,23,166186,26042,143,564
+"17013",5,"52421",77,0,2013,1,"","Calhoun County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,23,23,23,179084,143864,791,599
+"17013",5,"52421",77,0,2013,2,"","Calhoun County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,23,23,23,153112,60317,332,512
+"17013",5,"52421",77,0,2013,3,"","Calhoun County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,23,22,23,166186,26042,143,564
+"17013",5,"524210",78,0,2013,1,"","Calhoun County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,23,23,23,179084,143864,791,599
+"17013",5,"524210",78,0,2013,2,"","Calhoun County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,23,23,23,153112,60317,332,512
+"17013",5,"524210",78,0,2013,3,"","Calhoun County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,23,22,23,166186,26042,143,564
+"17013",5,"53",74,0,2013,1,"N","Calhoun County, Illinois","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"53",74,0,2013,2,"N","Calhoun County, Illinois","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"53",74,0,2013,3,"N","Calhoun County, Illinois","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"531",75,0,2013,1,"N","Calhoun County, Illinois","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"531",75,0,2013,2,"N","Calhoun County, Illinois","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"531",75,0,2013,3,"N","Calhoun County, Illinois","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"5312",76,0,2013,1,"N","Calhoun County, Illinois","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5312",76,0,2013,2,"N","Calhoun County, Illinois","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5312",76,0,2013,3,"N","Calhoun County, Illinois","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"53121",77,0,2013,1,"N","Calhoun County, Illinois","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"53121",77,0,2013,2,"N","Calhoun County, Illinois","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"53121",77,0,2013,3,"N","Calhoun County, Illinois","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"531210",78,0,2013,1,"N","Calhoun County, Illinois","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"531210",78,0,2013,2,"N","Calhoun County, Illinois","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"531210",78,0,2013,3,"N","Calhoun County, Illinois","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5313",76,0,2013,1,"N","Calhoun County, Illinois","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5313",76,0,2013,2,"N","Calhoun County, Illinois","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5313",76,0,2013,3,"N","Calhoun County, Illinois","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"53139",77,0,2013,1,"N","Calhoun County, Illinois","Private","Other activities related to real estate","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"53139",77,0,2013,2,"N","Calhoun County, Illinois","Private","Other activities related to real estate","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"53139",77,0,2013,3,"N","Calhoun County, Illinois","Private","Other activities related to real estate","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"531390",78,0,2013,1,"N","Calhoun County, Illinois","Private","Other activities related to real estate","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"531390",78,0,2013,2,"N","Calhoun County, Illinois","Private","Other activities related to real estate","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"531390",78,0,2013,3,"N","Calhoun County, Illinois","Private","Other activities related to real estate","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"532",75,0,2013,1,"N","Calhoun County, Illinois","Private","Rental and leasing services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"532",75,0,2013,2,"N","Calhoun County, Illinois","Private","Rental and leasing services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"532",75,0,2013,3,"N","Calhoun County, Illinois","Private","Rental and leasing services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5324",76,0,2013,1,"N","Calhoun County, Illinois","Private","Machinery and equipment rental and leasing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5324",76,0,2013,2,"N","Calhoun County, Illinois","Private","Machinery and equipment rental and leasing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5324",76,0,2013,3,"N","Calhoun County, Illinois","Private","Machinery and equipment rental and leasing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"53249",77,0,2013,1,"N","Calhoun County, Illinois","Private","Other machinery rental and leasing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"53249",77,0,2013,2,"N","Calhoun County, Illinois","Private","Other machinery rental and leasing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"53249",77,0,2013,3,"N","Calhoun County, Illinois","Private","Other machinery rental and leasing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"532490",78,0,2013,1,"N","Calhoun County, Illinois","Private","Other machinery rental and leasing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"532490",78,0,2013,2,"N","Calhoun County, Illinois","Private","Other machinery rental and leasing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"532490",78,0,2013,3,"N","Calhoun County, Illinois","Private","Other machinery rental and leasing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"54",74,0,2013,1,"N","Calhoun County, Illinois","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"54",74,0,2013,2,"N","Calhoun County, Illinois","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"54",74,0,2013,3,"N","Calhoun County, Illinois","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"541",75,0,2013,1,"N","Calhoun County, Illinois","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"541",75,0,2013,2,"N","Calhoun County, Illinois","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"541",75,0,2013,3,"N","Calhoun County, Illinois","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"5411",76,0,2013,1,"N","Calhoun County, Illinois","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5411",76,0,2013,2,"N","Calhoun County, Illinois","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5411",76,0,2013,3,"N","Calhoun County, Illinois","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"54111",77,0,2013,1,"N","Calhoun County, Illinois","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"54111",77,0,2013,2,"N","Calhoun County, Illinois","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"54111",77,0,2013,3,"N","Calhoun County, Illinois","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"541110",78,0,2013,1,"N","Calhoun County, Illinois","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"541110",78,0,2013,2,"N","Calhoun County, Illinois","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"541110",78,0,2013,3,"N","Calhoun County, Illinois","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5415",76,0,2013,1,"N","Calhoun County, Illinois","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5415",76,0,2013,2,"N","Calhoun County, Illinois","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5415",76,0,2013,3,"N","Calhoun County, Illinois","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"54151",77,0,2013,1,"N","Calhoun County, Illinois","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"54151",77,0,2013,2,"N","Calhoun County, Illinois","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"54151",77,0,2013,3,"N","Calhoun County, Illinois","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"541519",78,0,2013,1,"N","Calhoun County, Illinois","Private","Other computer related services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"541519",78,0,2013,2,"N","Calhoun County, Illinois","Private","Other computer related services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"541519",78,0,2013,3,"N","Calhoun County, Illinois","Private","Other computer related services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5417",76,0,2013,1,"N","Calhoun County, Illinois","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5417",76,0,2013,2,"N","Calhoun County, Illinois","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"5417",76,0,2013,3,"N","Calhoun County, Illinois","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"54172",77,0,2013,1,"N","Calhoun County, Illinois","Private","Social science and humanities research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"54172",77,0,2013,2,"N","Calhoun County, Illinois","Private","Social science and humanities research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"54172",77,0,2013,3,"N","Calhoun County, Illinois","Private","Social science and humanities research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"541720",78,0,2013,1,"N","Calhoun County, Illinois","Private","Social science and humanities research","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"541720",78,0,2013,2,"N","Calhoun County, Illinois","Private","Social science and humanities research","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"541720",78,0,2013,3,"N","Calhoun County, Illinois","Private","Social science and humanities research","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"56",74,0,2013,1,"N","Calhoun County, Illinois","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"56",74,0,2013,2,"N","Calhoun County, Illinois","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"56",74,0,2013,3,"N","Calhoun County, Illinois","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"561",75,0,2013,1,"N","Calhoun County, Illinois","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"561",75,0,2013,2,"N","Calhoun County, Illinois","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"561",75,0,2013,3,"N","Calhoun County, Illinois","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"5617",76,0,2013,1,"N","Calhoun County, Illinois","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"5617",76,0,2013,2,"N","Calhoun County, Illinois","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"5617",76,0,2013,3,"N","Calhoun County, Illinois","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"56172",77,0,2013,1,"N","Calhoun County, Illinois","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"56172",77,0,2013,2,"N","Calhoun County, Illinois","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"56172",77,0,2013,3,"N","Calhoun County, Illinois","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"561720",78,0,2013,1,"N","Calhoun County, Illinois","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"561720",78,0,2013,2,"N","Calhoun County, Illinois","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"561720",78,0,2013,3,"N","Calhoun County, Illinois","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"56174",77,0,2013,1,"N","Calhoun County, Illinois","Private","Carpet and upholstery cleaning services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"56174",77,0,2013,2,"N","Calhoun County, Illinois","Private","Carpet and upholstery cleaning services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"56174",77,0,2013,3,"N","Calhoun County, Illinois","Private","Carpet and upholstery cleaning services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"561740",78,0,2013,1,"N","Calhoun County, Illinois","Private","Carpet and upholstery cleaning services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"561740",78,0,2013,2,"N","Calhoun County, Illinois","Private","Carpet and upholstery cleaning services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"561740",78,0,2013,3,"N","Calhoun County, Illinois","Private","Carpet and upholstery cleaning services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"61",74,0,2013,1,"N","Calhoun County, Illinois","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"61",74,0,2013,2,"N","Calhoun County, Illinois","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"61",74,0,2013,3,"N","Calhoun County, Illinois","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"611",75,0,2013,1,"N","Calhoun County, Illinois","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"611",75,0,2013,2,"N","Calhoun County, Illinois","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"611",75,0,2013,3,"N","Calhoun County, Illinois","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"6111",76,0,2013,1,"N","Calhoun County, Illinois","Private","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"6111",76,0,2013,2,"N","Calhoun County, Illinois","Private","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"6111",76,0,2013,3,"N","Calhoun County, Illinois","Private","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"61111",77,0,2013,1,"N","Calhoun County, Illinois","Private","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"61111",77,0,2013,2,"N","Calhoun County, Illinois","Private","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"61111",77,0,2013,3,"N","Calhoun County, Illinois","Private","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"611110",78,0,2013,1,"N","Calhoun County, Illinois","Private","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"611110",78,0,2013,2,"N","Calhoun County, Illinois","Private","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"611110",78,0,2013,3,"N","Calhoun County, Illinois","Private","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"62",74,0,2013,1,"N","Calhoun County, Illinois","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"62",74,0,2013,2,"N","Calhoun County, Illinois","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"62",74,0,2013,3,"N","Calhoun County, Illinois","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"621",75,0,2013,1,"N","Calhoun County, Illinois","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"621",75,0,2013,2,"N","Calhoun County, Illinois","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"621",75,0,2013,3,"N","Calhoun County, Illinois","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"6212",76,0,2013,1,"N","Calhoun County, Illinois","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"6212",76,0,2013,2,"N","Calhoun County, Illinois","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"6212",76,0,2013,3,"N","Calhoun County, Illinois","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"62121",77,0,2013,1,"N","Calhoun County, Illinois","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"62121",77,0,2013,2,"N","Calhoun County, Illinois","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"62121",77,0,2013,3,"N","Calhoun County, Illinois","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"621210",78,0,2013,1,"N","Calhoun County, Illinois","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"621210",78,0,2013,2,"N","Calhoun County, Illinois","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"621210",78,0,2013,3,"N","Calhoun County, Illinois","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"623",75,0,2013,1,"N","Calhoun County, Illinois","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"623",75,0,2013,2,"N","Calhoun County, Illinois","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"623",75,0,2013,3,"N","Calhoun County, Illinois","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"6231",76,0,2013,1,"N","Calhoun County, Illinois","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"6231",76,0,2013,2,"N","Calhoun County, Illinois","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"6231",76,0,2013,3,"N","Calhoun County, Illinois","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"62311",77,0,2013,1,"N","Calhoun County, Illinois","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"62311",77,0,2013,2,"N","Calhoun County, Illinois","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"62311",77,0,2013,3,"N","Calhoun County, Illinois","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"623110",78,0,2013,1,"N","Calhoun County, Illinois","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"623110",78,0,2013,2,"N","Calhoun County, Illinois","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"623110",78,0,2013,3,"N","Calhoun County, Illinois","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"72",74,0,2013,1,"","Calhoun County, Illinois","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",20,138,139,136,283010,274732,6335,158
+"17013",5,"72",74,0,2013,2,"","Calhoun County, Illinois","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",20,134,111,136,258032,256094,4533,156
+"17013",5,"72",74,0,2013,3,"","Calhoun County, Illinois","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",20,147,148,153,364913,347840,11114,188
+"17013",5,"722",75,0,2013,1,"","Calhoun County, Illinois","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",20,138,139,136,283010,274732,6335,158
+"17013",5,"722",75,0,2013,2,"","Calhoun County, Illinois","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",20,134,111,136,258032,256094,4533,156
+"17013",5,"722",75,0,2013,3,"","Calhoun County, Illinois","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",20,147,148,153,364913,347840,11114,188
+"17013",5,"7224",76,0,2013,1,"","Calhoun County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,17,17,17,34833,34833,1028,158
+"17013",5,"7224",76,0,2013,2,"","Calhoun County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,18,16,18,35448,35448,917,157
+"17013",5,"7224",76,0,2013,3,"","Calhoun County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,13,14,14,31979,31979,1076,180
+"17013",5,"72241",77,0,2013,1,"","Calhoun County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,17,17,17,34833,34833,1028,158
+"17013",5,"72241",77,0,2013,2,"","Calhoun County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,18,16,18,35448,35448,917,157
+"17013",5,"72241",77,0,2013,3,"","Calhoun County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,13,14,14,31979,31979,1076,180
+"17013",5,"722410",78,0,2013,1,"","Calhoun County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,17,17,17,34833,34833,1028,158
+"17013",5,"722410",78,0,2013,2,"","Calhoun County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,18,16,18,35448,35448,917,157
+"17013",5,"722410",78,0,2013,3,"","Calhoun County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,13,14,14,31979,31979,1076,180
+"17013",5,"7225",76,0,2013,1,"","Calhoun County, Illinois","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",13,121,122,119,248177,239899,5307,158
+"17013",5,"7225",76,0,2013,2,"","Calhoun County, Illinois","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",13,116,95,118,222584,220646,3616,156
+"17013",5,"7225",76,0,2013,3,"","Calhoun County, Illinois","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",13,134,134,139,332934,315861,10038,189
+"17013",5,"72251",77,0,2013,1,"","Calhoun County, Illinois","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",13,121,122,119,248177,239899,5307,158
+"17013",5,"72251",77,0,2013,2,"","Calhoun County, Illinois","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",13,116,95,118,222584,220646,3616,156
+"17013",5,"72251",77,0,2013,3,"","Calhoun County, Illinois","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",13,134,134,139,332934,315861,10038,189
+"17013",5,"722511",78,0,2013,1,"N","Calhoun County, Illinois","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"17013",5,"722511",78,0,2013,2,"N","Calhoun County, Illinois","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"17013",5,"722511",78,0,2013,3,"N","Calhoun County, Illinois","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"17013",5,"722513",78,0,2013,1,"N","Calhoun County, Illinois","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"722513",78,0,2013,2,"N","Calhoun County, Illinois","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"722513",78,0,2013,3,"N","Calhoun County, Illinois","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"81",74,0,2013,1,"","Calhoun County, Illinois","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",7,17,16,16,97940,97940,2926,461
+"17013",5,"81",74,0,2013,2,"","Calhoun County, Illinois","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",7,8,12,8,58151,34220,189,479
+"17013",5,"81",74,0,2013,3,"N","Calhoun County, Illinois","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"17013",5,"811",75,0,2013,1,"","Calhoun County, Illinois","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,11,10,10,73260,73260,2790,545
+"17013",5,"811",75,0,2013,2,"","Calhoun County, Illinois","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,6,6,6,44681,24797,137,573
+"17013",5,"811",75,0,2013,3,"","Calhoun County, Illinois","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,6,6,44681,6722,37,573
+"17013",5,"8111",76,0,2013,1,"","Calhoun County, Illinois","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,11,10,10,73260,73260,2790,545
+"17013",5,"8111",76,0,2013,2,"","Calhoun County, Illinois","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,6,6,6,44681,24797,137,573
+"17013",5,"8111",76,0,2013,3,"","Calhoun County, Illinois","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,6,6,44681,6722,37,573
+"17013",5,"81111",77,0,2013,1,"N","Calhoun County, Illinois","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"81111",77,0,2013,2,"N","Calhoun County, Illinois","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"81111",77,0,2013,3,"N","Calhoun County, Illinois","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"811111",78,0,2013,1,"N","Calhoun County, Illinois","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"811111",78,0,2013,2,"N","Calhoun County, Illinois","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"811111",78,0,2013,3,"N","Calhoun County, Illinois","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"81112",77,0,2013,1,"N","Calhoun County, Illinois","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"81112",77,0,2013,2,"N","Calhoun County, Illinois","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"81112",77,0,2013,3,"N","Calhoun County, Illinois","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"811121",78,0,2013,1,"N","Calhoun County, Illinois","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"811121",78,0,2013,2,"N","Calhoun County, Illinois","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17013",5,"811121",78,0,2013,3,"N","Calhoun County, Illinois","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17013",5,"812",75,0,2013,1,"N","Calhoun County, Illinois","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"812",75,0,2013,2,"N","Calhoun County, Illinois","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"812",75,0,2013,3,"N","Calhoun County, Illinois","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"8122",76,0,2013,1,"N","Calhoun County, Illinois","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"8122",76,0,2013,2,"N","Calhoun County, Illinois","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"8122",76,0,2013,3,"N","Calhoun County, Illinois","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"81221",77,0,2013,1,"N","Calhoun County, Illinois","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"81221",77,0,2013,2,"N","Calhoun County, Illinois","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"81221",77,0,2013,3,"N","Calhoun County, Illinois","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"812210",78,0,2013,1,"N","Calhoun County, Illinois","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"812210",78,0,2013,2,"N","Calhoun County, Illinois","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"812210",78,0,2013,3,"N","Calhoun County, Illinois","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"813",75,0,2013,1,"N","Calhoun County, Illinois","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"813",75,0,2013,2,"N","Calhoun County, Illinois","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"813",75,0,2013,3,"N","Calhoun County, Illinois","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"8139",76,0,2013,1,"N","Calhoun County, Illinois","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"8139",76,0,2013,2,"N","Calhoun County, Illinois","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"8139",76,0,2013,3,"N","Calhoun County, Illinois","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"81391",77,0,2013,1,"N","Calhoun County, Illinois","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"81391",77,0,2013,2,"N","Calhoun County, Illinois","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"81391",77,0,2013,3,"N","Calhoun County, Illinois","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"813910",78,0,2013,1,"N","Calhoun County, Illinois","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"813910",78,0,2013,2,"N","Calhoun County, Illinois","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"813910",78,0,2013,3,"N","Calhoun County, Illinois","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"814",75,0,2013,1,"N","Calhoun County, Illinois","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"814",75,0,2013,2,"N","Calhoun County, Illinois","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"814",75,0,2013,3,"N","Calhoun County, Illinois","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"8141",76,0,2013,1,"N","Calhoun County, Illinois","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"8141",76,0,2013,2,"N","Calhoun County, Illinois","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"8141",76,0,2013,3,"N","Calhoun County, Illinois","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"81411",77,0,2013,1,"N","Calhoun County, Illinois","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"81411",77,0,2013,2,"N","Calhoun County, Illinois","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"81411",77,0,2013,3,"N","Calhoun County, Illinois","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"814110",78,0,2013,1,"N","Calhoun County, Illinois","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"814110",78,0,2013,2,"N","Calhoun County, Illinois","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17013",5,"814110",78,0,2013,3,"N","Calhoun County, Illinois","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

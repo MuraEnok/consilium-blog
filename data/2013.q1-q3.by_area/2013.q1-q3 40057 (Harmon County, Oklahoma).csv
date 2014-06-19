@@ -1,0 +1,776 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"40057",0,"10",70,0,2013,1,"","Harmon County, Oklahoma","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",76,773,766,758,5976947,4406706,51703,600
+"40057",0,"10",70,0,2013,2,"","Harmon County, Oklahoma","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",76,785,765,767,6418660,3552675,43450,639
+"40057",0,"10",70,0,2013,3,"","Harmon County, Oklahoma","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",74,695,756,766,5934010,2130443,27059,618
+"40057",1,"10",71,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,20,20,20,216562,0,0,833
+"40057",1,"10",71,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,20,20,21,228060,0,0,863
+"40057",1,"10",71,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,20,19,19,239570,0,0,953
+"40057",1,"102",72,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,20,20,20,216562,0,0,833
+"40057",1,"102",72,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,20,20,21,228060,0,0,863
+"40057",1,"102",72,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,20,19,19,239570,0,0,953
+"40057",1,"1021",73,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,10,10,10,85658,0,0,659
+"40057",1,"1021",73,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,10,10,10,72482,0,0,558
+"40057",1,"1021",73,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,9,9,9,81502,0,0,697
+"40057",1,"1028",73,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,10,10,10,130904,0,0,1007
+"40057",1,"1028",73,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,10,10,11,155578,0,0,1158
+"40057",1,"1028",73,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,11,10,10,158068,0,0,1177
+"40057",1,"48-49",74,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,10,10,10,85658,0,0,659
+"40057",1,"48-49",74,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,10,10,10,72482,0,0,558
+"40057",1,"48-49",74,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,9,9,9,81502,0,0,697
+"40057",1,"491",75,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,10,10,10,85658,0,0,659
+"40057",1,"491",75,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,10,10,10,72482,0,0,558
+"40057",1,"491",75,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,9,9,9,81502,0,0,697
+"40057",1,"4911",76,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,10,10,10,85658,0,0,659
+"40057",1,"4911",76,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,10,10,10,72482,0,0,558
+"40057",1,"4911",76,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,9,9,81502,0,0,697
+"40057",1,"49111",77,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,10,10,10,85658,0,0,659
+"40057",1,"49111",77,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,10,10,10,72482,0,0,558
+"40057",1,"49111",77,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,9,9,81502,0,0,697
+"40057",1,"491110",78,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,10,10,10,85658,0,0,659
+"40057",1,"491110",78,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,10,10,10,72482,0,0,558
+"40057",1,"491110",78,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,9,9,81502,0,0,697
+"40057",1,"92",74,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,10,10,10,130904,0,0,1007
+"40057",1,"92",74,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,10,10,11,155578,0,0,1158
+"40057",1,"92",74,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,11,10,10,158068,0,0,1177
+"40057",1,"924",75,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,6,6,6,74254,0,0,952
+"40057",1,"924",75,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,6,6,7,89487,0,0,1087
+"40057",1,"924",75,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,7,6,6,91756,0,0,1114
+"40057",1,"9241",76,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,6,6,6,74254,0,0,952
+"40057",1,"9241",76,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,6,6,7,89487,0,0,1087
+"40057",1,"9241",76,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,7,6,6,91756,0,0,1114
+"40057",1,"92412",77,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,6,6,6,74254,0,0,952
+"40057",1,"92412",77,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,6,6,7,89487,0,0,1087
+"40057",1,"92412",77,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,7,6,6,91756,0,0,1114
+"40057",1,"924120",78,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,6,6,6,74254,0,0,952
+"40057",1,"924120",78,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,6,6,7,89487,0,0,1087
+"40057",1,"924120",78,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,7,6,6,91756,0,0,1114
+"40057",1,"926",75,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,4,4,4,56650,0,0,1089
+"40057",1,"926",75,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,4,4,4,66091,0,0,1271
+"40057",1,"926",75,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,4,4,4,66312,0,0,1275
+"40057",1,"9261",76,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,4,4,4,56650,0,0,1089
+"40057",1,"9261",76,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,4,4,4,66091,0,0,1271
+"40057",1,"9261",76,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,4,4,4,66312,0,0,1275
+"40057",1,"92614",77,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,4,4,4,56650,0,0,1089
+"40057",1,"92614",77,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,4,4,4,66091,0,0,1271
+"40057",1,"92614",77,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,4,4,4,66312,0,0,1275
+"40057",1,"926140",78,0,2013,1,"","Harmon County, Oklahoma","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,4,4,4,56650,0,0,1089
+"40057",1,"926140",78,0,2013,2,"","Harmon County, Oklahoma","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,4,4,4,66091,0,0,1271
+"40057",1,"926140",78,0,2013,3,"","Harmon County, Oklahoma","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,4,4,4,66312,0,0,1275
+"40057",2,"10",71,0,2013,1,"","Harmon County, Oklahoma","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,26,26,26,223520,10201,102,661
+"40057",2,"10",71,0,2013,2,"","Harmon County, Oklahoma","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,26,26,27,240576,6476,65,703
+"40057",2,"10",71,0,2013,3,"","Harmon County, Oklahoma","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,27,27,27,236608,2400,24,674
+"40057",2,"102",72,0,2013,1,"","Harmon County, Oklahoma","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,26,26,26,223520,10201,102,661
+"40057",2,"102",72,0,2013,2,"","Harmon County, Oklahoma","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,26,26,27,240576,6476,65,703
+"40057",2,"102",72,0,2013,3,"","Harmon County, Oklahoma","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,27,27,27,236608,2400,24,674
+"40057",2,"1028",73,0,2013,1,"","Harmon County, Oklahoma","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,26,26,26,223520,10201,102,661
+"40057",2,"1028",73,0,2013,2,"","Harmon County, Oklahoma","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,26,26,27,240576,6476,65,703
+"40057",2,"1028",73,0,2013,3,"","Harmon County, Oklahoma","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,27,27,27,236608,2400,24,674
+"40057",2,"92",74,0,2013,1,"","Harmon County, Oklahoma","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,26,26,26,223520,10201,102,661
+"40057",2,"92",74,0,2013,2,"","Harmon County, Oklahoma","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,26,26,27,240576,6476,65,703
+"40057",2,"92",74,0,2013,3,"","Harmon County, Oklahoma","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,27,27,27,236608,2400,24,674
+"40057",2,"922",75,0,2013,1,"","Harmon County, Oklahoma","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,12,12,12,115924,10201,102,743
+"40057",2,"922",75,0,2013,2,"","Harmon County, Oklahoma","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,12,12,12,118442,6476,65,759
+"40057",2,"922",75,0,2013,3,"","Harmon County, Oklahoma","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,12,12,12,119257,2400,24,764
+"40057",2,"9221",76,0,2013,1,"","Harmon County, Oklahoma","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,12,12,12,115924,10201,102,743
+"40057",2,"9221",76,0,2013,2,"","Harmon County, Oklahoma","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,12,12,12,118442,6476,65,759
+"40057",2,"9221",76,0,2013,3,"","Harmon County, Oklahoma","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,12,12,12,119257,2400,24,764
+"40057",2,"92211",77,0,2013,1,"N","Harmon County, Oklahoma","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92211",77,0,2013,2,"N","Harmon County, Oklahoma","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92211",77,0,2013,3,"N","Harmon County, Oklahoma","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"922110",78,0,2013,1,"N","Harmon County, Oklahoma","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"922110",78,0,2013,2,"N","Harmon County, Oklahoma","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"922110",78,0,2013,3,"N","Harmon County, Oklahoma","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92213",77,0,2013,1,"N","Harmon County, Oklahoma","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92213",77,0,2013,2,"N","Harmon County, Oklahoma","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92213",77,0,2013,3,"N","Harmon County, Oklahoma","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"922130",78,0,2013,1,"N","Harmon County, Oklahoma","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"922130",78,0,2013,2,"N","Harmon County, Oklahoma","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"922130",78,0,2013,3,"N","Harmon County, Oklahoma","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92214",77,0,2013,1,"N","Harmon County, Oklahoma","State Government","Correctional institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92214",77,0,2013,2,"N","Harmon County, Oklahoma","State Government","Correctional institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92214",77,0,2013,3,"N","Harmon County, Oklahoma","State Government","Correctional institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"922140",78,0,2013,1,"N","Harmon County, Oklahoma","State Government","Correctional institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"922140",78,0,2013,2,"N","Harmon County, Oklahoma","State Government","Correctional institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"922140",78,0,2013,3,"N","Harmon County, Oklahoma","State Government","Correctional institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"923",75,0,2013,1,"N","Harmon County, Oklahoma","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"923",75,0,2013,2,"N","Harmon County, Oklahoma","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"923",75,0,2013,3,"N","Harmon County, Oklahoma","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"9231",76,0,2013,1,"N","Harmon County, Oklahoma","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"9231",76,0,2013,2,"N","Harmon County, Oklahoma","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"9231",76,0,2013,3,"N","Harmon County, Oklahoma","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92313",77,0,2013,1,"N","Harmon County, Oklahoma","State Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92313",77,0,2013,2,"N","Harmon County, Oklahoma","State Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92313",77,0,2013,3,"N","Harmon County, Oklahoma","State Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"923130",78,0,2013,1,"N","Harmon County, Oklahoma","State Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"923130",78,0,2013,2,"N","Harmon County, Oklahoma","State Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"923130",78,0,2013,3,"N","Harmon County, Oklahoma","State Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"924",75,0,2013,1,"N","Harmon County, Oklahoma","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"924",75,0,2013,2,"N","Harmon County, Oklahoma","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"924",75,0,2013,3,"N","Harmon County, Oklahoma","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"9241",76,0,2013,1,"N","Harmon County, Oklahoma","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"9241",76,0,2013,2,"N","Harmon County, Oklahoma","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"9241",76,0,2013,3,"N","Harmon County, Oklahoma","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92412",77,0,2013,1,"N","Harmon County, Oklahoma","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92412",77,0,2013,2,"N","Harmon County, Oklahoma","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92412",77,0,2013,3,"N","Harmon County, Oklahoma","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"924120",78,0,2013,1,"N","Harmon County, Oklahoma","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"924120",78,0,2013,2,"N","Harmon County, Oklahoma","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"924120",78,0,2013,3,"N","Harmon County, Oklahoma","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"926",75,0,2013,1,"N","Harmon County, Oklahoma","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"926",75,0,2013,2,"N","Harmon County, Oklahoma","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"926",75,0,2013,3,"N","Harmon County, Oklahoma","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"9261",76,0,2013,1,"N","Harmon County, Oklahoma","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"9261",76,0,2013,2,"N","Harmon County, Oklahoma","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"9261",76,0,2013,3,"N","Harmon County, Oklahoma","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92612",77,0,2013,1,"N","Harmon County, Oklahoma","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92612",77,0,2013,2,"N","Harmon County, Oklahoma","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"92612",77,0,2013,3,"N","Harmon County, Oklahoma","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"926120",78,0,2013,1,"N","Harmon County, Oklahoma","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"926120",78,0,2013,2,"N","Harmon County, Oklahoma","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",2,"926120",78,0,2013,3,"N","Harmon County, Oklahoma","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"10",71,0,2013,1,"","Harmon County, Oklahoma","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,279,273,262,1856783,1043799,10436,526
+"40057",3,"10",71,0,2013,2,"","Harmon County, Oklahoma","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,273,269,267,2008011,885869,8856,573
+"40057",3,"10",71,0,2013,3,"","Harmon County, Oklahoma","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,203,255,269,1657984,640710,6405,526
+"40057",3,"101",72,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"101",72,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"101",72,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"1012",73,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"1012",73,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"1012",73,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"102",72,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"40057",3,"102",72,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"40057",3,"102",72,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"40057",3,"1025",73,0,2013,1,"","Harmon County, Oklahoma","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,223,217,209,1590393,777409,7774,566
+"40057",3,"1025",73,0,2013,2,"","Harmon County, Oklahoma","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,221,212,205,1730997,620582,6206,626
+"40057",3,"1025",73,0,2013,3,"","Harmon County, Oklahoma","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,142,199,212,1376472,396373,3963,574
+"40057",3,"1028",73,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"40057",3,"1028",73,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"40057",3,"1028",73,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"40057",3,"23",74,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"23",74,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"23",74,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"237",75,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"237",75,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"237",75,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"2373",76,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"2373",76,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"2373",76,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"23731",77,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"23731",77,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"23731",77,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"237310",78,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"237310",78,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"237310",78,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"61",74,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"61",74,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"61",74,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"611",75,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"611",75,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"611",75,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"6111",76,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"6111",76,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"6111",76,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"61111",77,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"61111",77,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"61111",77,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"611110",78,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"611110",78,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"611110",78,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"62",74,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"40057",3,"62",74,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"40057",3,"62",74,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"40057",3,"621",75,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"621",75,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"621",75,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"6211",76,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"6211",76,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"6211",76,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"62111",77,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"62111",77,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"62111",77,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"621111",78,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"621111",78,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"621111",78,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"622",75,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"622",75,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"622",75,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"6221",76,0,2013,1,"N","Harmon County, Oklahoma","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"6221",76,0,2013,2,"N","Harmon County, Oklahoma","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"6221",76,0,2013,3,"N","Harmon County, Oklahoma","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"62211",77,0,2013,1,"N","Harmon County, Oklahoma","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"62211",77,0,2013,2,"N","Harmon County, Oklahoma","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"62211",77,0,2013,3,"N","Harmon County, Oklahoma","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"622110",78,0,2013,1,"N","Harmon County, Oklahoma","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"622110",78,0,2013,2,"N","Harmon County, Oklahoma","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"622110",78,0,2013,3,"N","Harmon County, Oklahoma","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"623",75,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"623",75,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"623",75,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"6231",76,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"6231",76,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"6231",76,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"62311",77,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"62311",77,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"62311",77,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"623110",78,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"623110",78,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"623110",78,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"92",74,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"40057",3,"92",74,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"40057",3,"92",74,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"40057",3,"921",75,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",3,"921",75,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",3,"921",75,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",3,"9211",76,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",3,"9211",76,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",3,"9211",76,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",3,"92111",77,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Executive offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"92111",77,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Executive offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"92111",77,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Executive offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"921110",78,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Executive offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"921110",78,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Executive offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"921110",78,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Executive offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",3,"92114",77,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"92114",77,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"92114",77,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"921140",78,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"921140",78,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"921140",78,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"922",75,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"922",75,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"922",75,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"9221",76,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"9221",76,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"9221",76,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"92212",77,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"92212",77,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"92212",77,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"922120",78,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"922120",78,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"922120",78,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"924",75,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"924",75,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"924",75,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"9241",76,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"9241",76,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"9241",76,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"92412",77,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"92412",77,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"92412",77,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"924120",78,0,2013,1,"N","Harmon County, Oklahoma","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"924120",78,0,2013,2,"N","Harmon County, Oklahoma","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",3,"924120",78,0,2013,3,"N","Harmon County, Oklahoma","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"10",71,0,2013,1,"","Harmon County, Oklahoma","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",53,448,447,450,3680082,3352706,41165,631
+"40057",5,"10",71,0,2013,2,"","Harmon County, Oklahoma","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",53,466,450,452,3942013,2660330,34529,665
+"40057",5,"10",71,0,2013,3,"","Harmon County, Oklahoma","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",51,445,455,451,3799848,1487333,20630,649
+"40057",5,"101",72,0,2013,1,"","Harmon County, Oklahoma","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",12,84,78,73,551913,492513,11604,542
+"40057",5,"101",72,0,2013,2,"","Harmon County, Oklahoma","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",13,93,79,82,519581,454322,11487,472
+"40057",5,"101",72,0,2013,3,"","Harmon County, Oklahoma","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",12,80,81,77,569388,348488,8170,552
+"40057",5,"1011",73,0,2013,1,"","Harmon County, Oklahoma","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",6,47,42,39,342061,282661,7924,617
+"40057",5,"1011",73,0,2013,2,"","Harmon County, Oklahoma","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",6,42,42,44,303435,252635,7790,547
+"40057",5,"1011",73,0,2013,3,"","Harmon County, Oklahoma","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",6,46,45,42,340168,199579,4857,590
+"40057",5,"1012",73,0,2013,1,"N","Harmon County, Oklahoma","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"40057",5,"1012",73,0,2013,2,"N","Harmon County, Oklahoma","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"40057",5,"1012",73,0,2013,3,"N","Harmon County, Oklahoma","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"40057",5,"1013",73,0,2013,1,"N","Harmon County, Oklahoma","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"1013",73,0,2013,2,"N","Harmon County, Oklahoma","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"1013",73,0,2013,3,"N","Harmon County, Oklahoma","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"102",72,0,2013,1,"","Harmon County, Oklahoma","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",41,364,369,377,3128169,2860193,29561,650
+"40057",5,"102",72,0,2013,2,"","Harmon County, Oklahoma","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",40,373,371,370,3422432,2206008,23042,709
+"40057",5,"102",72,0,2013,3,"","Harmon County, Oklahoma","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",39,365,374,374,3230460,1138845,12460,670
+"40057",5,"1021",73,0,2013,1,"","Harmon County, Oklahoma","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",15,198,201,201,1320634,1286649,13920,508
+"40057",5,"1021",73,0,2013,2,"","Harmon County, Oklahoma","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",15,197,196,189,1387041,1102028,11560,550
+"40057",5,"1021",73,0,2013,3,"","Harmon County, Oklahoma","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",15,185,194,192,1299459,516363,5176,525
+"40057",5,"1022",73,0,2013,1,"N","Harmon County, Oklahoma","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"1022",73,0,2013,2,"N","Harmon County, Oklahoma","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"1022",73,0,2013,3,"N","Harmon County, Oklahoma","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"1023",73,0,2013,1,"","Harmon County, Oklahoma","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",7,80,80,82,944500,885358,8079,901
+"40057",5,"1023",73,0,2013,2,"","Harmon County, Oklahoma","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",6,81,86,85,1159731,679863,6181,1062
+"40057",5,"1023",73,0,2013,3,"","Harmon County, Oklahoma","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",6,87,85,85,1036841,372137,3328,931
+"40057",5,"1024",73,0,2013,1,"","Harmon County, Oklahoma","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",8,34,35,43,394023,379863,1496,812
+"40057",5,"1024",73,0,2013,2,"","Harmon County, Oklahoma","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",8,42,37,44,424124,221246,1611,796
+"40057",5,"1024",73,0,2013,3,"","Harmon County, Oklahoma","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",7,41,44,44,428614,108288,996,767
+"40057",5,"1025",73,0,2013,1,"","Harmon County, Oklahoma","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,35,36,35,382718,224148,4587,833
+"40057",5,"1025",73,0,2013,2,"","Harmon County, Oklahoma","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,36,35,35,370645,137635,2301,807
+"40057",5,"1025",73,0,2013,3,"","Harmon County, Oklahoma","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,34,34,34,382278,102952,1664,865
+"40057",5,"1026",73,0,2013,1,"","Harmon County, Oklahoma","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",3,10,10,9,30220,30220,89,240
+"40057",5,"1026",73,0,2013,2,"","Harmon County, Oklahoma","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",3,10,10,10,31018,31018,92,239
+"40057",5,"1026",73,0,2013,3,"","Harmon County, Oklahoma","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",3,10,9,11,25035,17235,50,193
+"40057",5,"1027",73,0,2013,1,"N","Harmon County, Oklahoma","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"1027",73,0,2013,2,"N","Harmon County, Oklahoma","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"1027",73,0,2013,3,"N","Harmon County, Oklahoma","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"11",74,0,2013,1,"","Harmon County, Oklahoma","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",6,47,42,39,342061,282661,7924,617
+"40057",5,"11",74,0,2013,2,"","Harmon County, Oklahoma","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",6,42,42,44,303435,252635,7790,547
+"40057",5,"11",74,0,2013,3,"","Harmon County, Oklahoma","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",6,46,45,42,340168,199579,4857,590
+"40057",5,"112",75,0,2013,1,"","Harmon County, Oklahoma","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,26,22,21,207106,147706,2218,693
+"40057",5,"112",75,0,2013,2,"","Harmon County, Oklahoma","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,25,25,27,152933,125333,2375,458
+"40057",5,"112",75,0,2013,3,"","Harmon County, Oklahoma","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,29,28,23,198302,139954,2433,572
+"40057",5,"1121",76,0,2013,1,"","Harmon County, Oklahoma","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,26,22,21,207106,147706,2218,693
+"40057",5,"1121",76,0,2013,2,"","Harmon County, Oklahoma","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,25,25,27,152933,125333,2375,458
+"40057",5,"1121",76,0,2013,3,"","Harmon County, Oklahoma","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,29,28,23,198302,139954,2433,572
+"40057",5,"11211",77,0,2013,1,"","Harmon County, Oklahoma","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,26,22,21,207106,147706,2218,693
+"40057",5,"11211",77,0,2013,2,"","Harmon County, Oklahoma","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,25,25,27,152933,125333,2375,458
+"40057",5,"11211",77,0,2013,3,"","Harmon County, Oklahoma","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,29,28,23,198302,139954,2433,572
+"40057",5,"112111",78,0,2013,1,"","Harmon County, Oklahoma","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,26,22,21,207106,147706,2218,693
+"40057",5,"112111",78,0,2013,2,"","Harmon County, Oklahoma","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,25,25,27,152933,125333,2375,458
+"40057",5,"112111",78,0,2013,3,"","Harmon County, Oklahoma","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,29,28,23,198302,139954,2433,572
+"40057",5,"115",75,0,2013,1,"","Harmon County, Oklahoma","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,21,20,18,134955,134955,5706,528
+"40057",5,"115",75,0,2013,2,"","Harmon County, Oklahoma","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,17,17,17,150502,127302,5415,681
+"40057",5,"115",75,0,2013,3,"","Harmon County, Oklahoma","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,17,17,19,141866,59625,2424,618
+"40057",5,"1151",76,0,2013,1,"","Harmon County, Oklahoma","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,21,20,18,134955,134955,5706,528
+"40057",5,"1151",76,0,2013,2,"","Harmon County, Oklahoma","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,17,17,17,150502,127302,5415,681
+"40057",5,"1151",76,0,2013,3,"","Harmon County, Oklahoma","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,17,17,19,141866,59625,2424,618
+"40057",5,"11511",77,0,2013,1,"","Harmon County, Oklahoma","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,21,20,18,134955,134955,5706,528
+"40057",5,"11511",77,0,2013,2,"","Harmon County, Oklahoma","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,17,17,17,150502,127302,5415,681
+"40057",5,"11511",77,0,2013,3,"","Harmon County, Oklahoma","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,17,17,19,141866,59625,2424,618
+"40057",5,"115111",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Cotton ginning","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"115111",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Cotton ginning","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"115111",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Cotton ginning","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"115112",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"115112",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"115112",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"22",74,0,2013,1,"N","Harmon County, Oklahoma","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"22",74,0,2013,2,"N","Harmon County, Oklahoma","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"22",74,0,2013,3,"N","Harmon County, Oklahoma","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"221",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"221",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"221",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"2211",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"2211",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"2211",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"22112",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"22112",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"22112",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"221122",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"221122",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"221122",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"23",74,0,2013,1,"N","Harmon County, Oklahoma","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"40057",5,"23",74,0,2013,2,"N","Harmon County, Oklahoma","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"40057",5,"23",74,0,2013,3,"N","Harmon County, Oklahoma","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"40057",5,"237",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"237",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"237",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"2371",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"2371",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"2371",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"23711",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"23711",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"23711",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"237110",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"237110",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"237110",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"238",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"238",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"238",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"2382",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"2382",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"2382",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"23822",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"23822",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"23822",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"238221",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"238221",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"238221",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"31-33",74,0,2013,1,"N","Harmon County, Oklahoma","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"31-33",74,0,2013,2,"N","Harmon County, Oklahoma","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"31-33",74,0,2013,3,"N","Harmon County, Oklahoma","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"321",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"321",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"321",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"3211",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"3211",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"3211",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"32111",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"32111",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"32111",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"321113",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"321113",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"321113",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"3212",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Plywood and engineered wood product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"3212",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Plywood and engineered wood product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"3212",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Plywood and engineered wood product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"32121",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Plywood and engineered wood product mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"32121",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Plywood and engineered wood product mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"32121",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Plywood and engineered wood product mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"321219",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Reconstituted wood product manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"321219",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Reconstituted wood product manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"321219",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Reconstituted wood product manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"42",74,0,2013,1,"N","Harmon County, Oklahoma","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"42",74,0,2013,2,"N","Harmon County, Oklahoma","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"42",74,0,2013,3,"N","Harmon County, Oklahoma","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"423",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"423",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"423",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4238",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4238",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4238",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"42382",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"42382",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"42382",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"423820",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"423820",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"423820",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"424",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"424",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"424",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4245",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4245",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4245",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"42452",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Livestock merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"42452",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Livestock merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"42452",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Livestock merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"424520",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Livestock merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"424520",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Livestock merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"424520",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Livestock merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"44-45",74,0,2013,1,"","Harmon County, Oklahoma","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",11,62,62,60,243952,219360,2630,306
+"40057",5,"44-45",74,0,2013,2,"","Harmon County, Oklahoma","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",11,58,63,61,253904,174840,2134,322
+"40057",5,"44-45",74,0,2013,3,"","Harmon County, Oklahoma","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",11,55,56,55,222579,152459,1784,309
+"40057",5,"441",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"441",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"441",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4411",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4411",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4411",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"44112",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"44112",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"44112",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"441120",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"441120",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"441120",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"445",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"445",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"445",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"4451",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"4451",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"4451",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"44511",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"44511",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"44511",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"445110",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"445110",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"445110",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"4453",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4453",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4453",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"44531",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"44531",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"44531",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"445310",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"445310",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"445310",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"446",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"446",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"446",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4461",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4461",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4461",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"44611",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"44611",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"44611",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"446110",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"446110",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"446110",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"447",75,0,2013,1,"","Harmon County, Oklahoma","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,18,18,17,55959,42579,814,244
+"40057",5,"447",75,0,2013,2,"","Harmon County, Oklahoma","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,14,17,17,61559,36225,680,296
+"40057",5,"447",75,0,2013,3,"","Harmon County, Oklahoma","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,14,14,13,60095,31963,595,338
+"40057",5,"4471",76,0,2013,1,"","Harmon County, Oklahoma","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,18,18,17,55959,42579,814,244
+"40057",5,"4471",76,0,2013,2,"","Harmon County, Oklahoma","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,14,17,17,61559,36225,680,296
+"40057",5,"4471",76,0,2013,3,"","Harmon County, Oklahoma","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,14,14,13,60095,31963,595,338
+"40057",5,"44711",77,0,2013,1,"","Harmon County, Oklahoma","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,18,18,17,55959,42579,814,244
+"40057",5,"44711",77,0,2013,2,"","Harmon County, Oklahoma","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,14,17,17,61559,36225,680,296
+"40057",5,"44711",77,0,2013,3,"","Harmon County, Oklahoma","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,14,14,13,60095,31963,595,338
+"40057",5,"447110",78,0,2013,1,"","Harmon County, Oklahoma","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,18,18,17,55959,42579,814,244
+"40057",5,"447110",78,0,2013,2,"","Harmon County, Oklahoma","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,14,17,17,61559,36225,680,296
+"40057",5,"447110",78,0,2013,3,"","Harmon County, Oklahoma","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,14,14,13,60095,31963,595,338
+"40057",5,"452",75,0,2013,1,"N","Harmon County, Oklahoma","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"452",75,0,2013,2,"N","Harmon County, Oklahoma","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"452",75,0,2013,3,"N","Harmon County, Oklahoma","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4529",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4529",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4529",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"45299",77,0,2013,1,"N","Harmon County, Oklahoma","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"45299",77,0,2013,2,"N","Harmon County, Oklahoma","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"45299",77,0,2013,3,"N","Harmon County, Oklahoma","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"452990",78,0,2013,1,"N","Harmon County, Oklahoma","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"452990",78,0,2013,2,"N","Harmon County, Oklahoma","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"452990",78,0,2013,3,"N","Harmon County, Oklahoma","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"453",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"453",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"453",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4531",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4531",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4531",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"45311",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"45311",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"45311",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"453110",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"453110",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"453110",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"48-49",74,0,2013,1,"N","Harmon County, Oklahoma","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"48-49",74,0,2013,2,"N","Harmon County, Oklahoma","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"48-49",74,0,2013,3,"N","Harmon County, Oklahoma","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"484",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"484",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"484",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4841",76,0,2013,1,"N","Harmon County, Oklahoma","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4841",76,0,2013,2,"N","Harmon County, Oklahoma","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"4841",76,0,2013,3,"N","Harmon County, Oklahoma","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"48412",77,0,2013,1,"N","Harmon County, Oklahoma","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"48412",77,0,2013,2,"N","Harmon County, Oklahoma","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"48412",77,0,2013,3,"N","Harmon County, Oklahoma","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"484121",78,0,2013,1,"N","Harmon County, Oklahoma","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"484121",78,0,2013,2,"N","Harmon County, Oklahoma","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"484121",78,0,2013,3,"N","Harmon County, Oklahoma","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"51",74,0,2013,1,"N","Harmon County, Oklahoma","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"51",74,0,2013,2,"N","Harmon County, Oklahoma","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"51",74,0,2013,3,"N","Harmon County, Oklahoma","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"511",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"511",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"511",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5111",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5111",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5111",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"51111",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"51111",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"51111",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"511110",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"511110",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"511110",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"517",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"517",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"517",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5171",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5171",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5171",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"51711",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"51711",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"51711",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"517110",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"517110",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"517110",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"52",74,0,2013,1,"N","Harmon County, Oklahoma","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"40057",5,"52",74,0,2013,2,"N","Harmon County, Oklahoma","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"40057",5,"52",74,0,2013,3,"N","Harmon County, Oklahoma","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"40057",5,"522",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"522",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"522",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"5221",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"5221",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"5221",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"52211",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"52211",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"52211",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"522110",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"522110",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"522110",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"524",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"524",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"524",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"5242",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"5242",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"5242",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"52421",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"52421",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"52421",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"524210",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"524210",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"524210",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"52429",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Other insurance related activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"52429",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Other insurance related activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"52429",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Other insurance related activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"524292",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Third party administration of insurance funds","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"524292",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Third party administration of insurance funds","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"524292",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Third party administration of insurance funds","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"53",74,0,2013,1,"N","Harmon County, Oklahoma","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"53",74,0,2013,2,"N","Harmon County, Oklahoma","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"53",74,0,2013,3,"N","Harmon County, Oklahoma","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"531",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"531",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"531",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5311",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5311",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5311",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"53111",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Lessors of residential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"53111",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Lessors of residential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"53111",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Lessors of residential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"531110",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Lessors of residential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"531110",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Lessors of residential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"531110",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Lessors of residential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5313",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5313",76,0,2013,2,"-","Harmon County, Oklahoma","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"40057",5,"5313",76,0,2013,3,"-","Harmon County, Oklahoma","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"40057",5,"53131",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"53131",77,0,2013,2,"-","Harmon County, Oklahoma","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"40057",5,"53131",77,0,2013,3,"-","Harmon County, Oklahoma","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"40057",5,"531312",78,0,2013,1,"N","Harmon County, Oklahoma","Private","nonresidential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"531312",78,0,2013,2,"-","Harmon County, Oklahoma","Private","nonresidential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"40057",5,"531312",78,0,2013,3,"-","Harmon County, Oklahoma","Private","nonresidential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"40057",5,"54",74,0,2013,1,"","Harmon County, Oklahoma","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,4,5,5,24966,24966,204,412
+"40057",5,"54",74,0,2013,2,"","Harmon County, Oklahoma","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,5,5,5,30498,30498,249,469
+"40057",5,"54",74,0,2013,3,"","Harmon County, Oklahoma","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,5,5,5,27515,26230,232,423
+"40057",5,"541",75,0,2013,1,"","Harmon County, Oklahoma","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,4,5,5,24966,24966,204,412
+"40057",5,"541",75,0,2013,2,"","Harmon County, Oklahoma","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,5,5,5,30498,30498,249,469
+"40057",5,"541",75,0,2013,3,"","Harmon County, Oklahoma","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,5,5,5,27515,26230,232,423
+"40057",5,"5411",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5411",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5411",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"54111",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"54111",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"54111",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"541110",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"541110",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"541110",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5412",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"5412",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"5412",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"54121",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"54121",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"54121",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"541213",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Tax preparation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"541213",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Tax preparation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"541213",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Tax preparation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"541219",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"541219",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"541219",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"55",74,0,2013,1,"N","Harmon County, Oklahoma","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"55",74,0,2013,2,"N","Harmon County, Oklahoma","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"55",74,0,2013,3,"N","Harmon County, Oklahoma","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"551",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"551",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"551",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5511",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5511",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5511",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"55111",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"55111",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"55111",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"551114",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"551114",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"551114",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"56",74,0,2013,1,"N","Harmon County, Oklahoma","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"56",74,0,2013,2,"N","Harmon County, Oklahoma","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"56",74,0,2013,3,"N","Harmon County, Oklahoma","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"561",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"561",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"561",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"5611",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Office administrative services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5611",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Office administrative services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5611",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Office administrative services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"56111",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Office administrative services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"56111",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Office administrative services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"56111",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Office administrative services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"561110",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Office administrative services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"561110",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Office administrative services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"561110",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Office administrative services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"5617",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"5617",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"5617",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"56173",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"56173",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"56173",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"561730",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"561730",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"561730",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"62",74,0,2013,1,"","Harmon County, Oklahoma","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,35,36,35,382718,224148,4587,833
+"40057",5,"62",74,0,2013,2,"","Harmon County, Oklahoma","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,36,35,35,370645,137635,2301,807
+"40057",5,"62",74,0,2013,3,"","Harmon County, Oklahoma","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,34,34,34,382278,102952,1664,865
+"40057",5,"621",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"621",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"621",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"40057",5,"6211",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"6211",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"6211",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"62111",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"62111",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"62111",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"621111",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"621111",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"621111",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"6214",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"6214",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"6214",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"62149",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Other outpatient care centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"62149",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Other outpatient care centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"62149",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Other outpatient care centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"621493",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Freestanding emergency medical centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"621493",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Freestanding emergency medical centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"621493",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Freestanding emergency medical centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"6219",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"6219",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"6219",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"62191",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"62191",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"62191",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"621910",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"621910",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"621910",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"624",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"624",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"624",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"6241",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"6241",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"6241",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"62419",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"62419",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"62419",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"624190",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"624190",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"624190",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"71",74,0,2013,1,"N","Harmon County, Oklahoma","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"71",74,0,2013,2,"N","Harmon County, Oklahoma","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"71",74,0,2013,3,"N","Harmon County, Oklahoma","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"713",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"713",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"713",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"7139",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"7139",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"7139",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"71394",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"71394",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"71394",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"713940",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"713940",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"713940",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"72",74,0,2013,1,"N","Harmon County, Oklahoma","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"72",74,0,2013,2,"N","Harmon County, Oklahoma","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"72",74,0,2013,3,"N","Harmon County, Oklahoma","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"40057",5,"721",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"721",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"721",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"7211",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"7211",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"7211",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"72111",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"72111",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"72111",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"721110",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"721110",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"721110",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"722",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"722",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"722",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"7225",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"7225",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"7225",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"72251",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"72251",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"72251",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"722511",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"722511",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"722511",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"81",74,0,2013,1,"N","Harmon County, Oklahoma","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"81",74,0,2013,2,"N","Harmon County, Oklahoma","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"81",74,0,2013,3,"N","Harmon County, Oklahoma","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"811",75,0,2013,1,"N","Harmon County, Oklahoma","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"811",75,0,2013,2,"N","Harmon County, Oklahoma","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"811",75,0,2013,3,"N","Harmon County, Oklahoma","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"8111",76,0,2013,1,"N","Harmon County, Oklahoma","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"8111",76,0,2013,2,"N","Harmon County, Oklahoma","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"8111",76,0,2013,3,"N","Harmon County, Oklahoma","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"81112",77,0,2013,1,"N","Harmon County, Oklahoma","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"81112",77,0,2013,2,"N","Harmon County, Oklahoma","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"81112",77,0,2013,3,"N","Harmon County, Oklahoma","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"811121",78,0,2013,1,"N","Harmon County, Oklahoma","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"811121",78,0,2013,2,"N","Harmon County, Oklahoma","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"40057",5,"811121",78,0,2013,3,"N","Harmon County, Oklahoma","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

@@ -1,0 +1,578 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"48173",0,"10",70,0,2013,1,"","Glasscock County, Texas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",92,401,413,417,2943051,1499572,26023,552
+"48173",0,"10",70,0,2013,2,"","Glasscock County, Texas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",93,448,452,466,3345199,873528,11107,565
+"48173",0,"10",70,0,2013,3,"","Glasscock County, Texas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",92,474,471,482,3551944,540193,9225,574
+"48173",1,"10",71,0,2013,1,"","Glasscock County, Texas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",2,7,5,5,58415,0,0,793
+"48173",1,"10",71,0,2013,2,"","Glasscock County, Texas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",2,6,5,9,64693,0,0,746
+"48173",1,"10",71,0,2013,3,"","Glasscock County, Texas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",2,5,5,5,65871,0,0,1013
+"48173",1,"102",72,0,2013,1,"","Glasscock County, Texas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",2,7,5,5,58415,0,0,793
+"48173",1,"102",72,0,2013,2,"","Glasscock County, Texas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",2,6,5,9,64693,0,0,746
+"48173",1,"102",72,0,2013,3,"","Glasscock County, Texas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",2,5,5,5,65871,0,0,1013
+"48173",1,"1021",73,0,2013,1,"","Glasscock County, Texas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,2,2,2,18836,0,0,724
+"48173",1,"1021",73,0,2013,2,"","Glasscock County, Texas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,2,2,2,17838,0,0,686
+"48173",1,"1021",73,0,2013,3,"","Glasscock County, Texas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,2,2,2,18765,0,0,722
+"48173",1,"1028",73,0,2013,1,"","Glasscock County, Texas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,5,3,3,39579,0,0,830
+"48173",1,"1028",73,0,2013,2,"","Glasscock County, Texas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,4,3,7,46855,0,0,772
+"48173",1,"1028",73,0,2013,3,"","Glasscock County, Texas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,3,3,3,47106,0,0,1208
+"48173",1,"48-49",74,0,2013,1,"","Glasscock County, Texas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,2,2,2,18836,0,0,724
+"48173",1,"48-49",74,0,2013,2,"","Glasscock County, Texas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,2,2,2,17838,0,0,686
+"48173",1,"48-49",74,0,2013,3,"","Glasscock County, Texas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,2,2,2,18765,0,0,722
+"48173",1,"491",75,0,2013,1,"","Glasscock County, Texas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,2,2,18836,0,0,724
+"48173",1,"491",75,0,2013,2,"","Glasscock County, Texas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,2,2,17838,0,0,686
+"48173",1,"491",75,0,2013,3,"","Glasscock County, Texas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,2,2,18765,0,0,722
+"48173",1,"4911",76,0,2013,1,"","Glasscock County, Texas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,2,2,18836,0,0,724
+"48173",1,"4911",76,0,2013,2,"","Glasscock County, Texas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,2,2,17838,0,0,686
+"48173",1,"4911",76,0,2013,3,"","Glasscock County, Texas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,2,2,18765,0,0,722
+"48173",1,"49111",77,0,2013,1,"","Glasscock County, Texas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,18836,0,0,724
+"48173",1,"49111",77,0,2013,2,"","Glasscock County, Texas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,17838,0,0,686
+"48173",1,"49111",77,0,2013,3,"","Glasscock County, Texas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,18765,0,0,722
+"48173",1,"491110",78,0,2013,1,"","Glasscock County, Texas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,18836,0,0,724
+"48173",1,"491110",78,0,2013,2,"","Glasscock County, Texas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,17838,0,0,686
+"48173",1,"491110",78,0,2013,3,"","Glasscock County, Texas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,18765,0,0,722
+"48173",1,"92",74,0,2013,1,"","Glasscock County, Texas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,5,3,3,39579,0,0,830
+"48173",1,"92",74,0,2013,2,"","Glasscock County, Texas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,4,3,7,46855,0,0,772
+"48173",1,"92",74,0,2013,3,"","Glasscock County, Texas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,3,3,3,47106,0,0,1208
+"48173",1,"924",75,0,2013,1,"","Glasscock County, Texas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,5,3,3,39579,0,0,830
+"48173",1,"924",75,0,2013,2,"","Glasscock County, Texas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,4,3,7,46855,0,0,772
+"48173",1,"924",75,0,2013,3,"","Glasscock County, Texas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,3,3,3,47106,0,0,1208
+"48173",1,"9241",76,0,2013,1,"","Glasscock County, Texas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,5,3,3,39579,0,0,830
+"48173",1,"9241",76,0,2013,2,"","Glasscock County, Texas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,4,3,7,46855,0,0,772
+"48173",1,"9241",76,0,2013,3,"","Glasscock County, Texas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,3,3,3,47106,0,0,1208
+"48173",1,"92412",77,0,2013,1,"","Glasscock County, Texas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,5,3,3,39579,0,0,830
+"48173",1,"92412",77,0,2013,2,"","Glasscock County, Texas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,4,3,7,46855,0,0,772
+"48173",1,"92412",77,0,2013,3,"","Glasscock County, Texas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,3,3,3,47106,0,0,1208
+"48173",1,"924120",78,0,2013,1,"","Glasscock County, Texas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,5,3,3,39579,0,0,830
+"48173",1,"924120",78,0,2013,2,"","Glasscock County, Texas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,4,3,7,46855,0,0,772
+"48173",1,"924120",78,0,2013,3,"","Glasscock County, Texas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,3,3,3,47106,0,0,1208
+"48173",2,"10",71,0,2013,1,"N","Glasscock County, Texas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48173",2,"10",71,0,2013,2,"N","Glasscock County, Texas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48173",2,"10",71,0,2013,3,"N","Glasscock County, Texas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",2,"101",72,0,2013,1,"N","Glasscock County, Texas","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"101",72,0,2013,2,"N","Glasscock County, Texas","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"101",72,0,2013,3,"N","Glasscock County, Texas","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"1012",73,0,2013,1,"N","Glasscock County, Texas","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"1012",73,0,2013,2,"N","Glasscock County, Texas","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"1012",73,0,2013,3,"N","Glasscock County, Texas","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"102",72,0,2013,1,"","Glasscock County, Texas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,9,9,9,64463,0,0,551
+"48173",2,"102",72,0,2013,2,"","Glasscock County, Texas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,9,7,8,64690,0,0,622
+"48173",2,"102",72,0,2013,3,"N","Glasscock County, Texas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",2,"1028",73,0,2013,1,"","Glasscock County, Texas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,9,9,9,64463,0,0,551
+"48173",2,"1028",73,0,2013,2,"","Glasscock County, Texas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,9,7,8,64690,0,0,622
+"48173",2,"1028",73,0,2013,3,"N","Glasscock County, Texas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",2,"23",74,0,2013,1,"N","Glasscock County, Texas","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"23",74,0,2013,2,"N","Glasscock County, Texas","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"23",74,0,2013,3,"N","Glasscock County, Texas","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"237",75,0,2013,1,"N","Glasscock County, Texas","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"237",75,0,2013,2,"N","Glasscock County, Texas","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"237",75,0,2013,3,"N","Glasscock County, Texas","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"2373",76,0,2013,1,"N","Glasscock County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"2373",76,0,2013,2,"N","Glasscock County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"2373",76,0,2013,3,"N","Glasscock County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"23731",77,0,2013,1,"N","Glasscock County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"23731",77,0,2013,2,"N","Glasscock County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"23731",77,0,2013,3,"N","Glasscock County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"237310",78,0,2013,1,"N","Glasscock County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"237310",78,0,2013,2,"N","Glasscock County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"237310",78,0,2013,3,"N","Glasscock County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"92",74,0,2013,1,"","Glasscock County, Texas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,9,9,9,64463,0,0,551
+"48173",2,"92",74,0,2013,2,"","Glasscock County, Texas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,9,7,8,64690,0,0,622
+"48173",2,"92",74,0,2013,3,"N","Glasscock County, Texas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",2,"923",75,0,2013,1,"N","Glasscock County, Texas","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"923",75,0,2013,2,"N","Glasscock County, Texas","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"923",75,0,2013,3,"-","Glasscock County, Texas","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",2,"9231",76,0,2013,1,"N","Glasscock County, Texas","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"9231",76,0,2013,2,"N","Glasscock County, Texas","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"9231",76,0,2013,3,"-","Glasscock County, Texas","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",2,"92312",77,0,2013,1,"N","Glasscock County, Texas","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"92312",77,0,2013,2,"N","Glasscock County, Texas","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"92312",77,0,2013,3,"-","Glasscock County, Texas","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",2,"923120",78,0,2013,1,"N","Glasscock County, Texas","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"923120",78,0,2013,2,"N","Glasscock County, Texas","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",2,"923120",78,0,2013,3,"-","Glasscock County, Texas","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",2,"926",75,0,2013,1,"N","Glasscock County, Texas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",2,"926",75,0,2013,2,"N","Glasscock County, Texas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",2,"926",75,0,2013,3,"N","Glasscock County, Texas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",2,"9261",76,0,2013,1,"N","Glasscock County, Texas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",2,"9261",76,0,2013,2,"N","Glasscock County, Texas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",2,"9261",76,0,2013,3,"N","Glasscock County, Texas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",2,"92614",77,0,2013,1,"N","Glasscock County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",2,"92614",77,0,2013,2,"N","Glasscock County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",2,"92614",77,0,2013,3,"N","Glasscock County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",2,"926140",78,0,2013,1,"N","Glasscock County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",2,"926140",78,0,2013,2,"N","Glasscock County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",2,"926140",78,0,2013,3,"N","Glasscock County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",3,"10",71,0,2013,1,"N","Glasscock County, Texas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",3,"10",71,0,2013,2,"N","Glasscock County, Texas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",3,"10",71,0,2013,3,"N","Glasscock County, Texas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",3,"102",72,0,2013,1,"N","Glasscock County, Texas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",3,"102",72,0,2013,2,"N","Glasscock County, Texas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",3,"102",72,0,2013,3,"N","Glasscock County, Texas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",3,"1025",73,0,2013,1,"N","Glasscock County, Texas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"1025",73,0,2013,2,"N","Glasscock County, Texas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"1025",73,0,2013,3,"N","Glasscock County, Texas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"1028",73,0,2013,1,"N","Glasscock County, Texas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",3,"1028",73,0,2013,2,"N","Glasscock County, Texas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",3,"1028",73,0,2013,3,"N","Glasscock County, Texas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",3,"61",74,0,2013,1,"N","Glasscock County, Texas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"61",74,0,2013,2,"N","Glasscock County, Texas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"61",74,0,2013,3,"N","Glasscock County, Texas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"611",75,0,2013,1,"N","Glasscock County, Texas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"611",75,0,2013,2,"N","Glasscock County, Texas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"611",75,0,2013,3,"N","Glasscock County, Texas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"6111",76,0,2013,1,"N","Glasscock County, Texas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"6111",76,0,2013,2,"N","Glasscock County, Texas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"6111",76,0,2013,3,"N","Glasscock County, Texas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"61111",77,0,2013,1,"N","Glasscock County, Texas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"61111",77,0,2013,2,"N","Glasscock County, Texas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"61111",77,0,2013,3,"N","Glasscock County, Texas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"611110",78,0,2013,1,"N","Glasscock County, Texas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"611110",78,0,2013,2,"N","Glasscock County, Texas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"611110",78,0,2013,3,"N","Glasscock County, Texas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"92",74,0,2013,1,"N","Glasscock County, Texas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",3,"92",74,0,2013,2,"N","Glasscock County, Texas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",3,"92",74,0,2013,3,"N","Glasscock County, Texas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",3,"921",75,0,2013,1,"N","Glasscock County, Texas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"921",75,0,2013,2,"N","Glasscock County, Texas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"921",75,0,2013,3,"N","Glasscock County, Texas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"9211",76,0,2013,1,"N","Glasscock County, Texas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"9211",76,0,2013,2,"N","Glasscock County, Texas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"9211",76,0,2013,3,"N","Glasscock County, Texas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"92114",77,0,2013,1,"N","Glasscock County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"92114",77,0,2013,2,"N","Glasscock County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"92114",77,0,2013,3,"N","Glasscock County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"921140",78,0,2013,1,"N","Glasscock County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"921140",78,0,2013,2,"N","Glasscock County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"921140",78,0,2013,3,"N","Glasscock County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"924",75,0,2013,1,"N","Glasscock County, Texas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"924",75,0,2013,2,"N","Glasscock County, Texas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"924",75,0,2013,3,"N","Glasscock County, Texas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"9241",76,0,2013,1,"N","Glasscock County, Texas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"9241",76,0,2013,2,"N","Glasscock County, Texas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"9241",76,0,2013,3,"N","Glasscock County, Texas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"92412",77,0,2013,1,"N","Glasscock County, Texas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"92412",77,0,2013,2,"N","Glasscock County, Texas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"92412",77,0,2013,3,"N","Glasscock County, Texas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"924120",78,0,2013,1,"N","Glasscock County, Texas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"924120",78,0,2013,2,"N","Glasscock County, Texas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",3,"924120",78,0,2013,3,"N","Glasscock County, Texas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"10",71,0,2013,1,"","Glasscock County, Texas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",83,268,278,280,1929005,1499572,26023,539
+"48173",5,"10",71,0,2013,2,"","Glasscock County, Texas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",84,313,322,330,2231646,873528,11107,534
+"48173",5,"10",71,0,2013,3,"","Glasscock County, Texas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",84,343,341,349,2428653,540193,9225,543
+"48173",5,"101",72,0,2013,1,"","Glasscock County, Texas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",64,178,187,188,1214128,1022483,19321,507
+"48173",5,"101",72,0,2013,2,"","Glasscock County, Texas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",65,204,211,216,1451267,653188,9037,531
+"48173",5,"101",72,0,2013,3,"","Glasscock County, Texas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",65,222,224,236,1583008,394801,7822,536
+"48173",5,"1011",73,0,2013,1,"","Glasscock County, Texas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",60,154,165,166,1083326,906979,16854,515
+"48173",5,"1011",73,0,2013,2,"","Glasscock County, Texas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",60,179,186,193,1261075,529449,6779,522
+"48173",5,"1011",73,0,2013,3,"","Glasscock County, Texas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",59,197,193,202,1351335,266446,4722,527
+"48173",5,"1012",73,0,2013,1,"N","Glasscock County, Texas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",5,"1012",73,0,2013,2,"N","Glasscock County, Texas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48173",5,"1012",73,0,2013,3,"N","Glasscock County, Texas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48173",5,"1013",73,0,2013,1,"N","Glasscock County, Texas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"1013",73,0,2013,2,"N","Glasscock County, Texas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"1013",73,0,2013,3,"N","Glasscock County, Texas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"102",72,0,2013,1,"","Glasscock County, Texas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",19,90,91,92,714877,477089,6702,604
+"48173",5,"102",72,0,2013,2,"","Glasscock County, Texas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",19,109,111,114,780379,220340,2070,539
+"48173",5,"102",72,0,2013,3,"","Glasscock County, Texas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",19,121,117,113,845645,145392,1403,556
+"48173",5,"1021",73,0,2013,1,"","Glasscock County, Texas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",6,39,40,40,487003,276394,4279,944
+"48173",5,"1021",73,0,2013,2,"","Glasscock County, Texas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",6,41,44,49,495553,104176,979,853
+"48173",5,"1021",73,0,2013,3,"","Glasscock County, Texas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",6,50,47,43,534103,66945,689,880
+"48173",5,"1023",73,0,2013,1,"","Glasscock County, Texas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",3,3,3,4,23398,23398,490,540
+"48173",5,"1023",73,0,2013,2,"","Glasscock County, Texas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",3,5,5,5,32341,20602,328,498
+"48173",5,"1023",73,0,2013,3,"","Glasscock County, Texas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",3,6,6,6,41396,10053,249,531
+"48173",5,"1024",73,0,2013,1,"","Glasscock County, Texas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",5,6,6,6,37795,31075,996,485
+"48173",5,"1024",73,0,2013,2,"","Glasscock County, Texas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",5,6,6,6,27193,9653,227,349
+"48173",5,"1024",73,0,2013,3,"","Glasscock County, Texas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",5,6,6,6,23458,4999,48,301
+"48173",5,"1025",73,0,2013,1,"N","Glasscock County, Texas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"1025",73,0,2013,2,"N","Glasscock County, Texas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"1025",73,0,2013,3,"N","Glasscock County, Texas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"1026",73,0,2013,1,"N","Glasscock County, Texas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"1026",73,0,2013,2,"N","Glasscock County, Texas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"1026",73,0,2013,3,"N","Glasscock County, Texas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"1027",73,0,2013,1,"N","Glasscock County, Texas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"1027",73,0,2013,2,"N","Glasscock County, Texas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",5,"1027",73,0,2013,3,"N","Glasscock County, Texas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",5,"1029",73,0,2013,1,"","Glasscock County, Texas","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"1029",73,0,2013,2,"-","Glasscock County, Texas","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"1029",73,0,2013,3,"-","Glasscock County, Texas","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"11",74,0,2013,1,"N","Glasscock County, Texas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",59,0,0,0,0,0,0,0
+"48173",5,"11",74,0,2013,2,"N","Glasscock County, Texas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",59,0,0,0,0,0,0,0
+"48173",5,"11",74,0,2013,3,"N","Glasscock County, Texas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",58,0,0,0,0,0,0,0
+"48173",5,"111",75,0,2013,1,"","Glasscock County, Texas","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",42,66,72,73,317480,310982,3930,347
+"48173",5,"111",75,0,2013,2,"","Glasscock County, Texas","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",43,82,82,83,422076,264911,2994,394
+"48173",5,"111",75,0,2013,3,"","Glasscock County, Texas","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",42,92,89,92,410624,127133,1552,347
+"48173",5,"1112",76,0,2013,1,"N","Glasscock County, Texas","Private","Vegetable and melon farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"1112",76,0,2013,2,"N","Glasscock County, Texas","Private","Vegetable and melon farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"1112",76,0,2013,3,"N","Glasscock County, Texas","Private","Vegetable and melon farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"11121",77,0,2013,1,"N","Glasscock County, Texas","Private","Vegetable and melon farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"11121",77,0,2013,2,"N","Glasscock County, Texas","Private","Vegetable and melon farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"11121",77,0,2013,3,"N","Glasscock County, Texas","Private","Vegetable and melon farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"111219",78,0,2013,1,"N","Glasscock County, Texas","Private","Other vegetable and melon farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"111219",78,0,2013,2,"N","Glasscock County, Texas","Private","Other vegetable and melon farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"111219",78,0,2013,3,"N","Glasscock County, Texas","Private","Other vegetable and melon farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"1119",76,0,2013,1,"N","Glasscock County, Texas","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",41,0,0,0,0,0,0,0
+"48173",5,"1119",76,0,2013,2,"N","Glasscock County, Texas","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",42,0,0,0,0,0,0,0
+"48173",5,"1119",76,0,2013,3,"N","Glasscock County, Texas","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",41,0,0,0,0,0,0,0
+"48173",5,"11192",77,0,2013,1,"","Glasscock County, Texas","Private","Cotton farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",37,56,61,62,274306,267808,3124,354
+"48173",5,"11192",77,0,2013,2,"","Glasscock County, Texas","Private","Cotton farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",37,68,68,69,366683,220546,2150,413
+"48173",5,"11192",77,0,2013,3,"","Glasscock County, Texas","Private","Cotton farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",36,76,73,76,351439,107545,1127,360
+"48173",5,"111920",78,0,2013,1,"","Glasscock County, Texas","Private","Cotton farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",37,56,61,62,274306,267808,3124,354
+"48173",5,"111920",78,0,2013,2,"","Glasscock County, Texas","Private","Cotton farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",37,68,68,69,366683,220546,2150,413
+"48173",5,"111920",78,0,2013,3,"","Glasscock County, Texas","Private","Cotton farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",36,76,73,76,351439,107545,1127,360
+"48173",5,"11194",77,0,2013,1,"N","Glasscock County, Texas","Private","Hay farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"11194",77,0,2013,2,"N","Glasscock County, Texas","Private","Hay farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"11194",77,0,2013,3,"N","Glasscock County, Texas","Private","Hay farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"111940",78,0,2013,1,"N","Glasscock County, Texas","Private","Hay farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"111940",78,0,2013,2,"N","Glasscock County, Texas","Private","Hay farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"111940",78,0,2013,3,"N","Glasscock County, Texas","Private","Hay farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"11199",77,0,2013,1,"","Glasscock County, Texas","Private","All other crop farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,7,7,28688,28688,610,315
+"48173",5,"11199",77,0,2013,2,"","Glasscock County, Texas","Private","All other crop farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,10,10,10,37914,28974,686,292
+"48173",5,"11199",77,0,2013,3,"","Glasscock County, Texas","Private","All other crop farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,12,12,12,42456,16121,407,272
+"48173",5,"111998",78,0,2013,1,"","Glasscock County, Texas","Private","All other miscellaneous crop farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,7,7,28688,28688,610,315
+"48173",5,"111998",78,0,2013,2,"","Glasscock County, Texas","Private","All other miscellaneous crop farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,10,10,10,37914,28974,686,292
+"48173",5,"111998",78,0,2013,3,"","Glasscock County, Texas","Private","All other miscellaneous crop farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,12,12,12,42456,16121,407,272
+"48173",5,"112",75,0,2013,1,"","Glasscock County, Texas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",12,33,37,36,221284,179884,2415,482
+"48173",5,"112",75,0,2013,2,"","Glasscock County, Texas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",11,39,38,39,264035,126522,1691,525
+"48173",5,"112",75,0,2013,3,"","Glasscock County, Texas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",11,41,39,39,274755,45619,844,533
+"48173",5,"1121",76,0,2013,1,"N","Glasscock County, Texas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"48173",5,"1121",76,0,2013,2,"N","Glasscock County, Texas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"48173",5,"1121",76,0,2013,3,"N","Glasscock County, Texas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"48173",5,"11211",77,0,2013,1,"N","Glasscock County, Texas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"48173",5,"11211",77,0,2013,2,"N","Glasscock County, Texas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"48173",5,"11211",77,0,2013,3,"N","Glasscock County, Texas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"48173",5,"112111",78,0,2013,1,"N","Glasscock County, Texas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"48173",5,"112111",78,0,2013,2,"N","Glasscock County, Texas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"48173",5,"112111",78,0,2013,3,"N","Glasscock County, Texas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"48173",5,"1129",76,0,2013,1,"N","Glasscock County, Texas","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"1129",76,0,2013,2,"N","Glasscock County, Texas","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"1129",76,0,2013,3,"N","Glasscock County, Texas","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"11299",77,0,2013,1,"N","Glasscock County, Texas","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"11299",77,0,2013,2,"N","Glasscock County, Texas","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"11299",77,0,2013,3,"N","Glasscock County, Texas","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"112990",78,0,2013,1,"N","Glasscock County, Texas","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"112990",78,0,2013,2,"N","Glasscock County, Texas","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"112990",78,0,2013,3,"N","Glasscock County, Texas","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"115",75,0,2013,1,"N","Glasscock County, Texas","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48173",5,"115",75,0,2013,2,"N","Glasscock County, Texas","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48173",5,"115",75,0,2013,3,"N","Glasscock County, Texas","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48173",5,"1151",76,0,2013,1,"N","Glasscock County, Texas","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48173",5,"1151",76,0,2013,2,"N","Glasscock County, Texas","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48173",5,"1151",76,0,2013,3,"N","Glasscock County, Texas","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48173",5,"11511",77,0,2013,1,"N","Glasscock County, Texas","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48173",5,"11511",77,0,2013,2,"N","Glasscock County, Texas","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48173",5,"11511",77,0,2013,3,"N","Glasscock County, Texas","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48173",5,"115111",78,0,2013,1,"N","Glasscock County, Texas","Private","Cotton ginning","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"115111",78,0,2013,2,"N","Glasscock County, Texas","Private","Cotton ginning","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"115111",78,0,2013,3,"N","Glasscock County, Texas","Private","Cotton ginning","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"115112",78,0,2013,1,"N","Glasscock County, Texas","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"115112",78,0,2013,2,"N","Glasscock County, Texas","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"115112",78,0,2013,3,"N","Glasscock County, Texas","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"115115",78,0,2013,1,"N","Glasscock County, Texas","Private","Farm labor contractors and crew leaders","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"115115",78,0,2013,2,"N","Glasscock County, Texas","Private","Farm labor contractors and crew leaders","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"115115",78,0,2013,3,"N","Glasscock County, Texas","Private","Farm labor contractors and crew leaders","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"21",74,0,2013,1,"N","Glasscock County, Texas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"21",74,0,2013,2,"N","Glasscock County, Texas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"21",74,0,2013,3,"N","Glasscock County, Texas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"212",75,0,2013,1,"N","Glasscock County, Texas","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"212",75,0,2013,2,"N","Glasscock County, Texas","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"212",75,0,2013,3,"N","Glasscock County, Texas","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"2123",76,0,2013,1,"N","Glasscock County, Texas","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"2123",76,0,2013,2,"N","Glasscock County, Texas","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"2123",76,0,2013,3,"N","Glasscock County, Texas","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"21231",77,0,2013,1,"N","Glasscock County, Texas","Private","Stone mining and quarrying","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"21231",77,0,2013,2,"N","Glasscock County, Texas","Private","Stone mining and quarrying","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"21231",77,0,2013,3,"N","Glasscock County, Texas","Private","Stone mining and quarrying","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"212311",78,0,2013,1,"N","Glasscock County, Texas","Private","Dimension stone mining and quarrying","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"212311",78,0,2013,2,"N","Glasscock County, Texas","Private","Dimension stone mining and quarrying","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"212311",78,0,2013,3,"N","Glasscock County, Texas","Private","Dimension stone mining and quarrying","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"23",74,0,2013,1,"N","Glasscock County, Texas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",5,"23",74,0,2013,2,"N","Glasscock County, Texas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48173",5,"23",74,0,2013,3,"N","Glasscock County, Texas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48173",5,"237",75,0,2013,1,"-","Glasscock County, Texas","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"237",75,0,2013,2,"N","Glasscock County, Texas","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"237",75,0,2013,3,"N","Glasscock County, Texas","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"2371",76,0,2013,1,"-","Glasscock County, Texas","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"2371",76,0,2013,2,"N","Glasscock County, Texas","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"2371",76,0,2013,3,"N","Glasscock County, Texas","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"23711",77,0,2013,1,"-","Glasscock County, Texas","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"23711",77,0,2013,2,"N","Glasscock County, Texas","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"23711",77,0,2013,3,"N","Glasscock County, Texas","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"237110",78,0,2013,1,"-","Glasscock County, Texas","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"237110",78,0,2013,2,"N","Glasscock County, Texas","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"237110",78,0,2013,3,"N","Glasscock County, Texas","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"238",75,0,2013,1,"N","Glasscock County, Texas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",5,"238",75,0,2013,2,"","Glasscock County, Texas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,14,16,14,89043,69727,366,467
+"48173",5,"238",75,0,2013,3,"","Glasscock County, Texas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,15,19,21,112796,52869,717,473
+"48173",5,"2382",76,0,2013,1,"N","Glasscock County, Texas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"2382",76,0,2013,2,"N","Glasscock County, Texas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"2382",76,0,2013,3,"N","Glasscock County, Texas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"23822",77,0,2013,1,"N","Glasscock County, Texas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"23822",77,0,2013,2,"N","Glasscock County, Texas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"23822",77,0,2013,3,"N","Glasscock County, Texas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"238221",78,0,2013,1,"N","Glasscock County, Texas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"238221",78,0,2013,2,"N","Glasscock County, Texas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"238221",78,0,2013,3,"N","Glasscock County, Texas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"2383",76,0,2013,1,"-","Glasscock County, Texas","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"2383",76,0,2013,2,"-","Glasscock County, Texas","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"2383",76,0,2013,3,"N","Glasscock County, Texas","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"23832",77,0,2013,1,"-","Glasscock County, Texas","Private","Painting and wall covering contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"23832",77,0,2013,2,"-","Glasscock County, Texas","Private","Painting and wall covering contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"23832",77,0,2013,3,"N","Glasscock County, Texas","Private","Painting and wall covering contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"238322",78,0,2013,1,"-","Glasscock County, Texas","Private","Nonresidential painting contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"238322",78,0,2013,2,"-","Glasscock County, Texas","Private","Nonresidential painting contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"238322",78,0,2013,3,"N","Glasscock County, Texas","Private","Nonresidential painting contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"2389",76,0,2013,1,"N","Glasscock County, Texas","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"2389",76,0,2013,2,"N","Glasscock County, Texas","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"2389",76,0,2013,3,"N","Glasscock County, Texas","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"23891",77,0,2013,1,"N","Glasscock County, Texas","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"23891",77,0,2013,2,"N","Glasscock County, Texas","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"23891",77,0,2013,3,"N","Glasscock County, Texas","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"238912",78,0,2013,1,"N","Glasscock County, Texas","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"238912",78,0,2013,2,"N","Glasscock County, Texas","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"238912",78,0,2013,3,"N","Glasscock County, Texas","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"23899",77,0,2013,1,"N","Glasscock County, Texas","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"23899",77,0,2013,2,"N","Glasscock County, Texas","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"23899",77,0,2013,3,"N","Glasscock County, Texas","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"238991",78,0,2013,1,"N","Glasscock County, Texas","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"238991",78,0,2013,2,"N","Glasscock County, Texas","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"238991",78,0,2013,3,"N","Glasscock County, Texas","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"31-33",74,0,2013,1,"N","Glasscock County, Texas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"31-33",74,0,2013,2,"N","Glasscock County, Texas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"31-33",74,0,2013,3,"N","Glasscock County, Texas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"333",75,0,2013,1,"N","Glasscock County, Texas","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"333",75,0,2013,2,"N","Glasscock County, Texas","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"333",75,0,2013,3,"N","Glasscock County, Texas","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"3331",76,0,2013,1,"N","Glasscock County, Texas","Private","Ag., construction, and mining machinery mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"3331",76,0,2013,2,"N","Glasscock County, Texas","Private","Ag., construction, and mining machinery mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"3331",76,0,2013,3,"N","Glasscock County, Texas","Private","Ag., construction, and mining machinery mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"33313",77,0,2013,1,"N","Glasscock County, Texas","Private","Mining and oil and gas field machinery mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"33313",77,0,2013,2,"N","Glasscock County, Texas","Private","Mining and oil and gas field machinery mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"33313",77,0,2013,3,"N","Glasscock County, Texas","Private","Mining and oil and gas field machinery mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"333131",78,0,2013,1,"N","Glasscock County, Texas","Private","Mining machinery and equipment manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"333131",78,0,2013,2,"N","Glasscock County, Texas","Private","Mining machinery and equipment manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"333131",78,0,2013,3,"N","Glasscock County, Texas","Private","Mining machinery and equipment manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"42",74,0,2013,1,"N","Glasscock County, Texas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",5,"42",74,0,2013,2,"N","Glasscock County, Texas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",5,"42",74,0,2013,3,"N","Glasscock County, Texas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",5,"423",75,0,2013,1,"N","Glasscock County, Texas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"423",75,0,2013,2,"N","Glasscock County, Texas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"423",75,0,2013,3,"N","Glasscock County, Texas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"4238",76,0,2013,1,"N","Glasscock County, Texas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"4238",76,0,2013,2,"N","Glasscock County, Texas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"4238",76,0,2013,3,"N","Glasscock County, Texas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"42382",77,0,2013,1,"N","Glasscock County, Texas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"42382",77,0,2013,2,"N","Glasscock County, Texas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"42382",77,0,2013,3,"N","Glasscock County, Texas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"423820",78,0,2013,1,"N","Glasscock County, Texas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"423820",78,0,2013,2,"N","Glasscock County, Texas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"423820",78,0,2013,3,"N","Glasscock County, Texas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"42383",77,0,2013,1,"N","Glasscock County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"42383",77,0,2013,2,"N","Glasscock County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"42383",77,0,2013,3,"N","Glasscock County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"423830",78,0,2013,1,"N","Glasscock County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"423830",78,0,2013,2,"N","Glasscock County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"423830",78,0,2013,3,"N","Glasscock County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"424",75,0,2013,1,"N","Glasscock County, Texas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"424",75,0,2013,2,"N","Glasscock County, Texas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"424",75,0,2013,3,"N","Glasscock County, Texas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"4246",76,0,2013,1,"N","Glasscock County, Texas","Private","Chemical merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"4246",76,0,2013,2,"N","Glasscock County, Texas","Private","Chemical merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"4246",76,0,2013,3,"N","Glasscock County, Texas","Private","Chemical merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"42469",77,0,2013,1,"N","Glasscock County, Texas","Private","Other chemicals merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"42469",77,0,2013,2,"N","Glasscock County, Texas","Private","Other chemicals merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"42469",77,0,2013,3,"N","Glasscock County, Texas","Private","Other chemicals merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"424690",78,0,2013,1,"N","Glasscock County, Texas","Private","Other chemicals merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"424690",78,0,2013,2,"N","Glasscock County, Texas","Private","Other chemicals merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"424690",78,0,2013,3,"N","Glasscock County, Texas","Private","Other chemicals merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"44-45",74,0,2013,1,"N","Glasscock County, Texas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"44-45",74,0,2013,2,"N","Glasscock County, Texas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"44-45",74,0,2013,3,"N","Glasscock County, Texas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"441",75,0,2013,1,"N","Glasscock County, Texas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"441",75,0,2013,2,"N","Glasscock County, Texas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"441",75,0,2013,3,"N","Glasscock County, Texas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"4413",76,0,2013,1,"N","Glasscock County, Texas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"4413",76,0,2013,2,"N","Glasscock County, Texas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"4413",76,0,2013,3,"N","Glasscock County, Texas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"44132",77,0,2013,1,"N","Glasscock County, Texas","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"44132",77,0,2013,2,"N","Glasscock County, Texas","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"44132",77,0,2013,3,"N","Glasscock County, Texas","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"441320",78,0,2013,1,"N","Glasscock County, Texas","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"441320",78,0,2013,2,"N","Glasscock County, Texas","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"441320",78,0,2013,3,"N","Glasscock County, Texas","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"447",75,0,2013,1,"N","Glasscock County, Texas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"447",75,0,2013,2,"N","Glasscock County, Texas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"447",75,0,2013,3,"N","Glasscock County, Texas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"4471",76,0,2013,1,"N","Glasscock County, Texas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"4471",76,0,2013,2,"N","Glasscock County, Texas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"4471",76,0,2013,3,"N","Glasscock County, Texas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"44711",77,0,2013,1,"N","Glasscock County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"44711",77,0,2013,2,"N","Glasscock County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"44711",77,0,2013,3,"N","Glasscock County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"447110",78,0,2013,1,"N","Glasscock County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"447110",78,0,2013,2,"N","Glasscock County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"447110",78,0,2013,3,"N","Glasscock County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"48-49",74,0,2013,1,"N","Glasscock County, Texas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"48-49",74,0,2013,2,"N","Glasscock County, Texas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"48-49",74,0,2013,3,"N","Glasscock County, Texas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"486",75,0,2013,1,"N","Glasscock County, Texas","Private","Pipeline transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"486",75,0,2013,2,"N","Glasscock County, Texas","Private","Pipeline transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"486",75,0,2013,3,"N","Glasscock County, Texas","Private","Pipeline transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"4862",76,0,2013,1,"N","Glasscock County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"4862",76,0,2013,2,"N","Glasscock County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"4862",76,0,2013,3,"N","Glasscock County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"48621",77,0,2013,1,"N","Glasscock County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"48621",77,0,2013,2,"N","Glasscock County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"48621",77,0,2013,3,"N","Glasscock County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"486210",78,0,2013,1,"N","Glasscock County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"486210",78,0,2013,2,"N","Glasscock County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"486210",78,0,2013,3,"N","Glasscock County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"52",74,0,2013,1,"N","Glasscock County, Texas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"52",74,0,2013,2,"N","Glasscock County, Texas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"52",74,0,2013,3,"N","Glasscock County, Texas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"524",75,0,2013,1,"N","Glasscock County, Texas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"524",75,0,2013,2,"N","Glasscock County, Texas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"524",75,0,2013,3,"N","Glasscock County, Texas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"5242",76,0,2013,1,"N","Glasscock County, Texas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"5242",76,0,2013,2,"N","Glasscock County, Texas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"5242",76,0,2013,3,"N","Glasscock County, Texas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"52421",77,0,2013,1,"N","Glasscock County, Texas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"52421",77,0,2013,2,"N","Glasscock County, Texas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"52421",77,0,2013,3,"N","Glasscock County, Texas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"524210",78,0,2013,1,"N","Glasscock County, Texas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"524210",78,0,2013,2,"N","Glasscock County, Texas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"524210",78,0,2013,3,"N","Glasscock County, Texas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"53",74,0,2013,1,"N","Glasscock County, Texas","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"53",74,0,2013,2,"N","Glasscock County, Texas","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"53",74,0,2013,3,"N","Glasscock County, Texas","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"531",75,0,2013,1,"N","Glasscock County, Texas","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"531",75,0,2013,2,"N","Glasscock County, Texas","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"531",75,0,2013,3,"N","Glasscock County, Texas","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"5311",76,0,2013,1,"N","Glasscock County, Texas","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"5311",76,0,2013,2,"N","Glasscock County, Texas","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"5311",76,0,2013,3,"N","Glasscock County, Texas","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"53113",77,0,2013,1,"N","Glasscock County, Texas","Private","Miniwarehouse and self-storage unit operators","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"53113",77,0,2013,2,"N","Glasscock County, Texas","Private","Miniwarehouse and self-storage unit operators","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"53113",77,0,2013,3,"N","Glasscock County, Texas","Private","Miniwarehouse and self-storage unit operators","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"531130",78,0,2013,1,"N","Glasscock County, Texas","Private","Miniwarehouse and self-storage unit operators","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"531130",78,0,2013,2,"N","Glasscock County, Texas","Private","Miniwarehouse and self-storage unit operators","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"531130",78,0,2013,3,"N","Glasscock County, Texas","Private","Miniwarehouse and self-storage unit operators","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"54",74,0,2013,1,"N","Glasscock County, Texas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"54",74,0,2013,2,"N","Glasscock County, Texas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"54",74,0,2013,3,"N","Glasscock County, Texas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"541",75,0,2013,1,"N","Glasscock County, Texas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"541",75,0,2013,2,"N","Glasscock County, Texas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"541",75,0,2013,3,"N","Glasscock County, Texas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"5416",76,0,2013,1,"N","Glasscock County, Texas","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"5416",76,0,2013,2,"N","Glasscock County, Texas","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"5416",76,0,2013,3,"N","Glasscock County, Texas","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"54161",77,0,2013,1,"N","Glasscock County, Texas","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"54161",77,0,2013,2,"N","Glasscock County, Texas","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"54161",77,0,2013,3,"N","Glasscock County, Texas","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"541611",78,0,2013,1,"N","Glasscock County, Texas","Private","Administrative management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"541611",78,0,2013,2,"N","Glasscock County, Texas","Private","Administrative management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"541611",78,0,2013,3,"N","Glasscock County, Texas","Private","Administrative management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"541618",78,0,2013,1,"N","Glasscock County, Texas","Private","Other management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"541618",78,0,2013,2,"N","Glasscock County, Texas","Private","Other management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"541618",78,0,2013,3,"N","Glasscock County, Texas","Private","Other management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"55",74,0,2013,1,"N","Glasscock County, Texas","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"55",74,0,2013,2,"N","Glasscock County, Texas","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"55",74,0,2013,3,"N","Glasscock County, Texas","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"551",75,0,2013,1,"N","Glasscock County, Texas","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"551",75,0,2013,2,"N","Glasscock County, Texas","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"551",75,0,2013,3,"N","Glasscock County, Texas","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"5511",76,0,2013,1,"N","Glasscock County, Texas","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"5511",76,0,2013,2,"N","Glasscock County, Texas","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"5511",76,0,2013,3,"N","Glasscock County, Texas","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"55111",77,0,2013,1,"N","Glasscock County, Texas","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"55111",77,0,2013,2,"N","Glasscock County, Texas","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"55111",77,0,2013,3,"N","Glasscock County, Texas","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"551114",78,0,2013,1,"N","Glasscock County, Texas","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"551114",78,0,2013,2,"N","Glasscock County, Texas","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"551114",78,0,2013,3,"N","Glasscock County, Texas","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"56",74,0,2013,1,"N","Glasscock County, Texas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"56",74,0,2013,2,"N","Glasscock County, Texas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"56",74,0,2013,3,"N","Glasscock County, Texas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"561",75,0,2013,1,"N","Glasscock County, Texas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"561",75,0,2013,2,"N","Glasscock County, Texas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"561",75,0,2013,3,"N","Glasscock County, Texas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"5611",76,0,2013,1,"N","Glasscock County, Texas","Private","Office administrative services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"5611",76,0,2013,2,"N","Glasscock County, Texas","Private","Office administrative services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"5611",76,0,2013,3,"N","Glasscock County, Texas","Private","Office administrative services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"56111",77,0,2013,1,"N","Glasscock County, Texas","Private","Office administrative services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"56111",77,0,2013,2,"N","Glasscock County, Texas","Private","Office administrative services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"56111",77,0,2013,3,"N","Glasscock County, Texas","Private","Office administrative services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"561110",78,0,2013,1,"N","Glasscock County, Texas","Private","Office administrative services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"561110",78,0,2013,2,"N","Glasscock County, Texas","Private","Office administrative services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"561110",78,0,2013,3,"N","Glasscock County, Texas","Private","Office administrative services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"62",74,0,2013,1,"N","Glasscock County, Texas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"62",74,0,2013,2,"N","Glasscock County, Texas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"62",74,0,2013,3,"N","Glasscock County, Texas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"624",75,0,2013,1,"N","Glasscock County, Texas","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"624",75,0,2013,2,"N","Glasscock County, Texas","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"624",75,0,2013,3,"N","Glasscock County, Texas","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"6244",76,0,2013,1,"N","Glasscock County, Texas","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"6244",76,0,2013,2,"N","Glasscock County, Texas","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"6244",76,0,2013,3,"N","Glasscock County, Texas","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"62441",77,0,2013,1,"N","Glasscock County, Texas","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"62441",77,0,2013,2,"N","Glasscock County, Texas","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"62441",77,0,2013,3,"N","Glasscock County, Texas","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"624410",78,0,2013,1,"N","Glasscock County, Texas","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"624410",78,0,2013,2,"N","Glasscock County, Texas","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"624410",78,0,2013,3,"N","Glasscock County, Texas","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"72",74,0,2013,1,"N","Glasscock County, Texas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"72",74,0,2013,2,"N","Glasscock County, Texas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"72",74,0,2013,3,"N","Glasscock County, Texas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"722",75,0,2013,1,"N","Glasscock County, Texas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"722",75,0,2013,2,"N","Glasscock County, Texas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"722",75,0,2013,3,"N","Glasscock County, Texas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"7225",76,0,2013,1,"N","Glasscock County, Texas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"7225",76,0,2013,2,"N","Glasscock County, Texas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"7225",76,0,2013,3,"N","Glasscock County, Texas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"72251",77,0,2013,1,"N","Glasscock County, Texas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"72251",77,0,2013,2,"N","Glasscock County, Texas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"72251",77,0,2013,3,"N","Glasscock County, Texas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"722511",78,0,2013,1,"N","Glasscock County, Texas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"722511",78,0,2013,2,"N","Glasscock County, Texas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"722511",78,0,2013,3,"N","Glasscock County, Texas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"81",74,0,2013,1,"N","Glasscock County, Texas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"81",74,0,2013,2,"N","Glasscock County, Texas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",5,"81",74,0,2013,3,"N","Glasscock County, Texas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48173",5,"811",75,0,2013,1,"N","Glasscock County, Texas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"811",75,0,2013,2,"N","Glasscock County, Texas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"811",75,0,2013,3,"N","Glasscock County, Texas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"8111",76,0,2013,1,"N","Glasscock County, Texas","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"8111",76,0,2013,2,"N","Glasscock County, Texas","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"8111",76,0,2013,3,"N","Glasscock County, Texas","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"81119",77,0,2013,1,"N","Glasscock County, Texas","Private","Other automotive repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"81119",77,0,2013,2,"N","Glasscock County, Texas","Private","Other automotive repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"81119",77,0,2013,3,"N","Glasscock County, Texas","Private","Other automotive repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"811192",78,0,2013,1,"N","Glasscock County, Texas","Private","Car washes","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"811192",78,0,2013,2,"N","Glasscock County, Texas","Private","Car washes","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"811192",78,0,2013,3,"N","Glasscock County, Texas","Private","Car washes","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"814",75,0,2013,1,"N","Glasscock County, Texas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"814",75,0,2013,2,"N","Glasscock County, Texas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"814",75,0,2013,3,"N","Glasscock County, Texas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"8141",76,0,2013,1,"N","Glasscock County, Texas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"8141",76,0,2013,2,"N","Glasscock County, Texas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"8141",76,0,2013,3,"N","Glasscock County, Texas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"81411",77,0,2013,1,"N","Glasscock County, Texas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"81411",77,0,2013,2,"N","Glasscock County, Texas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"81411",77,0,2013,3,"N","Glasscock County, Texas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"814110",78,0,2013,1,"N","Glasscock County, Texas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"814110",78,0,2013,2,"N","Glasscock County, Texas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"814110",78,0,2013,3,"N","Glasscock County, Texas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48173",5,"99",74,0,2013,1,"","Glasscock County, Texas","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"99",74,0,2013,2,"-","Glasscock County, Texas","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"99",74,0,2013,3,"-","Glasscock County, Texas","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"999",75,0,2013,1,"","Glasscock County, Texas","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"999",75,0,2013,2,"-","Glasscock County, Texas","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"999",75,0,2013,3,"-","Glasscock County, Texas","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"9999",76,0,2013,1,"","Glasscock County, Texas","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"9999",76,0,2013,2,"-","Glasscock County, Texas","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"9999",76,0,2013,3,"-","Glasscock County, Texas","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"99999",77,0,2013,1,"","Glasscock County, Texas","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"99999",77,0,2013,2,"-","Glasscock County, Texas","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"99999",77,0,2013,3,"-","Glasscock County, Texas","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"999999",78,0,2013,1,"","Glasscock County, Texas","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48173",5,"999999",78,0,2013,2,"-","Glasscock County, Texas","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48173",5,"999999",78,0,2013,3,"-","Glasscock County, Texas","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+

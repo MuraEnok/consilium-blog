@@ -1,0 +1,590 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"31113",0,10,70,0,2007,1,"","Logan County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",35,178,179,175,936034,458711,8141,406
+"31113",0,"10",70,0,2007,2,"","Logan County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",37,182,193,188,1010346,272208,4845,414
+"31113",0,"10",70,0,2007,3,"","Logan County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",37,182,186,184,1052614,183706,3718,440
+"31113",0,"10",70,0,2007,4,"","Logan County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",35,192,200,193,1230996,130287,2440,486
+"31113",1,10,71,0,2007,1,"","Logan County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",1,2,2,2,14449,0,0,556
+"31113",1,"10",71,0,2007,2,"","Logan County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",1,2,2,2,16281,0,0,626
+"31113",1,"10",71,0,2007,3,"","Logan County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",1,2,2,2,13467,0,0,518
+"31113",1,"10",71,0,2007,4,"","Logan County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",1,2,2,2,15182,0,0,584
+"31113",1,102,72,0,2007,1,"","Logan County, Nebraska","Federal Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",1,2,2,2,14449,0,0,556
+"31113",1,"102",72,0,2007,2,"","Logan County, Nebraska","Federal Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",1,2,2,2,16281,0,0,626
+"31113",1,"102",72,0,2007,3,"","Logan County, Nebraska","Federal Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",1,2,2,2,13467,0,0,518
+"31113",1,"102",72,0,2007,4,"","Logan County, Nebraska","Federal Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",1,2,2,2,15182,0,0,584
+"31113",1,1021,73,0,2007,1,"","Logan County, Nebraska","Federal Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,2,2,2,14449,0,0,556
+"31113",1,"1021",73,0,2007,2,"","Logan County, Nebraska","Federal Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,2,2,2,16281,0,0,626
+"31113",1,"1021",73,0,2007,3,"","Logan County, Nebraska","Federal Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,2,2,2,13467,0,0,518
+"31113",1,"1021",73,0,2007,4,"","Logan County, Nebraska","Federal Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,2,2,2,15182,0,0,584
+"31113",1,48-49,74,0,2007,1,"","Logan County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,2,2,2,14449,0,0,556
+"31113",1,"48-49",74,0,2007,2,"","Logan County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,2,2,2,16281,0,0,626
+"31113",1,"48-49",74,0,2007,3,"","Logan County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,2,2,2,13467,0,0,518
+"31113",1,"48-49",74,0,2007,4,"","Logan County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,2,2,2,15182,0,0,584
+"31113",1,491,75,0,2007,1,"","Logan County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,2,2,14449,0,0,556
+"31113",1,"491",75,0,2007,2,"","Logan County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,2,2,16281,0,0,626
+"31113",1,"491",75,0,2007,3,"","Logan County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,2,2,13467,0,0,518
+"31113",1,"491",75,0,2007,4,"","Logan County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,2,2,15182,0,0,584
+"31113",1,4911,76,0,2007,1,"","Logan County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,2,2,14449,0,0,556
+"31113",1,"4911",76,0,2007,2,"","Logan County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,2,2,16281,0,0,626
+"31113",1,"4911",76,0,2007,3,"","Logan County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,2,2,13467,0,0,518
+"31113",1,"4911",76,0,2007,4,"","Logan County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,2,2,15182,0,0,584
+"31113",1,49111,77,0,2007,1,"","Logan County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,14449,0,0,556
+"31113",1,"49111",77,0,2007,2,"","Logan County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,16281,0,0,626
+"31113",1,"49111",77,0,2007,3,"","Logan County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,13467,0,0,518
+"31113",1,"49111",77,0,2007,4,"","Logan County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,15182,0,0,584
+"31113",1,491110,78,0,2007,1,"","Logan County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,14449,0,0,556
+"31113",1,"491110",78,0,2007,2,"","Logan County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,16281,0,0,626
+"31113",1,"491110",78,0,2007,3,"","Logan County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,13467,0,0,518
+"31113",1,"491110",78,0,2007,4,"","Logan County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,15182,0,0,584
+"31113",2,10,71,0,2007,1,"","Logan County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,7,7,8,53484,0,0,561
+"31113",2,"10",71,0,2007,2,"N","Logan County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",2,"10",71,0,2007,3,"N","Logan County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",2,"10",71,0,2007,4,"N","Logan County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",2,102,72,0,2007,1,"","Logan County, Nebraska","State Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",3,7,7,8,53484,0,0,561
+"31113",2,"102",72,0,2007,2,"N","Logan County, Nebraska","State Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",2,"102",72,0,2007,3,"N","Logan County, Nebraska","State Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",2,"102",72,0,2007,4,"N","Logan County, Nebraska","State Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",2,1028,73,0,2007,1,"","Logan County, Nebraska","State Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",3,7,7,8,53484,0,0,561
+"31113",2,"1028",73,0,2007,2,"N","Logan County, Nebraska","State Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",2,"1028",73,0,2007,3,"N","Logan County, Nebraska","State Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",2,"1028",73,0,2007,4,"N","Logan County, Nebraska","State Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",2,92,74,0,2007,1,"","Logan County, Nebraska","State Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,7,8,53484,0,0,561
+"31113",2,"92",74,0,2007,2,"N","Logan County, Nebraska","State Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",2,"92",74,0,2007,3,"N","Logan County, Nebraska","State Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",2,"92",74,0,2007,4,"N","Logan County, Nebraska","State Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",2,922,75,0,2007,1,"N","Logan County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"922",75,0,2007,2,"N","Logan County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"922",75,0,2007,3,"N","Logan County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"922",75,0,2007,4,"N","Logan County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,9221,76,0,2007,1,"N","Logan County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"9221",76,0,2007,2,"N","Logan County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"9221",76,0,2007,3,"N","Logan County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"9221",76,0,2007,4,"N","Logan County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,92211,77,0,2007,1,"N","Logan County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"92211",77,0,2007,2,"N","Logan County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"92211",77,0,2007,3,"N","Logan County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"92211",77,0,2007,4,"N","Logan County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,922110,78,0,2007,1,"N","Logan County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"922110",78,0,2007,2,"N","Logan County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"922110",78,0,2007,3,"N","Logan County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"922110",78,0,2007,4,"N","Logan County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,926,75,0,2007,1,"N","Logan County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",2,"926",75,0,2007,2,"N","Logan County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",2,"926",75,0,2007,3,"N","Logan County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",2,"926",75,0,2007,4,"N","Logan County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",2,9261,76,0,2007,1,"N","Logan County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",2,"9261",76,0,2007,2,"N","Logan County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",2,"9261",76,0,2007,3,"N","Logan County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",2,"9261",76,0,2007,4,"N","Logan County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",2,92612,77,0,2007,1,"N","Logan County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"92612",77,0,2007,2,"N","Logan County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"92612",77,0,2007,3,"N","Logan County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"92612",77,0,2007,4,"N","Logan County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,926120,78,0,2007,1,"N","Logan County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"926120",78,0,2007,2,"N","Logan County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"926120",78,0,2007,3,"N","Logan County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"926120",78,0,2007,4,"N","Logan County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,92614,77,0,2007,1,"N","Logan County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"92614",77,0,2007,2,"N","Logan County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"92614",77,0,2007,3,"N","Logan County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"92614",77,0,2007,4,"N","Logan County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,926140,78,0,2007,1,"N","Logan County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"926140",78,0,2007,2,"N","Logan County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"926140",78,0,2007,3,"N","Logan County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",2,"926140",78,0,2007,4,"N","Logan County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,10,71,0,2007,1,"","Logan County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,68,74,72,357471,9554,23,385
+"31113",3,"10",71,0,2007,2,"N","Logan County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31113",3,"10",71,0,2007,3,"N","Logan County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31113",3,"10",71,0,2007,4,"N","Logan County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31113",3,102,72,0,2007,1,"","Logan County, Nebraska","Local Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",5,68,74,72,357471,9554,23,385
+"31113",3,"102",72,0,2007,2,"N","Logan County, Nebraska","Local Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31113",3,"102",72,0,2007,3,"N","Logan County, Nebraska","Local Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31113",3,"102",72,0,2007,4,"N","Logan County, Nebraska","Local Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31113",3,1021,73,0,2007,1,"N","Logan County, Nebraska","Local Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"1021",73,0,2007,2,"N","Logan County, Nebraska","Local Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"1021",73,0,2007,3,"N","Logan County, Nebraska","Local Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"1021",73,0,2007,4,"N","Logan County, Nebraska","Local Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,1025,73,0,2007,1,"N","Logan County, Nebraska","Local Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"1025",73,0,2007,2,"N","Logan County, Nebraska","Local Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"1025",73,0,2007,3,"N","Logan County, Nebraska","Local Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"1025",73,0,2007,4,"N","Logan County, Nebraska","Local Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,1028,73,0,2007,1,"N","Logan County, Nebraska","Local Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"1028",73,0,2007,2,"N","Logan County, Nebraska","Local Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"1028",73,0,2007,3,"N","Logan County, Nebraska","Local Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"1028",73,0,2007,4,"N","Logan County, Nebraska","Local Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,22,74,0,2007,1,"N","Logan County, Nebraska","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"22",74,0,2007,2,"N","Logan County, Nebraska","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"22",74,0,2007,3,"N","Logan County, Nebraska","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"22",74,0,2007,4,"N","Logan County, Nebraska","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,221,75,0,2007,1,"N","Logan County, Nebraska","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"221",75,0,2007,2,"N","Logan County, Nebraska","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"221",75,0,2007,3,"N","Logan County, Nebraska","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"221",75,0,2007,4,"N","Logan County, Nebraska","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,2211,76,0,2007,1,"N","Logan County, Nebraska","Local Government","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"2211",76,0,2007,2,"N","Logan County, Nebraska","Local Government","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"2211",76,0,2007,3,"N","Logan County, Nebraska","Local Government","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"2211",76,0,2007,4,"N","Logan County, Nebraska","Local Government","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,22112,77,0,2007,1,"N","Logan County, Nebraska","Local Government","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"22112",77,0,2007,2,"N","Logan County, Nebraska","Local Government","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"22112",77,0,2007,3,"N","Logan County, Nebraska","Local Government","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"22112",77,0,2007,4,"N","Logan County, Nebraska","Local Government","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,221122,78,0,2007,1,"N","Logan County, Nebraska","Local Government","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"221122",78,0,2007,2,"N","Logan County, Nebraska","Local Government","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"221122",78,0,2007,3,"N","Logan County, Nebraska","Local Government","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"221122",78,0,2007,4,"N","Logan County, Nebraska","Local Government","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,61,74,0,2007,1,"N","Logan County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"61",74,0,2007,2,"N","Logan County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"61",74,0,2007,3,"N","Logan County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"61",74,0,2007,4,"N","Logan County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,611,75,0,2007,1,"N","Logan County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"611",75,0,2007,2,"N","Logan County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"611",75,0,2007,3,"N","Logan County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"611",75,0,2007,4,"N","Logan County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,6111,76,0,2007,1,"N","Logan County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"6111",76,0,2007,2,"N","Logan County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"6111",76,0,2007,3,"N","Logan County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"6111",76,0,2007,4,"N","Logan County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,61111,77,0,2007,1,"N","Logan County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"61111",77,0,2007,2,"N","Logan County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"61111",77,0,2007,3,"N","Logan County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"61111",77,0,2007,4,"N","Logan County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,611110,78,0,2007,1,"N","Logan County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"611110",78,0,2007,2,"N","Logan County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"611110",78,0,2007,3,"N","Logan County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"611110",78,0,2007,4,"N","Logan County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,6117,76,0,2007,1,"N","Logan County, Nebraska","Local Government","Educational support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"6117",76,0,2007,2,"N","Logan County, Nebraska","Local Government","Educational support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"6117",76,0,2007,3,"N","Logan County, Nebraska","Local Government","Educational support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"6117",76,0,2007,4,"N","Logan County, Nebraska","Local Government","Educational support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,61171,77,0,2007,1,"N","Logan County, Nebraska","Local Government","Educational support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"61171",77,0,2007,2,"N","Logan County, Nebraska","Local Government","Educational support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"61171",77,0,2007,3,"N","Logan County, Nebraska","Local Government","Educational support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"61171",77,0,2007,4,"N","Logan County, Nebraska","Local Government","Educational support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,611710,78,0,2007,1,"N","Logan County, Nebraska","Local Government","Educational support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"611710",78,0,2007,2,"N","Logan County, Nebraska","Local Government","Educational support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"611710",78,0,2007,3,"N","Logan County, Nebraska","Local Government","Educational support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,"611710",78,0,2007,4,"N","Logan County, Nebraska","Local Government","Educational support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",3,92,74,0,2007,1,"N","Logan County, Nebraska","Local Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"92",74,0,2007,2,"N","Logan County, Nebraska","Local Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"92",74,0,2007,3,"N","Logan County, Nebraska","Local Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"92",74,0,2007,4,"N","Logan County, Nebraska","Local Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,921,75,0,2007,1,"N","Logan County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"921",75,0,2007,2,"N","Logan County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"921",75,0,2007,3,"N","Logan County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"921",75,0,2007,4,"N","Logan County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,9211,76,0,2007,1,"N","Logan County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"9211",76,0,2007,2,"N","Logan County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"9211",76,0,2007,3,"N","Logan County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"9211",76,0,2007,4,"N","Logan County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,92114,77,0,2007,1,"N","Logan County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"92114",77,0,2007,2,"N","Logan County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"92114",77,0,2007,3,"N","Logan County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"92114",77,0,2007,4,"N","Logan County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,921140,78,0,2007,1,"N","Logan County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"921140",78,0,2007,2,"N","Logan County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"921140",78,0,2007,3,"N","Logan County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",3,"921140",78,0,2007,4,"N","Logan County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,10,71,0,2007,1,"","Logan County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",26,101,96,93,510630,449157,8118,406
+"31113",5,"10",71,0,2007,2,"","Logan County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",28,101,108,111,583982,266543,4831,421
+"31113",5,"10",71,0,2007,3,"","Logan County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",28,118,120,107,629454,180668,3711,421
+"31113",5,"10",71,0,2007,4,"","Logan County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",26,110,111,108,779295,130251,2440,547
+"31113",5,101,72,0,2007,1,"","Logan County, Nebraska","Private","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",8,35,30,31,117946,116946,2059,284
+"31113",5,"101",72,0,2007,2,"","Logan County, Nebraska","Private","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",8,29,32,36,138133,91043,1722,329
+"31113",5,"101",72,0,2007,3,"","Logan County, Nebraska","Private","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",8,37,37,30,144989,55309,1192,322
+"31113",5,"101",72,0,2007,4,"","Logan County, Nebraska","Private","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",8,34,33,29,199745,36411,845,480
+"31113",5,1011,73,0,2007,1,"N","Logan County, Nebraska","Private","Natural Resources and Mining","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31113",5,"1011",73,0,2007,2,"","Logan County, Nebraska","Private","Natural Resources and Mining","County, by Supersector -- by ownership sector","All establishment sizes",4,23,24,30,102876,65786,1217,308
+"31113",5,"1011",73,0,2007,3,"","Logan County, Nebraska","Private","Natural Resources and Mining","County, by Supersector -- by ownership sector","All establishment sizes",4,29,29,23,105900,40768,802,302
+"31113",5,"1011",73,0,2007,4,"N","Logan County, Nebraska","Private","Natural Resources and Mining","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31113",5,1012,73,0,2007,1,"N","Logan County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31113",5,"1012",73,0,2007,2,"","Logan County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,6,8,6,35257,25257,505,407
+"31113",5,"1012",73,0,2007,3,"","Logan County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,8,8,7,39089,14541,390,392
+"31113",5,"1012",73,0,2007,4,"N","Logan County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31113",5,102,72,0,2007,1,"","Logan County, Nebraska","Private","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",18,66,66,62,392684,332211,6059,467
+"31113",5,"102",72,0,2007,2,"","Logan County, Nebraska","Private","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",20,72,76,75,445849,175500,3109,461
+"31113",5,"102",72,0,2007,3,"","Logan County, Nebraska","Private","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",20,81,83,77,484465,125359,2519,464
+"31113",5,"102",72,0,2007,4,"","Logan County, Nebraska","Private","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",18,76,78,79,579550,93840,1595,574
+"31113",5,1021,73,0,2007,1,"","Logan County, Nebraska","Private","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",8,30,30,29,214942,184699,2503,557
+"31113",5,"1021",73,0,2007,2,"","Logan County, Nebraska","Private","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",9,32,33,29,243612,74267,1072,598
+"31113",5,"1021",73,0,2007,3,"","Logan County, Nebraska","Private","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",9,36,37,33,271782,58547,872,592
+"31113",5,"1021",73,0,2007,4,"","Logan County, Nebraska","Private","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",9,36,37,38,325105,57590,714,676
+"31113",5,1022,73,0,2007,1,"N","Logan County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"1022",73,0,2007,2,"N","Logan County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"1022",73,0,2007,3,"N","Logan County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"1022",73,0,2007,4,"N","Logan County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,1023,73,0,2007,1,"N","Logan County, Nebraska","Private","Financial Activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"1023",73,0,2007,2,"N","Logan County, Nebraska","Private","Financial Activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"1023",73,0,2007,3,"N","Logan County, Nebraska","Private","Financial Activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"1023",73,0,2007,4,"N","Logan County, Nebraska","Private","Financial Activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,1024,73,0,2007,1,"","Logan County, Nebraska","Private","Professional and Business Services","County, by Supersector -- by ownership sector","All establishment sizes",5,11,12,9,45782,45167,427,330
+"31113",5,"1024",73,0,2007,2,"","Logan County, Nebraska","Private","Professional and Business Services","County, by Supersector -- by ownership sector","All establishment sizes",5,13,13,15,59755,26848,329,336
+"31113",5,"1024",73,0,2007,3,"","Logan County, Nebraska","Private","Professional and Business Services","County, by Supersector -- by ownership sector","All establishment sizes",5,13,14,12,57907,17150,189,343
+"31113",5,"1024",73,0,2007,4,"","Logan County, Nebraska","Private","Professional and Business Services","County, by Supersector -- by ownership sector","All establishment sizes",3,10,10,10,92747,6843,132,713
+"31113",5,1026,73,0,2007,1,"-","Logan County, Nebraska","Private","Leisure and Hospitality","County, by Supersector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31113",5,"1026",73,0,2007,2,"N","Logan County, Nebraska","Private","Leisure and Hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"1026",73,0,2007,3,"N","Logan County, Nebraska","Private","Leisure and Hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"1026",73,0,2007,4,"N","Logan County, Nebraska","Private","Leisure and Hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,1027,73,0,2007,1,"N","Logan County, Nebraska","Private","Other Services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"1027",73,0,2007,2,"N","Logan County, Nebraska","Private","Other Services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"1027",73,0,2007,3,"N","Logan County, Nebraska","Private","Other Services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"1027",73,0,2007,4,"N","Logan County, Nebraska","Private","Other Services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,11,74,0,2007,1,"N","Logan County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31113",5,"11",74,0,2007,2,"","Logan County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",4,23,24,30,102876,65786,1217,308
+"31113",5,"11",74,0,2007,3,"","Logan County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",4,29,29,23,105900,40768,802,302
+"31113",5,"11",74,0,2007,4,"N","Logan County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31113",5,111,75,0,2007,1,"N","Logan County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"111",75,0,2007,2,"N","Logan County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"111",75,0,2007,3,"N","Logan County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"111",75,0,2007,4,"N","Logan County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,1111,76,0,2007,1,"N","Logan County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"1111",76,0,2007,2,"N","Logan County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"1111",76,0,2007,3,"N","Logan County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"1111",76,0,2007,4,"N","Logan County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,11115,77,0,2007,1,"N","Logan County, Nebraska","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"11115",77,0,2007,2,"N","Logan County, Nebraska","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"11115",77,0,2007,3,"N","Logan County, Nebraska","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"11115",77,0,2007,4,"N","Logan County, Nebraska","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,111150,78,0,2007,1,"N","Logan County, Nebraska","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"111150",78,0,2007,2,"N","Logan County, Nebraska","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"111150",78,0,2007,3,"N","Logan County, Nebraska","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"111150",78,0,2007,4,"N","Logan County, Nebraska","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,11119,77,0,2007,1,"N","Logan County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"11119",77,0,2007,2,"N","Logan County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"11119",77,0,2007,3,"N","Logan County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"11119",77,0,2007,4,"N","Logan County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,111191,78,0,2007,1,"N","Logan County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"111191",78,0,2007,2,"N","Logan County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"111191",78,0,2007,3,"N","Logan County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"111191",78,0,2007,4,"N","Logan County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,112,75,0,2007,1,"N","Logan County, Nebraska","Private","Animal production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"112",75,0,2007,2,"N","Logan County, Nebraska","Private","Animal production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"112",75,0,2007,3,"N","Logan County, Nebraska","Private","Animal production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"112",75,0,2007,4,"N","Logan County, Nebraska","Private","Animal production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,1121,76,0,2007,1,"N","Logan County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"1121",76,0,2007,2,"N","Logan County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"1121",76,0,2007,3,"N","Logan County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"1121",76,0,2007,4,"N","Logan County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,11211,77,0,2007,1,"N","Logan County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"11211",77,0,2007,2,"N","Logan County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"11211",77,0,2007,3,"N","Logan County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"11211",77,0,2007,4,"N","Logan County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,112111,78,0,2007,1,"N","Logan County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"112111",78,0,2007,2,"N","Logan County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"112111",78,0,2007,3,"N","Logan County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"112111",78,0,2007,4,"N","Logan County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,23,74,0,2007,1,"N","Logan County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31113",5,"23",74,0,2007,2,"","Logan County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,6,8,6,35257,25257,505,407
+"31113",5,"23",74,0,2007,3,"","Logan County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,8,8,7,39089,14541,390,392
+"31113",5,"23",74,0,2007,4,"N","Logan County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31113",5,237,75,0,2007,1,"N","Logan County, Nebraska","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"237",75,0,2007,2,"N","Logan County, Nebraska","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"237",75,0,2007,3,"N","Logan County, Nebraska","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"237",75,0,2007,4,"N","Logan County, Nebraska","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,2371,76,0,2007,1,"N","Logan County, Nebraska","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"2371",76,0,2007,2,"N","Logan County, Nebraska","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"2371",76,0,2007,3,"N","Logan County, Nebraska","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"2371",76,0,2007,4,"N","Logan County, Nebraska","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,23711,77,0,2007,1,"N","Logan County, Nebraska","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"23711",77,0,2007,2,"N","Logan County, Nebraska","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"23711",77,0,2007,3,"N","Logan County, Nebraska","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"23711",77,0,2007,4,"N","Logan County, Nebraska","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,237110,78,0,2007,1,"N","Logan County, Nebraska","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"237110",78,0,2007,2,"N","Logan County, Nebraska","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"237110",78,0,2007,3,"N","Logan County, Nebraska","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"237110",78,0,2007,4,"N","Logan County, Nebraska","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,238,75,0,2007,1,"N","Logan County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"238",75,0,2007,2,"N","Logan County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"238",75,0,2007,3,"N","Logan County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"238",75,0,2007,4,"N","Logan County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,2382,76,0,2007,1,"N","Logan County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"2382",76,0,2007,2,"N","Logan County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"2382",76,0,2007,3,"N","Logan County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"2382",76,0,2007,4,"N","Logan County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,23822,77,0,2007,1,"N","Logan County, Nebraska","Private","Plumbing and HVAC contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"23822",77,0,2007,2,"N","Logan County, Nebraska","Private","Plumbing and HVAC contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"23822",77,0,2007,3,"N","Logan County, Nebraska","Private","Plumbing and HVAC contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"23822",77,0,2007,4,"N","Logan County, Nebraska","Private","Plumbing and HVAC contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,238221,78,0,2007,1,"N","Logan County, Nebraska","Private","Residential plumbing and HVAC contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"238221",78,0,2007,2,"N","Logan County, Nebraska","Private","Residential plumbing and HVAC contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"238221",78,0,2007,3,"N","Logan County, Nebraska","Private","Residential plumbing and HVAC contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"238221",78,0,2007,4,"N","Logan County, Nebraska","Private","Residential plumbing and HVAC contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,238222,78,0,2007,1,"N","Logan County, Nebraska","Private","Nonresidential plumbing and HVAC contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"238222",78,0,2007,2,"N","Logan County, Nebraska","Private","Nonresidential plumbing and HVAC contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"238222",78,0,2007,3,"N","Logan County, Nebraska","Private","Nonresidential plumbing and HVAC contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"238222",78,0,2007,4,"N","Logan County, Nebraska","Private","Nonresidential plumbing and HVAC contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,42,74,0,2007,1,"N","Logan County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"42",74,0,2007,2,"N","Logan County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"42",74,0,2007,3,"N","Logan County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"42",74,0,2007,4,"N","Logan County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,424,75,0,2007,1,"N","Logan County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"424",75,0,2007,2,"N","Logan County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"424",75,0,2007,3,"N","Logan County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"424",75,0,2007,4,"N","Logan County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,4249,76,0,2007,1,"N","Logan County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"4249",76,0,2007,2,"N","Logan County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"4249",76,0,2007,3,"N","Logan County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"4249",76,0,2007,4,"N","Logan County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,42491,77,0,2007,1,"N","Logan County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"42491",77,0,2007,2,"N","Logan County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"42491",77,0,2007,3,"N","Logan County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"42491",77,0,2007,4,"N","Logan County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,424910,78,0,2007,1,"N","Logan County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"424910",78,0,2007,2,"N","Logan County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"424910",78,0,2007,3,"N","Logan County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"424910",78,0,2007,4,"N","Logan County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,44-45,74,0,2007,1,"N","Logan County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",5,"44-45",74,0,2007,2,"N","Logan County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",5,"44-45",74,0,2007,3,"N","Logan County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",5,"44-45",74,0,2007,4,"N","Logan County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",5,447,75,0,2007,1,"N","Logan County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"447",75,0,2007,2,"N","Logan County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"447",75,0,2007,3,"N","Logan County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"447",75,0,2007,4,"N","Logan County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,4471,76,0,2007,1,"N","Logan County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"4471",76,0,2007,2,"N","Logan County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"4471",76,0,2007,3,"N","Logan County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"4471",76,0,2007,4,"N","Logan County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,44711,77,0,2007,1,"N","Logan County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"44711",77,0,2007,2,"N","Logan County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"44711",77,0,2007,3,"N","Logan County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"44711",77,0,2007,4,"N","Logan County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,447110,78,0,2007,1,"N","Logan County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"447110",78,0,2007,2,"N","Logan County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"447110",78,0,2007,3,"N","Logan County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"447110",78,0,2007,4,"N","Logan County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,44719,77,0,2007,1,"N","Logan County, Nebraska","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"44719",77,0,2007,2,"N","Logan County, Nebraska","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"44719",77,0,2007,3,"N","Logan County, Nebraska","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"44719",77,0,2007,4,"N","Logan County, Nebraska","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,447190,78,0,2007,1,"N","Logan County, Nebraska","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"447190",78,0,2007,2,"N","Logan County, Nebraska","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"447190",78,0,2007,3,"N","Logan County, Nebraska","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"447190",78,0,2007,4,"N","Logan County, Nebraska","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,454,75,0,2007,1,"N","Logan County, Nebraska","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"454",75,0,2007,2,"N","Logan County, Nebraska","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"454",75,0,2007,3,"N","Logan County, Nebraska","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"454",75,0,2007,4,"N","Logan County, Nebraska","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,4543,76,0,2007,1,"N","Logan County, Nebraska","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"4543",76,0,2007,2,"N","Logan County, Nebraska","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"4543",76,0,2007,3,"N","Logan County, Nebraska","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"4543",76,0,2007,4,"N","Logan County, Nebraska","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,45431,77,0,2007,1,"N","Logan County, Nebraska","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"45431",77,0,2007,2,"N","Logan County, Nebraska","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"45431",77,0,2007,3,"N","Logan County, Nebraska","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"45431",77,0,2007,4,"N","Logan County, Nebraska","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,454312,78,0,2007,1,"N","Logan County, Nebraska","Private","Liquefied petroleum gas, bottled gas, dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"454312",78,0,2007,2,"N","Logan County, Nebraska","Private","Liquefied petroleum gas, bottled gas, dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"454312",78,0,2007,3,"N","Logan County, Nebraska","Private","Liquefied petroleum gas, bottled gas, dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"454312",78,0,2007,4,"N","Logan County, Nebraska","Private","Liquefied petroleum gas, bottled gas, dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,48-49,74,0,2007,1,"","Logan County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,7,7,68055,46625,578,748
+"31113",5,"48-49",74,0,2007,2,"","Logan County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,12,11,10,97762,45080,722,684
+"31113",5,"48-49",74,0,2007,3,"","Logan County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,14,15,14,111790,40658,683,600
+"31113",5,"48-49",74,0,2007,4,"","Logan County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,14,15,16,143310,37118,608,735
+"31113",5,484,75,0,2007,1,"","Logan County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,7,68055,46625,578,748
+"31113",5,"484",75,0,2007,2,"","Logan County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,12,11,10,97762,45080,722,684
+"31113",5,"484",75,0,2007,3,"","Logan County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,14,15,14,111790,40658,683,600
+"31113",5,"484",75,0,2007,4,"","Logan County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,14,15,16,143310,37118,608,735
+"31113",5,4842,76,0,2007,1,"","Logan County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,7,7,68055,46625,578,748
+"31113",5,"4842",76,0,2007,2,"","Logan County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,12,11,10,97762,45080,722,684
+"31113",5,"4842",76,0,2007,3,"","Logan County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,14,15,14,111790,40658,683,600
+"31113",5,"4842",76,0,2007,4,"","Logan County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,14,15,16,143310,37118,608,735
+"31113",5,48422,77,0,2007,1,"","Logan County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,7,7,68055,46625,578,748
+"31113",5,"48422",77,0,2007,2,"N","Logan County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",5,"48422",77,0,2007,3,"N","Logan County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",5,"48422",77,0,2007,4,"N","Logan County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",5,484220,78,0,2007,1,"","Logan County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,7,7,68055,46625,578,748
+"31113",5,"484220",78,0,2007,2,"N","Logan County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",5,"484220",78,0,2007,3,"N","Logan County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",5,"484220",78,0,2007,4,"N","Logan County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",5,48423,77,0,2007,1,"-","Logan County, Nebraska","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31113",5,"48423",77,0,2007,2,"N","Logan County, Nebraska","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"48423",77,0,2007,3,"N","Logan County, Nebraska","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"48423",77,0,2007,4,"N","Logan County, Nebraska","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,484230,78,0,2007,1,"-","Logan County, Nebraska","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31113",5,"484230",78,0,2007,2,"N","Logan County, Nebraska","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"484230",78,0,2007,3,"N","Logan County, Nebraska","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"484230",78,0,2007,4,"N","Logan County, Nebraska","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,51,74,0,2007,1,"N","Logan County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"51",74,0,2007,2,"N","Logan County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"51",74,0,2007,3,"N","Logan County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"51",74,0,2007,4,"N","Logan County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,511,75,0,2007,1,"N","Logan County, Nebraska","Private","Publishing industries, except Internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"511",75,0,2007,2,"N","Logan County, Nebraska","Private","Publishing industries, except Internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"511",75,0,2007,3,"N","Logan County, Nebraska","Private","Publishing industries, except Internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"511",75,0,2007,4,"N","Logan County, Nebraska","Private","Publishing industries, except Internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,5111,76,0,2007,1,"N","Logan County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5111",76,0,2007,2,"N","Logan County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5111",76,0,2007,3,"N","Logan County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5111",76,0,2007,4,"N","Logan County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,51111,77,0,2007,1,"N","Logan County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"51111",77,0,2007,2,"N","Logan County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"51111",77,0,2007,3,"N","Logan County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"51111",77,0,2007,4,"N","Logan County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,511110,78,0,2007,1,"N","Logan County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"511110",78,0,2007,2,"N","Logan County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"511110",78,0,2007,3,"N","Logan County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"511110",78,0,2007,4,"N","Logan County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,517,75,0,2007,1,"N","Logan County, Nebraska","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"517",75,0,2007,2,"N","Logan County, Nebraska","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"517",75,0,2007,3,"N","Logan County, Nebraska","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"517",75,0,2007,4,"N","Logan County, Nebraska","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,5171,76,0,2007,1,"N","Logan County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5171",76,0,2007,2,"N","Logan County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5171",76,0,2007,3,"N","Logan County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5171",76,0,2007,4,"N","Logan County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,51711,77,0,2007,1,"N","Logan County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"51711",77,0,2007,2,"N","Logan County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"51711",77,0,2007,3,"N","Logan County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"51711",77,0,2007,4,"N","Logan County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,517110,78,0,2007,1,"N","Logan County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"517110",78,0,2007,2,"N","Logan County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"517110",78,0,2007,3,"N","Logan County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"517110",78,0,2007,4,"N","Logan County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,52,74,0,2007,1,"N","Logan County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"52",74,0,2007,2,"N","Logan County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"52",74,0,2007,3,"N","Logan County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"52",74,0,2007,4,"N","Logan County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,522,75,0,2007,1,"N","Logan County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"522",75,0,2007,2,"N","Logan County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"522",75,0,2007,3,"N","Logan County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"522",75,0,2007,4,"N","Logan County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,5221,76,0,2007,1,"N","Logan County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5221",76,0,2007,2,"N","Logan County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5221",76,0,2007,3,"N","Logan County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5221",76,0,2007,4,"N","Logan County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,52211,77,0,2007,1,"N","Logan County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"52211",77,0,2007,2,"N","Logan County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"52211",77,0,2007,3,"N","Logan County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"52211",77,0,2007,4,"N","Logan County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,522110,78,0,2007,1,"N","Logan County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"522110",78,0,2007,2,"N","Logan County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"522110",78,0,2007,3,"N","Logan County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"522110",78,0,2007,4,"N","Logan County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,54,74,0,2007,1,"N","Logan County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"54",74,0,2007,2,"N","Logan County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"54",74,0,2007,3,"N","Logan County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"54",74,0,2007,4,"N","Logan County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,541,75,0,2007,1,"N","Logan County, Nebraska","Private","Professional and Technical Services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"541",75,0,2007,2,"N","Logan County, Nebraska","Private","Professional and Technical Services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"541",75,0,2007,3,"N","Logan County, Nebraska","Private","Professional and Technical Services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"541",75,0,2007,4,"N","Logan County, Nebraska","Private","Professional and Technical Services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,5419,76,0,2007,1,"N","Logan County, Nebraska","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5419",76,0,2007,2,"N","Logan County, Nebraska","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5419",76,0,2007,3,"N","Logan County, Nebraska","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5419",76,0,2007,4,"N","Logan County, Nebraska","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,54194,77,0,2007,1,"N","Logan County, Nebraska","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"54194",77,0,2007,2,"N","Logan County, Nebraska","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"54194",77,0,2007,3,"N","Logan County, Nebraska","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"54194",77,0,2007,4,"N","Logan County, Nebraska","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,541940,78,0,2007,1,"N","Logan County, Nebraska","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"541940",78,0,2007,2,"N","Logan County, Nebraska","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"541940",78,0,2007,3,"N","Logan County, Nebraska","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"541940",78,0,2007,4,"N","Logan County, Nebraska","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,55,74,0,2007,1,"N","Logan County, Nebraska","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"55",74,0,2007,2,"N","Logan County, Nebraska","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"55",74,0,2007,3,"N","Logan County, Nebraska","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"55",74,0,2007,4,"-","Logan County, Nebraska","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31113",5,551,75,0,2007,1,"N","Logan County, Nebraska","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"551",75,0,2007,2,"N","Logan County, Nebraska","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"551",75,0,2007,3,"N","Logan County, Nebraska","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"551",75,0,2007,4,"-","Logan County, Nebraska","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31113",5,5511,76,0,2007,1,"N","Logan County, Nebraska","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5511",76,0,2007,2,"N","Logan County, Nebraska","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5511",76,0,2007,3,"N","Logan County, Nebraska","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5511",76,0,2007,4,"-","Logan County, Nebraska","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31113",5,55111,77,0,2007,1,"N","Logan County, Nebraska","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"55111",77,0,2007,2,"N","Logan County, Nebraska","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"55111",77,0,2007,3,"N","Logan County, Nebraska","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"55111",77,0,2007,4,"-","Logan County, Nebraska","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31113",5,551111,78,0,2007,1,"N","Logan County, Nebraska","Private","Offices of bank holding companies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"551111",78,0,2007,2,"N","Logan County, Nebraska","Private","Offices of bank holding companies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"551111",78,0,2007,3,"N","Logan County, Nebraska","Private","Offices of bank holding companies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"551111",78,0,2007,4,"-","Logan County, Nebraska","Private","Offices of bank holding companies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31113",5,56,74,0,2007,1,"","Logan County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,9,6,36539,35924,224,383
+"31113",5,"56",74,0,2007,2,"","Logan County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,10,9,11,49634,17121,91,382
+"31113",5,"56",74,0,2007,3,"N","Logan County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",5,"56",74,0,2007,4,"N","Logan County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,561,75,0,2007,1,"","Logan County, Nebraska","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,9,6,36539,35924,224,383
+"31113",5,"561",75,0,2007,2,"","Logan County, Nebraska","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,10,9,11,49634,17121,91,382
+"31113",5,"561",75,0,2007,3,"N","Logan County, Nebraska","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31113",5,"561",75,0,2007,4,"N","Logan County, Nebraska","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,5617,76,0,2007,1,"N","Logan County, Nebraska","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"5617",76,0,2007,2,"N","Logan County, Nebraska","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"5617",76,0,2007,3,"N","Logan County, Nebraska","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"5617",76,0,2007,4,"N","Logan County, Nebraska","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,56172,77,0,2007,1,"N","Logan County, Nebraska","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"56172",77,0,2007,2,"N","Logan County, Nebraska","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"56172",77,0,2007,3,"N","Logan County, Nebraska","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"56172",77,0,2007,4,"N","Logan County, Nebraska","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,561720,78,0,2007,1,"N","Logan County, Nebraska","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"561720",78,0,2007,2,"N","Logan County, Nebraska","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"561720",78,0,2007,3,"N","Logan County, Nebraska","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"561720",78,0,2007,4,"N","Logan County, Nebraska","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,5619,76,0,2007,1,"N","Logan County, Nebraska","Private","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5619",76,0,2007,2,"N","Logan County, Nebraska","Private","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5619",76,0,2007,3,"N","Logan County, Nebraska","Private","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"5619",76,0,2007,4,"N","Logan County, Nebraska","Private","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,56199,77,0,2007,1,"N","Logan County, Nebraska","Private","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"56199",77,0,2007,2,"N","Logan County, Nebraska","Private","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"56199",77,0,2007,3,"N","Logan County, Nebraska","Private","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"56199",77,0,2007,4,"N","Logan County, Nebraska","Private","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,561990,78,0,2007,1,"N","Logan County, Nebraska","Private","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"561990",78,0,2007,2,"N","Logan County, Nebraska","Private","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"561990",78,0,2007,3,"N","Logan County, Nebraska","Private","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"561990",78,0,2007,4,"N","Logan County, Nebraska","Private","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,72,74,0,2007,1,"-","Logan County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31113",5,"72",74,0,2007,2,"N","Logan County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"72",74,0,2007,3,"N","Logan County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"72",74,0,2007,4,"N","Logan County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,722,75,0,2007,1,"-","Logan County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31113",5,"722",75,0,2007,2,"N","Logan County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"722",75,0,2007,3,"N","Logan County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"722",75,0,2007,4,"N","Logan County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,7221,76,0,2007,1,"-","Logan County, Nebraska","Private","Full-service restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31113",5,"7221",76,0,2007,2,"N","Logan County, Nebraska","Private","Full-service restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"7221",76,0,2007,3,"N","Logan County, Nebraska","Private","Full-service restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"7221",76,0,2007,4,"N","Logan County, Nebraska","Private","Full-service restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,72211,77,0,2007,1,"-","Logan County, Nebraska","Private","Full-service restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31113",5,"72211",77,0,2007,2,"N","Logan County, Nebraska","Private","Full-service restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"72211",77,0,2007,3,"N","Logan County, Nebraska","Private","Full-service restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"72211",77,0,2007,4,"N","Logan County, Nebraska","Private","Full-service restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,722110,78,0,2007,1,"-","Logan County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31113",5,"722110",78,0,2007,2,"N","Logan County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"722110",78,0,2007,3,"N","Logan County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"722110",78,0,2007,4,"N","Logan County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,81,74,0,2007,1,"N","Logan County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"81",74,0,2007,2,"N","Logan County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"81",74,0,2007,3,"N","Logan County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,"81",74,0,2007,4,"N","Logan County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31113",5,811,75,0,2007,1,"N","Logan County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"811",75,0,2007,2,"N","Logan County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"811",75,0,2007,3,"N","Logan County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"811",75,0,2007,4,"N","Logan County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,8113,76,0,2007,1,"N","Logan County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"8113",76,0,2007,2,"N","Logan County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"8113",76,0,2007,3,"N","Logan County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"8113",76,0,2007,4,"N","Logan County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,81131,77,0,2007,1,"N","Logan County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"81131",77,0,2007,2,"N","Logan County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"81131",77,0,2007,3,"N","Logan County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"81131",77,0,2007,4,"N","Logan County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,811310,78,0,2007,1,"N","Logan County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"811310",78,0,2007,2,"N","Logan County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"811310",78,0,2007,3,"N","Logan County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"811310",78,0,2007,4,"N","Logan County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,813,75,0,2007,1,"N","Logan County, Nebraska","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"813",75,0,2007,2,"N","Logan County, Nebraska","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"813",75,0,2007,3,"N","Logan County, Nebraska","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"813",75,0,2007,4,"N","Logan County, Nebraska","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,8134,76,0,2007,1,"N","Logan County, Nebraska","Private","Civic and social organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"8134",76,0,2007,2,"N","Logan County, Nebraska","Private","Civic and social organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"8134",76,0,2007,3,"N","Logan County, Nebraska","Private","Civic and social organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"8134",76,0,2007,4,"N","Logan County, Nebraska","Private","Civic and social organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,81341,77,0,2007,1,"N","Logan County, Nebraska","Private","Civic and social organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"81341",77,0,2007,2,"N","Logan County, Nebraska","Private","Civic and social organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"81341",77,0,2007,3,"N","Logan County, Nebraska","Private","Civic and social organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"81341",77,0,2007,4,"N","Logan County, Nebraska","Private","Civic and social organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,813410,78,0,2007,1,"N","Logan County, Nebraska","Private","Civic and social organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"813410",78,0,2007,2,"N","Logan County, Nebraska","Private","Civic and social organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"813410",78,0,2007,3,"N","Logan County, Nebraska","Private","Civic and social organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31113",5,"813410",78,0,2007,4,"N","Logan County, Nebraska","Private","Civic and social organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

@@ -1,0 +1,866 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"38027",0,"10",70,0,2013,1,"","Eddy County, North Dakota","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",102,710,717,719,5055805,2647358,28136,544
+"38027",0,"10",70,0,2013,2,"","Eddy County, North Dakota","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",102,732,773,777,5586399,2796006,46761,565
+"38027",0,"10",70,0,2013,3,"","Eddy County, North Dakota","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",100,702,713,768,5685422,2842756,73992,601
+"38027",1,"10",71,0,2013,1,"","Eddy County, North Dakota","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,21,24,21,241945,0,0,846
+"38027",1,"10",71,0,2013,2,"","Eddy County, North Dakota","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,21,21,21,245943,0,0,901
+"38027",1,"10",71,0,2013,3,"","Eddy County, North Dakota","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,21,22,24,270164,0,0,931
+"38027",1,"102",72,0,2013,1,"","Eddy County, North Dakota","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,21,24,21,241945,0,0,846
+"38027",1,"102",72,0,2013,2,"","Eddy County, North Dakota","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,21,21,21,245943,0,0,901
+"38027",1,"102",72,0,2013,3,"","Eddy County, North Dakota","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,21,22,24,270164,0,0,931
+"38027",1,"1021",73,0,2013,1,"","Eddy County, North Dakota","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,12,12,12,130809,0,0,839
+"38027",1,"1021",73,0,2013,2,"","Eddy County, North Dakota","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,12,12,12,117101,0,0,751
+"38027",1,"1021",73,0,2013,3,"","Eddy County, North Dakota","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,12,13,14,150052,0,0,888
+"38027",1,"1028",73,0,2013,1,"","Eddy County, North Dakota","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,9,12,9,111136,0,0,855
+"38027",1,"1028",73,0,2013,2,"","Eddy County, North Dakota","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,9,9,9,128842,0,0,1101
+"38027",1,"1028",73,0,2013,3,"","Eddy County, North Dakota","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,9,9,10,120112,0,0,990
+"38027",1,"48-49",74,0,2013,1,"","Eddy County, North Dakota","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,12,12,12,130809,0,0,839
+"38027",1,"48-49",74,0,2013,2,"","Eddy County, North Dakota","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,12,12,12,117101,0,0,751
+"38027",1,"48-49",74,0,2013,3,"","Eddy County, North Dakota","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,12,13,14,150052,0,0,888
+"38027",1,"491",75,0,2013,1,"","Eddy County, North Dakota","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,12,12,12,130809,0,0,839
+"38027",1,"491",75,0,2013,2,"","Eddy County, North Dakota","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,12,12,12,117101,0,0,751
+"38027",1,"491",75,0,2013,3,"","Eddy County, North Dakota","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,12,13,14,150052,0,0,888
+"38027",1,"4911",76,0,2013,1,"","Eddy County, North Dakota","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,12,12,12,130809,0,0,839
+"38027",1,"4911",76,0,2013,2,"","Eddy County, North Dakota","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,12,12,12,117101,0,0,751
+"38027",1,"4911",76,0,2013,3,"","Eddy County, North Dakota","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,12,13,14,150052,0,0,888
+"38027",1,"49111",77,0,2013,1,"","Eddy County, North Dakota","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,12,12,12,130809,0,0,839
+"38027",1,"49111",77,0,2013,2,"","Eddy County, North Dakota","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,12,12,12,117101,0,0,751
+"38027",1,"49111",77,0,2013,3,"","Eddy County, North Dakota","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,12,13,14,150052,0,0,888
+"38027",1,"491110",78,0,2013,1,"","Eddy County, North Dakota","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,12,12,12,130809,0,0,839
+"38027",1,"491110",78,0,2013,2,"","Eddy County, North Dakota","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,12,12,12,117101,0,0,751
+"38027",1,"491110",78,0,2013,3,"","Eddy County, North Dakota","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,12,13,14,150052,0,0,888
+"38027",1,"92",74,0,2013,1,"","Eddy County, North Dakota","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,9,12,9,111136,0,0,855
+"38027",1,"92",74,0,2013,2,"","Eddy County, North Dakota","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,9,9,9,128842,0,0,1101
+"38027",1,"92",74,0,2013,3,"","Eddy County, North Dakota","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,9,9,10,120112,0,0,990
+"38027",1,"924",75,0,2013,1,"","Eddy County, North Dakota","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,3,3,3,38755,0,0,994
+"38027",1,"924",75,0,2013,2,"","Eddy County, North Dakota","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,3,3,3,45397,0,0,1164
+"38027",1,"924",75,0,2013,3,"","Eddy County, North Dakota","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,3,3,3,45739,0,0,1173
+"38027",1,"9241",76,0,2013,1,"","Eddy County, North Dakota","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,3,3,3,38755,0,0,994
+"38027",1,"9241",76,0,2013,2,"","Eddy County, North Dakota","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,3,3,3,45397,0,0,1164
+"38027",1,"9241",76,0,2013,3,"","Eddy County, North Dakota","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,3,3,3,45739,0,0,1173
+"38027",1,"92412",77,0,2013,1,"","Eddy County, North Dakota","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,3,3,3,38755,0,0,994
+"38027",1,"92412",77,0,2013,2,"","Eddy County, North Dakota","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,3,3,3,45397,0,0,1164
+"38027",1,"92412",77,0,2013,3,"","Eddy County, North Dakota","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,3,3,3,45739,0,0,1173
+"38027",1,"924120",78,0,2013,1,"","Eddy County, North Dakota","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,3,3,3,38755,0,0,994
+"38027",1,"924120",78,0,2013,2,"","Eddy County, North Dakota","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,3,3,3,45397,0,0,1164
+"38027",1,"924120",78,0,2013,3,"","Eddy County, North Dakota","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,3,3,3,45739,0,0,1173
+"38027",1,"926",75,0,2013,1,"","Eddy County, North Dakota","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,9,6,72381,0,0,795
+"38027",1,"926",75,0,2013,2,"","Eddy County, North Dakota","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,6,6,6,83445,0,0,1070
+"38027",1,"926",75,0,2013,3,"","Eddy County, North Dakota","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,6,6,7,74373,0,0,903
+"38027",1,"9261",76,0,2013,1,"","Eddy County, North Dakota","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,9,6,72381,0,0,795
+"38027",1,"9261",76,0,2013,2,"","Eddy County, North Dakota","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,6,6,6,83445,0,0,1070
+"38027",1,"9261",76,0,2013,3,"","Eddy County, North Dakota","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,6,6,7,74373,0,0,903
+"38027",1,"92611",77,0,2013,1,"","Eddy County, North Dakota","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,4,4,4,55573,0,0,1069
+"38027",1,"92611",77,0,2013,2,"","Eddy County, North Dakota","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,4,4,4,63884,0,0,1229
+"38027",1,"92611",77,0,2013,3,"","Eddy County, North Dakota","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,4,4,3,54728,0,0,1148
+"38027",1,"926110",78,0,2013,1,"","Eddy County, North Dakota","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,4,4,4,55573,0,0,1069
+"38027",1,"926110",78,0,2013,2,"","Eddy County, North Dakota","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,4,4,4,63884,0,0,1229
+"38027",1,"926110",78,0,2013,3,"","Eddy County, North Dakota","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,4,4,3,54728,0,0,1148
+"38027",1,"92614",77,0,2013,1,"","Eddy County, North Dakota","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,5,2,16808,0,0,431
+"38027",1,"92614",77,0,2013,2,"","Eddy County, North Dakota","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,19561,0,0,752
+"38027",1,"92614",77,0,2013,3,"","Eddy County, North Dakota","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,4,19645,0,0,567
+"38027",1,"926140",78,0,2013,1,"","Eddy County, North Dakota","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,5,2,16808,0,0,431
+"38027",1,"926140",78,0,2013,2,"","Eddy County, North Dakota","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,19561,0,0,752
+"38027",1,"926140",78,0,2013,3,"","Eddy County, North Dakota","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,4,19645,0,0,567
+"38027",2,"10",71,0,2013,1,"N","Eddy County, North Dakota","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",2,"10",71,0,2013,2,"N","Eddy County, North Dakota","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",2,"10",71,0,2013,3,"N","Eddy County, North Dakota","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",2,"102",72,0,2013,1,"N","Eddy County, North Dakota","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",2,"102",72,0,2013,2,"N","Eddy County, North Dakota","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",2,"102",72,0,2013,3,"N","Eddy County, North Dakota","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",2,"1028",73,0,2013,1,"N","Eddy County, North Dakota","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",2,"1028",73,0,2013,2,"N","Eddy County, North Dakota","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",2,"1028",73,0,2013,3,"N","Eddy County, North Dakota","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",2,"92",74,0,2013,1,"N","Eddy County, North Dakota","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",2,"92",74,0,2013,2,"N","Eddy County, North Dakota","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",2,"92",74,0,2013,3,"N","Eddy County, North Dakota","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",2,"924",75,0,2013,1,"N","Eddy County, North Dakota","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",2,"924",75,0,2013,2,"N","Eddy County, North Dakota","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",2,"924",75,0,2013,3,"N","Eddy County, North Dakota","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",2,"9241",76,0,2013,1,"N","Eddy County, North Dakota","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",2,"9241",76,0,2013,2,"N","Eddy County, North Dakota","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",2,"9241",76,0,2013,3,"N","Eddy County, North Dakota","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",2,"92412",77,0,2013,1,"N","Eddy County, North Dakota","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",2,"92412",77,0,2013,2,"N","Eddy County, North Dakota","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",2,"92412",77,0,2013,3,"N","Eddy County, North Dakota","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",2,"924120",78,0,2013,1,"N","Eddy County, North Dakota","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",2,"924120",78,0,2013,2,"N","Eddy County, North Dakota","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",2,"924120",78,0,2013,3,"N","Eddy County, North Dakota","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",2,"926",75,0,2013,1,"N","Eddy County, North Dakota","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",2,"926",75,0,2013,2,"N","Eddy County, North Dakota","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",2,"926",75,0,2013,3,"N","Eddy County, North Dakota","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",2,"9261",76,0,2013,1,"N","Eddy County, North Dakota","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",2,"9261",76,0,2013,2,"N","Eddy County, North Dakota","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",2,"9261",76,0,2013,3,"N","Eddy County, North Dakota","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",2,"92614",77,0,2013,1,"N","Eddy County, North Dakota","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",2,"92614",77,0,2013,2,"N","Eddy County, North Dakota","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",2,"92614",77,0,2013,3,"N","Eddy County, North Dakota","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",2,"926140",78,0,2013,1,"N","Eddy County, North Dakota","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",2,"926140",78,0,2013,2,"N","Eddy County, North Dakota","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",2,"926140",78,0,2013,3,"N","Eddy County, North Dakota","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",3,"10",71,0,2013,1,"N","Eddy County, North Dakota","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"38027",3,"10",71,0,2013,2,"N","Eddy County, North Dakota","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"38027",3,"10",71,0,2013,3,"N","Eddy County, North Dakota","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"38027",3,"102",72,0,2013,1,"N","Eddy County, North Dakota","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"38027",3,"102",72,0,2013,2,"N","Eddy County, North Dakota","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"38027",3,"102",72,0,2013,3,"N","Eddy County, North Dakota","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"38027",3,"1023",73,0,2013,1,"N","Eddy County, North Dakota","Local Government","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"1023",73,0,2013,2,"N","Eddy County, North Dakota","Local Government","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"1023",73,0,2013,3,"N","Eddy County, North Dakota","Local Government","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"1025",73,0,2013,1,"N","Eddy County, North Dakota","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",3,"1025",73,0,2013,2,"N","Eddy County, North Dakota","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",3,"1025",73,0,2013,3,"N","Eddy County, North Dakota","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",3,"1026",73,0,2013,1,"N","Eddy County, North Dakota","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"1026",73,0,2013,2,"N","Eddy County, North Dakota","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"1026",73,0,2013,3,"N","Eddy County, North Dakota","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"1028",73,0,2013,1,"","Eddy County, North Dakota","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,35,39,37,230845,10968,19,480
+"38027",3,"1028",73,0,2013,2,"","Eddy County, North Dakota","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,42,38,53,246586,17512,30,428
+"38027",3,"1028",73,0,2013,3,"","Eddy County, North Dakota","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,49,45,38,254194,16798,29,444
+"38027",3,"53",74,0,2013,1,"N","Eddy County, North Dakota","Local Government","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"53",74,0,2013,2,"N","Eddy County, North Dakota","Local Government","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"53",74,0,2013,3,"N","Eddy County, North Dakota","Local Government","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"531",75,0,2013,1,"N","Eddy County, North Dakota","Local Government","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"531",75,0,2013,2,"N","Eddy County, North Dakota","Local Government","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"531",75,0,2013,3,"N","Eddy County, North Dakota","Local Government","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"5313",76,0,2013,1,"N","Eddy County, North Dakota","Local Government","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"5313",76,0,2013,2,"N","Eddy County, North Dakota","Local Government","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"5313",76,0,2013,3,"N","Eddy County, North Dakota","Local Government","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"53131",77,0,2013,1,"N","Eddy County, North Dakota","Local Government","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"53131",77,0,2013,2,"N","Eddy County, North Dakota","Local Government","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"53131",77,0,2013,3,"N","Eddy County, North Dakota","Local Government","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"531311",78,0,2013,1,"N","Eddy County, North Dakota","Local Government","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"531311",78,0,2013,2,"N","Eddy County, North Dakota","Local Government","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"531311",78,0,2013,3,"N","Eddy County, North Dakota","Local Government","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"61",74,0,2013,1,"N","Eddy County, North Dakota","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",3,"61",74,0,2013,2,"N","Eddy County, North Dakota","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",3,"61",74,0,2013,3,"N","Eddy County, North Dakota","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",3,"611",75,0,2013,1,"N","Eddy County, North Dakota","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",3,"611",75,0,2013,2,"N","Eddy County, North Dakota","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",3,"611",75,0,2013,3,"N","Eddy County, North Dakota","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",3,"6111",76,0,2013,1,"N","Eddy County, North Dakota","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",3,"6111",76,0,2013,2,"N","Eddy County, North Dakota","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",3,"6111",76,0,2013,3,"N","Eddy County, North Dakota","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",3,"61111",77,0,2013,1,"N","Eddy County, North Dakota","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",3,"61111",77,0,2013,2,"N","Eddy County, North Dakota","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",3,"61111",77,0,2013,3,"N","Eddy County, North Dakota","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",3,"611110",78,0,2013,1,"N","Eddy County, North Dakota","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",3,"611110",78,0,2013,2,"N","Eddy County, North Dakota","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",3,"611110",78,0,2013,3,"N","Eddy County, North Dakota","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",3,"62",74,0,2013,1,"N","Eddy County, North Dakota","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"62",74,0,2013,2,"N","Eddy County, North Dakota","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"62",74,0,2013,3,"N","Eddy County, North Dakota","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"621",75,0,2013,1,"N","Eddy County, North Dakota","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"621",75,0,2013,2,"N","Eddy County, North Dakota","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"621",75,0,2013,3,"N","Eddy County, North Dakota","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"6219",76,0,2013,1,"N","Eddy County, North Dakota","Local Government","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"6219",76,0,2013,2,"N","Eddy County, North Dakota","Local Government","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"6219",76,0,2013,3,"N","Eddy County, North Dakota","Local Government","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"62199",77,0,2013,1,"N","Eddy County, North Dakota","Local Government","All other ambulatory health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"62199",77,0,2013,2,"N","Eddy County, North Dakota","Local Government","All other ambulatory health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"62199",77,0,2013,3,"N","Eddy County, North Dakota","Local Government","All other ambulatory health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"621999",78,0,2013,1,"N","Eddy County, North Dakota","Local Government","Miscellaneous ambulatory health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"621999",78,0,2013,2,"N","Eddy County, North Dakota","Local Government","Miscellaneous ambulatory health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"621999",78,0,2013,3,"N","Eddy County, North Dakota","Local Government","Miscellaneous ambulatory health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"71",74,0,2013,1,"N","Eddy County, North Dakota","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"71",74,0,2013,2,"N","Eddy County, North Dakota","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"71",74,0,2013,3,"N","Eddy County, North Dakota","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"713",75,0,2013,1,"N","Eddy County, North Dakota","Local Government","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"713",75,0,2013,2,"N","Eddy County, North Dakota","Local Government","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"713",75,0,2013,3,"N","Eddy County, North Dakota","Local Government","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"7139",76,0,2013,1,"N","Eddy County, North Dakota","Local Government","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"7139",76,0,2013,2,"N","Eddy County, North Dakota","Local Government","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"7139",76,0,2013,3,"N","Eddy County, North Dakota","Local Government","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"71394",77,0,2013,1,"N","Eddy County, North Dakota","Local Government","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"71394",77,0,2013,2,"N","Eddy County, North Dakota","Local Government","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"71394",77,0,2013,3,"N","Eddy County, North Dakota","Local Government","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"713940",78,0,2013,1,"N","Eddy County, North Dakota","Local Government","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"713940",78,0,2013,2,"N","Eddy County, North Dakota","Local Government","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"713940",78,0,2013,3,"N","Eddy County, North Dakota","Local Government","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"92",74,0,2013,1,"","Eddy County, North Dakota","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,35,39,37,230845,10968,19,480
+"38027",3,"92",74,0,2013,2,"","Eddy County, North Dakota","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,42,38,53,246586,17512,30,428
+"38027",3,"92",74,0,2013,3,"","Eddy County, North Dakota","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,49,45,38,254194,16798,29,444
+"38027",3,"921",75,0,2013,1,"N","Eddy County, North Dakota","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",3,"921",75,0,2013,2,"N","Eddy County, North Dakota","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",3,"921",75,0,2013,3,"N","Eddy County, North Dakota","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",3,"9211",76,0,2013,1,"N","Eddy County, North Dakota","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",3,"9211",76,0,2013,2,"N","Eddy County, North Dakota","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",3,"9211",76,0,2013,3,"N","Eddy County, North Dakota","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",3,"92114",77,0,2013,1,"N","Eddy County, North Dakota","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",3,"92114",77,0,2013,2,"N","Eddy County, North Dakota","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",3,"92114",77,0,2013,3,"N","Eddy County, North Dakota","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",3,"921140",78,0,2013,1,"N","Eddy County, North Dakota","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",3,"921140",78,0,2013,2,"N","Eddy County, North Dakota","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",3,"921140",78,0,2013,3,"N","Eddy County, North Dakota","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",3,"924",75,0,2013,1,"N","Eddy County, North Dakota","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"924",75,0,2013,2,"N","Eddy County, North Dakota","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"924",75,0,2013,3,"N","Eddy County, North Dakota","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"9241",76,0,2013,1,"N","Eddy County, North Dakota","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"9241",76,0,2013,2,"N","Eddy County, North Dakota","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"9241",76,0,2013,3,"N","Eddy County, North Dakota","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"92412",77,0,2013,1,"N","Eddy County, North Dakota","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"92412",77,0,2013,2,"N","Eddy County, North Dakota","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"92412",77,0,2013,3,"N","Eddy County, North Dakota","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"924120",78,0,2013,1,"N","Eddy County, North Dakota","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"924120",78,0,2013,2,"N","Eddy County, North Dakota","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",3,"924120",78,0,2013,3,"N","Eddy County, North Dakota","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"10",71,0,2013,1,"","Eddy County, North Dakota","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",84,529,520,527,3759314,2636390,28117,550
+"38027",5,"10",71,0,2013,2,"","Eddy County, North Dakota","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",85,535,581,579,4022296,2778494,46731,548
+"38027",5,"10",71,0,2013,3,"","Eddy County, North Dakota","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",83,578,601,587,4762893,2825958,73963,622
+"38027",5,"101",72,0,2013,1,"","Eddy County, North Dakota","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",20,80,74,80,516726,515412,12824,510
+"38027",5,"101",72,0,2013,2,"","Eddy County, North Dakota","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",20,84,105,115,810445,789660,27134,615
+"38027",5,"101",72,0,2013,3,"","Eddy County, North Dakota","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",20,115,122,126,1282169,1037475,48238,815
+"38027",5,"1011",73,0,2013,1,"","Eddy County, North Dakota","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",6,29,24,27,191560,190246,7367,553
+"38027",5,"1011",73,0,2013,2,"","Eddy County, North Dakota","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",6,29,41,49,377216,356431,18902,732
+"38027",5,"1011",73,0,2013,3,"","Eddy County, North Dakota","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",6,46,48,49,693739,515761,34230,1120
+"38027",5,"1012",73,0,2013,1,"N","Eddy County, North Dakota","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"38027",5,"1012",73,0,2013,2,"N","Eddy County, North Dakota","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"38027",5,"1012",73,0,2013,3,"N","Eddy County, North Dakota","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"38027",5,"1013",73,0,2013,1,"N","Eddy County, North Dakota","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"1013",73,0,2013,2,"N","Eddy County, North Dakota","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"1013",73,0,2013,3,"N","Eddy County, North Dakota","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"102",72,0,2013,1,"","Eddy County, North Dakota","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",64,449,446,447,3242588,2120978,15293,558
+"38027",5,"102",72,0,2013,2,"","Eddy County, North Dakota","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",65,451,476,464,3211851,1988834,19597,533
+"38027",5,"102",72,0,2013,3,"","Eddy County, North Dakota","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",63,463,479,461,3480724,1788483,25725,573
+"38027",5,"1021",73,0,2013,1,"","Eddy County, North Dakota","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",21,125,124,127,1172187,989725,3449,719
+"38027",5,"1021",73,0,2013,2,"","Eddy County, North Dakota","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",22,124,136,134,1014543,841375,3134,594
+"38027",5,"1021",73,0,2013,3,"","Eddy County, North Dakota","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",22,129,137,132,1081667,664079,2447,627
+"38027",5,"1022",73,0,2013,1,"N","Eddy County, North Dakota","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"1022",73,0,2013,2,"N","Eddy County, North Dakota","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"1022",73,0,2013,3,"N","Eddy County, North Dakota","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"1023",73,0,2013,1,"","Eddy County, North Dakota","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",7,26,26,26,249256,245227,1337,737
+"38027",5,"1023",73,0,2013,2,"","Eddy County, North Dakota","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",7,26,26,26,251666,199291,1187,745
+"38027",5,"1023",73,0,2013,3,"","Eddy County, North Dakota","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",7,26,26,26,264814,132068,890,783
+"38027",5,"1024",73,0,2013,1,"N","Eddy County, North Dakota","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"38027",5,"1024",73,0,2013,2,"N","Eddy County, North Dakota","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"38027",5,"1024",73,0,2013,3,"N","Eddy County, North Dakota","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"38027",5,"1025",73,0,2013,1,"","Eddy County, North Dakota","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,197,194,195,1519628,584509,4049,598
+"38027",5,"1025",73,0,2013,2,"","Eddy County, North Dakota","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,196,195,200,1545436,547962,3976,603
+"38027",5,"1025",73,0,2013,3,"","Eddy County, North Dakota","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,202,200,193,1658132,530231,3807,643
+"38027",5,"1026",73,0,2013,1,"","Eddy County, North Dakota","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",12,43,41,40,83464,83464,1549,155
+"38027",5,"1026",73,0,2013,2,"","Eddy County, North Dakota","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",12,43,52,41,108091,108091,3368,183
+"38027",5,"1026",73,0,2013,3,"","Eddy County, North Dakota","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",11,42,48,46,107699,98316,3865,183
+"38027",5,"1027",73,0,2013,1,"","Eddy County, North Dakota","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",10,24,25,24,84066,84066,1776,266
+"38027",5,"1027",73,0,2013,2,"","Eddy County, North Dakota","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",10,27,32,31,155830,155830,4854,400
+"38027",5,"1027",73,0,2013,3,"","Eddy County, North Dakota","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",9,31,35,33,228231,227808,11607,532
+"38027",5,"11",74,0,2013,1,"","Eddy County, North Dakota","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",3,12,12,12,96121,96121,164,616
+"38027",5,"11",74,0,2013,2,"","Eddy County, North Dakota","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",3,12,12,13,106259,105659,180,663
+"38027",5,"11",74,0,2013,3,"","Eddy County, North Dakota","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",3,13,13,13,107829,73165,125,638
+"38027",5,"112",75,0,2013,1,"N","Eddy County, North Dakota","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"112",75,0,2013,2,"N","Eddy County, North Dakota","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"112",75,0,2013,3,"N","Eddy County, North Dakota","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"1129",76,0,2013,1,"N","Eddy County, North Dakota","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"1129",76,0,2013,2,"N","Eddy County, North Dakota","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"1129",76,0,2013,3,"N","Eddy County, North Dakota","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"11291",77,0,2013,1,"N","Eddy County, North Dakota","Private","Apiculture","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"11291",77,0,2013,2,"N","Eddy County, North Dakota","Private","Apiculture","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"11291",77,0,2013,3,"N","Eddy County, North Dakota","Private","Apiculture","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"112910",78,0,2013,1,"N","Eddy County, North Dakota","Private","Apiculture","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"112910",78,0,2013,2,"N","Eddy County, North Dakota","Private","Apiculture","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"112910",78,0,2013,3,"N","Eddy County, North Dakota","Private","Apiculture","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"11299",77,0,2013,1,"N","Eddy County, North Dakota","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"11299",77,0,2013,2,"N","Eddy County, North Dakota","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"11299",77,0,2013,3,"N","Eddy County, North Dakota","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"112990",78,0,2013,1,"N","Eddy County, North Dakota","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"112990",78,0,2013,2,"N","Eddy County, North Dakota","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"112990",78,0,2013,3,"N","Eddy County, North Dakota","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"115",75,0,2013,1,"N","Eddy County, North Dakota","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"115",75,0,2013,2,"N","Eddy County, North Dakota","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"115",75,0,2013,3,"N","Eddy County, North Dakota","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"1151",76,0,2013,1,"N","Eddy County, North Dakota","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"1151",76,0,2013,2,"N","Eddy County, North Dakota","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"1151",76,0,2013,3,"N","Eddy County, North Dakota","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"11511",77,0,2013,1,"N","Eddy County, North Dakota","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"11511",77,0,2013,2,"N","Eddy County, North Dakota","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"11511",77,0,2013,3,"N","Eddy County, North Dakota","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"115114",78,0,2013,1,"N","Eddy County, North Dakota","Private","Other postharvest crop activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"115114",78,0,2013,2,"N","Eddy County, North Dakota","Private","Other postharvest crop activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"115114",78,0,2013,3,"N","Eddy County, North Dakota","Private","Other postharvest crop activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"21",74,0,2013,1,"","Eddy County, North Dakota","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,17,12,15,95439,94125,7203,501
+"38027",5,"21",74,0,2013,2,"","Eddy County, North Dakota","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,17,29,36,270957,250772,18722,763
+"38027",5,"21",74,0,2013,3,"","Eddy County, North Dakota","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,33,35,36,585910,442596,34105,1300
+"38027",5,"212",75,0,2013,1,"","Eddy County, North Dakota","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,17,12,15,95439,94125,7203,501
+"38027",5,"212",75,0,2013,2,"","Eddy County, North Dakota","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,17,29,36,270957,250772,18722,763
+"38027",5,"212",75,0,2013,3,"","Eddy County, North Dakota","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,33,35,36,585910,442596,34105,1300
+"38027",5,"2123",76,0,2013,1,"","Eddy County, North Dakota","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,17,12,15,95439,94125,7203,501
+"38027",5,"2123",76,0,2013,2,"","Eddy County, North Dakota","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,17,29,36,270957,250772,18722,763
+"38027",5,"2123",76,0,2013,3,"","Eddy County, North Dakota","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,33,35,36,585910,442596,34105,1300
+"38027",5,"21232",77,0,2013,1,"","Eddy County, North Dakota","Private","Sand, gravel, clay, and refractory mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,17,12,15,95439,94125,7203,501
+"38027",5,"21232",77,0,2013,2,"","Eddy County, North Dakota","Private","Sand, gravel, clay, and refractory mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,17,29,36,270957,250772,18722,763
+"38027",5,"21232",77,0,2013,3,"","Eddy County, North Dakota","Private","Sand, gravel, clay, and refractory mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,33,35,36,585910,442596,34105,1300
+"38027",5,"212321",78,0,2013,1,"","Eddy County, North Dakota","Private","Construction sand and gravel mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,17,12,15,95439,94125,7203,501
+"38027",5,"212321",78,0,2013,2,"","Eddy County, North Dakota","Private","Construction sand and gravel mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,17,29,36,270957,250772,18722,763
+"38027",5,"212321",78,0,2013,3,"","Eddy County, North Dakota","Private","Construction sand and gravel mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,33,35,36,585910,442596,34105,1300
+"38027",5,"22",74,0,2013,1,"N","Eddy County, North Dakota","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"22",74,0,2013,2,"N","Eddy County, North Dakota","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"22",74,0,2013,3,"N","Eddy County, North Dakota","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"221",75,0,2013,1,"N","Eddy County, North Dakota","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"221",75,0,2013,2,"N","Eddy County, North Dakota","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"221",75,0,2013,3,"N","Eddy County, North Dakota","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"2212",76,0,2013,1,"N","Eddy County, North Dakota","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"2212",76,0,2013,2,"N","Eddy County, North Dakota","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"2212",76,0,2013,3,"N","Eddy County, North Dakota","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"22121",77,0,2013,1,"N","Eddy County, North Dakota","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"22121",77,0,2013,2,"N","Eddy County, North Dakota","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"22121",77,0,2013,3,"N","Eddy County, North Dakota","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"221210",78,0,2013,1,"N","Eddy County, North Dakota","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"221210",78,0,2013,2,"N","Eddy County, North Dakota","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"221210",78,0,2013,3,"N","Eddy County, North Dakota","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23",74,0,2013,1,"N","Eddy County, North Dakota","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"38027",5,"23",74,0,2013,2,"N","Eddy County, North Dakota","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"38027",5,"23",74,0,2013,3,"N","Eddy County, North Dakota","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"38027",5,"236",75,0,2013,1,"N","Eddy County, North Dakota","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"38027",5,"236",75,0,2013,2,"","Eddy County, North Dakota","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,10,20,22,110206,110206,6820,489
+"38027",5,"236",75,0,2013,3,"","Eddy County, North Dakota","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,26,24,24,209816,179205,12519,654
+"38027",5,"2361",76,0,2013,1,"N","Eddy County, North Dakota","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"38027",5,"2361",76,0,2013,2,"N","Eddy County, North Dakota","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"38027",5,"2361",76,0,2013,3,"N","Eddy County, North Dakota","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"38027",5,"23611",77,0,2013,1,"N","Eddy County, North Dakota","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"38027",5,"23611",77,0,2013,2,"N","Eddy County, North Dakota","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"38027",5,"23611",77,0,2013,3,"N","Eddy County, North Dakota","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"38027",5,"236115",78,0,2013,1,"N","Eddy County, North Dakota","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",5,"236115",78,0,2013,2,"N","Eddy County, North Dakota","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",5,"236115",78,0,2013,3,"N","Eddy County, North Dakota","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",5,"236118",78,0,2013,1,"N","Eddy County, North Dakota","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",5,"236118",78,0,2013,2,"","Eddy County, North Dakota","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,4,8,9,36049,36049,271,396
+"38027",5,"236118",78,0,2013,3,"","Eddy County, North Dakota","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,8,8,45861,45861,351,423
+"38027",5,"2362",76,0,2013,1,"N","Eddy County, North Dakota","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"2362",76,0,2013,2,"N","Eddy County, North Dakota","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"2362",76,0,2013,3,"N","Eddy County, North Dakota","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"23621",77,0,2013,1,"N","Eddy County, North Dakota","Private","Industrial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23621",77,0,2013,2,"N","Eddy County, North Dakota","Private","Industrial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23621",77,0,2013,3,"N","Eddy County, North Dakota","Private","Industrial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"236210",78,0,2013,1,"N","Eddy County, North Dakota","Private","Industrial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"236210",78,0,2013,2,"N","Eddy County, North Dakota","Private","Industrial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"236210",78,0,2013,3,"N","Eddy County, North Dakota","Private","Industrial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23622",77,0,2013,1,"N","Eddy County, North Dakota","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23622",77,0,2013,2,"N","Eddy County, North Dakota","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23622",77,0,2013,3,"N","Eddy County, North Dakota","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"236220",78,0,2013,1,"N","Eddy County, North Dakota","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"236220",78,0,2013,2,"N","Eddy County, North Dakota","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"236220",78,0,2013,3,"N","Eddy County, North Dakota","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"238",75,0,2013,1,"N","Eddy County, North Dakota","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"38027",5,"238",75,0,2013,2,"N","Eddy County, North Dakota","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"38027",5,"238",75,0,2013,3,"N","Eddy County, North Dakota","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"38027",5,"2381",76,0,2013,1,"N","Eddy County, North Dakota","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"2381",76,0,2013,2,"N","Eddy County, North Dakota","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"2381",76,0,2013,3,"N","Eddy County, North Dakota","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23816",77,0,2013,1,"N","Eddy County, North Dakota","Private","Roofing contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23816",77,0,2013,2,"N","Eddy County, North Dakota","Private","Roofing contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23816",77,0,2013,3,"N","Eddy County, North Dakota","Private","Roofing contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"238161",78,0,2013,1,"N","Eddy County, North Dakota","Private","Residential roofing contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"238161",78,0,2013,2,"N","Eddy County, North Dakota","Private","Residential roofing contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"238161",78,0,2013,3,"N","Eddy County, North Dakota","Private","Residential roofing contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"2382",76,0,2013,1,"N","Eddy County, North Dakota","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"2382",76,0,2013,2,"N","Eddy County, North Dakota","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"2382",76,0,2013,3,"N","Eddy County, North Dakota","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"23821",77,0,2013,1,"N","Eddy County, North Dakota","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23821",77,0,2013,2,"N","Eddy County, North Dakota","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23821",77,0,2013,3,"N","Eddy County, North Dakota","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"238211",78,0,2013,1,"N","Eddy County, North Dakota","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"238211",78,0,2013,2,"N","Eddy County, North Dakota","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"238211",78,0,2013,3,"N","Eddy County, North Dakota","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23822",77,0,2013,1,"N","Eddy County, North Dakota","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23822",77,0,2013,2,"N","Eddy County, North Dakota","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23822",77,0,2013,3,"N","Eddy County, North Dakota","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"238221",78,0,2013,1,"N","Eddy County, North Dakota","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"238221",78,0,2013,2,"N","Eddy County, North Dakota","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"238221",78,0,2013,3,"N","Eddy County, North Dakota","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"2389",76,0,2013,1,"N","Eddy County, North Dakota","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"2389",76,0,2013,2,"N","Eddy County, North Dakota","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"2389",76,0,2013,3,"N","Eddy County, North Dakota","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23891",77,0,2013,1,"N","Eddy County, North Dakota","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23891",77,0,2013,2,"N","Eddy County, North Dakota","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"23891",77,0,2013,3,"N","Eddy County, North Dakota","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"238912",78,0,2013,1,"N","Eddy County, North Dakota","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"238912",78,0,2013,2,"N","Eddy County, North Dakota","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"238912",78,0,2013,3,"N","Eddy County, North Dakota","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"31-33",74,0,2013,1,"N","Eddy County, North Dakota","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"31-33",74,0,2013,2,"N","Eddy County, North Dakota","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"31-33",74,0,2013,3,"N","Eddy County, North Dakota","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"311",75,0,2013,1,"N","Eddy County, North Dakota","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"311",75,0,2013,2,"N","Eddy County, North Dakota","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"311",75,0,2013,3,"N","Eddy County, North Dakota","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"3116",76,0,2013,1,"N","Eddy County, North Dakota","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"3116",76,0,2013,2,"N","Eddy County, North Dakota","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"3116",76,0,2013,3,"N","Eddy County, North Dakota","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"31161",77,0,2013,1,"N","Eddy County, North Dakota","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"31161",77,0,2013,2,"N","Eddy County, North Dakota","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"31161",77,0,2013,3,"N","Eddy County, North Dakota","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"311611",78,0,2013,1,"N","Eddy County, North Dakota","Private","Animal, except poultry, slaughtering","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"311611",78,0,2013,2,"N","Eddy County, North Dakota","Private","Animal, except poultry, slaughtering","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"311611",78,0,2013,3,"N","Eddy County, North Dakota","Private","Animal, except poultry, slaughtering","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"3118",76,0,2013,1,"N","Eddy County, North Dakota","Private","Bakeries and tortilla manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"3118",76,0,2013,2,"N","Eddy County, North Dakota","Private","Bakeries and tortilla manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"3118",76,0,2013,3,"N","Eddy County, North Dakota","Private","Bakeries and tortilla manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"31181",77,0,2013,1,"N","Eddy County, North Dakota","Private","Bread and bakery product manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"31181",77,0,2013,2,"N","Eddy County, North Dakota","Private","Bread and bakery product manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"31181",77,0,2013,3,"N","Eddy County, North Dakota","Private","Bread and bakery product manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"311811",78,0,2013,1,"N","Eddy County, North Dakota","Private","Retail bakeries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"311811",78,0,2013,2,"N","Eddy County, North Dakota","Private","Retail bakeries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"311811",78,0,2013,3,"N","Eddy County, North Dakota","Private","Retail bakeries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"42",74,0,2013,1,"","Eddy County, North Dakota","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,51,52,54,788873,612990,2623,1160
+"38027",5,"42",74,0,2013,2,"","Eddy County, North Dakota","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,53,63,59,590319,470639,2396,778
+"38027",5,"42",74,0,2013,3,"","Eddy County, North Dakota","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,55,59,53,642340,342005,1788,888
+"38027",5,"423",75,0,2013,1,"N","Eddy County, North Dakota","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"423",75,0,2013,2,"N","Eddy County, North Dakota","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"423",75,0,2013,3,"N","Eddy County, North Dakota","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4238",76,0,2013,1,"N","Eddy County, North Dakota","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4238",76,0,2013,2,"N","Eddy County, North Dakota","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4238",76,0,2013,3,"N","Eddy County, North Dakota","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"42382",77,0,2013,1,"N","Eddy County, North Dakota","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"42382",77,0,2013,2,"N","Eddy County, North Dakota","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"42382",77,0,2013,3,"N","Eddy County, North Dakota","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"423820",78,0,2013,1,"N","Eddy County, North Dakota","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"423820",78,0,2013,2,"N","Eddy County, North Dakota","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"423820",78,0,2013,3,"N","Eddy County, North Dakota","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"424",75,0,2013,1,"N","Eddy County, North Dakota","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"38027",5,"424",75,0,2013,2,"N","Eddy County, North Dakota","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"38027",5,"424",75,0,2013,3,"N","Eddy County, North Dakota","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"38027",5,"4245",76,0,2013,1,"","Eddy County, North Dakota","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,21,21,20,528117,352234,1016,1966
+"38027",5,"4245",76,0,2013,2,"","Eddy County, North Dakota","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,21,23,21,284306,184782,515,1009
+"38027",5,"4245",76,0,2013,3,"","Eddy County, North Dakota","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,20,21,20,291011,110079,294,1101
+"38027",5,"42451",77,0,2013,1,"","Eddy County, North Dakota","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,21,21,20,528117,352234,1016,1966
+"38027",5,"42451",77,0,2013,2,"","Eddy County, North Dakota","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,21,23,21,284306,184782,515,1009
+"38027",5,"42451",77,0,2013,3,"","Eddy County, North Dakota","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,20,21,20,291011,110079,294,1101
+"38027",5,"424510",78,0,2013,1,"","Eddy County, North Dakota","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,21,21,20,528117,352234,1016,1966
+"38027",5,"424510",78,0,2013,2,"","Eddy County, North Dakota","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,21,23,21,284306,184782,515,1009
+"38027",5,"424510",78,0,2013,3,"","Eddy County, North Dakota","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,20,21,20,291011,110079,294,1101
+"38027",5,"4247",76,0,2013,1,"N","Eddy County, North Dakota","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4247",76,0,2013,2,"N","Eddy County, North Dakota","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4247",76,0,2013,3,"N","Eddy County, North Dakota","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"42472",77,0,2013,1,"N","Eddy County, North Dakota","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"42472",77,0,2013,2,"N","Eddy County, North Dakota","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"42472",77,0,2013,3,"N","Eddy County, North Dakota","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"424720",78,0,2013,1,"N","Eddy County, North Dakota","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"424720",78,0,2013,2,"N","Eddy County, North Dakota","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"424720",78,0,2013,3,"N","Eddy County, North Dakota","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4249",76,0,2013,1,"","Eddy County, North Dakota","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,9,9,10,86399,86399,1311,712
+"38027",5,"4249",76,0,2013,2,"","Eddy County, North Dakota","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,10,11,10,101674,97152,1560,757
+"38027",5,"4249",76,0,2013,3,"","Eddy County, North Dakota","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,9,11,11,107328,62932,1206,799
+"38027",5,"42491",77,0,2013,1,"","Eddy County, North Dakota","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,9,9,10,86399,86399,1311,712
+"38027",5,"42491",77,0,2013,2,"","Eddy County, North Dakota","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,10,11,10,101674,97152,1560,757
+"38027",5,"42491",77,0,2013,3,"","Eddy County, North Dakota","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,9,11,11,107328,62932,1206,799
+"38027",5,"424910",78,0,2013,1,"","Eddy County, North Dakota","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,9,9,10,86399,86399,1311,712
+"38027",5,"424910",78,0,2013,2,"","Eddy County, North Dakota","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,10,11,10,101674,97152,1560,757
+"38027",5,"424910",78,0,2013,3,"","Eddy County, North Dakota","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,9,11,11,107328,62932,1206,799
+"38027",5,"44-45",74,0,2013,1,"","Eddy County, North Dakota","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,72,70,70,341928,340513,698,372
+"38027",5,"44-45",74,0,2013,2,"","Eddy County, North Dakota","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",10,67,69,71,377856,337948,579,421
+"38027",5,"44-45",74,0,2013,3,"","Eddy County, North Dakota","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",10,70,74,75,404564,305053,519,426
+"38027",5,"441",75,0,2013,1,"N","Eddy County, North Dakota","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"441",75,0,2013,2,"N","Eddy County, North Dakota","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"441",75,0,2013,3,"N","Eddy County, North Dakota","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4413",76,0,2013,1,"N","Eddy County, North Dakota","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4413",76,0,2013,2,"N","Eddy County, North Dakota","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4413",76,0,2013,3,"N","Eddy County, North Dakota","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"44131",77,0,2013,1,"N","Eddy County, North Dakota","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"44131",77,0,2013,2,"N","Eddy County, North Dakota","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"44131",77,0,2013,3,"N","Eddy County, North Dakota","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"441310",78,0,2013,1,"N","Eddy County, North Dakota","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"441310",78,0,2013,2,"N","Eddy County, North Dakota","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"441310",78,0,2013,3,"N","Eddy County, North Dakota","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"444",75,0,2013,1,"N","Eddy County, North Dakota","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"444",75,0,2013,2,"N","Eddy County, North Dakota","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",5,"444",75,0,2013,3,"N","Eddy County, North Dakota","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",5,"4441",76,0,2013,1,"N","Eddy County, North Dakota","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"4441",76,0,2013,2,"N","Eddy County, North Dakota","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"4441",76,0,2013,3,"N","Eddy County, North Dakota","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"44411",77,0,2013,1,"N","Eddy County, North Dakota","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"44411",77,0,2013,2,"N","Eddy County, North Dakota","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"44411",77,0,2013,3,"N","Eddy County, North Dakota","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"444110",78,0,2013,1,"N","Eddy County, North Dakota","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"444110",78,0,2013,2,"N","Eddy County, North Dakota","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"444110",78,0,2013,3,"N","Eddy County, North Dakota","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"4442",76,0,2013,1,"-","Eddy County, North Dakota","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"38027",5,"4442",76,0,2013,2,"N","Eddy County, North Dakota","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4442",76,0,2013,3,"N","Eddy County, North Dakota","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"44422",77,0,2013,1,"-","Eddy County, North Dakota","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"38027",5,"44422",77,0,2013,2,"N","Eddy County, North Dakota","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"44422",77,0,2013,3,"N","Eddy County, North Dakota","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"444220",78,0,2013,1,"-","Eddy County, North Dakota","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"38027",5,"444220",78,0,2013,2,"N","Eddy County, North Dakota","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"444220",78,0,2013,3,"N","Eddy County, North Dakota","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"445",75,0,2013,1,"N","Eddy County, North Dakota","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"445",75,0,2013,2,"N","Eddy County, North Dakota","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"445",75,0,2013,3,"N","Eddy County, North Dakota","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"4451",76,0,2013,1,"N","Eddy County, North Dakota","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4451",76,0,2013,2,"N","Eddy County, North Dakota","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4451",76,0,2013,3,"N","Eddy County, North Dakota","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"44511",77,0,2013,1,"N","Eddy County, North Dakota","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"44511",77,0,2013,2,"N","Eddy County, North Dakota","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"44511",77,0,2013,3,"N","Eddy County, North Dakota","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"445110",78,0,2013,1,"N","Eddy County, North Dakota","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"445110",78,0,2013,2,"N","Eddy County, North Dakota","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"445110",78,0,2013,3,"N","Eddy County, North Dakota","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4453",76,0,2013,1,"N","Eddy County, North Dakota","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4453",76,0,2013,2,"N","Eddy County, North Dakota","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4453",76,0,2013,3,"N","Eddy County, North Dakota","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"44531",77,0,2013,1,"N","Eddy County, North Dakota","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"44531",77,0,2013,2,"N","Eddy County, North Dakota","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"44531",77,0,2013,3,"N","Eddy County, North Dakota","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"445310",78,0,2013,1,"N","Eddy County, North Dakota","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"445310",78,0,2013,2,"N","Eddy County, North Dakota","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"445310",78,0,2013,3,"N","Eddy County, North Dakota","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"446",75,0,2013,1,"N","Eddy County, North Dakota","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"446",75,0,2013,2,"N","Eddy County, North Dakota","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"446",75,0,2013,3,"N","Eddy County, North Dakota","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4461",76,0,2013,1,"N","Eddy County, North Dakota","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4461",76,0,2013,2,"N","Eddy County, North Dakota","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4461",76,0,2013,3,"N","Eddy County, North Dakota","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"44611",77,0,2013,1,"N","Eddy County, North Dakota","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"44611",77,0,2013,2,"N","Eddy County, North Dakota","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"44611",77,0,2013,3,"N","Eddy County, North Dakota","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"446110",78,0,2013,1,"N","Eddy County, North Dakota","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"446110",78,0,2013,2,"N","Eddy County, North Dakota","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"446110",78,0,2013,3,"N","Eddy County, North Dakota","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"447",75,0,2013,1,"N","Eddy County, North Dakota","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"447",75,0,2013,2,"N","Eddy County, North Dakota","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"447",75,0,2013,3,"N","Eddy County, North Dakota","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"4471",76,0,2013,1,"N","Eddy County, North Dakota","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"4471",76,0,2013,2,"N","Eddy County, North Dakota","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"4471",76,0,2013,3,"N","Eddy County, North Dakota","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"44711",77,0,2013,1,"N","Eddy County, North Dakota","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"44711",77,0,2013,2,"N","Eddy County, North Dakota","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"44711",77,0,2013,3,"N","Eddy County, North Dakota","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"447110",78,0,2013,1,"N","Eddy County, North Dakota","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"447110",78,0,2013,2,"N","Eddy County, North Dakota","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"447110",78,0,2013,3,"N","Eddy County, North Dakota","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"451",75,0,2013,1,"N","Eddy County, North Dakota","Private","Sporting goods, hobby, book and music stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"451",75,0,2013,2,"N","Eddy County, North Dakota","Private","Sporting goods, hobby, book and music stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"451",75,0,2013,3,"N","Eddy County, North Dakota","Private","Sporting goods, hobby, book and music stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4511",76,0,2013,1,"N","Eddy County, North Dakota","Private","Sporting goods and musical instrument stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4511",76,0,2013,2,"N","Eddy County, North Dakota","Private","Sporting goods and musical instrument stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"4511",76,0,2013,3,"N","Eddy County, North Dakota","Private","Sporting goods and musical instrument stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"45113",77,0,2013,1,"N","Eddy County, North Dakota","Private","Sewing, needlework, and piece goods stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"45113",77,0,2013,2,"N","Eddy County, North Dakota","Private","Sewing, needlework, and piece goods stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"45113",77,0,2013,3,"N","Eddy County, North Dakota","Private","Sewing, needlework, and piece goods stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"451130",78,0,2013,1,"N","Eddy County, North Dakota","Private","Sewing, needlework, and piece goods stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"451130",78,0,2013,2,"N","Eddy County, North Dakota","Private","Sewing, needlework, and piece goods stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"451130",78,0,2013,3,"N","Eddy County, North Dakota","Private","Sewing, needlework, and piece goods stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"48-49",74,0,2013,1,"N","Eddy County, North Dakota","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"48-49",74,0,2013,2,"N","Eddy County, North Dakota","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"48-49",74,0,2013,3,"N","Eddy County, North Dakota","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"484",75,0,2013,1,"N","Eddy County, North Dakota","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"484",75,0,2013,2,"N","Eddy County, North Dakota","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"484",75,0,2013,3,"N","Eddy County, North Dakota","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"4842",76,0,2013,1,"N","Eddy County, North Dakota","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"4842",76,0,2013,2,"N","Eddy County, North Dakota","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"4842",76,0,2013,3,"N","Eddy County, North Dakota","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"48423",77,0,2013,1,"N","Eddy County, North Dakota","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"48423",77,0,2013,2,"N","Eddy County, North Dakota","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"48423",77,0,2013,3,"N","Eddy County, North Dakota","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"484230",78,0,2013,1,"N","Eddy County, North Dakota","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"484230",78,0,2013,2,"N","Eddy County, North Dakota","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"484230",78,0,2013,3,"N","Eddy County, North Dakota","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"51",74,0,2013,1,"N","Eddy County, North Dakota","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"51",74,0,2013,2,"N","Eddy County, North Dakota","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"51",74,0,2013,3,"N","Eddy County, North Dakota","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"511",75,0,2013,1,"N","Eddy County, North Dakota","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"511",75,0,2013,2,"N","Eddy County, North Dakota","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"511",75,0,2013,3,"N","Eddy County, North Dakota","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5111",76,0,2013,1,"N","Eddy County, North Dakota","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5111",76,0,2013,2,"N","Eddy County, North Dakota","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5111",76,0,2013,3,"N","Eddy County, North Dakota","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"51111",77,0,2013,1,"N","Eddy County, North Dakota","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"51111",77,0,2013,2,"N","Eddy County, North Dakota","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"51111",77,0,2013,3,"N","Eddy County, North Dakota","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"511110",78,0,2013,1,"N","Eddy County, North Dakota","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"511110",78,0,2013,2,"N","Eddy County, North Dakota","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"511110",78,0,2013,3,"N","Eddy County, North Dakota","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"512",75,0,2013,1,"N","Eddy County, North Dakota","Private","Motion picture and sound recording industries","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"512",75,0,2013,2,"N","Eddy County, North Dakota","Private","Motion picture and sound recording industries","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"512",75,0,2013,3,"N","Eddy County, North Dakota","Private","Motion picture and sound recording industries","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5121",76,0,2013,1,"N","Eddy County, North Dakota","Private","Motion picture and video industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5121",76,0,2013,2,"N","Eddy County, North Dakota","Private","Motion picture and video industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5121",76,0,2013,3,"N","Eddy County, North Dakota","Private","Motion picture and video industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"51213",77,0,2013,1,"N","Eddy County, North Dakota","Private","Motion picture and video exhibition","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"51213",77,0,2013,2,"N","Eddy County, North Dakota","Private","Motion picture and video exhibition","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"51213",77,0,2013,3,"N","Eddy County, North Dakota","Private","Motion picture and video exhibition","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"512131",78,0,2013,1,"N","Eddy County, North Dakota","Private","Motion picture theaters, except drive-ins","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"512131",78,0,2013,2,"N","Eddy County, North Dakota","Private","Motion picture theaters, except drive-ins","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"512131",78,0,2013,3,"N","Eddy County, North Dakota","Private","Motion picture theaters, except drive-ins","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"52",74,0,2013,1,"N","Eddy County, North Dakota","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"38027",5,"52",74,0,2013,2,"N","Eddy County, North Dakota","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"38027",5,"52",74,0,2013,3,"N","Eddy County, North Dakota","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"38027",5,"522",75,0,2013,1,"N","Eddy County, North Dakota","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"522",75,0,2013,2,"N","Eddy County, North Dakota","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"522",75,0,2013,3,"N","Eddy County, North Dakota","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"5221",76,0,2013,1,"N","Eddy County, North Dakota","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"5221",76,0,2013,2,"N","Eddy County, North Dakota","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"5221",76,0,2013,3,"N","Eddy County, North Dakota","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"52211",77,0,2013,1,"N","Eddy County, North Dakota","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"52211",77,0,2013,2,"N","Eddy County, North Dakota","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"52211",77,0,2013,3,"N","Eddy County, North Dakota","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"522110",78,0,2013,1,"N","Eddy County, North Dakota","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"522110",78,0,2013,2,"N","Eddy County, North Dakota","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"522110",78,0,2013,3,"N","Eddy County, North Dakota","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"52213",77,0,2013,1,"N","Eddy County, North Dakota","Private","Credit unions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"52213",77,0,2013,2,"N","Eddy County, North Dakota","Private","Credit unions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"52213",77,0,2013,3,"N","Eddy County, North Dakota","Private","Credit unions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"522130",78,0,2013,1,"N","Eddy County, North Dakota","Private","Credit unions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"522130",78,0,2013,2,"N","Eddy County, North Dakota","Private","Credit unions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"522130",78,0,2013,3,"N","Eddy County, North Dakota","Private","Credit unions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"524",75,0,2013,1,"","Eddy County, North Dakota","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,5,5,44776,44545,804,689
+"38027",5,"524",75,0,2013,2,"","Eddy County, North Dakota","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,5,5,44499,37496,769,685
+"38027",5,"524",75,0,2013,3,"","Eddy County, North Dakota","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,5,5,47018,21827,604,723
+"38027",5,"5242",76,0,2013,1,"","Eddy County, North Dakota","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,5,5,5,44776,44545,804,689
+"38027",5,"5242",76,0,2013,2,"","Eddy County, North Dakota","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,5,5,5,44499,37496,769,685
+"38027",5,"5242",76,0,2013,3,"","Eddy County, North Dakota","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,5,5,5,47018,21827,604,723
+"38027",5,"52421",77,0,2013,1,"","Eddy County, North Dakota","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,5,5,5,44776,44545,804,689
+"38027",5,"52421",77,0,2013,2,"","Eddy County, North Dakota","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,5,5,5,44499,37496,769,685
+"38027",5,"52421",77,0,2013,3,"","Eddy County, North Dakota","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,5,5,5,47018,21827,604,723
+"38027",5,"524210",78,0,2013,1,"","Eddy County, North Dakota","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,5,5,5,44776,44545,804,689
+"38027",5,"524210",78,0,2013,2,"","Eddy County, North Dakota","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,5,5,5,44499,37496,769,685
+"38027",5,"524210",78,0,2013,3,"","Eddy County, North Dakota","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,5,5,5,47018,21827,604,723
+"38027",5,"53",74,0,2013,1,"N","Eddy County, North Dakota","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"53",74,0,2013,2,"N","Eddy County, North Dakota","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"53",74,0,2013,3,"N","Eddy County, North Dakota","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"531",75,0,2013,1,"N","Eddy County, North Dakota","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"531",75,0,2013,2,"N","Eddy County, North Dakota","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"531",75,0,2013,3,"N","Eddy County, North Dakota","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"5312",76,0,2013,1,"N","Eddy County, North Dakota","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5312",76,0,2013,2,"N","Eddy County, North Dakota","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5312",76,0,2013,3,"N","Eddy County, North Dakota","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"53121",77,0,2013,1,"N","Eddy County, North Dakota","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"53121",77,0,2013,2,"N","Eddy County, North Dakota","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"53121",77,0,2013,3,"N","Eddy County, North Dakota","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"531210",78,0,2013,1,"N","Eddy County, North Dakota","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"531210",78,0,2013,2,"N","Eddy County, North Dakota","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"531210",78,0,2013,3,"N","Eddy County, North Dakota","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5313",76,0,2013,1,"N","Eddy County, North Dakota","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5313",76,0,2013,2,"N","Eddy County, North Dakota","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5313",76,0,2013,3,"N","Eddy County, North Dakota","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"53132",77,0,2013,1,"N","Eddy County, North Dakota","Private","Offices of real estate appraisers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"53132",77,0,2013,2,"N","Eddy County, North Dakota","Private","Offices of real estate appraisers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"53132",77,0,2013,3,"N","Eddy County, North Dakota","Private","Offices of real estate appraisers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"531320",78,0,2013,1,"N","Eddy County, North Dakota","Private","Offices of real estate appraisers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"531320",78,0,2013,2,"N","Eddy County, North Dakota","Private","Offices of real estate appraisers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"531320",78,0,2013,3,"N","Eddy County, North Dakota","Private","Offices of real estate appraisers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"54",74,0,2013,1,"N","Eddy County, North Dakota","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"38027",5,"54",74,0,2013,2,"N","Eddy County, North Dakota","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"38027",5,"54",74,0,2013,3,"N","Eddy County, North Dakota","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"38027",5,"541",75,0,2013,1,"N","Eddy County, North Dakota","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"38027",5,"541",75,0,2013,2,"N","Eddy County, North Dakota","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"38027",5,"541",75,0,2013,3,"N","Eddy County, North Dakota","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"38027",5,"5411",76,0,2013,1,"","Eddy County, North Dakota","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,9,9,47372,47372,80,437
+"38027",5,"5411",76,0,2013,2,"","Eddy County, North Dakota","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,9,9,50958,50958,87,436
+"38027",5,"5411",76,0,2013,3,"","Eddy County, North Dakota","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,9,7,53330,49130,83,492
+"38027",5,"54111",77,0,2013,1,"N","Eddy County, North Dakota","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"54111",77,0,2013,2,"N","Eddy County, North Dakota","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"54111",77,0,2013,3,"N","Eddy County, North Dakota","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"541110",78,0,2013,1,"N","Eddy County, North Dakota","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"541110",78,0,2013,2,"N","Eddy County, North Dakota","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"541110",78,0,2013,3,"N","Eddy County, North Dakota","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"54119",77,0,2013,1,"N","Eddy County, North Dakota","Private","Other legal services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"54119",77,0,2013,2,"N","Eddy County, North Dakota","Private","Other legal services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"54119",77,0,2013,3,"N","Eddy County, North Dakota","Private","Other legal services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"541191",78,0,2013,1,"N","Eddy County, North Dakota","Private","Title abstract and settlement offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"541191",78,0,2013,2,"N","Eddy County, North Dakota","Private","Title abstract and settlement offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"541191",78,0,2013,3,"N","Eddy County, North Dakota","Private","Title abstract and settlement offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5412",76,0,2013,1,"N","Eddy County, North Dakota","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5412",76,0,2013,2,"N","Eddy County, North Dakota","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5412",76,0,2013,3,"N","Eddy County, North Dakota","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"54121",77,0,2013,1,"N","Eddy County, North Dakota","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"54121",77,0,2013,2,"N","Eddy County, North Dakota","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"54121",77,0,2013,3,"N","Eddy County, North Dakota","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"541219",78,0,2013,1,"N","Eddy County, North Dakota","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"541219",78,0,2013,2,"N","Eddy County, North Dakota","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"541219",78,0,2013,3,"N","Eddy County, North Dakota","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5413",76,0,2013,1,"N","Eddy County, North Dakota","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5413",76,0,2013,2,"N","Eddy County, North Dakota","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5413",76,0,2013,3,"N","Eddy County, North Dakota","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"54138",77,0,2013,1,"N","Eddy County, North Dakota","Private","Testing laboratories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"54138",77,0,2013,2,"N","Eddy County, North Dakota","Private","Testing laboratories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"54138",77,0,2013,3,"N","Eddy County, North Dakota","Private","Testing laboratories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"541380",78,0,2013,1,"N","Eddy County, North Dakota","Private","Testing laboratories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"541380",78,0,2013,2,"N","Eddy County, North Dakota","Private","Testing laboratories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"541380",78,0,2013,3,"N","Eddy County, North Dakota","Private","Testing laboratories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5415",76,0,2013,1,"N","Eddy County, North Dakota","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5415",76,0,2013,2,"N","Eddy County, North Dakota","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"5415",76,0,2013,3,"N","Eddy County, North Dakota","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"54151",77,0,2013,1,"N","Eddy County, North Dakota","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"54151",77,0,2013,2,"N","Eddy County, North Dakota","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"54151",77,0,2013,3,"N","Eddy County, North Dakota","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"541511",78,0,2013,1,"N","Eddy County, North Dakota","Private","Custom computer programming services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"541511",78,0,2013,2,"N","Eddy County, North Dakota","Private","Custom computer programming services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"541511",78,0,2013,3,"N","Eddy County, North Dakota","Private","Custom computer programming services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62",74,0,2013,1,"","Eddy County, North Dakota","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,197,194,195,1519628,584509,4049,598
+"38027",5,"62",74,0,2013,2,"","Eddy County, North Dakota","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,196,195,200,1545436,547962,3976,603
+"38027",5,"62",74,0,2013,3,"","Eddy County, North Dakota","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,202,200,193,1658132,530231,3807,643
+"38027",5,"621",75,0,2013,1,"","Eddy County, North Dakota","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,19,19,18,166321,166321,704,685
+"38027",5,"621",75,0,2013,2,"","Eddy County, North Dakota","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,18,18,18,292686,121164,562,1251
+"38027",5,"621",75,0,2013,3,"","Eddy County, North Dakota","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,20,20,19,191091,116397,497,747
+"38027",5,"6212",76,0,2013,1,"N","Eddy County, North Dakota","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"6212",76,0,2013,2,"N","Eddy County, North Dakota","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"6212",76,0,2013,3,"N","Eddy County, North Dakota","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62121",77,0,2013,1,"N","Eddy County, North Dakota","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62121",77,0,2013,2,"N","Eddy County, North Dakota","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62121",77,0,2013,3,"N","Eddy County, North Dakota","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"621210",78,0,2013,1,"N","Eddy County, North Dakota","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"621210",78,0,2013,2,"N","Eddy County, North Dakota","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"621210",78,0,2013,3,"N","Eddy County, North Dakota","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"6213",76,0,2013,1,"N","Eddy County, North Dakota","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"6213",76,0,2013,2,"N","Eddy County, North Dakota","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"6213",76,0,2013,3,"N","Eddy County, North Dakota","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62131",77,0,2013,1,"N","Eddy County, North Dakota","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62131",77,0,2013,2,"N","Eddy County, North Dakota","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62131",77,0,2013,3,"N","Eddy County, North Dakota","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"621310",78,0,2013,1,"N","Eddy County, North Dakota","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"621310",78,0,2013,2,"N","Eddy County, North Dakota","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"621310",78,0,2013,3,"N","Eddy County, North Dakota","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"6219",76,0,2013,1,"N","Eddy County, North Dakota","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"6219",76,0,2013,2,"N","Eddy County, North Dakota","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"6219",76,0,2013,3,"N","Eddy County, North Dakota","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62191",77,0,2013,1,"N","Eddy County, North Dakota","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62191",77,0,2013,2,"N","Eddy County, North Dakota","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62191",77,0,2013,3,"N","Eddy County, North Dakota","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"621910",78,0,2013,1,"N","Eddy County, North Dakota","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"621910",78,0,2013,2,"N","Eddy County, North Dakota","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"621910",78,0,2013,3,"N","Eddy County, North Dakota","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"623",75,0,2013,1,"N","Eddy County, North Dakota","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"623",75,0,2013,2,"N","Eddy County, North Dakota","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"623",75,0,2013,3,"N","Eddy County, North Dakota","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"6231",76,0,2013,1,"N","Eddy County, North Dakota","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"6231",76,0,2013,2,"N","Eddy County, North Dakota","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"6231",76,0,2013,3,"N","Eddy County, North Dakota","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62311",77,0,2013,1,"N","Eddy County, North Dakota","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62311",77,0,2013,2,"N","Eddy County, North Dakota","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62311",77,0,2013,3,"N","Eddy County, North Dakota","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"623110",78,0,2013,1,"N","Eddy County, North Dakota","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"623110",78,0,2013,2,"N","Eddy County, North Dakota","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"623110",78,0,2013,3,"N","Eddy County, North Dakota","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"6232",76,0,2013,1,"N","Eddy County, North Dakota","Private","Residential mental health facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"6232",76,0,2013,2,"N","Eddy County, North Dakota","Private","Residential mental health facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"6232",76,0,2013,3,"N","Eddy County, North Dakota","Private","Residential mental health facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62321",77,0,2013,1,"N","Eddy County, North Dakota","Private","Residential disability facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62321",77,0,2013,2,"N","Eddy County, North Dakota","Private","Residential disability facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62321",77,0,2013,3,"N","Eddy County, North Dakota","Private","Residential disability facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"623210",78,0,2013,1,"N","Eddy County, North Dakota","Private","Residential disability facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"623210",78,0,2013,2,"N","Eddy County, North Dakota","Private","Residential disability facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"623210",78,0,2013,3,"N","Eddy County, North Dakota","Private","Residential disability facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"624",75,0,2013,1,"N","Eddy County, North Dakota","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"624",75,0,2013,2,"N","Eddy County, North Dakota","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"624",75,0,2013,3,"N","Eddy County, North Dakota","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"6244",76,0,2013,1,"N","Eddy County, North Dakota","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"6244",76,0,2013,2,"N","Eddy County, North Dakota","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"6244",76,0,2013,3,"N","Eddy County, North Dakota","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62441",77,0,2013,1,"N","Eddy County, North Dakota","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62441",77,0,2013,2,"N","Eddy County, North Dakota","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"62441",77,0,2013,3,"N","Eddy County, North Dakota","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"624410",78,0,2013,1,"N","Eddy County, North Dakota","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"624410",78,0,2013,2,"N","Eddy County, North Dakota","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"624410",78,0,2013,3,"N","Eddy County, North Dakota","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"71",74,0,2013,1,"N","Eddy County, North Dakota","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"71",74,0,2013,2,"N","Eddy County, North Dakota","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"71",74,0,2013,3,"N","Eddy County, North Dakota","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"713",75,0,2013,1,"N","Eddy County, North Dakota","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"713",75,0,2013,2,"N","Eddy County, North Dakota","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"713",75,0,2013,3,"N","Eddy County, North Dakota","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"7139",76,0,2013,1,"N","Eddy County, North Dakota","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"7139",76,0,2013,2,"N","Eddy County, North Dakota","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"7139",76,0,2013,3,"N","Eddy County, North Dakota","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"71391",77,0,2013,1,"N","Eddy County, North Dakota","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"71391",77,0,2013,2,"N","Eddy County, North Dakota","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"71391",77,0,2013,3,"N","Eddy County, North Dakota","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"713910",78,0,2013,1,"N","Eddy County, North Dakota","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"713910",78,0,2013,2,"N","Eddy County, North Dakota","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"713910",78,0,2013,3,"N","Eddy County, North Dakota","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"71395",77,0,2013,1,"N","Eddy County, North Dakota","Private","Bowling centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"71395",77,0,2013,2,"N","Eddy County, North Dakota","Private","Bowling centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"71395",77,0,2013,3,"N","Eddy County, North Dakota","Private","Bowling centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"713950",78,0,2013,1,"N","Eddy County, North Dakota","Private","Bowling centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"713950",78,0,2013,2,"N","Eddy County, North Dakota","Private","Bowling centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"713950",78,0,2013,3,"N","Eddy County, North Dakota","Private","Bowling centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"72",74,0,2013,1,"N","Eddy County, North Dakota","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"38027",5,"72",74,0,2013,2,"N","Eddy County, North Dakota","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"38027",5,"72",74,0,2013,3,"N","Eddy County, North Dakota","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"38027",5,"721",75,0,2013,1,"N","Eddy County, North Dakota","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"721",75,0,2013,2,"N","Eddy County, North Dakota","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"721",75,0,2013,3,"N","Eddy County, North Dakota","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"7211",76,0,2013,1,"N","Eddy County, North Dakota","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"7211",76,0,2013,2,"N","Eddy County, North Dakota","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"7211",76,0,2013,3,"N","Eddy County, North Dakota","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"72111",77,0,2013,1,"N","Eddy County, North Dakota","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"72111",77,0,2013,2,"N","Eddy County, North Dakota","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"72111",77,0,2013,3,"N","Eddy County, North Dakota","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"721110",78,0,2013,1,"N","Eddy County, North Dakota","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"721110",78,0,2013,2,"N","Eddy County, North Dakota","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"721110",78,0,2013,3,"N","Eddy County, North Dakota","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"722",75,0,2013,1,"","Eddy County, North Dakota","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,23,24,28,59896,59896,749,184
+"38027",5,"722",75,0,2013,2,"","Eddy County, North Dakota","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,27,27,22,67920,67920,1514,206
+"38027",5,"722",75,0,2013,3,"","Eddy County, North Dakota","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,21,20,20,51062,51062,1194,193
+"38027",5,"7224",76,0,2013,1,"","Eddy County, North Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,6,6,15634,15634,27,190
+"38027",5,"7224",76,0,2013,2,"","Eddy County, North Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,8,5,17537,17537,30,202
+"38027",5,"7224",76,0,2013,3,"","Eddy County, North Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,5,5,5,14155,14155,25,218
+"38027",5,"72241",77,0,2013,1,"","Eddy County, North Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,6,6,15634,15634,27,190
+"38027",5,"72241",77,0,2013,2,"","Eddy County, North Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,8,5,17537,17537,30,202
+"38027",5,"72241",77,0,2013,3,"","Eddy County, North Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,5,5,5,14155,14155,25,218
+"38027",5,"722410",78,0,2013,1,"","Eddy County, North Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,6,6,15634,15634,27,190
+"38027",5,"722410",78,0,2013,2,"","Eddy County, North Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,8,5,17537,17537,30,202
+"38027",5,"722410",78,0,2013,3,"","Eddy County, North Dakota","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,5,5,5,14155,14155,25,218
+"38027",5,"7225",76,0,2013,1,"","Eddy County, North Dakota","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,16,18,22,44262,44262,722,182
+"38027",5,"7225",76,0,2013,2,"","Eddy County, North Dakota","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,20,19,17,50383,50383,1484,208
+"38027",5,"7225",76,0,2013,3,"","Eddy County, North Dakota","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,16,15,15,36907,36907,1169,185
+"38027",5,"72251",77,0,2013,1,"","Eddy County, North Dakota","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,16,18,22,44262,44262,722,182
+"38027",5,"72251",77,0,2013,2,"","Eddy County, North Dakota","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,20,19,17,50383,50383,1484,208
+"38027",5,"72251",77,0,2013,3,"","Eddy County, North Dakota","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,16,15,15,36907,36907,1169,185
+"38027",5,"722511",78,0,2013,1,"N","Eddy County, North Dakota","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"38027",5,"722511",78,0,2013,2,"N","Eddy County, North Dakota","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"38027",5,"722511",78,0,2013,3,"N","Eddy County, North Dakota","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"38027",5,"722513",78,0,2013,1,"N","Eddy County, North Dakota","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"722513",78,0,2013,2,"N","Eddy County, North Dakota","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"722513",78,0,2013,3,"N","Eddy County, North Dakota","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"81",74,0,2013,1,"","Eddy County, North Dakota","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,24,25,24,84066,84066,1776,266
+"38027",5,"81",74,0,2013,2,"","Eddy County, North Dakota","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,27,32,31,155830,155830,4854,400
+"38027",5,"81",74,0,2013,3,"","Eddy County, North Dakota","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",9,31,35,33,228231,227808,11607,532
+"38027",5,"811",75,0,2013,1,"","Eddy County, North Dakota","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,8,8,9,55757,55757,1728,515
+"38027",5,"811",75,0,2013,2,"","Eddy County, North Dakota","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,10,16,15,122902,122902,4799,692
+"38027",5,"811",75,0,2013,3,"","Eddy County, North Dakota","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,14,18,15,199524,199101,11558,980
+"38027",5,"8111",76,0,2013,1,"N","Eddy County, North Dakota","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"38027",5,"8111",76,0,2013,2,"N","Eddy County, North Dakota","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"38027",5,"8111",76,0,2013,3,"N","Eddy County, North Dakota","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"38027",5,"81111",77,0,2013,1,"N","Eddy County, North Dakota","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"81111",77,0,2013,2,"N","Eddy County, North Dakota","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"81111",77,0,2013,3,"N","Eddy County, North Dakota","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"811111",78,0,2013,1,"N","Eddy County, North Dakota","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"811111",78,0,2013,2,"N","Eddy County, North Dakota","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"811111",78,0,2013,3,"N","Eddy County, North Dakota","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"81112",77,0,2013,1,"N","Eddy County, North Dakota","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"81112",77,0,2013,2,"N","Eddy County, North Dakota","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"81112",77,0,2013,3,"N","Eddy County, North Dakota","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"811121",78,0,2013,1,"N","Eddy County, North Dakota","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"811121",78,0,2013,2,"N","Eddy County, North Dakota","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"811121",78,0,2013,3,"N","Eddy County, North Dakota","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"8113",76,0,2013,1,"N","Eddy County, North Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"8113",76,0,2013,2,"N","Eddy County, North Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"8113",76,0,2013,3,"N","Eddy County, North Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"81131",77,0,2013,1,"N","Eddy County, North Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"81131",77,0,2013,2,"N","Eddy County, North Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"81131",77,0,2013,3,"N","Eddy County, North Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"811310",78,0,2013,1,"N","Eddy County, North Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"811310",78,0,2013,2,"N","Eddy County, North Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"811310",78,0,2013,3,"N","Eddy County, North Dakota","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"812",75,0,2013,1,"N","Eddy County, North Dakota","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"812",75,0,2013,2,"N","Eddy County, North Dakota","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"812",75,0,2013,3,"N","Eddy County, North Dakota","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"8121",76,0,2013,1,"N","Eddy County, North Dakota","Private","Personal care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"8121",76,0,2013,2,"N","Eddy County, North Dakota","Private","Personal care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"8121",76,0,2013,3,"N","Eddy County, North Dakota","Private","Personal care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"81211",77,0,2013,1,"N","Eddy County, North Dakota","Private","Hair, nail, and skin care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"81211",77,0,2013,2,"N","Eddy County, North Dakota","Private","Hair, nail, and skin care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"81211",77,0,2013,3,"N","Eddy County, North Dakota","Private","Hair, nail, and skin care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"812112",78,0,2013,1,"N","Eddy County, North Dakota","Private","Beauty salons","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"812112",78,0,2013,2,"N","Eddy County, North Dakota","Private","Beauty salons","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"812112",78,0,2013,3,"N","Eddy County, North Dakota","Private","Beauty salons","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"813",75,0,2013,1,"N","Eddy County, North Dakota","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"813",75,0,2013,2,"N","Eddy County, North Dakota","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"813",75,0,2013,3,"N","Eddy County, North Dakota","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"8134",76,0,2013,1,"N","Eddy County, North Dakota","Private","Civic and social organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"8134",76,0,2013,2,"N","Eddy County, North Dakota","Private","Civic and social organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"8134",76,0,2013,3,"N","Eddy County, North Dakota","Private","Civic and social organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"81341",77,0,2013,1,"N","Eddy County, North Dakota","Private","Civic and social organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"81341",77,0,2013,2,"N","Eddy County, North Dakota","Private","Civic and social organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"81341",77,0,2013,3,"N","Eddy County, North Dakota","Private","Civic and social organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"38027",5,"813410",78,0,2013,1,"N","Eddy County, North Dakota","Private","Civic and social organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"813410",78,0,2013,2,"N","Eddy County, North Dakota","Private","Civic and social organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"38027",5,"813410",78,0,2013,3,"N","Eddy County, North Dakota","Private","Civic and social organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

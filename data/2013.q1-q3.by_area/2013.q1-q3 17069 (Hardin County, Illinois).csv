@@ -1,0 +1,683 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"17069",0,"10",70,0,2013,1,"","Hardin County, Illinois","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",70,870,874,876,7135236,4881706,166374,628
+"17069",0,"10",70,0,2013,2,"","Hardin County, Illinois","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",70,878,891,834,6902460,2481836,81211,612
+"17069",0,"10",70,0,2013,3,"","Hardin County, Illinois","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",70,861,873,885,6992508,1406194,45320,616
+"17069",1,"10",71,0,2013,1,"","Hardin County, Illinois","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,9,10,9,81323,0,0,670
+"17069",1,"10",71,0,2013,2,"","Hardin County, Illinois","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,8,8,9,71740,0,0,662
+"17069",1,"10",71,0,2013,3,"","Hardin County, Illinois","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,9,8,9,86734,0,0,770
+"17069",1,"102",72,0,2013,1,"","Hardin County, Illinois","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,9,10,9,81323,0,0,670
+"17069",1,"102",72,0,2013,2,"","Hardin County, Illinois","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,8,8,9,71740,0,0,662
+"17069",1,"102",72,0,2013,3,"","Hardin County, Illinois","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,9,8,9,86734,0,0,770
+"17069",1,"1021",73,0,2013,1,"","Hardin County, Illinois","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,9,10,9,81323,0,0,670
+"17069",1,"1021",73,0,2013,2,"","Hardin County, Illinois","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,8,8,9,71740,0,0,662
+"17069",1,"1021",73,0,2013,3,"","Hardin County, Illinois","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,9,8,9,86734,0,0,770
+"17069",1,"1028",73,0,2013,1,"","Hardin County, Illinois","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"1028",73,0,2013,2,"","Hardin County, Illinois","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"1028",73,0,2013,3,"","Hardin County, Illinois","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"48-49",74,0,2013,1,"","Hardin County, Illinois","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,9,10,9,81323,0,0,670
+"17069",1,"48-49",74,0,2013,2,"","Hardin County, Illinois","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,8,8,9,71740,0,0,662
+"17069",1,"48-49",74,0,2013,3,"","Hardin County, Illinois","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,9,8,9,86734,0,0,770
+"17069",1,"491",75,0,2013,1,"","Hardin County, Illinois","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,9,10,9,81323,0,0,670
+"17069",1,"491",75,0,2013,2,"","Hardin County, Illinois","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,8,9,71740,0,0,662
+"17069",1,"491",75,0,2013,3,"","Hardin County, Illinois","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,9,8,9,86734,0,0,770
+"17069",1,"4911",76,0,2013,1,"","Hardin County, Illinois","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,10,9,81323,0,0,670
+"17069",1,"4911",76,0,2013,2,"","Hardin County, Illinois","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,8,9,71740,0,0,662
+"17069",1,"4911",76,0,2013,3,"","Hardin County, Illinois","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,8,9,86734,0,0,770
+"17069",1,"49111",77,0,2013,1,"","Hardin County, Illinois","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,10,9,81323,0,0,670
+"17069",1,"49111",77,0,2013,2,"","Hardin County, Illinois","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,8,8,9,71740,0,0,662
+"17069",1,"49111",77,0,2013,3,"","Hardin County, Illinois","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,8,9,86734,0,0,770
+"17069",1,"491110",78,0,2013,1,"","Hardin County, Illinois","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,10,9,81323,0,0,670
+"17069",1,"491110",78,0,2013,2,"","Hardin County, Illinois","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,8,8,9,71740,0,0,662
+"17069",1,"491110",78,0,2013,3,"","Hardin County, Illinois","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,8,9,86734,0,0,770
+"17069",1,"92",74,0,2013,1,"","Hardin County, Illinois","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"92",74,0,2013,2,"","Hardin County, Illinois","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"92",74,0,2013,3,"","Hardin County, Illinois","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"926",75,0,2013,1,"","Hardin County, Illinois","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"926",75,0,2013,2,"","Hardin County, Illinois","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"926",75,0,2013,3,"","Hardin County, Illinois","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"9261",76,0,2013,1,"","Hardin County, Illinois","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"9261",76,0,2013,2,"","Hardin County, Illinois","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"9261",76,0,2013,3,"","Hardin County, Illinois","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"92611",77,0,2013,1,"","Hardin County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"92611",77,0,2013,2,"","Hardin County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"92611",77,0,2013,3,"","Hardin County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"926110",78,0,2013,1,"","Hardin County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"926110",78,0,2013,2,"","Hardin County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",1,"926110",78,0,2013,3,"","Hardin County, Illinois","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"10",71,0,2013,1,"","Hardin County, Illinois","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,180,184,187,990873,304359,17938,415
+"17069",3,"10",71,0,2013,2,"","Hardin County, Illinois","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,187,192,163,1042966,234702,13105,444
+"17069",3,"10",71,0,2013,3,"","Hardin County, Illinois","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,158,161,170,959260,199849,9116,453
+"17069",3,"102",72,0,2013,1,"","Hardin County, Illinois","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,180,184,187,990873,304359,17938,415
+"17069",3,"102",72,0,2013,2,"","Hardin County, Illinois","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,187,192,163,1042966,234702,13105,444
+"17069",3,"102",72,0,2013,3,"","Hardin County, Illinois","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,158,161,170,959260,199849,9116,453
+"17069",3,"1021",73,0,2013,1,"N","Hardin County, Illinois","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"1021",73,0,2013,2,"N","Hardin County, Illinois","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"1021",73,0,2013,3,"N","Hardin County, Illinois","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"1025",73,0,2013,1,"N","Hardin County, Illinois","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"1025",73,0,2013,2,"N","Hardin County, Illinois","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"1025",73,0,2013,3,"N","Hardin County, Illinois","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"1028",73,0,2013,1,"","Hardin County, Illinois","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,80,78,78,298169,286598,17272,292
+"17069",3,"1028",73,0,2013,2,"","Hardin County, Illinois","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,73,74,75,311769,208821,12100,324
+"17069",3,"1028",73,0,2013,3,"","Hardin County, Illinois","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,73,72,71,298048,175595,8118,318
+"17069",3,"22",74,0,2013,1,"N","Hardin County, Illinois","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"22",74,0,2013,2,"N","Hardin County, Illinois","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"22",74,0,2013,3,"N","Hardin County, Illinois","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"221",75,0,2013,1,"N","Hardin County, Illinois","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"221",75,0,2013,2,"N","Hardin County, Illinois","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"221",75,0,2013,3,"N","Hardin County, Illinois","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"2213",76,0,2013,1,"N","Hardin County, Illinois","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"2213",76,0,2013,2,"N","Hardin County, Illinois","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"2213",76,0,2013,3,"N","Hardin County, Illinois","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"22131",77,0,2013,1,"N","Hardin County, Illinois","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"22131",77,0,2013,2,"N","Hardin County, Illinois","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"22131",77,0,2013,3,"N","Hardin County, Illinois","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"221310",78,0,2013,1,"N","Hardin County, Illinois","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"221310",78,0,2013,2,"N","Hardin County, Illinois","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"221310",78,0,2013,3,"N","Hardin County, Illinois","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"61",74,0,2013,1,"N","Hardin County, Illinois","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"61",74,0,2013,2,"N","Hardin County, Illinois","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"61",74,0,2013,3,"N","Hardin County, Illinois","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"611",75,0,2013,1,"N","Hardin County, Illinois","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"611",75,0,2013,2,"N","Hardin County, Illinois","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"611",75,0,2013,3,"N","Hardin County, Illinois","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"6111",76,0,2013,1,"N","Hardin County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"6111",76,0,2013,2,"N","Hardin County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"6111",76,0,2013,3,"N","Hardin County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"61111",77,0,2013,1,"N","Hardin County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"61111",77,0,2013,2,"N","Hardin County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"61111",77,0,2013,3,"N","Hardin County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"611110",78,0,2013,1,"N","Hardin County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"611110",78,0,2013,2,"N","Hardin County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"611110",78,0,2013,3,"N","Hardin County, Illinois","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"92",74,0,2013,1,"","Hardin County, Illinois","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,80,78,78,298169,286598,17272,292
+"17069",3,"92",74,0,2013,2,"","Hardin County, Illinois","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,73,74,75,311769,208821,12100,324
+"17069",3,"92",74,0,2013,3,"","Hardin County, Illinois","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,73,72,71,298048,175595,8118,318
+"17069",3,"921",75,0,2013,1,"","Hardin County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,72,71,72,247044,235473,13412,265
+"17069",3,"921",75,0,2013,2,"","Hardin County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,67,68,69,254084,181260,10019,287
+"17069",3,"921",75,0,2013,3,"","Hardin County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,67,65,65,251876,170122,7822,295
+"17069",3,"9211",76,0,2013,1,"","Hardin County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,72,71,72,247044,235473,13412,265
+"17069",3,"9211",76,0,2013,2,"","Hardin County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,67,68,69,254084,181260,10019,287
+"17069",3,"9211",76,0,2013,3,"","Hardin County, Illinois","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,67,65,65,251876,170122,7822,295
+"17069",3,"92111",77,0,2013,1,"N","Hardin County, Illinois","Local Government","Executive offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"92111",77,0,2013,2,"N","Hardin County, Illinois","Local Government","Executive offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"92111",77,0,2013,3,"N","Hardin County, Illinois","Local Government","Executive offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"921110",78,0,2013,1,"N","Hardin County, Illinois","Local Government","Executive offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"921110",78,0,2013,2,"N","Hardin County, Illinois","Local Government","Executive offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"921110",78,0,2013,3,"N","Hardin County, Illinois","Local Government","Executive offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"92114",77,0,2013,1,"N","Hardin County, Illinois","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"92114",77,0,2013,2,"N","Hardin County, Illinois","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"92114",77,0,2013,3,"N","Hardin County, Illinois","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"921140",78,0,2013,1,"N","Hardin County, Illinois","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"921140",78,0,2013,2,"N","Hardin County, Illinois","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"921140",78,0,2013,3,"N","Hardin County, Illinois","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",3,"922",75,0,2013,1,"N","Hardin County, Illinois","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"922",75,0,2013,2,"N","Hardin County, Illinois","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"922",75,0,2013,3,"N","Hardin County, Illinois","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"9221",76,0,2013,1,"N","Hardin County, Illinois","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"9221",76,0,2013,2,"N","Hardin County, Illinois","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"9221",76,0,2013,3,"N","Hardin County, Illinois","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"92216",77,0,2013,1,"N","Hardin County, Illinois","Local Government","Fire protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"92216",77,0,2013,2,"N","Hardin County, Illinois","Local Government","Fire protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"92216",77,0,2013,3,"N","Hardin County, Illinois","Local Government","Fire protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"922160",78,0,2013,1,"N","Hardin County, Illinois","Local Government","Fire protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"922160",78,0,2013,2,"N","Hardin County, Illinois","Local Government","Fire protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"922160",78,0,2013,3,"N","Hardin County, Illinois","Local Government","Fire protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"925",75,0,2013,1,"N","Hardin County, Illinois","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"925",75,0,2013,2,"N","Hardin County, Illinois","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"925",75,0,2013,3,"N","Hardin County, Illinois","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"9251",76,0,2013,1,"N","Hardin County, Illinois","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"9251",76,0,2013,2,"N","Hardin County, Illinois","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"9251",76,0,2013,3,"N","Hardin County, Illinois","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"92511",77,0,2013,1,"N","Hardin County, Illinois","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"92511",77,0,2013,2,"N","Hardin County, Illinois","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"92511",77,0,2013,3,"N","Hardin County, Illinois","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"925110",78,0,2013,1,"N","Hardin County, Illinois","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"925110",78,0,2013,2,"N","Hardin County, Illinois","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",3,"925110",78,0,2013,3,"N","Hardin County, Illinois","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"10",71,0,2013,1,"","Hardin County, Illinois","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",58,681,680,680,6063040,4577347,148436,686
+"17069",5,"10",71,0,2013,2,"","Hardin County, Illinois","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",58,683,691,662,5787754,2247134,68106,656
+"17069",5,"10",71,0,2013,3,"","Hardin County, Illinois","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",58,694,704,706,5946514,1206345,36204,652
+"17069",5,"101",72,0,2013,1,"","Hardin County, Illinois","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",8,113,116,114,1821825,1134246,67602,1226
+"17069",5,"101",72,0,2013,2,"","Hardin County, Illinois","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",8,116,117,118,1600736,320990,16185,1052
+"17069",5,"101",72,0,2013,3,"","Hardin County, Illinois","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",8,119,119,118,1642725,86622,4843,1065
+"17069",5,"1011",73,0,2013,1,"","Hardin County, Illinois","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",4,92,95,94,1569466,908272,49607,1289
+"17069",5,"1011",73,0,2013,2,"","Hardin County, Illinois","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",4,96,97,96,1345027,260956,11587,1074
+"17069",5,"1011",73,0,2013,3,"","Hardin County, Illinois","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",4,98,99,99,1404239,86515,4833,1095
+"17069",5,"1012",73,0,2013,1,"N","Hardin County, Illinois","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"1012",73,0,2013,2,"N","Hardin County, Illinois","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"1012",73,0,2013,3,"N","Hardin County, Illinois","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"1013",73,0,2013,1,"N","Hardin County, Illinois","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"1013",73,0,2013,2,"N","Hardin County, Illinois","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"1013",73,0,2013,3,"N","Hardin County, Illinois","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"102",72,0,2013,1,"","Hardin County, Illinois","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",50,568,564,566,4241215,3443101,80834,576
+"17069",5,"102",72,0,2013,2,"","Hardin County, Illinois","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",50,567,574,544,4187018,1926144,51921,573
+"17069",5,"102",72,0,2013,3,"","Hardin County, Illinois","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",50,575,585,588,4303789,1119723,31361,568
+"17069",5,"1021",73,0,2013,1,"","Hardin County, Illinois","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",20,164,165,159,1560090,1207985,28243,738
+"17069",5,"1021",73,0,2013,2,"","Hardin County, Illinois","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",20,167,164,143,1724814,518335,16951,840
+"17069",5,"1021",73,0,2013,3,"","Hardin County, Illinois","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",20,150,170,164,1643991,230916,8331,784
+"17069",5,"1022",73,0,2013,1,"N","Hardin County, Illinois","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"1022",73,0,2013,2,"N","Hardin County, Illinois","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"1022",73,0,2013,3,"N","Hardin County, Illinois","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"1023",73,0,2013,1,"","Hardin County, Illinois","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,42,39,38,300029,246313,3525,582
+"17069",5,"1023",73,0,2013,2,"","Hardin County, Illinois","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,38,39,39,294590,163791,1971,586
+"17069",5,"1023",73,0,2013,3,"","Hardin County, Illinois","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,39,38,38,262246,65213,754,526
+"17069",5,"1024",73,0,2013,1,"N","Hardin County, Illinois","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"1024",73,0,2013,2,"N","Hardin County, Illinois","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"1024",73,0,2013,3,"N","Hardin County, Illinois","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"1025",73,0,2013,1,"","Hardin County, Illinois","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,328,327,323,2278456,1899388,46797,538
+"17069",5,"1025",73,0,2013,2,"","Hardin County, Illinois","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,315,319,311,2032309,1122417,28895,496
+"17069",5,"1025",73,0,2013,3,"","Hardin County, Illinois","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,330,322,335,2255198,716958,18868,527
+"17069",5,"1026",73,0,2013,1,"","Hardin County, Illinois","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",9,22,21,34,56045,42820,1576,168
+"17069",5,"1026",73,0,2013,2,"","Hardin County, Illinois","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",9,35,40,39,89859,78759,3364,182
+"17069",5,"1026",73,0,2013,3,"","Hardin County, Illinois","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",9,45,44,40,101416,83947,3283,181
+"17069",5,"1027",73,0,2013,1,"","Hardin County, Illinois","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,8,8,8,31159,31159,343,300
+"17069",5,"1027",73,0,2013,2,"","Hardin County, Illinois","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,8,8,8,31348,28744,453,301
+"17069",5,"1027",73,0,2013,3,"","Hardin County, Illinois","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,7,7,7,27734,15376,85,305
+"17069",5,"21",74,0,2013,1,"","Hardin County, Illinois","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,92,95,94,1569466,908272,49607,1289
+"17069",5,"21",74,0,2013,2,"","Hardin County, Illinois","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,96,97,96,1345027,260956,11587,1074
+"17069",5,"21",74,0,2013,3,"","Hardin County, Illinois","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,98,99,99,1404239,86515,4833,1095
+"17069",5,"212",75,0,2013,1,"N","Hardin County, Illinois","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"212",75,0,2013,2,"N","Hardin County, Illinois","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"212",75,0,2013,3,"N","Hardin County, Illinois","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"2123",76,0,2013,1,"N","Hardin County, Illinois","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"2123",76,0,2013,2,"N","Hardin County, Illinois","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"2123",76,0,2013,3,"N","Hardin County, Illinois","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"21231",77,0,2013,1,"N","Hardin County, Illinois","Private","Stone mining and quarrying","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"21231",77,0,2013,2,"N","Hardin County, Illinois","Private","Stone mining and quarrying","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"21231",77,0,2013,3,"N","Hardin County, Illinois","Private","Stone mining and quarrying","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"212312",78,0,2013,1,"N","Hardin County, Illinois","Private","Crushed and broken limestone mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"212312",78,0,2013,2,"N","Hardin County, Illinois","Private","Crushed and broken limestone mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"212312",78,0,2013,3,"N","Hardin County, Illinois","Private","Crushed and broken limestone mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"212319",78,0,2013,1,"N","Hardin County, Illinois","Private","Other crushed and broken stone mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"212319",78,0,2013,2,"N","Hardin County, Illinois","Private","Other crushed and broken stone mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"212319",78,0,2013,3,"N","Hardin County, Illinois","Private","Other crushed and broken stone mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"213",75,0,2013,1,"N","Hardin County, Illinois","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"213",75,0,2013,2,"N","Hardin County, Illinois","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"213",75,0,2013,3,"N","Hardin County, Illinois","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"2131",76,0,2013,1,"N","Hardin County, Illinois","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"2131",76,0,2013,2,"N","Hardin County, Illinois","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"2131",76,0,2013,3,"N","Hardin County, Illinois","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"21311",77,0,2013,1,"N","Hardin County, Illinois","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"21311",77,0,2013,2,"N","Hardin County, Illinois","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"21311",77,0,2013,3,"N","Hardin County, Illinois","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"213115",78,0,2013,1,"N","Hardin County, Illinois","Private","Support activities for nonmetallic minerals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"213115",78,0,2013,2,"N","Hardin County, Illinois","Private","Support activities for nonmetallic minerals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"213115",78,0,2013,3,"N","Hardin County, Illinois","Private","Support activities for nonmetallic minerals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"22",74,0,2013,1,"N","Hardin County, Illinois","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"22",74,0,2013,2,"N","Hardin County, Illinois","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"22",74,0,2013,3,"N","Hardin County, Illinois","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"221",75,0,2013,1,"N","Hardin County, Illinois","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"221",75,0,2013,2,"N","Hardin County, Illinois","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"221",75,0,2013,3,"N","Hardin County, Illinois","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"2211",76,0,2013,1,"N","Hardin County, Illinois","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"2211",76,0,2013,2,"N","Hardin County, Illinois","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"2211",76,0,2013,3,"N","Hardin County, Illinois","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"22112",77,0,2013,1,"N","Hardin County, Illinois","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"22112",77,0,2013,2,"N","Hardin County, Illinois","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"22112",77,0,2013,3,"N","Hardin County, Illinois","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"221122",78,0,2013,1,"N","Hardin County, Illinois","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"221122",78,0,2013,2,"N","Hardin County, Illinois","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"221122",78,0,2013,3,"N","Hardin County, Illinois","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"23",74,0,2013,1,"N","Hardin County, Illinois","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"23",74,0,2013,2,"N","Hardin County, Illinois","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"23",74,0,2013,3,"N","Hardin County, Illinois","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"236",75,0,2013,1,"N","Hardin County, Illinois","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"236",75,0,2013,2,"N","Hardin County, Illinois","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"236",75,0,2013,3,"N","Hardin County, Illinois","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"2362",76,0,2013,1,"N","Hardin County, Illinois","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"2362",76,0,2013,2,"N","Hardin County, Illinois","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"2362",76,0,2013,3,"N","Hardin County, Illinois","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"23622",77,0,2013,1,"N","Hardin County, Illinois","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"23622",77,0,2013,2,"N","Hardin County, Illinois","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"23622",77,0,2013,3,"N","Hardin County, Illinois","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"236220",78,0,2013,1,"N","Hardin County, Illinois","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"236220",78,0,2013,2,"N","Hardin County, Illinois","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"236220",78,0,2013,3,"N","Hardin County, Illinois","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"238",75,0,2013,1,"N","Hardin County, Illinois","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"238",75,0,2013,2,"N","Hardin County, Illinois","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"238",75,0,2013,3,"N","Hardin County, Illinois","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"2389",76,0,2013,1,"N","Hardin County, Illinois","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"2389",76,0,2013,2,"N","Hardin County, Illinois","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"2389",76,0,2013,3,"N","Hardin County, Illinois","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"23891",77,0,2013,1,"N","Hardin County, Illinois","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"23891",77,0,2013,2,"N","Hardin County, Illinois","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"23891",77,0,2013,3,"N","Hardin County, Illinois","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"238912",78,0,2013,1,"N","Hardin County, Illinois","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"238912",78,0,2013,2,"N","Hardin County, Illinois","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"238912",78,0,2013,3,"N","Hardin County, Illinois","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"23899",77,0,2013,1,"N","Hardin County, Illinois","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"23899",77,0,2013,2,"N","Hardin County, Illinois","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"23899",77,0,2013,3,"N","Hardin County, Illinois","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"238991",78,0,2013,1,"N","Hardin County, Illinois","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"238991",78,0,2013,2,"N","Hardin County, Illinois","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"238991",78,0,2013,3,"N","Hardin County, Illinois","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"31-33",74,0,2013,1,"N","Hardin County, Illinois","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"31-33",74,0,2013,2,"N","Hardin County, Illinois","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"31-33",74,0,2013,3,"N","Hardin County, Illinois","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"327",75,0,2013,1,"N","Hardin County, Illinois","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"327",75,0,2013,2,"N","Hardin County, Illinois","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"327",75,0,2013,3,"N","Hardin County, Illinois","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"3271",76,0,2013,1,"N","Hardin County, Illinois","Private","Clay product and refractory manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"3271",76,0,2013,2,"N","Hardin County, Illinois","Private","Clay product and refractory manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"3271",76,0,2013,3,"N","Hardin County, Illinois","Private","Clay product and refractory manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"32712",77,0,2013,1,"N","Hardin County, Illinois","Private","Clay building material and refractories mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"32712",77,0,2013,2,"N","Hardin County, Illinois","Private","Clay building material and refractories mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"32712",77,0,2013,3,"N","Hardin County, Illinois","Private","Clay building material and refractories mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"327120",78,0,2013,1,"N","Hardin County, Illinois","Private","Clay building material and refractories mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"327120",78,0,2013,2,"N","Hardin County, Illinois","Private","Clay building material and refractories mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"327120",78,0,2013,3,"N","Hardin County, Illinois","Private","Clay building material and refractories mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"42",74,0,2013,1,"N","Hardin County, Illinois","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"42",74,0,2013,2,"N","Hardin County, Illinois","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"42",74,0,2013,3,"N","Hardin County, Illinois","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"423",75,0,2013,1,"N","Hardin County, Illinois","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"423",75,0,2013,2,"N","Hardin County, Illinois","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"423",75,0,2013,3,"N","Hardin County, Illinois","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4235",76,0,2013,1,"N","Hardin County, Illinois","Private","Metal and mineral merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4235",76,0,2013,2,"N","Hardin County, Illinois","Private","Metal and mineral merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4235",76,0,2013,3,"N","Hardin County, Illinois","Private","Metal and mineral merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"42352",77,0,2013,1,"N","Hardin County, Illinois","Private","Coal and other mineral merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"42352",77,0,2013,2,"N","Hardin County, Illinois","Private","Coal and other mineral merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"42352",77,0,2013,3,"N","Hardin County, Illinois","Private","Coal and other mineral merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"423520",78,0,2013,1,"N","Hardin County, Illinois","Private","Coal and other mineral merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"423520",78,0,2013,2,"N","Hardin County, Illinois","Private","Coal and other mineral merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"423520",78,0,2013,3,"N","Hardin County, Illinois","Private","Coal and other mineral merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"44-45",74,0,2013,1,"","Hardin County, Illinois","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,58,57,59,259669,235295,6122,344
+"17069",5,"44-45",74,0,2013,2,"","Hardin County, Illinois","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,57,58,55,255637,189888,5581,347
+"17069",5,"44-45",74,0,2013,3,"","Hardin County, Illinois","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,56,60,56,275759,119084,3923,370
+"17069",5,"444",75,0,2013,1,"N","Hardin County, Illinois","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"444",75,0,2013,2,"N","Hardin County, Illinois","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"444",75,0,2013,3,"N","Hardin County, Illinois","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4441",76,0,2013,1,"N","Hardin County, Illinois","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4441",76,0,2013,2,"N","Hardin County, Illinois","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4441",76,0,2013,3,"N","Hardin County, Illinois","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"44411",77,0,2013,1,"N","Hardin County, Illinois","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"44411",77,0,2013,2,"N","Hardin County, Illinois","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"44411",77,0,2013,3,"N","Hardin County, Illinois","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"444110",78,0,2013,1,"N","Hardin County, Illinois","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"444110",78,0,2013,2,"N","Hardin County, Illinois","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"444110",78,0,2013,3,"N","Hardin County, Illinois","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"445",75,0,2013,1,"N","Hardin County, Illinois","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"445",75,0,2013,2,"N","Hardin County, Illinois","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"445",75,0,2013,3,"N","Hardin County, Illinois","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"4451",76,0,2013,1,"N","Hardin County, Illinois","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4451",76,0,2013,2,"N","Hardin County, Illinois","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4451",76,0,2013,3,"N","Hardin County, Illinois","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"44511",77,0,2013,1,"N","Hardin County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"44511",77,0,2013,2,"N","Hardin County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"44511",77,0,2013,3,"N","Hardin County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"445110",78,0,2013,1,"N","Hardin County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"445110",78,0,2013,2,"N","Hardin County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"445110",78,0,2013,3,"N","Hardin County, Illinois","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4453",76,0,2013,1,"N","Hardin County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4453",76,0,2013,2,"N","Hardin County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4453",76,0,2013,3,"N","Hardin County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"44531",77,0,2013,1,"N","Hardin County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"44531",77,0,2013,2,"N","Hardin County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"44531",77,0,2013,3,"N","Hardin County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"445310",78,0,2013,1,"N","Hardin County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"445310",78,0,2013,2,"N","Hardin County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"445310",78,0,2013,3,"N","Hardin County, Illinois","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"446",75,0,2013,1,"N","Hardin County, Illinois","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"446",75,0,2013,2,"N","Hardin County, Illinois","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"446",75,0,2013,3,"N","Hardin County, Illinois","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4461",76,0,2013,1,"N","Hardin County, Illinois","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4461",76,0,2013,2,"N","Hardin County, Illinois","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4461",76,0,2013,3,"N","Hardin County, Illinois","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"44611",77,0,2013,1,"N","Hardin County, Illinois","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"44611",77,0,2013,2,"N","Hardin County, Illinois","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"44611",77,0,2013,3,"N","Hardin County, Illinois","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"446110",78,0,2013,1,"N","Hardin County, Illinois","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"446110",78,0,2013,2,"N","Hardin County, Illinois","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"446110",78,0,2013,3,"N","Hardin County, Illinois","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"447",75,0,2013,1,"","Hardin County, Illinois","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,24,23,23,78026,77463,3518,257
+"17069",5,"447",75,0,2013,2,"","Hardin County, Illinois","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,23,23,20,83767,75292,3375,293
+"17069",5,"447",75,0,2013,3,"","Hardin County, Illinois","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,21,22,21,87511,56812,2421,316
+"17069",5,"4471",76,0,2013,1,"","Hardin County, Illinois","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,24,23,23,78026,77463,3518,257
+"17069",5,"4471",76,0,2013,2,"","Hardin County, Illinois","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,23,23,20,83767,75292,3375,293
+"17069",5,"4471",76,0,2013,3,"","Hardin County, Illinois","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,21,22,21,87511,56812,2421,316
+"17069",5,"44711",77,0,2013,1,"","Hardin County, Illinois","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,24,23,23,78026,77463,3518,257
+"17069",5,"44711",77,0,2013,2,"","Hardin County, Illinois","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,23,23,20,83767,75292,3375,293
+"17069",5,"44711",77,0,2013,3,"","Hardin County, Illinois","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,21,22,21,87511,56812,2421,316
+"17069",5,"447110",78,0,2013,1,"","Hardin County, Illinois","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,24,23,23,78026,77463,3518,257
+"17069",5,"447110",78,0,2013,2,"","Hardin County, Illinois","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,23,23,20,83767,75292,3375,293
+"17069",5,"447110",78,0,2013,3,"","Hardin County, Illinois","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,21,22,21,87511,56812,2421,316
+"17069",5,"452",75,0,2013,1,"N","Hardin County, Illinois","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"452",75,0,2013,2,"N","Hardin County, Illinois","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"452",75,0,2013,3,"N","Hardin County, Illinois","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4529",76,0,2013,1,"N","Hardin County, Illinois","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4529",76,0,2013,2,"N","Hardin County, Illinois","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4529",76,0,2013,3,"N","Hardin County, Illinois","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"45299",77,0,2013,1,"N","Hardin County, Illinois","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"45299",77,0,2013,2,"N","Hardin County, Illinois","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"45299",77,0,2013,3,"N","Hardin County, Illinois","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"452990",78,0,2013,1,"N","Hardin County, Illinois","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"452990",78,0,2013,2,"N","Hardin County, Illinois","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"452990",78,0,2013,3,"N","Hardin County, Illinois","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"453",75,0,2013,1,"N","Hardin County, Illinois","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"453",75,0,2013,2,"N","Hardin County, Illinois","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"453",75,0,2013,3,"N","Hardin County, Illinois","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4531",76,0,2013,1,"N","Hardin County, Illinois","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4531",76,0,2013,2,"N","Hardin County, Illinois","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"4531",76,0,2013,3,"N","Hardin County, Illinois","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"45311",77,0,2013,1,"N","Hardin County, Illinois","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"45311",77,0,2013,2,"N","Hardin County, Illinois","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"45311",77,0,2013,3,"N","Hardin County, Illinois","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"453110",78,0,2013,1,"N","Hardin County, Illinois","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"453110",78,0,2013,2,"N","Hardin County, Illinois","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"453110",78,0,2013,3,"N","Hardin County, Illinois","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"48-49",74,0,2013,1,"","Hardin County, Illinois","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",9,99,101,93,1190907,903488,20098,938
+"17069",5,"48-49",74,0,2013,2,"","Hardin County, Illinois","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",9,103,99,80,1372447,318174,11068,1123
+"17069",5,"48-49",74,0,2013,3,"","Hardin County, Illinois","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",9,87,103,102,1271291,103985,4177,1005
+"17069",5,"483",75,0,2013,1,"N","Hardin County, Illinois","Private","Water transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"483",75,0,2013,2,"N","Hardin County, Illinois","Private","Water transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"483",75,0,2013,3,"N","Hardin County, Illinois","Private","Water transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"4832",76,0,2013,1,"N","Hardin County, Illinois","Private","Inland water transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"4832",76,0,2013,2,"N","Hardin County, Illinois","Private","Inland water transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"4832",76,0,2013,3,"N","Hardin County, Illinois","Private","Inland water transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"48321",77,0,2013,1,"N","Hardin County, Illinois","Private","Inland water transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"48321",77,0,2013,2,"N","Hardin County, Illinois","Private","Inland water transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"48321",77,0,2013,3,"N","Hardin County, Illinois","Private","Inland water transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"483211",78,0,2013,1,"N","Hardin County, Illinois","Private","Inland water freight transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"483211",78,0,2013,2,"N","Hardin County, Illinois","Private","Inland water freight transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"483211",78,0,2013,3,"N","Hardin County, Illinois","Private","Inland water freight transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"483212",78,0,2013,1,"N","Hardin County, Illinois","Private","Inland water passenger transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"483212",78,0,2013,2,"N","Hardin County, Illinois","Private","Inland water passenger transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"483212",78,0,2013,3,"N","Hardin County, Illinois","Private","Inland water passenger transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"484",75,0,2013,1,"N","Hardin County, Illinois","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"484",75,0,2013,2,"N","Hardin County, Illinois","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"484",75,0,2013,3,"N","Hardin County, Illinois","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"4842",76,0,2013,1,"N","Hardin County, Illinois","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"4842",76,0,2013,2,"N","Hardin County, Illinois","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"4842",76,0,2013,3,"N","Hardin County, Illinois","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"48422",77,0,2013,1,"N","Hardin County, Illinois","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"48422",77,0,2013,2,"N","Hardin County, Illinois","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"48422",77,0,2013,3,"N","Hardin County, Illinois","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"484220",78,0,2013,1,"N","Hardin County, Illinois","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"484220",78,0,2013,2,"N","Hardin County, Illinois","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"484220",78,0,2013,3,"N","Hardin County, Illinois","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"48423",77,0,2013,1,"N","Hardin County, Illinois","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"48423",77,0,2013,2,"N","Hardin County, Illinois","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"48423",77,0,2013,3,"N","Hardin County, Illinois","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"484230",78,0,2013,1,"N","Hardin County, Illinois","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"484230",78,0,2013,2,"N","Hardin County, Illinois","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"484230",78,0,2013,3,"N","Hardin County, Illinois","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"485",75,0,2013,1,"","Hardin County, Illinois","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,18,18,19,69859,68343,5941,293
+"17069",5,"485",75,0,2013,2,"","Hardin County, Illinois","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,18,18,4,55437,43077,3637,320
+"17069",5,"485",75,0,2013,3,"","Hardin County, Illinois","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,1,21,17,32948,20705,1704,195
+"17069",5,"4854",76,0,2013,1,"","Hardin County, Illinois","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,18,18,19,69859,68343,5941,293
+"17069",5,"4854",76,0,2013,2,"","Hardin County, Illinois","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,18,18,4,55437,43077,3637,320
+"17069",5,"4854",76,0,2013,3,"","Hardin County, Illinois","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,1,21,17,32948,20705,1704,195
+"17069",5,"48541",77,0,2013,1,"","Hardin County, Illinois","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,18,18,19,69859,68343,5941,293
+"17069",5,"48541",77,0,2013,2,"","Hardin County, Illinois","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,18,18,4,55437,43077,3637,320
+"17069",5,"48541",77,0,2013,3,"","Hardin County, Illinois","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,1,21,17,32948,20705,1704,195
+"17069",5,"485410",78,0,2013,1,"","Hardin County, Illinois","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,18,18,19,69859,68343,5941,293
+"17069",5,"485410",78,0,2013,2,"","Hardin County, Illinois","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,18,18,4,55437,43077,3637,320
+"17069",5,"485410",78,0,2013,3,"","Hardin County, Illinois","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,1,21,17,32948,20705,1704,195
+"17069",5,"488",75,0,2013,1,"N","Hardin County, Illinois","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"488",75,0,2013,2,"N","Hardin County, Illinois","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"488",75,0,2013,3,"N","Hardin County, Illinois","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"4883",76,0,2013,1,"N","Hardin County, Illinois","Private","Support activities for water transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"4883",76,0,2013,2,"N","Hardin County, Illinois","Private","Support activities for water transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"4883",76,0,2013,3,"N","Hardin County, Illinois","Private","Support activities for water transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"48831",77,0,2013,1,"N","Hardin County, Illinois","Private","Port and harbor operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"48831",77,0,2013,2,"N","Hardin County, Illinois","Private","Port and harbor operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"48831",77,0,2013,3,"N","Hardin County, Illinois","Private","Port and harbor operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"488310",78,0,2013,1,"N","Hardin County, Illinois","Private","Port and harbor operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"488310",78,0,2013,2,"N","Hardin County, Illinois","Private","Port and harbor operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"488310",78,0,2013,3,"N","Hardin County, Illinois","Private","Port and harbor operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"48833",77,0,2013,1,"N","Hardin County, Illinois","Private","Navigational services to shipping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"48833",77,0,2013,2,"N","Hardin County, Illinois","Private","Navigational services to shipping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"48833",77,0,2013,3,"N","Hardin County, Illinois","Private","Navigational services to shipping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"488330",78,0,2013,1,"N","Hardin County, Illinois","Private","Navigational services to shipping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"488330",78,0,2013,2,"N","Hardin County, Illinois","Private","Navigational services to shipping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"488330",78,0,2013,3,"N","Hardin County, Illinois","Private","Navigational services to shipping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"51",74,0,2013,1,"N","Hardin County, Illinois","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"51",74,0,2013,2,"N","Hardin County, Illinois","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"51",74,0,2013,3,"N","Hardin County, Illinois","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"511",75,0,2013,1,"N","Hardin County, Illinois","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"511",75,0,2013,2,"N","Hardin County, Illinois","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"511",75,0,2013,3,"N","Hardin County, Illinois","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"5111",76,0,2013,1,"N","Hardin County, Illinois","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"5111",76,0,2013,2,"N","Hardin County, Illinois","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"5111",76,0,2013,3,"N","Hardin County, Illinois","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"51111",77,0,2013,1,"N","Hardin County, Illinois","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"51111",77,0,2013,2,"N","Hardin County, Illinois","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"51111",77,0,2013,3,"N","Hardin County, Illinois","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"511110",78,0,2013,1,"N","Hardin County, Illinois","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"511110",78,0,2013,2,"N","Hardin County, Illinois","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"511110",78,0,2013,3,"N","Hardin County, Illinois","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"519",75,0,2013,1,"N","Hardin County, Illinois","Private","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"519",75,0,2013,2,"N","Hardin County, Illinois","Private","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"519",75,0,2013,3,"N","Hardin County, Illinois","Private","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"5191",76,0,2013,1,"N","Hardin County, Illinois","Private","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"5191",76,0,2013,2,"N","Hardin County, Illinois","Private","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"5191",76,0,2013,3,"N","Hardin County, Illinois","Private","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"51912",77,0,2013,1,"N","Hardin County, Illinois","Private","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"51912",77,0,2013,2,"N","Hardin County, Illinois","Private","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"51912",77,0,2013,3,"N","Hardin County, Illinois","Private","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"519120",78,0,2013,1,"N","Hardin County, Illinois","Private","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"519120",78,0,2013,2,"N","Hardin County, Illinois","Private","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"519120",78,0,2013,3,"N","Hardin County, Illinois","Private","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"52",74,0,2013,1,"N","Hardin County, Illinois","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"52",74,0,2013,2,"N","Hardin County, Illinois","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"52",74,0,2013,3,"N","Hardin County, Illinois","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"522",75,0,2013,1,"N","Hardin County, Illinois","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"522",75,0,2013,2,"N","Hardin County, Illinois","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"522",75,0,2013,3,"N","Hardin County, Illinois","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"5221",76,0,2013,1,"N","Hardin County, Illinois","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"5221",76,0,2013,2,"N","Hardin County, Illinois","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"5221",76,0,2013,3,"N","Hardin County, Illinois","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"52211",77,0,2013,1,"N","Hardin County, Illinois","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"52211",77,0,2013,2,"N","Hardin County, Illinois","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"52211",77,0,2013,3,"N","Hardin County, Illinois","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"522110",78,0,2013,1,"N","Hardin County, Illinois","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"522110",78,0,2013,2,"N","Hardin County, Illinois","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"522110",78,0,2013,3,"N","Hardin County, Illinois","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"524",75,0,2013,1,"N","Hardin County, Illinois","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"524",75,0,2013,2,"N","Hardin County, Illinois","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"524",75,0,2013,3,"N","Hardin County, Illinois","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"5242",76,0,2013,1,"N","Hardin County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"5242",76,0,2013,2,"N","Hardin County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"5242",76,0,2013,3,"N","Hardin County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"52421",77,0,2013,1,"N","Hardin County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"52421",77,0,2013,2,"N","Hardin County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"52421",77,0,2013,3,"N","Hardin County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"524210",78,0,2013,1,"N","Hardin County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"524210",78,0,2013,2,"N","Hardin County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"524210",78,0,2013,3,"N","Hardin County, Illinois","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"53",74,0,2013,1,"N","Hardin County, Illinois","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"53",74,0,2013,2,"N","Hardin County, Illinois","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"53",74,0,2013,3,"N","Hardin County, Illinois","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"531",75,0,2013,1,"N","Hardin County, Illinois","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"531",75,0,2013,2,"N","Hardin County, Illinois","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"531",75,0,2013,3,"N","Hardin County, Illinois","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"5313",76,0,2013,1,"N","Hardin County, Illinois","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"5313",76,0,2013,2,"N","Hardin County, Illinois","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"5313",76,0,2013,3,"N","Hardin County, Illinois","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"53139",77,0,2013,1,"N","Hardin County, Illinois","Private","Other activities related to real estate","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"53139",77,0,2013,2,"N","Hardin County, Illinois","Private","Other activities related to real estate","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"53139",77,0,2013,3,"N","Hardin County, Illinois","Private","Other activities related to real estate","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"531390",78,0,2013,1,"N","Hardin County, Illinois","Private","Other activities related to real estate","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"531390",78,0,2013,2,"N","Hardin County, Illinois","Private","Other activities related to real estate","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"531390",78,0,2013,3,"N","Hardin County, Illinois","Private","Other activities related to real estate","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"54",74,0,2013,1,"N","Hardin County, Illinois","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"54",74,0,2013,2,"N","Hardin County, Illinois","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"54",74,0,2013,3,"N","Hardin County, Illinois","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"541",75,0,2013,1,"N","Hardin County, Illinois","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"541",75,0,2013,2,"N","Hardin County, Illinois","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"541",75,0,2013,3,"N","Hardin County, Illinois","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"5411",76,0,2013,1,"N","Hardin County, Illinois","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"5411",76,0,2013,2,"N","Hardin County, Illinois","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"5411",76,0,2013,3,"N","Hardin County, Illinois","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"54111",77,0,2013,1,"N","Hardin County, Illinois","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"54111",77,0,2013,2,"N","Hardin County, Illinois","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"54111",77,0,2013,3,"N","Hardin County, Illinois","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"541110",78,0,2013,1,"N","Hardin County, Illinois","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"541110",78,0,2013,2,"N","Hardin County, Illinois","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"541110",78,0,2013,3,"N","Hardin County, Illinois","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"5415",76,0,2013,1,"N","Hardin County, Illinois","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"5415",76,0,2013,2,"N","Hardin County, Illinois","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"5415",76,0,2013,3,"N","Hardin County, Illinois","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"54151",77,0,2013,1,"N","Hardin County, Illinois","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"54151",77,0,2013,2,"N","Hardin County, Illinois","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"54151",77,0,2013,3,"N","Hardin County, Illinois","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"541519",78,0,2013,1,"N","Hardin County, Illinois","Private","Other computer related services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"541519",78,0,2013,2,"N","Hardin County, Illinois","Private","Other computer related services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"541519",78,0,2013,3,"N","Hardin County, Illinois","Private","Other computer related services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"62",74,0,2013,1,"","Hardin County, Illinois","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,328,327,323,2278456,1899388,46797,538
+"17069",5,"62",74,0,2013,2,"","Hardin County, Illinois","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,315,319,311,2032309,1122417,28895,496
+"17069",5,"62",74,0,2013,3,"","Hardin County, Illinois","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,330,322,335,2255198,716958,18868,527
+"17069",5,"621",75,0,2013,1,"N","Hardin County, Illinois","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"621",75,0,2013,2,"N","Hardin County, Illinois","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"621",75,0,2013,3,"N","Hardin County, Illinois","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"6213",76,0,2013,1,"N","Hardin County, Illinois","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"6213",76,0,2013,2,"N","Hardin County, Illinois","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"6213",76,0,2013,3,"N","Hardin County, Illinois","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"62131",77,0,2013,1,"N","Hardin County, Illinois","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"62131",77,0,2013,2,"N","Hardin County, Illinois","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"62131",77,0,2013,3,"N","Hardin County, Illinois","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"621310",78,0,2013,1,"N","Hardin County, Illinois","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"621310",78,0,2013,2,"N","Hardin County, Illinois","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"621310",78,0,2013,3,"N","Hardin County, Illinois","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"622",75,0,2013,1,"N","Hardin County, Illinois","Private","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"622",75,0,2013,2,"N","Hardin County, Illinois","Private","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"622",75,0,2013,3,"N","Hardin County, Illinois","Private","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"6221",76,0,2013,1,"N","Hardin County, Illinois","Private","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"6221",76,0,2013,2,"N","Hardin County, Illinois","Private","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"6221",76,0,2013,3,"N","Hardin County, Illinois","Private","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"62211",77,0,2013,1,"N","Hardin County, Illinois","Private","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"62211",77,0,2013,2,"N","Hardin County, Illinois","Private","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"62211",77,0,2013,3,"N","Hardin County, Illinois","Private","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"622110",78,0,2013,1,"N","Hardin County, Illinois","Private","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"622110",78,0,2013,2,"N","Hardin County, Illinois","Private","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"622110",78,0,2013,3,"N","Hardin County, Illinois","Private","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"623",75,0,2013,1,"N","Hardin County, Illinois","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"623",75,0,2013,2,"N","Hardin County, Illinois","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"623",75,0,2013,3,"N","Hardin County, Illinois","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"6231",76,0,2013,1,"N","Hardin County, Illinois","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"6231",76,0,2013,2,"N","Hardin County, Illinois","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"6231",76,0,2013,3,"N","Hardin County, Illinois","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"62311",77,0,2013,1,"N","Hardin County, Illinois","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"62311",77,0,2013,2,"N","Hardin County, Illinois","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"62311",77,0,2013,3,"N","Hardin County, Illinois","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"623110",78,0,2013,1,"N","Hardin County, Illinois","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"623110",78,0,2013,2,"N","Hardin County, Illinois","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"623110",78,0,2013,3,"N","Hardin County, Illinois","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"624",75,0,2013,1,"N","Hardin County, Illinois","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"624",75,0,2013,2,"N","Hardin County, Illinois","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"624",75,0,2013,3,"N","Hardin County, Illinois","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"6241",76,0,2013,1,"N","Hardin County, Illinois","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"6241",76,0,2013,2,"N","Hardin County, Illinois","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"6241",76,0,2013,3,"N","Hardin County, Illinois","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"62412",77,0,2013,1,"N","Hardin County, Illinois","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"62412",77,0,2013,2,"N","Hardin County, Illinois","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"62412",77,0,2013,3,"N","Hardin County, Illinois","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"624120",78,0,2013,1,"N","Hardin County, Illinois","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"624120",78,0,2013,2,"N","Hardin County, Illinois","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"624120",78,0,2013,3,"N","Hardin County, Illinois","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"71",74,0,2013,1,"N","Hardin County, Illinois","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"71",74,0,2013,2,"N","Hardin County, Illinois","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"71",74,0,2013,3,"N","Hardin County, Illinois","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"711",75,0,2013,1,"N","Hardin County, Illinois","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"711",75,0,2013,2,"N","Hardin County, Illinois","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"711",75,0,2013,3,"N","Hardin County, Illinois","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"7113",76,0,2013,1,"N","Hardin County, Illinois","Private","Promoters of performing arts and sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"7113",76,0,2013,2,"N","Hardin County, Illinois","Private","Promoters of performing arts and sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"7113",76,0,2013,3,"N","Hardin County, Illinois","Private","Promoters of performing arts and sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"71131",77,0,2013,1,"N","Hardin County, Illinois","Private","Promoters with facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"71131",77,0,2013,2,"N","Hardin County, Illinois","Private","Promoters with facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"71131",77,0,2013,3,"N","Hardin County, Illinois","Private","Promoters with facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"711310",78,0,2013,1,"N","Hardin County, Illinois","Private","Promoters with facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"711310",78,0,2013,2,"N","Hardin County, Illinois","Private","Promoters with facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"711310",78,0,2013,3,"N","Hardin County, Illinois","Private","Promoters with facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"72",74,0,2013,1,"N","Hardin County, Illinois","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"17069",5,"72",74,0,2013,2,"N","Hardin County, Illinois","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"17069",5,"72",74,0,2013,3,"N","Hardin County, Illinois","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"17069",5,"721",75,0,2013,1,"N","Hardin County, Illinois","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"721",75,0,2013,2,"N","Hardin County, Illinois","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"721",75,0,2013,3,"N","Hardin County, Illinois","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"7211",76,0,2013,1,"N","Hardin County, Illinois","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"7211",76,0,2013,2,"N","Hardin County, Illinois","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"7211",76,0,2013,3,"N","Hardin County, Illinois","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"72111",77,0,2013,1,"N","Hardin County, Illinois","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"72111",77,0,2013,2,"N","Hardin County, Illinois","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"72111",77,0,2013,3,"N","Hardin County, Illinois","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"721110",78,0,2013,1,"N","Hardin County, Illinois","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"721110",78,0,2013,2,"N","Hardin County, Illinois","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"721110",78,0,2013,3,"N","Hardin County, Illinois","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"722",75,0,2013,1,"","Hardin County, Illinois","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,20,19,32,38045,24820,604,124
+"17069",5,"722",75,0,2013,2,"","Hardin County, Illinois","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,31,37,35,64962,64962,2619,146
+"17069",5,"722",75,0,2013,3,"","Hardin County, Illinois","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,41,40,36,73216,72847,2684,144
+"17069",5,"7224",76,0,2013,1,"N","Hardin County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"7224",76,0,2013,2,"N","Hardin County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"7224",76,0,2013,3,"N","Hardin County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"72241",77,0,2013,1,"N","Hardin County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"72241",77,0,2013,2,"N","Hardin County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"72241",77,0,2013,3,"N","Hardin County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"722410",78,0,2013,1,"N","Hardin County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"722410",78,0,2013,2,"N","Hardin County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"722410",78,0,2013,3,"N","Hardin County, Illinois","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"7225",76,0,2013,1,"N","Hardin County, Illinois","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"7225",76,0,2013,2,"N","Hardin County, Illinois","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"7225",76,0,2013,3,"N","Hardin County, Illinois","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"72251",77,0,2013,1,"N","Hardin County, Illinois","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"72251",77,0,2013,2,"N","Hardin County, Illinois","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"72251",77,0,2013,3,"N","Hardin County, Illinois","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"722511",78,0,2013,1,"N","Hardin County, Illinois","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"722511",78,0,2013,2,"N","Hardin County, Illinois","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"722511",78,0,2013,3,"N","Hardin County, Illinois","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"17069",5,"81",74,0,2013,1,"","Hardin County, Illinois","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,8,8,8,31159,31159,343,300
+"17069",5,"81",74,0,2013,2,"","Hardin County, Illinois","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,8,8,8,31348,28744,453,301
+"17069",5,"81",74,0,2013,3,"","Hardin County, Illinois","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,7,7,7,27734,15376,85,305
+"17069",5,"811",75,0,2013,1,"N","Hardin County, Illinois","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"811",75,0,2013,2,"N","Hardin County, Illinois","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"811",75,0,2013,3,"N","Hardin County, Illinois","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"17069",5,"8111",76,0,2013,1,"N","Hardin County, Illinois","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"8111",76,0,2013,2,"N","Hardin County, Illinois","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"8111",76,0,2013,3,"N","Hardin County, Illinois","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"17069",5,"81111",77,0,2013,1,"N","Hardin County, Illinois","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"81111",77,0,2013,2,"N","Hardin County, Illinois","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"81111",77,0,2013,3,"N","Hardin County, Illinois","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"811111",78,0,2013,1,"N","Hardin County, Illinois","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"811111",78,0,2013,2,"N","Hardin County, Illinois","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"811111",78,0,2013,3,"N","Hardin County, Illinois","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"81112",77,0,2013,1,"N","Hardin County, Illinois","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"81112",77,0,2013,2,"N","Hardin County, Illinois","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"81112",77,0,2013,3,"N","Hardin County, Illinois","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"811121",78,0,2013,1,"N","Hardin County, Illinois","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"811121",78,0,2013,2,"N","Hardin County, Illinois","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"811121",78,0,2013,3,"N","Hardin County, Illinois","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"8114",76,0,2013,1,"N","Hardin County, Illinois","Private","Household goods repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"8114",76,0,2013,2,"N","Hardin County, Illinois","Private","Household goods repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"8114",76,0,2013,3,"N","Hardin County, Illinois","Private","Household goods repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"81141",77,0,2013,1,"N","Hardin County, Illinois","Private","Home and garden equip. and appliance repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"81141",77,0,2013,2,"N","Hardin County, Illinois","Private","Home and garden equip. and appliance repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"81141",77,0,2013,3,"N","Hardin County, Illinois","Private","Home and garden equip. and appliance repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"811411",78,0,2013,1,"N","Hardin County, Illinois","Private","Home and garden equipment repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"811411",78,0,2013,2,"N","Hardin County, Illinois","Private","Home and garden equipment repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"811411",78,0,2013,3,"N","Hardin County, Illinois","Private","Home and garden equipment repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"812",75,0,2013,1,"N","Hardin County, Illinois","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"812",75,0,2013,2,"N","Hardin County, Illinois","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"812",75,0,2013,3,"N","Hardin County, Illinois","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"8122",76,0,2013,1,"N","Hardin County, Illinois","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"8122",76,0,2013,2,"N","Hardin County, Illinois","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"8122",76,0,2013,3,"N","Hardin County, Illinois","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"81221",77,0,2013,1,"N","Hardin County, Illinois","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"81221",77,0,2013,2,"N","Hardin County, Illinois","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"81221",77,0,2013,3,"N","Hardin County, Illinois","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"812210",78,0,2013,1,"N","Hardin County, Illinois","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"812210",78,0,2013,2,"N","Hardin County, Illinois","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"812210",78,0,2013,3,"N","Hardin County, Illinois","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"813",75,0,2013,1,"N","Hardin County, Illinois","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"813",75,0,2013,2,"N","Hardin County, Illinois","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"813",75,0,2013,3,"N","Hardin County, Illinois","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"8131",76,0,2013,1,"N","Hardin County, Illinois","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"8131",76,0,2013,2,"N","Hardin County, Illinois","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"8131",76,0,2013,3,"N","Hardin County, Illinois","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"81311",77,0,2013,1,"N","Hardin County, Illinois","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"81311",77,0,2013,2,"N","Hardin County, Illinois","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"81311",77,0,2013,3,"N","Hardin County, Illinois","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"813110",78,0,2013,1,"N","Hardin County, Illinois","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"813110",78,0,2013,2,"N","Hardin County, Illinois","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"17069",5,"813110",78,0,2013,3,"N","Hardin County, Illinois","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

@@ -1,0 +1,866 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"13007",0,10,70,0,2007,1,"","Baker County, Georgia","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",55,503,495,501,3498677,1654382,11459,539
+"13007",0,"10",70,0,2007,2,"","Baker County, Georgia","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",55,493,550,572,3545249,701371,7882,507
+"13007",0,"10",70,0,2007,3,"","Baker County, Georgia","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",54,582,575,551,3592665,367982,5687,485
+"13007",0,"10",70,0,2007,4,"","Baker County, Georgia","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",55,587,598,563,3965334,382532,7236,523
+"13007",1,10,71,0,2007,1,"","Baker County, Georgia","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,12,8,12,75209,0,0,542
+"13007",1,"10",71,0,2007,2,"","Baker County, Georgia","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,11,8,12,89270,0,0,665
+"13007",1,"10",71,0,2007,3,"","Baker County, Georgia","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,11,8,8,72735,0,0,622
+"13007",1,"10",71,0,2007,4,"","Baker County, Georgia","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,7,12,11,88473,0,0,681
+"13007",1,102,72,0,2007,1,"","Baker County, Georgia","Federal Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",5,12,8,12,75209,0,0,542
+"13007",1,"102",72,0,2007,2,"","Baker County, Georgia","Federal Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",5,11,8,12,89270,0,0,665
+"13007",1,"102",72,0,2007,3,"","Baker County, Georgia","Federal Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",5,11,8,8,72735,0,0,622
+"13007",1,"102",72,0,2007,4,"","Baker County, Georgia","Federal Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",5,7,12,11,88473,0,0,681
+"13007",1,1021,73,0,2007,1,"","Baker County, Georgia","Federal Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,6,6,6,52990,0,0,679
+"13007",1,"1021",73,0,2007,2,"","Baker County, Georgia","Federal Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,6,6,6,63734,0,0,817
+"13007",1,"1021",73,0,2007,3,"","Baker County, Georgia","Federal Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,6,6,6,50657,0,0,649
+"13007",1,"1021",73,0,2007,4,"","Baker County, Georgia","Federal Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,5,6,5,62952,0,0,908
+"13007",1,1028,73,0,2007,1,"","Baker County, Georgia","Federal Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",4,6,2,6,22219,0,0,366
+"13007",1,"1028",73,0,2007,2,"","Baker County, Georgia","Federal Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",4,5,2,6,25536,0,0,453
+"13007",1,"1028",73,0,2007,3,"","Baker County, Georgia","Federal Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",4,5,2,2,22078,0,0,566
+"13007",1,"1028",73,0,2007,4,"","Baker County, Georgia","Federal Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",4,2,6,6,25521,0,0,421
+"13007",1,48-49,74,0,2007,1,"","Baker County, Georgia","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,6,6,6,52990,0,0,679
+"13007",1,"48-49",74,0,2007,2,"","Baker County, Georgia","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,6,6,6,63734,0,0,817
+"13007",1,"48-49",74,0,2007,3,"","Baker County, Georgia","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,6,6,6,50657,0,0,649
+"13007",1,"48-49",74,0,2007,4,"","Baker County, Georgia","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,5,6,5,62952,0,0,908
+"13007",1,491,75,0,2007,1,"","Baker County, Georgia","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,6,6,6,52990,0,0,679
+"13007",1,"491",75,0,2007,2,"","Baker County, Georgia","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,6,6,6,63734,0,0,817
+"13007",1,"491",75,0,2007,3,"","Baker County, Georgia","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,6,6,6,50657,0,0,649
+"13007",1,"491",75,0,2007,4,"","Baker County, Georgia","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,5,6,5,62952,0,0,908
+"13007",1,4911,76,0,2007,1,"","Baker County, Georgia","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,6,6,6,52990,0,0,679
+"13007",1,"4911",76,0,2007,2,"","Baker County, Georgia","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,6,6,6,63734,0,0,817
+"13007",1,"4911",76,0,2007,3,"","Baker County, Georgia","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,6,6,6,50657,0,0,649
+"13007",1,"4911",76,0,2007,4,"","Baker County, Georgia","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,5,6,5,62952,0,0,908
+"13007",1,49111,77,0,2007,1,"","Baker County, Georgia","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,6,6,6,52990,0,0,679
+"13007",1,"49111",77,0,2007,2,"","Baker County, Georgia","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,6,6,6,63734,0,0,817
+"13007",1,"49111",77,0,2007,3,"","Baker County, Georgia","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,6,6,6,50657,0,0,649
+"13007",1,"49111",77,0,2007,4,"","Baker County, Georgia","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,5,6,5,62952,0,0,908
+"13007",1,491110,78,0,2007,1,"","Baker County, Georgia","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,6,6,6,52990,0,0,679
+"13007",1,"491110",78,0,2007,2,"","Baker County, Georgia","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,6,6,6,63734,0,0,817
+"13007",1,"491110",78,0,2007,3,"","Baker County, Georgia","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,6,6,6,50657,0,0,649
+"13007",1,"491110",78,0,2007,4,"","Baker County, Georgia","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,5,6,5,62952,0,0,908
+"13007",1,92,74,0,2007,1,"","Baker County, Georgia","Federal Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,6,2,6,22219,0,0,366
+"13007",1,"92",74,0,2007,2,"","Baker County, Georgia","Federal Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,5,2,6,25536,0,0,453
+"13007",1,"92",74,0,2007,3,"","Baker County, Georgia","Federal Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,5,2,2,22078,0,0,566
+"13007",1,"92",74,0,2007,4,"","Baker County, Georgia","Federal Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,2,6,6,25521,0,0,421
+"13007",1,924,75,0,2007,1,"","Baker County, Georgia","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,6,2,6,22219,0,0,366
+"13007",1,"924",75,0,2007,2,"","Baker County, Georgia","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,5,2,6,25536,0,0,453
+"13007",1,"924",75,0,2007,3,"","Baker County, Georgia","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,5,2,2,22078,0,0,566
+"13007",1,"924",75,0,2007,4,"","Baker County, Georgia","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,2,6,6,25521,0,0,421
+"13007",1,9241,76,0,2007,1,"","Baker County, Georgia","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,6,2,6,22219,0,0,366
+"13007",1,"9241",76,0,2007,2,"","Baker County, Georgia","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,5,2,6,25536,0,0,453
+"13007",1,"9241",76,0,2007,3,"","Baker County, Georgia","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,5,2,2,22078,0,0,566
+"13007",1,"9241",76,0,2007,4,"","Baker County, Georgia","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,2,6,6,25521,0,0,421
+"13007",1,92412,77,0,2007,1,"","Baker County, Georgia","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,6,2,6,22219,0,0,366
+"13007",1,"92412",77,0,2007,2,"","Baker County, Georgia","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,5,2,6,25536,0,0,453
+"13007",1,"92412",77,0,2007,3,"","Baker County, Georgia","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,5,2,2,22078,0,0,566
+"13007",1,"92412",77,0,2007,4,"","Baker County, Georgia","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,2,6,6,25521,0,0,421
+"13007",1,924120,78,0,2007,1,"","Baker County, Georgia","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,6,2,6,22219,0,0,366
+"13007",1,"924120",78,0,2007,2,"","Baker County, Georgia","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,5,2,6,25536,0,0,453
+"13007",1,"924120",78,0,2007,3,"","Baker County, Georgia","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,5,2,2,22078,0,0,566
+"13007",1,"924120",78,0,2007,4,"","Baker County, Georgia","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,2,6,6,25521,0,0,421
+"13007",1,926,75,0,2007,1,"","Baker County, Georgia","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",1,"926",75,0,2007,2,"","Baker County, Georgia","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",1,"926",75,0,2007,3,"","Baker County, Georgia","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",1,"926",75,0,2007,4,"","Baker County, Georgia","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",1,9261,76,0,2007,1,"","Baker County, Georgia","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",1,"9261",76,0,2007,2,"","Baker County, Georgia","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",1,"9261",76,0,2007,3,"","Baker County, Georgia","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",1,"9261",76,0,2007,4,"","Baker County, Georgia","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",1,92611,77,0,2007,1,"","Baker County, Georgia","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",1,"92611",77,0,2007,2,"","Baker County, Georgia","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",1,"92611",77,0,2007,3,"","Baker County, Georgia","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",1,"92611",77,0,2007,4,"","Baker County, Georgia","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",1,926110,78,0,2007,1,"","Baker County, Georgia","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",1,"926110",78,0,2007,2,"","Baker County, Georgia","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",1,"926110",78,0,2007,3,"","Baker County, Georgia","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",1,"926110",78,0,2007,4,"","Baker County, Georgia","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",1,92614,77,0,2007,1,"","Baker County, Georgia","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",1,"92614",77,0,2007,2,"","Baker County, Georgia","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",1,"92614",77,0,2007,3,"","Baker County, Georgia","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",1,"92614",77,0,2007,4,"","Baker County, Georgia","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",1,926140,78,0,2007,1,"","Baker County, Georgia","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",1,"926140",78,0,2007,2,"","Baker County, Georgia","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",1,"926140",78,0,2007,3,"","Baker County, Georgia","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",1,"926140",78,0,2007,4,"","Baker County, Georgia","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,10,71,0,2007,1,"N","Baker County, Georgia","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13007",2,"10",71,0,2007,2,"N","Baker County, Georgia","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13007",2,"10",71,0,2007,3,"N","Baker County, Georgia","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13007",2,"10",71,0,2007,4,"N","Baker County, Georgia","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13007",2,102,72,0,2007,1,"N","Baker County, Georgia","State Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13007",2,"102",72,0,2007,2,"N","Baker County, Georgia","State Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13007",2,"102",72,0,2007,3,"N","Baker County, Georgia","State Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13007",2,"102",72,0,2007,4,"N","Baker County, Georgia","State Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13007",2,1021,73,0,2007,1,"N","Baker County, Georgia","State Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"1021",73,0,2007,2,"N","Baker County, Georgia","State Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"1021",73,0,2007,3,"N","Baker County, Georgia","State Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"1021",73,0,2007,4,"N","Baker County, Georgia","State Government","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,1025,73,0,2007,1,"N","Baker County, Georgia","State Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",2,"1025",73,0,2007,2,"N","Baker County, Georgia","State Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",2,"1025",73,0,2007,3,"N","Baker County, Georgia","State Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",2,"1025",73,0,2007,4,"N","Baker County, Georgia","State Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",2,1028,73,0,2007,1,"","Baker County, Georgia","State Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",3,8,8,8,58380,0,0,561
+"13007",2,"1028",73,0,2007,2,"","Baker County, Georgia","State Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",3,7,7,7,55956,0,0,615
+"13007",2,"1028",73,0,2007,3,"","Baker County, Georgia","State Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",3,7,7,8,64184,0,0,673
+"13007",2,"1028",73,0,2007,4,"","Baker County, Georgia","State Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",3,8,8,8,59776,0,0,575
+"13007",2,48-49,74,0,2007,1,"N","Baker County, Georgia","State Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"48-49",74,0,2007,2,"N","Baker County, Georgia","State Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"48-49",74,0,2007,3,"N","Baker County, Georgia","State Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"48-49",74,0,2007,4,"N","Baker County, Georgia","State Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,488,75,0,2007,1,"N","Baker County, Georgia","State Government","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"488",75,0,2007,2,"N","Baker County, Georgia","State Government","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"488",75,0,2007,3,"N","Baker County, Georgia","State Government","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"488",75,0,2007,4,"N","Baker County, Georgia","State Government","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,4881,76,0,2007,1,"N","Baker County, Georgia","State Government","Support activities for air transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"4881",76,0,2007,2,"N","Baker County, Georgia","State Government","Support activities for air transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"4881",76,0,2007,3,"N","Baker County, Georgia","State Government","Support activities for air transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"4881",76,0,2007,4,"N","Baker County, Georgia","State Government","Support activities for air transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,48811,77,0,2007,1,"N","Baker County, Georgia","State Government","Airport operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"48811",77,0,2007,2,"N","Baker County, Georgia","State Government","Airport operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"48811",77,0,2007,3,"N","Baker County, Georgia","State Government","Airport operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"48811",77,0,2007,4,"N","Baker County, Georgia","State Government","Airport operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,488111,78,0,2007,1,"N","Baker County, Georgia","State Government","Air traffic control","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"488111",78,0,2007,2,"N","Baker County, Georgia","State Government","Air traffic control","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"488111",78,0,2007,3,"N","Baker County, Georgia","State Government","Air traffic control","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"488111",78,0,2007,4,"N","Baker County, Georgia","State Government","Air traffic control","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,62,74,0,2007,1,"N","Baker County, Georgia","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",2,"62",74,0,2007,2,"N","Baker County, Georgia","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",2,"62",74,0,2007,3,"N","Baker County, Georgia","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",2,"62",74,0,2007,4,"N","Baker County, Georgia","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",2,621,75,0,2007,1,"N","Baker County, Georgia","State Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",2,"621",75,0,2007,2,"N","Baker County, Georgia","State Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",2,"621",75,0,2007,3,"N","Baker County, Georgia","State Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",2,"621",75,0,2007,4,"N","Baker County, Georgia","State Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",2,6214,76,0,2007,1,"N","Baker County, Georgia","State Government","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",2,"6214",76,0,2007,2,"N","Baker County, Georgia","State Government","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",2,"6214",76,0,2007,3,"N","Baker County, Georgia","State Government","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",2,"6214",76,0,2007,4,"N","Baker County, Georgia","State Government","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",2,62142,77,0,2007,1,"N","Baker County, Georgia","State Government","Outpatient mental health centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"62142",77,0,2007,2,"N","Baker County, Georgia","State Government","Outpatient mental health centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"62142",77,0,2007,3,"N","Baker County, Georgia","State Government","Outpatient mental health centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"62142",77,0,2007,4,"N","Baker County, Georgia","State Government","Outpatient mental health centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,621420,78,0,2007,1,"N","Baker County, Georgia","State Government","Outpatient mental health centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"621420",78,0,2007,2,"N","Baker County, Georgia","State Government","Outpatient mental health centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"621420",78,0,2007,3,"N","Baker County, Georgia","State Government","Outpatient mental health centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"621420",78,0,2007,4,"N","Baker County, Georgia","State Government","Outpatient mental health centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,62149,77,0,2007,1,"N","Baker County, Georgia","State Government","Other outpatient care centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"62149",77,0,2007,2,"N","Baker County, Georgia","State Government","Other outpatient care centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"62149",77,0,2007,3,"N","Baker County, Georgia","State Government","Other outpatient care centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"62149",77,0,2007,4,"N","Baker County, Georgia","State Government","Other outpatient care centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,621498,78,0,2007,1,"N","Baker County, Georgia","State Government","All other outpatient care centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"621498",78,0,2007,2,"N","Baker County, Georgia","State Government","All other outpatient care centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"621498",78,0,2007,3,"N","Baker County, Georgia","State Government","All other outpatient care centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"621498",78,0,2007,4,"N","Baker County, Georgia","State Government","All other outpatient care centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,92,74,0,2007,1,"","Baker County, Georgia","State Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,8,8,8,58380,0,0,561
+"13007",2,"92",74,0,2007,2,"","Baker County, Georgia","State Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,7,7,55956,0,0,615
+"13007",2,"92",74,0,2007,3,"","Baker County, Georgia","State Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,7,8,64184,0,0,673
+"13007",2,"92",74,0,2007,4,"","Baker County, Georgia","State Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,8,8,8,59776,0,0,575
+"13007",2,923,75,0,2007,1,"N","Baker County, Georgia","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"923",75,0,2007,2,"N","Baker County, Georgia","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"923",75,0,2007,3,"N","Baker County, Georgia","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"923",75,0,2007,4,"N","Baker County, Georgia","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,9231,76,0,2007,1,"N","Baker County, Georgia","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"9231",76,0,2007,2,"N","Baker County, Georgia","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"9231",76,0,2007,3,"N","Baker County, Georgia","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"9231",76,0,2007,4,"N","Baker County, Georgia","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,92312,77,0,2007,1,"N","Baker County, Georgia","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"92312",77,0,2007,2,"N","Baker County, Georgia","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"92312",77,0,2007,3,"N","Baker County, Georgia","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"92312",77,0,2007,4,"N","Baker County, Georgia","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,923120,78,0,2007,1,"N","Baker County, Georgia","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"923120",78,0,2007,2,"N","Baker County, Georgia","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"923120",78,0,2007,3,"N","Baker County, Georgia","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"923120",78,0,2007,4,"N","Baker County, Georgia","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,924,75,0,2007,1,"N","Baker County, Georgia","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"924",75,0,2007,2,"N","Baker County, Georgia","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"924",75,0,2007,3,"N","Baker County, Georgia","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"924",75,0,2007,4,"N","Baker County, Georgia","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,9241,76,0,2007,1,"N","Baker County, Georgia","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"9241",76,0,2007,2,"N","Baker County, Georgia","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"9241",76,0,2007,3,"N","Baker County, Georgia","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"9241",76,0,2007,4,"N","Baker County, Georgia","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,92412,77,0,2007,1,"N","Baker County, Georgia","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"92412",77,0,2007,2,"N","Baker County, Georgia","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"92412",77,0,2007,3,"N","Baker County, Georgia","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"92412",77,0,2007,4,"N","Baker County, Georgia","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,924120,78,0,2007,1,"N","Baker County, Georgia","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"924120",78,0,2007,2,"N","Baker County, Georgia","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"924120",78,0,2007,3,"N","Baker County, Georgia","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"924120",78,0,2007,4,"N","Baker County, Georgia","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,926,75,0,2007,1,"N","Baker County, Georgia","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"926",75,0,2007,2,"N","Baker County, Georgia","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"926",75,0,2007,3,"N","Baker County, Georgia","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"926",75,0,2007,4,"N","Baker County, Georgia","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,9261,76,0,2007,1,"N","Baker County, Georgia","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"9261",76,0,2007,2,"N","Baker County, Georgia","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"9261",76,0,2007,3,"N","Baker County, Georgia","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"9261",76,0,2007,4,"N","Baker County, Georgia","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,92614,77,0,2007,1,"N","Baker County, Georgia","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"92614",77,0,2007,2,"N","Baker County, Georgia","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"92614",77,0,2007,3,"N","Baker County, Georgia","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"92614",77,0,2007,4,"N","Baker County, Georgia","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,926140,78,0,2007,1,"N","Baker County, Georgia","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"926140",78,0,2007,2,"N","Baker County, Georgia","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"926140",78,0,2007,3,"N","Baker County, Georgia","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",2,"926140",78,0,2007,4,"N","Baker County, Georgia","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,10,71,0,2007,1,"N","Baker County, Georgia","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",3,"10",71,0,2007,2,"N","Baker County, Georgia","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",3,"10",71,0,2007,3,"N","Baker County, Georgia","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",3,"10",71,0,2007,4,"N","Baker County, Georgia","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",3,102,72,0,2007,1,"N","Baker County, Georgia","Local Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",3,"102",72,0,2007,2,"N","Baker County, Georgia","Local Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",3,"102",72,0,2007,3,"N","Baker County, Georgia","Local Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",3,"102",72,0,2007,4,"N","Baker County, Georgia","Local Government","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",3,1025,73,0,2007,1,"N","Baker County, Georgia","Local Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"1025",73,0,2007,2,"N","Baker County, Georgia","Local Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"1025",73,0,2007,3,"N","Baker County, Georgia","Local Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"1025",73,0,2007,4,"N","Baker County, Georgia","Local Government","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,1028,73,0,2007,1,"N","Baker County, Georgia","Local Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"1028",73,0,2007,2,"N","Baker County, Georgia","Local Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"1028",73,0,2007,3,"N","Baker County, Georgia","Local Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"1028",73,0,2007,4,"N","Baker County, Georgia","Local Government","Public Administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,61,74,0,2007,1,"N","Baker County, Georgia","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"61",74,0,2007,2,"N","Baker County, Georgia","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"61",74,0,2007,3,"N","Baker County, Georgia","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"61",74,0,2007,4,"N","Baker County, Georgia","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,611,75,0,2007,1,"N","Baker County, Georgia","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"611",75,0,2007,2,"N","Baker County, Georgia","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"611",75,0,2007,3,"N","Baker County, Georgia","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"611",75,0,2007,4,"N","Baker County, Georgia","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,6111,76,0,2007,1,"N","Baker County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"6111",76,0,2007,2,"N","Baker County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"6111",76,0,2007,3,"N","Baker County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"6111",76,0,2007,4,"N","Baker County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,61111,77,0,2007,1,"N","Baker County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"61111",77,0,2007,2,"N","Baker County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"61111",77,0,2007,3,"N","Baker County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"61111",77,0,2007,4,"N","Baker County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,611110,78,0,2007,1,"N","Baker County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"611110",78,0,2007,2,"N","Baker County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"611110",78,0,2007,3,"N","Baker County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,"611110",78,0,2007,4,"N","Baker County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",3,92,74,0,2007,1,"N","Baker County, Georgia","Local Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"92",74,0,2007,2,"N","Baker County, Georgia","Local Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"92",74,0,2007,3,"N","Baker County, Georgia","Local Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"92",74,0,2007,4,"N","Baker County, Georgia","Local Government","Public Administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,921,75,0,2007,1,"N","Baker County, Georgia","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"921",75,0,2007,2,"N","Baker County, Georgia","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"921",75,0,2007,3,"N","Baker County, Georgia","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"921",75,0,2007,4,"N","Baker County, Georgia","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,9211,76,0,2007,1,"N","Baker County, Georgia","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"9211",76,0,2007,2,"N","Baker County, Georgia","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"9211",76,0,2007,3,"N","Baker County, Georgia","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"9211",76,0,2007,4,"N","Baker County, Georgia","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,92114,77,0,2007,1,"N","Baker County, Georgia","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"92114",77,0,2007,2,"N","Baker County, Georgia","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"92114",77,0,2007,3,"N","Baker County, Georgia","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"92114",77,0,2007,4,"N","Baker County, Georgia","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,921140,78,0,2007,1,"N","Baker County, Georgia","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"921140",78,0,2007,2,"N","Baker County, Georgia","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"921140",78,0,2007,3,"N","Baker County, Georgia","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",3,"921140",78,0,2007,4,"N","Baker County, Georgia","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,10,71,0,2007,1,"","Baker County, Georgia","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",41,311,310,312,2347100,1654382,11459,581
+"13007",5,"10",71,0,2007,2,"","Baker County, Georgia","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",41,298,356,335,2298837,701371,7882,536
+"13007",5,"10",71,0,2007,3,"","Baker County, Georgia","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",40,349,343,345,2357956,367982,5687,525
+"13007",5,"10",71,0,2007,4,"","Baker County, Georgia","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",41,384,388,356,2642216,382532,7236,541
+"13007",5,101,72,0,2007,1,"","Baker County, Georgia","Private","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",12,75,78,79,570789,394039,3171,568
+"13007",5,"101",72,0,2007,2,"","Baker County, Georgia","Private","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",11,70,69,69,562397,192617,1083,624
+"13007",5,"101",72,0,2007,3,"","Baker County, Georgia","Private","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",12,70,74,74,455670,71875,1433,482
+"13007",5,"101",72,0,2007,4,"","Baker County, Georgia","Private","Goods-Producing","County, by Domain -- by ownership sector","All establishment sizes",12,99,93,69,622617,118606,3190,551
+"13007",5,1011,73,0,2007,1,"","Baker County, Georgia","Private","Natural Resources and Mining","County, by Supersector -- by ownership sector","All establishment sizes",9,71,71,71,530046,356261,1403,574
+"13007",5,"1011",73,0,2007,2,"N","Baker County, Georgia","Private","Natural Resources and Mining","County, by Supersector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"13007",5,"1011",73,0,2007,3,"N","Baker County, Georgia","Private","Natural Resources and Mining","County, by Supersector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"13007",5,"1011",73,0,2007,4,"N","Baker County, Georgia","Private","Natural Resources and Mining","County, by Supersector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"13007",5,1012,73,0,2007,1,"N","Baker County, Georgia","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"1012",73,0,2007,2,"N","Baker County, Georgia","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"1012",73,0,2007,3,"N","Baker County, Georgia","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"1012",73,0,2007,4,"N","Baker County, Georgia","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,1013,73,0,2007,1,"N","Baker County, Georgia","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"1013",73,0,2007,2,"-","Baker County, Georgia","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"1013",73,0,2007,3,"-","Baker County, Georgia","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"1013",73,0,2007,4,"-","Baker County, Georgia","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,102,72,0,2007,1,"","Baker County, Georgia","Private","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",29,236,232,233,1776311,1260343,8288,585
+"13007",5,"102",72,0,2007,2,"","Baker County, Georgia","Private","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",30,228,287,266,1736440,508754,6799,513
+"13007",5,"102",72,0,2007,3,"","Baker County, Georgia","Private","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",28,279,269,271,1902286,296107,4254,536
+"13007",5,"102",72,0,2007,4,"","Baker County, Georgia","Private","Service-Providing","County, by Domain -- by ownership sector","All establishment sizes",29,285,295,287,2019599,263926,4046,538
+"13007",5,1021,73,0,2007,1,"","Baker County, Georgia","Private","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",14,58,54,51,178168,176807,2240,252
+"13007",5,"1021",73,0,2007,2,"","Baker County, Georgia","Private","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",15,48,83,81,286210,244279,4629,312
+"13007",5,"1021",73,0,2007,3,"","Baker County, Georgia","Private","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",13,93,96,91,297185,168692,3197,245
+"13007",5,"1021",73,0,2007,4,"","Baker County, Georgia","Private","Trade, Transportation, and Utilities","County, by Supersector -- by ownership sector","All establishment sizes",13,91,101,97,357721,144243,2760,286
+"13007",5,1023,73,0,2007,1,"","Baker County, Georgia","Private","Financial Activities","County, by Supersector -- by ownership sector","All establishment sizes",3,39,37,35,290282,220317,3400,603
+"13007",5,"1023",73,0,2007,2,"","Baker County, Georgia","Private","Financial Activities","County, by Supersector -- by ownership sector","All establishment sizes",3,37,36,35,283023,46792,754,605
+"13007",5,"1023",73,0,2007,3,"","Baker County, Georgia","Private","Financial Activities","County, by Supersector -- by ownership sector","All establishment sizes",3,27,25,25,271731,8943,136,814
+"13007",5,"1023",73,0,2007,4,"N","Baker County, Georgia","Private","Financial Activities","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,1024,73,0,2007,1,"N","Baker County, Georgia","Private","Professional and Business Services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13007",5,"1024",73,0,2007,2,"N","Baker County, Georgia","Private","Professional and Business Services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13007",5,"1024",73,0,2007,3,"N","Baker County, Georgia","Private","Professional and Business Services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13007",5,"1024",73,0,2007,4,"N","Baker County, Georgia","Private","Professional and Business Services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13007",5,1025,73,0,2007,1,"","Baker County, Georgia","Private","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",4,25,25,26,165918,62242,1218,504
+"13007",5,"1025",73,0,2007,2,"","Baker County, Georgia","Private","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",4,26,26,25,175997,38105,747,527
+"13007",5,"1025",73,0,2007,3,"","Baker County, Georgia","Private","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",4,26,25,27,174715,17097,337,517
+"13007",5,"1025",73,0,2007,4,"","Baker County, Georgia","Private","Education and Health Services","County, by Supersector -- by ownership sector","All establishment sizes",4,28,27,27,193177,8781,169,544
+"13007",5,1026,73,0,2007,1,"N","Baker County, Georgia","Private","Leisure and Hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"1026",73,0,2007,2,"N","Baker County, Georgia","Private","Leisure and Hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"1026",73,0,2007,3,"N","Baker County, Georgia","Private","Leisure and Hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"1026",73,0,2007,4,"N","Baker County, Georgia","Private","Leisure and Hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,1027,73,0,2007,1,"N","Baker County, Georgia","Private","Other Services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"1027",73,0,2007,2,"N","Baker County, Georgia","Private","Other Services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"1027",73,0,2007,3,"N","Baker County, Georgia","Private","Other Services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"1027",73,0,2007,4,"","Baker County, Georgia","Private","Other Services","County, by Supersector -- by ownership sector","All establishment sizes",4,8,9,9,24581,16040,387,218
+"13007",5,11,74,0,2007,1,"","Baker County, Georgia","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",9,71,71,71,530046,356261,1403,574
+"13007",5,"11",74,0,2007,2,"N","Baker County, Georgia","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"13007",5,"11",74,0,2007,3,"N","Baker County, Georgia","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"13007",5,"11",74,0,2007,4,"N","Baker County, Georgia","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"13007",5,111,75,0,2007,1,"N","Baker County, Georgia","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"111",75,0,2007,2,"N","Baker County, Georgia","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"111",75,0,2007,3,"N","Baker County, Georgia","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"111",75,0,2007,4,"N","Baker County, Georgia","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,1114,76,0,2007,1,"N","Baker County, Georgia","Private","Greenhouse and nursery production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"1114",76,0,2007,2,"N","Baker County, Georgia","Private","Greenhouse and nursery production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"1114",76,0,2007,3,"N","Baker County, Georgia","Private","Greenhouse and nursery production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"1114",76,0,2007,4,"N","Baker County, Georgia","Private","Greenhouse and nursery production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,11142,77,0,2007,1,"N","Baker County, Georgia","Private","Nursery and floriculture production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"11142",77,0,2007,2,"N","Baker County, Georgia","Private","Nursery and floriculture production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"11142",77,0,2007,3,"N","Baker County, Georgia","Private","Nursery and floriculture production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"11142",77,0,2007,4,"N","Baker County, Georgia","Private","Nursery and floriculture production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,111421,78,0,2007,1,"N","Baker County, Georgia","Private","Nursery and tree production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"111421",78,0,2007,2,"N","Baker County, Georgia","Private","Nursery and tree production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"111421",78,0,2007,3,"N","Baker County, Georgia","Private","Nursery and tree production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"111421",78,0,2007,4,"N","Baker County, Georgia","Private","Nursery and tree production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,112,75,0,2007,1,"N","Baker County, Georgia","Private","Animal production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"112",75,0,2007,2,"N","Baker County, Georgia","Private","Animal production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"112",75,0,2007,3,"N","Baker County, Georgia","Private","Animal production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"112",75,0,2007,4,"N","Baker County, Georgia","Private","Animal production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,1123,76,0,2007,1,"N","Baker County, Georgia","Private","Poultry and egg production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"1123",76,0,2007,2,"N","Baker County, Georgia","Private","Poultry and egg production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"1123",76,0,2007,3,"N","Baker County, Georgia","Private","Poultry and egg production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"1123",76,0,2007,4,"N","Baker County, Georgia","Private","Poultry and egg production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,11232,77,0,2007,1,"N","Baker County, Georgia","Private","Broilers and meat type chicken production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"11232",77,0,2007,2,"N","Baker County, Georgia","Private","Broilers and meat type chicken production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"11232",77,0,2007,3,"N","Baker County, Georgia","Private","Broilers and meat type chicken production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"11232",77,0,2007,4,"N","Baker County, Georgia","Private","Broilers and meat type chicken production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,112320,78,0,2007,1,"N","Baker County, Georgia","Private","Broilers and meat type chicken production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"112320",78,0,2007,2,"N","Baker County, Georgia","Private","Broilers and meat type chicken production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"112320",78,0,2007,3,"N","Baker County, Georgia","Private","Broilers and meat type chicken production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"112320",78,0,2007,4,"N","Baker County, Georgia","Private","Broilers and meat type chicken production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,113,75,0,2007,1,"N","Baker County, Georgia","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"113",75,0,2007,2,"N","Baker County, Georgia","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"113",75,0,2007,3,"N","Baker County, Georgia","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"113",75,0,2007,4,"N","Baker County, Georgia","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,1131,76,0,2007,1,"N","Baker County, Georgia","Private","Timber tract operations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"1131",76,0,2007,2,"N","Baker County, Georgia","Private","Timber tract operations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"1131",76,0,2007,3,"N","Baker County, Georgia","Private","Timber tract operations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"1131",76,0,2007,4,"N","Baker County, Georgia","Private","Timber tract operations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,11311,77,0,2007,1,"N","Baker County, Georgia","Private","Timber tract operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"11311",77,0,2007,2,"N","Baker County, Georgia","Private","Timber tract operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"11311",77,0,2007,3,"N","Baker County, Georgia","Private","Timber tract operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"11311",77,0,2007,4,"N","Baker County, Georgia","Private","Timber tract operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,113110,78,0,2007,1,"N","Baker County, Georgia","Private","Timber tract operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"113110",78,0,2007,2,"N","Baker County, Georgia","Private","Timber tract operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"113110",78,0,2007,3,"N","Baker County, Georgia","Private","Timber tract operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"113110",78,0,2007,4,"N","Baker County, Georgia","Private","Timber tract operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,114,75,0,2007,1,"N","Baker County, Georgia","Private","Fishing, hunting and trapping","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"114",75,0,2007,2,"N","Baker County, Georgia","Private","Fishing, hunting and trapping","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"114",75,0,2007,3,"N","Baker County, Georgia","Private","Fishing, hunting and trapping","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"114",75,0,2007,4,"N","Baker County, Georgia","Private","Fishing, hunting and trapping","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,1142,76,0,2007,1,"N","Baker County, Georgia","Private","Hunting and trapping","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"1142",76,0,2007,2,"N","Baker County, Georgia","Private","Hunting and trapping","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"1142",76,0,2007,3,"N","Baker County, Georgia","Private","Hunting and trapping","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"1142",76,0,2007,4,"N","Baker County, Georgia","Private","Hunting and trapping","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,11421,77,0,2007,1,"N","Baker County, Georgia","Private","Hunting and trapping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"11421",77,0,2007,2,"N","Baker County, Georgia","Private","Hunting and trapping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"11421",77,0,2007,3,"N","Baker County, Georgia","Private","Hunting and trapping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"11421",77,0,2007,4,"N","Baker County, Georgia","Private","Hunting and trapping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,114210,78,0,2007,1,"N","Baker County, Georgia","Private","Hunting and trapping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"114210",78,0,2007,2,"N","Baker County, Georgia","Private","Hunting and trapping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"114210",78,0,2007,3,"N","Baker County, Georgia","Private","Hunting and trapping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"114210",78,0,2007,4,"N","Baker County, Georgia","Private","Hunting and trapping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,115,75,0,2007,1,"N","Baker County, Georgia","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13007",5,"115",75,0,2007,2,"N","Baker County, Georgia","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13007",5,"115",75,0,2007,3,"","Baker County, Georgia","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,24,25,26,180508,24990,826,555
+"13007",5,"115",75,0,2007,4,"N","Baker County, Georgia","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13007",5,1151,76,0,2007,1,"N","Baker County, Georgia","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"1151",76,0,2007,2,"N","Baker County, Georgia","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"1151",76,0,2007,3,"N","Baker County, Georgia","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"1151",76,0,2007,4,"N","Baker County, Georgia","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,11511,77,0,2007,1,"N","Baker County, Georgia","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"11511",77,0,2007,2,"N","Baker County, Georgia","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"11511",77,0,2007,3,"N","Baker County, Georgia","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"11511",77,0,2007,4,"N","Baker County, Georgia","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,115114,78,0,2007,1,"N","Baker County, Georgia","Private","Other postharvest crop activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"115114",78,0,2007,2,"N","Baker County, Georgia","Private","Other postharvest crop activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"115114",78,0,2007,3,"N","Baker County, Georgia","Private","Other postharvest crop activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"115114",78,0,2007,4,"N","Baker County, Georgia","Private","Other postharvest crop activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,1153,76,0,2007,1,"N","Baker County, Georgia","Private","Support activities for forestry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"1153",76,0,2007,2,"N","Baker County, Georgia","Private","Support activities for forestry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"1153",76,0,2007,3,"N","Baker County, Georgia","Private","Support activities for forestry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"1153",76,0,2007,4,"N","Baker County, Georgia","Private","Support activities for forestry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,11531,77,0,2007,1,"N","Baker County, Georgia","Private","Support activities for forestry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"11531",77,0,2007,2,"N","Baker County, Georgia","Private","Support activities for forestry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"11531",77,0,2007,3,"N","Baker County, Georgia","Private","Support activities for forestry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"11531",77,0,2007,4,"N","Baker County, Georgia","Private","Support activities for forestry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,115310,78,0,2007,1,"N","Baker County, Georgia","Private","Support activities for forestry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"115310",78,0,2007,2,"N","Baker County, Georgia","Private","Support activities for forestry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"115310",78,0,2007,3,"N","Baker County, Georgia","Private","Support activities for forestry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"115310",78,0,2007,4,"N","Baker County, Georgia","Private","Support activities for forestry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,23,74,0,2007,1,"N","Baker County, Georgia","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"23",74,0,2007,2,"N","Baker County, Georgia","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"23",74,0,2007,3,"N","Baker County, Georgia","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"23",74,0,2007,4,"N","Baker County, Georgia","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,236,75,0,2007,1,"N","Baker County, Georgia","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"236",75,0,2007,2,"N","Baker County, Georgia","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"236",75,0,2007,3,"N","Baker County, Georgia","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"236",75,0,2007,4,"N","Baker County, Georgia","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,2361,76,0,2007,1,"-","Baker County, Georgia","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"2361",76,0,2007,2,"-","Baker County, Georgia","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"2361",76,0,2007,3,"N","Baker County, Georgia","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"2361",76,0,2007,4,"N","Baker County, Georgia","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,23611,77,0,2007,1,"-","Baker County, Georgia","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"23611",77,0,2007,2,"-","Baker County, Georgia","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"23611",77,0,2007,3,"N","Baker County, Georgia","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"23611",77,0,2007,4,"N","Baker County, Georgia","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,236118,78,0,2007,1,"-","Baker County, Georgia","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"236118",78,0,2007,2,"-","Baker County, Georgia","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"236118",78,0,2007,3,"N","Baker County, Georgia","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"236118",78,0,2007,4,"N","Baker County, Georgia","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,2362,76,0,2007,1,"N","Baker County, Georgia","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"2362",76,0,2007,2,"N","Baker County, Georgia","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"2362",76,0,2007,3,"N","Baker County, Georgia","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"2362",76,0,2007,4,"N","Baker County, Georgia","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,23622,77,0,2007,1,"N","Baker County, Georgia","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"23622",77,0,2007,2,"N","Baker County, Georgia","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"23622",77,0,2007,3,"N","Baker County, Georgia","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"23622",77,0,2007,4,"N","Baker County, Georgia","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,236220,78,0,2007,1,"N","Baker County, Georgia","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"236220",78,0,2007,2,"N","Baker County, Georgia","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"236220",78,0,2007,3,"N","Baker County, Georgia","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"236220",78,0,2007,4,"N","Baker County, Georgia","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,237,75,0,2007,1,"N","Baker County, Georgia","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"237",75,0,2007,2,"N","Baker County, Georgia","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"237",75,0,2007,3,"N","Baker County, Georgia","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"237",75,0,2007,4,"N","Baker County, Georgia","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,2371,76,0,2007,1,"N","Baker County, Georgia","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"2371",76,0,2007,2,"N","Baker County, Georgia","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"2371",76,0,2007,3,"N","Baker County, Georgia","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"2371",76,0,2007,4,"N","Baker County, Georgia","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,23711,77,0,2007,1,"N","Baker County, Georgia","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"23711",77,0,2007,2,"N","Baker County, Georgia","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"23711",77,0,2007,3,"N","Baker County, Georgia","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"23711",77,0,2007,4,"N","Baker County, Georgia","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,237110,78,0,2007,1,"N","Baker County, Georgia","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"237110",78,0,2007,2,"N","Baker County, Georgia","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"237110",78,0,2007,3,"N","Baker County, Georgia","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"237110",78,0,2007,4,"N","Baker County, Georgia","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,31-33,74,0,2007,1,"N","Baker County, Georgia","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"31-33",74,0,2007,2,"-","Baker County, Georgia","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"31-33",74,0,2007,3,"-","Baker County, Georgia","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"31-33",74,0,2007,4,"-","Baker County, Georgia","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,333,75,0,2007,1,"N","Baker County, Georgia","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"333",75,0,2007,2,"-","Baker County, Georgia","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"333",75,0,2007,3,"-","Baker County, Georgia","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"333",75,0,2007,4,"-","Baker County, Georgia","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,3339,76,0,2007,1,"N","Baker County, Georgia","Private","Other general purpose machinery manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"3339",76,0,2007,2,"-","Baker County, Georgia","Private","Other general purpose machinery manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"3339",76,0,2007,3,"-","Baker County, Georgia","Private","Other general purpose machinery manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"3339",76,0,2007,4,"-","Baker County, Georgia","Private","Other general purpose machinery manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,33392,77,0,2007,1,"N","Baker County, Georgia","Private","Material handling equipment manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"33392",77,0,2007,2,"-","Baker County, Georgia","Private","Material handling equipment manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"33392",77,0,2007,3,"-","Baker County, Georgia","Private","Material handling equipment manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"33392",77,0,2007,4,"-","Baker County, Georgia","Private","Material handling equipment manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,333922,78,0,2007,1,"N","Baker County, Georgia","Private","Conveyor and conveying equipment mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"333922",78,0,2007,2,"-","Baker County, Georgia","Private","Conveyor and conveying equipment mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"333922",78,0,2007,3,"-","Baker County, Georgia","Private","Conveyor and conveying equipment mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"333922",78,0,2007,4,"-","Baker County, Georgia","Private","Conveyor and conveying equipment mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,42,74,0,2007,1,"N","Baker County, Georgia","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"42",74,0,2007,2,"N","Baker County, Georgia","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"42",74,0,2007,3,"N","Baker County, Georgia","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"42",74,0,2007,4,"N","Baker County, Georgia","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,424,75,0,2007,1,"N","Baker County, Georgia","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"424",75,0,2007,2,"N","Baker County, Georgia","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"424",75,0,2007,3,"N","Baker County, Georgia","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"424",75,0,2007,4,"N","Baker County, Georgia","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,4245,76,0,2007,1,"N","Baker County, Georgia","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4245",76,0,2007,2,"N","Baker County, Georgia","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4245",76,0,2007,3,"N","Baker County, Georgia","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4245",76,0,2007,4,"N","Baker County, Georgia","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,42459,77,0,2007,1,"N","Baker County, Georgia","Private","Other farm product raw material merch. whls.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"42459",77,0,2007,2,"N","Baker County, Georgia","Private","Other farm product raw material merch. whls.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"42459",77,0,2007,3,"N","Baker County, Georgia","Private","Other farm product raw material merch. whls.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"42459",77,0,2007,4,"N","Baker County, Georgia","Private","Other farm product raw material merch. whls.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,424590,78,0,2007,1,"N","Baker County, Georgia","Private","Other farm product raw material merch. whls.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"424590",78,0,2007,2,"N","Baker County, Georgia","Private","Other farm product raw material merch. whls.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"424590",78,0,2007,3,"N","Baker County, Georgia","Private","Other farm product raw material merch. whls.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"424590",78,0,2007,4,"N","Baker County, Georgia","Private","Other farm product raw material merch. whls.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,425,75,0,2007,1,"N","Baker County, Georgia","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"425",75,0,2007,2,"N","Baker County, Georgia","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"425",75,0,2007,3,"N","Baker County, Georgia","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"425",75,0,2007,4,"N","Baker County, Georgia","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,4251,76,0,2007,1,"N","Baker County, Georgia","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4251",76,0,2007,2,"N","Baker County, Georgia","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4251",76,0,2007,3,"N","Baker County, Georgia","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4251",76,0,2007,4,"N","Baker County, Georgia","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,42512,77,0,2007,1,"N","Baker County, Georgia","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"42512",77,0,2007,2,"N","Baker County, Georgia","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"42512",77,0,2007,3,"N","Baker County, Georgia","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"42512",77,0,2007,4,"N","Baker County, Georgia","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,425120,78,0,2007,1,"N","Baker County, Georgia","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"425120",78,0,2007,2,"N","Baker County, Georgia","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"425120",78,0,2007,3,"N","Baker County, Georgia","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"425120",78,0,2007,4,"N","Baker County, Georgia","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,44-45,74,0,2007,1,"","Baker County, Georgia","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",5,39,34,32,93142,92517,580,205
+"13007",5,"44-45",74,0,2007,2,"","Baker County, Georgia","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,32,68,66,213955,191165,3552,297
+"13007",5,"44-45",74,0,2007,3,"","Baker County, Georgia","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,70,73,69,211451,118006,2136,230
+"13007",5,"44-45",74,0,2007,4,"","Baker County, Georgia","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,69,79,75,275374,96287,1775,285
+"13007",5,442,75,0,2007,1,"-","Baker County, Georgia","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"442",75,0,2007,2,"N","Baker County, Georgia","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"442",75,0,2007,3,"N","Baker County, Georgia","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"442",75,0,2007,4,"N","Baker County, Georgia","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,4422,76,0,2007,1,"-","Baker County, Georgia","Private","Home furnishings stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"4422",76,0,2007,2,"N","Baker County, Georgia","Private","Home furnishings stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4422",76,0,2007,3,"N","Baker County, Georgia","Private","Home furnishings stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4422",76,0,2007,4,"N","Baker County, Georgia","Private","Home furnishings stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,44229,77,0,2007,1,"-","Baker County, Georgia","Private","Other home furnishings stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"44229",77,0,2007,2,"N","Baker County, Georgia","Private","Other home furnishings stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"44229",77,0,2007,3,"N","Baker County, Georgia","Private","Other home furnishings stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"44229",77,0,2007,4,"N","Baker County, Georgia","Private","Other home furnishings stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,442299,78,0,2007,1,"-","Baker County, Georgia","Private","All other home furnishings stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"442299",78,0,2007,2,"N","Baker County, Georgia","Private","All other home furnishings stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"442299",78,0,2007,3,"N","Baker County, Georgia","Private","All other home furnishings stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"442299",78,0,2007,4,"N","Baker County, Georgia","Private","All other home furnishings stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,444,75,0,2007,1,"N","Baker County, Georgia","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"444",75,0,2007,2,"N","Baker County, Georgia","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"444",75,0,2007,3,"N","Baker County, Georgia","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"444",75,0,2007,4,"N","Baker County, Georgia","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,4441,76,0,2007,1,"N","Baker County, Georgia","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4441",76,0,2007,2,"N","Baker County, Georgia","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4441",76,0,2007,3,"N","Baker County, Georgia","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4441",76,0,2007,4,"N","Baker County, Georgia","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,44413,77,0,2007,1,"N","Baker County, Georgia","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"44413",77,0,2007,2,"N","Baker County, Georgia","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"44413",77,0,2007,3,"N","Baker County, Georgia","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"44413",77,0,2007,4,"N","Baker County, Georgia","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,444130,78,0,2007,1,"N","Baker County, Georgia","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"444130",78,0,2007,2,"N","Baker County, Georgia","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"444130",78,0,2007,3,"N","Baker County, Georgia","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"444130",78,0,2007,4,"N","Baker County, Georgia","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,445,75,0,2007,1,"N","Baker County, Georgia","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"445",75,0,2007,2,"N","Baker County, Georgia","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"445",75,0,2007,3,"N","Baker County, Georgia","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"445",75,0,2007,4,"N","Baker County, Georgia","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,4451,76,0,2007,1,"N","Baker County, Georgia","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4451",76,0,2007,2,"N","Baker County, Georgia","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4451",76,0,2007,3,"N","Baker County, Georgia","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4451",76,0,2007,4,"N","Baker County, Georgia","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,44511,77,0,2007,1,"N","Baker County, Georgia","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"44511",77,0,2007,2,"N","Baker County, Georgia","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"44511",77,0,2007,3,"N","Baker County, Georgia","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"44511",77,0,2007,4,"N","Baker County, Georgia","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,445110,78,0,2007,1,"N","Baker County, Georgia","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"445110",78,0,2007,2,"N","Baker County, Georgia","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"445110",78,0,2007,3,"N","Baker County, Georgia","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"445110",78,0,2007,4,"N","Baker County, Georgia","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,447,75,0,2007,1,"N","Baker County, Georgia","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"447",75,0,2007,2,"N","Baker County, Georgia","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"447",75,0,2007,3,"N","Baker County, Georgia","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"447",75,0,2007,4,"N","Baker County, Georgia","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,4471,76,0,2007,1,"N","Baker County, Georgia","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"4471",76,0,2007,2,"N","Baker County, Georgia","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"4471",76,0,2007,3,"N","Baker County, Georgia","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"4471",76,0,2007,4,"N","Baker County, Georgia","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,44711,77,0,2007,1,"N","Baker County, Georgia","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"44711",77,0,2007,2,"N","Baker County, Georgia","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"44711",77,0,2007,3,"N","Baker County, Georgia","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"44711",77,0,2007,4,"N","Baker County, Georgia","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,447110,78,0,2007,1,"N","Baker County, Georgia","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"447110",78,0,2007,2,"N","Baker County, Georgia","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"447110",78,0,2007,3,"N","Baker County, Georgia","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"447110",78,0,2007,4,"N","Baker County, Georgia","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,452,75,0,2007,1,"N","Baker County, Georgia","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"452",75,0,2007,2,"N","Baker County, Georgia","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"452",75,0,2007,3,"N","Baker County, Georgia","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"452",75,0,2007,4,"N","Baker County, Georgia","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,4529,76,0,2007,1,"N","Baker County, Georgia","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4529",76,0,2007,2,"N","Baker County, Georgia","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4529",76,0,2007,3,"N","Baker County, Georgia","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"4529",76,0,2007,4,"N","Baker County, Georgia","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,45299,77,0,2007,1,"N","Baker County, Georgia","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"45299",77,0,2007,2,"N","Baker County, Georgia","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"45299",77,0,2007,3,"N","Baker County, Georgia","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"45299",77,0,2007,4,"N","Baker County, Georgia","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,452990,78,0,2007,1,"N","Baker County, Georgia","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"452990",78,0,2007,2,"N","Baker County, Georgia","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"452990",78,0,2007,3,"N","Baker County, Georgia","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"452990",78,0,2007,4,"N","Baker County, Georgia","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,48-49,74,0,2007,1,"N","Baker County, Georgia","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"13007",5,"48-49",74,0,2007,2,"N","Baker County, Georgia","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"13007",5,"48-49",74,0,2007,3,"N","Baker County, Georgia","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"13007",5,"48-49",74,0,2007,4,"N","Baker County, Georgia","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"13007",5,484,75,0,2007,1,"N","Baker County, Georgia","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"13007",5,"484",75,0,2007,2,"N","Baker County, Georgia","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"13007",5,"484",75,0,2007,3,"N","Baker County, Georgia","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"13007",5,"484",75,0,2007,4,"N","Baker County, Georgia","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"13007",5,4841,76,0,2007,1,"","Baker County, Georgia","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,5,6,5,33550,32814,860,484
+"13007",5,"4841",76,0,2007,2,"N","Baker County, Georgia","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"4841",76,0,2007,3,"N","Baker County, Georgia","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"4841",76,0,2007,4,"N","Baker County, Georgia","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,48412,77,0,2007,1,"","Baker County, Georgia","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,5,6,5,33550,32814,860,484
+"13007",5,"48412",77,0,2007,2,"N","Baker County, Georgia","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"48412",77,0,2007,3,"N","Baker County, Georgia","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"48412",77,0,2007,4,"N","Baker County, Georgia","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,484121,78,0,2007,1,"","Baker County, Georgia","Private","General freight trucking, long-distance TL","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,5,6,5,33550,32814,860,484
+"13007",5,"484121",78,0,2007,2,"N","Baker County, Georgia","Private","General freight trucking, long-distance TL","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"484121",78,0,2007,3,"N","Baker County, Georgia","Private","General freight trucking, long-distance TL","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"484121",78,0,2007,4,"N","Baker County, Georgia","Private","General freight trucking, long-distance TL","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,4842,76,0,2007,1,"N","Baker County, Georgia","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13007",5,"4842",76,0,2007,2,"N","Baker County, Georgia","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13007",5,"4842",76,0,2007,3,"N","Baker County, Georgia","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"4842",76,0,2007,4,"N","Baker County, Georgia","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,48422,77,0,2007,1,"N","Baker County, Georgia","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"48422",77,0,2007,2,"N","Baker County, Georgia","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"48422",77,0,2007,3,"N","Baker County, Georgia","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"48422",77,0,2007,4,"N","Baker County, Georgia","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,484220,78,0,2007,1,"N","Baker County, Georgia","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"484220",78,0,2007,2,"N","Baker County, Georgia","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"484220",78,0,2007,3,"N","Baker County, Georgia","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"484220",78,0,2007,4,"N","Baker County, Georgia","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,48423,77,0,2007,1,"N","Baker County, Georgia","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"48423",77,0,2007,2,"N","Baker County, Georgia","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"48423",77,0,2007,3,"-","Baker County, Georgia","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"48423",77,0,2007,4,"-","Baker County, Georgia","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,484230,78,0,2007,1,"N","Baker County, Georgia","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"484230",78,0,2007,2,"N","Baker County, Georgia","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"484230",78,0,2007,3,"-","Baker County, Georgia","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,"484230",78,0,2007,4,"-","Baker County, Georgia","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13007",5,52,74,0,2007,1,"N","Baker County, Georgia","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"52",74,0,2007,2,"N","Baker County, Georgia","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"52",74,0,2007,3,"N","Baker County, Georgia","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"52",74,0,2007,4,"N","Baker County, Georgia","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,522,75,0,2007,1,"N","Baker County, Georgia","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"522",75,0,2007,2,"N","Baker County, Georgia","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"522",75,0,2007,3,"N","Baker County, Georgia","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"522",75,0,2007,4,"N","Baker County, Georgia","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,5221,76,0,2007,1,"N","Baker County, Georgia","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5221",76,0,2007,2,"N","Baker County, Georgia","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5221",76,0,2007,3,"N","Baker County, Georgia","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5221",76,0,2007,4,"N","Baker County, Georgia","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,52211,77,0,2007,1,"N","Baker County, Georgia","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"52211",77,0,2007,2,"N","Baker County, Georgia","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"52211",77,0,2007,3,"N","Baker County, Georgia","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"52211",77,0,2007,4,"N","Baker County, Georgia","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,522110,78,0,2007,1,"N","Baker County, Georgia","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"522110",78,0,2007,2,"N","Baker County, Georgia","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"522110",78,0,2007,3,"N","Baker County, Georgia","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"522110",78,0,2007,4,"N","Baker County, Georgia","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,524,75,0,2007,1,"N","Baker County, Georgia","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"524",75,0,2007,2,"N","Baker County, Georgia","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"524",75,0,2007,3,"N","Baker County, Georgia","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"524",75,0,2007,4,"N","Baker County, Georgia","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,5241,76,0,2007,1,"N","Baker County, Georgia","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5241",76,0,2007,2,"N","Baker County, Georgia","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5241",76,0,2007,3,"N","Baker County, Georgia","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5241",76,0,2007,4,"N","Baker County, Georgia","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,52412,77,0,2007,1,"N","Baker County, Georgia","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"52412",77,0,2007,2,"N","Baker County, Georgia","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"52412",77,0,2007,3,"N","Baker County, Georgia","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"52412",77,0,2007,4,"N","Baker County, Georgia","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,524126,78,0,2007,1,"N","Baker County, Georgia","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"524126",78,0,2007,2,"N","Baker County, Georgia","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"524126",78,0,2007,3,"N","Baker County, Georgia","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"524126",78,0,2007,4,"N","Baker County, Georgia","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,53,74,0,2007,1,"N","Baker County, Georgia","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"53",74,0,2007,2,"N","Baker County, Georgia","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"53",74,0,2007,3,"N","Baker County, Georgia","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"53",74,0,2007,4,"N","Baker County, Georgia","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,531,75,0,2007,1,"N","Baker County, Georgia","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"531",75,0,2007,2,"N","Baker County, Georgia","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"531",75,0,2007,3,"N","Baker County, Georgia","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"531",75,0,2007,4,"N","Baker County, Georgia","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,5313,76,0,2007,1,"N","Baker County, Georgia","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5313",76,0,2007,2,"N","Baker County, Georgia","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5313",76,0,2007,3,"N","Baker County, Georgia","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5313",76,0,2007,4,"N","Baker County, Georgia","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,53131,77,0,2007,1,"N","Baker County, Georgia","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"53131",77,0,2007,2,"N","Baker County, Georgia","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"53131",77,0,2007,3,"N","Baker County, Georgia","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"53131",77,0,2007,4,"N","Baker County, Georgia","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,531312,78,0,2007,1,"N","Baker County, Georgia","Private","Nonresidential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"531312",78,0,2007,2,"N","Baker County, Georgia","Private","Nonresidential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"531312",78,0,2007,3,"N","Baker County, Georgia","Private","Nonresidential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"531312",78,0,2007,4,"N","Baker County, Georgia","Private","Nonresidential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,54,74,0,2007,1,"N","Baker County, Georgia","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"54",74,0,2007,2,"N","Baker County, Georgia","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"54",74,0,2007,3,"N","Baker County, Georgia","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"54",74,0,2007,4,"N","Baker County, Georgia","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,541,75,0,2007,1,"N","Baker County, Georgia","Private","Professional and Technical Services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"541",75,0,2007,2,"N","Baker County, Georgia","Private","Professional and Technical Services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"541",75,0,2007,3,"N","Baker County, Georgia","Private","Professional and Technical Services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"541",75,0,2007,4,"N","Baker County, Georgia","Private","Professional and Technical Services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,5413,76,0,2007,1,"N","Baker County, Georgia","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5413",76,0,2007,2,"N","Baker County, Georgia","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5413",76,0,2007,3,"N","Baker County, Georgia","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5413",76,0,2007,4,"N","Baker County, Georgia","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,54133,77,0,2007,1,"N","Baker County, Georgia","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"54133",77,0,2007,2,"N","Baker County, Georgia","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"54133",77,0,2007,3,"N","Baker County, Georgia","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"54133",77,0,2007,4,"N","Baker County, Georgia","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,541330,78,0,2007,1,"N","Baker County, Georgia","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"541330",78,0,2007,2,"N","Baker County, Georgia","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"541330",78,0,2007,3,"N","Baker County, Georgia","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"541330",78,0,2007,4,"N","Baker County, Georgia","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,5417,76,0,2007,1,"N","Baker County, Georgia","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5417",76,0,2007,2,"N","Baker County, Georgia","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5417",76,0,2007,3,"N","Baker County, Georgia","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5417",76,0,2007,4,"N","Baker County, Georgia","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,54171,77,0,2007,1,"N","Baker County, Georgia","Private","Physical, engineering and biological research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"54171",77,0,2007,2,"N","Baker County, Georgia","Private","Physical, engineering and biological research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"54171",77,0,2007,3,"N","Baker County, Georgia","Private","Physical, engineering and biological research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"54171",77,0,2007,4,"N","Baker County, Georgia","Private","Physical, engineering and biological research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,541711,78,0,2007,1,"N","Baker County, Georgia","Private","Research and development in biotechnology","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"541711",78,0,2007,2,"N","Baker County, Georgia","Private","Research and development in biotechnology","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"541711",78,0,2007,3,"N","Baker County, Georgia","Private","Research and development in biotechnology","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"541711",78,0,2007,4,"N","Baker County, Georgia","Private","Research and development in biotechnology","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,5419,76,0,2007,1,"N","Baker County, Georgia","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5419",76,0,2007,2,"N","Baker County, Georgia","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5419",76,0,2007,3,"N","Baker County, Georgia","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5419",76,0,2007,4,"N","Baker County, Georgia","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,54192,77,0,2007,1,"N","Baker County, Georgia","Private","Photographic services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"54192",77,0,2007,2,"N","Baker County, Georgia","Private","Photographic services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"54192",77,0,2007,3,"N","Baker County, Georgia","Private","Photographic services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"54192",77,0,2007,4,"N","Baker County, Georgia","Private","Photographic services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,541921,78,0,2007,1,"N","Baker County, Georgia","Private","Photography studios, portrait","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"541921",78,0,2007,2,"N","Baker County, Georgia","Private","Photography studios, portrait","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"541921",78,0,2007,3,"N","Baker County, Georgia","Private","Photography studios, portrait","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"541921",78,0,2007,4,"N","Baker County, Georgia","Private","Photography studios, portrait","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,56,74,0,2007,1,"N","Baker County, Georgia","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"56",74,0,2007,2,"N","Baker County, Georgia","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"56",74,0,2007,3,"N","Baker County, Georgia","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"56",74,0,2007,4,"N","Baker County, Georgia","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,561,75,0,2007,1,"N","Baker County, Georgia","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"561",75,0,2007,2,"N","Baker County, Georgia","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"561",75,0,2007,3,"N","Baker County, Georgia","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"561",75,0,2007,4,"N","Baker County, Georgia","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,5613,76,0,2007,1,"N","Baker County, Georgia","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5613",76,0,2007,2,"N","Baker County, Georgia","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5613",76,0,2007,3,"N","Baker County, Georgia","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"5613",76,0,2007,4,"N","Baker County, Georgia","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,56133,77,0,2007,1,"N","Baker County, Georgia","Private","Professional employer organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"56133",77,0,2007,2,"N","Baker County, Georgia","Private","Professional employer organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"56133",77,0,2007,3,"N","Baker County, Georgia","Private","Professional employer organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"56133",77,0,2007,4,"N","Baker County, Georgia","Private","Professional employer organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,561330,78,0,2007,1,"N","Baker County, Georgia","Private","Professional employer organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"561330",78,0,2007,2,"N","Baker County, Georgia","Private","Professional employer organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"561330",78,0,2007,3,"N","Baker County, Georgia","Private","Professional employer organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"561330",78,0,2007,4,"N","Baker County, Georgia","Private","Professional employer organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,62,74,0,2007,1,"","Baker County, Georgia","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,25,25,26,165918,62242,1218,504
+"13007",5,"62",74,0,2007,2,"","Baker County, Georgia","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,26,26,25,175997,38105,747,527
+"13007",5,"62",74,0,2007,3,"","Baker County, Georgia","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,26,25,27,174715,17097,337,517
+"13007",5,"62",74,0,2007,4,"","Baker County, Georgia","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,28,27,27,193177,8781,169,544
+"13007",5,621,75,0,2007,1,"N","Baker County, Georgia","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"621",75,0,2007,2,"N","Baker County, Georgia","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"621",75,0,2007,3,"N","Baker County, Georgia","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"621",75,0,2007,4,"N","Baker County, Georgia","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,6211,76,0,2007,1,"N","Baker County, Georgia","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"6211",76,0,2007,2,"N","Baker County, Georgia","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"6211",76,0,2007,3,"N","Baker County, Georgia","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"6211",76,0,2007,4,"N","Baker County, Georgia","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,62111,77,0,2007,1,"N","Baker County, Georgia","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"62111",77,0,2007,2,"N","Baker County, Georgia","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"62111",77,0,2007,3,"N","Baker County, Georgia","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"62111",77,0,2007,4,"N","Baker County, Georgia","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,621111,78,0,2007,1,"N","Baker County, Georgia","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"621111",78,0,2007,2,"N","Baker County, Georgia","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"621111",78,0,2007,3,"N","Baker County, Georgia","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"621111",78,0,2007,4,"N","Baker County, Georgia","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,624,75,0,2007,1,"N","Baker County, Georgia","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"624",75,0,2007,2,"N","Baker County, Georgia","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"624",75,0,2007,3,"N","Baker County, Georgia","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"624",75,0,2007,4,"N","Baker County, Georgia","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,6241,76,0,2007,1,"N","Baker County, Georgia","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"6241",76,0,2007,2,"N","Baker County, Georgia","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"6241",76,0,2007,3,"N","Baker County, Georgia","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"6241",76,0,2007,4,"N","Baker County, Georgia","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,62412,77,0,2007,1,"N","Baker County, Georgia","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"62412",77,0,2007,2,"N","Baker County, Georgia","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"62412",77,0,2007,3,"N","Baker County, Georgia","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"62412",77,0,2007,4,"N","Baker County, Georgia","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,624120,78,0,2007,1,"N","Baker County, Georgia","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"624120",78,0,2007,2,"N","Baker County, Georgia","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"624120",78,0,2007,3,"N","Baker County, Georgia","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"624120",78,0,2007,4,"N","Baker County, Georgia","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,62419,77,0,2007,1,"N","Baker County, Georgia","Private","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"62419",77,0,2007,2,"N","Baker County, Georgia","Private","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"62419",77,0,2007,3,"N","Baker County, Georgia","Private","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"62419",77,0,2007,4,"N","Baker County, Georgia","Private","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,624190,78,0,2007,1,"N","Baker County, Georgia","Private","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"624190",78,0,2007,2,"N","Baker County, Georgia","Private","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"624190",78,0,2007,3,"N","Baker County, Georgia","Private","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"624190",78,0,2007,4,"N","Baker County, Georgia","Private","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,6244,76,0,2007,1,"N","Baker County, Georgia","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"6244",76,0,2007,2,"N","Baker County, Georgia","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"6244",76,0,2007,3,"N","Baker County, Georgia","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"6244",76,0,2007,4,"N","Baker County, Georgia","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,62441,77,0,2007,1,"N","Baker County, Georgia","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"62441",77,0,2007,2,"N","Baker County, Georgia","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"62441",77,0,2007,3,"N","Baker County, Georgia","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"62441",77,0,2007,4,"N","Baker County, Georgia","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,624410,78,0,2007,1,"N","Baker County, Georgia","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"624410",78,0,2007,2,"N","Baker County, Georgia","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"624410",78,0,2007,3,"N","Baker County, Georgia","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"624410",78,0,2007,4,"N","Baker County, Georgia","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,72,74,0,2007,1,"N","Baker County, Georgia","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"72",74,0,2007,2,"N","Baker County, Georgia","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"72",74,0,2007,3,"N","Baker County, Georgia","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"72",74,0,2007,4,"N","Baker County, Georgia","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,722,75,0,2007,1,"N","Baker County, Georgia","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"722",75,0,2007,2,"N","Baker County, Georgia","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"722",75,0,2007,3,"N","Baker County, Georgia","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"722",75,0,2007,4,"N","Baker County, Georgia","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,7221,76,0,2007,1,"N","Baker County, Georgia","Private","Full-service restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"7221",76,0,2007,2,"N","Baker County, Georgia","Private","Full-service restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"7221",76,0,2007,3,"N","Baker County, Georgia","Private","Full-service restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"7221",76,0,2007,4,"N","Baker County, Georgia","Private","Full-service restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,72211,77,0,2007,1,"N","Baker County, Georgia","Private","Full-service restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"72211",77,0,2007,2,"N","Baker County, Georgia","Private","Full-service restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"72211",77,0,2007,3,"N","Baker County, Georgia","Private","Full-service restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"72211",77,0,2007,4,"N","Baker County, Georgia","Private","Full-service restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,722110,78,0,2007,1,"N","Baker County, Georgia","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"722110",78,0,2007,2,"N","Baker County, Georgia","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"722110",78,0,2007,3,"N","Baker County, Georgia","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"722110",78,0,2007,4,"N","Baker County, Georgia","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,81,74,0,2007,1,"N","Baker County, Georgia","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"81",74,0,2007,2,"N","Baker County, Georgia","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"81",74,0,2007,3,"N","Baker County, Georgia","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,"81",74,0,2007,4,"","Baker County, Georgia","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,8,9,9,24581,16040,387,218
+"13007",5,813,75,0,2007,1,"N","Baker County, Georgia","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"813",75,0,2007,2,"N","Baker County, Georgia","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"813",75,0,2007,3,"N","Baker County, Georgia","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"813",75,0,2007,4,"N","Baker County, Georgia","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,8139,76,0,2007,1,"N","Baker County, Georgia","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"8139",76,0,2007,2,"N","Baker County, Georgia","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"8139",76,0,2007,3,"N","Baker County, Georgia","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"8139",76,0,2007,4,"N","Baker County, Georgia","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,81391,77,0,2007,1,"N","Baker County, Georgia","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"81391",77,0,2007,2,"N","Baker County, Georgia","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"81391",77,0,2007,3,"N","Baker County, Georgia","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"81391",77,0,2007,4,"N","Baker County, Georgia","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,813910,78,0,2007,1,"N","Baker County, Georgia","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"813910",78,0,2007,2,"N","Baker County, Georgia","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"813910",78,0,2007,3,"N","Baker County, Georgia","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,"813910",78,0,2007,4,"N","Baker County, Georgia","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13007",5,814,75,0,2007,1,"N","Baker County, Georgia","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"814",75,0,2007,2,"N","Baker County, Georgia","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"814",75,0,2007,3,"N","Baker County, Georgia","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"814",75,0,2007,4,"N","Baker County, Georgia","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,8141,76,0,2007,1,"N","Baker County, Georgia","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"8141",76,0,2007,2,"N","Baker County, Georgia","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"8141",76,0,2007,3,"N","Baker County, Georgia","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"8141",76,0,2007,4,"N","Baker County, Georgia","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,81411,77,0,2007,1,"N","Baker County, Georgia","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"81411",77,0,2007,2,"N","Baker County, Georgia","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"81411",77,0,2007,3,"N","Baker County, Georgia","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"81411",77,0,2007,4,"N","Baker County, Georgia","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13007",5,814110,78,0,2007,1,"N","Baker County, Georgia","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"814110",78,0,2007,2,"N","Baker County, Georgia","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"814110",78,0,2007,3,"N","Baker County, Georgia","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13007",5,"814110",78,0,2007,4,"N","Baker County, Georgia","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+

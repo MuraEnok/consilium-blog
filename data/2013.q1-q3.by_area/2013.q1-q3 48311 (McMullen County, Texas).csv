@@ -1,0 +1,599 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"48311",0,"10",70,0,2013,1,"","McMullen County, Texas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",59,509,526,555,6252074,2895869,69965,907
+"48311",0,"10",70,0,2013,2,"","McMullen County, Texas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",61,575,580,583,6510184,1057730,23715,864
+"48311",0,"10",70,0,2013,3,"","McMullen County, Texas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",58,552,551,570,6618389,777351,15225,913
+"48311",1,"10",71,0,2013,1,"","McMullen County, Texas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,5,4,4,30474,0,0,541
+"48311",1,"10",71,0,2013,2,"","McMullen County, Texas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,5,4,4,30031,0,0,533
+"48311",1,"10",71,0,2013,3,"","McMullen County, Texas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,4,4,4,31147,0,0,599
+"48311",1,"102",72,0,2013,1,"","McMullen County, Texas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,5,4,4,30474,0,0,541
+"48311",1,"102",72,0,2013,2,"","McMullen County, Texas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,5,4,4,30031,0,0,533
+"48311",1,"102",72,0,2013,3,"","McMullen County, Texas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,4,4,4,31147,0,0,599
+"48311",1,"1021",73,0,2013,1,"","McMullen County, Texas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,4,3,3,16832,0,0,388
+"48311",1,"1021",73,0,2013,2,"","McMullen County, Texas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,4,3,3,14116,0,0,326
+"48311",1,"1021",73,0,2013,3,"","McMullen County, Texas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,3,3,3,15232,0,0,391
+"48311",1,"1028",73,0,2013,1,"","McMullen County, Texas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,1,1,1,13642,0,0,1049
+"48311",1,"1028",73,0,2013,2,"","McMullen County, Texas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,1,1,1,15915,0,0,1224
+"48311",1,"1028",73,0,2013,3,"","McMullen County, Texas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,1,1,1,15915,0,0,1224
+"48311",1,"48-49",74,0,2013,1,"","McMullen County, Texas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,4,3,3,16832,0,0,388
+"48311",1,"48-49",74,0,2013,2,"","McMullen County, Texas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,4,3,3,14116,0,0,326
+"48311",1,"48-49",74,0,2013,3,"","McMullen County, Texas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,3,3,3,15232,0,0,391
+"48311",1,"491",75,0,2013,1,"","McMullen County, Texas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,4,3,3,16832,0,0,388
+"48311",1,"491",75,0,2013,2,"","McMullen County, Texas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,4,3,3,14116,0,0,326
+"48311",1,"491",75,0,2013,3,"","McMullen County, Texas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,3,3,3,15232,0,0,391
+"48311",1,"4911",76,0,2013,1,"","McMullen County, Texas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,4,3,3,16832,0,0,388
+"48311",1,"4911",76,0,2013,2,"","McMullen County, Texas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,4,3,3,14116,0,0,326
+"48311",1,"4911",76,0,2013,3,"","McMullen County, Texas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,3,3,3,15232,0,0,391
+"48311",1,"49111",77,0,2013,1,"","McMullen County, Texas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,4,3,3,16832,0,0,388
+"48311",1,"49111",77,0,2013,2,"","McMullen County, Texas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,4,3,3,14116,0,0,326
+"48311",1,"49111",77,0,2013,3,"","McMullen County, Texas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,3,3,3,15232,0,0,391
+"48311",1,"491110",78,0,2013,1,"","McMullen County, Texas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,4,3,3,16832,0,0,388
+"48311",1,"491110",78,0,2013,2,"","McMullen County, Texas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,4,3,3,14116,0,0,326
+"48311",1,"491110",78,0,2013,3,"","McMullen County, Texas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,3,3,3,15232,0,0,391
+"48311",1,"92",74,0,2013,1,"","McMullen County, Texas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,1,1,1,13642,0,0,1049
+"48311",1,"92",74,0,2013,2,"","McMullen County, Texas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,1,1,1,15915,0,0,1224
+"48311",1,"92",74,0,2013,3,"","McMullen County, Texas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,1,1,1,15915,0,0,1224
+"48311",1,"924",75,0,2013,1,"","McMullen County, Texas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,13642,0,0,1049
+"48311",1,"924",75,0,2013,2,"","McMullen County, Texas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,15915,0,0,1224
+"48311",1,"924",75,0,2013,3,"","McMullen County, Texas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,15915,0,0,1224
+"48311",1,"9241",76,0,2013,1,"","McMullen County, Texas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,13642,0,0,1049
+"48311",1,"9241",76,0,2013,2,"","McMullen County, Texas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,15915,0,0,1224
+"48311",1,"9241",76,0,2013,3,"","McMullen County, Texas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,15915,0,0,1224
+"48311",1,"92412",77,0,2013,1,"","McMullen County, Texas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,13642,0,0,1049
+"48311",1,"92412",77,0,2013,2,"","McMullen County, Texas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,15915,0,0,1224
+"48311",1,"92412",77,0,2013,3,"","McMullen County, Texas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,15915,0,0,1224
+"48311",1,"924120",78,0,2013,1,"","McMullen County, Texas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,13642,0,0,1049
+"48311",1,"924120",78,0,2013,2,"","McMullen County, Texas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,15915,0,0,1224
+"48311",1,"924120",78,0,2013,3,"","McMullen County, Texas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,15915,0,0,1224
+"48311",2,"10",71,0,2013,1,"N","McMullen County, Texas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48311",2,"10",71,0,2013,2,"N","McMullen County, Texas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48311",2,"10",71,0,2013,3,"N","McMullen County, Texas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48311",2,"101",72,0,2013,1,"N","McMullen County, Texas","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"101",72,0,2013,2,"N","McMullen County, Texas","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"101",72,0,2013,3,"N","McMullen County, Texas","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"1012",73,0,2013,1,"N","McMullen County, Texas","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"1012",73,0,2013,2,"N","McMullen County, Texas","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"1012",73,0,2013,3,"N","McMullen County, Texas","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"102",72,0,2013,1,"","McMullen County, Texas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,20,21,21,169967,0,0,633
+"48311",2,"102",72,0,2013,2,"","McMullen County, Texas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,21,21,24,180167,0,0,630
+"48311",2,"102",72,0,2013,3,"N","McMullen County, Texas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",2,"1028",73,0,2013,1,"","McMullen County, Texas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,20,21,21,169967,0,0,633
+"48311",2,"1028",73,0,2013,2,"","McMullen County, Texas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,21,21,24,180167,0,0,630
+"48311",2,"1028",73,0,2013,3,"N","McMullen County, Texas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",2,"23",74,0,2013,1,"N","McMullen County, Texas","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"23",74,0,2013,2,"N","McMullen County, Texas","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"23",74,0,2013,3,"N","McMullen County, Texas","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"237",75,0,2013,1,"N","McMullen County, Texas","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"237",75,0,2013,2,"N","McMullen County, Texas","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"237",75,0,2013,3,"N","McMullen County, Texas","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"2373",76,0,2013,1,"N","McMullen County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"2373",76,0,2013,2,"N","McMullen County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"2373",76,0,2013,3,"N","McMullen County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"23731",77,0,2013,1,"N","McMullen County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"23731",77,0,2013,2,"N","McMullen County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"23731",77,0,2013,3,"N","McMullen County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"237310",78,0,2013,1,"N","McMullen County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"237310",78,0,2013,2,"N","McMullen County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"237310",78,0,2013,3,"N","McMullen County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"92",74,0,2013,1,"","McMullen County, Texas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,20,21,21,169967,0,0,633
+"48311",2,"92",74,0,2013,2,"","McMullen County, Texas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,21,21,24,180167,0,0,630
+"48311",2,"92",74,0,2013,3,"N","McMullen County, Texas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",2,"923",75,0,2013,1,"N","McMullen County, Texas","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"923",75,0,2013,2,"N","McMullen County, Texas","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"923",75,0,2013,3,"-","McMullen County, Texas","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",2,"9231",76,0,2013,1,"N","McMullen County, Texas","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"9231",76,0,2013,2,"N","McMullen County, Texas","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"9231",76,0,2013,3,"-","McMullen County, Texas","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",2,"92312",77,0,2013,1,"N","McMullen County, Texas","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"92312",77,0,2013,2,"N","McMullen County, Texas","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"92312",77,0,2013,3,"-","McMullen County, Texas","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",2,"923120",78,0,2013,1,"N","McMullen County, Texas","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"923120",78,0,2013,2,"N","McMullen County, Texas","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"923120",78,0,2013,3,"-","McMullen County, Texas","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",2,"924",75,0,2013,1,"N","McMullen County, Texas","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"924",75,0,2013,2,"N","McMullen County, Texas","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"924",75,0,2013,3,"N","McMullen County, Texas","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"9241",76,0,2013,1,"N","McMullen County, Texas","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"9241",76,0,2013,2,"N","McMullen County, Texas","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"9241",76,0,2013,3,"N","McMullen County, Texas","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"92412",77,0,2013,1,"N","McMullen County, Texas","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"92412",77,0,2013,2,"N","McMullen County, Texas","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"92412",77,0,2013,3,"N","McMullen County, Texas","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"924120",78,0,2013,1,"N","McMullen County, Texas","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"924120",78,0,2013,2,"N","McMullen County, Texas","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"924120",78,0,2013,3,"N","McMullen County, Texas","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",2,"926",75,0,2013,1,"N","McMullen County, Texas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",2,"926",75,0,2013,2,"N","McMullen County, Texas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",2,"926",75,0,2013,3,"N","McMullen County, Texas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",2,"9261",76,0,2013,1,"N","McMullen County, Texas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",2,"9261",76,0,2013,2,"N","McMullen County, Texas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",2,"9261",76,0,2013,3,"N","McMullen County, Texas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",2,"92614",77,0,2013,1,"N","McMullen County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",2,"92614",77,0,2013,2,"N","McMullen County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",2,"92614",77,0,2013,3,"N","McMullen County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",2,"926140",78,0,2013,1,"N","McMullen County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",2,"926140",78,0,2013,2,"N","McMullen County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",2,"926140",78,0,2013,3,"N","McMullen County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",3,"10",71,0,2013,1,"N","McMullen County, Texas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",3,"10",71,0,2013,2,"N","McMullen County, Texas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",3,"10",71,0,2013,3,"N","McMullen County, Texas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",3,"102",72,0,2013,1,"N","McMullen County, Texas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",3,"102",72,0,2013,2,"N","McMullen County, Texas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",3,"102",72,0,2013,3,"N","McMullen County, Texas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",3,"1025",73,0,2013,1,"N","McMullen County, Texas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"1025",73,0,2013,2,"N","McMullen County, Texas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"1025",73,0,2013,3,"N","McMullen County, Texas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"1028",73,0,2013,1,"N","McMullen County, Texas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",3,"1028",73,0,2013,2,"N","McMullen County, Texas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",3,"1028",73,0,2013,3,"N","McMullen County, Texas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",3,"61",74,0,2013,1,"N","McMullen County, Texas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"61",74,0,2013,2,"N","McMullen County, Texas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"61",74,0,2013,3,"N","McMullen County, Texas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"611",75,0,2013,1,"N","McMullen County, Texas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"611",75,0,2013,2,"N","McMullen County, Texas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"611",75,0,2013,3,"N","McMullen County, Texas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"6111",76,0,2013,1,"N","McMullen County, Texas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"6111",76,0,2013,2,"N","McMullen County, Texas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"6111",76,0,2013,3,"N","McMullen County, Texas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"61111",77,0,2013,1,"N","McMullen County, Texas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"61111",77,0,2013,2,"N","McMullen County, Texas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"61111",77,0,2013,3,"N","McMullen County, Texas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"611110",78,0,2013,1,"N","McMullen County, Texas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"611110",78,0,2013,2,"N","McMullen County, Texas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"611110",78,0,2013,3,"N","McMullen County, Texas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"92",74,0,2013,1,"N","McMullen County, Texas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",3,"92",74,0,2013,2,"N","McMullen County, Texas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",3,"92",74,0,2013,3,"N","McMullen County, Texas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",3,"921",75,0,2013,1,"N","McMullen County, Texas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"921",75,0,2013,2,"N","McMullen County, Texas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"921",75,0,2013,3,"N","McMullen County, Texas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"9211",76,0,2013,1,"N","McMullen County, Texas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"9211",76,0,2013,2,"N","McMullen County, Texas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"9211",76,0,2013,3,"N","McMullen County, Texas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"92114",77,0,2013,1,"N","McMullen County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"92114",77,0,2013,2,"N","McMullen County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"92114",77,0,2013,3,"N","McMullen County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"921140",78,0,2013,1,"N","McMullen County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"921140",78,0,2013,2,"N","McMullen County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"921140",78,0,2013,3,"N","McMullen County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"924",75,0,2013,1,"N","McMullen County, Texas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"924",75,0,2013,2,"N","McMullen County, Texas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"924",75,0,2013,3,"N","McMullen County, Texas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"9241",76,0,2013,1,"N","McMullen County, Texas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"9241",76,0,2013,2,"N","McMullen County, Texas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"9241",76,0,2013,3,"N","McMullen County, Texas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"92412",77,0,2013,1,"N","McMullen County, Texas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"92412",77,0,2013,2,"N","McMullen County, Texas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"92412",77,0,2013,3,"N","McMullen County, Texas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"924120",78,0,2013,1,"N","McMullen County, Texas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"924120",78,0,2013,2,"N","McMullen County, Texas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",3,"924120",78,0,2013,3,"N","McMullen County, Texas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"10",71,0,2013,1,"","McMullen County, Texas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",48,373,394,423,5063932,2602009,69672,982
+"48311",5,"10",71,0,2013,2,"","McMullen County, Texas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",50,439,440,438,5239347,991612,23650,918
+"48311",5,"10",71,0,2013,3,"","McMullen County, Texas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",48,413,412,432,5295738,732481,15181,972
+"48311",5,"101",72,0,2013,1,"","McMullen County, Texas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",21,175,181,193,2605283,1224564,48317,1095
+"48311",5,"101",72,0,2013,2,"","McMullen County, Texas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",21,204,199,199,2869156,453752,14922,1100
+"48311",5,"101",72,0,2013,3,"","McMullen County, Texas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",21,210,213,237,3010897,398111,9527,1053
+"48311",5,"1011",73,0,2013,1,"N","McMullen County, Texas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",20,0,0,0,0,0,0,0
+"48311",5,"1011",73,0,2013,2,"N","McMullen County, Texas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",20,0,0,0,0,0,0,0
+"48311",5,"1011",73,0,2013,3,"N","McMullen County, Texas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",20,0,0,0,0,0,0,0
+"48311",5,"1012",73,0,2013,1,"N","McMullen County, Texas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"1012",73,0,2013,2,"N","McMullen County, Texas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"1012",73,0,2013,3,"N","McMullen County, Texas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"102",72,0,2013,1,"","McMullen County, Texas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",27,198,213,230,2458649,1377445,21355,885
+"48311",5,"102",72,0,2013,2,"","McMullen County, Texas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",29,235,241,239,2370191,537860,8728,765
+"48311",5,"102",72,0,2013,3,"","McMullen County, Texas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",27,203,199,195,2284841,334370,5654,883
+"48311",5,"1021",73,0,2013,1,"","McMullen County, Texas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",11,146,168,178,2108037,1107314,16750,989
+"48311",5,"1021",73,0,2013,2,"","McMullen County, Texas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",12,182,191,189,2006522,417621,6777,824
+"48311",5,"1021",73,0,2013,3,"","McMullen County, Texas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",12,162,157,157,2044049,284000,4880,991
+"48311",5,"1023",73,0,2013,1,"","McMullen County, Texas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,19,18,18,172490,120575,2340,724
+"48311",5,"1023",73,0,2013,2,"","McMullen County, Texas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,16,15,15,179068,35254,806,898
+"48311",5,"1023",73,0,2013,3,"","McMullen County, Texas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",3,6,6,6,56567,1515,36,725
+"48311",5,"1024",73,0,2013,1,"","McMullen County, Texas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",3,6,4,7,63751,42094,788,865
+"48311",5,"1024",73,0,2013,2,"N","McMullen County, Texas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"1024",73,0,2013,3,"","McMullen County, Texas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",4,6,6,6,73690,5390,58,945
+"48311",5,"1025",73,0,2013,1,"N","McMullen County, Texas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"1025",73,0,2013,2,"N","McMullen County, Texas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"1025",73,0,2013,3,"N","McMullen County, Texas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"1026",73,0,2013,1,"","McMullen County, Texas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",3,11,11,11,60540,54540,998,423
+"48311",5,"1026",73,0,2013,2,"","McMullen County, Texas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",4,16,15,16,56760,38395,679,279
+"48311",5,"1026",73,0,2013,3,"","McMullen County, Texas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",4,14,14,15,55654,24800,580,299
+"48311",5,"1027",73,0,2013,1,"N","McMullen County, Texas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48311",5,"1027",73,0,2013,2,"","McMullen County, Texas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",4,4,4,4,26516,12380,261,510
+"48311",5,"1027",73,0,2013,3,"N","McMullen County, Texas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"11",74,0,2013,1,"N","McMullen County, Texas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",14,0,0,0,0,0,0,0
+"48311",5,"11",74,0,2013,2,"N","McMullen County, Texas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",14,0,0,0,0,0,0,0
+"48311",5,"11",74,0,2013,3,"N","McMullen County, Texas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",14,0,0,0,0,0,0,0
+"48311",5,"111",75,0,2013,1,"N","McMullen County, Texas","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"111",75,0,2013,2,"N","McMullen County, Texas","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"111",75,0,2013,3,"N","McMullen County, Texas","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"1119",76,0,2013,1,"N","McMullen County, Texas","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"1119",76,0,2013,2,"N","McMullen County, Texas","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"1119",76,0,2013,3,"N","McMullen County, Texas","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"11192",77,0,2013,1,"N","McMullen County, Texas","Private","Cotton farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"11192",77,0,2013,2,"N","McMullen County, Texas","Private","Cotton farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"11192",77,0,2013,3,"N","McMullen County, Texas","Private","Cotton farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"111920",78,0,2013,1,"N","McMullen County, Texas","Private","Cotton farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"111920",78,0,2013,2,"N","McMullen County, Texas","Private","Cotton farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"111920",78,0,2013,3,"N","McMullen County, Texas","Private","Cotton farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"112",75,0,2013,1,"","McMullen County, Texas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",11,33,34,34,269169,180830,2690,615
+"48311",5,"112",75,0,2013,2,"","McMullen County, Texas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",11,31,29,31,311833,93757,1728,791
+"48311",5,"112",75,0,2013,3,"","McMullen County, Texas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",11,35,36,35,281388,49327,868,613
+"48311",5,"1121",76,0,2013,1,"","McMullen County, Texas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",11,33,34,34,269169,180830,2690,615
+"48311",5,"1121",76,0,2013,2,"","McMullen County, Texas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",11,31,29,31,311833,93757,1728,791
+"48311",5,"1121",76,0,2013,3,"","McMullen County, Texas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",11,35,36,35,281388,49327,868,613
+"48311",5,"11211",77,0,2013,1,"","McMullen County, Texas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",11,33,34,34,269169,180830,2690,615
+"48311",5,"11211",77,0,2013,2,"","McMullen County, Texas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",11,31,29,31,311833,93757,1728,791
+"48311",5,"11211",77,0,2013,3,"","McMullen County, Texas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",11,35,36,35,281388,49327,868,613
+"48311",5,"112111",78,0,2013,1,"","McMullen County, Texas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",11,33,34,34,269169,180830,2690,615
+"48311",5,"112111",78,0,2013,2,"","McMullen County, Texas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",11,31,29,31,311833,93757,1728,791
+"48311",5,"112111",78,0,2013,3,"","McMullen County, Texas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",11,35,36,35,281388,49327,868,613
+"48311",5,"114",75,0,2013,1,"N","McMullen County, Texas","Private","Fishing, hunting and trapping","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"114",75,0,2013,2,"N","McMullen County, Texas","Private","Fishing, hunting and trapping","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"114",75,0,2013,3,"N","McMullen County, Texas","Private","Fishing, hunting and trapping","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"1142",76,0,2013,1,"N","McMullen County, Texas","Private","Hunting and trapping","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"1142",76,0,2013,2,"N","McMullen County, Texas","Private","Hunting and trapping","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"1142",76,0,2013,3,"N","McMullen County, Texas","Private","Hunting and trapping","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"11421",77,0,2013,1,"N","McMullen County, Texas","Private","Hunting and trapping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"11421",77,0,2013,2,"N","McMullen County, Texas","Private","Hunting and trapping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"11421",77,0,2013,3,"N","McMullen County, Texas","Private","Hunting and trapping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"114210",78,0,2013,1,"N","McMullen County, Texas","Private","Hunting and trapping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"114210",78,0,2013,2,"N","McMullen County, Texas","Private","Hunting and trapping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"114210",78,0,2013,3,"N","McMullen County, Texas","Private","Hunting and trapping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"21",74,0,2013,1,"","McMullen County, Texas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",6,133,135,147,2249969,974714,45195,1251
+"48311",5,"21",74,0,2013,2,"","McMullen County, Texas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",6,160,159,157,2478799,333298,12809,1202
+"48311",5,"21",74,0,2013,3,"","McMullen County, Texas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",6,160,160,182,2501145,282011,7103,1150
+"48311",5,"211",75,0,2013,1,"N","McMullen County, Texas","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"211",75,0,2013,2,"N","McMullen County, Texas","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"211",75,0,2013,3,"N","McMullen County, Texas","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"2111",76,0,2013,1,"N","McMullen County, Texas","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"2111",76,0,2013,2,"N","McMullen County, Texas","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"2111",76,0,2013,3,"N","McMullen County, Texas","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"21111",77,0,2013,1,"N","McMullen County, Texas","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"21111",77,0,2013,2,"N","McMullen County, Texas","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"21111",77,0,2013,3,"N","McMullen County, Texas","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"211111",78,0,2013,1,"N","McMullen County, Texas","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"211111",78,0,2013,2,"N","McMullen County, Texas","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"211111",78,0,2013,3,"N","McMullen County, Texas","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"213",75,0,2013,1,"N","McMullen County, Texas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"213",75,0,2013,2,"N","McMullen County, Texas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"213",75,0,2013,3,"N","McMullen County, Texas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"2131",76,0,2013,1,"N","McMullen County, Texas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"2131",76,0,2013,2,"N","McMullen County, Texas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"2131",76,0,2013,3,"N","McMullen County, Texas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"21311",77,0,2013,1,"N","McMullen County, Texas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"21311",77,0,2013,2,"N","McMullen County, Texas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"21311",77,0,2013,3,"N","McMullen County, Texas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"213112",78,0,2013,1,"N","McMullen County, Texas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"213112",78,0,2013,2,"N","McMullen County, Texas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"213112",78,0,2013,3,"N","McMullen County, Texas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"23",74,0,2013,1,"N","McMullen County, Texas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"23",74,0,2013,2,"N","McMullen County, Texas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"23",74,0,2013,3,"N","McMullen County, Texas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"238",75,0,2013,1,"N","McMullen County, Texas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"238",75,0,2013,2,"N","McMullen County, Texas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"238",75,0,2013,3,"N","McMullen County, Texas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"2382",76,0,2013,1,"N","McMullen County, Texas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"2382",76,0,2013,2,"N","McMullen County, Texas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"2382",76,0,2013,3,"N","McMullen County, Texas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"23821",77,0,2013,1,"N","McMullen County, Texas","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"23821",77,0,2013,2,"N","McMullen County, Texas","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"23821",77,0,2013,3,"N","McMullen County, Texas","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"238212",78,0,2013,1,"N","McMullen County, Texas","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"238212",78,0,2013,2,"N","McMullen County, Texas","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"238212",78,0,2013,3,"N","McMullen County, Texas","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"42",74,0,2013,1,"N","McMullen County, Texas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"42",74,0,2013,2,"N","McMullen County, Texas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"42",74,0,2013,3,"N","McMullen County, Texas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"423",75,0,2013,1,"N","McMullen County, Texas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"423",75,0,2013,2,"N","McMullen County, Texas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"423",75,0,2013,3,"N","McMullen County, Texas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4238",76,0,2013,1,"N","McMullen County, Texas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4238",76,0,2013,2,"N","McMullen County, Texas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4238",76,0,2013,3,"N","McMullen County, Texas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"42383",77,0,2013,1,"N","McMullen County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"42383",77,0,2013,2,"N","McMullen County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"42383",77,0,2013,3,"N","McMullen County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"423830",78,0,2013,1,"N","McMullen County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"423830",78,0,2013,2,"N","McMullen County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"423830",78,0,2013,3,"N","McMullen County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"425",75,0,2013,1,"N","McMullen County, Texas","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"425",75,0,2013,2,"N","McMullen County, Texas","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"425",75,0,2013,3,"N","McMullen County, Texas","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4251",76,0,2013,1,"N","McMullen County, Texas","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4251",76,0,2013,2,"N","McMullen County, Texas","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4251",76,0,2013,3,"N","McMullen County, Texas","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"42512",77,0,2013,1,"N","McMullen County, Texas","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"42512",77,0,2013,2,"N","McMullen County, Texas","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"42512",77,0,2013,3,"N","McMullen County, Texas","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"425120",78,0,2013,1,"N","McMullen County, Texas","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"425120",78,0,2013,2,"N","McMullen County, Texas","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"425120",78,0,2013,3,"N","McMullen County, Texas","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"44-45",74,0,2013,1,"N","McMullen County, Texas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48311",5,"44-45",74,0,2013,2,"N","McMullen County, Texas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"48311",5,"44-45",74,0,2013,3,"N","McMullen County, Texas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"48311",5,"441",75,0,2013,1,"-","McMullen County, Texas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"441",75,0,2013,2,"N","McMullen County, Texas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"441",75,0,2013,3,"N","McMullen County, Texas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4413",76,0,2013,1,"-","McMullen County, Texas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"4413",76,0,2013,2,"N","McMullen County, Texas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4413",76,0,2013,3,"N","McMullen County, Texas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"44132",77,0,2013,1,"-","McMullen County, Texas","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"44132",77,0,2013,2,"N","McMullen County, Texas","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"44132",77,0,2013,3,"N","McMullen County, Texas","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"441320",78,0,2013,1,"-","McMullen County, Texas","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"441320",78,0,2013,2,"N","McMullen County, Texas","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"441320",78,0,2013,3,"N","McMullen County, Texas","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"444",75,0,2013,1,"N","McMullen County, Texas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"444",75,0,2013,2,"N","McMullen County, Texas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"444",75,0,2013,3,"N","McMullen County, Texas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4442",76,0,2013,1,"N","McMullen County, Texas","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4442",76,0,2013,2,"N","McMullen County, Texas","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4442",76,0,2013,3,"N","McMullen County, Texas","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"44422",77,0,2013,1,"N","McMullen County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"44422",77,0,2013,2,"N","McMullen County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"44422",77,0,2013,3,"N","McMullen County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"444220",78,0,2013,1,"N","McMullen County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"444220",78,0,2013,2,"N","McMullen County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"444220",78,0,2013,3,"N","McMullen County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"445",75,0,2013,1,"N","McMullen County, Texas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"445",75,0,2013,2,"N","McMullen County, Texas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"445",75,0,2013,3,"N","McMullen County, Texas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4451",76,0,2013,1,"N","McMullen County, Texas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4451",76,0,2013,2,"N","McMullen County, Texas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4451",76,0,2013,3,"N","McMullen County, Texas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"44512",77,0,2013,1,"N","McMullen County, Texas","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"44512",77,0,2013,2,"N","McMullen County, Texas","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"44512",77,0,2013,3,"N","McMullen County, Texas","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"445120",78,0,2013,1,"N","McMullen County, Texas","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"445120",78,0,2013,2,"N","McMullen County, Texas","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"445120",78,0,2013,3,"N","McMullen County, Texas","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"447",75,0,2013,1,"N","McMullen County, Texas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"447",75,0,2013,2,"N","McMullen County, Texas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"447",75,0,2013,3,"N","McMullen County, Texas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"4471",76,0,2013,1,"N","McMullen County, Texas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"4471",76,0,2013,2,"N","McMullen County, Texas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"4471",76,0,2013,3,"N","McMullen County, Texas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"44711",77,0,2013,1,"N","McMullen County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"44711",77,0,2013,2,"N","McMullen County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"44711",77,0,2013,3,"N","McMullen County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"447110",78,0,2013,1,"N","McMullen County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"447110",78,0,2013,2,"N","McMullen County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"447110",78,0,2013,3,"N","McMullen County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"452",75,0,2013,1,"N","McMullen County, Texas","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"452",75,0,2013,2,"N","McMullen County, Texas","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"452",75,0,2013,3,"N","McMullen County, Texas","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4529",76,0,2013,1,"N","McMullen County, Texas","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4529",76,0,2013,2,"N","McMullen County, Texas","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4529",76,0,2013,3,"N","McMullen County, Texas","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"45299",77,0,2013,1,"N","McMullen County, Texas","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"45299",77,0,2013,2,"N","McMullen County, Texas","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"45299",77,0,2013,3,"N","McMullen County, Texas","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"452990",78,0,2013,1,"N","McMullen County, Texas","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"452990",78,0,2013,2,"N","McMullen County, Texas","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"452990",78,0,2013,3,"N","McMullen County, Texas","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"48-49",74,0,2013,1,"","McMullen County, Texas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,75,104,105,1656583,736502,13146,1346
+"48311",5,"48-49",74,0,2013,2,"","McMullen County, Texas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,113,113,116,1512168,201951,3745,1020
+"48311",5,"48-49",74,0,2013,3,"","McMullen County, Texas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,84,88,87,1524024,155704,2890,1358
+"48311",5,"484",75,0,2013,1,"N","McMullen County, Texas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"484",75,0,2013,2,"N","McMullen County, Texas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"484",75,0,2013,3,"N","McMullen County, Texas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"4842",76,0,2013,1,"N","McMullen County, Texas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"4842",76,0,2013,2,"N","McMullen County, Texas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"4842",76,0,2013,3,"N","McMullen County, Texas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"48421",77,0,2013,1,"N","McMullen County, Texas","Private","Used household and office goods moving","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"48421",77,0,2013,2,"N","McMullen County, Texas","Private","Used household and office goods moving","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"48421",77,0,2013,3,"N","McMullen County, Texas","Private","Used household and office goods moving","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"484210",78,0,2013,1,"N","McMullen County, Texas","Private","Used household and office goods moving","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"484210",78,0,2013,2,"N","McMullen County, Texas","Private","Used household and office goods moving","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"484210",78,0,2013,3,"N","McMullen County, Texas","Private","Used household and office goods moving","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"48422",77,0,2013,1,"N","McMullen County, Texas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"48422",77,0,2013,2,"N","McMullen County, Texas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"48422",77,0,2013,3,"N","McMullen County, Texas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"484220",78,0,2013,1,"N","McMullen County, Texas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"484220",78,0,2013,2,"N","McMullen County, Texas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"484220",78,0,2013,3,"N","McMullen County, Texas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"486",75,0,2013,1,"N","McMullen County, Texas","Private","Pipeline transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"486",75,0,2013,2,"N","McMullen County, Texas","Private","Pipeline transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"486",75,0,2013,3,"N","McMullen County, Texas","Private","Pipeline transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4862",76,0,2013,1,"N","McMullen County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4862",76,0,2013,2,"N","McMullen County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4862",76,0,2013,3,"N","McMullen County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"48621",77,0,2013,1,"N","McMullen County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"48621",77,0,2013,2,"N","McMullen County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"48621",77,0,2013,3,"N","McMullen County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"486210",78,0,2013,1,"N","McMullen County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"486210",78,0,2013,2,"N","McMullen County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"486210",78,0,2013,3,"N","McMullen County, Texas","Private","Pipeline transportation of natural gas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"493",75,0,2013,1,"N","McMullen County, Texas","Private","Warehousing and storage","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"493",75,0,2013,2,"N","McMullen County, Texas","Private","Warehousing and storage","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"493",75,0,2013,3,"N","McMullen County, Texas","Private","Warehousing and storage","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4931",76,0,2013,1,"N","McMullen County, Texas","Private","Warehousing and storage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4931",76,0,2013,2,"N","McMullen County, Texas","Private","Warehousing and storage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"4931",76,0,2013,3,"N","McMullen County, Texas","Private","Warehousing and storage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"49319",77,0,2013,1,"N","McMullen County, Texas","Private","Other warehousing and storage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"49319",77,0,2013,2,"N","McMullen County, Texas","Private","Other warehousing and storage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"49319",77,0,2013,3,"N","McMullen County, Texas","Private","Other warehousing and storage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"493190",78,0,2013,1,"N","McMullen County, Texas","Private","Other warehousing and storage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"493190",78,0,2013,2,"N","McMullen County, Texas","Private","Other warehousing and storage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"493190",78,0,2013,3,"N","McMullen County, Texas","Private","Other warehousing and storage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"52",74,0,2013,1,"N","McMullen County, Texas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"52",74,0,2013,2,"N","McMullen County, Texas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"52",74,0,2013,3,"N","McMullen County, Texas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"522",75,0,2013,1,"N","McMullen County, Texas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"522",75,0,2013,2,"N","McMullen County, Texas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"522",75,0,2013,3,"N","McMullen County, Texas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5221",76,0,2013,1,"N","McMullen County, Texas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5221",76,0,2013,2,"N","McMullen County, Texas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5221",76,0,2013,3,"N","McMullen County, Texas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"52211",77,0,2013,1,"N","McMullen County, Texas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"52211",77,0,2013,2,"N","McMullen County, Texas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"52211",77,0,2013,3,"N","McMullen County, Texas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"522110",78,0,2013,1,"N","McMullen County, Texas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"522110",78,0,2013,2,"N","McMullen County, Texas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"522110",78,0,2013,3,"N","McMullen County, Texas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"523",75,0,2013,1,"N","McMullen County, Texas","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"523",75,0,2013,2,"N","McMullen County, Texas","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"523",75,0,2013,3,"N","McMullen County, Texas","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5239",76,0,2013,1,"N","McMullen County, Texas","Private","Other financial investment activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"5239",76,0,2013,2,"N","McMullen County, Texas","Private","Other financial investment activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"5239",76,0,2013,3,"N","McMullen County, Texas","Private","Other financial investment activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"52391",77,0,2013,1,"N","McMullen County, Texas","Private","Miscellaneous intermediation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"52391",77,0,2013,2,"N","McMullen County, Texas","Private","Miscellaneous intermediation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"52391",77,0,2013,3,"-","McMullen County, Texas","Private","Miscellaneous intermediation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"523910",78,0,2013,1,"N","McMullen County, Texas","Private","Miscellaneous intermediation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"523910",78,0,2013,2,"N","McMullen County, Texas","Private","Miscellaneous intermediation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"523910",78,0,2013,3,"-","McMullen County, Texas","Private","Miscellaneous intermediation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"52393",77,0,2013,1,"N","McMullen County, Texas","Private","Investment advice","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"52393",77,0,2013,2,"N","McMullen County, Texas","Private","Investment advice","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"52393",77,0,2013,3,"N","McMullen County, Texas","Private","Investment advice","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"523930",78,0,2013,1,"N","McMullen County, Texas","Private","Investment advice","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"523930",78,0,2013,2,"N","McMullen County, Texas","Private","Investment advice","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"523930",78,0,2013,3,"N","McMullen County, Texas","Private","Investment advice","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"53",74,0,2013,1,"N","McMullen County, Texas","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"53",74,0,2013,2,"N","McMullen County, Texas","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"53",74,0,2013,3,"N","McMullen County, Texas","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"531",75,0,2013,1,"N","McMullen County, Texas","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"531",75,0,2013,2,"N","McMullen County, Texas","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"531",75,0,2013,3,"N","McMullen County, Texas","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5311",76,0,2013,1,"N","McMullen County, Texas","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5311",76,0,2013,2,"N","McMullen County, Texas","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5311",76,0,2013,3,"N","McMullen County, Texas","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"53119",77,0,2013,1,"N","McMullen County, Texas","Private","Lessors of other real estate property","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"53119",77,0,2013,2,"N","McMullen County, Texas","Private","Lessors of other real estate property","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"53119",77,0,2013,3,"N","McMullen County, Texas","Private","Lessors of other real estate property","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"531190",78,0,2013,1,"N","McMullen County, Texas","Private","Lessors of other real estate property","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"531190",78,0,2013,2,"N","McMullen County, Texas","Private","Lessors of other real estate property","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"531190",78,0,2013,3,"N","McMullen County, Texas","Private","Lessors of other real estate property","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"532",75,0,2013,1,"N","McMullen County, Texas","Private","Rental and leasing services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"532",75,0,2013,2,"N","McMullen County, Texas","Private","Rental and leasing services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"532",75,0,2013,3,"-","McMullen County, Texas","Private","Rental and leasing services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"5323",76,0,2013,1,"N","McMullen County, Texas","Private","General rental centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5323",76,0,2013,2,"N","McMullen County, Texas","Private","General rental centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5323",76,0,2013,3,"-","McMullen County, Texas","Private","General rental centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"53231",77,0,2013,1,"N","McMullen County, Texas","Private","General rental centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"53231",77,0,2013,2,"N","McMullen County, Texas","Private","General rental centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"53231",77,0,2013,3,"-","McMullen County, Texas","Private","General rental centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"532310",78,0,2013,1,"N","McMullen County, Texas","Private","General rental centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"532310",78,0,2013,2,"N","McMullen County, Texas","Private","General rental centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"532310",78,0,2013,3,"-","McMullen County, Texas","Private","General rental centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"54",74,0,2013,1,"N","McMullen County, Texas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"54",74,0,2013,2,"N","McMullen County, Texas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"54",74,0,2013,3,"N","McMullen County, Texas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"541",75,0,2013,1,"N","McMullen County, Texas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"541",75,0,2013,2,"N","McMullen County, Texas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"541",75,0,2013,3,"N","McMullen County, Texas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"5411",76,0,2013,1,"N","McMullen County, Texas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5411",76,0,2013,2,"N","McMullen County, Texas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5411",76,0,2013,3,"N","McMullen County, Texas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"54119",77,0,2013,1,"N","McMullen County, Texas","Private","Other legal services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"54119",77,0,2013,2,"N","McMullen County, Texas","Private","Other legal services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"54119",77,0,2013,3,"N","McMullen County, Texas","Private","Other legal services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"541191",78,0,2013,1,"N","McMullen County, Texas","Private","Title abstract and settlement offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"541191",78,0,2013,2,"N","McMullen County, Texas","Private","Title abstract and settlement offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"541191",78,0,2013,3,"N","McMullen County, Texas","Private","Title abstract and settlement offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5413",76,0,2013,1,"-","McMullen County, Texas","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"5413",76,0,2013,2,"-","McMullen County, Texas","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"5413",76,0,2013,3,"N","McMullen County, Texas","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"54137",77,0,2013,1,"-","McMullen County, Texas","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"54137",77,0,2013,2,"-","McMullen County, Texas","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"54137",77,0,2013,3,"N","McMullen County, Texas","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"541370",78,0,2013,1,"-","McMullen County, Texas","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"541370",78,0,2013,2,"-","McMullen County, Texas","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"541370",78,0,2013,3,"N","McMullen County, Texas","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5416",76,0,2013,1,"N","McMullen County, Texas","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5416",76,0,2013,2,"N","McMullen County, Texas","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5416",76,0,2013,3,"N","McMullen County, Texas","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"54169",77,0,2013,1,"N","McMullen County, Texas","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"54169",77,0,2013,2,"N","McMullen County, Texas","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"54169",77,0,2013,3,"N","McMullen County, Texas","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"541690",78,0,2013,1,"N","McMullen County, Texas","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"541690",78,0,2013,2,"N","McMullen County, Texas","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"541690",78,0,2013,3,"N","McMullen County, Texas","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"56",74,0,2013,1,"N","McMullen County, Texas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"56",74,0,2013,2,"N","McMullen County, Texas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"56",74,0,2013,3,"N","McMullen County, Texas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"561",75,0,2013,1,"N","McMullen County, Texas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"561",75,0,2013,2,"N","McMullen County, Texas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"561",75,0,2013,3,"N","McMullen County, Texas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5616",76,0,2013,1,"N","McMullen County, Texas","Private","Investigation and security services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5616",76,0,2013,2,"N","McMullen County, Texas","Private","Investigation and security services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"5616",76,0,2013,3,"N","McMullen County, Texas","Private","Investigation and security services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"56161",77,0,2013,1,"N","McMullen County, Texas","Private","Security and armored car services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"56161",77,0,2013,2,"N","McMullen County, Texas","Private","Security and armored car services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"56161",77,0,2013,3,"N","McMullen County, Texas","Private","Security and armored car services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"561612",78,0,2013,1,"N","McMullen County, Texas","Private","Security guards and patrol services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"561612",78,0,2013,2,"N","McMullen County, Texas","Private","Security guards and patrol services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"561612",78,0,2013,3,"N","McMullen County, Texas","Private","Security guards and patrol services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"62",74,0,2013,1,"N","McMullen County, Texas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"62",74,0,2013,2,"N","McMullen County, Texas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"62",74,0,2013,3,"N","McMullen County, Texas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"621",75,0,2013,1,"N","McMullen County, Texas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"621",75,0,2013,2,"N","McMullen County, Texas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"621",75,0,2013,3,"N","McMullen County, Texas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"6219",76,0,2013,1,"N","McMullen County, Texas","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"6219",76,0,2013,2,"N","McMullen County, Texas","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"6219",76,0,2013,3,"N","McMullen County, Texas","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"62191",77,0,2013,1,"N","McMullen County, Texas","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"62191",77,0,2013,2,"N","McMullen County, Texas","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"62191",77,0,2013,3,"N","McMullen County, Texas","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"621910",78,0,2013,1,"N","McMullen County, Texas","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"621910",78,0,2013,2,"N","McMullen County, Texas","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"621910",78,0,2013,3,"N","McMullen County, Texas","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"71",74,0,2013,1,"N","McMullen County, Texas","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"71",74,0,2013,2,"N","McMullen County, Texas","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"71",74,0,2013,3,"N","McMullen County, Texas","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"713",75,0,2013,1,"N","McMullen County, Texas","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"713",75,0,2013,2,"N","McMullen County, Texas","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"713",75,0,2013,3,"N","McMullen County, Texas","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"7139",76,0,2013,1,"N","McMullen County, Texas","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"7139",76,0,2013,2,"N","McMullen County, Texas","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"7139",76,0,2013,3,"N","McMullen County, Texas","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"71399",77,0,2013,1,"N","McMullen County, Texas","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"71399",77,0,2013,2,"N","McMullen County, Texas","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"71399",77,0,2013,3,"N","McMullen County, Texas","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"713990",78,0,2013,1,"N","McMullen County, Texas","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"713990",78,0,2013,2,"N","McMullen County, Texas","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"713990",78,0,2013,3,"N","McMullen County, Texas","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"72",74,0,2013,1,"N","McMullen County, Texas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"72",74,0,2013,2,"N","McMullen County, Texas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"72",74,0,2013,3,"N","McMullen County, Texas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"721",75,0,2013,1,"-","McMullen County, Texas","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"721",75,0,2013,2,"N","McMullen County, Texas","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"721",75,0,2013,3,"N","McMullen County, Texas","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"7211",76,0,2013,1,"-","McMullen County, Texas","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"7211",76,0,2013,2,"N","McMullen County, Texas","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"7211",76,0,2013,3,"N","McMullen County, Texas","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"72111",77,0,2013,1,"-","McMullen County, Texas","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"72111",77,0,2013,2,"N","McMullen County, Texas","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"72111",77,0,2013,3,"N","McMullen County, Texas","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"721110",78,0,2013,1,"-","McMullen County, Texas","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48311",5,"721110",78,0,2013,2,"N","McMullen County, Texas","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"721110",78,0,2013,3,"N","McMullen County, Texas","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48311",5,"722",75,0,2013,1,"N","McMullen County, Texas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"722",75,0,2013,2,"N","McMullen County, Texas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"722",75,0,2013,3,"N","McMullen County, Texas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"7225",76,0,2013,1,"N","McMullen County, Texas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"7225",76,0,2013,2,"N","McMullen County, Texas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"7225",76,0,2013,3,"N","McMullen County, Texas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"72251",77,0,2013,1,"N","McMullen County, Texas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"72251",77,0,2013,2,"N","McMullen County, Texas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"72251",77,0,2013,3,"N","McMullen County, Texas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"722511",78,0,2013,1,"N","McMullen County, Texas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"722511",78,0,2013,2,"N","McMullen County, Texas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"722511",78,0,2013,3,"N","McMullen County, Texas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48311",5,"81",74,0,2013,1,"N","McMullen County, Texas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48311",5,"81",74,0,2013,2,"","McMullen County, Texas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,4,4,4,26516,12380,261,510
+"48311",5,"81",74,0,2013,3,"N","McMullen County, Texas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"814",75,0,2013,1,"N","McMullen County, Texas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48311",5,"814",75,0,2013,2,"","McMullen County, Texas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,4,4,4,26516,12380,261,510
+"48311",5,"814",75,0,2013,3,"N","McMullen County, Texas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"8141",76,0,2013,1,"N","McMullen County, Texas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48311",5,"8141",76,0,2013,2,"","McMullen County, Texas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,4,4,4,26516,12380,261,510
+"48311",5,"8141",76,0,2013,3,"N","McMullen County, Texas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"81411",77,0,2013,1,"N","McMullen County, Texas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48311",5,"81411",77,0,2013,2,"","McMullen County, Texas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,4,4,4,26516,12380,261,510
+"48311",5,"81411",77,0,2013,3,"N","McMullen County, Texas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48311",5,"814110",78,0,2013,1,"N","McMullen County, Texas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48311",5,"814110",78,0,2013,2,"","McMullen County, Texas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,4,4,4,26516,12380,261,510
+"48311",5,"814110",78,0,2013,3,"N","McMullen County, Texas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+

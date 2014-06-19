@@ -1,0 +1,875 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"05025",0,"10",70,0,2013,1,"","Cleveland County, Arkansas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",132,1045,1056,1077,7008937,4303250,162062,509
+"05025",0,"10",70,0,2013,2,"","Cleveland County, Arkansas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",135,1080,1071,954,7620943,2592017,90626,566
+"05025",0,"10",70,0,2013,3,"","Cleveland County, Arkansas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",132,931,1052,1080,7125310,1450936,53994,537
+"05025",1,"10",71,0,2013,1,"","Cleveland County, Arkansas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,12,13,13,142278,0,0,864
+"05025",1,"10",71,0,2013,2,"","Cleveland County, Arkansas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,13,13,13,119274,0,0,706
+"05025",1,"10",71,0,2013,3,"","Cleveland County, Arkansas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,13,12,12,133586,0,0,833
+"05025",1,"102",72,0,2013,1,"","Cleveland County, Arkansas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,12,13,13,142278,0,0,864
+"05025",1,"102",72,0,2013,2,"","Cleveland County, Arkansas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,13,13,13,119274,0,0,706
+"05025",1,"102",72,0,2013,3,"","Cleveland County, Arkansas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,13,12,12,133586,0,0,833
+"05025",1,"1021",73,0,2013,1,"","Cleveland County, Arkansas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,12,13,13,142278,0,0,864
+"05025",1,"1021",73,0,2013,2,"","Cleveland County, Arkansas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,13,13,13,119274,0,0,706
+"05025",1,"1021",73,0,2013,3,"","Cleveland County, Arkansas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,13,12,12,133586,0,0,833
+"05025",1,"1028",73,0,2013,1,"","Cleveland County, Arkansas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"1028",73,0,2013,2,"","Cleveland County, Arkansas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"1028",73,0,2013,3,"","Cleveland County, Arkansas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"48-49",74,0,2013,1,"","Cleveland County, Arkansas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,12,13,13,142278,0,0,864
+"05025",1,"48-49",74,0,2013,2,"","Cleveland County, Arkansas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,13,13,13,119274,0,0,706
+"05025",1,"48-49",74,0,2013,3,"","Cleveland County, Arkansas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,13,12,12,133586,0,0,833
+"05025",1,"491",75,0,2013,1,"","Cleveland County, Arkansas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,12,13,13,142278,0,0,864
+"05025",1,"491",75,0,2013,2,"","Cleveland County, Arkansas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,13,13,13,119274,0,0,706
+"05025",1,"491",75,0,2013,3,"","Cleveland County, Arkansas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,13,12,12,133586,0,0,833
+"05025",1,"4911",76,0,2013,1,"","Cleveland County, Arkansas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,12,13,13,142278,0,0,864
+"05025",1,"4911",76,0,2013,2,"","Cleveland County, Arkansas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,13,13,13,119274,0,0,706
+"05025",1,"4911",76,0,2013,3,"","Cleveland County, Arkansas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,13,12,12,133586,0,0,833
+"05025",1,"49111",77,0,2013,1,"","Cleveland County, Arkansas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,12,13,13,142278,0,0,864
+"05025",1,"49111",77,0,2013,2,"","Cleveland County, Arkansas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,13,13,13,119274,0,0,706
+"05025",1,"49111",77,0,2013,3,"","Cleveland County, Arkansas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,13,12,12,133586,0,0,833
+"05025",1,"491110",78,0,2013,1,"","Cleveland County, Arkansas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,12,13,13,142278,0,0,864
+"05025",1,"491110",78,0,2013,2,"","Cleveland County, Arkansas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,13,13,13,119274,0,0,706
+"05025",1,"491110",78,0,2013,3,"","Cleveland County, Arkansas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,13,12,12,133586,0,0,833
+"05025",1,"92",74,0,2013,1,"","Cleveland County, Arkansas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"92",74,0,2013,2,"","Cleveland County, Arkansas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"92",74,0,2013,3,"","Cleveland County, Arkansas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"926",75,0,2013,1,"","Cleveland County, Arkansas","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"926",75,0,2013,2,"","Cleveland County, Arkansas","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"926",75,0,2013,3,"","Cleveland County, Arkansas","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"9261",76,0,2013,1,"","Cleveland County, Arkansas","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"9261",76,0,2013,2,"","Cleveland County, Arkansas","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"9261",76,0,2013,3,"","Cleveland County, Arkansas","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"92611",77,0,2013,1,"","Cleveland County, Arkansas","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"92611",77,0,2013,2,"","Cleveland County, Arkansas","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"92611",77,0,2013,3,"","Cleveland County, Arkansas","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"926110",78,0,2013,1,"","Cleveland County, Arkansas","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"926110",78,0,2013,2,"","Cleveland County, Arkansas","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",1,"926110",78,0,2013,3,"","Cleveland County, Arkansas","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"10",71,0,2013,1,"","Cleveland County, Arkansas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",7,51,52,53,354703,0,0,525
+"05025",2,"10",71,0,2013,2,"","Cleveland County, Arkansas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",7,54,54,56,429406,0,0,604
+"05025",2,"10",71,0,2013,3,"","Cleveland County, Arkansas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",7,55,57,57,383862,0,0,524
+"05025",2,"102",72,0,2013,1,"","Cleveland County, Arkansas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",7,51,52,53,354703,0,0,525
+"05025",2,"102",72,0,2013,2,"","Cleveland County, Arkansas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",7,54,54,56,429406,0,0,604
+"05025",2,"102",72,0,2013,3,"","Cleveland County, Arkansas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",7,55,57,57,383862,0,0,524
+"05025",2,"1025",73,0,2013,1,"N","Cleveland County, Arkansas","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",2,"1025",73,0,2013,2,"N","Cleveland County, Arkansas","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",2,"1025",73,0,2013,3,"N","Cleveland County, Arkansas","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",2,"1028",73,0,2013,1,"N","Cleveland County, Arkansas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"05025",2,"1028",73,0,2013,2,"N","Cleveland County, Arkansas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"05025",2,"1028",73,0,2013,3,"N","Cleveland County, Arkansas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"05025",2,"62",74,0,2013,1,"N","Cleveland County, Arkansas","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",2,"62",74,0,2013,2,"N","Cleveland County, Arkansas","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",2,"62",74,0,2013,3,"N","Cleveland County, Arkansas","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",2,"621",75,0,2013,1,"N","Cleveland County, Arkansas","State Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"621",75,0,2013,2,"N","Cleveland County, Arkansas","State Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"621",75,0,2013,3,"N","Cleveland County, Arkansas","State Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"6216",76,0,2013,1,"N","Cleveland County, Arkansas","State Government","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"6216",76,0,2013,2,"N","Cleveland County, Arkansas","State Government","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"6216",76,0,2013,3,"N","Cleveland County, Arkansas","State Government","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"62161",77,0,2013,1,"N","Cleveland County, Arkansas","State Government","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"62161",77,0,2013,2,"N","Cleveland County, Arkansas","State Government","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"62161",77,0,2013,3,"N","Cleveland County, Arkansas","State Government","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"621610",78,0,2013,1,"N","Cleveland County, Arkansas","State Government","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"621610",78,0,2013,2,"N","Cleveland County, Arkansas","State Government","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"621610",78,0,2013,3,"N","Cleveland County, Arkansas","State Government","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"624",75,0,2013,1,"N","Cleveland County, Arkansas","State Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"624",75,0,2013,2,"N","Cleveland County, Arkansas","State Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"624",75,0,2013,3,"N","Cleveland County, Arkansas","State Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"6241",76,0,2013,1,"N","Cleveland County, Arkansas","State Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"6241",76,0,2013,2,"N","Cleveland County, Arkansas","State Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"6241",76,0,2013,3,"N","Cleveland County, Arkansas","State Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"62419",77,0,2013,1,"N","Cleveland County, Arkansas","State Government","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"62419",77,0,2013,2,"N","Cleveland County, Arkansas","State Government","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"62419",77,0,2013,3,"N","Cleveland County, Arkansas","State Government","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"624190",78,0,2013,1,"N","Cleveland County, Arkansas","State Government","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"624190",78,0,2013,2,"N","Cleveland County, Arkansas","State Government","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"624190",78,0,2013,3,"N","Cleveland County, Arkansas","State Government","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"92",74,0,2013,1,"N","Cleveland County, Arkansas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"05025",2,"92",74,0,2013,2,"N","Cleveland County, Arkansas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"05025",2,"92",74,0,2013,3,"N","Cleveland County, Arkansas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"05025",2,"921",75,0,2013,1,"N","Cleveland County, Arkansas","State Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"921",75,0,2013,2,"N","Cleveland County, Arkansas","State Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"921",75,0,2013,3,"N","Cleveland County, Arkansas","State Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"9211",76,0,2013,1,"N","Cleveland County, Arkansas","State Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"9211",76,0,2013,2,"N","Cleveland County, Arkansas","State Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"9211",76,0,2013,3,"N","Cleveland County, Arkansas","State Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"92113",77,0,2013,1,"N","Cleveland County, Arkansas","State Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"92113",77,0,2013,2,"N","Cleveland County, Arkansas","State Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"92113",77,0,2013,3,"N","Cleveland County, Arkansas","State Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"921130",78,0,2013,1,"N","Cleveland County, Arkansas","State Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"921130",78,0,2013,2,"N","Cleveland County, Arkansas","State Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"921130",78,0,2013,3,"N","Cleveland County, Arkansas","State Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"922",75,0,2013,1,"N","Cleveland County, Arkansas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"922",75,0,2013,2,"N","Cleveland County, Arkansas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"922",75,0,2013,3,"N","Cleveland County, Arkansas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"9221",76,0,2013,1,"N","Cleveland County, Arkansas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"9221",76,0,2013,2,"N","Cleveland County, Arkansas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"9221",76,0,2013,3,"N","Cleveland County, Arkansas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"92213",77,0,2013,1,"N","Cleveland County, Arkansas","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"92213",77,0,2013,2,"N","Cleveland County, Arkansas","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"92213",77,0,2013,3,"N","Cleveland County, Arkansas","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"922130",78,0,2013,1,"N","Cleveland County, Arkansas","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"922130",78,0,2013,2,"N","Cleveland County, Arkansas","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"922130",78,0,2013,3,"N","Cleveland County, Arkansas","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"923",75,0,2013,1,"N","Cleveland County, Arkansas","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"923",75,0,2013,2,"N","Cleveland County, Arkansas","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"923",75,0,2013,3,"N","Cleveland County, Arkansas","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"9231",76,0,2013,1,"N","Cleveland County, Arkansas","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"9231",76,0,2013,2,"N","Cleveland County, Arkansas","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"9231",76,0,2013,3,"N","Cleveland County, Arkansas","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"92312",77,0,2013,1,"N","Cleveland County, Arkansas","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"92312",77,0,2013,2,"N","Cleveland County, Arkansas","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"92312",77,0,2013,3,"N","Cleveland County, Arkansas","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"923120",78,0,2013,1,"N","Cleveland County, Arkansas","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"923120",78,0,2013,2,"N","Cleveland County, Arkansas","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"923120",78,0,2013,3,"N","Cleveland County, Arkansas","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"924",75,0,2013,1,"N","Cleveland County, Arkansas","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"924",75,0,2013,2,"N","Cleveland County, Arkansas","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"924",75,0,2013,3,"N","Cleveland County, Arkansas","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"9241",76,0,2013,1,"N","Cleveland County, Arkansas","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"9241",76,0,2013,2,"N","Cleveland County, Arkansas","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"9241",76,0,2013,3,"N","Cleveland County, Arkansas","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"92412",77,0,2013,1,"N","Cleveland County, Arkansas","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"92412",77,0,2013,2,"N","Cleveland County, Arkansas","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"92412",77,0,2013,3,"N","Cleveland County, Arkansas","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"924120",78,0,2013,1,"N","Cleveland County, Arkansas","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"924120",78,0,2013,2,"N","Cleveland County, Arkansas","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"924120",78,0,2013,3,"N","Cleveland County, Arkansas","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"926",75,0,2013,1,"N","Cleveland County, Arkansas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"926",75,0,2013,2,"N","Cleveland County, Arkansas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"926",75,0,2013,3,"N","Cleveland County, Arkansas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"9261",76,0,2013,1,"N","Cleveland County, Arkansas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"9261",76,0,2013,2,"N","Cleveland County, Arkansas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"9261",76,0,2013,3,"N","Cleveland County, Arkansas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"92614",77,0,2013,1,"N","Cleveland County, Arkansas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"92614",77,0,2013,2,"N","Cleveland County, Arkansas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"92614",77,0,2013,3,"N","Cleveland County, Arkansas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"926140",78,0,2013,1,"N","Cleveland County, Arkansas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"926140",78,0,2013,2,"N","Cleveland County, Arkansas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",2,"926140",78,0,2013,3,"N","Cleveland County, Arkansas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"10",71,0,2013,1,"","Cleveland County, Arkansas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,315,323,332,1986268,316440,4538,473
+"05025",3,"10",71,0,2013,2,"","Cleveland County, Arkansas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,326,309,184,2496631,312900,4449,703
+"05025",3,"10",71,0,2013,3,"","Cleveland County, Arkansas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,160,290,320,1573381,84661,1185,472
+"05025",3,"101",72,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"101",72,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"101",72,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"1012",73,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"1012",73,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"1012",73,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"102",72,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"05025",3,"102",72,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"05025",3,"102",72,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"05025",3,"1022",73,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"1022",73,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"1022",73,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"1025",73,0,2013,1,"","Cleveland County, Arkansas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,241,251,252,1669828,0,0,518
+"05025",3,"1025",73,0,2013,2,"","Cleveland County, Arkansas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,255,242,117,2130168,0,0,801
+"05025",3,"1025",73,0,2013,3,"","Cleveland County, Arkansas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,93,224,252,1248383,0,0,506
+"05025",3,"1028",73,0,2013,1,"","Cleveland County, Arkansas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,55,52,60,207550,207550,3013,287
+"05025",3,"1028",73,0,2013,2,"","Cleveland County, Arkansas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,51,47,46,247091,201214,2885,396
+"05025",3,"1028",73,0,2013,3,"","Cleveland County, Arkansas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,48,48,50,230567,57813,809,364
+"05025",3,"23",74,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"23",74,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"23",74,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"237",75,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"237",75,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"237",75,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"2373",76,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"2373",76,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"2373",76,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"23731",77,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"23731",77,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"23731",77,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"237310",78,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"237310",78,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"237310",78,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"51",74,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"51",74,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"51",74,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"519",75,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"519",75,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"519",75,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"5191",76,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"5191",76,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"5191",76,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"51912",77,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"51912",77,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"51912",77,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"519120",78,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"519120",78,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"519120",78,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"61",74,0,2013,1,"","Cleveland County, Arkansas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,241,251,252,1669828,0,0,518
+"05025",3,"61",74,0,2013,2,"","Cleveland County, Arkansas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,255,242,117,2130168,0,0,801
+"05025",3,"61",74,0,2013,3,"","Cleveland County, Arkansas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,93,224,252,1248383,0,0,506
+"05025",3,"611",75,0,2013,1,"","Cleveland County, Arkansas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,241,251,252,1669828,0,0,518
+"05025",3,"611",75,0,2013,2,"","Cleveland County, Arkansas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,255,242,117,2130168,0,0,801
+"05025",3,"611",75,0,2013,3,"","Cleveland County, Arkansas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,93,224,252,1248383,0,0,506
+"05025",3,"6111",76,0,2013,1,"","Cleveland County, Arkansas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,241,251,252,1669828,0,0,518
+"05025",3,"6111",76,0,2013,2,"","Cleveland County, Arkansas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,255,242,117,2130168,0,0,801
+"05025",3,"6111",76,0,2013,3,"","Cleveland County, Arkansas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,93,224,252,1248383,0,0,506
+"05025",3,"61111",77,0,2013,1,"","Cleveland County, Arkansas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,241,251,252,1669828,0,0,518
+"05025",3,"61111",77,0,2013,2,"","Cleveland County, Arkansas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,255,242,117,2130168,0,0,801
+"05025",3,"61111",77,0,2013,3,"","Cleveland County, Arkansas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,93,224,252,1248383,0,0,506
+"05025",3,"611110",78,0,2013,1,"","Cleveland County, Arkansas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,241,251,252,1669828,0,0,518
+"05025",3,"611110",78,0,2013,2,"","Cleveland County, Arkansas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,255,242,117,2130168,0,0,801
+"05025",3,"611110",78,0,2013,3,"","Cleveland County, Arkansas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,93,224,252,1248383,0,0,506
+"05025",3,"92",74,0,2013,1,"","Cleveland County, Arkansas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,55,52,60,207550,207550,3013,287
+"05025",3,"92",74,0,2013,2,"","Cleveland County, Arkansas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,51,47,46,247091,201214,2885,396
+"05025",3,"92",74,0,2013,3,"","Cleveland County, Arkansas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,48,48,50,230567,57813,809,364
+"05025",3,"921",75,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",3,"921",75,0,2013,2,"","Cleveland County, Arkansas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,31,27,26,135348,97202,1448,372
+"05025",3,"921",75,0,2013,3,"","Cleveland County, Arkansas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,28,28,30,133089,30076,425,357
+"05025",3,"9211",76,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",3,"9211",76,0,2013,2,"","Cleveland County, Arkansas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,31,27,26,135348,97202,1448,372
+"05025",3,"9211",76,0,2013,3,"","Cleveland County, Arkansas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,28,28,30,133089,30076,425,357
+"05025",3,"92114",77,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",3,"92114",77,0,2013,2,"","Cleveland County, Arkansas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,31,27,26,135348,97202,1448,372
+"05025",3,"92114",77,0,2013,3,"","Cleveland County, Arkansas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,28,28,30,133089,30076,425,357
+"05025",3,"921140",78,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",3,"921140",78,0,2013,2,"","Cleveland County, Arkansas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,31,27,26,135348,97202,1448,372
+"05025",3,"921140",78,0,2013,3,"","Cleveland County, Arkansas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,28,28,30,133089,30076,425,357
+"05025",3,"922",75,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",3,"922",75,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",3,"922",75,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",3,"9221",76,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",3,"9221",76,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",3,"9221",76,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",3,"92211",77,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"92211",77,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"92211",77,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"922110",78,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"922110",78,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"922110",78,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"92212",77,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"92212",77,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"92212",77,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"922120",78,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"922120",78,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"922120",78,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"924",75,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"924",75,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"924",75,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"9241",76,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"9241",76,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"9241",76,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"92412",77,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"92412",77,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"92412",77,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"924120",78,0,2013,1,"N","Cleveland County, Arkansas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"924120",78,0,2013,2,"N","Cleveland County, Arkansas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",3,"924120",78,0,2013,3,"N","Cleveland County, Arkansas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"10",71,0,2013,1,"","Cleveland County, Arkansas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",110,667,668,679,4525688,3986810,157524,519
+"05025",5,"10",71,0,2013,2,"","Cleveland County, Arkansas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",113,687,695,701,4575632,2279117,86177,507
+"05025",5,"10",71,0,2013,3,"","Cleveland County, Arkansas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",110,703,693,691,5034481,1366275,52809,557
+"05025",5,"101",72,0,2013,1,"","Cleveland County, Arkansas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",25,264,262,273,1959461,1726895,72694,566
+"05025",5,"101",72,0,2013,2,"","Cleveland County, Arkansas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",27,278,281,282,1984536,1032177,42795,545
+"05025",5,"101",72,0,2013,3,"","Cleveland County, Arkansas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",27,294,286,283,2228930,603462,27246,596
+"05025",5,"1011",73,0,2013,1,"","Cleveland County, Arkansas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",12,158,152,166,1159662,1034223,57077,562
+"05025",5,"1011",73,0,2013,2,"","Cleveland County, Arkansas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",14,168,168,173,1224917,588840,31395,555
+"05025",5,"1011",73,0,2013,3,"","Cleveland County, Arkansas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",15,176,169,170,1377656,388482,19547,617
+"05025",5,"1012",73,0,2013,1,"","Cleveland County, Arkansas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",6,9,10,10,45048,45048,770,358
+"05025",5,"1012",73,0,2013,2,"","Cleveland County, Arkansas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",6,10,10,10,63882,53297,1136,491
+"05025",5,"1012",73,0,2013,3,"","Cleveland County, Arkansas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",6,20,20,20,64313,24283,1121,247
+"05025",5,"1013",73,0,2013,1,"","Cleveland County, Arkansas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",7,97,100,97,754751,647624,14847,592
+"05025",5,"1013",73,0,2013,2,"","Cleveland County, Arkansas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",7,100,103,99,695737,390040,10264,532
+"05025",5,"1013",73,0,2013,3,"","Cleveland County, Arkansas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",6,98,97,93,786961,190697,6578,631
+"05025",5,"102",72,0,2013,1,"","Cleveland County, Arkansas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",85,403,406,406,2566227,2259915,84830,487
+"05025",5,"102",72,0,2013,2,"","Cleveland County, Arkansas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",86,409,414,419,2591096,1246940,43382,481
+"05025",5,"102",72,0,2013,3,"","Cleveland County, Arkansas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",83,409,407,408,2805551,762813,25563,529
+"05025",5,"1021",73,0,2013,1,"","Cleveland County, Arkansas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",37,209,209,210,1482389,1321885,52106,545
+"05025",5,"1021",73,0,2013,2,"","Cleveland County, Arkansas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",38,212,217,220,1459018,661165,22961,519
+"05025",5,"1021",73,0,2013,3,"","Cleveland County, Arkansas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",38,211,208,213,1671689,390812,13474,610
+"05025",5,"1022",73,0,2013,1,"N","Cleveland County, Arkansas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"1022",73,0,2013,2,"N","Cleveland County, Arkansas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"1022",73,0,2013,3,"N","Cleveland County, Arkansas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"1023",73,0,2013,1,"","Cleveland County, Arkansas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",3,17,19,18,119619,108790,1338,511
+"05025",5,"1023",73,0,2013,2,"","Cleveland County, Arkansas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",3,18,18,18,128223,58313,723,548
+"05025",5,"1023",73,0,2013,3,"","Cleveland County, Arkansas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",3,18,18,17,129297,24710,307,563
+"05025",5,"1024",73,0,2013,1,"","Cleveland County, Arkansas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",5,13,13,11,151194,99576,1547,943
+"05025",5,"1024",73,0,2013,2,"","Cleveland County, Arkansas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",5,14,14,15,130162,36995,707,699
+"05025",5,"1024",73,0,2013,3,"","Cleveland County, Arkansas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",5,17,18,19,192531,66040,1007,823
+"05025",5,"1025",73,0,2013,1,"","Cleveland County, Arkansas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",31,141,141,143,631647,562566,22756,343
+"05025",5,"1025",73,0,2013,2,"","Cleveland County, Arkansas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",31,140,141,142,720692,433390,17874,393
+"05025",5,"1025",73,0,2013,3,"","Cleveland County, Arkansas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",28,138,139,135,636107,249840,10160,356
+"05025",5,"1026",73,0,2013,1,"N","Cleveland County, Arkansas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"1026",73,0,2013,2,"N","Cleveland County, Arkansas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"1026",73,0,2013,3,"N","Cleveland County, Arkansas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"1027",73,0,2013,1,"","Cleveland County, Arkansas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,12,12,12,108647,100324,2484,696
+"05025",5,"1027",73,0,2013,2,"","Cleveland County, Arkansas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,12,12,12,86140,27833,528,552
+"05025",5,"1027",73,0,2013,3,"","Cleveland County, Arkansas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,13,12,12,106043,12260,227,661
+"05025",5,"11",74,0,2013,1,"","Cleveland County, Arkansas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",12,158,152,166,1159662,1034223,57077,562
+"05025",5,"11",74,0,2013,2,"","Cleveland County, Arkansas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",14,168,168,173,1224917,588840,31395,555
+"05025",5,"11",74,0,2013,3,"","Cleveland County, Arkansas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",15,176,169,170,1377656,388482,19547,617
+"05025",5,"112",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"112",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"112",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"1123",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Poultry and egg production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"1123",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Poultry and egg production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"1123",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Poultry and egg production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"11231",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Chicken egg production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"11231",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Chicken egg production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"11231",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Chicken egg production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"112310",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Chicken egg production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"112310",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Chicken egg production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"112310",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Chicken egg production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"113",75,0,2013,1,"","Cleveland County, Arkansas","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,117,113,120,897904,818144,50475,592
+"05025",5,"113",75,0,2013,2,"","Cleveland County, Arkansas","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",11,123,127,129,963752,475466,28688,587
+"05025",5,"113",75,0,2013,3,"","Cleveland County, Arkansas","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",12,135,130,131,1148637,329945,18117,669
+"05025",5,"1133",76,0,2013,1,"","Cleveland County, Arkansas","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",10,117,113,120,897904,818144,50475,592
+"05025",5,"1133",76,0,2013,2,"","Cleveland County, Arkansas","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",11,123,127,129,963752,475466,28688,587
+"05025",5,"1133",76,0,2013,3,"","Cleveland County, Arkansas","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",12,135,130,131,1148637,329945,18117,669
+"05025",5,"11331",77,0,2013,1,"","Cleveland County, Arkansas","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",10,117,113,120,897904,818144,50475,592
+"05025",5,"11331",77,0,2013,2,"","Cleveland County, Arkansas","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",11,123,127,129,963752,475466,28688,587
+"05025",5,"11331",77,0,2013,3,"","Cleveland County, Arkansas","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",12,135,130,131,1148637,329945,18117,669
+"05025",5,"113310",78,0,2013,1,"","Cleveland County, Arkansas","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",10,117,113,120,897904,818144,50475,592
+"05025",5,"113310",78,0,2013,2,"","Cleveland County, Arkansas","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",11,123,127,129,963752,475466,28688,587
+"05025",5,"113310",78,0,2013,3,"","Cleveland County, Arkansas","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",12,135,130,131,1148637,329945,18117,669
+"05025",5,"115",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"115",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"115",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"1153",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Support activities for forestry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"1153",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Support activities for forestry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"1153",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Support activities for forestry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"11531",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Support activities for forestry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"11531",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Support activities for forestry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"11531",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Support activities for forestry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"115310",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Support activities for forestry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"115310",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Support activities for forestry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"115310",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Support activities for forestry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"22",74,0,2013,1,"","Cleveland County, Arkansas","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",4,12,12,12,114810,108631,1303,736
+"05025",5,"22",74,0,2013,2,"","Cleveland County, Arkansas","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",4,12,12,12,122591,18680,224,786
+"05025",5,"22",74,0,2013,3,"","Cleveland County, Arkansas","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",4,12,13,13,124390,18854,226,755
+"05025",5,"221",75,0,2013,1,"","Cleveland County, Arkansas","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,12,12,12,114810,108631,1303,736
+"05025",5,"221",75,0,2013,2,"","Cleveland County, Arkansas","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,12,12,12,122591,18680,224,786
+"05025",5,"221",75,0,2013,3,"","Cleveland County, Arkansas","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,12,13,13,124390,18854,226,755
+"05025",5,"2213",76,0,2013,1,"","Cleveland County, Arkansas","Private","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,12,12,12,114810,108631,1303,736
+"05025",5,"2213",76,0,2013,2,"","Cleveland County, Arkansas","Private","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,12,12,12,122591,18680,224,786
+"05025",5,"2213",76,0,2013,3,"","Cleveland County, Arkansas","Private","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,12,13,13,124390,18854,226,755
+"05025",5,"22131",77,0,2013,1,"","Cleveland County, Arkansas","Private","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,12,12,12,114810,108631,1303,736
+"05025",5,"22131",77,0,2013,2,"","Cleveland County, Arkansas","Private","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,12,12,12,122591,18680,224,786
+"05025",5,"22131",77,0,2013,3,"","Cleveland County, Arkansas","Private","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,12,13,13,124390,18854,226,755
+"05025",5,"221310",78,0,2013,1,"","Cleveland County, Arkansas","Private","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,12,12,12,114810,108631,1303,736
+"05025",5,"221310",78,0,2013,2,"","Cleveland County, Arkansas","Private","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,12,12,12,122591,18680,224,786
+"05025",5,"221310",78,0,2013,3,"","Cleveland County, Arkansas","Private","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,12,13,13,124390,18854,226,755
+"05025",5,"23",74,0,2013,1,"","Cleveland County, Arkansas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",6,9,10,10,45048,45048,770,358
+"05025",5,"23",74,0,2013,2,"","Cleveland County, Arkansas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",6,10,10,10,63882,53297,1136,491
+"05025",5,"23",74,0,2013,3,"","Cleveland County, Arkansas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",6,20,20,20,64313,24283,1121,247
+"05025",5,"236",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",5,"236",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",5,"236",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",5,"2361",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"2361",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"2361",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"23611",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"23611",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"23611",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"236115",78,0,2013,1,"N","Cleveland County, Arkansas","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"236115",78,0,2013,2,"N","Cleveland County, Arkansas","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"236115",78,0,2013,3,"N","Cleveland County, Arkansas","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"2362",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"2362",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"2362",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"23622",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"23622",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"23622",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"236220",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"236220",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"236220",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"237",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"237",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"237",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"2379",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Other heavy construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"2379",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Other heavy construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"2379",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Other heavy construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"23799",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Other heavy construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"23799",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Other heavy construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"23799",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Other heavy construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"237990",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Other heavy construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"237990",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Other heavy construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"237990",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Other heavy construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"238",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"238",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"238",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"2381",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"2381",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"2381",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"23819",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Other building exterior contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"23819",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Other building exterior contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"23819",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Other building exterior contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"238191",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Other residential exterior contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"238191",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Other residential exterior contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"238191",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Other residential exterior contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"2382",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"2382",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"2382",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"23822",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"23822",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"23822",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"238221",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"238221",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"238221",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"31-33",74,0,2013,1,"","Cleveland County, Arkansas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,97,100,97,754751,647624,14847,592
+"05025",5,"31-33",74,0,2013,2,"","Cleveland County, Arkansas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,100,103,99,695737,390040,10264,532
+"05025",5,"31-33",74,0,2013,3,"","Cleveland County, Arkansas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",6,98,97,93,786961,190697,6578,631
+"05025",5,"321",75,0,2013,1,"","Cleveland County, Arkansas","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,84,87,84,678183,578132,7718,614
+"05025",5,"321",75,0,2013,2,"","Cleveland County, Arkansas","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,84,87,83,610899,333786,4483,555
+"05025",5,"321",75,0,2013,3,"","Cleveland County, Arkansas","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,83,82,81,686591,145643,1971,644
+"05025",5,"3211",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",5,"3211",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",5,"3211",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"32111",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",5,"32111",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",5,"32111",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"321113",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",5,"321113",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",5,"321113",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"3219",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Other wood product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"3219",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Other wood product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"3219",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Other wood product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"32191",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Millwork","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"32191",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Millwork","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"32191",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Millwork","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"321912",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Cut stock, resawing lumber, and planing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"321912",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Cut stock, resawing lumber, and planing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"321912",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Cut stock, resawing lumber, and planing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"327",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"327",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"327",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"3273",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Cement and concrete product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"3273",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Cement and concrete product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"3273",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Cement and concrete product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"32739",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Other concrete product manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"32739",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Other concrete product manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"32739",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Other concrete product manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"327390",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Other concrete product manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"327390",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Other concrete product manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"327390",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Other concrete product manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"332",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"332",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"332",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"3327",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"3327",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"3327",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"33271",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"33271",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"33271",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"332710",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"332710",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"332710",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"335",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Electrical equipment and appliance mfg.","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"335",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Electrical equipment and appliance mfg.","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"335",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Electrical equipment and appliance mfg.","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"3353",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Electrical equipment manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"3353",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Electrical equipment manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"3353",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Electrical equipment manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"33531",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Electrical equipment manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"33531",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Electrical equipment manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"33531",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Electrical equipment manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"335312",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Motor and generator manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"335312",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Motor and generator manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"335312",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Motor and generator manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"42",74,0,2013,1,"","Cleveland County, Arkansas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,51,51,50,415545,349398,11407,631
+"05025",5,"42",74,0,2013,2,"","Cleveland County, Arkansas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,51,54,58,434630,174297,4983,615
+"05025",5,"42",74,0,2013,3,"","Cleveland County, Arkansas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,53,48,53,544120,72996,1891,815
+"05025",5,"423",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"423",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"423",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"4238",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"4238",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"4238",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"42382",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"42382",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"42382",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"423820",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"423820",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"423820",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"42383",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Industrial machinery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"42383",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Industrial machinery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"42383",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Industrial machinery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"423830",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Industrial machinery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"423830",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Industrial machinery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"423830",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Industrial machinery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"424",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"424",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"424",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"4247",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"4247",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"4247",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"42471",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"42471",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"42471",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"424710",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"424710",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"424710",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"44-45",74,0,2013,1,"","Cleveland County, Arkansas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",17,66,69,72,338513,286569,10566,377
+"05025",5,"44-45",74,0,2013,2,"","Cleveland County, Arkansas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",18,72,71,74,296815,177360,3974,316
+"05025",5,"44-45",74,0,2013,3,"","Cleveland County, Arkansas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",18,69,69,68,322299,140560,3167,361
+"05025",5,"444",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"444",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"444",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"4441",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"4441",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"4441",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"44413",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"44413",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"44413",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"444130",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"444130",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"444130",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"445",75,0,2013,1,"","Cleveland County, Arkansas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,23,24,24,86744,85591,1696,282
+"05025",5,"445",75,0,2013,2,"","Cleveland County, Arkansas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,24,24,26,93519,77167,1673,292
+"05025",5,"445",75,0,2013,3,"","Cleveland County, Arkansas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,24,23,24,91244,60363,1184,297
+"05025",5,"4451",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"4451",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"4451",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"44511",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"44511",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"44511",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"445110",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"445110",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"445110",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"4452",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Specialty food stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"4452",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Specialty food stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"4452",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Specialty food stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"44521",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Meat markets","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"44521",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Meat markets","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"44521",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Meat markets","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"445210",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Meat markets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"445210",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Meat markets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"445210",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Meat markets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"4453",76,0,2013,1,"","Cleveland County, Arkansas","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,9,9,28126,28126,934,250
+"05025",5,"4453",76,0,2013,2,"","Cleveland County, Arkansas","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,8,10,30539,30539,1041,261
+"05025",5,"4453",76,0,2013,3,"","Cleveland County, Arkansas","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,9,10,30353,25703,695,250
+"05025",5,"44531",77,0,2013,1,"","Cleveland County, Arkansas","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,8,9,9,28126,28126,934,250
+"05025",5,"44531",77,0,2013,2,"","Cleveland County, Arkansas","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,8,10,30539,30539,1041,261
+"05025",5,"44531",77,0,2013,3,"","Cleveland County, Arkansas","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,9,10,30353,25703,695,250
+"05025",5,"445310",78,0,2013,1,"","Cleveland County, Arkansas","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,8,9,9,28126,28126,934,250
+"05025",5,"445310",78,0,2013,2,"","Cleveland County, Arkansas","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,8,10,30539,30539,1041,261
+"05025",5,"445310",78,0,2013,3,"","Cleveland County, Arkansas","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,9,10,30353,25703,695,250
+"05025",5,"447",75,0,2013,1,"","Cleveland County, Arkansas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,22,24,23,60750,60750,1211,203
+"05025",5,"447",75,0,2013,2,"","Cleveland County, Arkansas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,25,25,24,54700,49777,1038,171
+"05025",5,"447",75,0,2013,3,"","Cleveland County, Arkansas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,20,22,20,58928,42873,893,219
+"05025",5,"4471",76,0,2013,1,"","Cleveland County, Arkansas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,22,24,23,60750,60750,1211,203
+"05025",5,"4471",76,0,2013,2,"","Cleveland County, Arkansas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,25,25,24,54700,49777,1038,171
+"05025",5,"4471",76,0,2013,3,"","Cleveland County, Arkansas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,20,22,20,58928,42873,893,219
+"05025",5,"44711",77,0,2013,1,"","Cleveland County, Arkansas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,22,24,23,60750,60750,1211,203
+"05025",5,"44711",77,0,2013,2,"","Cleveland County, Arkansas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,25,25,24,54700,49777,1038,171
+"05025",5,"44711",77,0,2013,3,"","Cleveland County, Arkansas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,20,22,20,58928,42873,893,219
+"05025",5,"447110",78,0,2013,1,"","Cleveland County, Arkansas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,22,24,23,60750,60750,1211,203
+"05025",5,"447110",78,0,2013,2,"","Cleveland County, Arkansas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,25,25,24,54700,49777,1038,171
+"05025",5,"447110",78,0,2013,3,"","Cleveland County, Arkansas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,20,22,20,58928,42873,893,219
+"05025",5,"452",75,0,2013,1,"N","Cleveland County, Arkansas","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"452",75,0,2013,2,"N","Cleveland County, Arkansas","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"452",75,0,2013,3,"N","Cleveland County, Arkansas","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"4529",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"4529",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"4529",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"45299",77,0,2013,1,"N","Cleveland County, Arkansas","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"45299",77,0,2013,2,"N","Cleveland County, Arkansas","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"45299",77,0,2013,3,"N","Cleveland County, Arkansas","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"452990",78,0,2013,1,"N","Cleveland County, Arkansas","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"452990",78,0,2013,2,"N","Cleveland County, Arkansas","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"452990",78,0,2013,3,"N","Cleveland County, Arkansas","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"453",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"453",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"453",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"4531",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"4531",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"4531",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"45311",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"45311",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"45311",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"453110",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"453110",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"453110",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"454",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"454",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"454",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"4543",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"4543",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"4543",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"45431",77,0,2013,1,"-","Cleveland County, Arkansas","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"05025",5,"45431",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"45431",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"454310",78,0,2013,1,"-","Cleveland County, Arkansas","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"05025",5,"454310",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"454310",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"45439",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Other direct selling establishments","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"45439",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Other direct selling establishments","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"45439",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Other direct selling establishments","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"454390",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Other direct selling establishments","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"454390",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Other direct selling establishments","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"454390",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Other direct selling establishments","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"48-49",74,0,2013,1,"","Cleveland County, Arkansas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",12,80,77,76,613521,577287,28830,608
+"05025",5,"48-49",74,0,2013,2,"","Cleveland County, Arkansas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",12,77,80,76,604982,290828,13780,599
+"05025",5,"48-49",74,0,2013,3,"","Cleveland County, Arkansas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",12,77,78,79,680880,158402,8190,671
+"05025",5,"484",75,0,2013,1,"","Cleveland County, Arkansas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",12,80,77,76,613521,577287,28830,608
+"05025",5,"484",75,0,2013,2,"","Cleveland County, Arkansas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",12,77,80,76,604982,290828,13780,599
+"05025",5,"484",75,0,2013,3,"","Cleveland County, Arkansas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",12,77,78,79,680880,158402,8190,671
+"05025",5,"4841",76,0,2013,1,"","Cleveland County, Arkansas","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,41,42,40,287842,279395,11904,540
+"05025",5,"4841",76,0,2013,2,"","Cleveland County, Arkansas","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,39,43,39,273552,155813,5818,522
+"05025",5,"4841",76,0,2013,3,"","Cleveland County, Arkansas","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,42,42,39,295760,88757,3458,555
+"05025",5,"48411",77,0,2013,1,"N","Cleveland County, Arkansas","Private","General freight trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"48411",77,0,2013,2,"N","Cleveland County, Arkansas","Private","General freight trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"48411",77,0,2013,3,"N","Cleveland County, Arkansas","Private","General freight trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"484110",78,0,2013,1,"N","Cleveland County, Arkansas","Private","General freight trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"484110",78,0,2013,2,"N","Cleveland County, Arkansas","Private","General freight trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"484110",78,0,2013,3,"N","Cleveland County, Arkansas","Private","General freight trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"48412",77,0,2013,1,"N","Cleveland County, Arkansas","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"48412",77,0,2013,2,"N","Cleveland County, Arkansas","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"48412",77,0,2013,3,"N","Cleveland County, Arkansas","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"484121",78,0,2013,1,"N","Cleveland County, Arkansas","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"484121",78,0,2013,2,"N","Cleveland County, Arkansas","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"484121",78,0,2013,3,"N","Cleveland County, Arkansas","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"4842",76,0,2013,1,"","Cleveland County, Arkansas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,39,35,36,325679,297892,16926,683
+"05025",5,"4842",76,0,2013,2,"","Cleveland County, Arkansas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,38,37,37,331430,135015,7962,683
+"05025",5,"4842",76,0,2013,3,"","Cleveland County, Arkansas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,35,36,40,385120,69645,4732,801
+"05025",5,"48422",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"05025",5,"48422",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"05025",5,"48422",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"05025",5,"484220",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"05025",5,"484220",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"05025",5,"484220",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"05025",5,"48423",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"48423",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"48423",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"484230",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"484230",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"484230",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"51",74,0,2013,1,"N","Cleveland County, Arkansas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"51",74,0,2013,2,"N","Cleveland County, Arkansas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"51",74,0,2013,3,"N","Cleveland County, Arkansas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"511",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"511",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"511",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"5111",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"5111",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"5111",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"51111",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"51111",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"51111",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"511110",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"511110",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"511110",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"517",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"517",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"517",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"5171",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"5171",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"5171",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"51711",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"51711",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"51711",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"517110",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"517110",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"517110",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"52",74,0,2013,1,"N","Cleveland County, Arkansas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"52",74,0,2013,2,"N","Cleveland County, Arkansas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"52",74,0,2013,3,"N","Cleveland County, Arkansas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"522",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"522",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"522",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"5221",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"5221",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"5221",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"52211",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"52211",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"52211",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"522110",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"522110",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"522110",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"53",74,0,2013,1,"N","Cleveland County, Arkansas","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"53",74,0,2013,2,"N","Cleveland County, Arkansas","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"53",74,0,2013,3,"N","Cleveland County, Arkansas","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"531",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"531",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"531",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"5311",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"5311",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"5311",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"53111",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Lessors of residential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"53111",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Lessors of residential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"53111",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Lessors of residential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"531110",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Lessors of residential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"531110",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Lessors of residential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"531110",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Lessors of residential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"54",74,0,2013,1,"N","Cleveland County, Arkansas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",5,"54",74,0,2013,2,"N","Cleveland County, Arkansas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",5,"54",74,0,2013,3,"N","Cleveland County, Arkansas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",5,"541",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",5,"541",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",5,"541",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",5,"5413",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"5413",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"5413",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"54133",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"54133",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"54133",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"541330",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"541330",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"541330",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"5415",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"5415",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"5415",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"54151",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"54151",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"54151",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"541512",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Computer systems design services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"541512",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Computer systems design services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"541512",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Computer systems design services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"56",74,0,2013,1,"N","Cleveland County, Arkansas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"56",74,0,2013,2,"N","Cleveland County, Arkansas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"56",74,0,2013,3,"N","Cleveland County, Arkansas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"561",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"561",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"561",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"5613",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"5613",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"5613",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"56132",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Temporary help services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"56132",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Temporary help services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"56132",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Temporary help services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"561320",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Temporary help services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"561320",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Temporary help services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"561320",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Temporary help services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"5617",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"5617",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"5617",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"56173",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"56173",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"56173",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"561730",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"561730",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"561730",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"62",74,0,2013,1,"","Cleveland County, Arkansas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",31,141,141,143,631647,562566,22756,343
+"05025",5,"62",74,0,2013,2,"","Cleveland County, Arkansas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",31,140,141,142,720692,433390,17874,393
+"05025",5,"62",74,0,2013,3,"","Cleveland County, Arkansas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",28,138,139,135,636107,249840,10160,356
+"05025",5,"621",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"621",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"621",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"6211",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"6211",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"6211",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"62111",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"62111",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"62111",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"621111",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"621111",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"621111",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"6219",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"6219",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"6219",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"62191",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"62191",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"62191",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"621910",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"621910",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"621910",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"623",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"623",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"623",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"6231",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"6231",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"6231",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"62311",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"62311",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"62311",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"623110",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"623110",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"623110",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"624",75,0,2013,1,"","Cleveland County, Arkansas","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",28,38,38,38,100985,53734,2240,204
+"05025",5,"624",75,0,2013,2,"","Cleveland County, Arkansas","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",28,34,35,36,112335,43121,1846,247
+"05025",5,"624",75,0,2013,3,"","Cleveland County, Arkansas","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",25,33,32,31,99032,31753,1379,238
+"05025",5,"6241",76,0,2013,1,"","Cleveland County, Arkansas","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",25,33,33,33,80050,33525,958,187
+"05025",5,"6241",76,0,2013,2,"","Cleveland County, Arkansas","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",25,30,30,30,87854,29954,1078,225
+"05025",5,"6241",76,0,2013,3,"","Cleveland County, Arkansas","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",22,27,27,26,75954,22832,918,219
+"05025",5,"62412",77,0,2013,1,"","Cleveland County, Arkansas","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",25,33,33,33,80050,33525,958,187
+"05025",5,"62412",77,0,2013,2,"","Cleveland County, Arkansas","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",25,30,30,30,87854,29954,1078,225
+"05025",5,"62412",77,0,2013,3,"","Cleveland County, Arkansas","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",22,27,27,26,75954,22832,918,219
+"05025",5,"624120",78,0,2013,1,"","Cleveland County, Arkansas","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",25,33,33,33,80050,33525,958,187
+"05025",5,"624120",78,0,2013,2,"","Cleveland County, Arkansas","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",25,30,30,30,87854,29954,1078,225
+"05025",5,"624120",78,0,2013,3,"","Cleveland County, Arkansas","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",22,27,27,26,75954,22832,918,219
+"05025",5,"6243",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Vocational rehabilitation services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"6243",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Vocational rehabilitation services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"6243",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Vocational rehabilitation services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"62431",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Vocational rehabilitation services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"62431",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Vocational rehabilitation services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"62431",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Vocational rehabilitation services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"624310",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Vocational rehabilitation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"624310",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Vocational rehabilitation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"624310",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Vocational rehabilitation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"6244",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"6244",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"6244",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"62441",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"62441",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"62441",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"624410",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"624410",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"624410",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"72",74,0,2013,1,"N","Cleveland County, Arkansas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"72",74,0,2013,2,"N","Cleveland County, Arkansas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"72",74,0,2013,3,"N","Cleveland County, Arkansas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"722",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"722",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"722",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"7225",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"7225",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"7225",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"72251",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"72251",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"72251",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"722511",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"722511",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"722511",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"722513",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"722513",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"722513",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"81",74,0,2013,1,"","Cleveland County, Arkansas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,12,12,12,108647,100324,2484,696
+"05025",5,"81",74,0,2013,2,"","Cleveland County, Arkansas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,12,12,12,86140,27833,528,552
+"05025",5,"81",74,0,2013,3,"","Cleveland County, Arkansas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,13,12,12,106043,12260,227,661
+"05025",5,"811",75,0,2013,1,"","Cleveland County, Arkansas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,5,5,47643,46182,1834,733
+"05025",5,"811",75,0,2013,2,"","Cleveland County, Arkansas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,5,5,36334,10713,322,559
+"05025",5,"811",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"05025",5,"8112",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Electronic equipment repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"8112",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Electronic equipment repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"8112",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Electronic equipment repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"81121",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Electronic equipment repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"81121",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Electronic equipment repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"81121",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Electronic equipment repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"811219",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Other electronic equipment repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"811219",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Other electronic equipment repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"811219",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Other electronic equipment repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"8113",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"8113",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"8113",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"81131",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"81131",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"81131",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"811310",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"811310",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"811310",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"05025",5,"812",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"812",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"812",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"8122",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"8122",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"8122",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"81221",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"81221",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"81221",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"812210",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"812210",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"812210",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"813",75,0,2013,1,"N","Cleveland County, Arkansas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"813",75,0,2013,2,"N","Cleveland County, Arkansas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"813",75,0,2013,3,"N","Cleveland County, Arkansas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"8139",76,0,2013,1,"N","Cleveland County, Arkansas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"8139",76,0,2013,2,"N","Cleveland County, Arkansas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"8139",76,0,2013,3,"N","Cleveland County, Arkansas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"81391",77,0,2013,1,"N","Cleveland County, Arkansas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"81391",77,0,2013,2,"N","Cleveland County, Arkansas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"81391",77,0,2013,3,"N","Cleveland County, Arkansas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"813910",78,0,2013,1,"N","Cleveland County, Arkansas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"813910",78,0,2013,2,"N","Cleveland County, Arkansas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"05025",5,"813910",78,0,2013,3,"N","Cleveland County, Arkansas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+
