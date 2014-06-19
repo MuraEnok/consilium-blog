@@ -1,0 +1,881 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"51181",0,"10",70,0,2013,1,"","Surry County, Virginia","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",101,1960,1989,1992,35065764,13994439,280747,1362
+"51181",0,"10",70,0,2013,2,"","Surry County, Virginia","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",100,2069,2041,2056,35347157,2052829,86577,1323
+"51181",0,"10",70,0,2013,3,"","Surry County, Virginia","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",98,2022,2014,2130,32035038,1208333,49384,1199
+"51181",1,"10",71,0,2013,1,"","Surry County, Virginia","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,10,11,11,116733,0,0,842
+"51181",1,"10",71,0,2013,2,"","Surry County, Virginia","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,11,10,11,99796,0,0,720
+"51181",1,"10",71,0,2013,3,"","Surry County, Virginia","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,10,10,10,112757,0,0,867
+"51181",1,"102",72,0,2013,1,"","Surry County, Virginia","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,10,11,11,116733,0,0,842
+"51181",1,"102",72,0,2013,2,"","Surry County, Virginia","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,11,10,11,99796,0,0,720
+"51181",1,"102",72,0,2013,3,"","Surry County, Virginia","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,10,10,10,112757,0,0,867
+"51181",1,"1021",73,0,2013,1,"","Surry County, Virginia","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",4,10,11,11,116733,0,0,842
+"51181",1,"1021",73,0,2013,2,"","Surry County, Virginia","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",4,11,10,11,99796,0,0,720
+"51181",1,"1021",73,0,2013,3,"","Surry County, Virginia","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",4,10,10,10,112757,0,0,867
+"51181",1,"48-49",74,0,2013,1,"","Surry County, Virginia","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,10,11,11,116733,0,0,842
+"51181",1,"48-49",74,0,2013,2,"","Surry County, Virginia","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,11,10,11,99796,0,0,720
+"51181",1,"48-49",74,0,2013,3,"","Surry County, Virginia","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,10,10,10,112757,0,0,867
+"51181",1,"491",75,0,2013,1,"","Surry County, Virginia","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,10,11,11,116733,0,0,842
+"51181",1,"491",75,0,2013,2,"","Surry County, Virginia","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,11,10,11,99796,0,0,720
+"51181",1,"491",75,0,2013,3,"","Surry County, Virginia","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,10,10,10,112757,0,0,867
+"51181",1,"4911",76,0,2013,1,"","Surry County, Virginia","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,10,11,11,116733,0,0,842
+"51181",1,"4911",76,0,2013,2,"","Surry County, Virginia","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,11,10,11,99796,0,0,720
+"51181",1,"4911",76,0,2013,3,"","Surry County, Virginia","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,10,10,10,112757,0,0,867
+"51181",1,"49111",77,0,2013,1,"","Surry County, Virginia","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,10,11,11,116733,0,0,842
+"51181",1,"49111",77,0,2013,2,"","Surry County, Virginia","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,11,10,11,99796,0,0,720
+"51181",1,"49111",77,0,2013,3,"","Surry County, Virginia","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,10,10,10,112757,0,0,867
+"51181",1,"491110",78,0,2013,1,"","Surry County, Virginia","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,10,11,11,116733,0,0,842
+"51181",1,"491110",78,0,2013,2,"","Surry County, Virginia","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,11,10,11,99796,0,0,720
+"51181",1,"491110",78,0,2013,3,"","Surry County, Virginia","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,10,10,10,112757,0,0,867
+"51181",2,"10",71,0,2013,1,"","Surry County, Virginia","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",9,113,114,116,1236508,0,0,832
+"51181",2,"10",71,0,2013,2,"","Surry County, Virginia","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",9,115,118,129,1207256,0,0,770
+"51181",2,"10",71,0,2013,3,"","Surry County, Virginia","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",9,129,129,129,1277527,0,0,762
+"51181",2,"101",72,0,2013,1,"N","Surry County, Virginia","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"101",72,0,2013,2,"N","Surry County, Virginia","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"101",72,0,2013,3,"N","Surry County, Virginia","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"1012",73,0,2013,1,"N","Surry County, Virginia","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"1012",73,0,2013,2,"N","Surry County, Virginia","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"1012",73,0,2013,3,"N","Surry County, Virginia","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"102",72,0,2013,1,"N","Surry County, Virginia","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"51181",2,"102",72,0,2013,2,"N","Surry County, Virginia","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"51181",2,"102",72,0,2013,3,"N","Surry County, Virginia","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"51181",2,"1025",73,0,2013,1,"N","Surry County, Virginia","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"1025",73,0,2013,2,"N","Surry County, Virginia","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"1025",73,0,2013,3,"N","Surry County, Virginia","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"1026",73,0,2013,1,"N","Surry County, Virginia","State Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"1026",73,0,2013,2,"N","Surry County, Virginia","State Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"1026",73,0,2013,3,"N","Surry County, Virginia","State Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"1028",73,0,2013,1,"","Surry County, Virginia","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,18,19,19,252596,0,0,1041
+"51181",2,"1028",73,0,2013,2,"","Surry County, Virginia","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,19,19,20,231206,0,0,920
+"51181",2,"1028",73,0,2013,3,"","Surry County, Virginia","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,18,18,18,218318,0,0,933
+"51181",2,"23",74,0,2013,1,"N","Surry County, Virginia","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"23",74,0,2013,2,"N","Surry County, Virginia","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"23",74,0,2013,3,"N","Surry County, Virginia","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"237",75,0,2013,1,"N","Surry County, Virginia","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"237",75,0,2013,2,"N","Surry County, Virginia","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"237",75,0,2013,3,"N","Surry County, Virginia","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"2373",76,0,2013,1,"N","Surry County, Virginia","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"2373",76,0,2013,2,"N","Surry County, Virginia","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"2373",76,0,2013,3,"N","Surry County, Virginia","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"23731",77,0,2013,1,"N","Surry County, Virginia","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"23731",77,0,2013,2,"N","Surry County, Virginia","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"23731",77,0,2013,3,"N","Surry County, Virginia","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"237310",78,0,2013,1,"N","Surry County, Virginia","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"237310",78,0,2013,2,"N","Surry County, Virginia","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"237310",78,0,2013,3,"N","Surry County, Virginia","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"61",74,0,2013,1,"N","Surry County, Virginia","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"61",74,0,2013,2,"N","Surry County, Virginia","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"61",74,0,2013,3,"N","Surry County, Virginia","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"611",75,0,2013,1,"N","Surry County, Virginia","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"611",75,0,2013,2,"N","Surry County, Virginia","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"611",75,0,2013,3,"N","Surry County, Virginia","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"6113",76,0,2013,1,"N","Surry County, Virginia","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"6113",76,0,2013,2,"N","Surry County, Virginia","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"6113",76,0,2013,3,"N","Surry County, Virginia","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"61131",77,0,2013,1,"N","Surry County, Virginia","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"61131",77,0,2013,2,"N","Surry County, Virginia","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"61131",77,0,2013,3,"N","Surry County, Virginia","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"611310",78,0,2013,1,"N","Surry County, Virginia","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"611310",78,0,2013,2,"N","Surry County, Virginia","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"611310",78,0,2013,3,"N","Surry County, Virginia","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"71",74,0,2013,1,"N","Surry County, Virginia","State Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"71",74,0,2013,2,"N","Surry County, Virginia","State Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"71",74,0,2013,3,"N","Surry County, Virginia","State Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"712",75,0,2013,1,"N","Surry County, Virginia","State Government","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"712",75,0,2013,2,"N","Surry County, Virginia","State Government","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"712",75,0,2013,3,"N","Surry County, Virginia","State Government","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"7121",76,0,2013,1,"N","Surry County, Virginia","State Government","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"7121",76,0,2013,2,"N","Surry County, Virginia","State Government","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"7121",76,0,2013,3,"N","Surry County, Virginia","State Government","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"71219",77,0,2013,1,"N","Surry County, Virginia","State Government","Nature parks and other similar institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"71219",77,0,2013,2,"N","Surry County, Virginia","State Government","Nature parks and other similar institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"71219",77,0,2013,3,"N","Surry County, Virginia","State Government","Nature parks and other similar institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"712190",78,0,2013,1,"N","Surry County, Virginia","State Government","Nature parks and other similar institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"712190",78,0,2013,2,"N","Surry County, Virginia","State Government","Nature parks and other similar institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"712190",78,0,2013,3,"N","Surry County, Virginia","State Government","Nature parks and other similar institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"92",74,0,2013,1,"","Surry County, Virginia","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,18,19,19,252596,0,0,1041
+"51181",2,"92",74,0,2013,2,"","Surry County, Virginia","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,19,19,20,231206,0,0,920
+"51181",2,"92",74,0,2013,3,"","Surry County, Virginia","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,18,18,18,218318,0,0,933
+"51181",2,"922",75,0,2013,1,"","Surry County, Virginia","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,9,10,10,138981,0,0,1106
+"51181",2,"922",75,0,2013,2,"","Surry County, Virginia","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,11,11,11,140070,0,0,980
+"51181",2,"922",75,0,2013,3,"","Surry County, Virginia","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,9,9,9,117598,0,0,1005
+"51181",2,"9221",76,0,2013,1,"","Surry County, Virginia","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,10,10,138981,0,0,1106
+"51181",2,"9221",76,0,2013,2,"","Surry County, Virginia","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,11,11,11,140070,0,0,980
+"51181",2,"9221",76,0,2013,3,"","Surry County, Virginia","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,9,9,117598,0,0,1005
+"51181",2,"92211",77,0,2013,1,"N","Surry County, Virginia","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"92211",77,0,2013,2,"N","Surry County, Virginia","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"92211",77,0,2013,3,"N","Surry County, Virginia","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"922110",78,0,2013,1,"N","Surry County, Virginia","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"922110",78,0,2013,2,"N","Surry County, Virginia","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"922110",78,0,2013,3,"N","Surry County, Virginia","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"92212",77,0,2013,1,"N","Surry County, Virginia","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"92212",77,0,2013,2,"N","Surry County, Virginia","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"92212",77,0,2013,3,"N","Surry County, Virginia","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"922120",78,0,2013,1,"N","Surry County, Virginia","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"922120",78,0,2013,2,"N","Surry County, Virginia","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"922120",78,0,2013,3,"N","Surry County, Virginia","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"923",75,0,2013,1,"N","Surry County, Virginia","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"923",75,0,2013,2,"N","Surry County, Virginia","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"923",75,0,2013,3,"N","Surry County, Virginia","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"9231",76,0,2013,1,"N","Surry County, Virginia","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"9231",76,0,2013,2,"N","Surry County, Virginia","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"9231",76,0,2013,3,"N","Surry County, Virginia","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"92312",77,0,2013,1,"N","Surry County, Virginia","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"92312",77,0,2013,2,"N","Surry County, Virginia","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"92312",77,0,2013,3,"N","Surry County, Virginia","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"923120",78,0,2013,1,"N","Surry County, Virginia","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"923120",78,0,2013,2,"N","Surry County, Virginia","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"923120",78,0,2013,3,"N","Surry County, Virginia","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",2,"924",75,0,2013,1,"N","Surry County, Virginia","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"924",75,0,2013,2,"N","Surry County, Virginia","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"924",75,0,2013,3,"N","Surry County, Virginia","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"9241",76,0,2013,1,"N","Surry County, Virginia","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"9241",76,0,2013,2,"N","Surry County, Virginia","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"9241",76,0,2013,3,"N","Surry County, Virginia","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"92412",77,0,2013,1,"N","Surry County, Virginia","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"92412",77,0,2013,2,"N","Surry County, Virginia","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"92412",77,0,2013,3,"N","Surry County, Virginia","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"924120",78,0,2013,1,"N","Surry County, Virginia","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"924120",78,0,2013,2,"N","Surry County, Virginia","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",2,"924120",78,0,2013,3,"N","Surry County, Virginia","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",3,"10",71,0,2013,1,"","Surry County, Virginia","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,401,406,406,3468728,2430700,38502,660
+"51181",3,"10",71,0,2013,2,"","Surry County, Virginia","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,398,406,403,4571852,419545,6543,874
+"51181",3,"10",71,0,2013,3,"","Surry County, Virginia","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,369,368,395,3388551,201341,3144,691
+"51181",3,"102",72,0,2013,1,"","Surry County, Virginia","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,401,406,406,3468728,2430700,38502,660
+"51181",3,"102",72,0,2013,2,"","Surry County, Virginia","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,398,406,403,4571852,419545,6543,874
+"51181",3,"102",72,0,2013,3,"","Surry County, Virginia","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,369,368,395,3388551,201341,3144,691
+"51181",3,"1025",73,0,2013,1,"N","Surry County, Virginia","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",3,"1025",73,0,2013,2,"N","Surry County, Virginia","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",3,"1025",73,0,2013,3,"N","Surry County, Virginia","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",3,"1028",73,0,2013,1,"N","Surry County, Virginia","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",3,"1028",73,0,2013,2,"N","Surry County, Virginia","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",3,"1028",73,0,2013,3,"N","Surry County, Virginia","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",3,"61",74,0,2013,1,"N","Surry County, Virginia","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"61",74,0,2013,2,"N","Surry County, Virginia","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"61",74,0,2013,3,"N","Surry County, Virginia","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"611",75,0,2013,1,"N","Surry County, Virginia","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"611",75,0,2013,2,"N","Surry County, Virginia","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"611",75,0,2013,3,"N","Surry County, Virginia","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"6111",76,0,2013,1,"N","Surry County, Virginia","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"6111",76,0,2013,2,"N","Surry County, Virginia","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"6111",76,0,2013,3,"N","Surry County, Virginia","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"61111",77,0,2013,1,"N","Surry County, Virginia","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"61111",77,0,2013,2,"N","Surry County, Virginia","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"61111",77,0,2013,3,"N","Surry County, Virginia","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"611110",78,0,2013,1,"N","Surry County, Virginia","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"611110",78,0,2013,2,"N","Surry County, Virginia","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"611110",78,0,2013,3,"N","Surry County, Virginia","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"62",74,0,2013,1,"N","Surry County, Virginia","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"62",74,0,2013,2,"N","Surry County, Virginia","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"62",74,0,2013,3,"N","Surry County, Virginia","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"624",75,0,2013,1,"N","Surry County, Virginia","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"624",75,0,2013,2,"N","Surry County, Virginia","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"624",75,0,2013,3,"N","Surry County, Virginia","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"6241",76,0,2013,1,"N","Surry County, Virginia","Local Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"6241",76,0,2013,2,"N","Surry County, Virginia","Local Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"6241",76,0,2013,3,"N","Surry County, Virginia","Local Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"62419",77,0,2013,1,"N","Surry County, Virginia","Local Government","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"62419",77,0,2013,2,"N","Surry County, Virginia","Local Government","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"62419",77,0,2013,3,"N","Surry County, Virginia","Local Government","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"624190",78,0,2013,1,"N","Surry County, Virginia","Local Government","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"624190",78,0,2013,2,"N","Surry County, Virginia","Local Government","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"624190",78,0,2013,3,"N","Surry County, Virginia","Local Government","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"92",74,0,2013,1,"N","Surry County, Virginia","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",3,"92",74,0,2013,2,"N","Surry County, Virginia","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",3,"92",74,0,2013,3,"N","Surry County, Virginia","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",3,"921",75,0,2013,1,"N","Surry County, Virginia","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",3,"921",75,0,2013,2,"N","Surry County, Virginia","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",3,"921",75,0,2013,3,"N","Surry County, Virginia","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",3,"9211",76,0,2013,1,"N","Surry County, Virginia","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",3,"9211",76,0,2013,2,"N","Surry County, Virginia","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",3,"9211",76,0,2013,3,"N","Surry County, Virginia","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",3,"92119",77,0,2013,1,"N","Surry County, Virginia","Local Government","Other general government support","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",3,"92119",77,0,2013,2,"N","Surry County, Virginia","Local Government","Other general government support","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",3,"92119",77,0,2013,3,"N","Surry County, Virginia","Local Government","Other general government support","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",3,"921190",78,0,2013,1,"N","Surry County, Virginia","Local Government","Other general government support","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",3,"921190",78,0,2013,2,"N","Surry County, Virginia","Local Government","Other general government support","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",3,"921190",78,0,2013,3,"N","Surry County, Virginia","Local Government","Other general government support","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",3,"922",75,0,2013,1,"N","Surry County, Virginia","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"922",75,0,2013,2,"N","Surry County, Virginia","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"922",75,0,2013,3,"N","Surry County, Virginia","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"9221",76,0,2013,1,"N","Surry County, Virginia","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"9221",76,0,2013,2,"N","Surry County, Virginia","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"9221",76,0,2013,3,"N","Surry County, Virginia","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"92212",77,0,2013,1,"N","Surry County, Virginia","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"92212",77,0,2013,2,"N","Surry County, Virginia","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"92212",77,0,2013,3,"N","Surry County, Virginia","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"922120",78,0,2013,1,"N","Surry County, Virginia","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"922120",78,0,2013,2,"N","Surry County, Virginia","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",3,"922120",78,0,2013,3,"N","Surry County, Virginia","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"10",71,0,2013,1,"","Surry County, Virginia","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",82,1436,1458,1459,30243795,11563739,242245,1603
+"51181",5,"10",71,0,2013,2,"","Surry County, Virginia","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",81,1545,1507,1513,29468253,1633284,80034,1490
+"51181",5,"10",71,0,2013,3,"","Surry County, Virginia","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",79,1514,1507,1596,27256203,1006992,46240,1362
+"51181",5,"101",72,0,2013,1,"","Surry County, Virginia","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",20,162,159,161,1634453,1128331,64005,783
+"51181",5,"101",72,0,2013,2,"","Surry County, Virginia","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",19,164,165,172,1668517,301892,16209,769
+"51181",5,"101",72,0,2013,3,"","Surry County, Virginia","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",19,172,172,177,1715427,181265,10704,760
+"51181",5,"1011",73,0,2013,1,"N","Surry County, Virginia","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"1011",73,0,2013,2,"N","Surry County, Virginia","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"1011",73,0,2013,3,"N","Surry County, Virginia","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"1012",73,0,2013,1,"N","Surry County, Virginia","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"51181",5,"1012",73,0,2013,2,"N","Surry County, Virginia","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"51181",5,"1012",73,0,2013,3,"N","Surry County, Virginia","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"51181",5,"1013",73,0,2013,1,"","Surry County, Virginia","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",4,106,104,105,968313,661290,36620,709
+"51181",5,"1013",73,0,2013,2,"","Surry County, Virginia","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",4,107,106,106,853342,162250,7357,617
+"51181",5,"1013",73,0,2013,3,"","Surry County, Virginia","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",4,108,107,111,844887,84338,4842,598
+"51181",5,"102",72,0,2013,1,"","Surry County, Virginia","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",62,1274,1299,1298,28609342,10435408,178240,1706
+"51181",5,"102",72,0,2013,2,"","Surry County, Virginia","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",62,1381,1342,1341,27799736,1331392,63825,1579
+"51181",5,"102",72,0,2013,3,"","Surry County, Virginia","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",60,1342,1335,1419,25540776,825727,35536,1439
+"51181",5,"1021",73,0,2013,1,"","Surry County, Virginia","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",23,1031,1049,1027,26039774,8930707,97765,1934
+"51181",5,"1021",73,0,2013,2,"","Surry County, Virginia","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",23,1022,1023,1039,23942556,331242,5197,1792
+"51181",5,"1021",73,0,2013,3,"","Surry County, Virginia","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",21,1042,1035,1029,21718833,299460,5933,1614
+"51181",5,"1023",73,0,2013,1,"","Surry County, Virginia","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",7,27,27,27,267423,174627,7810,762
+"51181",5,"1023",73,0,2013,2,"","Surry County, Virginia","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",7,28,28,28,233109,22613,1011,640
+"51181",5,"1023",73,0,2013,3,"","Surry County, Virginia","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",7,28,28,24,249692,10874,498,720
+"51181",5,"1024",73,0,2013,1,"","Surry County, Virginia","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",13,129,130,148,1901380,1018875,63255,1078
+"51181",5,"1024",73,0,2013,2,"","Surry County, Virginia","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",13,244,199,181,3138515,770483,51165,1161
+"51181",5,"1024",73,0,2013,3,"","Surry County, Virginia","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",13,178,185,276,3084067,385962,25148,1114
+"51181",5,"1025",73,0,2013,1,"","Surry County, Virginia","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,10,11,11,64278,45042,425,464
+"51181",5,"1025",73,0,2013,2,"","Surry County, Virginia","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,10,10,10,58449,18062,241,450
+"51181",5,"1025",73,0,2013,3,"","Surry County, Virginia","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,10,10,10,53794,11078,187,414
+"51181",5,"1026",73,0,2013,1,"","Surry County, Virginia","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",9,53,58,58,133592,130184,4627,182
+"51181",5,"1026",73,0,2013,2,"","Surry County, Virginia","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",9,49,54,53,163931,118117,3882,243
+"51181",5,"1026",73,0,2013,3,"","Surry County, Virginia","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",9,56,49,53,160268,76179,2041,234
+"51181",5,"1027",73,0,2013,1,"","Surry County, Virginia","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,24,24,27,202895,135973,4358,624
+"51181",5,"1027",73,0,2013,2,"","Surry County, Virginia","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,28,28,30,263176,70875,2329,706
+"51181",5,"1027",73,0,2013,3,"","Surry County, Virginia","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,28,28,27,274122,42174,1729,762
+"51181",5,"11",74,0,2013,1,"N","Surry County, Virginia","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"11",74,0,2013,2,"N","Surry County, Virginia","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"11",74,0,2013,3,"N","Surry County, Virginia","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"112",75,0,2013,1,"N","Surry County, Virginia","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"112",75,0,2013,2,"N","Surry County, Virginia","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"112",75,0,2013,3,"N","Surry County, Virginia","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"1122",76,0,2013,1,"N","Surry County, Virginia","Private","Hog and pig farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"1122",76,0,2013,2,"N","Surry County, Virginia","Private","Hog and pig farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"1122",76,0,2013,3,"N","Surry County, Virginia","Private","Hog and pig farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"11221",77,0,2013,1,"N","Surry County, Virginia","Private","Hog and pig farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"11221",77,0,2013,2,"N","Surry County, Virginia","Private","Hog and pig farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"11221",77,0,2013,3,"N","Surry County, Virginia","Private","Hog and pig farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"112210",78,0,2013,1,"N","Surry County, Virginia","Private","Hog and pig farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"112210",78,0,2013,2,"N","Surry County, Virginia","Private","Hog and pig farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"112210",78,0,2013,3,"N","Surry County, Virginia","Private","Hog and pig farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"113",75,0,2013,1,"N","Surry County, Virginia","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"113",75,0,2013,2,"N","Surry County, Virginia","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"113",75,0,2013,3,"N","Surry County, Virginia","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"1133",76,0,2013,1,"N","Surry County, Virginia","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"1133",76,0,2013,2,"N","Surry County, Virginia","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"1133",76,0,2013,3,"N","Surry County, Virginia","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"11331",77,0,2013,1,"N","Surry County, Virginia","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"11331",77,0,2013,2,"N","Surry County, Virginia","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"11331",77,0,2013,3,"N","Surry County, Virginia","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"113310",78,0,2013,1,"N","Surry County, Virginia","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"113310",78,0,2013,2,"N","Surry County, Virginia","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"113310",78,0,2013,3,"N","Surry County, Virginia","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"22",74,0,2013,1,"N","Surry County, Virginia","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"22",74,0,2013,2,"N","Surry County, Virginia","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"22",74,0,2013,3,"N","Surry County, Virginia","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"221",75,0,2013,1,"N","Surry County, Virginia","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"221",75,0,2013,2,"N","Surry County, Virginia","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"221",75,0,2013,3,"N","Surry County, Virginia","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"2211",76,0,2013,1,"N","Surry County, Virginia","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"2211",76,0,2013,2,"N","Surry County, Virginia","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"2211",76,0,2013,3,"N","Surry County, Virginia","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"22111",77,0,2013,1,"N","Surry County, Virginia","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"22111",77,0,2013,2,"N","Surry County, Virginia","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"22111",77,0,2013,3,"N","Surry County, Virginia","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"221113",78,0,2013,1,"N","Surry County, Virginia","Private","Nuclear electric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"221113",78,0,2013,2,"N","Surry County, Virginia","Private","Nuclear electric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"221113",78,0,2013,3,"N","Surry County, Virginia","Private","Nuclear electric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"22112",77,0,2013,1,"N","Surry County, Virginia","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"22112",77,0,2013,2,"N","Surry County, Virginia","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"22112",77,0,2013,3,"N","Surry County, Virginia","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"221122",78,0,2013,1,"N","Surry County, Virginia","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"221122",78,0,2013,2,"N","Surry County, Virginia","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"221122",78,0,2013,3,"N","Surry County, Virginia","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2213",76,0,2013,1,"N","Surry County, Virginia","Private","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2213",76,0,2013,2,"N","Surry County, Virginia","Private","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2213",76,0,2013,3,"N","Surry County, Virginia","Private","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"22131",77,0,2013,1,"N","Surry County, Virginia","Private","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"22131",77,0,2013,2,"N","Surry County, Virginia","Private","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"22131",77,0,2013,3,"N","Surry County, Virginia","Private","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"221310",78,0,2013,1,"N","Surry County, Virginia","Private","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"221310",78,0,2013,2,"N","Surry County, Virginia","Private","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"221310",78,0,2013,3,"N","Surry County, Virginia","Private","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23",74,0,2013,1,"N","Surry County, Virginia","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"51181",5,"23",74,0,2013,2,"N","Surry County, Virginia","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"51181",5,"23",74,0,2013,3,"N","Surry County, Virginia","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"51181",5,"236",75,0,2013,1,"N","Surry County, Virginia","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"236",75,0,2013,2,"N","Surry County, Virginia","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"236",75,0,2013,3,"N","Surry County, Virginia","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"2361",76,0,2013,1,"N","Surry County, Virginia","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"2361",76,0,2013,2,"N","Surry County, Virginia","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"2361",76,0,2013,3,"N","Surry County, Virginia","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"23611",77,0,2013,1,"N","Surry County, Virginia","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"23611",77,0,2013,2,"N","Surry County, Virginia","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"23611",77,0,2013,3,"N","Surry County, Virginia","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"236115",78,0,2013,1,"N","Surry County, Virginia","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"236115",78,0,2013,2,"N","Surry County, Virginia","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"236115",78,0,2013,3,"N","Surry County, Virginia","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"2362",76,0,2013,1,"N","Surry County, Virginia","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2362",76,0,2013,2,"N","Surry County, Virginia","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2362",76,0,2013,3,"N","Surry County, Virginia","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23621",77,0,2013,1,"N","Surry County, Virginia","Private","Industrial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23621",77,0,2013,2,"N","Surry County, Virginia","Private","Industrial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23621",77,0,2013,3,"N","Surry County, Virginia","Private","Industrial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"236210",78,0,2013,1,"N","Surry County, Virginia","Private","Industrial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"236210",78,0,2013,2,"N","Surry County, Virginia","Private","Industrial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"236210",78,0,2013,3,"N","Surry County, Virginia","Private","Industrial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"237",75,0,2013,1,"N","Surry County, Virginia","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"237",75,0,2013,2,"N","Surry County, Virginia","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"237",75,0,2013,3,"N","Surry County, Virginia","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"2371",76,0,2013,1,"N","Surry County, Virginia","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2371",76,0,2013,2,"N","Surry County, Virginia","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2371",76,0,2013,3,"N","Surry County, Virginia","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23713",77,0,2013,1,"N","Surry County, Virginia","Private","Power and communication system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23713",77,0,2013,2,"N","Surry County, Virginia","Private","Power and communication system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23713",77,0,2013,3,"N","Surry County, Virginia","Private","Power and communication system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"237130",78,0,2013,1,"N","Surry County, Virginia","Private","Power and communication system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"237130",78,0,2013,2,"N","Surry County, Virginia","Private","Power and communication system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"237130",78,0,2013,3,"N","Surry County, Virginia","Private","Power and communication system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2373",76,0,2013,1,"N","Surry County, Virginia","Private","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2373",76,0,2013,2,"N","Surry County, Virginia","Private","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2373",76,0,2013,3,"N","Surry County, Virginia","Private","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23731",77,0,2013,1,"N","Surry County, Virginia","Private","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23731",77,0,2013,2,"N","Surry County, Virginia","Private","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23731",77,0,2013,3,"N","Surry County, Virginia","Private","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"237310",78,0,2013,1,"N","Surry County, Virginia","Private","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"237310",78,0,2013,2,"N","Surry County, Virginia","Private","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"237310",78,0,2013,3,"N","Surry County, Virginia","Private","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238",75,0,2013,1,"","Surry County, Virginia","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,19,18,19,135387,103551,6981,558
+"51181",5,"238",75,0,2013,2,"","Surry County, Virginia","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,20,21,25,168560,62143,4213,589
+"51181",5,"238",75,0,2013,3,"","Surry County, Virginia","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,21,22,24,195286,45166,3063,673
+"51181",5,"2381",76,0,2013,1,"N","Surry County, Virginia","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2381",76,0,2013,2,"N","Surry County, Virginia","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2381",76,0,2013,3,"N","Surry County, Virginia","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23813",77,0,2013,1,"N","Surry County, Virginia","Private","Framing contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23813",77,0,2013,2,"N","Surry County, Virginia","Private","Framing contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23813",77,0,2013,3,"N","Surry County, Virginia","Private","Framing contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238131",78,0,2013,1,"N","Surry County, Virginia","Private","Residential framing contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238131",78,0,2013,2,"N","Surry County, Virginia","Private","Residential framing contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238131",78,0,2013,3,"N","Surry County, Virginia","Private","Residential framing contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2382",76,0,2013,1,"N","Surry County, Virginia","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"2382",76,0,2013,2,"N","Surry County, Virginia","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"2382",76,0,2013,3,"N","Surry County, Virginia","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"23821",77,0,2013,1,"N","Surry County, Virginia","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"23821",77,0,2013,2,"N","Surry County, Virginia","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"23821",77,0,2013,3,"N","Surry County, Virginia","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"238211",78,0,2013,1,"N","Surry County, Virginia","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"238211",78,0,2013,2,"N","Surry County, Virginia","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238211",78,0,2013,3,"N","Surry County, Virginia","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238212",78,0,2013,1,"N","Surry County, Virginia","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238212",78,0,2013,2,"N","Surry County, Virginia","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238212",78,0,2013,3,"N","Surry County, Virginia","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23822",77,0,2013,1,"N","Surry County, Virginia","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23822",77,0,2013,2,"N","Surry County, Virginia","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23822",77,0,2013,3,"N","Surry County, Virginia","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238222",78,0,2013,1,"N","Surry County, Virginia","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238222",78,0,2013,2,"N","Surry County, Virginia","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238222",78,0,2013,3,"N","Surry County, Virginia","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2383",76,0,2013,1,"N","Surry County, Virginia","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2383",76,0,2013,2,"N","Surry County, Virginia","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2383",76,0,2013,3,"N","Surry County, Virginia","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23832",77,0,2013,1,"N","Surry County, Virginia","Private","Painting and wall covering contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23832",77,0,2013,2,"N","Surry County, Virginia","Private","Painting and wall covering contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23832",77,0,2013,3,"N","Surry County, Virginia","Private","Painting and wall covering contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238321",78,0,2013,1,"N","Surry County, Virginia","Private","Residential painting contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238321",78,0,2013,2,"N","Surry County, Virginia","Private","Residential painting contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238321",78,0,2013,3,"N","Surry County, Virginia","Private","Residential painting contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"2389",76,0,2013,1,"N","Surry County, Virginia","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"2389",76,0,2013,2,"N","Surry County, Virginia","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"2389",76,0,2013,3,"N","Surry County, Virginia","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"23891",77,0,2013,1,"N","Surry County, Virginia","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23891",77,0,2013,2,"N","Surry County, Virginia","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23891",77,0,2013,3,"N","Surry County, Virginia","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238911",78,0,2013,1,"N","Surry County, Virginia","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238911",78,0,2013,2,"N","Surry County, Virginia","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238911",78,0,2013,3,"N","Surry County, Virginia","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23899",77,0,2013,1,"N","Surry County, Virginia","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23899",77,0,2013,2,"N","Surry County, Virginia","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"23899",77,0,2013,3,"N","Surry County, Virginia","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238992",78,0,2013,1,"N","Surry County, Virginia","Private","All other nonresidential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238992",78,0,2013,2,"N","Surry County, Virginia","Private","All other nonresidential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"238992",78,0,2013,3,"N","Surry County, Virginia","Private","All other nonresidential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"31-33",74,0,2013,1,"","Surry County, Virginia","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,106,104,105,968313,661290,36620,709
+"51181",5,"31-33",74,0,2013,2,"","Surry County, Virginia","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,107,106,106,853342,162250,7357,617
+"51181",5,"31-33",74,0,2013,3,"","Surry County, Virginia","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,108,107,111,844887,84338,4842,598
+"51181",5,"311",75,0,2013,1,"N","Surry County, Virginia","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"311",75,0,2013,2,"N","Surry County, Virginia","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"311",75,0,2013,3,"N","Surry County, Virginia","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"3116",76,0,2013,1,"N","Surry County, Virginia","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"3116",76,0,2013,2,"N","Surry County, Virginia","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"3116",76,0,2013,3,"N","Surry County, Virginia","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"31161",77,0,2013,1,"N","Surry County, Virginia","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"31161",77,0,2013,2,"N","Surry County, Virginia","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"31161",77,0,2013,3,"N","Surry County, Virginia","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"311612",78,0,2013,1,"N","Surry County, Virginia","Private","Meat processed from carcasses","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"311612",78,0,2013,2,"N","Surry County, Virginia","Private","Meat processed from carcasses","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"311612",78,0,2013,3,"N","Surry County, Virginia","Private","Meat processed from carcasses","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"321",75,0,2013,1,"N","Surry County, Virginia","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"321",75,0,2013,2,"N","Surry County, Virginia","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"321",75,0,2013,3,"N","Surry County, Virginia","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"3211",76,0,2013,1,"N","Surry County, Virginia","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"3211",76,0,2013,2,"N","Surry County, Virginia","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"3211",76,0,2013,3,"N","Surry County, Virginia","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"32111",77,0,2013,1,"N","Surry County, Virginia","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"32111",77,0,2013,2,"N","Surry County, Virginia","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"32111",77,0,2013,3,"N","Surry County, Virginia","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"321113",78,0,2013,1,"N","Surry County, Virginia","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"321113",78,0,2013,2,"N","Surry County, Virginia","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"321113",78,0,2013,3,"N","Surry County, Virginia","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"3219",76,0,2013,1,"N","Surry County, Virginia","Private","Other wood product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"3219",76,0,2013,2,"N","Surry County, Virginia","Private","Other wood product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"3219",76,0,2013,3,"N","Surry County, Virginia","Private","Other wood product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"32191",77,0,2013,1,"N","Surry County, Virginia","Private","Millwork","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"32191",77,0,2013,2,"N","Surry County, Virginia","Private","Millwork","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"32191",77,0,2013,3,"N","Surry County, Virginia","Private","Millwork","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"321918",78,0,2013,1,"N","Surry County, Virginia","Private","Other millwork, including flooring","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"321918",78,0,2013,2,"N","Surry County, Virginia","Private","Other millwork, including flooring","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"321918",78,0,2013,3,"N","Surry County, Virginia","Private","Other millwork, including flooring","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"337",75,0,2013,1,"N","Surry County, Virginia","Private","Furniture and related product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"337",75,0,2013,2,"N","Surry County, Virginia","Private","Furniture and related product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"337",75,0,2013,3,"N","Surry County, Virginia","Private","Furniture and related product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"3371",76,0,2013,1,"N","Surry County, Virginia","Private","Household and institutional furniture mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"3371",76,0,2013,2,"N","Surry County, Virginia","Private","Household and institutional furniture mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"3371",76,0,2013,3,"N","Surry County, Virginia","Private","Household and institutional furniture mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"33711",77,0,2013,1,"N","Surry County, Virginia","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"33711",77,0,2013,2,"N","Surry County, Virginia","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"33711",77,0,2013,3,"N","Surry County, Virginia","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"337110",78,0,2013,1,"N","Surry County, Virginia","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"337110",78,0,2013,2,"N","Surry County, Virginia","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"337110",78,0,2013,3,"N","Surry County, Virginia","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"42",74,0,2013,1,"","Surry County, Virginia","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",5,23,19,18,193394,150548,6482,744
+"51181",5,"42",74,0,2013,2,"","Surry County, Virginia","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",5,25,24,26,212111,42846,1436,653
+"51181",5,"42",74,0,2013,3,"","Surry County, Virginia","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",5,26,24,24,214381,62906,2319,669
+"51181",5,"423",75,0,2013,1,"N","Surry County, Virginia","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"423",75,0,2013,2,"N","Surry County, Virginia","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"423",75,0,2013,3,"N","Surry County, Virginia","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"4237",76,0,2013,1,"N","Surry County, Virginia","Private","Hardware and plumbing merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4237",76,0,2013,2,"N","Surry County, Virginia","Private","Hardware and plumbing merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4237",76,0,2013,3,"N","Surry County, Virginia","Private","Hardware and plumbing merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"42374",77,0,2013,1,"N","Surry County, Virginia","Private","Refrigeration equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"42374",77,0,2013,2,"N","Surry County, Virginia","Private","Refrigeration equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"42374",77,0,2013,3,"N","Surry County, Virginia","Private","Refrigeration equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"423740",78,0,2013,1,"N","Surry County, Virginia","Private","Refrigeration equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"423740",78,0,2013,2,"N","Surry County, Virginia","Private","Refrigeration equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"423740",78,0,2013,3,"N","Surry County, Virginia","Private","Refrigeration equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4238",76,0,2013,1,"N","Surry County, Virginia","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4238",76,0,2013,2,"N","Surry County, Virginia","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4238",76,0,2013,3,"N","Surry County, Virginia","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"42382",77,0,2013,1,"N","Surry County, Virginia","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"42382",77,0,2013,2,"N","Surry County, Virginia","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"42382",77,0,2013,3,"N","Surry County, Virginia","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"423820",78,0,2013,1,"N","Surry County, Virginia","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"423820",78,0,2013,2,"N","Surry County, Virginia","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"423820",78,0,2013,3,"N","Surry County, Virginia","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"424",75,0,2013,1,"N","Surry County, Virginia","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"424",75,0,2013,2,"N","Surry County, Virginia","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"424",75,0,2013,3,"N","Surry County, Virginia","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"4244",76,0,2013,1,"N","Surry County, Virginia","Private","Grocery and related product wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4244",76,0,2013,2,"N","Surry County, Virginia","Private","Grocery and related product wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4244",76,0,2013,3,"N","Surry County, Virginia","Private","Grocery and related product wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"42445",77,0,2013,1,"N","Surry County, Virginia","Private","Confectionery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"42445",77,0,2013,2,"N","Surry County, Virginia","Private","Confectionery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"42445",77,0,2013,3,"N","Surry County, Virginia","Private","Confectionery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"424450",78,0,2013,1,"N","Surry County, Virginia","Private","Confectionery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"424450",78,0,2013,2,"N","Surry County, Virginia","Private","Confectionery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"424450",78,0,2013,3,"N","Surry County, Virginia","Private","Confectionery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4249",76,0,2013,1,"N","Surry County, Virginia","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"4249",76,0,2013,2,"N","Surry County, Virginia","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"4249",76,0,2013,3,"N","Surry County, Virginia","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"42491",77,0,2013,1,"N","Surry County, Virginia","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"42491",77,0,2013,2,"N","Surry County, Virginia","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"42491",77,0,2013,3,"N","Surry County, Virginia","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"424910",78,0,2013,1,"N","Surry County, Virginia","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"424910",78,0,2013,2,"N","Surry County, Virginia","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"424910",78,0,2013,3,"N","Surry County, Virginia","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"44-45",74,0,2013,1,"","Surry County, Virginia","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",10,33,36,37,153596,129284,2525,334
+"51181",5,"44-45",74,0,2013,2,"","Surry County, Virginia","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",10,30,31,34,148547,76230,1711,361
+"51181",5,"44-45",74,0,2013,3,"","Surry County, Virginia","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,32,33,35,162059,72776,2049,374
+"51181",5,"444",75,0,2013,1,"N","Surry County, Virginia","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"444",75,0,2013,2,"N","Surry County, Virginia","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"444",75,0,2013,3,"N","Surry County, Virginia","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"4441",76,0,2013,1,"N","Surry County, Virginia","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4441",76,0,2013,2,"N","Surry County, Virginia","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4441",76,0,2013,3,"N","Surry County, Virginia","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"44413",77,0,2013,1,"N","Surry County, Virginia","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"44413",77,0,2013,2,"N","Surry County, Virginia","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"44413",77,0,2013,3,"N","Surry County, Virginia","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"444130",78,0,2013,1,"N","Surry County, Virginia","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"444130",78,0,2013,2,"N","Surry County, Virginia","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"444130",78,0,2013,3,"N","Surry County, Virginia","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4442",76,0,2013,1,"N","Surry County, Virginia","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4442",76,0,2013,2,"N","Surry County, Virginia","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4442",76,0,2013,3,"N","Surry County, Virginia","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"44422",77,0,2013,1,"N","Surry County, Virginia","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"44422",77,0,2013,2,"N","Surry County, Virginia","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"44422",77,0,2013,3,"N","Surry County, Virginia","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"444220",78,0,2013,1,"N","Surry County, Virginia","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"444220",78,0,2013,2,"N","Surry County, Virginia","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"444220",78,0,2013,3,"N","Surry County, Virginia","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"445",75,0,2013,1,"","Surry County, Virginia","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,11,11,11,47350,47350,659,331
+"51181",5,"445",75,0,2013,2,"","Surry County, Virginia","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,9,9,10,37278,26176,439,307
+"51181",5,"445",75,0,2013,3,"","Surry County, Virginia","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,9,9,9,36050,13101,293,308
+"51181",5,"4451",76,0,2013,1,"","Surry County, Virginia","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,11,11,11,47350,47350,659,331
+"51181",5,"4451",76,0,2013,2,"","Surry County, Virginia","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,9,9,10,37278,26176,439,307
+"51181",5,"4451",76,0,2013,3,"","Surry County, Virginia","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,9,9,9,36050,13101,293,308
+"51181",5,"44511",77,0,2013,1,"N","Surry County, Virginia","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"44511",77,0,2013,2,"N","Surry County, Virginia","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"44511",77,0,2013,3,"N","Surry County, Virginia","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"445110",78,0,2013,1,"N","Surry County, Virginia","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"445110",78,0,2013,2,"N","Surry County, Virginia","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"445110",78,0,2013,3,"N","Surry County, Virginia","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"44512",77,0,2013,1,"N","Surry County, Virginia","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"44512",77,0,2013,2,"N","Surry County, Virginia","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"44512",77,0,2013,3,"N","Surry County, Virginia","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"445120",78,0,2013,1,"N","Surry County, Virginia","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"445120",78,0,2013,2,"N","Surry County, Virginia","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"445120",78,0,2013,3,"N","Surry County, Virginia","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"447",75,0,2013,1,"N","Surry County, Virginia","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"447",75,0,2013,2,"N","Surry County, Virginia","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"447",75,0,2013,3,"N","Surry County, Virginia","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"4471",76,0,2013,1,"N","Surry County, Virginia","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"4471",76,0,2013,2,"N","Surry County, Virginia","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"4471",76,0,2013,3,"N","Surry County, Virginia","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"44711",77,0,2013,1,"N","Surry County, Virginia","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"44711",77,0,2013,2,"N","Surry County, Virginia","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"44711",77,0,2013,3,"N","Surry County, Virginia","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"447110",78,0,2013,1,"N","Surry County, Virginia","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"447110",78,0,2013,2,"N","Surry County, Virginia","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"447110",78,0,2013,3,"N","Surry County, Virginia","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"452",75,0,2013,1,"N","Surry County, Virginia","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"452",75,0,2013,2,"N","Surry County, Virginia","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"452",75,0,2013,3,"N","Surry County, Virginia","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4529",76,0,2013,1,"N","Surry County, Virginia","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4529",76,0,2013,2,"N","Surry County, Virginia","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4529",76,0,2013,3,"N","Surry County, Virginia","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"45299",77,0,2013,1,"N","Surry County, Virginia","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"45299",77,0,2013,2,"N","Surry County, Virginia","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"45299",77,0,2013,3,"N","Surry County, Virginia","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"452990",78,0,2013,1,"N","Surry County, Virginia","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"452990",78,0,2013,2,"N","Surry County, Virginia","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"452990",78,0,2013,3,"N","Surry County, Virginia","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"48-49",74,0,2013,1,"N","Surry County, Virginia","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"51181",5,"48-49",74,0,2013,2,"N","Surry County, Virginia","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"51181",5,"48-49",74,0,2013,3,"N","Surry County, Virginia","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"484",75,0,2013,1,"","Surry County, Virginia","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,7,34169,33012,326,375
+"51181",5,"484",75,0,2013,2,"","Surry County, Virginia","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,8,50104,40438,345,526
+"51181",5,"484",75,0,2013,3,"","Surry County, Virginia","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,7,36966,24052,164,406
+"51181",5,"4841",76,0,2013,1,"N","Surry County, Virginia","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4841",76,0,2013,2,"N","Surry County, Virginia","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4841",76,0,2013,3,"N","Surry County, Virginia","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"48411",77,0,2013,1,"N","Surry County, Virginia","Private","General freight trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"48411",77,0,2013,2,"N","Surry County, Virginia","Private","General freight trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"48411",77,0,2013,3,"N","Surry County, Virginia","Private","General freight trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"484110",78,0,2013,1,"N","Surry County, Virginia","Private","General freight trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"484110",78,0,2013,2,"N","Surry County, Virginia","Private","General freight trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"484110",78,0,2013,3,"N","Surry County, Virginia","Private","General freight trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4842",76,0,2013,1,"N","Surry County, Virginia","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"4842",76,0,2013,2,"N","Surry County, Virginia","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"4842",76,0,2013,3,"N","Surry County, Virginia","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"48422",77,0,2013,1,"N","Surry County, Virginia","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"48422",77,0,2013,2,"N","Surry County, Virginia","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"48422",77,0,2013,3,"N","Surry County, Virginia","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"484220",78,0,2013,1,"N","Surry County, Virginia","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"484220",78,0,2013,2,"N","Surry County, Virginia","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"484220",78,0,2013,3,"N","Surry County, Virginia","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"485",75,0,2013,1,"N","Surry County, Virginia","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"485",75,0,2013,2,"N","Surry County, Virginia","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"485",75,0,2013,3,"N","Surry County, Virginia","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4855",76,0,2013,1,"N","Surry County, Virginia","Private","Charter bus industry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4855",76,0,2013,2,"N","Surry County, Virginia","Private","Charter bus industry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4855",76,0,2013,3,"N","Surry County, Virginia","Private","Charter bus industry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"48551",77,0,2013,1,"N","Surry County, Virginia","Private","Charter bus industry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"48551",77,0,2013,2,"N","Surry County, Virginia","Private","Charter bus industry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"48551",77,0,2013,3,"N","Surry County, Virginia","Private","Charter bus industry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"485510",78,0,2013,1,"N","Surry County, Virginia","Private","Charter bus industry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"485510",78,0,2013,2,"N","Surry County, Virginia","Private","Charter bus industry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"485510",78,0,2013,3,"N","Surry County, Virginia","Private","Charter bus industry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"488",75,0,2013,1,"N","Surry County, Virginia","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"488",75,0,2013,2,"N","Surry County, Virginia","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"488",75,0,2013,3,"-","Surry County, Virginia","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"51181",5,"4883",76,0,2013,1,"N","Surry County, Virginia","Private","Support activities for water transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4883",76,0,2013,2,"N","Surry County, Virginia","Private","Support activities for water transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"4883",76,0,2013,3,"-","Surry County, Virginia","Private","Support activities for water transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"51181",5,"48833",77,0,2013,1,"N","Surry County, Virginia","Private","Navigational services to shipping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"48833",77,0,2013,2,"N","Surry County, Virginia","Private","Navigational services to shipping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"48833",77,0,2013,3,"-","Surry County, Virginia","Private","Navigational services to shipping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"51181",5,"488330",78,0,2013,1,"N","Surry County, Virginia","Private","Navigational services to shipping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"488330",78,0,2013,2,"N","Surry County, Virginia","Private","Navigational services to shipping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"488330",78,0,2013,3,"-","Surry County, Virginia","Private","Navigational services to shipping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"51181",5,"52",74,0,2013,1,"","Surry County, Virginia","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,11,11,11,127440,68120,1586,891
+"51181",5,"52",74,0,2013,2,"","Surry County, Virginia","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,11,11,11,110422,7706,190,772
+"51181",5,"52",74,0,2013,3,"N","Surry County, Virginia","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"522",75,0,2013,1,"N","Surry County, Virginia","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"522",75,0,2013,2,"N","Surry County, Virginia","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"522",75,0,2013,3,"N","Surry County, Virginia","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"5221",76,0,2013,1,"N","Surry County, Virginia","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"5221",76,0,2013,2,"N","Surry County, Virginia","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"5221",76,0,2013,3,"N","Surry County, Virginia","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"52211",77,0,2013,1,"N","Surry County, Virginia","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"52211",77,0,2013,2,"N","Surry County, Virginia","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"52211",77,0,2013,3,"N","Surry County, Virginia","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"522110",78,0,2013,1,"N","Surry County, Virginia","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"522110",78,0,2013,2,"N","Surry County, Virginia","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"522110",78,0,2013,3,"N","Surry County, Virginia","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"524",75,0,2013,1,"N","Surry County, Virginia","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"524",75,0,2013,2,"N","Surry County, Virginia","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"524",75,0,2013,3,"N","Surry County, Virginia","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5241",76,0,2013,1,"N","Surry County, Virginia","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5241",76,0,2013,2,"N","Surry County, Virginia","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5241",76,0,2013,3,"N","Surry County, Virginia","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"52412",77,0,2013,1,"N","Surry County, Virginia","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"52412",77,0,2013,2,"N","Surry County, Virginia","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"52412",77,0,2013,3,"N","Surry County, Virginia","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"524126",78,0,2013,1,"N","Surry County, Virginia","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"524126",78,0,2013,2,"N","Surry County, Virginia","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"524126",78,0,2013,3,"N","Surry County, Virginia","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"53",74,0,2013,1,"","Surry County, Virginia","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,16,16,16,139983,106507,6224,673
+"51181",5,"53",74,0,2013,2,"","Surry County, Virginia","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,17,17,17,122687,14907,821,555
+"51181",5,"53",74,0,2013,3,"N","Surry County, Virginia","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"531",75,0,2013,1,"","Surry County, Virginia","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,16,16,16,139983,106507,6224,673
+"51181",5,"531",75,0,2013,2,"","Surry County, Virginia","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,17,17,17,122687,14907,821,555
+"51181",5,"531",75,0,2013,3,"N","Surry County, Virginia","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"5313",76,0,2013,1,"","Surry County, Virginia","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,16,16,16,139983,106507,6224,673
+"51181",5,"5313",76,0,2013,2,"","Surry County, Virginia","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,17,17,17,122687,14907,821,555
+"51181",5,"5313",76,0,2013,3,"N","Surry County, Virginia","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"53131",77,0,2013,1,"","Surry County, Virginia","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,16,16,16,139983,106507,6224,673
+"51181",5,"53131",77,0,2013,2,"","Surry County, Virginia","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,17,17,17,122687,14907,821,555
+"51181",5,"53131",77,0,2013,3,"N","Surry County, Virginia","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"531311",78,0,2013,1,"","Surry County, Virginia","Private","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,16,16,16,139983,106507,6224,673
+"51181",5,"531311",78,0,2013,2,"","Surry County, Virginia","Private","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,17,17,17,122687,14907,821,555
+"51181",5,"531311",78,0,2013,3,"N","Surry County, Virginia","Private","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"54",74,0,2013,1,"","Surry County, Virginia","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",9,18,21,22,270332,149755,8323,1023
+"51181",5,"54",74,0,2013,2,"","Surry County, Virginia","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",9,93,55,30,938040,285646,18400,1216
+"51181",5,"54",74,0,2013,3,"","Surry County, Virginia","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",9,26,26,101,745105,100431,5892,1124
+"51181",5,"541",75,0,2013,1,"","Surry County, Virginia","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,18,21,22,270332,149755,8323,1023
+"51181",5,"541",75,0,2013,2,"","Surry County, Virginia","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,93,55,30,938040,285646,18400,1216
+"51181",5,"541",75,0,2013,3,"","Surry County, Virginia","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,26,26,101,745105,100431,5892,1124
+"51181",5,"5411",76,0,2013,1,"N","Surry County, Virginia","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"5411",76,0,2013,2,"N","Surry County, Virginia","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"5411",76,0,2013,3,"N","Surry County, Virginia","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"54111",77,0,2013,1,"N","Surry County, Virginia","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"54111",77,0,2013,2,"N","Surry County, Virginia","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"54111",77,0,2013,3,"N","Surry County, Virginia","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"541110",78,0,2013,1,"N","Surry County, Virginia","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"541110",78,0,2013,2,"N","Surry County, Virginia","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"541110",78,0,2013,3,"N","Surry County, Virginia","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"5412",76,0,2013,1,"N","Surry County, Virginia","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5412",76,0,2013,2,"N","Surry County, Virginia","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5412",76,0,2013,3,"N","Surry County, Virginia","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54121",77,0,2013,1,"N","Surry County, Virginia","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54121",77,0,2013,2,"N","Surry County, Virginia","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54121",77,0,2013,3,"N","Surry County, Virginia","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541214",78,0,2013,1,"N","Surry County, Virginia","Private","Payroll services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541214",78,0,2013,2,"N","Surry County, Virginia","Private","Payroll services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541214",78,0,2013,3,"N","Surry County, Virginia","Private","Payroll services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5413",76,0,2013,1,"N","Surry County, Virginia","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"5413",76,0,2013,2,"","Surry County, Virginia","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,10,11,11,115128,34023,2010,830
+"51181",5,"5413",76,0,2013,3,"N","Surry County, Virginia","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"54133",77,0,2013,1,"N","Surry County, Virginia","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54133",77,0,2013,2,"N","Surry County, Virginia","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54133",77,0,2013,3,"N","Surry County, Virginia","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541330",78,0,2013,1,"N","Surry County, Virginia","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541330",78,0,2013,2,"N","Surry County, Virginia","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541330",78,0,2013,3,"N","Surry County, Virginia","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54137",77,0,2013,1,"N","Surry County, Virginia","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54137",77,0,2013,2,"N","Surry County, Virginia","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54137",77,0,2013,3,"N","Surry County, Virginia","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541370",78,0,2013,1,"N","Surry County, Virginia","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541370",78,0,2013,2,"N","Surry County, Virginia","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541370",78,0,2013,3,"N","Surry County, Virginia","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54138",77,0,2013,1,"N","Surry County, Virginia","Private","Testing laboratories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54138",77,0,2013,2,"N","Surry County, Virginia","Private","Testing laboratories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54138",77,0,2013,3,"N","Surry County, Virginia","Private","Testing laboratories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541380",78,0,2013,1,"N","Surry County, Virginia","Private","Testing laboratories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541380",78,0,2013,2,"N","Surry County, Virginia","Private","Testing laboratories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541380",78,0,2013,3,"N","Surry County, Virginia","Private","Testing laboratories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5416",76,0,2013,1,"N","Surry County, Virginia","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5416",76,0,2013,2,"N","Surry County, Virginia","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5416",76,0,2013,3,"N","Surry County, Virginia","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54162",77,0,2013,1,"N","Surry County, Virginia","Private","Environmental consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54162",77,0,2013,2,"N","Surry County, Virginia","Private","Environmental consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54162",77,0,2013,3,"N","Surry County, Virginia","Private","Environmental consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541620",78,0,2013,1,"N","Surry County, Virginia","Private","Environmental consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541620",78,0,2013,2,"N","Surry County, Virginia","Private","Environmental consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541620",78,0,2013,3,"N","Surry County, Virginia","Private","Environmental consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5418",76,0,2013,1,"N","Surry County, Virginia","Private","Advertising, pr, and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5418",76,0,2013,2,"N","Surry County, Virginia","Private","Advertising, pr, and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5418",76,0,2013,3,"N","Surry County, Virginia","Private","Advertising, pr, and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54181",77,0,2013,1,"N","Surry County, Virginia","Private","Advertising agencies","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54181",77,0,2013,2,"N","Surry County, Virginia","Private","Advertising agencies","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54181",77,0,2013,3,"N","Surry County, Virginia","Private","Advertising agencies","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541810",78,0,2013,1,"N","Surry County, Virginia","Private","Advertising agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541810",78,0,2013,2,"N","Surry County, Virginia","Private","Advertising agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541810",78,0,2013,3,"N","Surry County, Virginia","Private","Advertising agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5419",76,0,2013,1,"N","Surry County, Virginia","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5419",76,0,2013,2,"N","Surry County, Virginia","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5419",76,0,2013,3,"N","Surry County, Virginia","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54199",77,0,2013,1,"N","Surry County, Virginia","Private","All other professional and technical services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54199",77,0,2013,2,"N","Surry County, Virginia","Private","All other professional and technical services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"54199",77,0,2013,3,"N","Surry County, Virginia","Private","All other professional and technical services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541990",78,0,2013,1,"N","Surry County, Virginia","Private","All other professional and technical services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541990",78,0,2013,2,"N","Surry County, Virginia","Private","All other professional and technical services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"541990",78,0,2013,3,"N","Surry County, Virginia","Private","All other professional and technical services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"55",74,0,2013,1,"N","Surry County, Virginia","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"55",74,0,2013,2,"N","Surry County, Virginia","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"55",74,0,2013,3,"N","Surry County, Virginia","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"551",75,0,2013,1,"N","Surry County, Virginia","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"551",75,0,2013,2,"N","Surry County, Virginia","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"551",75,0,2013,3,"N","Surry County, Virginia","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5511",76,0,2013,1,"N","Surry County, Virginia","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5511",76,0,2013,2,"N","Surry County, Virginia","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5511",76,0,2013,3,"N","Surry County, Virginia","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"55111",77,0,2013,1,"N","Surry County, Virginia","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"55111",77,0,2013,2,"N","Surry County, Virginia","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"55111",77,0,2013,3,"N","Surry County, Virginia","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"551114",78,0,2013,1,"N","Surry County, Virginia","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"551114",78,0,2013,2,"N","Surry County, Virginia","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"551114",78,0,2013,3,"N","Surry County, Virginia","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"56",74,0,2013,1,"N","Surry County, Virginia","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"56",74,0,2013,2,"N","Surry County, Virginia","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"56",74,0,2013,3,"N","Surry County, Virginia","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"561",75,0,2013,1,"N","Surry County, Virginia","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"561",75,0,2013,2,"N","Surry County, Virginia","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"561",75,0,2013,3,"N","Surry County, Virginia","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"5613",76,0,2013,1,"N","Surry County, Virginia","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5613",76,0,2013,2,"N","Surry County, Virginia","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5613",76,0,2013,3,"N","Surry County, Virginia","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"56132",77,0,2013,1,"N","Surry County, Virginia","Private","Temporary help services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"56132",77,0,2013,2,"N","Surry County, Virginia","Private","Temporary help services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"56132",77,0,2013,3,"N","Surry County, Virginia","Private","Temporary help services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"561320",78,0,2013,1,"N","Surry County, Virginia","Private","Temporary help services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"561320",78,0,2013,2,"N","Surry County, Virginia","Private","Temporary help services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"561320",78,0,2013,3,"N","Surry County, Virginia","Private","Temporary help services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"5617",76,0,2013,1,"N","Surry County, Virginia","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"5617",76,0,2013,2,"N","Surry County, Virginia","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"5617",76,0,2013,3,"N","Surry County, Virginia","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"56173",77,0,2013,1,"N","Surry County, Virginia","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"56173",77,0,2013,2,"N","Surry County, Virginia","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"56173",77,0,2013,3,"N","Surry County, Virginia","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"561730",78,0,2013,1,"N","Surry County, Virginia","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"561730",78,0,2013,2,"N","Surry County, Virginia","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"561730",78,0,2013,3,"N","Surry County, Virginia","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"62",74,0,2013,1,"","Surry County, Virginia","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,10,11,11,64278,45042,425,464
+"51181",5,"62",74,0,2013,2,"","Surry County, Virginia","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,10,10,10,58449,18062,241,450
+"51181",5,"62",74,0,2013,3,"","Surry County, Virginia","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,10,10,10,53794,11078,187,414
+"51181",5,"621",75,0,2013,1,"N","Surry County, Virginia","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"621",75,0,2013,2,"N","Surry County, Virginia","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"621",75,0,2013,3,"N","Surry County, Virginia","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"6211",76,0,2013,1,"N","Surry County, Virginia","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"6211",76,0,2013,2,"N","Surry County, Virginia","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"6211",76,0,2013,3,"N","Surry County, Virginia","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"62111",77,0,2013,1,"N","Surry County, Virginia","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"62111",77,0,2013,2,"N","Surry County, Virginia","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"62111",77,0,2013,3,"N","Surry County, Virginia","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"621111",78,0,2013,1,"N","Surry County, Virginia","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"621111",78,0,2013,2,"N","Surry County, Virginia","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"621111",78,0,2013,3,"N","Surry County, Virginia","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"621112",78,0,2013,1,"N","Surry County, Virginia","Private","Offices of mental health physicians","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"621112",78,0,2013,2,"N","Surry County, Virginia","Private","Offices of mental health physicians","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"621112",78,0,2013,3,"N","Surry County, Virginia","Private","Offices of mental health physicians","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"624",75,0,2013,1,"N","Surry County, Virginia","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"624",75,0,2013,2,"N","Surry County, Virginia","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"624",75,0,2013,3,"N","Surry County, Virginia","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"6241",76,0,2013,1,"N","Surry County, Virginia","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"6241",76,0,2013,2,"N","Surry County, Virginia","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"6241",76,0,2013,3,"N","Surry County, Virginia","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"62412",77,0,2013,1,"N","Surry County, Virginia","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"62412",77,0,2013,2,"N","Surry County, Virginia","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"62412",77,0,2013,3,"N","Surry County, Virginia","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"624120",78,0,2013,1,"N","Surry County, Virginia","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"624120",78,0,2013,2,"N","Surry County, Virginia","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"624120",78,0,2013,3,"N","Surry County, Virginia","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"6244",76,0,2013,1,"N","Surry County, Virginia","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"6244",76,0,2013,2,"N","Surry County, Virginia","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"6244",76,0,2013,3,"N","Surry County, Virginia","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"62441",77,0,2013,1,"N","Surry County, Virginia","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"62441",77,0,2013,2,"N","Surry County, Virginia","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"62441",77,0,2013,3,"N","Surry County, Virginia","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"624410",78,0,2013,1,"N","Surry County, Virginia","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"624410",78,0,2013,2,"N","Surry County, Virginia","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"624410",78,0,2013,3,"N","Surry County, Virginia","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"71",74,0,2013,1,"N","Surry County, Virginia","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"71",74,0,2013,2,"N","Surry County, Virginia","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"71",74,0,2013,3,"N","Surry County, Virginia","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"711",75,0,2013,1,"N","Surry County, Virginia","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"711",75,0,2013,2,"N","Surry County, Virginia","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"711",75,0,2013,3,"N","Surry County, Virginia","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"7113",76,0,2013,1,"N","Surry County, Virginia","Private","Promoters of performing arts and sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"7113",76,0,2013,2,"N","Surry County, Virginia","Private","Promoters of performing arts and sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"7113",76,0,2013,3,"N","Surry County, Virginia","Private","Promoters of performing arts and sports","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"71132",77,0,2013,1,"N","Surry County, Virginia","Private","Promoters without facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"71132",77,0,2013,2,"N","Surry County, Virginia","Private","Promoters without facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"71132",77,0,2013,3,"N","Surry County, Virginia","Private","Promoters without facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"711320",78,0,2013,1,"N","Surry County, Virginia","Private","Promoters without facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"711320",78,0,2013,2,"N","Surry County, Virginia","Private","Promoters without facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"711320",78,0,2013,3,"N","Surry County, Virginia","Private","Promoters without facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"712",75,0,2013,1,"N","Surry County, Virginia","Private","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"712",75,0,2013,2,"N","Surry County, Virginia","Private","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"712",75,0,2013,3,"N","Surry County, Virginia","Private","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"7121",76,0,2013,1,"N","Surry County, Virginia","Private","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"7121",76,0,2013,2,"N","Surry County, Virginia","Private","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"7121",76,0,2013,3,"N","Surry County, Virginia","Private","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"71212",77,0,2013,1,"N","Surry County, Virginia","Private","Historical sites","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"71212",77,0,2013,2,"N","Surry County, Virginia","Private","Historical sites","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"71212",77,0,2013,3,"N","Surry County, Virginia","Private","Historical sites","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"712120",78,0,2013,1,"N","Surry County, Virginia","Private","Historical sites","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"712120",78,0,2013,2,"N","Surry County, Virginia","Private","Historical sites","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"712120",78,0,2013,3,"N","Surry County, Virginia","Private","Historical sites","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"72",74,0,2013,1,"N","Surry County, Virginia","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"51181",5,"72",74,0,2013,2,"N","Surry County, Virginia","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"51181",5,"72",74,0,2013,3,"N","Surry County, Virginia","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"51181",5,"722",75,0,2013,1,"N","Surry County, Virginia","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"51181",5,"722",75,0,2013,2,"N","Surry County, Virginia","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"51181",5,"722",75,0,2013,3,"N","Surry County, Virginia","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"51181",5,"7223",76,0,2013,1,"N","Surry County, Virginia","Private","Special food services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"7223",76,0,2013,2,"N","Surry County, Virginia","Private","Special food services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"7223",76,0,2013,3,"N","Surry County, Virginia","Private","Special food services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"72231",77,0,2013,1,"N","Surry County, Virginia","Private","Food service contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"72231",77,0,2013,2,"N","Surry County, Virginia","Private","Food service contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"72231",77,0,2013,3,"N","Surry County, Virginia","Private","Food service contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"722310",78,0,2013,1,"N","Surry County, Virginia","Private","Food service contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"722310",78,0,2013,2,"N","Surry County, Virginia","Private","Food service contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"722310",78,0,2013,3,"N","Surry County, Virginia","Private","Food service contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"7225",76,0,2013,1,"","Surry County, Virginia","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,49,54,50,122455,120757,4326,185
+"51181",5,"7225",76,0,2013,2,"","Surry County, Virginia","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,41,44,43,135506,107642,3549,244
+"51181",5,"7225",76,0,2013,3,"","Surry County, Virginia","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,42,41,44,132248,62074,1600,240
+"51181",5,"72251",77,0,2013,1,"","Surry County, Virginia","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,49,54,50,122455,120757,4326,185
+"51181",5,"72251",77,0,2013,2,"","Surry County, Virginia","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,41,44,43,135506,107642,3549,244
+"51181",5,"72251",77,0,2013,3,"","Surry County, Virginia","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,42,41,44,132248,62074,1600,240
+"51181",5,"722511",78,0,2013,1,"N","Surry County, Virginia","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"722511",78,0,2013,2,"N","Surry County, Virginia","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"722511",78,0,2013,3,"N","Surry County, Virginia","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"51181",5,"722513",78,0,2013,1,"N","Surry County, Virginia","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"722513",78,0,2013,2,"N","Surry County, Virginia","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"722513",78,0,2013,3,"N","Surry County, Virginia","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"51181",5,"81",74,0,2013,1,"","Surry County, Virginia","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,24,24,27,202895,135973,4358,624
+"51181",5,"81",74,0,2013,2,"","Surry County, Virginia","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,28,28,30,263176,70875,2329,706
+"51181",5,"81",74,0,2013,3,"","Surry County, Virginia","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,28,28,27,274122,42174,1729,762
+"51181",5,"811",75,0,2013,1,"N","Surry County, Virginia","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"811",75,0,2013,2,"N","Surry County, Virginia","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"811",75,0,2013,3,"N","Surry County, Virginia","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"8111",76,0,2013,1,"N","Surry County, Virginia","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"8111",76,0,2013,2,"N","Surry County, Virginia","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"8111",76,0,2013,3,"N","Surry County, Virginia","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"81111",77,0,2013,1,"N","Surry County, Virginia","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"81111",77,0,2013,2,"N","Surry County, Virginia","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"81111",77,0,2013,3,"N","Surry County, Virginia","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"811111",78,0,2013,1,"N","Surry County, Virginia","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"811111",78,0,2013,2,"N","Surry County, Virginia","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"811111",78,0,2013,3,"N","Surry County, Virginia","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"51181",5,"814",75,0,2013,1,"N","Surry County, Virginia","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"814",75,0,2013,2,"N","Surry County, Virginia","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"814",75,0,2013,3,"N","Surry County, Virginia","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"8141",76,0,2013,1,"N","Surry County, Virginia","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"8141",76,0,2013,2,"N","Surry County, Virginia","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"8141",76,0,2013,3,"N","Surry County, Virginia","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"81411",77,0,2013,1,"N","Surry County, Virginia","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"81411",77,0,2013,2,"N","Surry County, Virginia","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"81411",77,0,2013,3,"N","Surry County, Virginia","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"814110",78,0,2013,1,"N","Surry County, Virginia","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"814110",78,0,2013,2,"N","Surry County, Virginia","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"51181",5,"814110",78,0,2013,3,"N","Surry County, Virginia","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+

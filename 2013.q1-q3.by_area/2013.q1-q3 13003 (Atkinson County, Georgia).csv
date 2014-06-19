@@ -1,0 +1,995 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"13003",0,"10",70,0,2013,1,"","Atkinson County, Georgia","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",131,1554,1553,1581,11663994,7910491,231506,574
+"13003",0,"10",70,0,2013,2,"","Atkinson County, Georgia","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",132,1674,1764,1719,12824378,3677185,112357,574
+"13003",0,"10",70,0,2013,3,"","Atkinson County, Georgia","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",131,1645,1635,1622,12571845,1415708,43299,592
+"13003",1,"10",71,0,2013,1,"","Atkinson County, Georgia","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,16,15,15,177458,0,0,890
+"13003",1,"10",71,0,2013,2,"","Atkinson County, Georgia","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,17,16,18,145169,0,0,657
+"13003",1,"10",71,0,2013,3,"","Atkinson County, Georgia","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,15,16,17,176029,0,0,846
+"13003",1,"102",72,0,2013,1,"","Atkinson County, Georgia","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,16,15,15,177458,0,0,890
+"13003",1,"102",72,0,2013,2,"","Atkinson County, Georgia","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,17,16,18,145169,0,0,657
+"13003",1,"102",72,0,2013,3,"","Atkinson County, Georgia","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,15,16,17,176029,0,0,846
+"13003",1,"1021",73,0,2013,1,"","Atkinson County, Georgia","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,15,14,14,166159,0,0,892
+"13003",1,"1021",73,0,2013,2,"","Atkinson County, Georgia","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,16,15,17,131987,0,0,635
+"13003",1,"1021",73,0,2013,3,"","Atkinson County, Georgia","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,14,15,16,162847,0,0,835
+"13003",1,"1028",73,0,2013,1,"","Atkinson County, Georgia","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,1,1,1,11299,0,0,869
+"13003",1,"1028",73,0,2013,2,"","Atkinson County, Georgia","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,1,1,1,13182,0,0,1014
+"13003",1,"1028",73,0,2013,3,"","Atkinson County, Georgia","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,1,1,1,13182,0,0,1014
+"13003",1,"48-49",74,0,2013,1,"","Atkinson County, Georgia","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,15,14,14,166159,0,0,892
+"13003",1,"48-49",74,0,2013,2,"","Atkinson County, Georgia","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,16,15,17,131987,0,0,635
+"13003",1,"48-49",74,0,2013,3,"","Atkinson County, Georgia","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,14,15,16,162847,0,0,835
+"13003",1,"491",75,0,2013,1,"","Atkinson County, Georgia","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,15,14,14,166159,0,0,892
+"13003",1,"491",75,0,2013,2,"","Atkinson County, Georgia","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,16,15,17,131987,0,0,635
+"13003",1,"491",75,0,2013,3,"","Atkinson County, Georgia","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,14,15,16,162847,0,0,835
+"13003",1,"4911",76,0,2013,1,"","Atkinson County, Georgia","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,15,14,14,166159,0,0,892
+"13003",1,"4911",76,0,2013,2,"","Atkinson County, Georgia","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,16,15,17,131987,0,0,635
+"13003",1,"4911",76,0,2013,3,"","Atkinson County, Georgia","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,14,15,16,162847,0,0,835
+"13003",1,"49111",77,0,2013,1,"","Atkinson County, Georgia","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,15,14,14,166159,0,0,892
+"13003",1,"49111",77,0,2013,2,"","Atkinson County, Georgia","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,16,15,17,131987,0,0,635
+"13003",1,"49111",77,0,2013,3,"","Atkinson County, Georgia","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,14,15,16,162847,0,0,835
+"13003",1,"491110",78,0,2013,1,"","Atkinson County, Georgia","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,15,14,14,166159,0,0,892
+"13003",1,"491110",78,0,2013,2,"","Atkinson County, Georgia","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,16,15,17,131987,0,0,635
+"13003",1,"491110",78,0,2013,3,"","Atkinson County, Georgia","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,14,15,16,162847,0,0,835
+"13003",1,"92",74,0,2013,1,"","Atkinson County, Georgia","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,1,1,1,11299,0,0,869
+"13003",1,"92",74,0,2013,2,"","Atkinson County, Georgia","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,1,1,1,13182,0,0,1014
+"13003",1,"92",74,0,2013,3,"","Atkinson County, Georgia","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,1,1,1,13182,0,0,1014
+"13003",1,"924",75,0,2013,1,"","Atkinson County, Georgia","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,1,1,1,11299,0,0,869
+"13003",1,"924",75,0,2013,2,"","Atkinson County, Georgia","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,1,1,1,13182,0,0,1014
+"13003",1,"924",75,0,2013,3,"","Atkinson County, Georgia","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,1,1,1,13182,0,0,1014
+"13003",1,"9241",76,0,2013,1,"","Atkinson County, Georgia","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,1,1,1,11299,0,0,869
+"13003",1,"9241",76,0,2013,2,"","Atkinson County, Georgia","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,1,1,1,13182,0,0,1014
+"13003",1,"9241",76,0,2013,3,"","Atkinson County, Georgia","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,1,1,1,13182,0,0,1014
+"13003",1,"92412",77,0,2013,1,"","Atkinson County, Georgia","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,1,1,1,11299,0,0,869
+"13003",1,"92412",77,0,2013,2,"","Atkinson County, Georgia","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,1,1,1,13182,0,0,1014
+"13003",1,"92412",77,0,2013,3,"","Atkinson County, Georgia","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,1,1,1,13182,0,0,1014
+"13003",1,"924120",78,0,2013,1,"","Atkinson County, Georgia","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,1,1,1,11299,0,0,869
+"13003",1,"924120",78,0,2013,2,"","Atkinson County, Georgia","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,1,1,1,13182,0,0,1014
+"13003",1,"924120",78,0,2013,3,"","Atkinson County, Georgia","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,1,1,1,13182,0,0,1014
+"13003",1,"926",75,0,2013,1,"","Atkinson County, Georgia","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",1,"926",75,0,2013,2,"","Atkinson County, Georgia","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",1,"926",75,0,2013,3,"","Atkinson County, Georgia","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",1,"9261",76,0,2013,1,"","Atkinson County, Georgia","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",1,"9261",76,0,2013,2,"","Atkinson County, Georgia","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",1,"9261",76,0,2013,3,"","Atkinson County, Georgia","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",1,"92611",77,0,2013,1,"","Atkinson County, Georgia","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",1,"92611",77,0,2013,2,"","Atkinson County, Georgia","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",1,"92611",77,0,2013,3,"","Atkinson County, Georgia","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",1,"926110",78,0,2013,1,"","Atkinson County, Georgia","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",1,"926110",78,0,2013,2,"","Atkinson County, Georgia","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",1,"926110",78,0,2013,3,"","Atkinson County, Georgia","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"10",71,0,2013,1,"","Atkinson County, Georgia","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,22,21,21,136963,0,0,494
+"13003",2,"10",71,0,2013,2,"","Atkinson County, Georgia","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,20,21,21,140174,0,0,522
+"13003",2,"10",71,0,2013,3,"","Atkinson County, Georgia","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,19,20,20,135125,0,0,529
+"13003",2,"102",72,0,2013,1,"","Atkinson County, Georgia","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,22,21,21,136963,0,0,494
+"13003",2,"102",72,0,2013,2,"","Atkinson County, Georgia","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,20,21,21,140174,0,0,522
+"13003",2,"102",72,0,2013,3,"","Atkinson County, Georgia","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,19,20,20,135125,0,0,529
+"13003",2,"1021",73,0,2013,1,"N","Atkinson County, Georgia","State Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"1021",73,0,2013,2,"N","Atkinson County, Georgia","State Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"1021",73,0,2013,3,"N","Atkinson County, Georgia","State Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"1025",73,0,2013,1,"N","Atkinson County, Georgia","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"1025",73,0,2013,2,"N","Atkinson County, Georgia","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"1025",73,0,2013,3,"N","Atkinson County, Georgia","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"1028",73,0,2013,1,"","Atkinson County, Georgia","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,7,7,7,42607,0,0,468
+"13003",2,"1028",73,0,2013,2,"","Atkinson County, Georgia","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,6,7,7,46775,0,0,540
+"13003",2,"1028",73,0,2013,3,"","Atkinson County, Georgia","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,6,7,7,50920,0,0,588
+"13003",2,"48-49",74,0,2013,1,"N","Atkinson County, Georgia","State Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"48-49",74,0,2013,2,"N","Atkinson County, Georgia","State Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"48-49",74,0,2013,3,"N","Atkinson County, Georgia","State Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"488",75,0,2013,1,"N","Atkinson County, Georgia","State Government","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"488",75,0,2013,2,"N","Atkinson County, Georgia","State Government","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"488",75,0,2013,3,"N","Atkinson County, Georgia","State Government","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"4881",76,0,2013,1,"N","Atkinson County, Georgia","State Government","Support activities for air transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"4881",76,0,2013,2,"N","Atkinson County, Georgia","State Government","Support activities for air transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"4881",76,0,2013,3,"N","Atkinson County, Georgia","State Government","Support activities for air transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"48811",77,0,2013,1,"N","Atkinson County, Georgia","State Government","Airport operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"48811",77,0,2013,2,"N","Atkinson County, Georgia","State Government","Airport operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"48811",77,0,2013,3,"N","Atkinson County, Georgia","State Government","Airport operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"488111",78,0,2013,1,"N","Atkinson County, Georgia","State Government","Air traffic control","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"488111",78,0,2013,2,"N","Atkinson County, Georgia","State Government","Air traffic control","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"488111",78,0,2013,3,"N","Atkinson County, Georgia","State Government","Air traffic control","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"62",74,0,2013,1,"N","Atkinson County, Georgia","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"62",74,0,2013,2,"N","Atkinson County, Georgia","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"62",74,0,2013,3,"N","Atkinson County, Georgia","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"621",75,0,2013,1,"N","Atkinson County, Georgia","State Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"621",75,0,2013,2,"N","Atkinson County, Georgia","State Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"621",75,0,2013,3,"N","Atkinson County, Georgia","State Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"6214",76,0,2013,1,"N","Atkinson County, Georgia","State Government","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"6214",76,0,2013,2,"N","Atkinson County, Georgia","State Government","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"6214",76,0,2013,3,"N","Atkinson County, Georgia","State Government","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"62149",77,0,2013,1,"N","Atkinson County, Georgia","State Government","Other outpatient care centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"62149",77,0,2013,2,"N","Atkinson County, Georgia","State Government","Other outpatient care centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"62149",77,0,2013,3,"N","Atkinson County, Georgia","State Government","Other outpatient care centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"621498",78,0,2013,1,"N","Atkinson County, Georgia","State Government","All other outpatient care centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"621498",78,0,2013,2,"N","Atkinson County, Georgia","State Government","All other outpatient care centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"621498",78,0,2013,3,"N","Atkinson County, Georgia","State Government","All other outpatient care centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"623",75,0,2013,1,"N","Atkinson County, Georgia","State Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"623",75,0,2013,2,"N","Atkinson County, Georgia","State Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"623",75,0,2013,3,"N","Atkinson County, Georgia","State Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"6232",76,0,2013,1,"N","Atkinson County, Georgia","State Government","Residential mental health facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"6232",76,0,2013,2,"N","Atkinson County, Georgia","State Government","Residential mental health facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"6232",76,0,2013,3,"N","Atkinson County, Georgia","State Government","Residential mental health facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"62321",77,0,2013,1,"N","Atkinson County, Georgia","State Government","Residential disability facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"62321",77,0,2013,2,"N","Atkinson County, Georgia","State Government","Residential disability facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"62321",77,0,2013,3,"N","Atkinson County, Georgia","State Government","Residential disability facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"623210",78,0,2013,1,"N","Atkinson County, Georgia","State Government","Residential disability facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"623210",78,0,2013,2,"N","Atkinson County, Georgia","State Government","Residential disability facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"623210",78,0,2013,3,"N","Atkinson County, Georgia","State Government","Residential disability facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"92",74,0,2013,1,"","Atkinson County, Georgia","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,7,7,42607,0,0,468
+"13003",2,"92",74,0,2013,2,"","Atkinson County, Georgia","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,7,7,46775,0,0,540
+"13003",2,"92",74,0,2013,3,"","Atkinson County, Georgia","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,7,7,50920,0,0,588
+"13003",2,"923",75,0,2013,1,"N","Atkinson County, Georgia","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"923",75,0,2013,2,"N","Atkinson County, Georgia","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"923",75,0,2013,3,"N","Atkinson County, Georgia","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"9231",76,0,2013,1,"N","Atkinson County, Georgia","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"9231",76,0,2013,2,"N","Atkinson County, Georgia","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"9231",76,0,2013,3,"N","Atkinson County, Georgia","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"92312",77,0,2013,1,"N","Atkinson County, Georgia","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"92312",77,0,2013,2,"N","Atkinson County, Georgia","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"92312",77,0,2013,3,"N","Atkinson County, Georgia","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"923120",78,0,2013,1,"N","Atkinson County, Georgia","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"923120",78,0,2013,2,"N","Atkinson County, Georgia","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"923120",78,0,2013,3,"N","Atkinson County, Georgia","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",2,"924",75,0,2013,1,"N","Atkinson County, Georgia","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"924",75,0,2013,2,"N","Atkinson County, Georgia","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"924",75,0,2013,3,"N","Atkinson County, Georgia","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"9241",76,0,2013,1,"N","Atkinson County, Georgia","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"9241",76,0,2013,2,"N","Atkinson County, Georgia","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"9241",76,0,2013,3,"N","Atkinson County, Georgia","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"92412",77,0,2013,1,"N","Atkinson County, Georgia","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"92412",77,0,2013,2,"N","Atkinson County, Georgia","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"92412",77,0,2013,3,"N","Atkinson County, Georgia","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"924120",78,0,2013,1,"N","Atkinson County, Georgia","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"924120",78,0,2013,2,"N","Atkinson County, Georgia","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",2,"924120",78,0,2013,3,"N","Atkinson County, Georgia","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",3,"10",71,0,2013,1,"","Atkinson County, Georgia","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,371,370,381,2445278,526352,10120,503
+"13003",3,"10",71,0,2013,2,"","Atkinson County, Georgia","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,374,382,343,2498310,308313,6245,525
+"13003",3,"10",71,0,2013,3,"","Atkinson County, Georgia","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,324,359,371,2457598,76563,1401,538
+"13003",3,"102",72,0,2013,1,"","Atkinson County, Georgia","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,371,370,381,2445278,526352,10120,503
+"13003",3,"102",72,0,2013,2,"","Atkinson County, Georgia","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,374,382,343,2498310,308313,6245,525
+"13003",3,"102",72,0,2013,3,"","Atkinson County, Georgia","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,324,359,371,2457598,76563,1401,538
+"13003",3,"1025",73,0,2013,1,"","Atkinson County, Georgia","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,264,270,273,1888688,0,0,540
+"13003",3,"1025",73,0,2013,2,"","Atkinson County, Georgia","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,276,282,245,1961274,0,0,564
+"13003",3,"1025",73,0,2013,3,"","Atkinson County, Georgia","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,233,262,272,1899318,0,0,571
+"13003",3,"1028",73,0,2013,1,"","Atkinson County, Georgia","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,107,100,108,556590,526352,10120,408
+"13003",3,"1028",73,0,2013,2,"","Atkinson County, Georgia","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,98,100,98,537036,308313,6245,419
+"13003",3,"1028",73,0,2013,3,"","Atkinson County, Georgia","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,91,97,99,558280,76563,1401,449
+"13003",3,"61",74,0,2013,1,"","Atkinson County, Georgia","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,264,270,273,1888688,0,0,540
+"13003",3,"61",74,0,2013,2,"","Atkinson County, Georgia","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,276,282,245,1961274,0,0,564
+"13003",3,"61",74,0,2013,3,"","Atkinson County, Georgia","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,233,262,272,1899318,0,0,571
+"13003",3,"611",75,0,2013,1,"","Atkinson County, Georgia","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,264,270,273,1888688,0,0,540
+"13003",3,"611",75,0,2013,2,"","Atkinson County, Georgia","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,276,282,245,1961274,0,0,564
+"13003",3,"611",75,0,2013,3,"","Atkinson County, Georgia","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,233,262,272,1899318,0,0,571
+"13003",3,"6111",76,0,2013,1,"","Atkinson County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,264,270,273,1888688,0,0,540
+"13003",3,"6111",76,0,2013,2,"","Atkinson County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,276,282,245,1961274,0,0,564
+"13003",3,"6111",76,0,2013,3,"","Atkinson County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,233,262,272,1899318,0,0,571
+"13003",3,"61111",77,0,2013,1,"","Atkinson County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,264,270,273,1888688,0,0,540
+"13003",3,"61111",77,0,2013,2,"","Atkinson County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,276,282,245,1961274,0,0,564
+"13003",3,"61111",77,0,2013,3,"","Atkinson County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,233,262,272,1899318,0,0,571
+"13003",3,"611110",78,0,2013,1,"","Atkinson County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,264,270,273,1888688,0,0,540
+"13003",3,"611110",78,0,2013,2,"","Atkinson County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,276,282,245,1961274,0,0,564
+"13003",3,"611110",78,0,2013,3,"","Atkinson County, Georgia","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,233,262,272,1899318,0,0,571
+"13003",3,"92",74,0,2013,1,"","Atkinson County, Georgia","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,107,100,108,556590,526352,10120,408
+"13003",3,"92",74,0,2013,2,"","Atkinson County, Georgia","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,98,100,98,537036,308313,6245,419
+"13003",3,"92",74,0,2013,3,"","Atkinson County, Georgia","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,91,97,99,558280,76563,1401,449
+"13003",3,"921",75,0,2013,1,"N","Atkinson County, Georgia","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",3,"921",75,0,2013,2,"N","Atkinson County, Georgia","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",3,"921",75,0,2013,3,"N","Atkinson County, Georgia","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",3,"9211",76,0,2013,1,"N","Atkinson County, Georgia","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",3,"9211",76,0,2013,2,"N","Atkinson County, Georgia","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",3,"9211",76,0,2013,3,"N","Atkinson County, Georgia","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",3,"92114",77,0,2013,1,"N","Atkinson County, Georgia","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",3,"92114",77,0,2013,2,"N","Atkinson County, Georgia","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",3,"92114",77,0,2013,3,"N","Atkinson County, Georgia","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",3,"921140",78,0,2013,1,"N","Atkinson County, Georgia","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",3,"921140",78,0,2013,2,"N","Atkinson County, Georgia","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",3,"921140",78,0,2013,3,"N","Atkinson County, Georgia","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",3,"924",75,0,2013,1,"N","Atkinson County, Georgia","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",3,"924",75,0,2013,2,"N","Atkinson County, Georgia","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",3,"924",75,0,2013,3,"N","Atkinson County, Georgia","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",3,"9241",76,0,2013,1,"N","Atkinson County, Georgia","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",3,"9241",76,0,2013,2,"N","Atkinson County, Georgia","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",3,"9241",76,0,2013,3,"N","Atkinson County, Georgia","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",3,"92411",77,0,2013,1,"N","Atkinson County, Georgia","Local Government","Air, water, and waste program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",3,"92411",77,0,2013,2,"N","Atkinson County, Georgia","Local Government","Air, water, and waste program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",3,"92411",77,0,2013,3,"N","Atkinson County, Georgia","Local Government","Air, water, and waste program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",3,"924110",78,0,2013,1,"N","Atkinson County, Georgia","Local Government","Air, water, and waste program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",3,"924110",78,0,2013,2,"N","Atkinson County, Georgia","Local Government","Air, water, and waste program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",3,"924110",78,0,2013,3,"N","Atkinson County, Georgia","Local Government","Air, water, and waste program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"10",71,0,2013,1,"","Atkinson County, Georgia","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",109,1145,1147,1164,8904295,7384139,221386,595
+"13003",5,"10",71,0,2013,2,"","Atkinson County, Georgia","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",110,1263,1345,1337,10040725,3368872,106112,587
+"13003",5,"10",71,0,2013,3,"","Atkinson County, Georgia","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",109,1287,1240,1214,9803093,1339145,41898,605
+"13003",5,"101",72,0,2013,1,"","Atkinson County, Georgia","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",23,628,636,663,5420699,4699603,176919,649
+"13003",5,"101",72,0,2013,2,"","Atkinson County, Georgia","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",24,744,811,799,6621948,1912369,84159,649
+"13003",5,"101",72,0,2013,3,"","Atkinson County, Georgia","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",24,759,728,713,6379104,674718,27700,669
+"13003",5,"1011",73,0,2013,1,"N","Atkinson County, Georgia","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"13003",5,"1011",73,0,2013,2,"N","Atkinson County, Georgia","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"13003",5,"1011",73,0,2013,3,"N","Atkinson County, Georgia","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"13003",5,"1012",73,0,2013,1,"N","Atkinson County, Georgia","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"1012",73,0,2013,2,"N","Atkinson County, Georgia","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"1012",73,0,2013,3,"N","Atkinson County, Georgia","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"1013",73,0,2013,1,"","Atkinson County, Georgia","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",11,568,587,616,5129573,4428290,169274,668
+"13003",5,"1013",73,0,2013,2,"","Atkinson County, Georgia","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",11,643,651,667,5962900,1488087,75749,702
+"13003",5,"1013",73,0,2013,3,"","Atkinson County, Georgia","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",11,671,664,649,5946023,554001,25794,692
+"13003",5,"102",72,0,2013,1,"","Atkinson County, Georgia","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",86,517,511,501,3483596,2684536,44467,526
+"13003",5,"102",72,0,2013,2,"","Atkinson County, Georgia","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",86,519,534,538,3418777,1456503,21953,496
+"13003",5,"102",72,0,2013,3,"","Atkinson County, Georgia","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",85,528,512,501,3423989,664427,14198,513
+"13003",5,"1021",73,0,2013,1,"","Atkinson County, Georgia","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",45,305,305,295,2098191,1736856,30680,535
+"13003",5,"1021",73,0,2013,2,"","Atkinson County, Georgia","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",46,307,314,306,2114525,1043591,15076,526
+"13003",5,"1021",73,0,2013,3,"","Atkinson County, Georgia","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",45,300,279,270,2034386,431824,8329,553
+"13003",5,"1023",73,0,2013,1,"","Atkinson County, Georgia","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",13,58,56,57,420709,358963,1924,568
+"13003",5,"1023",73,0,2013,2,"","Atkinson County, Georgia","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",12,57,56,55,406270,114340,578,558
+"13003",5,"1023",73,0,2013,3,"","Atkinson County, Georgia","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",12,55,55,55,394840,22735,141,552
+"13003",5,"1024",73,0,2013,1,"","Atkinson County, Georgia","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,11,11,11,177530,47484,387,1241
+"13003",5,"1024",73,0,2013,2,"","Atkinson County, Georgia","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,10,15,18,137681,30019,1388,739
+"13003",5,"1024",73,0,2013,3,"","Atkinson County, Georgia","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,19,20,17,137280,36677,2068,566
+"13003",5,"1025",73,0,2013,1,"","Atkinson County, Georgia","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",7,63,63,61,597440,357667,8460,737
+"13003",5,"1025",73,0,2013,2,"","Atkinson County, Georgia","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",7,61,64,64,557629,122858,2222,681
+"13003",5,"1025",73,0,2013,3,"","Atkinson County, Georgia","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",7,66,68,71,670667,63623,1364,755
+"13003",5,"1026",73,0,2013,1,"","Atkinson County, Georgia","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",7,57,57,57,112140,107780,2096,151
+"13003",5,"1026",73,0,2013,2,"","Atkinson County, Georgia","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",7,64,62,73,131889,106014,1961,153
+"13003",5,"1026",73,0,2013,3,"","Atkinson County, Georgia","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",7,66,67,67,120868,85231,1730,139
+"13003",5,"1027",73,0,2013,1,"","Atkinson County, Georgia","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,21,18,19,70375,68575,731,280
+"13003",5,"1027",73,0,2013,2,"","Atkinson County, Georgia","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,18,21,20,64119,33769,573,251
+"13003",5,"1027",73,0,2013,3,"","Atkinson County, Georgia","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,20,21,19,62724,22713,523,241
+"13003",5,"1029",73,0,2013,1,"","Atkinson County, Georgia","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",3,2,1,1,7211,7211,189,416
+"13003",5,"1029",73,0,2013,2,"","Atkinson County, Georgia","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",3,2,2,2,6664,5912,155,256
+"13003",5,"1029",73,0,2013,3,"","Atkinson County, Georgia","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",3,2,2,2,3224,1624,43,124
+"13003",5,"11",74,0,2013,1,"","Atkinson County, Georgia","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",8,54,45,43,259616,244068,6786,422
+"13003",5,"11",74,0,2013,2,"","Atkinson County, Georgia","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",9,98,155,127,623356,407454,7930,379
+"13003",5,"11",74,0,2013,3,"","Atkinson County, Georgia","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",9,83,59,59,391132,111468,1720,449
+"13003",5,"111",75,0,2013,1,"","Atkinson County, Georgia","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,30,20,18,79440,79440,2437,270
+"13003",5,"111",75,0,2013,2,"","Atkinson County, Georgia","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,59,104,66,278183,240680,3891,280
+"13003",5,"111",75,0,2013,3,"","Atkinson County, Georgia","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,35,18,18,85383,35200,561,278
+"13003",5,"1113",76,0,2013,1,"N","Atkinson County, Georgia","Private","Fruit and tree nut farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"1113",76,0,2013,2,"N","Atkinson County, Georgia","Private","Fruit and tree nut farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"1113",76,0,2013,3,"N","Atkinson County, Georgia","Private","Fruit and tree nut farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"11133",77,0,2013,1,"N","Atkinson County, Georgia","Private","Noncitrus fruit and tree nut farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"11133",77,0,2013,2,"N","Atkinson County, Georgia","Private","Noncitrus fruit and tree nut farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"11133",77,0,2013,3,"N","Atkinson County, Georgia","Private","Noncitrus fruit and tree nut farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"111334",78,0,2013,1,"N","Atkinson County, Georgia","Private","Berry, except strawberry, farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"111334",78,0,2013,2,"N","Atkinson County, Georgia","Private","Berry, except strawberry, farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"111334",78,0,2013,3,"N","Atkinson County, Georgia","Private","Berry, except strawberry, farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"1119",76,0,2013,1,"N","Atkinson County, Georgia","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"1119",76,0,2013,2,"N","Atkinson County, Georgia","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"1119",76,0,2013,3,"N","Atkinson County, Georgia","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"11192",77,0,2013,1,"N","Atkinson County, Georgia","Private","Cotton farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"11192",77,0,2013,2,"N","Atkinson County, Georgia","Private","Cotton farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"11192",77,0,2013,3,"N","Atkinson County, Georgia","Private","Cotton farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"111920",78,0,2013,1,"N","Atkinson County, Georgia","Private","Cotton farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"111920",78,0,2013,2,"N","Atkinson County, Georgia","Private","Cotton farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"111920",78,0,2013,3,"N","Atkinson County, Georgia","Private","Cotton farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"11199",77,0,2013,1,"N","Atkinson County, Georgia","Private","All other crop farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"11199",77,0,2013,2,"N","Atkinson County, Georgia","Private","All other crop farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"11199",77,0,2013,3,"N","Atkinson County, Georgia","Private","All other crop farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"111992",78,0,2013,1,"N","Atkinson County, Georgia","Private","Peanut farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"111992",78,0,2013,2,"N","Atkinson County, Georgia","Private","Peanut farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"111992",78,0,2013,3,"N","Atkinson County, Georgia","Private","Peanut farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"112",75,0,2013,1,"N","Atkinson County, Georgia","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"112",75,0,2013,2,"N","Atkinson County, Georgia","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"112",75,0,2013,3,"N","Atkinson County, Georgia","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"1129",76,0,2013,1,"N","Atkinson County, Georgia","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"1129",76,0,2013,2,"N","Atkinson County, Georgia","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"1129",76,0,2013,3,"N","Atkinson County, Georgia","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"11299",77,0,2013,1,"N","Atkinson County, Georgia","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"11299",77,0,2013,2,"N","Atkinson County, Georgia","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"11299",77,0,2013,3,"N","Atkinson County, Georgia","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"112990",78,0,2013,1,"N","Atkinson County, Georgia","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"112990",78,0,2013,2,"N","Atkinson County, Georgia","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"112990",78,0,2013,3,"N","Atkinson County, Georgia","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"113",75,0,2013,1,"N","Atkinson County, Georgia","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"113",75,0,2013,2,"N","Atkinson County, Georgia","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"113",75,0,2013,3,"N","Atkinson County, Georgia","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"1133",76,0,2013,1,"N","Atkinson County, Georgia","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"1133",76,0,2013,2,"N","Atkinson County, Georgia","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"1133",76,0,2013,3,"N","Atkinson County, Georgia","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"11331",77,0,2013,1,"N","Atkinson County, Georgia","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"11331",77,0,2013,2,"N","Atkinson County, Georgia","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"11331",77,0,2013,3,"N","Atkinson County, Georgia","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"113310",78,0,2013,1,"N","Atkinson County, Georgia","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"113310",78,0,2013,2,"N","Atkinson County, Georgia","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"113310",78,0,2013,3,"N","Atkinson County, Georgia","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"115",75,0,2013,1,"N","Atkinson County, Georgia","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"115",75,0,2013,2,"N","Atkinson County, Georgia","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"115",75,0,2013,3,"N","Atkinson County, Georgia","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"1151",76,0,2013,1,"-","Atkinson County, Georgia","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13003",5,"1151",76,0,2013,2,"N","Atkinson County, Georgia","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"1151",76,0,2013,3,"N","Atkinson County, Georgia","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"11511",77,0,2013,1,"-","Atkinson County, Georgia","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13003",5,"11511",77,0,2013,2,"N","Atkinson County, Georgia","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"11511",77,0,2013,3,"N","Atkinson County, Georgia","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"115112",78,0,2013,1,"-","Atkinson County, Georgia","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13003",5,"115112",78,0,2013,2,"N","Atkinson County, Georgia","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"115112",78,0,2013,3,"N","Atkinson County, Georgia","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"1152",76,0,2013,1,"N","Atkinson County, Georgia","Private","Support activities for animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"1152",76,0,2013,2,"N","Atkinson County, Georgia","Private","Support activities for animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"1152",76,0,2013,3,"N","Atkinson County, Georgia","Private","Support activities for animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"11521",77,0,2013,1,"N","Atkinson County, Georgia","Private","Support activities for animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"11521",77,0,2013,2,"N","Atkinson County, Georgia","Private","Support activities for animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"11521",77,0,2013,3,"N","Atkinson County, Georgia","Private","Support activities for animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"115210",78,0,2013,1,"N","Atkinson County, Georgia","Private","Support activities for animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"115210",78,0,2013,2,"N","Atkinson County, Georgia","Private","Support activities for animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"115210",78,0,2013,3,"N","Atkinson County, Georgia","Private","Support activities for animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"21",74,0,2013,1,"N","Atkinson County, Georgia","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"21",74,0,2013,2,"N","Atkinson County, Georgia","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"21",74,0,2013,3,"N","Atkinson County, Georgia","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"213",75,0,2013,1,"N","Atkinson County, Georgia","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"213",75,0,2013,2,"N","Atkinson County, Georgia","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"213",75,0,2013,3,"N","Atkinson County, Georgia","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"2131",76,0,2013,1,"N","Atkinson County, Georgia","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"2131",76,0,2013,2,"N","Atkinson County, Georgia","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"2131",76,0,2013,3,"N","Atkinson County, Georgia","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"21311",77,0,2013,1,"N","Atkinson County, Georgia","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"21311",77,0,2013,2,"N","Atkinson County, Georgia","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"21311",77,0,2013,3,"N","Atkinson County, Georgia","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"213111",78,0,2013,1,"N","Atkinson County, Georgia","Private","Drilling oil and gas wells","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"213111",78,0,2013,2,"N","Atkinson County, Georgia","Private","Drilling oil and gas wells","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"213111",78,0,2013,3,"N","Atkinson County, Georgia","Private","Drilling oil and gas wells","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"22",74,0,2013,1,"N","Atkinson County, Georgia","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"22",74,0,2013,2,"N","Atkinson County, Georgia","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"22",74,0,2013,3,"N","Atkinson County, Georgia","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"221",75,0,2013,1,"N","Atkinson County, Georgia","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"221",75,0,2013,2,"N","Atkinson County, Georgia","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"221",75,0,2013,3,"N","Atkinson County, Georgia","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"2211",76,0,2013,1,"N","Atkinson County, Georgia","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"2211",76,0,2013,2,"N","Atkinson County, Georgia","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"2211",76,0,2013,3,"N","Atkinson County, Georgia","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"22112",77,0,2013,1,"N","Atkinson County, Georgia","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"22112",77,0,2013,2,"N","Atkinson County, Georgia","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"22112",77,0,2013,3,"N","Atkinson County, Georgia","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"221122",78,0,2013,1,"N","Atkinson County, Georgia","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"221122",78,0,2013,2,"N","Atkinson County, Georgia","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"221122",78,0,2013,3,"N","Atkinson County, Georgia","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"23",74,0,2013,1,"N","Atkinson County, Georgia","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"23",74,0,2013,2,"N","Atkinson County, Georgia","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"23",74,0,2013,3,"N","Atkinson County, Georgia","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"238",75,0,2013,1,"N","Atkinson County, Georgia","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"238",75,0,2013,2,"N","Atkinson County, Georgia","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"238",75,0,2013,3,"N","Atkinson County, Georgia","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"2381",76,0,2013,1,"N","Atkinson County, Georgia","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"2381",76,0,2013,2,"N","Atkinson County, Georgia","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"2381",76,0,2013,3,"N","Atkinson County, Georgia","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"23814",77,0,2013,1,"N","Atkinson County, Georgia","Private","Masonry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"23814",77,0,2013,2,"N","Atkinson County, Georgia","Private","Masonry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"23814",77,0,2013,3,"N","Atkinson County, Georgia","Private","Masonry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"238142",78,0,2013,1,"N","Atkinson County, Georgia","Private","Nonresidential masonry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"238142",78,0,2013,2,"N","Atkinson County, Georgia","Private","Nonresidential masonry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"238142",78,0,2013,3,"N","Atkinson County, Georgia","Private","Nonresidential masonry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"2383",76,0,2013,1,"N","Atkinson County, Georgia","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"2383",76,0,2013,2,"N","Atkinson County, Georgia","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"2383",76,0,2013,3,"N","Atkinson County, Georgia","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"23831",77,0,2013,1,"N","Atkinson County, Georgia","Private","Drywall and insulation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"23831",77,0,2013,2,"N","Atkinson County, Georgia","Private","Drywall and insulation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"23831",77,0,2013,3,"N","Atkinson County, Georgia","Private","Drywall and insulation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"238311",78,0,2013,1,"N","Atkinson County, Georgia","Private","Residential drywall contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"238311",78,0,2013,2,"N","Atkinson County, Georgia","Private","Residential drywall contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"238311",78,0,2013,3,"N","Atkinson County, Georgia","Private","Residential drywall contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"2389",76,0,2013,1,"N","Atkinson County, Georgia","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"2389",76,0,2013,2,"N","Atkinson County, Georgia","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"2389",76,0,2013,3,"N","Atkinson County, Georgia","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"23899",77,0,2013,1,"N","Atkinson County, Georgia","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"23899",77,0,2013,2,"N","Atkinson County, Georgia","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"23899",77,0,2013,3,"N","Atkinson County, Georgia","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"238991",78,0,2013,1,"N","Atkinson County, Georgia","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"238991",78,0,2013,2,"N","Atkinson County, Georgia","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"238991",78,0,2013,3,"N","Atkinson County, Georgia","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"31-33",74,0,2013,1,"","Atkinson County, Georgia","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",11,568,587,616,5129573,4428290,169274,668
+"13003",5,"31-33",74,0,2013,2,"","Atkinson County, Georgia","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",11,643,651,667,5962900,1488087,75749,702
+"13003",5,"31-33",74,0,2013,3,"","Atkinson County, Georgia","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",11,671,664,649,5946023,554001,25794,692
+"13003",5,"313",75,0,2013,1,"N","Atkinson County, Georgia","Private","Textile mills","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"313",75,0,2013,2,"N","Atkinson County, Georgia","Private","Textile mills","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"313",75,0,2013,3,"N","Atkinson County, Georgia","Private","Textile mills","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"3132",76,0,2013,1,"N","Atkinson County, Georgia","Private","Fabric mills","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"3132",76,0,2013,2,"N","Atkinson County, Georgia","Private","Fabric mills","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"3132",76,0,2013,3,"N","Atkinson County, Georgia","Private","Fabric mills","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"31321",77,0,2013,1,"N","Atkinson County, Georgia","Private","Broadwoven fabric mills","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"31321",77,0,2013,2,"N","Atkinson County, Georgia","Private","Broadwoven fabric mills","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"31321",77,0,2013,3,"N","Atkinson County, Georgia","Private","Broadwoven fabric mills","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"313210",78,0,2013,1,"N","Atkinson County, Georgia","Private","Broadwoven fabric mills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"313210",78,0,2013,2,"N","Atkinson County, Georgia","Private","Broadwoven fabric mills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"313210",78,0,2013,3,"N","Atkinson County, Georgia","Private","Broadwoven fabric mills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"314",75,0,2013,1,"N","Atkinson County, Georgia","Private","Textile product mills","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"314",75,0,2013,2,"N","Atkinson County, Georgia","Private","Textile product mills","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"314",75,0,2013,3,"N","Atkinson County, Georgia","Private","Textile product mills","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"3149",76,0,2013,1,"N","Atkinson County, Georgia","Private","Other textile product mills","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"3149",76,0,2013,2,"N","Atkinson County, Georgia","Private","Other textile product mills","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"3149",76,0,2013,3,"N","Atkinson County, Georgia","Private","Other textile product mills","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"31491",77,0,2013,1,"N","Atkinson County, Georgia","Private","Textile bag and canvas mills","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"31491",77,0,2013,2,"N","Atkinson County, Georgia","Private","Textile bag and canvas mills","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"31491",77,0,2013,3,"N","Atkinson County, Georgia","Private","Textile bag and canvas mills","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"314910",78,0,2013,1,"N","Atkinson County, Georgia","Private","Textile bag and canvas mills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"314910",78,0,2013,2,"N","Atkinson County, Georgia","Private","Textile bag and canvas mills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"314910",78,0,2013,3,"N","Atkinson County, Georgia","Private","Textile bag and canvas mills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"31499",77,0,2013,1,"N","Atkinson County, Georgia","Private","All other textile product mills","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"31499",77,0,2013,2,"N","Atkinson County, Georgia","Private","All other textile product mills","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"31499",77,0,2013,3,"N","Atkinson County, Georgia","Private","All other textile product mills","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"314999",78,0,2013,1,"N","Atkinson County, Georgia","Private","All other miscellaneous textile product mills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"314999",78,0,2013,2,"N","Atkinson County, Georgia","Private","All other miscellaneous textile product mills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"314999",78,0,2013,3,"N","Atkinson County, Georgia","Private","All other miscellaneous textile product mills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"321",75,0,2013,1,"N","Atkinson County, Georgia","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"321",75,0,2013,2,"N","Atkinson County, Georgia","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"321",75,0,2013,3,"N","Atkinson County, Georgia","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"3211",76,0,2013,1,"N","Atkinson County, Georgia","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"3211",76,0,2013,2,"N","Atkinson County, Georgia","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"3211",76,0,2013,3,"N","Atkinson County, Georgia","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"32111",77,0,2013,1,"N","Atkinson County, Georgia","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"32111",77,0,2013,2,"N","Atkinson County, Georgia","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"32111",77,0,2013,3,"N","Atkinson County, Georgia","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"321113",78,0,2013,1,"N","Atkinson County, Georgia","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"321113",78,0,2013,2,"N","Atkinson County, Georgia","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"321113",78,0,2013,3,"N","Atkinson County, Georgia","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"3212",76,0,2013,1,"N","Atkinson County, Georgia","Private","Plywood and engineered wood product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"3212",76,0,2013,2,"N","Atkinson County, Georgia","Private","Plywood and engineered wood product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"3212",76,0,2013,3,"N","Atkinson County, Georgia","Private","Plywood and engineered wood product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"32121",77,0,2013,1,"N","Atkinson County, Georgia","Private","Plywood and engineered wood product mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"32121",77,0,2013,2,"N","Atkinson County, Georgia","Private","Plywood and engineered wood product mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"32121",77,0,2013,3,"N","Atkinson County, Georgia","Private","Plywood and engineered wood product mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"321219",78,0,2013,1,"N","Atkinson County, Georgia","Private","Reconstituted wood product manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"321219",78,0,2013,2,"N","Atkinson County, Georgia","Private","Reconstituted wood product manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"321219",78,0,2013,3,"N","Atkinson County, Georgia","Private","Reconstituted wood product manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"3219",76,0,2013,1,"N","Atkinson County, Georgia","Private","Other wood product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"3219",76,0,2013,2,"N","Atkinson County, Georgia","Private","Other wood product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"3219",76,0,2013,3,"N","Atkinson County, Georgia","Private","Other wood product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"32199",77,0,2013,1,"N","Atkinson County, Georgia","Private","All other wood product manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"32199",77,0,2013,2,"N","Atkinson County, Georgia","Private","All other wood product manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"32199",77,0,2013,3,"N","Atkinson County, Georgia","Private","All other wood product manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"321992",78,0,2013,1,"N","Atkinson County, Georgia","Private","Prefabricated wood building manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"321992",78,0,2013,2,"N","Atkinson County, Georgia","Private","Prefabricated wood building manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"321992",78,0,2013,3,"N","Atkinson County, Georgia","Private","Prefabricated wood building manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"336",75,0,2013,1,"N","Atkinson County, Georgia","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"336",75,0,2013,2,"N","Atkinson County, Georgia","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"336",75,0,2013,3,"N","Atkinson County, Georgia","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"3362",76,0,2013,1,"N","Atkinson County, Georgia","Private","Motor vehicle body and trailer manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"3362",76,0,2013,2,"N","Atkinson County, Georgia","Private","Motor vehicle body and trailer manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"3362",76,0,2013,3,"N","Atkinson County, Georgia","Private","Motor vehicle body and trailer manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"33621",77,0,2013,1,"N","Atkinson County, Georgia","Private","Motor vehicle body and trailer manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"33621",77,0,2013,2,"N","Atkinson County, Georgia","Private","Motor vehicle body and trailer manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"33621",77,0,2013,3,"N","Atkinson County, Georgia","Private","Motor vehicle body and trailer manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"336212",78,0,2013,1,"N","Atkinson County, Georgia","Private","Truck trailer manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"336212",78,0,2013,2,"N","Atkinson County, Georgia","Private","Truck trailer manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"336212",78,0,2013,3,"N","Atkinson County, Georgia","Private","Truck trailer manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"336214",78,0,2013,1,"N","Atkinson County, Georgia","Private","Travel trailer and camper manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"336214",78,0,2013,2,"N","Atkinson County, Georgia","Private","Travel trailer and camper manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"336214",78,0,2013,3,"N","Atkinson County, Georgia","Private","Travel trailer and camper manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42",74,0,2013,1,"","Atkinson County, Georgia","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",7,89,92,83,708767,580427,20265,620
+"13003",5,"42",74,0,2013,2,"","Atkinson County, Georgia","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",7,99,95,101,765433,318884,9316,599
+"13003",5,"42",74,0,2013,3,"","Atkinson County, Georgia","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",7,93,74,63,720222,128518,5246,723
+"13003",5,"423",75,0,2013,1,"N","Atkinson County, Georgia","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"423",75,0,2013,2,"N","Atkinson County, Georgia","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"423",75,0,2013,3,"N","Atkinson County, Georgia","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4238",76,0,2013,1,"N","Atkinson County, Georgia","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4238",76,0,2013,2,"N","Atkinson County, Georgia","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4238",76,0,2013,3,"N","Atkinson County, Georgia","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"42382",77,0,2013,1,"N","Atkinson County, Georgia","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42382",77,0,2013,2,"N","Atkinson County, Georgia","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42382",77,0,2013,3,"N","Atkinson County, Georgia","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"423820",78,0,2013,1,"N","Atkinson County, Georgia","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"423820",78,0,2013,2,"N","Atkinson County, Georgia","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"423820",78,0,2013,3,"N","Atkinson County, Georgia","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42385",77,0,2013,1,"N","Atkinson County, Georgia","Private","Service estab. equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42385",77,0,2013,2,"N","Atkinson County, Georgia","Private","Service estab. equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42385",77,0,2013,3,"N","Atkinson County, Georgia","Private","Service estab. equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"423850",78,0,2013,1,"N","Atkinson County, Georgia","Private","Service estab. equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"423850",78,0,2013,2,"N","Atkinson County, Georgia","Private","Service estab. equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"423850",78,0,2013,3,"N","Atkinson County, Georgia","Private","Service estab. equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"424",75,0,2013,1,"","Atkinson County, Georgia","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,78,81,80,571675,485895,19155,552
+"13003",5,"424",75,0,2013,2,"","Atkinson County, Georgia","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,85,81,87,630562,301553,9227,575
+"13003",5,"424",75,0,2013,3,"","Atkinson County, Georgia","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,80,61,61,563082,113720,5103,643
+"13003",5,"4246",76,0,2013,1,"N","Atkinson County, Georgia","Private","Chemical merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4246",76,0,2013,2,"N","Atkinson County, Georgia","Private","Chemical merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4246",76,0,2013,3,"N","Atkinson County, Georgia","Private","Chemical merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42469",77,0,2013,1,"N","Atkinson County, Georgia","Private","Other chemicals merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42469",77,0,2013,2,"N","Atkinson County, Georgia","Private","Other chemicals merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42469",77,0,2013,3,"N","Atkinson County, Georgia","Private","Other chemicals merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"424690",78,0,2013,1,"N","Atkinson County, Georgia","Private","Other chemicals merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"424690",78,0,2013,2,"N","Atkinson County, Georgia","Private","Other chemicals merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"424690",78,0,2013,3,"N","Atkinson County, Georgia","Private","Other chemicals merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4247",76,0,2013,1,"N","Atkinson County, Georgia","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4247",76,0,2013,2,"N","Atkinson County, Georgia","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4247",76,0,2013,3,"N","Atkinson County, Georgia","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42471",77,0,2013,1,"N","Atkinson County, Georgia","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42471",77,0,2013,2,"N","Atkinson County, Georgia","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42471",77,0,2013,3,"N","Atkinson County, Georgia","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"424710",78,0,2013,1,"N","Atkinson County, Georgia","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"424710",78,0,2013,2,"N","Atkinson County, Georgia","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"424710",78,0,2013,3,"N","Atkinson County, Georgia","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4249",76,0,2013,1,"N","Atkinson County, Georgia","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4249",76,0,2013,2,"N","Atkinson County, Georgia","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4249",76,0,2013,3,"N","Atkinson County, Georgia","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"42493",77,0,2013,1,"N","Atkinson County, Georgia","Private","Nursery and florist merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42493",77,0,2013,2,"N","Atkinson County, Georgia","Private","Nursery and florist merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42493",77,0,2013,3,"N","Atkinson County, Georgia","Private","Nursery and florist merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"424930",78,0,2013,1,"N","Atkinson County, Georgia","Private","Nursery and florist merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"424930",78,0,2013,2,"N","Atkinson County, Georgia","Private","Nursery and florist merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"424930",78,0,2013,3,"N","Atkinson County, Georgia","Private","Nursery and florist merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42499",77,0,2013,1,"N","Atkinson County, Georgia","Private","Other nondurable goods merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42499",77,0,2013,2,"N","Atkinson County, Georgia","Private","Other nondurable goods merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42499",77,0,2013,3,"N","Atkinson County, Georgia","Private","Other nondurable goods merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"424990",78,0,2013,1,"N","Atkinson County, Georgia","Private","Other nondurable goods merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"424990",78,0,2013,2,"N","Atkinson County, Georgia","Private","Other nondurable goods merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"424990",78,0,2013,3,"N","Atkinson County, Georgia","Private","Other nondurable goods merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"425",75,0,2013,1,"N","Atkinson County, Georgia","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"425",75,0,2013,2,"N","Atkinson County, Georgia","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"425",75,0,2013,3,"N","Atkinson County, Georgia","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4251",76,0,2013,1,"N","Atkinson County, Georgia","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4251",76,0,2013,2,"N","Atkinson County, Georgia","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4251",76,0,2013,3,"N","Atkinson County, Georgia","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42512",77,0,2013,1,"N","Atkinson County, Georgia","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42512",77,0,2013,2,"N","Atkinson County, Georgia","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"42512",77,0,2013,3,"N","Atkinson County, Georgia","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"425120",78,0,2013,1,"N","Atkinson County, Georgia","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"425120",78,0,2013,2,"N","Atkinson County, Georgia","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"425120",78,0,2013,3,"N","Atkinson County, Georgia","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44-45",74,0,2013,1,"","Atkinson County, Georgia","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",29,159,152,151,888435,769948,9085,444
+"13003",5,"44-45",74,0,2013,2,"","Atkinson County, Georgia","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",30,155,165,156,849284,494456,4935,412
+"13003",5,"44-45",74,0,2013,3,"","Atkinson County, Georgia","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",30,152,149,150,798074,231236,2858,408
+"13003",5,"441",75,0,2013,1,"","Atkinson County, Georgia","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,23,23,23,185987,161351,574,622
+"13003",5,"441",75,0,2013,2,"","Atkinson County, Georgia","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,25,24,27,187487,150998,825,569
+"13003",5,"441",75,0,2013,3,"","Atkinson County, Georgia","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,26,26,25,184367,26539,360,553
+"13003",5,"4411",76,0,2013,1,"N","Atkinson County, Georgia","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"4411",76,0,2013,2,"N","Atkinson County, Georgia","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"4411",76,0,2013,3,"N","Atkinson County, Georgia","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"44112",77,0,2013,1,"N","Atkinson County, Georgia","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"44112",77,0,2013,2,"N","Atkinson County, Georgia","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"44112",77,0,2013,3,"N","Atkinson County, Georgia","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"441120",78,0,2013,1,"N","Atkinson County, Georgia","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"441120",78,0,2013,2,"N","Atkinson County, Georgia","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"441120",78,0,2013,3,"N","Atkinson County, Georgia","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"4413",76,0,2013,1,"N","Atkinson County, Georgia","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4413",76,0,2013,2,"N","Atkinson County, Georgia","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4413",76,0,2013,3,"N","Atkinson County, Georgia","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"44131",77,0,2013,1,"N","Atkinson County, Georgia","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44131",77,0,2013,2,"N","Atkinson County, Georgia","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44131",77,0,2013,3,"N","Atkinson County, Georgia","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"441310",78,0,2013,1,"N","Atkinson County, Georgia","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"441310",78,0,2013,2,"N","Atkinson County, Georgia","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"441310",78,0,2013,3,"N","Atkinson County, Georgia","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44132",77,0,2013,1,"-","Atkinson County, Georgia","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13003",5,"44132",77,0,2013,2,"N","Atkinson County, Georgia","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44132",77,0,2013,3,"N","Atkinson County, Georgia","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"441320",78,0,2013,1,"-","Atkinson County, Georgia","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13003",5,"441320",78,0,2013,2,"N","Atkinson County, Georgia","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"441320",78,0,2013,3,"N","Atkinson County, Georgia","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"443",75,0,2013,1,"N","Atkinson County, Georgia","Private","Electronics and appliance stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"443",75,0,2013,2,"N","Atkinson County, Georgia","Private","Electronics and appliance stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"443",75,0,2013,3,"N","Atkinson County, Georgia","Private","Electronics and appliance stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4431",76,0,2013,1,"N","Atkinson County, Georgia","Private","Electronics and appliance stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4431",76,0,2013,2,"N","Atkinson County, Georgia","Private","Electronics and appliance stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4431",76,0,2013,3,"N","Atkinson County, Georgia","Private","Electronics and appliance stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44314",77,0,2013,1,"N","Atkinson County, Georgia","Private","Electronics and appliances stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44314",77,0,2013,2,"N","Atkinson County, Georgia","Private","Electronics and appliances stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44314",77,0,2013,3,"N","Atkinson County, Georgia","Private","Electronics and appliances stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"443142",78,0,2013,1,"N","Atkinson County, Georgia","Private","Electronics stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"443142",78,0,2013,2,"N","Atkinson County, Georgia","Private","Electronics stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"443142",78,0,2013,3,"N","Atkinson County, Georgia","Private","Electronics stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"444",75,0,2013,1,"N","Atkinson County, Georgia","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"444",75,0,2013,2,"N","Atkinson County, Georgia","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"444",75,0,2013,3,"N","Atkinson County, Georgia","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4441",76,0,2013,1,"N","Atkinson County, Georgia","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4441",76,0,2013,2,"N","Atkinson County, Georgia","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4441",76,0,2013,3,"N","Atkinson County, Georgia","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44413",77,0,2013,1,"N","Atkinson County, Georgia","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44413",77,0,2013,2,"N","Atkinson County, Georgia","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44413",77,0,2013,3,"N","Atkinson County, Georgia","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"444130",78,0,2013,1,"N","Atkinson County, Georgia","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"444130",78,0,2013,2,"N","Atkinson County, Georgia","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"444130",78,0,2013,3,"N","Atkinson County, Georgia","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44419",77,0,2013,1,"N","Atkinson County, Georgia","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44419",77,0,2013,2,"N","Atkinson County, Georgia","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44419",77,0,2013,3,"-","Atkinson County, Georgia","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13003",5,"444190",78,0,2013,1,"N","Atkinson County, Georgia","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"444190",78,0,2013,2,"N","Atkinson County, Georgia","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"444190",78,0,2013,3,"-","Atkinson County, Georgia","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"13003",5,"4442",76,0,2013,1,"N","Atkinson County, Georgia","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4442",76,0,2013,2,"N","Atkinson County, Georgia","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4442",76,0,2013,3,"N","Atkinson County, Georgia","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44422",77,0,2013,1,"N","Atkinson County, Georgia","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44422",77,0,2013,2,"N","Atkinson County, Georgia","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44422",77,0,2013,3,"N","Atkinson County, Georgia","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"444220",78,0,2013,1,"N","Atkinson County, Georgia","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"444220",78,0,2013,2,"N","Atkinson County, Georgia","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"444220",78,0,2013,3,"N","Atkinson County, Georgia","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"445",75,0,2013,1,"N","Atkinson County, Georgia","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"445",75,0,2013,2,"N","Atkinson County, Georgia","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"445",75,0,2013,3,"N","Atkinson County, Georgia","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"4451",76,0,2013,1,"N","Atkinson County, Georgia","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4451",76,0,2013,2,"N","Atkinson County, Georgia","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4451",76,0,2013,3,"N","Atkinson County, Georgia","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"44511",77,0,2013,1,"N","Atkinson County, Georgia","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"44511",77,0,2013,2,"N","Atkinson County, Georgia","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"44511",77,0,2013,3,"N","Atkinson County, Georgia","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"445110",78,0,2013,1,"N","Atkinson County, Georgia","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"445110",78,0,2013,2,"N","Atkinson County, Georgia","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"445110",78,0,2013,3,"N","Atkinson County, Georgia","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4452",76,0,2013,1,"N","Atkinson County, Georgia","Private","Specialty food stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4452",76,0,2013,2,"N","Atkinson County, Georgia","Private","Specialty food stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4452",76,0,2013,3,"N","Atkinson County, Georgia","Private","Specialty food stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44529",77,0,2013,1,"N","Atkinson County, Georgia","Private","Other specialty food stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44529",77,0,2013,2,"N","Atkinson County, Georgia","Private","Other specialty food stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44529",77,0,2013,3,"N","Atkinson County, Georgia","Private","Other specialty food stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"445291",78,0,2013,1,"N","Atkinson County, Georgia","Private","Baked goods stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"445291",78,0,2013,2,"N","Atkinson County, Georgia","Private","Baked goods stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"445291",78,0,2013,3,"N","Atkinson County, Georgia","Private","Baked goods stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4453",76,0,2013,1,"N","Atkinson County, Georgia","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4453",76,0,2013,2,"N","Atkinson County, Georgia","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4453",76,0,2013,3,"N","Atkinson County, Georgia","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44531",77,0,2013,1,"N","Atkinson County, Georgia","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44531",77,0,2013,2,"N","Atkinson County, Georgia","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"44531",77,0,2013,3,"N","Atkinson County, Georgia","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"445310",78,0,2013,1,"N","Atkinson County, Georgia","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"445310",78,0,2013,2,"N","Atkinson County, Georgia","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"445310",78,0,2013,3,"N","Atkinson County, Georgia","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"446",75,0,2013,1,"N","Atkinson County, Georgia","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"446",75,0,2013,2,"","Atkinson County, Georgia","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,12,12,13,87928,32178,667,548
+"13003",5,"446",75,0,2013,3,"N","Atkinson County, Georgia","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"4461",76,0,2013,1,"N","Atkinson County, Georgia","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"4461",76,0,2013,2,"","Atkinson County, Georgia","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,12,12,13,87928,32178,667,548
+"13003",5,"4461",76,0,2013,3,"N","Atkinson County, Georgia","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"44611",77,0,2013,1,"N","Atkinson County, Georgia","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"44611",77,0,2013,2,"","Atkinson County, Georgia","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,12,12,13,87928,32178,667,548
+"13003",5,"44611",77,0,2013,3,"N","Atkinson County, Georgia","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"446110",78,0,2013,1,"N","Atkinson County, Georgia","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"446110",78,0,2013,2,"","Atkinson County, Georgia","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,12,12,13,87928,32178,667,548
+"13003",5,"446110",78,0,2013,3,"N","Atkinson County, Georgia","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"447",75,0,2013,1,"","Atkinson County, Georgia","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,42,41,42,180231,171128,1120,333
+"13003",5,"447",75,0,2013,2,"","Atkinson County, Georgia","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,40,41,40,179405,114563,837,342
+"13003",5,"447",75,0,2013,3,"","Atkinson County, Georgia","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,41,41,45,185155,65219,559,336
+"13003",5,"4471",76,0,2013,1,"","Atkinson County, Georgia","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,42,41,42,180231,171128,1120,333
+"13003",5,"4471",76,0,2013,2,"","Atkinson County, Georgia","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,40,41,40,179405,114563,837,342
+"13003",5,"4471",76,0,2013,3,"","Atkinson County, Georgia","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,41,41,45,185155,65219,559,336
+"13003",5,"44711",77,0,2013,1,"","Atkinson County, Georgia","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",8,42,41,42,180231,171128,1120,333
+"13003",5,"44711",77,0,2013,2,"","Atkinson County, Georgia","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",8,40,41,40,179405,114563,837,342
+"13003",5,"44711",77,0,2013,3,"","Atkinson County, Georgia","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,41,41,45,185155,65219,559,336
+"13003",5,"447110",78,0,2013,1,"","Atkinson County, Georgia","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",8,42,41,42,180231,171128,1120,333
+"13003",5,"447110",78,0,2013,2,"","Atkinson County, Georgia","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",8,40,41,40,179405,114563,837,342
+"13003",5,"447110",78,0,2013,3,"","Atkinson County, Georgia","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",9,41,41,45,185155,65219,559,336
+"13003",5,"452",75,0,2013,1,"N","Atkinson County, Georgia","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"452",75,0,2013,2,"N","Atkinson County, Georgia","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"452",75,0,2013,3,"N","Atkinson County, Georgia","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"4529",76,0,2013,1,"N","Atkinson County, Georgia","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"4529",76,0,2013,2,"N","Atkinson County, Georgia","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"4529",76,0,2013,3,"N","Atkinson County, Georgia","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"45299",77,0,2013,1,"N","Atkinson County, Georgia","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"45299",77,0,2013,2,"N","Atkinson County, Georgia","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"45299",77,0,2013,3,"N","Atkinson County, Georgia","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"452990",78,0,2013,1,"N","Atkinson County, Georgia","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"452990",78,0,2013,2,"N","Atkinson County, Georgia","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"452990",78,0,2013,3,"N","Atkinson County, Georgia","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"454",75,0,2013,1,"N","Atkinson County, Georgia","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"454",75,0,2013,2,"N","Atkinson County, Georgia","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"454",75,0,2013,3,"N","Atkinson County, Georgia","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4543",76,0,2013,1,"N","Atkinson County, Georgia","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4543",76,0,2013,2,"N","Atkinson County, Georgia","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4543",76,0,2013,3,"N","Atkinson County, Georgia","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"45431",77,0,2013,1,"N","Atkinson County, Georgia","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"45431",77,0,2013,2,"N","Atkinson County, Georgia","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"45431",77,0,2013,3,"N","Atkinson County, Georgia","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"454310",78,0,2013,1,"N","Atkinson County, Georgia","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"454310",78,0,2013,2,"N","Atkinson County, Georgia","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"454310",78,0,2013,3,"N","Atkinson County, Georgia","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"45439",77,0,2013,1,"N","Atkinson County, Georgia","Private","Other direct selling establishments","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"45439",77,0,2013,2,"N","Atkinson County, Georgia","Private","Other direct selling establishments","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"45439",77,0,2013,3,"N","Atkinson County, Georgia","Private","Other direct selling establishments","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"454390",78,0,2013,1,"N","Atkinson County, Georgia","Private","Other direct selling establishments","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"454390",78,0,2013,2,"N","Atkinson County, Georgia","Private","Other direct selling establishments","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"454390",78,0,2013,3,"N","Atkinson County, Georgia","Private","Other direct selling establishments","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"48-49",74,0,2013,1,"N","Atkinson County, Georgia","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"13003",5,"48-49",74,0,2013,2,"N","Atkinson County, Georgia","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"13003",5,"48-49",74,0,2013,3,"N","Atkinson County, Georgia","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"13003",5,"484",75,0,2013,1,"","Atkinson County, Georgia","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,49,52,53,436837,334136,1222,655
+"13003",5,"484",75,0,2013,2,"","Atkinson County, Georgia","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,45,44,41,437422,201220,763,776
+"13003",5,"484",75,0,2013,3,"","Atkinson County, Georgia","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,46,45,46,453592,51413,167,764
+"13003",5,"4841",76,0,2013,1,"N","Atkinson County, Georgia","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"13003",5,"4841",76,0,2013,2,"N","Atkinson County, Georgia","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"13003",5,"4841",76,0,2013,3,"N","Atkinson County, Georgia","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"13003",5,"48412",77,0,2013,1,"N","Atkinson County, Georgia","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"13003",5,"48412",77,0,2013,2,"N","Atkinson County, Georgia","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"13003",5,"48412",77,0,2013,3,"N","Atkinson County, Georgia","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"13003",5,"484121",78,0,2013,1,"N","Atkinson County, Georgia","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"13003",5,"484121",78,0,2013,2,"N","Atkinson County, Georgia","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"13003",5,"484121",78,0,2013,3,"N","Atkinson County, Georgia","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"13003",5,"4842",76,0,2013,1,"N","Atkinson County, Georgia","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4842",76,0,2013,2,"N","Atkinson County, Georgia","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4842",76,0,2013,3,"N","Atkinson County, Georgia","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"48422",77,0,2013,1,"N","Atkinson County, Georgia","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"48422",77,0,2013,2,"N","Atkinson County, Georgia","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"48422",77,0,2013,3,"N","Atkinson County, Georgia","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"484220",78,0,2013,1,"N","Atkinson County, Georgia","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"484220",78,0,2013,2,"N","Atkinson County, Georgia","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"484220",78,0,2013,3,"N","Atkinson County, Georgia","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"492",75,0,2013,1,"N","Atkinson County, Georgia","Private","Couriers and messengers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"492",75,0,2013,2,"N","Atkinson County, Georgia","Private","Couriers and messengers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"492",75,0,2013,3,"N","Atkinson County, Georgia","Private","Couriers and messengers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"4922",76,0,2013,1,"N","Atkinson County, Georgia","Private","Local messengers and local delivery","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4922",76,0,2013,2,"N","Atkinson County, Georgia","Private","Local messengers and local delivery","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"4922",76,0,2013,3,"N","Atkinson County, Georgia","Private","Local messengers and local delivery","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"49221",77,0,2013,1,"N","Atkinson County, Georgia","Private","Local messengers and local delivery","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"49221",77,0,2013,2,"N","Atkinson County, Georgia","Private","Local messengers and local delivery","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"49221",77,0,2013,3,"N","Atkinson County, Georgia","Private","Local messengers and local delivery","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"492210",78,0,2013,1,"N","Atkinson County, Georgia","Private","Local messengers and local delivery","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"492210",78,0,2013,2,"N","Atkinson County, Georgia","Private","Local messengers and local delivery","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"492210",78,0,2013,3,"N","Atkinson County, Georgia","Private","Local messengers and local delivery","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"52",74,0,2013,1,"","Atkinson County, Georgia","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,51,49,50,395620,336977,1576,609
+"13003",5,"52",74,0,2013,2,"","Atkinson County, Georgia","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,50,49,48,380837,105389,437,598
+"13003",5,"52",74,0,2013,3,"","Atkinson County, Georgia","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,48,48,48,369235,18026,71,592
+"13003",5,"522",75,0,2013,1,"N","Atkinson County, Georgia","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"522",75,0,2013,2,"N","Atkinson County, Georgia","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"522",75,0,2013,3,"N","Atkinson County, Georgia","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"5221",76,0,2013,1,"N","Atkinson County, Georgia","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"5221",76,0,2013,2,"N","Atkinson County, Georgia","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"5221",76,0,2013,3,"N","Atkinson County, Georgia","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"52211",77,0,2013,1,"N","Atkinson County, Georgia","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"52211",77,0,2013,2,"N","Atkinson County, Georgia","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"52211",77,0,2013,3,"N","Atkinson County, Georgia","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"522110",78,0,2013,1,"N","Atkinson County, Georgia","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"522110",78,0,2013,2,"N","Atkinson County, Georgia","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"522110",78,0,2013,3,"N","Atkinson County, Georgia","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"524",75,0,2013,1,"N","Atkinson County, Georgia","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"524",75,0,2013,2,"N","Atkinson County, Georgia","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"524",75,0,2013,3,"N","Atkinson County, Georgia","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"5241",76,0,2013,1,"N","Atkinson County, Georgia","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"5241",76,0,2013,2,"N","Atkinson County, Georgia","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"5241",76,0,2013,3,"N","Atkinson County, Georgia","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"52412",77,0,2013,1,"N","Atkinson County, Georgia","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"52412",77,0,2013,2,"N","Atkinson County, Georgia","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"52412",77,0,2013,3,"N","Atkinson County, Georgia","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"524126",78,0,2013,1,"N","Atkinson County, Georgia","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"524126",78,0,2013,2,"N","Atkinson County, Georgia","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"524126",78,0,2013,3,"N","Atkinson County, Georgia","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"5242",76,0,2013,1,"N","Atkinson County, Georgia","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"5242",76,0,2013,2,"N","Atkinson County, Georgia","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"5242",76,0,2013,3,"N","Atkinson County, Georgia","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"52421",77,0,2013,1,"N","Atkinson County, Georgia","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"52421",77,0,2013,2,"N","Atkinson County, Georgia","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"52421",77,0,2013,3,"N","Atkinson County, Georgia","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"524210",78,0,2013,1,"N","Atkinson County, Georgia","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"524210",78,0,2013,2,"N","Atkinson County, Georgia","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"524210",78,0,2013,3,"N","Atkinson County, Georgia","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"53",74,0,2013,1,"","Atkinson County, Georgia","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,7,7,7,25089,21986,348,276
+"13003",5,"53",74,0,2013,2,"","Atkinson County, Georgia","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,7,7,7,25433,8951,141,279
+"13003",5,"53",74,0,2013,3,"","Atkinson County, Georgia","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,7,7,7,25605,4709,70,281
+"13003",5,"531",75,0,2013,1,"","Atkinson County, Georgia","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,7,7,7,25089,21986,348,276
+"13003",5,"531",75,0,2013,2,"","Atkinson County, Georgia","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,7,7,7,25433,8951,141,279
+"13003",5,"531",75,0,2013,3,"","Atkinson County, Georgia","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,7,7,7,25605,4709,70,281
+"13003",5,"5311",76,0,2013,1,"N","Atkinson County, Georgia","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"5311",76,0,2013,2,"N","Atkinson County, Georgia","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"5311",76,0,2013,3,"N","Atkinson County, Georgia","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"53111",77,0,2013,1,"N","Atkinson County, Georgia","Private","Lessors of residential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"53111",77,0,2013,2,"N","Atkinson County, Georgia","Private","Lessors of residential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"53111",77,0,2013,3,"N","Atkinson County, Georgia","Private","Lessors of residential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"531110",78,0,2013,1,"N","Atkinson County, Georgia","Private","Lessors of residential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"531110",78,0,2013,2,"N","Atkinson County, Georgia","Private","Lessors of residential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"531110",78,0,2013,3,"N","Atkinson County, Georgia","Private","Lessors of residential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"53112",77,0,2013,1,"N","Atkinson County, Georgia","Private","Lessors of nonresidential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"53112",77,0,2013,2,"N","Atkinson County, Georgia","Private","Lessors of nonresidential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"53112",77,0,2013,3,"N","Atkinson County, Georgia","Private","Lessors of nonresidential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"531120",78,0,2013,1,"N","Atkinson County, Georgia","Private","Lessors of nonresidential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"531120",78,0,2013,2,"N","Atkinson County, Georgia","Private","Lessors of nonresidential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"531120",78,0,2013,3,"N","Atkinson County, Georgia","Private","Lessors of nonresidential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"5312",76,0,2013,1,"N","Atkinson County, Georgia","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"5312",76,0,2013,2,"N","Atkinson County, Georgia","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"5312",76,0,2013,3,"N","Atkinson County, Georgia","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"53121",77,0,2013,1,"N","Atkinson County, Georgia","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"53121",77,0,2013,2,"N","Atkinson County, Georgia","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"53121",77,0,2013,3,"N","Atkinson County, Georgia","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"531210",78,0,2013,1,"N","Atkinson County, Georgia","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"531210",78,0,2013,2,"N","Atkinson County, Georgia","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"531210",78,0,2013,3,"N","Atkinson County, Georgia","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"5313",76,0,2013,1,"N","Atkinson County, Georgia","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"5313",76,0,2013,2,"N","Atkinson County, Georgia","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"5313",76,0,2013,3,"N","Atkinson County, Georgia","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"53131",77,0,2013,1,"N","Atkinson County, Georgia","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"53131",77,0,2013,2,"N","Atkinson County, Georgia","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"53131",77,0,2013,3,"N","Atkinson County, Georgia","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"531311",78,0,2013,1,"N","Atkinson County, Georgia","Private","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"531311",78,0,2013,2,"N","Atkinson County, Georgia","Private","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"531311",78,0,2013,3,"N","Atkinson County, Georgia","Private","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"54",74,0,2013,1,"N","Atkinson County, Georgia","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"54",74,0,2013,2,"N","Atkinson County, Georgia","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"54",74,0,2013,3,"N","Atkinson County, Georgia","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"541",75,0,2013,1,"N","Atkinson County, Georgia","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"541",75,0,2013,2,"N","Atkinson County, Georgia","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"541",75,0,2013,3,"N","Atkinson County, Georgia","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"13003",5,"5411",76,0,2013,1,"N","Atkinson County, Georgia","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"5411",76,0,2013,2,"N","Atkinson County, Georgia","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"5411",76,0,2013,3,"N","Atkinson County, Georgia","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"54111",77,0,2013,1,"N","Atkinson County, Georgia","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"54111",77,0,2013,2,"N","Atkinson County, Georgia","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"54111",77,0,2013,3,"N","Atkinson County, Georgia","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"541110",78,0,2013,1,"N","Atkinson County, Georgia","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"541110",78,0,2013,2,"N","Atkinson County, Georgia","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"541110",78,0,2013,3,"N","Atkinson County, Georgia","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"5415",76,0,2013,1,"N","Atkinson County, Georgia","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"5415",76,0,2013,2,"N","Atkinson County, Georgia","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"5415",76,0,2013,3,"N","Atkinson County, Georgia","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"54151",77,0,2013,1,"N","Atkinson County, Georgia","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"54151",77,0,2013,2,"N","Atkinson County, Georgia","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"54151",77,0,2013,3,"N","Atkinson County, Georgia","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"541512",78,0,2013,1,"N","Atkinson County, Georgia","Private","Computer systems design services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"541512",78,0,2013,2,"N","Atkinson County, Georgia","Private","Computer systems design services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"541512",78,0,2013,3,"N","Atkinson County, Georgia","Private","Computer systems design services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"541513",78,0,2013,1,"N","Atkinson County, Georgia","Private","Computer facilities management services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"541513",78,0,2013,2,"N","Atkinson County, Georgia","Private","Computer facilities management services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"541513",78,0,2013,3,"N","Atkinson County, Georgia","Private","Computer facilities management services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"56",74,0,2013,1,"N","Atkinson County, Georgia","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"56",74,0,2013,2,"N","Atkinson County, Georgia","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"56",74,0,2013,3,"N","Atkinson County, Georgia","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"561",75,0,2013,1,"N","Atkinson County, Georgia","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"561",75,0,2013,2,"N","Atkinson County, Georgia","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"561",75,0,2013,3,"N","Atkinson County, Georgia","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"5617",76,0,2013,1,"N","Atkinson County, Georgia","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"5617",76,0,2013,2,"N","Atkinson County, Georgia","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"5617",76,0,2013,3,"N","Atkinson County, Georgia","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"56173",77,0,2013,1,"N","Atkinson County, Georgia","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"56173",77,0,2013,2,"N","Atkinson County, Georgia","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"56173",77,0,2013,3,"N","Atkinson County, Georgia","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"561730",78,0,2013,1,"N","Atkinson County, Georgia","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"561730",78,0,2013,2,"N","Atkinson County, Georgia","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"561730",78,0,2013,3,"N","Atkinson County, Georgia","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"61",74,0,2013,1,"N","Atkinson County, Georgia","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"61",74,0,2013,2,"N","Atkinson County, Georgia","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"61",74,0,2013,3,"N","Atkinson County, Georgia","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"611",75,0,2013,1,"N","Atkinson County, Georgia","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"611",75,0,2013,2,"N","Atkinson County, Georgia","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"611",75,0,2013,3,"N","Atkinson County, Georgia","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"6116",76,0,2013,1,"N","Atkinson County, Georgia","Private","Other schools and instruction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"6116",76,0,2013,2,"N","Atkinson County, Georgia","Private","Other schools and instruction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"6116",76,0,2013,3,"N","Atkinson County, Georgia","Private","Other schools and instruction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"61162",77,0,2013,1,"N","Atkinson County, Georgia","Private","Sports and recreation instruction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"61162",77,0,2013,2,"N","Atkinson County, Georgia","Private","Sports and recreation instruction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"61162",77,0,2013,3,"N","Atkinson County, Georgia","Private","Sports and recreation instruction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"611620",78,0,2013,1,"N","Atkinson County, Georgia","Private","Sports and recreation instruction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"611620",78,0,2013,2,"N","Atkinson County, Georgia","Private","Sports and recreation instruction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"611620",78,0,2013,3,"N","Atkinson County, Georgia","Private","Sports and recreation instruction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"62",74,0,2013,1,"N","Atkinson County, Georgia","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13003",5,"62",74,0,2013,2,"N","Atkinson County, Georgia","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13003",5,"62",74,0,2013,3,"N","Atkinson County, Georgia","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13003",5,"621",75,0,2013,1,"N","Atkinson County, Georgia","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13003",5,"621",75,0,2013,2,"N","Atkinson County, Georgia","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13003",5,"621",75,0,2013,3,"N","Atkinson County, Georgia","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13003",5,"6211",76,0,2013,1,"N","Atkinson County, Georgia","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"6211",76,0,2013,2,"N","Atkinson County, Georgia","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"6211",76,0,2013,3,"N","Atkinson County, Georgia","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"62111",77,0,2013,1,"N","Atkinson County, Georgia","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"62111",77,0,2013,2,"N","Atkinson County, Georgia","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"62111",77,0,2013,3,"N","Atkinson County, Georgia","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"621111",78,0,2013,1,"N","Atkinson County, Georgia","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"621111",78,0,2013,2,"N","Atkinson County, Georgia","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"621111",78,0,2013,3,"N","Atkinson County, Georgia","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"6212",76,0,2013,1,"N","Atkinson County, Georgia","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"6212",76,0,2013,2,"N","Atkinson County, Georgia","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"6212",76,0,2013,3,"N","Atkinson County, Georgia","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"62121",77,0,2013,1,"N","Atkinson County, Georgia","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"62121",77,0,2013,2,"N","Atkinson County, Georgia","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"62121",77,0,2013,3,"N","Atkinson County, Georgia","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"621210",78,0,2013,1,"N","Atkinson County, Georgia","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"621210",78,0,2013,2,"N","Atkinson County, Georgia","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"621210",78,0,2013,3,"N","Atkinson County, Georgia","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"6216",76,0,2013,1,"N","Atkinson County, Georgia","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"6216",76,0,2013,2,"N","Atkinson County, Georgia","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"6216",76,0,2013,3,"N","Atkinson County, Georgia","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"62161",77,0,2013,1,"N","Atkinson County, Georgia","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"62161",77,0,2013,2,"N","Atkinson County, Georgia","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"62161",77,0,2013,3,"N","Atkinson County, Georgia","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"621610",78,0,2013,1,"N","Atkinson County, Georgia","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"621610",78,0,2013,2,"N","Atkinson County, Georgia","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"621610",78,0,2013,3,"N","Atkinson County, Georgia","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"71",74,0,2013,1,"N","Atkinson County, Georgia","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"71",74,0,2013,2,"N","Atkinson County, Georgia","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"71",74,0,2013,3,"N","Atkinson County, Georgia","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"713",75,0,2013,1,"N","Atkinson County, Georgia","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"713",75,0,2013,2,"N","Atkinson County, Georgia","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"713",75,0,2013,3,"N","Atkinson County, Georgia","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"7139",76,0,2013,1,"N","Atkinson County, Georgia","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"7139",76,0,2013,2,"N","Atkinson County, Georgia","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"7139",76,0,2013,3,"N","Atkinson County, Georgia","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"71399",77,0,2013,1,"N","Atkinson County, Georgia","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"71399",77,0,2013,2,"N","Atkinson County, Georgia","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"71399",77,0,2013,3,"N","Atkinson County, Georgia","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"713990",78,0,2013,1,"N","Atkinson County, Georgia","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"713990",78,0,2013,2,"N","Atkinson County, Georgia","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"713990",78,0,2013,3,"N","Atkinson County, Georgia","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"72",74,0,2013,1,"N","Atkinson County, Georgia","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13003",5,"72",74,0,2013,2,"N","Atkinson County, Georgia","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13003",5,"72",74,0,2013,3,"N","Atkinson County, Georgia","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13003",5,"722",75,0,2013,1,"N","Atkinson County, Georgia","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13003",5,"722",75,0,2013,2,"N","Atkinson County, Georgia","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13003",5,"722",75,0,2013,3,"N","Atkinson County, Georgia","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"13003",5,"7223",76,0,2013,1,"N","Atkinson County, Georgia","Private","Special food services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"7223",76,0,2013,2,"N","Atkinson County, Georgia","Private","Special food services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"7223",76,0,2013,3,"N","Atkinson County, Georgia","Private","Special food services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"72232",77,0,2013,1,"N","Atkinson County, Georgia","Private","Caterers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"72232",77,0,2013,2,"N","Atkinson County, Georgia","Private","Caterers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"72232",77,0,2013,3,"N","Atkinson County, Georgia","Private","Caterers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"722320",78,0,2013,1,"N","Atkinson County, Georgia","Private","Caterers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"722320",78,0,2013,2,"N","Atkinson County, Georgia","Private","Caterers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"722320",78,0,2013,3,"N","Atkinson County, Georgia","Private","Caterers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"7225",76,0,2013,1,"","Atkinson County, Georgia","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,48,48,48,105237,100877,1926,169
+"13003",5,"7225",76,0,2013,2,"","Atkinson County, Georgia","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,55,53,64,124986,104364,1958,168
+"13003",5,"7225",76,0,2013,3,"","Atkinson County, Georgia","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,55,56,56,110128,74491,1439,152
+"13003",5,"72251",77,0,2013,1,"","Atkinson County, Georgia","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,48,48,48,105237,100877,1926,169
+"13003",5,"72251",77,0,2013,2,"","Atkinson County, Georgia","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,55,53,64,124986,104364,1958,168
+"13003",5,"72251",77,0,2013,3,"","Atkinson County, Georgia","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,55,56,56,110128,74491,1439,152
+"13003",5,"722511",78,0,2013,1,"N","Atkinson County, Georgia","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"722511",78,0,2013,2,"N","Atkinson County, Georgia","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"722511",78,0,2013,3,"N","Atkinson County, Georgia","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"722513",78,0,2013,1,"N","Atkinson County, Georgia","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"722513",78,0,2013,2,"N","Atkinson County, Georgia","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"722513",78,0,2013,3,"N","Atkinson County, Georgia","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"13003",5,"722514",78,0,2013,1,"N","Atkinson County, Georgia","Private","Cafeterias, grill buffets, and buffets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"722514",78,0,2013,2,"N","Atkinson County, Georgia","Private","Cafeterias, grill buffets, and buffets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"722514",78,0,2013,3,"N","Atkinson County, Georgia","Private","Cafeterias, grill buffets, and buffets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"81",74,0,2013,1,"","Atkinson County, Georgia","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,21,18,19,70375,68575,731,280
+"13003",5,"81",74,0,2013,2,"","Atkinson County, Georgia","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,18,21,20,64119,33769,573,251
+"13003",5,"81",74,0,2013,3,"","Atkinson County, Georgia","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,20,21,19,62724,22713,523,241
+"13003",5,"811",75,0,2013,1,"N","Atkinson County, Georgia","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"811",75,0,2013,2,"N","Atkinson County, Georgia","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"811",75,0,2013,3,"N","Atkinson County, Georgia","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"13003",5,"8111",76,0,2013,1,"N","Atkinson County, Georgia","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"8111",76,0,2013,2,"N","Atkinson County, Georgia","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"8111",76,0,2013,3,"N","Atkinson County, Georgia","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"81119",77,0,2013,1,"N","Atkinson County, Georgia","Private","Other automotive repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"81119",77,0,2013,2,"N","Atkinson County, Georgia","Private","Other automotive repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"81119",77,0,2013,3,"N","Atkinson County, Georgia","Private","Other automotive repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"811192",78,0,2013,1,"N","Atkinson County, Georgia","Private","Car washes","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"811192",78,0,2013,2,"N","Atkinson County, Georgia","Private","Car washes","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"811192",78,0,2013,3,"N","Atkinson County, Georgia","Private","Car washes","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"8113",76,0,2013,1,"N","Atkinson County, Georgia","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"8113",76,0,2013,2,"N","Atkinson County, Georgia","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"8113",76,0,2013,3,"N","Atkinson County, Georgia","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"81131",77,0,2013,1,"N","Atkinson County, Georgia","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"81131",77,0,2013,2,"N","Atkinson County, Georgia","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"81131",77,0,2013,3,"N","Atkinson County, Georgia","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"811310",78,0,2013,1,"N","Atkinson County, Georgia","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"811310",78,0,2013,2,"N","Atkinson County, Georgia","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"811310",78,0,2013,3,"N","Atkinson County, Georgia","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"812",75,0,2013,1,"N","Atkinson County, Georgia","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"812",75,0,2013,2,"N","Atkinson County, Georgia","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"812",75,0,2013,3,"N","Atkinson County, Georgia","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"8122",76,0,2013,1,"N","Atkinson County, Georgia","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"8122",76,0,2013,2,"N","Atkinson County, Georgia","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"8122",76,0,2013,3,"N","Atkinson County, Georgia","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"81221",77,0,2013,1,"N","Atkinson County, Georgia","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"81221",77,0,2013,2,"N","Atkinson County, Georgia","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"81221",77,0,2013,3,"N","Atkinson County, Georgia","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"812210",78,0,2013,1,"N","Atkinson County, Georgia","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"812210",78,0,2013,2,"N","Atkinson County, Georgia","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"812210",78,0,2013,3,"N","Atkinson County, Georgia","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"813",75,0,2013,1,"N","Atkinson County, Georgia","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"813",75,0,2013,2,"N","Atkinson County, Georgia","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"813",75,0,2013,3,"N","Atkinson County, Georgia","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"8139",76,0,2013,1,"N","Atkinson County, Georgia","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"8139",76,0,2013,2,"N","Atkinson County, Georgia","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"8139",76,0,2013,3,"N","Atkinson County, Georgia","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"81391",77,0,2013,1,"N","Atkinson County, Georgia","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"81391",77,0,2013,2,"N","Atkinson County, Georgia","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"81391",77,0,2013,3,"N","Atkinson County, Georgia","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"813910",78,0,2013,1,"N","Atkinson County, Georgia","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"813910",78,0,2013,2,"N","Atkinson County, Georgia","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"813910",78,0,2013,3,"N","Atkinson County, Georgia","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"814",75,0,2013,1,"N","Atkinson County, Georgia","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"814",75,0,2013,2,"N","Atkinson County, Georgia","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"814",75,0,2013,3,"N","Atkinson County, Georgia","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"8141",76,0,2013,1,"N","Atkinson County, Georgia","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"8141",76,0,2013,2,"N","Atkinson County, Georgia","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"8141",76,0,2013,3,"N","Atkinson County, Georgia","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"81411",77,0,2013,1,"N","Atkinson County, Georgia","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"81411",77,0,2013,2,"N","Atkinson County, Georgia","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"81411",77,0,2013,3,"N","Atkinson County, Georgia","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"814110",78,0,2013,1,"N","Atkinson County, Georgia","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"814110",78,0,2013,2,"N","Atkinson County, Georgia","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"814110",78,0,2013,3,"N","Atkinson County, Georgia","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"13003",5,"99",74,0,2013,1,"","Atkinson County, Georgia","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",3,2,1,1,7211,7211,189,416
+"13003",5,"99",74,0,2013,2,"","Atkinson County, Georgia","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",3,2,2,2,6664,5912,155,256
+"13003",5,"99",74,0,2013,3,"","Atkinson County, Georgia","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",3,2,2,2,3224,1624,43,124
+"13003",5,"999",75,0,2013,1,"","Atkinson County, Georgia","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,2,1,1,7211,7211,189,416
+"13003",5,"999",75,0,2013,2,"","Atkinson County, Georgia","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,2,2,2,6664,5912,155,256
+"13003",5,"999",75,0,2013,3,"","Atkinson County, Georgia","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,2,2,2,3224,1624,43,124
+"13003",5,"9999",76,0,2013,1,"","Atkinson County, Georgia","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,2,1,1,7211,7211,189,416
+"13003",5,"9999",76,0,2013,2,"","Atkinson County, Georgia","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,2,2,2,6664,5912,155,256
+"13003",5,"9999",76,0,2013,3,"","Atkinson County, Georgia","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,2,2,2,3224,1624,43,124
+"13003",5,"99999",77,0,2013,1,"","Atkinson County, Georgia","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,2,1,1,7211,7211,189,416
+"13003",5,"99999",77,0,2013,2,"","Atkinson County, Georgia","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,2,2,2,6664,5912,155,256
+"13003",5,"99999",77,0,2013,3,"","Atkinson County, Georgia","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,2,2,2,3224,1624,43,124
+"13003",5,"999999",78,0,2013,1,"","Atkinson County, Georgia","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,2,1,1,7211,7211,189,416
+"13003",5,"999999",78,0,2013,2,"","Atkinson County, Georgia","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,2,2,2,6664,5912,155,256
+"13003",5,"999999",78,0,2013,3,"","Atkinson County, Georgia","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,2,2,2,3224,1624,43,124
+

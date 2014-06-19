@@ -1,0 +1,914 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"01037",0,"10",70,0,2013,1,"","Coosa County, Alabama","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",121,1295,1306,1303,10643770,5715242,154804,629
+"01037",0,"10",70,0,2013,2,"","Coosa County, Alabama","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",121,1318,1214,1211,10271157,1433183,44880,633
+"01037",0,"10",70,0,2013,3,"","Coosa County, Alabama","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",120,1257,1272,1289,10372330,640656,19870,627
+"01037",1,"10",71,0,2013,1,"","Coosa County, Alabama","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,24,24,24,250240,0,0,802
+"01037",1,"10",71,0,2013,2,"","Coosa County, Alabama","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,24,22,22,218185,0,0,740
+"01037",1,"10",71,0,2013,3,"","Coosa County, Alabama","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,22,19,20,235668,0,0,892
+"01037",1,"102",72,0,2013,1,"","Coosa County, Alabama","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,24,24,24,250240,0,0,802
+"01037",1,"102",72,0,2013,2,"","Coosa County, Alabama","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,24,22,22,218185,0,0,740
+"01037",1,"102",72,0,2013,3,"","Coosa County, Alabama","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,22,19,20,235668,0,0,892
+"01037",1,"1021",73,0,2013,1,"","Coosa County, Alabama","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,23,23,23,235264,0,0,787
+"01037",1,"1021",73,0,2013,2,"","Coosa County, Alabama","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,23,21,21,200713,0,0,713
+"01037",1,"1021",73,0,2013,3,"","Coosa County, Alabama","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,21,19,20,227431,0,0,875
+"01037",1,"1028",73,0,2013,1,"","Coosa County, Alabama","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,1,1,1,14976,0,0,1152
+"01037",1,"1028",73,0,2013,2,"","Coosa County, Alabama","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,1,1,1,17472,0,0,1344
+"01037",1,"1028",73,0,2013,3,"","Coosa County, Alabama","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,1,0,0,8237,0,0,1901
+"01037",1,"48-49",74,0,2013,1,"","Coosa County, Alabama","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,23,23,23,235264,0,0,787
+"01037",1,"48-49",74,0,2013,2,"","Coosa County, Alabama","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,23,21,21,200713,0,0,713
+"01037",1,"48-49",74,0,2013,3,"","Coosa County, Alabama","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,21,19,20,227431,0,0,875
+"01037",1,"491",75,0,2013,1,"","Coosa County, Alabama","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,23,23,23,235264,0,0,787
+"01037",1,"491",75,0,2013,2,"","Coosa County, Alabama","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,23,21,21,200713,0,0,713
+"01037",1,"491",75,0,2013,3,"","Coosa County, Alabama","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,21,19,20,227431,0,0,875
+"01037",1,"4911",76,0,2013,1,"","Coosa County, Alabama","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,23,23,23,235264,0,0,787
+"01037",1,"4911",76,0,2013,2,"","Coosa County, Alabama","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,23,21,21,200713,0,0,713
+"01037",1,"4911",76,0,2013,3,"","Coosa County, Alabama","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,21,19,20,227431,0,0,875
+"01037",1,"49111",77,0,2013,1,"","Coosa County, Alabama","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,23,23,23,235264,0,0,787
+"01037",1,"49111",77,0,2013,2,"","Coosa County, Alabama","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,23,21,21,200713,0,0,713
+"01037",1,"49111",77,0,2013,3,"","Coosa County, Alabama","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,21,19,20,227431,0,0,875
+"01037",1,"491110",78,0,2013,1,"","Coosa County, Alabama","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,23,23,23,235264,0,0,787
+"01037",1,"491110",78,0,2013,2,"","Coosa County, Alabama","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,23,21,21,200713,0,0,713
+"01037",1,"491110",78,0,2013,3,"","Coosa County, Alabama","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,21,19,20,227431,0,0,875
+"01037",1,"92",74,0,2013,1,"","Coosa County, Alabama","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,1,1,1,14976,0,0,1152
+"01037",1,"92",74,0,2013,2,"","Coosa County, Alabama","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,1,1,1,17472,0,0,1344
+"01037",1,"92",74,0,2013,3,"","Coosa County, Alabama","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,1,0,0,8237,0,0,1901
+"01037",1,"922",75,0,2013,1,"","Coosa County, Alabama","Federal Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,14976,0,0,1152
+"01037",1,"922",75,0,2013,2,"","Coosa County, Alabama","Federal Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,17472,0,0,1344
+"01037",1,"922",75,0,2013,3,"","Coosa County, Alabama","Federal Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,0,0,8237,0,0,1901
+"01037",1,"9221",76,0,2013,1,"","Coosa County, Alabama","Federal Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,14976,0,0,1152
+"01037",1,"9221",76,0,2013,2,"","Coosa County, Alabama","Federal Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,17472,0,0,1344
+"01037",1,"9221",76,0,2013,3,"","Coosa County, Alabama","Federal Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,0,0,8237,0,0,1901
+"01037",1,"92219",77,0,2013,1,"","Coosa County, Alabama","Federal Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,14976,0,0,1152
+"01037",1,"92219",77,0,2013,2,"","Coosa County, Alabama","Federal Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,17472,0,0,1344
+"01037",1,"92219",77,0,2013,3,"","Coosa County, Alabama","Federal Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,0,0,8237,0,0,1901
+"01037",1,"922190",78,0,2013,1,"","Coosa County, Alabama","Federal Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,14976,0,0,1152
+"01037",1,"922190",78,0,2013,2,"","Coosa County, Alabama","Federal Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,17472,0,0,1344
+"01037",1,"922190",78,0,2013,3,"","Coosa County, Alabama","Federal Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,0,0,8237,0,0,1901
+"01037",2,"10",71,0,2013,1,"N","Coosa County, Alabama","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"01037",2,"10",71,0,2013,2,"N","Coosa County, Alabama","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"01037",2,"10",71,0,2013,3,"N","Coosa County, Alabama","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"01037",2,"102",72,0,2013,1,"N","Coosa County, Alabama","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"01037",2,"102",72,0,2013,2,"N","Coosa County, Alabama","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"01037",2,"102",72,0,2013,3,"N","Coosa County, Alabama","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"01037",2,"1025",73,0,2013,1,"N","Coosa County, Alabama","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"1025",73,0,2013,2,"N","Coosa County, Alabama","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"1025",73,0,2013,3,"N","Coosa County, Alabama","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"1028",73,0,2013,1,"N","Coosa County, Alabama","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"01037",2,"1028",73,0,2013,2,"N","Coosa County, Alabama","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"01037",2,"1028",73,0,2013,3,"N","Coosa County, Alabama","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"01037",2,"61",74,0,2013,1,"N","Coosa County, Alabama","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"61",74,0,2013,2,"N","Coosa County, Alabama","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"61",74,0,2013,3,"N","Coosa County, Alabama","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"611",75,0,2013,1,"N","Coosa County, Alabama","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"611",75,0,2013,2,"N","Coosa County, Alabama","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"611",75,0,2013,3,"N","Coosa County, Alabama","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"6113",76,0,2013,1,"N","Coosa County, Alabama","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"6113",76,0,2013,2,"N","Coosa County, Alabama","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"6113",76,0,2013,3,"N","Coosa County, Alabama","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"61131",77,0,2013,1,"N","Coosa County, Alabama","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"61131",77,0,2013,2,"N","Coosa County, Alabama","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"61131",77,0,2013,3,"N","Coosa County, Alabama","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"611310",78,0,2013,1,"N","Coosa County, Alabama","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"611310",78,0,2013,2,"N","Coosa County, Alabama","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"611310",78,0,2013,3,"N","Coosa County, Alabama","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"92",74,0,2013,1,"N","Coosa County, Alabama","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"01037",2,"92",74,0,2013,2,"N","Coosa County, Alabama","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"01037",2,"92",74,0,2013,3,"N","Coosa County, Alabama","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"01037",2,"922",75,0,2013,1,"N","Coosa County, Alabama","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",2,"922",75,0,2013,2,"N","Coosa County, Alabama","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",2,"922",75,0,2013,3,"N","Coosa County, Alabama","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",2,"9221",76,0,2013,1,"N","Coosa County, Alabama","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",2,"9221",76,0,2013,2,"N","Coosa County, Alabama","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",2,"9221",76,0,2013,3,"N","Coosa County, Alabama","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",2,"92211",77,0,2013,1,"N","Coosa County, Alabama","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"92211",77,0,2013,2,"N","Coosa County, Alabama","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"92211",77,0,2013,3,"N","Coosa County, Alabama","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"922110",78,0,2013,1,"N","Coosa County, Alabama","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"922110",78,0,2013,2,"N","Coosa County, Alabama","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"922110",78,0,2013,3,"N","Coosa County, Alabama","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"92219",77,0,2013,1,"N","Coosa County, Alabama","State Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"92219",77,0,2013,2,"N","Coosa County, Alabama","State Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"92219",77,0,2013,3,"N","Coosa County, Alabama","State Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"922190",78,0,2013,1,"N","Coosa County, Alabama","State Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"922190",78,0,2013,2,"N","Coosa County, Alabama","State Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"922190",78,0,2013,3,"N","Coosa County, Alabama","State Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"923",75,0,2013,1,"N","Coosa County, Alabama","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",2,"923",75,0,2013,2,"N","Coosa County, Alabama","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",2,"923",75,0,2013,3,"N","Coosa County, Alabama","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",2,"9231",76,0,2013,1,"N","Coosa County, Alabama","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",2,"9231",76,0,2013,2,"N","Coosa County, Alabama","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",2,"9231",76,0,2013,3,"N","Coosa County, Alabama","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",2,"92312",77,0,2013,1,"N","Coosa County, Alabama","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"92312",77,0,2013,2,"N","Coosa County, Alabama","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"92312",77,0,2013,3,"N","Coosa County, Alabama","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"923120",78,0,2013,1,"N","Coosa County, Alabama","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"923120",78,0,2013,2,"N","Coosa County, Alabama","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"923120",78,0,2013,3,"N","Coosa County, Alabama","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"92313",77,0,2013,1,"N","Coosa County, Alabama","State Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"92313",77,0,2013,2,"N","Coosa County, Alabama","State Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"92313",77,0,2013,3,"N","Coosa County, Alabama","State Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"923130",78,0,2013,1,"N","Coosa County, Alabama","State Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"923130",78,0,2013,2,"N","Coosa County, Alabama","State Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"923130",78,0,2013,3,"N","Coosa County, Alabama","State Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",2,"924",75,0,2013,1,"","Coosa County, Alabama","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,7,65228,0,0,717
+"01037",2,"924",75,0,2013,2,"","Coosa County, Alabama","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,7,78192,0,0,859
+"01037",2,"924",75,0,2013,3,"","Coosa County, Alabama","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,8,8,87039,0,0,837
+"01037",2,"9241",76,0,2013,1,"","Coosa County, Alabama","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,7,7,65228,0,0,717
+"01037",2,"9241",76,0,2013,2,"","Coosa County, Alabama","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,7,7,78192,0,0,859
+"01037",2,"9241",76,0,2013,3,"","Coosa County, Alabama","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,8,8,87039,0,0,837
+"01037",2,"92412",77,0,2013,1,"","Coosa County, Alabama","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,7,7,65228,0,0,717
+"01037",2,"92412",77,0,2013,2,"","Coosa County, Alabama","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,7,7,78192,0,0,859
+"01037",2,"92412",77,0,2013,3,"","Coosa County, Alabama","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,8,8,8,87039,0,0,837
+"01037",2,"924120",78,0,2013,1,"","Coosa County, Alabama","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,7,7,65228,0,0,717
+"01037",2,"924120",78,0,2013,2,"","Coosa County, Alabama","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,7,7,78192,0,0,859
+"01037",2,"924120",78,0,2013,3,"","Coosa County, Alabama","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,8,8,8,87039,0,0,837
+"01037",3,"10",71,0,2013,1,"N","Coosa County, Alabama","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",17,0,0,0,0,0,0,0
+"01037",3,"10",71,0,2013,2,"N","Coosa County, Alabama","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",17,0,0,0,0,0,0,0
+"01037",3,"10",71,0,2013,3,"N","Coosa County, Alabama","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",16,0,0,0,0,0,0,0
+"01037",3,"102",72,0,2013,1,"N","Coosa County, Alabama","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",17,0,0,0,0,0,0,0
+"01037",3,"102",72,0,2013,2,"N","Coosa County, Alabama","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",17,0,0,0,0,0,0,0
+"01037",3,"102",72,0,2013,3,"N","Coosa County, Alabama","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",16,0,0,0,0,0,0,0
+"01037",3,"1021",73,0,2013,1,"","Coosa County, Alabama","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,46,46,47,282924,47740,520,470
+"01037",3,"1021",73,0,2013,2,"","Coosa County, Alabama","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,47,47,47,257225,11870,129,421
+"01037",3,"1021",73,0,2013,3,"N","Coosa County, Alabama","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",3,"1023",73,0,2013,1,"N","Coosa County, Alabama","Local Government","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"1023",73,0,2013,2,"N","Coosa County, Alabama","Local Government","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"1023",73,0,2013,3,"-","Coosa County, Alabama","Local Government","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"01037",3,"1025",73,0,2013,1,"","Coosa County, Alabama","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,160,160,158,1435215,0,0,693
+"01037",3,"1025",73,0,2013,2,"","Coosa County, Alabama","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,157,156,155,1423309,0,0,702
+"01037",3,"1025",73,0,2013,3,"","Coosa County, Alabama","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,133,139,146,1353681,0,0,747
+"01037",3,"1026",73,0,2013,1,"N","Coosa County, Alabama","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"1026",73,0,2013,2,"N","Coosa County, Alabama","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"1026",73,0,2013,3,"N","Coosa County, Alabama","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"1028",73,0,2013,1,"","Coosa County, Alabama","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,101,102,102,502627,7725,84,380
+"01037",3,"1028",73,0,2013,2,"","Coosa County, Alabama","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,109,108,110,564967,275,3,399
+"01037",3,"1028",73,0,2013,3,"","Coosa County, Alabama","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,112,112,112,508530,0,0,349
+"01037",3,"22",74,0,2013,1,"N","Coosa County, Alabama","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",3,"22",74,0,2013,2,"N","Coosa County, Alabama","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",3,"22",74,0,2013,3,"","Coosa County, Alabama","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",4,17,18,18,150802,3898,42,657
+"01037",3,"221",75,0,2013,1,"N","Coosa County, Alabama","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",3,"221",75,0,2013,2,"N","Coosa County, Alabama","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",3,"221",75,0,2013,3,"","Coosa County, Alabama","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,17,18,18,150802,3898,42,657
+"01037",3,"2213",76,0,2013,1,"N","Coosa County, Alabama","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",3,"2213",76,0,2013,2,"N","Coosa County, Alabama","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",3,"2213",76,0,2013,3,"","Coosa County, Alabama","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,17,18,18,150802,3898,42,657
+"01037",3,"22131",77,0,2013,1,"N","Coosa County, Alabama","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",3,"22131",77,0,2013,2,"N","Coosa County, Alabama","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",3,"22131",77,0,2013,3,"","Coosa County, Alabama","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,17,18,18,150802,3898,42,657
+"01037",3,"221310",78,0,2013,1,"N","Coosa County, Alabama","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",3,"221310",78,0,2013,2,"N","Coosa County, Alabama","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",3,"221310",78,0,2013,3,"","Coosa County, Alabama","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,17,18,18,150802,3898,42,657
+"01037",3,"48-49",74,0,2013,1,"N","Coosa County, Alabama","Local Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"48-49",74,0,2013,2,"N","Coosa County, Alabama","Local Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"48-49",74,0,2013,3,"N","Coosa County, Alabama","Local Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"485",75,0,2013,1,"N","Coosa County, Alabama","Local Government","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"485",75,0,2013,2,"N","Coosa County, Alabama","Local Government","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"485",75,0,2013,3,"N","Coosa County, Alabama","Local Government","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"4854",76,0,2013,1,"N","Coosa County, Alabama","Local Government","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"4854",76,0,2013,2,"N","Coosa County, Alabama","Local Government","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"4854",76,0,2013,3,"N","Coosa County, Alabama","Local Government","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"48541",77,0,2013,1,"N","Coosa County, Alabama","Local Government","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"48541",77,0,2013,2,"N","Coosa County, Alabama","Local Government","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"48541",77,0,2013,3,"N","Coosa County, Alabama","Local Government","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"485410",78,0,2013,1,"N","Coosa County, Alabama","Local Government","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"485410",78,0,2013,2,"N","Coosa County, Alabama","Local Government","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"485410",78,0,2013,3,"N","Coosa County, Alabama","Local Government","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"53",74,0,2013,1,"N","Coosa County, Alabama","Local Government","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"53",74,0,2013,2,"N","Coosa County, Alabama","Local Government","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"53",74,0,2013,3,"-","Coosa County, Alabama","Local Government","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"01037",3,"531",75,0,2013,1,"N","Coosa County, Alabama","Local Government","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"531",75,0,2013,2,"N","Coosa County, Alabama","Local Government","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"531",75,0,2013,3,"-","Coosa County, Alabama","Local Government","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"01037",3,"5313",76,0,2013,1,"N","Coosa County, Alabama","Local Government","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"5313",76,0,2013,2,"N","Coosa County, Alabama","Local Government","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"5313",76,0,2013,3,"-","Coosa County, Alabama","Local Government","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"01037",3,"53131",77,0,2013,1,"N","Coosa County, Alabama","Local Government","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"53131",77,0,2013,2,"N","Coosa County, Alabama","Local Government","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"53131",77,0,2013,3,"-","Coosa County, Alabama","Local Government","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"01037",3,"531311",78,0,2013,1,"N","Coosa County, Alabama","Local Government","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"531311",78,0,2013,2,"N","Coosa County, Alabama","Local Government","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"531311",78,0,2013,3,"-","Coosa County, Alabama","Local Government","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"01037",3,"61",74,0,2013,1,"","Coosa County, Alabama","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,160,160,158,1435215,0,0,693
+"01037",3,"61",74,0,2013,2,"","Coosa County, Alabama","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,157,156,155,1423309,0,0,702
+"01037",3,"61",74,0,2013,3,"","Coosa County, Alabama","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,133,139,146,1353681,0,0,747
+"01037",3,"611",75,0,2013,1,"","Coosa County, Alabama","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,160,160,158,1435215,0,0,693
+"01037",3,"611",75,0,2013,2,"","Coosa County, Alabama","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,157,156,155,1423309,0,0,702
+"01037",3,"611",75,0,2013,3,"","Coosa County, Alabama","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,133,139,146,1353681,0,0,747
+"01037",3,"6111",76,0,2013,1,"","Coosa County, Alabama","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,160,160,158,1435215,0,0,693
+"01037",3,"6111",76,0,2013,2,"","Coosa County, Alabama","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,157,156,155,1423309,0,0,702
+"01037",3,"6111",76,0,2013,3,"","Coosa County, Alabama","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,133,139,146,1353681,0,0,747
+"01037",3,"61111",77,0,2013,1,"","Coosa County, Alabama","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,160,160,158,1435215,0,0,693
+"01037",3,"61111",77,0,2013,2,"","Coosa County, Alabama","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,157,156,155,1423309,0,0,702
+"01037",3,"61111",77,0,2013,3,"","Coosa County, Alabama","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,133,139,146,1353681,0,0,747
+"01037",3,"611110",78,0,2013,1,"","Coosa County, Alabama","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,160,160,158,1435215,0,0,693
+"01037",3,"611110",78,0,2013,2,"","Coosa County, Alabama","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,157,156,155,1423309,0,0,702
+"01037",3,"611110",78,0,2013,3,"","Coosa County, Alabama","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,133,139,146,1353681,0,0,747
+"01037",3,"72",74,0,2013,1,"N","Coosa County, Alabama","Local Government","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"72",74,0,2013,2,"N","Coosa County, Alabama","Local Government","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"72",74,0,2013,3,"N","Coosa County, Alabama","Local Government","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"722",75,0,2013,1,"N","Coosa County, Alabama","Local Government","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"722",75,0,2013,2,"N","Coosa County, Alabama","Local Government","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"722",75,0,2013,3,"N","Coosa County, Alabama","Local Government","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"7225",76,0,2013,1,"N","Coosa County, Alabama","Local Government","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"7225",76,0,2013,2,"N","Coosa County, Alabama","Local Government","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"7225",76,0,2013,3,"N","Coosa County, Alabama","Local Government","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"72251",77,0,2013,1,"N","Coosa County, Alabama","Local Government","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"72251",77,0,2013,2,"N","Coosa County, Alabama","Local Government","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"72251",77,0,2013,3,"N","Coosa County, Alabama","Local Government","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"722514",78,0,2013,1,"N","Coosa County, Alabama","Local Government","Cafeterias, grill buffets, and buffets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"722514",78,0,2013,2,"N","Coosa County, Alabama","Local Government","Cafeterias, grill buffets, and buffets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"722514",78,0,2013,3,"N","Coosa County, Alabama","Local Government","Cafeterias, grill buffets, and buffets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",3,"92",74,0,2013,1,"","Coosa County, Alabama","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,101,102,102,502627,7725,84,380
+"01037",3,"92",74,0,2013,2,"","Coosa County, Alabama","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,109,108,110,564967,275,3,399
+"01037",3,"92",74,0,2013,3,"","Coosa County, Alabama","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,112,112,112,508530,0,0,349
+"01037",3,"921",75,0,2013,1,"N","Coosa County, Alabama","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",3,"921",75,0,2013,2,"N","Coosa County, Alabama","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",3,"921",75,0,2013,3,"N","Coosa County, Alabama","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",3,"9211",76,0,2013,1,"N","Coosa County, Alabama","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",3,"9211",76,0,2013,2,"N","Coosa County, Alabama","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",3,"9211",76,0,2013,3,"N","Coosa County, Alabama","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",3,"92114",77,0,2013,1,"N","Coosa County, Alabama","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",3,"92114",77,0,2013,2,"N","Coosa County, Alabama","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",3,"92114",77,0,2013,3,"N","Coosa County, Alabama","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",3,"921140",78,0,2013,1,"N","Coosa County, Alabama","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",3,"921140",78,0,2013,2,"N","Coosa County, Alabama","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",3,"921140",78,0,2013,3,"N","Coosa County, Alabama","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",3,"922",75,0,2013,1,"N","Coosa County, Alabama","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"922",75,0,2013,2,"N","Coosa County, Alabama","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"922",75,0,2013,3,"N","Coosa County, Alabama","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"9221",76,0,2013,1,"N","Coosa County, Alabama","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"9221",76,0,2013,2,"N","Coosa County, Alabama","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"9221",76,0,2013,3,"N","Coosa County, Alabama","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"92219",77,0,2013,1,"N","Coosa County, Alabama","Local Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"92219",77,0,2013,2,"N","Coosa County, Alabama","Local Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"92219",77,0,2013,3,"N","Coosa County, Alabama","Local Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"922190",78,0,2013,1,"N","Coosa County, Alabama","Local Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"922190",78,0,2013,2,"N","Coosa County, Alabama","Local Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",3,"922190",78,0,2013,3,"N","Coosa County, Alabama","Local Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"10",71,0,2013,1,"","Coosa County, Alabama","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",90,916,925,924,7853180,5659777,154200,655
+"01037",5,"10",71,0,2013,2,"","Coosa County, Alabama","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",90,933,832,828,7435512,1421038,44748,662
+"01037",5,"10",71,0,2013,3,"","Coosa County, Alabama","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",90,896,907,914,7616513,636758,19828,647
+"01037",5,"101",72,0,2013,1,"","Coosa County, Alabama","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",24,606,615,614,5639246,4188012,120645,709
+"01037",5,"101",72,0,2013,2,"","Coosa County, Alabama","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",23,620,522,519,5405271,901503,33364,751
+"01037",5,"101",72,0,2013,3,"","Coosa County, Alabama","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",23,590,595,599,5441592,368117,13363,704
+"01037",5,"1011",73,0,2013,1,"N","Coosa County, Alabama","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"01037",5,"1011",73,0,2013,2,"","Coosa County, Alabama","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",6,34,35,35,317750,29440,882,705
+"01037",5,"1011",73,0,2013,3,"","Coosa County, Alabama","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",6,35,37,35,330617,18550,598,713
+"01037",5,"1012",73,0,2013,1,"N","Coosa County, Alabama","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"01037",5,"1012",73,0,2013,2,"","Coosa County, Alabama","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",9,23,24,26,159626,60020,2074,505
+"01037",5,"1012",73,0,2013,3,"","Coosa County, Alabama","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",9,24,26,27,182417,45437,1547,547
+"01037",5,"1013",73,0,2013,1,"","Coosa County, Alabama","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",8,558,558,554,5182477,3838919,112355,716
+"01037",5,"1013",73,0,2013,2,"","Coosa County, Alabama","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",8,563,463,458,4927895,812043,30408,766
+"01037",5,"1013",73,0,2013,3,"","Coosa County, Alabama","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",8,531,532,537,4928558,304130,11218,711
+"01037",5,"102",72,0,2013,1,"","Coosa County, Alabama","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",66,310,310,310,2213934,1471765,33555,549
+"01037",5,"102",72,0,2013,2,"","Coosa County, Alabama","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",67,313,310,309,2030241,519535,11384,503
+"01037",5,"102",72,0,2013,3,"","Coosa County, Alabama","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",67,306,312,315,2174921,268641,6465,538
+"01037",5,"1021",73,0,2013,1,"","Coosa County, Alabama","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",30,122,121,120,807183,518763,10824,513
+"01037",5,"1021",73,0,2013,2,"","Coosa County, Alabama","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",30,122,122,119,817518,233439,5584,520
+"01037",5,"1021",73,0,2013,3,"","Coosa County, Alabama","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",30,121,122,125,762055,109132,3067,478
+"01037",5,"1022",73,0,2013,1,"N","Coosa County, Alabama","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"1022",73,0,2013,2,"N","Coosa County, Alabama","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"1022",73,0,2013,3,"N","Coosa County, Alabama","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"1023",73,0,2013,1,"","Coosa County, Alabama","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",9,8,8,10,87630,54955,722,778
+"01037",5,"1023",73,0,2013,2,"N","Coosa County, Alabama","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"01037",5,"1023",73,0,2013,3,"N","Coosa County, Alabama","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"01037",5,"1024",73,0,2013,1,"","Coosa County, Alabama","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,26,26,26,212036,174469,7844,627
+"01037",5,"1024",73,0,2013,2,"","Coosa County, Alabama","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,28,28,28,203390,53434,1529,559
+"01037",5,"1024",73,0,2013,3,"","Coosa County, Alabama","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,22,24,24,370123,46042,1390,1220
+"01037",5,"1025",73,0,2013,1,"","Coosa County, Alabama","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,110,111,110,578026,444196,7804,403
+"01037",5,"1025",73,0,2013,2,"","Coosa County, Alabama","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,109,107,106,517734,176540,3075,371
+"01037",5,"1025",73,0,2013,3,"","Coosa County, Alabama","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,111,114,114,569098,87547,1559,387
+"01037",5,"1026",73,0,2013,1,"N","Coosa County, Alabama","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",5,"1026",73,0,2013,2,"","Coosa County, Alabama","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",4,23,23,24,238093,14932,310,785
+"01037",5,"1026",73,0,2013,3,"","Coosa County, Alabama","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",4,24,24,24,212967,6834,111,683
+"01037",5,"1027",73,0,2013,1,"","Coosa County, Alabama","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",10,18,18,18,143545,101639,1866,613
+"01037",5,"1027",73,0,2013,2,"","Coosa County, Alabama","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",10,20,20,20,156119,25349,665,600
+"01037",5,"1027",73,0,2013,3,"","Coosa County, Alabama","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",10,17,18,16,152641,14953,274,691
+"01037",5,"11",74,0,2013,1,"N","Coosa County, Alabama","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"01037",5,"11",74,0,2013,2,"","Coosa County, Alabama","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",6,34,35,35,317750,29440,882,705
+"01037",5,"11",74,0,2013,3,"","Coosa County, Alabama","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",6,35,37,35,330617,18550,598,713
+"01037",5,"113",75,0,2013,1,"N","Coosa County, Alabama","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"01037",5,"113",75,0,2013,2,"","Coosa County, Alabama","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,34,35,35,317750,29440,882,705
+"01037",5,"113",75,0,2013,3,"","Coosa County, Alabama","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,35,37,35,330617,18550,598,713
+"01037",5,"1131",76,0,2013,1,"N","Coosa County, Alabama","Private","Timber tract operations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"1131",76,0,2013,2,"N","Coosa County, Alabama","Private","Timber tract operations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"1131",76,0,2013,3,"N","Coosa County, Alabama","Private","Timber tract operations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"11311",77,0,2013,1,"N","Coosa County, Alabama","Private","Timber tract operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"11311",77,0,2013,2,"N","Coosa County, Alabama","Private","Timber tract operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"11311",77,0,2013,3,"N","Coosa County, Alabama","Private","Timber tract operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"113110",78,0,2013,1,"N","Coosa County, Alabama","Private","Timber tract operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"113110",78,0,2013,2,"N","Coosa County, Alabama","Private","Timber tract operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"113110",78,0,2013,3,"N","Coosa County, Alabama","Private","Timber tract operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"1133",76,0,2013,1,"","Coosa County, Alabama","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,29,34,35,312737,237681,5711,736
+"01037",5,"1133",76,0,2013,2,"N","Coosa County, Alabama","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"1133",76,0,2013,3,"N","Coosa County, Alabama","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"11331",77,0,2013,1,"","Coosa County, Alabama","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,29,34,35,312737,237681,5711,736
+"01037",5,"11331",77,0,2013,2,"N","Coosa County, Alabama","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"11331",77,0,2013,3,"N","Coosa County, Alabama","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"113310",78,0,2013,1,"","Coosa County, Alabama","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,29,34,35,312737,237681,5711,736
+"01037",5,"113310",78,0,2013,2,"N","Coosa County, Alabama","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"113310",78,0,2013,3,"N","Coosa County, Alabama","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"22",74,0,2013,1,"N","Coosa County, Alabama","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"22",74,0,2013,2,"N","Coosa County, Alabama","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"22",74,0,2013,3,"N","Coosa County, Alabama","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"221",75,0,2013,1,"N","Coosa County, Alabama","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"221",75,0,2013,2,"N","Coosa County, Alabama","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"221",75,0,2013,3,"N","Coosa County, Alabama","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"2211",76,0,2013,1,"N","Coosa County, Alabama","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"2211",76,0,2013,2,"N","Coosa County, Alabama","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"2211",76,0,2013,3,"N","Coosa County, Alabama","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"22112",77,0,2013,1,"N","Coosa County, Alabama","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"22112",77,0,2013,2,"N","Coosa County, Alabama","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"22112",77,0,2013,3,"N","Coosa County, Alabama","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"221122",78,0,2013,1,"N","Coosa County, Alabama","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"221122",78,0,2013,2,"N","Coosa County, Alabama","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"221122",78,0,2013,3,"N","Coosa County, Alabama","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"23",74,0,2013,1,"N","Coosa County, Alabama","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"01037",5,"23",74,0,2013,2,"","Coosa County, Alabama","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",9,23,24,26,159626,60020,2074,505
+"01037",5,"23",74,0,2013,3,"","Coosa County, Alabama","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",9,24,26,27,182417,45437,1547,547
+"01037",5,"236",75,0,2013,1,"N","Coosa County, Alabama","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",5,"236",75,0,2013,2,"N","Coosa County, Alabama","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"236",75,0,2013,3,"N","Coosa County, Alabama","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"2361",76,0,2013,1,"N","Coosa County, Alabama","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",5,"2361",76,0,2013,2,"N","Coosa County, Alabama","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"2361",76,0,2013,3,"N","Coosa County, Alabama","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"23611",77,0,2013,1,"N","Coosa County, Alabama","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",5,"23611",77,0,2013,2,"N","Coosa County, Alabama","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"23611",77,0,2013,3,"N","Coosa County, Alabama","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"236115",78,0,2013,1,"N","Coosa County, Alabama","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"236115",78,0,2013,2,"N","Coosa County, Alabama","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"236115",78,0,2013,3,"N","Coosa County, Alabama","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"236118",78,0,2013,1,"N","Coosa County, Alabama","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"236118",78,0,2013,2,"N","Coosa County, Alabama","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"236118",78,0,2013,3,"N","Coosa County, Alabama","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"237",75,0,2013,1,"N","Coosa County, Alabama","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"237",75,0,2013,2,"N","Coosa County, Alabama","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"237",75,0,2013,3,"N","Coosa County, Alabama","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"2373",76,0,2013,1,"N","Coosa County, Alabama","Private","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"2373",76,0,2013,2,"N","Coosa County, Alabama","Private","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"2373",76,0,2013,3,"N","Coosa County, Alabama","Private","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"23731",77,0,2013,1,"N","Coosa County, Alabama","Private","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"23731",77,0,2013,2,"N","Coosa County, Alabama","Private","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"23731",77,0,2013,3,"N","Coosa County, Alabama","Private","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"237310",78,0,2013,1,"N","Coosa County, Alabama","Private","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"237310",78,0,2013,2,"N","Coosa County, Alabama","Private","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"237310",78,0,2013,3,"N","Coosa County, Alabama","Private","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"2379",76,0,2013,1,"N","Coosa County, Alabama","Private","Other heavy construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"2379",76,0,2013,2,"N","Coosa County, Alabama","Private","Other heavy construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"2379",76,0,2013,3,"N","Coosa County, Alabama","Private","Other heavy construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"23799",77,0,2013,1,"N","Coosa County, Alabama","Private","Other heavy construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"23799",77,0,2013,2,"N","Coosa County, Alabama","Private","Other heavy construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"23799",77,0,2013,3,"N","Coosa County, Alabama","Private","Other heavy construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"237990",78,0,2013,1,"N","Coosa County, Alabama","Private","Other heavy construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"237990",78,0,2013,2,"N","Coosa County, Alabama","Private","Other heavy construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"237990",78,0,2013,3,"N","Coosa County, Alabama","Private","Other heavy construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"238",75,0,2013,1,"","Coosa County, Alabama","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,4,5,5,22610,21510,816,373
+"01037",5,"238",75,0,2013,2,"","Coosa County, Alabama","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,5,5,5,25957,11385,623,399
+"01037",5,"238",75,0,2013,3,"","Coosa County, Alabama","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,5,5,6,27458,7819,374,396
+"01037",5,"2383",76,0,2013,1,"N","Coosa County, Alabama","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"2383",76,0,2013,2,"N","Coosa County, Alabama","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"2383",76,0,2013,3,"N","Coosa County, Alabama","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"23833",77,0,2013,1,"N","Coosa County, Alabama","Private","Flooring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"23833",77,0,2013,2,"N","Coosa County, Alabama","Private","Flooring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"23833",77,0,2013,3,"N","Coosa County, Alabama","Private","Flooring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"238331",78,0,2013,1,"N","Coosa County, Alabama","Private","Residential flooring contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"238331",78,0,2013,2,"N","Coosa County, Alabama","Private","Residential flooring contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"238331",78,0,2013,3,"N","Coosa County, Alabama","Private","Residential flooring contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"2389",76,0,2013,1,"N","Coosa County, Alabama","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"2389",76,0,2013,2,"N","Coosa County, Alabama","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"2389",76,0,2013,3,"N","Coosa County, Alabama","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"23891",77,0,2013,1,"N","Coosa County, Alabama","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"23891",77,0,2013,2,"N","Coosa County, Alabama","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"23891",77,0,2013,3,"N","Coosa County, Alabama","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"238911",78,0,2013,1,"N","Coosa County, Alabama","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"238911",78,0,2013,2,"N","Coosa County, Alabama","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"238911",78,0,2013,3,"N","Coosa County, Alabama","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"31-33",74,0,2013,1,"","Coosa County, Alabama","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",8,558,558,554,5182477,3838919,112355,716
+"01037",5,"31-33",74,0,2013,2,"","Coosa County, Alabama","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",8,563,463,458,4927895,812043,30408,766
+"01037",5,"31-33",74,0,2013,3,"","Coosa County, Alabama","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",8,531,532,537,4928558,304130,11218,711
+"01037",5,"321",75,0,2013,1,"N","Coosa County, Alabama","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"321",75,0,2013,2,"N","Coosa County, Alabama","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"321",75,0,2013,3,"N","Coosa County, Alabama","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3211",76,0,2013,1,"N","Coosa County, Alabama","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3211",76,0,2013,2,"N","Coosa County, Alabama","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3211",76,0,2013,3,"N","Coosa County, Alabama","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"32111",77,0,2013,1,"N","Coosa County, Alabama","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"32111",77,0,2013,2,"N","Coosa County, Alabama","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"32111",77,0,2013,3,"N","Coosa County, Alabama","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"321113",78,0,2013,1,"N","Coosa County, Alabama","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"321113",78,0,2013,2,"N","Coosa County, Alabama","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"321113",78,0,2013,3,"N","Coosa County, Alabama","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"332",75,0,2013,1,"","Coosa County, Alabama","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,12,12,12,119695,80006,872,767
+"01037",5,"332",75,0,2013,2,"","Coosa County, Alabama","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,12,12,13,182577,16714,182,1139
+"01037",5,"332",75,0,2013,3,"","Coosa County, Alabama","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,13,13,13,181036,2250,25,1071
+"01037",5,"3323",76,0,2013,1,"N","Coosa County, Alabama","Private","Architectural and structural metals mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3323",76,0,2013,2,"N","Coosa County, Alabama","Private","Architectural and structural metals mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3323",76,0,2013,3,"N","Coosa County, Alabama","Private","Architectural and structural metals mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33231",77,0,2013,1,"N","Coosa County, Alabama","Private","Plate work and fabricated structural products","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33231",77,0,2013,2,"N","Coosa County, Alabama","Private","Plate work and fabricated structural products","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33231",77,0,2013,3,"N","Coosa County, Alabama","Private","Plate work and fabricated structural products","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"332311",78,0,2013,1,"N","Coosa County, Alabama","Private","Prefabricated metal buildings and components","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"332311",78,0,2013,2,"N","Coosa County, Alabama","Private","Prefabricated metal buildings and components","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"332311",78,0,2013,3,"N","Coosa County, Alabama","Private","Prefabricated metal buildings and components","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3324",76,0,2013,1,"N","Coosa County, Alabama","Private","Boiler, tank, and shipping container mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3324",76,0,2013,2,"N","Coosa County, Alabama","Private","Boiler, tank, and shipping container mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3324",76,0,2013,3,"N","Coosa County, Alabama","Private","Boiler, tank, and shipping container mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33243",77,0,2013,1,"N","Coosa County, Alabama","Private","Metal can, box, and other container mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33243",77,0,2013,2,"N","Coosa County, Alabama","Private","Metal can, box, and other container mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33243",77,0,2013,3,"N","Coosa County, Alabama","Private","Metal can, box, and other container mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"332439",78,0,2013,1,"N","Coosa County, Alabama","Private","Other metal container manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"332439",78,0,2013,2,"N","Coosa County, Alabama","Private","Other metal container manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"332439",78,0,2013,3,"N","Coosa County, Alabama","Private","Other metal container manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3327",76,0,2013,1,"N","Coosa County, Alabama","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3327",76,0,2013,2,"N","Coosa County, Alabama","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3327",76,0,2013,3,"N","Coosa County, Alabama","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33271",77,0,2013,1,"N","Coosa County, Alabama","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33271",77,0,2013,2,"N","Coosa County, Alabama","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33271",77,0,2013,3,"N","Coosa County, Alabama","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"332710",78,0,2013,1,"N","Coosa County, Alabama","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"332710",78,0,2013,2,"N","Coosa County, Alabama","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"332710",78,0,2013,3,"N","Coosa County, Alabama","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"334",75,0,2013,1,"N","Coosa County, Alabama","Private","Computer and electronic product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"334",75,0,2013,2,"N","Coosa County, Alabama","Private","Computer and electronic product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"334",75,0,2013,3,"N","Coosa County, Alabama","Private","Computer and electronic product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3344",76,0,2013,1,"N","Coosa County, Alabama","Private","Semiconductor and electronic component mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3344",76,0,2013,2,"N","Coosa County, Alabama","Private","Semiconductor and electronic component mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3344",76,0,2013,3,"N","Coosa County, Alabama","Private","Semiconductor and electronic component mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33441",77,0,2013,1,"N","Coosa County, Alabama","Private","Semiconductor and electronic component mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33441",77,0,2013,2,"N","Coosa County, Alabama","Private","Semiconductor and electronic component mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33441",77,0,2013,3,"N","Coosa County, Alabama","Private","Semiconductor and electronic component mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"334412",78,0,2013,1,"N","Coosa County, Alabama","Private","Bare printed circuit board manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"334412",78,0,2013,2,"N","Coosa County, Alabama","Private","Bare printed circuit board manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"334412",78,0,2013,3,"N","Coosa County, Alabama","Private","Bare printed circuit board manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"335",75,0,2013,1,"N","Coosa County, Alabama","Private","Electrical equipment and appliance mfg.","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"335",75,0,2013,2,"N","Coosa County, Alabama","Private","Electrical equipment and appliance mfg.","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"335",75,0,2013,3,"N","Coosa County, Alabama","Private","Electrical equipment and appliance mfg.","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3353",76,0,2013,1,"N","Coosa County, Alabama","Private","Electrical equipment manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3353",76,0,2013,2,"N","Coosa County, Alabama","Private","Electrical equipment manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3353",76,0,2013,3,"N","Coosa County, Alabama","Private","Electrical equipment manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33531",77,0,2013,1,"N","Coosa County, Alabama","Private","Electrical equipment manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33531",77,0,2013,2,"N","Coosa County, Alabama","Private","Electrical equipment manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33531",77,0,2013,3,"N","Coosa County, Alabama","Private","Electrical equipment manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"335313",78,0,2013,1,"N","Coosa County, Alabama","Private","Switchgear and switchboard apparatus mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"335313",78,0,2013,2,"N","Coosa County, Alabama","Private","Switchgear and switchboard apparatus mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"335313",78,0,2013,3,"N","Coosa County, Alabama","Private","Switchgear and switchboard apparatus mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"336",75,0,2013,1,"N","Coosa County, Alabama","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"336",75,0,2013,2,"N","Coosa County, Alabama","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"336",75,0,2013,3,"N","Coosa County, Alabama","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3363",76,0,2013,1,"N","Coosa County, Alabama","Private","Motor vehicle parts manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3363",76,0,2013,2,"N","Coosa County, Alabama","Private","Motor vehicle parts manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3363",76,0,2013,3,"N","Coosa County, Alabama","Private","Motor vehicle parts manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33637",77,0,2013,1,"N","Coosa County, Alabama","Private","Motor vehicle metal stamping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33637",77,0,2013,2,"N","Coosa County, Alabama","Private","Motor vehicle metal stamping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33637",77,0,2013,3,"N","Coosa County, Alabama","Private","Motor vehicle metal stamping","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"336370",78,0,2013,1,"N","Coosa County, Alabama","Private","Motor vehicle metal stamping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"336370",78,0,2013,2,"N","Coosa County, Alabama","Private","Motor vehicle metal stamping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"336370",78,0,2013,3,"N","Coosa County, Alabama","Private","Motor vehicle metal stamping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"337",75,0,2013,1,"N","Coosa County, Alabama","Private","Furniture and related product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"337",75,0,2013,2,"N","Coosa County, Alabama","Private","Furniture and related product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"337",75,0,2013,3,"N","Coosa County, Alabama","Private","Furniture and related product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3372",76,0,2013,1,"N","Coosa County, Alabama","Private","Office furniture and fixtures manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3372",76,0,2013,2,"N","Coosa County, Alabama","Private","Office furniture and fixtures manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"3372",76,0,2013,3,"N","Coosa County, Alabama","Private","Office furniture and fixtures manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33721",77,0,2013,1,"N","Coosa County, Alabama","Private","Office furniture and fixtures manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33721",77,0,2013,2,"N","Coosa County, Alabama","Private","Office furniture and fixtures manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"33721",77,0,2013,3,"N","Coosa County, Alabama","Private","Office furniture and fixtures manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"337215",78,0,2013,1,"N","Coosa County, Alabama","Private","Showcases, partitions, shelving, and lockers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"337215",78,0,2013,2,"N","Coosa County, Alabama","Private","Showcases, partitions, shelving, and lockers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"337215",78,0,2013,3,"N","Coosa County, Alabama","Private","Showcases, partitions, shelving, and lockers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"42",74,0,2013,1,"","Coosa County, Alabama","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,19,18,18,102928,90045,4182,432
+"01037",5,"42",74,0,2013,2,"","Coosa County, Alabama","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,17,17,17,100337,37514,2041,454
+"01037",5,"42",74,0,2013,3,"","Coosa County, Alabama","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,17,18,18,104904,29509,1632,457
+"01037",5,"423",75,0,2013,1,"N","Coosa County, Alabama","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"423",75,0,2013,2,"N","Coosa County, Alabama","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"423",75,0,2013,3,"N","Coosa County, Alabama","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"4239",76,0,2013,1,"N","Coosa County, Alabama","Private","Misc. durable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"4239",76,0,2013,2,"N","Coosa County, Alabama","Private","Misc. durable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"4239",76,0,2013,3,"N","Coosa County, Alabama","Private","Misc. durable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"42393",77,0,2013,1,"N","Coosa County, Alabama","Private","Recyclable material merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"42393",77,0,2013,2,"N","Coosa County, Alabama","Private","Recyclable material merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"42393",77,0,2013,3,"N","Coosa County, Alabama","Private","Recyclable material merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"423930",78,0,2013,1,"N","Coosa County, Alabama","Private","Recyclable material merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"423930",78,0,2013,2,"N","Coosa County, Alabama","Private","Recyclable material merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"423930",78,0,2013,3,"N","Coosa County, Alabama","Private","Recyclable material merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"424",75,0,2013,1,"N","Coosa County, Alabama","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"424",75,0,2013,2,"N","Coosa County, Alabama","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"424",75,0,2013,3,"N","Coosa County, Alabama","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"4241",76,0,2013,1,"N","Coosa County, Alabama","Private","Paper and paper product merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"4241",76,0,2013,2,"N","Coosa County, Alabama","Private","Paper and paper product merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"4241",76,0,2013,3,"N","Coosa County, Alabama","Private","Paper and paper product merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"42413",77,0,2013,1,"N","Coosa County, Alabama","Private","Industrial paper merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"42413",77,0,2013,2,"N","Coosa County, Alabama","Private","Industrial paper merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"42413",77,0,2013,3,"N","Coosa County, Alabama","Private","Industrial paper merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"424130",78,0,2013,1,"N","Coosa County, Alabama","Private","Industrial paper merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"424130",78,0,2013,2,"N","Coosa County, Alabama","Private","Industrial paper merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"424130",78,0,2013,3,"N","Coosa County, Alabama","Private","Industrial paper merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"425",75,0,2013,1,"N","Coosa County, Alabama","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"425",75,0,2013,2,"N","Coosa County, Alabama","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"425",75,0,2013,3,"N","Coosa County, Alabama","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"4251",76,0,2013,1,"N","Coosa County, Alabama","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"4251",76,0,2013,2,"N","Coosa County, Alabama","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"4251",76,0,2013,3,"N","Coosa County, Alabama","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"42512",77,0,2013,1,"N","Coosa County, Alabama","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"42512",77,0,2013,2,"N","Coosa County, Alabama","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"42512",77,0,2013,3,"N","Coosa County, Alabama","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"425120",78,0,2013,1,"N","Coosa County, Alabama","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"425120",78,0,2013,2,"N","Coosa County, Alabama","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"425120",78,0,2013,3,"N","Coosa County, Alabama","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"44-45",74,0,2013,1,"N","Coosa County, Alabama","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",21,0,0,0,0,0,0,0
+"01037",5,"44-45",74,0,2013,2,"N","Coosa County, Alabama","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",21,0,0,0,0,0,0,0
+"01037",5,"44-45",74,0,2013,3,"N","Coosa County, Alabama","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",21,0,0,0,0,0,0,0
+"01037",5,"442",75,0,2013,1,"N","Coosa County, Alabama","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"442",75,0,2013,2,"N","Coosa County, Alabama","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"442",75,0,2013,3,"N","Coosa County, Alabama","Private","Furniture and home furnishings stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"4421",76,0,2013,1,"N","Coosa County, Alabama","Private","Furniture stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"4421",76,0,2013,2,"N","Coosa County, Alabama","Private","Furniture stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"4421",76,0,2013,3,"N","Coosa County, Alabama","Private","Furniture stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"44211",77,0,2013,1,"N","Coosa County, Alabama","Private","Furniture stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"44211",77,0,2013,2,"N","Coosa County, Alabama","Private","Furniture stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"44211",77,0,2013,3,"N","Coosa County, Alabama","Private","Furniture stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"442110",78,0,2013,1,"N","Coosa County, Alabama","Private","Furniture stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"442110",78,0,2013,2,"N","Coosa County, Alabama","Private","Furniture stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"442110",78,0,2013,3,"N","Coosa County, Alabama","Private","Furniture stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"444",75,0,2013,1,"N","Coosa County, Alabama","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"444",75,0,2013,2,"N","Coosa County, Alabama","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"444",75,0,2013,3,"N","Coosa County, Alabama","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"4441",76,0,2013,1,"N","Coosa County, Alabama","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"4441",76,0,2013,2,"N","Coosa County, Alabama","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"4441",76,0,2013,3,"N","Coosa County, Alabama","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"44419",77,0,2013,1,"N","Coosa County, Alabama","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"44419",77,0,2013,2,"N","Coosa County, Alabama","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"44419",77,0,2013,3,"N","Coosa County, Alabama","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"444190",78,0,2013,1,"N","Coosa County, Alabama","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"444190",78,0,2013,2,"N","Coosa County, Alabama","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"444190",78,0,2013,3,"N","Coosa County, Alabama","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"4442",76,0,2013,1,"N","Coosa County, Alabama","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"4442",76,0,2013,2,"N","Coosa County, Alabama","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"4442",76,0,2013,3,"N","Coosa County, Alabama","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"44421",77,0,2013,1,"N","Coosa County, Alabama","Private","Outdoor power equipment stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"44421",77,0,2013,2,"N","Coosa County, Alabama","Private","Outdoor power equipment stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"44421",77,0,2013,3,"N","Coosa County, Alabama","Private","Outdoor power equipment stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"444210",78,0,2013,1,"N","Coosa County, Alabama","Private","Outdoor power equipment stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"444210",78,0,2013,2,"N","Coosa County, Alabama","Private","Outdoor power equipment stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"444210",78,0,2013,3,"N","Coosa County, Alabama","Private","Outdoor power equipment stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"446",75,0,2013,1,"N","Coosa County, Alabama","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"446",75,0,2013,2,"N","Coosa County, Alabama","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"446",75,0,2013,3,"N","Coosa County, Alabama","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"4461",76,0,2013,1,"N","Coosa County, Alabama","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"4461",76,0,2013,2,"N","Coosa County, Alabama","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"4461",76,0,2013,3,"N","Coosa County, Alabama","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"44611",77,0,2013,1,"N","Coosa County, Alabama","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"44611",77,0,2013,2,"N","Coosa County, Alabama","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"44611",77,0,2013,3,"N","Coosa County, Alabama","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"446110",78,0,2013,1,"N","Coosa County, Alabama","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"446110",78,0,2013,2,"N","Coosa County, Alabama","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"446110",78,0,2013,3,"N","Coosa County, Alabama","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"447",75,0,2013,1,"","Coosa County, Alabama","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",13,55,54,53,197556,177261,3078,281
+"01037",5,"447",75,0,2013,2,"","Coosa County, Alabama","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",13,55,55,52,220586,125994,2443,314
+"01037",5,"447",75,0,2013,3,"","Coosa County, Alabama","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",13,51,52,55,214281,44338,864,313
+"01037",5,"4471",76,0,2013,1,"","Coosa County, Alabama","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",13,55,54,53,197556,177261,3078,281
+"01037",5,"4471",76,0,2013,2,"","Coosa County, Alabama","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",13,55,55,52,220586,125994,2443,314
+"01037",5,"4471",76,0,2013,3,"","Coosa County, Alabama","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",13,51,52,55,214281,44338,864,313
+"01037",5,"44711",77,0,2013,1,"N","Coosa County, Alabama","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"01037",5,"44711",77,0,2013,2,"N","Coosa County, Alabama","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"01037",5,"44711",77,0,2013,3,"N","Coosa County, Alabama","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"01037",5,"447110",78,0,2013,1,"N","Coosa County, Alabama","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"01037",5,"447110",78,0,2013,2,"N","Coosa County, Alabama","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"01037",5,"447110",78,0,2013,3,"N","Coosa County, Alabama","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"01037",5,"44719",77,0,2013,1,"N","Coosa County, Alabama","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"44719",77,0,2013,2,"N","Coosa County, Alabama","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"44719",77,0,2013,3,"N","Coosa County, Alabama","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"447190",78,0,2013,1,"N","Coosa County, Alabama","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"447190",78,0,2013,2,"N","Coosa County, Alabama","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"447190",78,0,2013,3,"N","Coosa County, Alabama","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"452",75,0,2013,1,"N","Coosa County, Alabama","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"452",75,0,2013,2,"N","Coosa County, Alabama","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"452",75,0,2013,3,"N","Coosa County, Alabama","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"4529",76,0,2013,1,"N","Coosa County, Alabama","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"4529",76,0,2013,2,"N","Coosa County, Alabama","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"4529",76,0,2013,3,"N","Coosa County, Alabama","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"45299",77,0,2013,1,"N","Coosa County, Alabama","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"45299",77,0,2013,2,"N","Coosa County, Alabama","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"45299",77,0,2013,3,"N","Coosa County, Alabama","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"452990",78,0,2013,1,"N","Coosa County, Alabama","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"452990",78,0,2013,2,"N","Coosa County, Alabama","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"452990",78,0,2013,3,"N","Coosa County, Alabama","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"48-49",74,0,2013,1,"N","Coosa County, Alabama","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"48-49",74,0,2013,2,"N","Coosa County, Alabama","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"48-49",74,0,2013,3,"N","Coosa County, Alabama","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"484",75,0,2013,1,"N","Coosa County, Alabama","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"484",75,0,2013,2,"N","Coosa County, Alabama","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"484",75,0,2013,3,"N","Coosa County, Alabama","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"4842",76,0,2013,1,"N","Coosa County, Alabama","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"4842",76,0,2013,2,"N","Coosa County, Alabama","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"4842",76,0,2013,3,"N","Coosa County, Alabama","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"48422",77,0,2013,1,"N","Coosa County, Alabama","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"48422",77,0,2013,2,"N","Coosa County, Alabama","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"48422",77,0,2013,3,"N","Coosa County, Alabama","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"484220",78,0,2013,1,"N","Coosa County, Alabama","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"484220",78,0,2013,2,"N","Coosa County, Alabama","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"484220",78,0,2013,3,"N","Coosa County, Alabama","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"48423",77,0,2013,1,"N","Coosa County, Alabama","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"48423",77,0,2013,2,"N","Coosa County, Alabama","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"48423",77,0,2013,3,"N","Coosa County, Alabama","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"484230",78,0,2013,1,"N","Coosa County, Alabama","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"484230",78,0,2013,2,"N","Coosa County, Alabama","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"484230",78,0,2013,3,"N","Coosa County, Alabama","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"51",74,0,2013,1,"N","Coosa County, Alabama","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"51",74,0,2013,2,"N","Coosa County, Alabama","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"51",74,0,2013,3,"N","Coosa County, Alabama","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"511",75,0,2013,1,"N","Coosa County, Alabama","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"511",75,0,2013,2,"N","Coosa County, Alabama","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"511",75,0,2013,3,"N","Coosa County, Alabama","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"5111",76,0,2013,1,"N","Coosa County, Alabama","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"5111",76,0,2013,2,"N","Coosa County, Alabama","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"5111",76,0,2013,3,"N","Coosa County, Alabama","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"51111",77,0,2013,1,"N","Coosa County, Alabama","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"51111",77,0,2013,2,"N","Coosa County, Alabama","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"51111",77,0,2013,3,"N","Coosa County, Alabama","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"511110",78,0,2013,1,"N","Coosa County, Alabama","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"511110",78,0,2013,2,"N","Coosa County, Alabama","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"511110",78,0,2013,3,"N","Coosa County, Alabama","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"517",75,0,2013,1,"-","Coosa County, Alabama","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"01037",5,"517",75,0,2013,2,"N","Coosa County, Alabama","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"517",75,0,2013,3,"N","Coosa County, Alabama","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"5171",76,0,2013,1,"-","Coosa County, Alabama","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"01037",5,"5171",76,0,2013,2,"N","Coosa County, Alabama","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"5171",76,0,2013,3,"N","Coosa County, Alabama","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"51711",77,0,2013,1,"-","Coosa County, Alabama","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"01037",5,"51711",77,0,2013,2,"N","Coosa County, Alabama","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"51711",77,0,2013,3,"N","Coosa County, Alabama","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"517110",78,0,2013,1,"-","Coosa County, Alabama","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"01037",5,"517110",78,0,2013,2,"N","Coosa County, Alabama","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"517110",78,0,2013,3,"N","Coosa County, Alabama","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"52",74,0,2013,1,"N","Coosa County, Alabama","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",5,"52",74,0,2013,2,"","Coosa County, Alabama","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,6,6,6,70360,8116,90,902
+"01037",5,"52",74,0,2013,3,"","Coosa County, Alabama","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,6,6,6,80929,2103,23,1038
+"01037",5,"522",75,0,2013,1,"N","Coosa County, Alabama","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"522",75,0,2013,2,"N","Coosa County, Alabama","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"522",75,0,2013,3,"N","Coosa County, Alabama","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"5221",76,0,2013,1,"N","Coosa County, Alabama","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"5221",76,0,2013,2,"N","Coosa County, Alabama","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"5221",76,0,2013,3,"N","Coosa County, Alabama","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"52211",77,0,2013,1,"N","Coosa County, Alabama","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"52211",77,0,2013,2,"N","Coosa County, Alabama","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"52211",77,0,2013,3,"N","Coosa County, Alabama","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"522110",78,0,2013,1,"N","Coosa County, Alabama","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"522110",78,0,2013,2,"N","Coosa County, Alabama","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"522110",78,0,2013,3,"N","Coosa County, Alabama","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"52213",77,0,2013,1,"N","Coosa County, Alabama","Private","Credit unions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"52213",77,0,2013,2,"N","Coosa County, Alabama","Private","Credit unions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"52213",77,0,2013,3,"N","Coosa County, Alabama","Private","Credit unions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"522130",78,0,2013,1,"N","Coosa County, Alabama","Private","Credit unions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"522130",78,0,2013,2,"N","Coosa County, Alabama","Private","Credit unions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"522130",78,0,2013,3,"N","Coosa County, Alabama","Private","Credit unions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"524",75,0,2013,1,"N","Coosa County, Alabama","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"524",75,0,2013,2,"N","Coosa County, Alabama","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"524",75,0,2013,3,"N","Coosa County, Alabama","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"5242",76,0,2013,1,"N","Coosa County, Alabama","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"5242",76,0,2013,2,"N","Coosa County, Alabama","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"5242",76,0,2013,3,"N","Coosa County, Alabama","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"52421",77,0,2013,1,"N","Coosa County, Alabama","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"52421",77,0,2013,2,"N","Coosa County, Alabama","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"52421",77,0,2013,3,"N","Coosa County, Alabama","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"524210",78,0,2013,1,"N","Coosa County, Alabama","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"524210",78,0,2013,2,"N","Coosa County, Alabama","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"524210",78,0,2013,3,"N","Coosa County, Alabama","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"53",74,0,2013,1,"N","Coosa County, Alabama","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"53",74,0,2013,2,"N","Coosa County, Alabama","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"53",74,0,2013,3,"N","Coosa County, Alabama","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"531",75,0,2013,1,"N","Coosa County, Alabama","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"531",75,0,2013,2,"N","Coosa County, Alabama","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"531",75,0,2013,3,"N","Coosa County, Alabama","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"5311",76,0,2013,1,"N","Coosa County, Alabama","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",5,"5311",76,0,2013,2,"N","Coosa County, Alabama","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",5,"5311",76,0,2013,3,"N","Coosa County, Alabama","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",5,"53111",77,0,2013,1,"N","Coosa County, Alabama","Private","Lessors of residential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",5,"53111",77,0,2013,2,"N","Coosa County, Alabama","Private","Lessors of residential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",5,"53111",77,0,2013,3,"N","Coosa County, Alabama","Private","Lessors of residential buildings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",5,"531110",78,0,2013,1,"N","Coosa County, Alabama","Private","Lessors of residential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",5,"531110",78,0,2013,2,"N","Coosa County, Alabama","Private","Lessors of residential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",5,"531110",78,0,2013,3,"N","Coosa County, Alabama","Private","Lessors of residential buildings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"01037",5,"5312",76,0,2013,1,"N","Coosa County, Alabama","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"5312",76,0,2013,2,"N","Coosa County, Alabama","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"5312",76,0,2013,3,"N","Coosa County, Alabama","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"53121",77,0,2013,1,"N","Coosa County, Alabama","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"53121",77,0,2013,2,"N","Coosa County, Alabama","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"53121",77,0,2013,3,"N","Coosa County, Alabama","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"531210",78,0,2013,1,"N","Coosa County, Alabama","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"531210",78,0,2013,2,"N","Coosa County, Alabama","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"531210",78,0,2013,3,"N","Coosa County, Alabama","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"54",74,0,2013,1,"N","Coosa County, Alabama","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"54",74,0,2013,2,"N","Coosa County, Alabama","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"54",74,0,2013,3,"N","Coosa County, Alabama","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"541",75,0,2013,1,"N","Coosa County, Alabama","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"541",75,0,2013,2,"N","Coosa County, Alabama","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"541",75,0,2013,3,"N","Coosa County, Alabama","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"01037",5,"5411",76,0,2013,1,"N","Coosa County, Alabama","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"5411",76,0,2013,2,"N","Coosa County, Alabama","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"5411",76,0,2013,3,"N","Coosa County, Alabama","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"54111",77,0,2013,1,"N","Coosa County, Alabama","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"54111",77,0,2013,2,"N","Coosa County, Alabama","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"54111",77,0,2013,3,"N","Coosa County, Alabama","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"541110",78,0,2013,1,"N","Coosa County, Alabama","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"541110",78,0,2013,2,"N","Coosa County, Alabama","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"541110",78,0,2013,3,"N","Coosa County, Alabama","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"5413",76,0,2013,1,"N","Coosa County, Alabama","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"5413",76,0,2013,2,"N","Coosa County, Alabama","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"5413",76,0,2013,3,"N","Coosa County, Alabama","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"54137",77,0,2013,1,"N","Coosa County, Alabama","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"54137",77,0,2013,2,"N","Coosa County, Alabama","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"54137",77,0,2013,3,"N","Coosa County, Alabama","Private","Other surveying and mapping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"541370",78,0,2013,1,"N","Coosa County, Alabama","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"541370",78,0,2013,2,"N","Coosa County, Alabama","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"541370",78,0,2013,3,"N","Coosa County, Alabama","Private","Other surveying and mapping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"54138",77,0,2013,1,"N","Coosa County, Alabama","Private","Testing laboratories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"54138",77,0,2013,2,"N","Coosa County, Alabama","Private","Testing laboratories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"54138",77,0,2013,3,"N","Coosa County, Alabama","Private","Testing laboratories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"541380",78,0,2013,1,"N","Coosa County, Alabama","Private","Testing laboratories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"541380",78,0,2013,2,"N","Coosa County, Alabama","Private","Testing laboratories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"541380",78,0,2013,3,"N","Coosa County, Alabama","Private","Testing laboratories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"5417",76,0,2013,1,"N","Coosa County, Alabama","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"5417",76,0,2013,2,"N","Coosa County, Alabama","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"5417",76,0,2013,3,"N","Coosa County, Alabama","Private","Scientific research and development services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"54171",77,0,2013,1,"N","Coosa County, Alabama","Private","Physical, engineering and biological research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"54171",77,0,2013,2,"N","Coosa County, Alabama","Private","Physical, engineering and biological research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"54171",77,0,2013,3,"N","Coosa County, Alabama","Private","Physical, engineering and biological research","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"541712",78,0,2013,1,"N","Coosa County, Alabama","Private","Other physical and biological research","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"541712",78,0,2013,2,"N","Coosa County, Alabama","Private","Other physical and biological research","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"541712",78,0,2013,3,"N","Coosa County, Alabama","Private","Other physical and biological research","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"55",74,0,2013,1,"N","Coosa County, Alabama","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"55",74,0,2013,2,"N","Coosa County, Alabama","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"55",74,0,2013,3,"N","Coosa County, Alabama","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"551",75,0,2013,1,"N","Coosa County, Alabama","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"551",75,0,2013,2,"N","Coosa County, Alabama","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"551",75,0,2013,3,"N","Coosa County, Alabama","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"5511",76,0,2013,1,"N","Coosa County, Alabama","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"5511",76,0,2013,2,"N","Coosa County, Alabama","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"5511",76,0,2013,3,"N","Coosa County, Alabama","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"55111",77,0,2013,1,"N","Coosa County, Alabama","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"55111",77,0,2013,2,"N","Coosa County, Alabama","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"55111",77,0,2013,3,"N","Coosa County, Alabama","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"551114",78,0,2013,1,"N","Coosa County, Alabama","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"551114",78,0,2013,2,"N","Coosa County, Alabama","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"551114",78,0,2013,3,"N","Coosa County, Alabama","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"62",74,0,2013,1,"","Coosa County, Alabama","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,110,111,110,578026,444196,7804,403
+"01037",5,"62",74,0,2013,2,"","Coosa County, Alabama","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,109,107,106,517734,176540,3075,371
+"01037",5,"62",74,0,2013,3,"","Coosa County, Alabama","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,111,114,114,569098,87547,1559,387
+"01037",5,"621",75,0,2013,1,"N","Coosa County, Alabama","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"621",75,0,2013,2,"N","Coosa County, Alabama","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"621",75,0,2013,3,"N","Coosa County, Alabama","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"6212",76,0,2013,1,"N","Coosa County, Alabama","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"6212",76,0,2013,2,"N","Coosa County, Alabama","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"6212",76,0,2013,3,"N","Coosa County, Alabama","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"62121",77,0,2013,1,"N","Coosa County, Alabama","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"62121",77,0,2013,2,"N","Coosa County, Alabama","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"62121",77,0,2013,3,"N","Coosa County, Alabama","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"621210",78,0,2013,1,"N","Coosa County, Alabama","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"621210",78,0,2013,2,"N","Coosa County, Alabama","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"621210",78,0,2013,3,"N","Coosa County, Alabama","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"623",75,0,2013,1,"N","Coosa County, Alabama","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"623",75,0,2013,2,"N","Coosa County, Alabama","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"623",75,0,2013,3,"N","Coosa County, Alabama","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"6231",76,0,2013,1,"N","Coosa County, Alabama","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"6231",76,0,2013,2,"N","Coosa County, Alabama","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"6231",76,0,2013,3,"N","Coosa County, Alabama","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"62311",77,0,2013,1,"N","Coosa County, Alabama","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"62311",77,0,2013,2,"N","Coosa County, Alabama","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"62311",77,0,2013,3,"N","Coosa County, Alabama","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"623110",78,0,2013,1,"N","Coosa County, Alabama","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"623110",78,0,2013,2,"N","Coosa County, Alabama","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"623110",78,0,2013,3,"N","Coosa County, Alabama","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"6232",76,0,2013,1,"N","Coosa County, Alabama","Private","Residential mental health facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"6232",76,0,2013,2,"N","Coosa County, Alabama","Private","Residential mental health facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"6232",76,0,2013,3,"N","Coosa County, Alabama","Private","Residential mental health facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"62322",77,0,2013,1,"N","Coosa County, Alabama","Private","Residential mental and substance abuse care","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"62322",77,0,2013,2,"N","Coosa County, Alabama","Private","Residential mental and substance abuse care","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"62322",77,0,2013,3,"N","Coosa County, Alabama","Private","Residential mental and substance abuse care","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"623220",78,0,2013,1,"N","Coosa County, Alabama","Private","Residential mental and substance abuse care","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"623220",78,0,2013,2,"N","Coosa County, Alabama","Private","Residential mental and substance abuse care","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"623220",78,0,2013,3,"N","Coosa County, Alabama","Private","Residential mental and substance abuse care","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"624",75,0,2013,1,"N","Coosa County, Alabama","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"624",75,0,2013,2,"N","Coosa County, Alabama","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"624",75,0,2013,3,"N","Coosa County, Alabama","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"6244",76,0,2013,1,"N","Coosa County, Alabama","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"6244",76,0,2013,2,"N","Coosa County, Alabama","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"6244",76,0,2013,3,"N","Coosa County, Alabama","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"62441",77,0,2013,1,"N","Coosa County, Alabama","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"62441",77,0,2013,2,"N","Coosa County, Alabama","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"62441",77,0,2013,3,"N","Coosa County, Alabama","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"624410",78,0,2013,1,"N","Coosa County, Alabama","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"624410",78,0,2013,2,"N","Coosa County, Alabama","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"624410",78,0,2013,3,"N","Coosa County, Alabama","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"71",74,0,2013,1,"N","Coosa County, Alabama","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"71",74,0,2013,2,"N","Coosa County, Alabama","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"71",74,0,2013,3,"N","Coosa County, Alabama","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"713",75,0,2013,1,"N","Coosa County, Alabama","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"713",75,0,2013,2,"N","Coosa County, Alabama","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"713",75,0,2013,3,"N","Coosa County, Alabama","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"7139",76,0,2013,1,"N","Coosa County, Alabama","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"7139",76,0,2013,2,"N","Coosa County, Alabama","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"7139",76,0,2013,3,"N","Coosa County, Alabama","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"71399",77,0,2013,1,"N","Coosa County, Alabama","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"71399",77,0,2013,2,"N","Coosa County, Alabama","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"71399",77,0,2013,3,"N","Coosa County, Alabama","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"713990",78,0,2013,1,"N","Coosa County, Alabama","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"713990",78,0,2013,2,"N","Coosa County, Alabama","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"713990",78,0,2013,3,"N","Coosa County, Alabama","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"72",74,0,2013,1,"","Coosa County, Alabama","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,4,4,4,4906,4906,77,94
+"01037",5,"72",74,0,2013,2,"N","Coosa County, Alabama","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"72",74,0,2013,3,"N","Coosa County, Alabama","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"722",75,0,2013,1,"","Coosa County, Alabama","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,4,4,4,4906,4906,77,94
+"01037",5,"722",75,0,2013,2,"N","Coosa County, Alabama","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"722",75,0,2013,3,"N","Coosa County, Alabama","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"7224",76,0,2013,1,"N","Coosa County, Alabama","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"7224",76,0,2013,2,"N","Coosa County, Alabama","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"7224",76,0,2013,3,"N","Coosa County, Alabama","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"72241",77,0,2013,1,"N","Coosa County, Alabama","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"72241",77,0,2013,2,"N","Coosa County, Alabama","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"72241",77,0,2013,3,"N","Coosa County, Alabama","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"722410",78,0,2013,1,"N","Coosa County, Alabama","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"722410",78,0,2013,2,"N","Coosa County, Alabama","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"722410",78,0,2013,3,"N","Coosa County, Alabama","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"7225",76,0,2013,1,"N","Coosa County, Alabama","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"7225",76,0,2013,2,"N","Coosa County, Alabama","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"7225",76,0,2013,3,"N","Coosa County, Alabama","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"72251",77,0,2013,1,"N","Coosa County, Alabama","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"72251",77,0,2013,2,"N","Coosa County, Alabama","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"72251",77,0,2013,3,"N","Coosa County, Alabama","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"01037",5,"722511",78,0,2013,1,"N","Coosa County, Alabama","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"722511",78,0,2013,2,"N","Coosa County, Alabama","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"722511",78,0,2013,3,"N","Coosa County, Alabama","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"722513",78,0,2013,1,"N","Coosa County, Alabama","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"722513",78,0,2013,2,"N","Coosa County, Alabama","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"722513",78,0,2013,3,"N","Coosa County, Alabama","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"81",74,0,2013,1,"","Coosa County, Alabama","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,18,18,18,143545,101639,1866,613
+"01037",5,"81",74,0,2013,2,"","Coosa County, Alabama","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,20,20,20,156119,25349,665,600
+"01037",5,"81",74,0,2013,3,"","Coosa County, Alabama","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,17,18,16,152641,14953,274,691
+"01037",5,"811",75,0,2013,1,"","Coosa County, Alabama","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,10,10,10,75988,58496,1396,585
+"01037",5,"811",75,0,2013,2,"","Coosa County, Alabama","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,10,10,10,82570,14932,550,635
+"01037",5,"811",75,0,2013,3,"","Coosa County, Alabama","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,9,10,8,77894,4594,162,666
+"01037",5,"8111",76,0,2013,1,"","Coosa County, Alabama","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,6,6,34268,32536,438,439
+"01037",5,"8111",76,0,2013,2,"","Coosa County, Alabama","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,6,6,34738,8360,136,445
+"01037",5,"8111",76,0,2013,3,"N","Coosa County, Alabama","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"81111",77,0,2013,1,"","Coosa County, Alabama","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,6,6,6,34268,32536,438,439
+"01037",5,"81111",77,0,2013,2,"","Coosa County, Alabama","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,6,6,6,34738,8360,136,445
+"01037",5,"81111",77,0,2013,3,"N","Coosa County, Alabama","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"811111",78,0,2013,1,"","Coosa County, Alabama","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,6,6,34268,32536,438,439
+"01037",5,"811111",78,0,2013,2,"","Coosa County, Alabama","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,6,6,34738,8360,136,445
+"01037",5,"811111",78,0,2013,3,"N","Coosa County, Alabama","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"01037",5,"8112",76,0,2013,1,"N","Coosa County, Alabama","Private","Electronic equipment repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"8112",76,0,2013,2,"N","Coosa County, Alabama","Private","Electronic equipment repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"8112",76,0,2013,3,"N","Coosa County, Alabama","Private","Electronic equipment repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"81121",77,0,2013,1,"N","Coosa County, Alabama","Private","Electronic equipment repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"81121",77,0,2013,2,"N","Coosa County, Alabama","Private","Electronic equipment repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"81121",77,0,2013,3,"N","Coosa County, Alabama","Private","Electronic equipment repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"811219",78,0,2013,1,"N","Coosa County, Alabama","Private","Other electronic equipment repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"811219",78,0,2013,2,"N","Coosa County, Alabama","Private","Other electronic equipment repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"811219",78,0,2013,3,"N","Coosa County, Alabama","Private","Other electronic equipment repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"8113",76,0,2013,1,"N","Coosa County, Alabama","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"8113",76,0,2013,2,"N","Coosa County, Alabama","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"8113",76,0,2013,3,"N","Coosa County, Alabama","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"81131",77,0,2013,1,"N","Coosa County, Alabama","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"81131",77,0,2013,2,"N","Coosa County, Alabama","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"81131",77,0,2013,3,"N","Coosa County, Alabama","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"811310",78,0,2013,1,"N","Coosa County, Alabama","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"811310",78,0,2013,2,"N","Coosa County, Alabama","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"811310",78,0,2013,3,"N","Coosa County, Alabama","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"812",75,0,2013,1,"N","Coosa County, Alabama","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"812",75,0,2013,2,"N","Coosa County, Alabama","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"812",75,0,2013,3,"N","Coosa County, Alabama","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"8129",76,0,2013,1,"N","Coosa County, Alabama","Private","Other personal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"8129",76,0,2013,2,"N","Coosa County, Alabama","Private","Other personal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"8129",76,0,2013,3,"N","Coosa County, Alabama","Private","Other personal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"81291",77,0,2013,1,"N","Coosa County, Alabama","Private","Pet care, except veterinary, services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"81291",77,0,2013,2,"N","Coosa County, Alabama","Private","Pet care, except veterinary, services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"81291",77,0,2013,3,"N","Coosa County, Alabama","Private","Pet care, except veterinary, services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"812910",78,0,2013,1,"N","Coosa County, Alabama","Private","Pet care, except veterinary, services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"812910",78,0,2013,2,"N","Coosa County, Alabama","Private","Pet care, except veterinary, services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"812910",78,0,2013,3,"N","Coosa County, Alabama","Private","Pet care, except veterinary, services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"813",75,0,2013,1,"N","Coosa County, Alabama","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"813",75,0,2013,2,"N","Coosa County, Alabama","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"813",75,0,2013,3,"N","Coosa County, Alabama","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"8139",76,0,2013,1,"N","Coosa County, Alabama","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"8139",76,0,2013,2,"N","Coosa County, Alabama","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"8139",76,0,2013,3,"N","Coosa County, Alabama","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"81399",77,0,2013,1,"N","Coosa County, Alabama","Private","Other similar organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"81399",77,0,2013,2,"N","Coosa County, Alabama","Private","Other similar organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"81399",77,0,2013,3,"N","Coosa County, Alabama","Private","Other similar organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"813990",78,0,2013,1,"N","Coosa County, Alabama","Private","Other similar organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"813990",78,0,2013,2,"N","Coosa County, Alabama","Private","Other similar organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"813990",78,0,2013,3,"N","Coosa County, Alabama","Private","Other similar organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"01037",5,"814",75,0,2013,1,"","Coosa County, Alabama","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,5,5,46996,30304,330,723
+"01037",5,"814",75,0,2013,2,"","Coosa County, Alabama","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,5,5,52642,5232,58,810
+"01037",5,"814",75,0,2013,3,"","Coosa County, Alabama","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,5,5,5,50820,2154,23,782
+"01037",5,"8141",76,0,2013,1,"","Coosa County, Alabama","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,5,5,5,46996,30304,330,723
+"01037",5,"8141",76,0,2013,2,"","Coosa County, Alabama","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,5,5,5,52642,5232,58,810
+"01037",5,"8141",76,0,2013,3,"","Coosa County, Alabama","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,5,5,5,50820,2154,23,782
+"01037",5,"81411",77,0,2013,1,"","Coosa County, Alabama","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,5,5,5,46996,30304,330,723
+"01037",5,"81411",77,0,2013,2,"","Coosa County, Alabama","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,5,5,5,52642,5232,58,810
+"01037",5,"81411",77,0,2013,3,"","Coosa County, Alabama","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,5,5,5,50820,2154,23,782
+"01037",5,"814110",78,0,2013,1,"","Coosa County, Alabama","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,5,5,5,46996,30304,330,723
+"01037",5,"814110",78,0,2013,2,"","Coosa County, Alabama","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,5,5,5,52642,5232,58,810
+"01037",5,"814110",78,0,2013,3,"","Coosa County, Alabama","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,5,5,5,50820,2154,23,782
+

@@ -1,0 +1,4 @@
+);
+$rand = rand( 0, count($quotes)-1 );
+echo $quotes[$rand];
+?>

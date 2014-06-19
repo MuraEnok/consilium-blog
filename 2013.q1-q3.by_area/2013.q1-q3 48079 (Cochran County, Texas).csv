@@ -1,0 +1,869 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"48079",0,"10",70,0,2013,1,"","Cochran County, Texas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",124,732,719,727,6356186,2449747,51127,673
+"48079",0,"10",70,0,2013,2,"","Cochran County, Texas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",126,734,746,752,6663298,821724,14188,689
+"48079",0,"10",70,0,2013,3,"","Cochran County, Texas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",125,762,748,727,6645326,524377,10177,686
+"48079",1,"10",71,0,2013,1,"","Cochran County, Texas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,12,12,14,129293,0,0,785
+"48079",1,"10",71,0,2013,2,"","Cochran County, Texas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,12,12,11,120173,0,0,792
+"48079",1,"10",71,0,2013,3,"","Cochran County, Texas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,11,9,9,99714,0,0,793
+"48079",1,"102",72,0,2013,1,"","Cochran County, Texas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,12,12,14,129293,0,0,785
+"48079",1,"102",72,0,2013,2,"","Cochran County, Texas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,12,12,11,120173,0,0,792
+"48079",1,"102",72,0,2013,3,"","Cochran County, Texas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,11,9,9,99714,0,0,793
+"48079",1,"1021",73,0,2013,1,"","Cochran County, Texas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,7,7,6,63593,0,0,734
+"48079",1,"1021",73,0,2013,2,"","Cochran County, Texas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,7,7,6,43195,0,0,498
+"48079",1,"1021",73,0,2013,3,"","Cochran County, Texas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,6,5,5,32193,0,0,464
+"48079",1,"1028",73,0,2013,1,"","Cochran County, Texas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,5,5,8,65700,0,0,842
+"48079",1,"1028",73,0,2013,2,"","Cochran County, Texas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,5,5,5,76978,0,0,1184
+"48079",1,"1028",73,0,2013,3,"","Cochran County, Texas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,5,4,4,67521,0,0,1199
+"48079",1,"48-49",74,0,2013,1,"","Cochran County, Texas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,7,6,63593,0,0,734
+"48079",1,"48-49",74,0,2013,2,"","Cochran County, Texas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,7,6,43195,0,0,498
+"48079",1,"48-49",74,0,2013,3,"","Cochran County, Texas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,5,5,32193,0,0,464
+"48079",1,"491",75,0,2013,1,"","Cochran County, Texas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,6,63593,0,0,734
+"48079",1,"491",75,0,2013,2,"","Cochran County, Texas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,6,43195,0,0,498
+"48079",1,"491",75,0,2013,3,"","Cochran County, Texas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,5,5,32193,0,0,464
+"48079",1,"4911",76,0,2013,1,"","Cochran County, Texas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,7,6,63593,0,0,734
+"48079",1,"4911",76,0,2013,2,"","Cochran County, Texas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,7,6,43195,0,0,498
+"48079",1,"4911",76,0,2013,3,"","Cochran County, Texas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,5,5,32193,0,0,464
+"48079",1,"49111",77,0,2013,1,"","Cochran County, Texas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,7,6,63593,0,0,734
+"48079",1,"49111",77,0,2013,2,"","Cochran County, Texas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,7,6,43195,0,0,498
+"48079",1,"49111",77,0,2013,3,"","Cochran County, Texas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,6,5,5,32193,0,0,464
+"48079",1,"491110",78,0,2013,1,"","Cochran County, Texas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,7,6,63593,0,0,734
+"48079",1,"491110",78,0,2013,2,"","Cochran County, Texas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,7,6,43195,0,0,498
+"48079",1,"491110",78,0,2013,3,"","Cochran County, Texas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,5,5,32193,0,0,464
+"48079",1,"92",74,0,2013,1,"","Cochran County, Texas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,5,5,8,65700,0,0,842
+"48079",1,"92",74,0,2013,2,"","Cochran County, Texas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,5,5,5,76978,0,0,1184
+"48079",1,"92",74,0,2013,3,"","Cochran County, Texas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,5,4,4,67521,0,0,1199
+"48079",1,"924",75,0,2013,1,"","Cochran County, Texas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,5,5,8,65700,0,0,842
+"48079",1,"924",75,0,2013,2,"","Cochran County, Texas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,5,5,5,76978,0,0,1184
+"48079",1,"924",75,0,2013,3,"","Cochran County, Texas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,5,4,4,67521,0,0,1199
+"48079",1,"9241",76,0,2013,1,"","Cochran County, Texas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,5,5,8,65700,0,0,842
+"48079",1,"9241",76,0,2013,2,"","Cochran County, Texas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,5,5,5,76978,0,0,1184
+"48079",1,"9241",76,0,2013,3,"","Cochran County, Texas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,5,4,4,67521,0,0,1199
+"48079",1,"92412",77,0,2013,1,"","Cochran County, Texas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,5,5,8,65700,0,0,842
+"48079",1,"92412",77,0,2013,2,"","Cochran County, Texas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,5,5,5,76978,0,0,1184
+"48079",1,"92412",77,0,2013,3,"","Cochran County, Texas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,5,4,4,67521,0,0,1199
+"48079",1,"924120",78,0,2013,1,"","Cochran County, Texas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,5,5,8,65700,0,0,842
+"48079",1,"924120",78,0,2013,2,"","Cochran County, Texas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,5,5,5,76978,0,0,1184
+"48079",1,"924120",78,0,2013,3,"","Cochran County, Texas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,5,4,4,67521,0,0,1199
+"48079",2,"10",71,0,2013,1,"","Cochran County, Texas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,20,20,20,197503,0,0,760
+"48079",2,"10",71,0,2013,2,"","Cochran County, Texas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,20,20,21,209575,0,0,793
+"48079",2,"10",71,0,2013,3,"","Cochran County, Texas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,18,18,19,191510,0,0,804
+"48079",2,"101",72,0,2013,1,"N","Cochran County, Texas","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"101",72,0,2013,2,"N","Cochran County, Texas","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"101",72,0,2013,3,"N","Cochran County, Texas","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"1012",73,0,2013,1,"N","Cochran County, Texas","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"1012",73,0,2013,2,"N","Cochran County, Texas","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"1012",73,0,2013,3,"N","Cochran County, Texas","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"102",72,0,2013,1,"N","Cochran County, Texas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48079",2,"102",72,0,2013,2,"N","Cochran County, Texas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48079",2,"102",72,0,2013,3,"N","Cochran County, Texas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",2,"1028",73,0,2013,1,"N","Cochran County, Texas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48079",2,"1028",73,0,2013,2,"N","Cochran County, Texas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48079",2,"1028",73,0,2013,3,"N","Cochran County, Texas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",2,"23",74,0,2013,1,"N","Cochran County, Texas","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"23",74,0,2013,2,"N","Cochran County, Texas","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"23",74,0,2013,3,"N","Cochran County, Texas","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"237",75,0,2013,1,"N","Cochran County, Texas","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"237",75,0,2013,2,"N","Cochran County, Texas","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"237",75,0,2013,3,"N","Cochran County, Texas","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"2373",76,0,2013,1,"N","Cochran County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"2373",76,0,2013,2,"N","Cochran County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"2373",76,0,2013,3,"N","Cochran County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"23731",77,0,2013,1,"N","Cochran County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"23731",77,0,2013,2,"N","Cochran County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"23731",77,0,2013,3,"N","Cochran County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"237310",78,0,2013,1,"N","Cochran County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"237310",78,0,2013,2,"N","Cochran County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"237310",78,0,2013,3,"N","Cochran County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"92",74,0,2013,1,"N","Cochran County, Texas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48079",2,"92",74,0,2013,2,"N","Cochran County, Texas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48079",2,"92",74,0,2013,3,"N","Cochran County, Texas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",2,"923",75,0,2013,1,"N","Cochran County, Texas","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",2,"923",75,0,2013,2,"N","Cochran County, Texas","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",2,"923",75,0,2013,3,"N","Cochran County, Texas","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"9231",76,0,2013,1,"N","Cochran County, Texas","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",2,"9231",76,0,2013,2,"N","Cochran County, Texas","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",2,"9231",76,0,2013,3,"N","Cochran County, Texas","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"92312",77,0,2013,1,"N","Cochran County, Texas","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"92312",77,0,2013,2,"N","Cochran County, Texas","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"92312",77,0,2013,3,"-","Cochran County, Texas","State Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",2,"923120",78,0,2013,1,"N","Cochran County, Texas","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"923120",78,0,2013,2,"N","Cochran County, Texas","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"923120",78,0,2013,3,"-","Cochran County, Texas","State Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",2,"92313",77,0,2013,1,"N","Cochran County, Texas","State Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"92313",77,0,2013,2,"N","Cochran County, Texas","State Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"92313",77,0,2013,3,"N","Cochran County, Texas","State Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"923130",78,0,2013,1,"N","Cochran County, Texas","State Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"923130",78,0,2013,2,"N","Cochran County, Texas","State Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"923130",78,0,2013,3,"N","Cochran County, Texas","State Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"926",75,0,2013,1,"","Cochran County, Texas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,8,8,77467,0,0,745
+"48079",2,"926",75,0,2013,2,"","Cochran County, Texas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,8,8,78606,0,0,756
+"48079",2,"926",75,0,2013,3,"","Cochran County, Texas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,6,8,76382,0,0,881
+"48079",2,"9261",76,0,2013,1,"","Cochran County, Texas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,8,8,77467,0,0,745
+"48079",2,"9261",76,0,2013,2,"","Cochran County, Texas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,8,8,78606,0,0,756
+"48079",2,"9261",76,0,2013,3,"","Cochran County, Texas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,6,8,76382,0,0,881
+"48079",2,"92614",77,0,2013,1,"N","Cochran County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",2,"92614",77,0,2013,2,"N","Cochran County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",2,"92614",77,0,2013,3,"N","Cochran County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",2,"926140",78,0,2013,1,"N","Cochran County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",2,"926140",78,0,2013,2,"N","Cochran County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",2,"926140",78,0,2013,3,"N","Cochran County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",2,"92615",77,0,2013,1,"N","Cochran County, Texas","State Government","Licensing and regulating commercial sectors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"92615",77,0,2013,2,"N","Cochran County, Texas","State Government","Licensing and regulating commercial sectors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"92615",77,0,2013,3,"N","Cochran County, Texas","State Government","Licensing and regulating commercial sectors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"926150",78,0,2013,1,"N","Cochran County, Texas","State Government","Licensing and regulating commercial sectors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"926150",78,0,2013,2,"N","Cochran County, Texas","State Government","Licensing and regulating commercial sectors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",2,"926150",78,0,2013,3,"N","Cochran County, Texas","State Government","Licensing and regulating commercial sectors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"10",71,0,2013,1,"","Cochran County, Texas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",19,306,310,314,2611183,3435,3,648
+"48079",3,"10",71,0,2013,2,"","Cochran County, Texas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",19,312,315,313,2748319,3472,3,675
+"48079",3,"10",71,0,2013,3,"","Cochran County, Texas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",19,307,299,308,2732545,2092,2,690
+"48079",3,"101",72,0,2013,1,"N","Cochran County, Texas","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"101",72,0,2013,2,"N","Cochran County, Texas","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"101",72,0,2013,3,"N","Cochran County, Texas","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"1012",73,0,2013,1,"N","Cochran County, Texas","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"1012",73,0,2013,2,"N","Cochran County, Texas","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"1012",73,0,2013,3,"N","Cochran County, Texas","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"102",72,0,2013,1,"N","Cochran County, Texas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",18,0,0,0,0,0,0,0
+"48079",3,"102",72,0,2013,2,"N","Cochran County, Texas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",18,0,0,0,0,0,0,0
+"48079",3,"102",72,0,2013,3,"N","Cochran County, Texas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",18,0,0,0,0,0,0,0
+"48079",3,"1022",73,0,2013,1,"N","Cochran County, Texas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"1022",73,0,2013,2,"N","Cochran County, Texas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"1022",73,0,2013,3,"N","Cochran County, Texas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"1024",73,0,2013,1,"N","Cochran County, Texas","Local Government","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"1024",73,0,2013,2,"N","Cochran County, Texas","Local Government","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"1024",73,0,2013,3,"N","Cochran County, Texas","Local Government","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"1025",73,0,2013,1,"","Cochran County, Texas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,247,250,252,2108922,0,0,650
+"48079",3,"1025",73,0,2013,2,"","Cochran County, Texas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,252,255,255,2245153,0,0,680
+"48079",3,"1025",73,0,2013,3,"","Cochran County, Texas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,243,237,247,2223778,0,0,706
+"48079",3,"1026",73,0,2013,1,"N","Cochran County, Texas","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"1026",73,0,2013,2,"N","Cochran County, Texas","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"1026",73,0,2013,3,"N","Cochran County, Texas","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"1027",73,0,2013,1,"N","Cochran County, Texas","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"1027",73,0,2013,2,"N","Cochran County, Texas","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"1027",73,0,2013,3,"N","Cochran County, Texas","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"1028",73,0,2013,1,"","Cochran County, Texas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",10,47,47,49,391261,0,0,631
+"48079",3,"1028",73,0,2013,2,"","Cochran County, Texas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",10,46,46,44,390753,0,0,663
+"48079",3,"1028",73,0,2013,3,"","Cochran County, Texas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",10,50,49,48,393914,0,0,618
+"48079",3,"23",74,0,2013,1,"N","Cochran County, Texas","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"23",74,0,2013,2,"N","Cochran County, Texas","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"23",74,0,2013,3,"N","Cochran County, Texas","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"237",75,0,2013,1,"N","Cochran County, Texas","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"237",75,0,2013,2,"N","Cochran County, Texas","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"237",75,0,2013,3,"N","Cochran County, Texas","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"2373",76,0,2013,1,"N","Cochran County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"2373",76,0,2013,2,"N","Cochran County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"2373",76,0,2013,3,"N","Cochran County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"23731",77,0,2013,1,"N","Cochran County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"23731",77,0,2013,2,"N","Cochran County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"23731",77,0,2013,3,"N","Cochran County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"237310",78,0,2013,1,"N","Cochran County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"237310",78,0,2013,2,"N","Cochran County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"237310",78,0,2013,3,"N","Cochran County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"51",74,0,2013,1,"N","Cochran County, Texas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"51",74,0,2013,2,"N","Cochran County, Texas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"51",74,0,2013,3,"N","Cochran County, Texas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"519",75,0,2013,1,"N","Cochran County, Texas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"519",75,0,2013,2,"N","Cochran County, Texas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"519",75,0,2013,3,"N","Cochran County, Texas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"5191",76,0,2013,1,"N","Cochran County, Texas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"5191",76,0,2013,2,"N","Cochran County, Texas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"5191",76,0,2013,3,"N","Cochran County, Texas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"51912",77,0,2013,1,"N","Cochran County, Texas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"51912",77,0,2013,2,"N","Cochran County, Texas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"51912",77,0,2013,3,"N","Cochran County, Texas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"519120",78,0,2013,1,"N","Cochran County, Texas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"519120",78,0,2013,2,"N","Cochran County, Texas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"519120",78,0,2013,3,"N","Cochran County, Texas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"56",74,0,2013,1,"N","Cochran County, Texas","Local Government","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"56",74,0,2013,2,"N","Cochran County, Texas","Local Government","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"56",74,0,2013,3,"N","Cochran County, Texas","Local Government","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"561",75,0,2013,1,"N","Cochran County, Texas","Local Government","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"561",75,0,2013,2,"N","Cochran County, Texas","Local Government","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"561",75,0,2013,3,"N","Cochran County, Texas","Local Government","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"5617",76,0,2013,1,"N","Cochran County, Texas","Local Government","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"5617",76,0,2013,2,"N","Cochran County, Texas","Local Government","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"5617",76,0,2013,3,"N","Cochran County, Texas","Local Government","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"56173",77,0,2013,1,"N","Cochran County, Texas","Local Government","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"56173",77,0,2013,2,"N","Cochran County, Texas","Local Government","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"56173",77,0,2013,3,"N","Cochran County, Texas","Local Government","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"561730",78,0,2013,1,"N","Cochran County, Texas","Local Government","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"561730",78,0,2013,2,"N","Cochran County, Texas","Local Government","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"561730",78,0,2013,3,"N","Cochran County, Texas","Local Government","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"61",74,0,2013,1,"N","Cochran County, Texas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"61",74,0,2013,2,"N","Cochran County, Texas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"61",74,0,2013,3,"N","Cochran County, Texas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"611",75,0,2013,1,"N","Cochran County, Texas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"611",75,0,2013,2,"N","Cochran County, Texas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"611",75,0,2013,3,"N","Cochran County, Texas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"6111",76,0,2013,1,"N","Cochran County, Texas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"6111",76,0,2013,2,"N","Cochran County, Texas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"6111",76,0,2013,3,"N","Cochran County, Texas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"61111",77,0,2013,1,"N","Cochran County, Texas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"61111",77,0,2013,2,"N","Cochran County, Texas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"61111",77,0,2013,3,"N","Cochran County, Texas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"611110",78,0,2013,1,"N","Cochran County, Texas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"611110",78,0,2013,2,"N","Cochran County, Texas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"611110",78,0,2013,3,"N","Cochran County, Texas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"62",74,0,2013,1,"N","Cochran County, Texas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"62",74,0,2013,2,"N","Cochran County, Texas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"62",74,0,2013,3,"N","Cochran County, Texas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"622",75,0,2013,1,"N","Cochran County, Texas","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"622",75,0,2013,2,"N","Cochran County, Texas","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"622",75,0,2013,3,"N","Cochran County, Texas","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"6221",76,0,2013,1,"N","Cochran County, Texas","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"6221",76,0,2013,2,"N","Cochran County, Texas","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"6221",76,0,2013,3,"N","Cochran County, Texas","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"62211",77,0,2013,1,"N","Cochran County, Texas","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"62211",77,0,2013,2,"N","Cochran County, Texas","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"62211",77,0,2013,3,"N","Cochran County, Texas","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"622110",78,0,2013,1,"N","Cochran County, Texas","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"622110",78,0,2013,2,"N","Cochran County, Texas","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"622110",78,0,2013,3,"N","Cochran County, Texas","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"624",75,0,2013,1,"N","Cochran County, Texas","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"624",75,0,2013,2,"N","Cochran County, Texas","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"624",75,0,2013,3,"N","Cochran County, Texas","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"6242",76,0,2013,1,"N","Cochran County, Texas","Local Government","Emergency and other relief services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"6242",76,0,2013,2,"N","Cochran County, Texas","Local Government","Emergency and other relief services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"6242",76,0,2013,3,"N","Cochran County, Texas","Local Government","Emergency and other relief services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"62421",77,0,2013,1,"N","Cochran County, Texas","Local Government","Community food services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"62421",77,0,2013,2,"N","Cochran County, Texas","Local Government","Community food services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"62421",77,0,2013,3,"N","Cochran County, Texas","Local Government","Community food services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"624210",78,0,2013,1,"N","Cochran County, Texas","Local Government","Community food services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"624210",78,0,2013,2,"N","Cochran County, Texas","Local Government","Community food services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"624210",78,0,2013,3,"N","Cochran County, Texas","Local Government","Community food services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"71",74,0,2013,1,"N","Cochran County, Texas","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"71",74,0,2013,2,"N","Cochran County, Texas","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"71",74,0,2013,3,"N","Cochran County, Texas","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"712",75,0,2013,1,"N","Cochran County, Texas","Local Government","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"712",75,0,2013,2,"N","Cochran County, Texas","Local Government","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"712",75,0,2013,3,"N","Cochran County, Texas","Local Government","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"7121",76,0,2013,1,"N","Cochran County, Texas","Local Government","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"7121",76,0,2013,2,"N","Cochran County, Texas","Local Government","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"7121",76,0,2013,3,"N","Cochran County, Texas","Local Government","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"71219",77,0,2013,1,"N","Cochran County, Texas","Local Government","Nature parks and other similar institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"71219",77,0,2013,2,"N","Cochran County, Texas","Local Government","Nature parks and other similar institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"71219",77,0,2013,3,"N","Cochran County, Texas","Local Government","Nature parks and other similar institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"712190",78,0,2013,1,"N","Cochran County, Texas","Local Government","Nature parks and other similar institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"712190",78,0,2013,2,"N","Cochran County, Texas","Local Government","Nature parks and other similar institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"712190",78,0,2013,3,"N","Cochran County, Texas","Local Government","Nature parks and other similar institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"81",74,0,2013,1,"N","Cochran County, Texas","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"81",74,0,2013,2,"N","Cochran County, Texas","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"81",74,0,2013,3,"N","Cochran County, Texas","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"812",75,0,2013,1,"N","Cochran County, Texas","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"812",75,0,2013,2,"N","Cochran County, Texas","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"812",75,0,2013,3,"N","Cochran County, Texas","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"8122",76,0,2013,1,"N","Cochran County, Texas","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"8122",76,0,2013,2,"N","Cochran County, Texas","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"8122",76,0,2013,3,"N","Cochran County, Texas","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"81222",77,0,2013,1,"N","Cochran County, Texas","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"81222",77,0,2013,2,"N","Cochran County, Texas","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"81222",77,0,2013,3,"N","Cochran County, Texas","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"812220",78,0,2013,1,"N","Cochran County, Texas","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"812220",78,0,2013,2,"N","Cochran County, Texas","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"812220",78,0,2013,3,"N","Cochran County, Texas","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"92",74,0,2013,1,"","Cochran County, Texas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,47,47,49,391261,0,0,631
+"48079",3,"92",74,0,2013,2,"","Cochran County, Texas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,46,46,44,390753,0,0,663
+"48079",3,"92",74,0,2013,3,"","Cochran County, Texas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,50,49,48,393914,0,0,618
+"48079",3,"921",75,0,2013,1,"N","Cochran County, Texas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48079",3,"921",75,0,2013,2,"N","Cochran County, Texas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48079",3,"921",75,0,2013,3,"N","Cochran County, Texas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48079",3,"9211",76,0,2013,1,"N","Cochran County, Texas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48079",3,"9211",76,0,2013,2,"N","Cochran County, Texas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48079",3,"9211",76,0,2013,3,"N","Cochran County, Texas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48079",3,"92113",77,0,2013,1,"N","Cochran County, Texas","Local Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"92113",77,0,2013,2,"N","Cochran County, Texas","Local Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"92113",77,0,2013,3,"N","Cochran County, Texas","Local Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"921130",78,0,2013,1,"N","Cochran County, Texas","Local Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"921130",78,0,2013,2,"N","Cochran County, Texas","Local Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"921130",78,0,2013,3,"N","Cochran County, Texas","Local Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",3,"92114",77,0,2013,1,"","Cochran County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,13,13,13,124569,0,0,737
+"48079",3,"92114",77,0,2013,2,"","Cochran County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,13,13,13,125348,0,0,742
+"48079",3,"92114",77,0,2013,3,"","Cochran County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,13,13,13,125454,0,0,742
+"48079",3,"921140",78,0,2013,1,"","Cochran County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,13,13,13,124569,0,0,737
+"48079",3,"921140",78,0,2013,2,"","Cochran County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,13,13,13,125348,0,0,742
+"48079",3,"921140",78,0,2013,3,"","Cochran County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,13,13,13,125454,0,0,742
+"48079",3,"922",75,0,2013,1,"","Cochran County, Texas","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,23,23,24,187737,0,0,619
+"48079",3,"922",75,0,2013,2,"","Cochran County, Texas","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,24,24,23,187957,0,0,611
+"48079",3,"922",75,0,2013,3,"","Cochran County, Texas","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,27,26,25,193472,0,0,572
+"48079",3,"9221",76,0,2013,1,"","Cochran County, Texas","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,23,23,24,187737,0,0,619
+"48079",3,"9221",76,0,2013,2,"","Cochran County, Texas","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,24,24,23,187957,0,0,611
+"48079",3,"9221",76,0,2013,3,"","Cochran County, Texas","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,27,26,25,193472,0,0,572
+"48079",3,"92211",77,0,2013,1,"N","Cochran County, Texas","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"92211",77,0,2013,2,"N","Cochran County, Texas","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"92211",77,0,2013,3,"N","Cochran County, Texas","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"922110",78,0,2013,1,"N","Cochran County, Texas","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"922110",78,0,2013,2,"N","Cochran County, Texas","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"922110",78,0,2013,3,"N","Cochran County, Texas","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"92212",77,0,2013,1,"N","Cochran County, Texas","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"92212",77,0,2013,2,"N","Cochran County, Texas","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"92212",77,0,2013,3,"N","Cochran County, Texas","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"922120",78,0,2013,1,"N","Cochran County, Texas","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"922120",78,0,2013,2,"N","Cochran County, Texas","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"922120",78,0,2013,3,"N","Cochran County, Texas","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"92213",77,0,2013,1,"N","Cochran County, Texas","Local Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"92213",77,0,2013,2,"N","Cochran County, Texas","Local Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"92213",77,0,2013,3,"N","Cochran County, Texas","Local Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"922130",78,0,2013,1,"N","Cochran County, Texas","Local Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"922130",78,0,2013,2,"N","Cochran County, Texas","Local Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"922130",78,0,2013,3,"N","Cochran County, Texas","Local Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"92215",77,0,2013,1,"N","Cochran County, Texas","Local Government","Parole offices and probation offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"92215",77,0,2013,2,"N","Cochran County, Texas","Local Government","Parole offices and probation offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"92215",77,0,2013,3,"N","Cochran County, Texas","Local Government","Parole offices and probation offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"922150",78,0,2013,1,"N","Cochran County, Texas","Local Government","Parole offices and probation offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"922150",78,0,2013,2,"N","Cochran County, Texas","Local Government","Parole offices and probation offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"922150",78,0,2013,3,"N","Cochran County, Texas","Local Government","Parole offices and probation offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"926",75,0,2013,1,"N","Cochran County, Texas","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"926",75,0,2013,2,"N","Cochran County, Texas","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"926",75,0,2013,3,"N","Cochran County, Texas","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"9261",76,0,2013,1,"N","Cochran County, Texas","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"9261",76,0,2013,2,"N","Cochran County, Texas","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"9261",76,0,2013,3,"N","Cochran County, Texas","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"92614",77,0,2013,1,"N","Cochran County, Texas","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"92614",77,0,2013,2,"N","Cochran County, Texas","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"92614",77,0,2013,3,"N","Cochran County, Texas","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"926140",78,0,2013,1,"N","Cochran County, Texas","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"926140",78,0,2013,2,"N","Cochran County, Texas","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",3,"926140",78,0,2013,3,"N","Cochran County, Texas","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"10",71,0,2013,1,"","Cochran County, Texas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",94,394,377,379,3418207,2446312,51124,686
+"48079",5,"10",71,0,2013,2,"","Cochran County, Texas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",96,390,399,407,3585231,818252,14185,692
+"48079",5,"10",71,0,2013,3,"","Cochran County, Texas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",96,426,422,391,3621557,522285,10175,675
+"48079",5,"101",72,0,2013,1,"","Cochran County, Texas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",51,186,170,170,1773807,1165222,26070,778
+"48079",5,"101",72,0,2013,2,"","Cochran County, Texas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",52,181,182,193,1848334,367154,6911,767
+"48079",5,"101",72,0,2013,3,"","Cochran County, Texas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",51,215,216,193,1925824,259487,5128,712
+"48079",5,"1011",73,0,2013,1,"N","Cochran County, Texas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",50,0,0,0,0,0,0,0
+"48079",5,"1011",73,0,2013,2,"N","Cochran County, Texas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",51,0,0,0,0,0,0,0
+"48079",5,"1011",73,0,2013,3,"N","Cochran County, Texas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",50,0,0,0,0,0,0,0
+"48079",5,"1012",73,0,2013,1,"N","Cochran County, Texas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"1012",73,0,2013,2,"N","Cochran County, Texas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"1012",73,0,2013,3,"N","Cochran County, Texas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"102",72,0,2013,1,"","Cochran County, Texas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",43,208,207,209,1644400,1281090,25054,608
+"48079",5,"102",72,0,2013,2,"","Cochran County, Texas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",44,209,217,214,1736897,451098,7274,626
+"48079",5,"102",72,0,2013,3,"","Cochran County, Texas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",45,211,206,198,1695733,262798,5047,636
+"48079",5,"1021",73,0,2013,1,"","Cochran County, Texas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",21,133,129,133,1070805,847371,12218,626
+"48079",5,"1021",73,0,2013,2,"","Cochran County, Texas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",21,126,129,125,1154080,291982,3737,701
+"48079",5,"1021",73,0,2013,3,"","Cochran County, Texas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",22,126,122,118,1063218,149044,2061,670
+"48079",5,"1022",73,0,2013,1,"N","Cochran County, Texas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"1022",73,0,2013,2,"N","Cochran County, Texas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"1022",73,0,2013,3,"N","Cochran County, Texas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"1023",73,0,2013,1,"","Cochran County, Texas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,17,15,15,120253,73147,673,590
+"48079",5,"1023",73,0,2013,2,"","Cochran County, Texas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,15,21,22,151505,38076,721,603
+"48079",5,"1023",73,0,2013,3,"","Cochran County, Texas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,21,21,20,169016,33572,798,629
+"48079",5,"1024",73,0,2013,1,"N","Cochran County, Texas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"1024",73,0,2013,2,"N","Cochran County, Texas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48079",5,"1024",73,0,2013,3,"N","Cochran County, Texas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48079",5,"1025",73,0,2013,1,"","Cochran County, Texas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,28,28,28,320485,245911,10165,880
+"48079",5,"1025",73,0,2013,2,"","Cochran County, Texas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,36,35,34,297299,55850,1738,653
+"48079",5,"1025",73,0,2013,3,"","Cochran County, Texas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,34,30,32,335898,33351,1185,807
+"48079",5,"1026",73,0,2013,1,"","Cochran County, Texas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",6,18,16,18,38393,38393,375,170
+"48079",5,"1026",73,0,2013,2,"","Cochran County, Texas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",6,19,20,21,39264,39264,323,151
+"48079",5,"1026",73,0,2013,3,"","Cochran County, Texas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",6,16,17,14,34861,31815,219,171
+"48079",5,"1027",73,0,2013,1,"","Cochran County, Texas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,9,9,10,61967,52711,1065,511
+"48079",5,"1027",73,0,2013,2,"","Cochran County, Texas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,10,10,9,75432,20603,720,600
+"48079",5,"1027",73,0,2013,3,"","Cochran County, Texas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,10,11,11,71815,10252,675,518
+"48079",5,"1029",73,0,2013,1,"","Cochran County, Texas","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",1,1,7,3,13675,13675,369,287
+"48079",5,"1029",73,0,2013,2,"-","Cochran County, Texas","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"1029",73,0,2013,3,"-","Cochran County, Texas","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"11",74,0,2013,1,"","Cochran County, Texas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",46,123,107,107,827443,712306,14749,567
+"48079",5,"11",74,0,2013,2,"","Cochran County, Texas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",47,113,113,121,840697,279759,4992,559
+"48079",5,"11",74,0,2013,3,"","Cochran County, Texas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",46,145,144,125,904106,163234,3074,504
+"48079",5,"111",75,0,2013,1,"","Cochran County, Texas","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",41,88,88,90,576603,531611,8578,500
+"48079",5,"111",75,0,2013,2,"","Cochran County, Texas","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",42,93,93,101,665195,247990,3967,535
+"48079",5,"111",75,0,2013,3,"","Cochran County, Texas","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",42,126,126,107,735865,156346,2781,473
+"48079",5,"1119",76,0,2013,1,"","Cochran County, Texas","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",41,88,88,90,576603,531611,8578,500
+"48079",5,"1119",76,0,2013,2,"","Cochran County, Texas","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",42,93,93,101,665195,247990,3967,535
+"48079",5,"1119",76,0,2013,3,"","Cochran County, Texas","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",42,126,126,107,735865,156346,2781,473
+"48079",5,"11192",77,0,2013,1,"N","Cochran County, Texas","Private","Cotton farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",40,0,0,0,0,0,0,0
+"48079",5,"11192",77,0,2013,2,"N","Cochran County, Texas","Private","Cotton farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",40,0,0,0,0,0,0,0
+"48079",5,"11192",77,0,2013,3,"N","Cochran County, Texas","Private","Cotton farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",40,0,0,0,0,0,0,0
+"48079",5,"111920",78,0,2013,1,"N","Cochran County, Texas","Private","Cotton farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",40,0,0,0,0,0,0,0
+"48079",5,"111920",78,0,2013,2,"N","Cochran County, Texas","Private","Cotton farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",40,0,0,0,0,0,0,0
+"48079",5,"111920",78,0,2013,3,"N","Cochran County, Texas","Private","Cotton farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",40,0,0,0,0,0,0,0
+"48079",5,"11199",77,0,2013,1,"N","Cochran County, Texas","Private","All other crop farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"11199",77,0,2013,2,"N","Cochran County, Texas","Private","All other crop farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"11199",77,0,2013,3,"N","Cochran County, Texas","Private","All other crop farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"111998",78,0,2013,1,"N","Cochran County, Texas","Private","All other miscellaneous crop farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"111998",78,0,2013,2,"N","Cochran County, Texas","Private","All other miscellaneous crop farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"111998",78,0,2013,3,"N","Cochran County, Texas","Private","All other miscellaneous crop farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"115",75,0,2013,1,"","Cochran County, Texas","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,35,19,17,250840,180695,6171,815
+"48079",5,"115",75,0,2013,2,"","Cochran County, Texas","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,20,20,20,175502,31769,1025,675
+"48079",5,"115",75,0,2013,3,"","Cochran County, Texas","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,19,18,18,168241,6888,293,706
+"48079",5,"1151",76,0,2013,1,"","Cochran County, Texas","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,35,19,17,250840,180695,6171,815
+"48079",5,"1151",76,0,2013,2,"","Cochran County, Texas","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,20,20,20,175502,31769,1025,675
+"48079",5,"1151",76,0,2013,3,"","Cochran County, Texas","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,19,18,18,168241,6888,293,706
+"48079",5,"11511",77,0,2013,1,"","Cochran County, Texas","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,35,19,17,250840,180695,6171,815
+"48079",5,"11511",77,0,2013,2,"","Cochran County, Texas","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,20,20,20,175502,31769,1025,675
+"48079",5,"11511",77,0,2013,3,"","Cochran County, Texas","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,19,18,18,168241,6888,293,706
+"48079",5,"115111",78,0,2013,1,"","Cochran County, Texas","Private","Cotton ginning","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,34,19,17,248840,178695,6161,820
+"48079",5,"115111",78,0,2013,2,"","Cochran County, Texas","Private","Cotton ginning","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,20,20,19,172297,28564,1008,674
+"48079",5,"115111",78,0,2013,3,"N","Cochran County, Texas","Private","Cotton ginning","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48079",5,"115112",78,0,2013,1,"N","Cochran County, Texas","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"115112",78,0,2013,2,"N","Cochran County, Texas","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"115112",78,0,2013,3,"-","Cochran County, Texas","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"115113",78,0,2013,1,"N","Cochran County, Texas","Private","Crop harvesting, primarily by machine","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"115113",78,0,2013,2,"N","Cochran County, Texas","Private","Crop harvesting, primarily by machine","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"115113",78,0,2013,3,"N","Cochran County, Texas","Private","Crop harvesting, primarily by machine","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"21",74,0,2013,1,"N","Cochran County, Texas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"21",74,0,2013,2,"N","Cochran County, Texas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"21",74,0,2013,3,"N","Cochran County, Texas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"211",75,0,2013,1,"","Cochran County, Texas","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,48,49,49,854073,371496,10043,1350
+"48079",5,"211",75,0,2013,2,"","Cochran County, Texas","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,52,52,54,883968,45750,1235,1291
+"48079",5,"211",75,0,2013,3,"","Cochran County, Texas","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,54,52,50,898729,43000,1159,1329
+"48079",5,"2111",76,0,2013,1,"","Cochran County, Texas","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,48,49,49,854073,371496,10043,1350
+"48079",5,"2111",76,0,2013,2,"","Cochran County, Texas","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,52,52,54,883968,45750,1235,1291
+"48079",5,"2111",76,0,2013,3,"","Cochran County, Texas","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,54,52,50,898729,43000,1159,1329
+"48079",5,"21111",77,0,2013,1,"","Cochran County, Texas","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,48,49,49,854073,371496,10043,1350
+"48079",5,"21111",77,0,2013,2,"","Cochran County, Texas","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,52,52,54,883968,45750,1235,1291
+"48079",5,"21111",77,0,2013,3,"","Cochran County, Texas","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,54,52,50,898729,43000,1159,1329
+"48079",5,"211111",78,0,2013,1,"","Cochran County, Texas","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,48,49,49,854073,371496,10043,1350
+"48079",5,"211111",78,0,2013,2,"","Cochran County, Texas","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,52,52,54,883968,45750,1235,1291
+"48079",5,"211111",78,0,2013,3,"","Cochran County, Texas","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,54,52,50,898729,43000,1159,1329
+"48079",5,"213",75,0,2013,1,"N","Cochran County, Texas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"213",75,0,2013,2,"N","Cochran County, Texas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"213",75,0,2013,3,"N","Cochran County, Texas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"2131",76,0,2013,1,"N","Cochran County, Texas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"2131",76,0,2013,2,"N","Cochran County, Texas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"2131",76,0,2013,3,"N","Cochran County, Texas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"21311",77,0,2013,1,"N","Cochran County, Texas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"21311",77,0,2013,2,"N","Cochran County, Texas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"21311",77,0,2013,3,"N","Cochran County, Texas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"213112",78,0,2013,1,"N","Cochran County, Texas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"213112",78,0,2013,2,"N","Cochran County, Texas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"213112",78,0,2013,3,"N","Cochran County, Texas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"22",74,0,2013,1,"N","Cochran County, Texas","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"22",74,0,2013,2,"N","Cochran County, Texas","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"22",74,0,2013,3,"N","Cochran County, Texas","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"221",75,0,2013,1,"N","Cochran County, Texas","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"221",75,0,2013,2,"N","Cochran County, Texas","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"221",75,0,2013,3,"N","Cochran County, Texas","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"2211",76,0,2013,1,"N","Cochran County, Texas","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"2211",76,0,2013,2,"N","Cochran County, Texas","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"2211",76,0,2013,3,"N","Cochran County, Texas","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"22111",77,0,2013,1,"N","Cochran County, Texas","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"22111",77,0,2013,2,"N","Cochran County, Texas","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"22111",77,0,2013,3,"N","Cochran County, Texas","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"221112",78,0,2013,1,"N","Cochran County, Texas","Private","Fossil fuel electric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"221112",78,0,2013,2,"N","Cochran County, Texas","Private","Fossil fuel electric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"221112",78,0,2013,3,"N","Cochran County, Texas","Private","Fossil fuel electric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"23",74,0,2013,1,"N","Cochran County, Texas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"23",74,0,2013,2,"N","Cochran County, Texas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"23",74,0,2013,3,"N","Cochran County, Texas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"236",75,0,2013,1,"N","Cochran County, Texas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"236",75,0,2013,2,"N","Cochran County, Texas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"236",75,0,2013,3,"N","Cochran County, Texas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"2362",76,0,2013,1,"N","Cochran County, Texas","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"2362",76,0,2013,2,"N","Cochran County, Texas","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"2362",76,0,2013,3,"N","Cochran County, Texas","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"23622",77,0,2013,1,"N","Cochran County, Texas","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"23622",77,0,2013,2,"N","Cochran County, Texas","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"23622",77,0,2013,3,"N","Cochran County, Texas","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"236220",78,0,2013,1,"N","Cochran County, Texas","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"236220",78,0,2013,2,"N","Cochran County, Texas","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"236220",78,0,2013,3,"N","Cochran County, Texas","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"42",74,0,2013,1,"","Cochran County, Texas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,38,29,39,405147,279911,2249,882
+"48079",5,"42",74,0,2013,2,"","Cochran County, Texas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,38,39,40,399614,85970,751,788
+"48079",5,"42",74,0,2013,3,"","Cochran County, Texas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,42,38,37,391703,41606,422,773
+"48079",5,"423",75,0,2013,1,"N","Cochran County, Texas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"423",75,0,2013,2,"N","Cochran County, Texas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"423",75,0,2013,3,"N","Cochran County, Texas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"4238",76,0,2013,1,"","Cochran County, Texas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,15,6,16,135446,110528,705,845
+"48079",5,"4238",76,0,2013,2,"","Cochran County, Texas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,15,15,15,140867,29124,197,722
+"48079",5,"4238",76,0,2013,3,"","Cochran County, Texas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,15,15,15,146114,1682,10,749
+"48079",5,"42382",77,0,2013,1,"","Cochran County, Texas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,15,6,16,135446,110528,705,845
+"48079",5,"42382",77,0,2013,2,"","Cochran County, Texas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,15,15,15,140867,29124,197,722
+"48079",5,"42382",77,0,2013,3,"","Cochran County, Texas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,15,15,15,146114,1682,10,749
+"48079",5,"423820",78,0,2013,1,"","Cochran County, Texas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,15,6,16,135446,110528,705,845
+"48079",5,"423820",78,0,2013,2,"","Cochran County, Texas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,15,15,15,140867,29124,197,722
+"48079",5,"423820",78,0,2013,3,"","Cochran County, Texas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,15,15,15,146114,1682,10,749
+"48079",5,"4239",76,0,2013,1,"N","Cochran County, Texas","Private","Misc. durable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4239",76,0,2013,2,"N","Cochran County, Texas","Private","Misc. durable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4239",76,0,2013,3,"N","Cochran County, Texas","Private","Misc. durable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"42391",77,0,2013,1,"N","Cochran County, Texas","Private","Sporting goods merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"42391",77,0,2013,2,"N","Cochran County, Texas","Private","Sporting goods merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"42391",77,0,2013,3,"N","Cochran County, Texas","Private","Sporting goods merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"423910",78,0,2013,1,"N","Cochran County, Texas","Private","Sporting goods merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"423910",78,0,2013,2,"N","Cochran County, Texas","Private","Sporting goods merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"423910",78,0,2013,3,"N","Cochran County, Texas","Private","Sporting goods merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"424",75,0,2013,1,"N","Cochran County, Texas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"424",75,0,2013,2,"N","Cochran County, Texas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"424",75,0,2013,3,"N","Cochran County, Texas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4247",76,0,2013,1,"N","Cochran County, Texas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4247",76,0,2013,2,"N","Cochran County, Texas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4247",76,0,2013,3,"N","Cochran County, Texas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"42472",77,0,2013,1,"N","Cochran County, Texas","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"42472",77,0,2013,2,"N","Cochran County, Texas","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"42472",77,0,2013,3,"N","Cochran County, Texas","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"424720",78,0,2013,1,"N","Cochran County, Texas","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"424720",78,0,2013,2,"N","Cochran County, Texas","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"424720",78,0,2013,3,"N","Cochran County, Texas","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4249",76,0,2013,1,"N","Cochran County, Texas","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4249",76,0,2013,2,"N","Cochran County, Texas","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4249",76,0,2013,3,"N","Cochran County, Texas","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"42491",77,0,2013,1,"N","Cochran County, Texas","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"42491",77,0,2013,2,"N","Cochran County, Texas","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"42491",77,0,2013,3,"N","Cochran County, Texas","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"424910",78,0,2013,1,"N","Cochran County, Texas","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"424910",78,0,2013,2,"N","Cochran County, Texas","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"424910",78,0,2013,3,"N","Cochran County, Texas","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"44-45",74,0,2013,1,"","Cochran County, Texas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,80,85,79,496290,452105,9318,469
+"48079",5,"44-45",74,0,2013,2,"","Cochran County, Texas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,75,77,72,521541,185421,2874,537
+"48079",5,"44-45",74,0,2013,3,"","Cochran County, Texas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,71,72,70,505132,105119,1583,547
+"48079",5,"441",75,0,2013,1,"N","Cochran County, Texas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"441",75,0,2013,2,"N","Cochran County, Texas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"441",75,0,2013,3,"N","Cochran County, Texas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4413",76,0,2013,1,"N","Cochran County, Texas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4413",76,0,2013,2,"N","Cochran County, Texas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4413",76,0,2013,3,"N","Cochran County, Texas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"44131",77,0,2013,1,"N","Cochran County, Texas","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"44131",77,0,2013,2,"N","Cochran County, Texas","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"44131",77,0,2013,3,"N","Cochran County, Texas","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"441310",78,0,2013,1,"N","Cochran County, Texas","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"441310",78,0,2013,2,"N","Cochran County, Texas","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"441310",78,0,2013,3,"N","Cochran County, Texas","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"44132",77,0,2013,1,"N","Cochran County, Texas","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"44132",77,0,2013,2,"N","Cochran County, Texas","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"44132",77,0,2013,3,"N","Cochran County, Texas","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"441320",78,0,2013,1,"N","Cochran County, Texas","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"441320",78,0,2013,2,"N","Cochran County, Texas","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"441320",78,0,2013,3,"N","Cochran County, Texas","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"444",75,0,2013,1,"N","Cochran County, Texas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"444",75,0,2013,2,"N","Cochran County, Texas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"444",75,0,2013,3,"N","Cochran County, Texas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4442",76,0,2013,1,"N","Cochran County, Texas","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4442",76,0,2013,2,"N","Cochran County, Texas","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4442",76,0,2013,3,"N","Cochran County, Texas","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"44422",77,0,2013,1,"N","Cochran County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"44422",77,0,2013,2,"N","Cochran County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"44422",77,0,2013,3,"N","Cochran County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"444220",78,0,2013,1,"N","Cochran County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"444220",78,0,2013,2,"N","Cochran County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"444220",78,0,2013,3,"N","Cochran County, Texas","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"445",75,0,2013,1,"N","Cochran County, Texas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"445",75,0,2013,2,"N","Cochran County, Texas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"445",75,0,2013,3,"N","Cochran County, Texas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4451",76,0,2013,1,"N","Cochran County, Texas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4451",76,0,2013,2,"N","Cochran County, Texas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4451",76,0,2013,3,"N","Cochran County, Texas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"44511",77,0,2013,1,"N","Cochran County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"44511",77,0,2013,2,"N","Cochran County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"44511",77,0,2013,3,"N","Cochran County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"445110",78,0,2013,1,"N","Cochran County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"445110",78,0,2013,2,"N","Cochran County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"445110",78,0,2013,3,"N","Cochran County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"44512",77,0,2013,1,"N","Cochran County, Texas","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"44512",77,0,2013,2,"N","Cochran County, Texas","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"44512",77,0,2013,3,"N","Cochran County, Texas","Private","Convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"445120",78,0,2013,1,"N","Cochran County, Texas","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"445120",78,0,2013,2,"N","Cochran County, Texas","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"445120",78,0,2013,3,"N","Cochran County, Texas","Private","Convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"447",75,0,2013,1,"N","Cochran County, Texas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"447",75,0,2013,2,"N","Cochran County, Texas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"447",75,0,2013,3,"N","Cochran County, Texas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4471",76,0,2013,1,"N","Cochran County, Texas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4471",76,0,2013,2,"N","Cochran County, Texas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4471",76,0,2013,3,"N","Cochran County, Texas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"44711",77,0,2013,1,"N","Cochran County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"44711",77,0,2013,2,"N","Cochran County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"44711",77,0,2013,3,"N","Cochran County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"447110",78,0,2013,1,"N","Cochran County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"447110",78,0,2013,2,"N","Cochran County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"447110",78,0,2013,3,"N","Cochran County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"452",75,0,2013,1,"N","Cochran County, Texas","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"452",75,0,2013,2,"N","Cochran County, Texas","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"452",75,0,2013,3,"N","Cochran County, Texas","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4529",76,0,2013,1,"N","Cochran County, Texas","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4529",76,0,2013,2,"N","Cochran County, Texas","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4529",76,0,2013,3,"N","Cochran County, Texas","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"45299",77,0,2013,1,"N","Cochran County, Texas","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"45299",77,0,2013,2,"N","Cochran County, Texas","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"45299",77,0,2013,3,"N","Cochran County, Texas","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"452990",78,0,2013,1,"N","Cochran County, Texas","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"452990",78,0,2013,2,"N","Cochran County, Texas","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"452990",78,0,2013,3,"N","Cochran County, Texas","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"453",75,0,2013,1,"N","Cochran County, Texas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"453",75,0,2013,2,"N","Cochran County, Texas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"453",75,0,2013,3,"N","Cochran County, Texas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4531",76,0,2013,1,"N","Cochran County, Texas","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4531",76,0,2013,2,"N","Cochran County, Texas","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4531",76,0,2013,3,"N","Cochran County, Texas","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"45311",77,0,2013,1,"N","Cochran County, Texas","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"45311",77,0,2013,2,"N","Cochran County, Texas","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"45311",77,0,2013,3,"N","Cochran County, Texas","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"453110",78,0,2013,1,"N","Cochran County, Texas","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"453110",78,0,2013,2,"N","Cochran County, Texas","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"453110",78,0,2013,3,"N","Cochran County, Texas","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"454",75,0,2013,1,"N","Cochran County, Texas","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"454",75,0,2013,2,"N","Cochran County, Texas","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"454",75,0,2013,3,"N","Cochran County, Texas","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4543",76,0,2013,1,"N","Cochran County, Texas","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4543",76,0,2013,2,"N","Cochran County, Texas","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4543",76,0,2013,3,"N","Cochran County, Texas","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"45431",77,0,2013,1,"N","Cochran County, Texas","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"45431",77,0,2013,2,"N","Cochran County, Texas","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"45431",77,0,2013,3,"N","Cochran County, Texas","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"454310",78,0,2013,1,"N","Cochran County, Texas","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"454310",78,0,2013,2,"N","Cochran County, Texas","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"454310",78,0,2013,3,"N","Cochran County, Texas","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"48-49",74,0,2013,1,"N","Cochran County, Texas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"48-49",74,0,2013,2,"N","Cochran County, Texas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"48-49",74,0,2013,3,"N","Cochran County, Texas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48079",5,"484",75,0,2013,1,"N","Cochran County, Texas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"484",75,0,2013,2,"N","Cochran County, Texas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"484",75,0,2013,3,"N","Cochran County, Texas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48079",5,"4841",76,0,2013,1,"N","Cochran County, Texas","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4841",76,0,2013,2,"N","Cochran County, Texas","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4841",76,0,2013,3,"N","Cochran County, Texas","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"48411",77,0,2013,1,"N","Cochran County, Texas","Private","General freight trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"48411",77,0,2013,2,"N","Cochran County, Texas","Private","General freight trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"48411",77,0,2013,3,"N","Cochran County, Texas","Private","General freight trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"484110",78,0,2013,1,"N","Cochran County, Texas","Private","General freight trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"484110",78,0,2013,2,"N","Cochran County, Texas","Private","General freight trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"484110",78,0,2013,3,"N","Cochran County, Texas","Private","General freight trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"4842",76,0,2013,1,"N","Cochran County, Texas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4842",76,0,2013,2,"N","Cochran County, Texas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"4842",76,0,2013,3,"N","Cochran County, Texas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"48422",77,0,2013,1,"N","Cochran County, Texas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"48422",77,0,2013,2,"N","Cochran County, Texas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"48422",77,0,2013,3,"N","Cochran County, Texas","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"484220",78,0,2013,1,"N","Cochran County, Texas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"484220",78,0,2013,2,"N","Cochran County, Texas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"484220",78,0,2013,3,"N","Cochran County, Texas","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"51",74,0,2013,1,"N","Cochran County, Texas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"51",74,0,2013,2,"N","Cochran County, Texas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"51",74,0,2013,3,"N","Cochran County, Texas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"517",75,0,2013,1,"N","Cochran County, Texas","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"517",75,0,2013,2,"N","Cochran County, Texas","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"517",75,0,2013,3,"N","Cochran County, Texas","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"5172",76,0,2013,1,"N","Cochran County, Texas","Private","Wireless telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"5172",76,0,2013,2,"N","Cochran County, Texas","Private","Wireless telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"5172",76,0,2013,3,"N","Cochran County, Texas","Private","Wireless telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"51721",77,0,2013,1,"N","Cochran County, Texas","Private","Wireless telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"51721",77,0,2013,2,"N","Cochran County, Texas","Private","Wireless telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"51721",77,0,2013,3,"N","Cochran County, Texas","Private","Wireless telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"517210",78,0,2013,1,"N","Cochran County, Texas","Private","Wireless telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"517210",78,0,2013,2,"N","Cochran County, Texas","Private","Wireless telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"517210",78,0,2013,3,"N","Cochran County, Texas","Private","Wireless telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"52",74,0,2013,1,"N","Cochran County, Texas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"52",74,0,2013,2,"","Cochran County, Texas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,15,21,22,151505,38076,721,603
+"48079",5,"52",74,0,2013,3,"","Cochran County, Texas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,21,21,20,169016,33572,798,629
+"48079",5,"522",75,0,2013,1,"N","Cochran County, Texas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48079",5,"522",75,0,2013,2,"N","Cochran County, Texas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48079",5,"522",75,0,2013,3,"N","Cochran County, Texas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48079",5,"5221",76,0,2013,1,"N","Cochran County, Texas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48079",5,"5221",76,0,2013,2,"N","Cochran County, Texas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48079",5,"5221",76,0,2013,3,"N","Cochran County, Texas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48079",5,"52211",77,0,2013,1,"N","Cochran County, Texas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"52211",77,0,2013,2,"N","Cochran County, Texas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"52211",77,0,2013,3,"N","Cochran County, Texas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"522110",78,0,2013,1,"N","Cochran County, Texas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"522110",78,0,2013,2,"N","Cochran County, Texas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"522110",78,0,2013,3,"N","Cochran County, Texas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"52213",77,0,2013,1,"N","Cochran County, Texas","Private","Credit unions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"52213",77,0,2013,2,"N","Cochran County, Texas","Private","Credit unions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"52213",77,0,2013,3,"N","Cochran County, Texas","Private","Credit unions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"522130",78,0,2013,1,"N","Cochran County, Texas","Private","Credit unions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"522130",78,0,2013,2,"N","Cochran County, Texas","Private","Credit unions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"522130",78,0,2013,3,"N","Cochran County, Texas","Private","Credit unions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"524",75,0,2013,1,"N","Cochran County, Texas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"524",75,0,2013,2,"N","Cochran County, Texas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"524",75,0,2013,3,"N","Cochran County, Texas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"5242",76,0,2013,1,"N","Cochran County, Texas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"5242",76,0,2013,2,"N","Cochran County, Texas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"5242",76,0,2013,3,"N","Cochran County, Texas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"52421",77,0,2013,1,"N","Cochran County, Texas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"52421",77,0,2013,2,"N","Cochran County, Texas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"52421",77,0,2013,3,"N","Cochran County, Texas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"524210",78,0,2013,1,"N","Cochran County, Texas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"524210",78,0,2013,2,"N","Cochran County, Texas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"524210",78,0,2013,3,"N","Cochran County, Texas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"53",74,0,2013,1,"N","Cochran County, Texas","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"53",74,0,2013,2,"-","Cochran County, Texas","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"53",74,0,2013,3,"-","Cochran County, Texas","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"531",75,0,2013,1,"N","Cochran County, Texas","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"531",75,0,2013,2,"-","Cochran County, Texas","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"531",75,0,2013,3,"-","Cochran County, Texas","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"5311",76,0,2013,1,"N","Cochran County, Texas","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"5311",76,0,2013,2,"-","Cochran County, Texas","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"5311",76,0,2013,3,"-","Cochran County, Texas","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"53113",77,0,2013,1,"N","Cochran County, Texas","Private","Miniwarehouse and self-storage unit operators","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"53113",77,0,2013,2,"-","Cochran County, Texas","Private","Miniwarehouse and self-storage unit operators","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"53113",77,0,2013,3,"-","Cochran County, Texas","Private","Miniwarehouse and self-storage unit operators","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"531130",78,0,2013,1,"N","Cochran County, Texas","Private","Miniwarehouse and self-storage unit operators","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"531130",78,0,2013,2,"-","Cochran County, Texas","Private","Miniwarehouse and self-storage unit operators","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"531130",78,0,2013,3,"-","Cochran County, Texas","Private","Miniwarehouse and self-storage unit operators","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"54",74,0,2013,1,"N","Cochran County, Texas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"54",74,0,2013,2,"N","Cochran County, Texas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48079",5,"54",74,0,2013,3,"N","Cochran County, Texas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48079",5,"541",75,0,2013,1,"N","Cochran County, Texas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"541",75,0,2013,2,"N","Cochran County, Texas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48079",5,"541",75,0,2013,3,"N","Cochran County, Texas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48079",5,"5411",76,0,2013,1,"N","Cochran County, Texas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"5411",76,0,2013,2,"N","Cochran County, Texas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"5411",76,0,2013,3,"N","Cochran County, Texas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"54111",77,0,2013,1,"N","Cochran County, Texas","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"54111",77,0,2013,2,"N","Cochran County, Texas","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"54111",77,0,2013,3,"N","Cochran County, Texas","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"541110",78,0,2013,1,"N","Cochran County, Texas","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"541110",78,0,2013,2,"N","Cochran County, Texas","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"541110",78,0,2013,3,"N","Cochran County, Texas","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"5412",76,0,2013,1,"N","Cochran County, Texas","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"5412",76,0,2013,2,"N","Cochran County, Texas","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"5412",76,0,2013,3,"N","Cochran County, Texas","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"54121",77,0,2013,1,"N","Cochran County, Texas","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"54121",77,0,2013,2,"N","Cochran County, Texas","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"54121",77,0,2013,3,"N","Cochran County, Texas","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"541219",78,0,2013,1,"N","Cochran County, Texas","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"541219",78,0,2013,2,"N","Cochran County, Texas","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"541219",78,0,2013,3,"N","Cochran County, Texas","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"5416",76,0,2013,1,"-","Cochran County, Texas","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"5416",76,0,2013,2,"N","Cochran County, Texas","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"5416",76,0,2013,3,"N","Cochran County, Texas","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"54161",77,0,2013,1,"-","Cochran County, Texas","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"54161",77,0,2013,2,"N","Cochran County, Texas","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"54161",77,0,2013,3,"N","Cochran County, Texas","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"541618",78,0,2013,1,"-","Cochran County, Texas","Private","Other management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"541618",78,0,2013,2,"N","Cochran County, Texas","Private","Other management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"541618",78,0,2013,3,"N","Cochran County, Texas","Private","Other management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"62",74,0,2013,1,"","Cochran County, Texas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,28,28,28,320485,245911,10165,880
+"48079",5,"62",74,0,2013,2,"","Cochran County, Texas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,36,35,34,297299,55850,1738,653
+"48079",5,"62",74,0,2013,3,"","Cochran County, Texas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,34,30,32,335898,33351,1185,807
+"48079",5,"621",75,0,2013,1,"N","Cochran County, Texas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48079",5,"621",75,0,2013,2,"N","Cochran County, Texas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"621",75,0,2013,3,"N","Cochran County, Texas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"6212",76,0,2013,1,"-","Cochran County, Texas","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"6212",76,0,2013,2,"N","Cochran County, Texas","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"6212",76,0,2013,3,"N","Cochran County, Texas","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"62121",77,0,2013,1,"-","Cochran County, Texas","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"62121",77,0,2013,2,"N","Cochran County, Texas","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"62121",77,0,2013,3,"N","Cochran County, Texas","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"621210",78,0,2013,1,"-","Cochran County, Texas","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"621210",78,0,2013,2,"N","Cochran County, Texas","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"621210",78,0,2013,3,"N","Cochran County, Texas","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"6216",76,0,2013,1,"N","Cochran County, Texas","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"6216",76,0,2013,2,"N","Cochran County, Texas","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"6216",76,0,2013,3,"N","Cochran County, Texas","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"62161",77,0,2013,1,"N","Cochran County, Texas","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"62161",77,0,2013,2,"N","Cochran County, Texas","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"62161",77,0,2013,3,"N","Cochran County, Texas","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"621610",78,0,2013,1,"N","Cochran County, Texas","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"621610",78,0,2013,2,"N","Cochran County, Texas","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"621610",78,0,2013,3,"N","Cochran County, Texas","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"6219",76,0,2013,1,"N","Cochran County, Texas","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"6219",76,0,2013,2,"N","Cochran County, Texas","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"6219",76,0,2013,3,"N","Cochran County, Texas","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"62191",77,0,2013,1,"N","Cochran County, Texas","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"62191",77,0,2013,2,"N","Cochran County, Texas","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"62191",77,0,2013,3,"N","Cochran County, Texas","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"621910",78,0,2013,1,"N","Cochran County, Texas","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"621910",78,0,2013,2,"N","Cochran County, Texas","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"621910",78,0,2013,3,"N","Cochran County, Texas","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"623",75,0,2013,1,"N","Cochran County, Texas","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"623",75,0,2013,2,"N","Cochran County, Texas","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"623",75,0,2013,3,"N","Cochran County, Texas","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"6239",76,0,2013,1,"N","Cochran County, Texas","Private","Other residential care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"6239",76,0,2013,2,"N","Cochran County, Texas","Private","Other residential care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"6239",76,0,2013,3,"N","Cochran County, Texas","Private","Other residential care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"62399",77,0,2013,1,"N","Cochran County, Texas","Private","Other residential care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"62399",77,0,2013,2,"N","Cochran County, Texas","Private","Other residential care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"62399",77,0,2013,3,"N","Cochran County, Texas","Private","Other residential care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"623990",78,0,2013,1,"N","Cochran County, Texas","Private","Other residential care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"623990",78,0,2013,2,"N","Cochran County, Texas","Private","Other residential care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"623990",78,0,2013,3,"N","Cochran County, Texas","Private","Other residential care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"71",74,0,2013,1,"N","Cochran County, Texas","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"71",74,0,2013,2,"N","Cochran County, Texas","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"71",74,0,2013,3,"N","Cochran County, Texas","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48079",5,"711",75,0,2013,1,"N","Cochran County, Texas","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"711",75,0,2013,2,"N","Cochran County, Texas","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"711",75,0,2013,3,"N","Cochran County, Texas","Private","Performing arts and spectator sports","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"7115",76,0,2013,1,"N","Cochran County, Texas","Private","Independent artists, writers, and performers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"7115",76,0,2013,2,"N","Cochran County, Texas","Private","Independent artists, writers, and performers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"7115",76,0,2013,3,"N","Cochran County, Texas","Private","Independent artists, writers, and performers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"71151",77,0,2013,1,"N","Cochran County, Texas","Private","Independent artists, writers, and performers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"71151",77,0,2013,2,"N","Cochran County, Texas","Private","Independent artists, writers, and performers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"71151",77,0,2013,3,"N","Cochran County, Texas","Private","Independent artists, writers, and performers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"711510",78,0,2013,1,"N","Cochran County, Texas","Private","Independent artists, writers, and performers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"711510",78,0,2013,2,"N","Cochran County, Texas","Private","Independent artists, writers, and performers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"711510",78,0,2013,3,"N","Cochran County, Texas","Private","Independent artists, writers, and performers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"713",75,0,2013,1,"N","Cochran County, Texas","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"713",75,0,2013,2,"N","Cochran County, Texas","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"713",75,0,2013,3,"N","Cochran County, Texas","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"7139",76,0,2013,1,"N","Cochran County, Texas","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"7139",76,0,2013,2,"N","Cochran County, Texas","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"7139",76,0,2013,3,"N","Cochran County, Texas","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"71391",77,0,2013,1,"N","Cochran County, Texas","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"71391",77,0,2013,2,"N","Cochran County, Texas","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"71391",77,0,2013,3,"N","Cochran County, Texas","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"713910",78,0,2013,1,"N","Cochran County, Texas","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"713910",78,0,2013,2,"N","Cochran County, Texas","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"713910",78,0,2013,3,"N","Cochran County, Texas","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"72",74,0,2013,1,"N","Cochran County, Texas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"72",74,0,2013,2,"N","Cochran County, Texas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"72",74,0,2013,3,"N","Cochran County, Texas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"722",75,0,2013,1,"N","Cochran County, Texas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"722",75,0,2013,2,"N","Cochran County, Texas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"722",75,0,2013,3,"N","Cochran County, Texas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"7225",76,0,2013,1,"N","Cochran County, Texas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"7225",76,0,2013,2,"N","Cochran County, Texas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"7225",76,0,2013,3,"N","Cochran County, Texas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"72251",77,0,2013,1,"N","Cochran County, Texas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"72251",77,0,2013,2,"N","Cochran County, Texas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"72251",77,0,2013,3,"N","Cochran County, Texas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48079",5,"722511",78,0,2013,1,"","Cochran County, Texas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,8,8,19386,19386,273,179
+"48079",5,"722511",78,0,2013,2,"","Cochran County, Texas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,9,8,16207,16207,199,144
+"48079",5,"722511",78,0,2013,3,"","Cochran County, Texas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,7,7,13968,12108,113,161
+"48079",5,"722513",78,0,2013,1,"N","Cochran County, Texas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"722513",78,0,2013,2,"N","Cochran County, Texas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"722513",78,0,2013,3,"N","Cochran County, Texas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"81",74,0,2013,1,"","Cochran County, Texas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,9,9,10,61967,52711,1065,511
+"48079",5,"81",74,0,2013,2,"","Cochran County, Texas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,10,10,9,75432,20603,720,600
+"48079",5,"81",74,0,2013,3,"","Cochran County, Texas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,10,11,11,71815,10252,675,518
+"48079",5,"811",75,0,2013,1,"N","Cochran County, Texas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"811",75,0,2013,2,"N","Cochran County, Texas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"811",75,0,2013,3,"N","Cochran County, Texas","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"8113",76,0,2013,1,"N","Cochran County, Texas","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"8113",76,0,2013,2,"N","Cochran County, Texas","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"8113",76,0,2013,3,"N","Cochran County, Texas","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"81131",77,0,2013,1,"N","Cochran County, Texas","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"81131",77,0,2013,2,"N","Cochran County, Texas","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"81131",77,0,2013,3,"N","Cochran County, Texas","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"811310",78,0,2013,1,"N","Cochran County, Texas","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"811310",78,0,2013,2,"N","Cochran County, Texas","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"811310",78,0,2013,3,"N","Cochran County, Texas","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"813",75,0,2013,1,"N","Cochran County, Texas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"813",75,0,2013,2,"N","Cochran County, Texas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"813",75,0,2013,3,"N","Cochran County, Texas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"8139",76,0,2013,1,"N","Cochran County, Texas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"8139",76,0,2013,2,"N","Cochran County, Texas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"8139",76,0,2013,3,"N","Cochran County, Texas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"81391",77,0,2013,1,"N","Cochran County, Texas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"81391",77,0,2013,2,"N","Cochran County, Texas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"81391",77,0,2013,3,"N","Cochran County, Texas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"813910",78,0,2013,1,"N","Cochran County, Texas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"813910",78,0,2013,2,"N","Cochran County, Texas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"813910",78,0,2013,3,"N","Cochran County, Texas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"814",75,0,2013,1,"N","Cochran County, Texas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"814",75,0,2013,2,"N","Cochran County, Texas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"814",75,0,2013,3,"N","Cochran County, Texas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"8141",76,0,2013,1,"N","Cochran County, Texas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"8141",76,0,2013,2,"N","Cochran County, Texas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"8141",76,0,2013,3,"N","Cochran County, Texas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"81411",77,0,2013,1,"N","Cochran County, Texas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"81411",77,0,2013,2,"N","Cochran County, Texas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"81411",77,0,2013,3,"N","Cochran County, Texas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"814110",78,0,2013,1,"N","Cochran County, Texas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"814110",78,0,2013,2,"N","Cochran County, Texas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"814110",78,0,2013,3,"N","Cochran County, Texas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48079",5,"99",74,0,2013,1,"","Cochran County, Texas","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",1,1,7,3,13675,13675,369,287
+"48079",5,"99",74,0,2013,2,"-","Cochran County, Texas","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"99",74,0,2013,3,"-","Cochran County, Texas","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"999",75,0,2013,1,"","Cochran County, Texas","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,7,3,13675,13675,369,287
+"48079",5,"999",75,0,2013,2,"-","Cochran County, Texas","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"999",75,0,2013,3,"-","Cochran County, Texas","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"9999",76,0,2013,1,"","Cochran County, Texas","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,7,3,13675,13675,369,287
+"48079",5,"9999",76,0,2013,2,"-","Cochran County, Texas","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"9999",76,0,2013,3,"-","Cochran County, Texas","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"99999",77,0,2013,1,"","Cochran County, Texas","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,7,3,13675,13675,369,287
+"48079",5,"99999",77,0,2013,2,"-","Cochran County, Texas","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"99999",77,0,2013,3,"-","Cochran County, Texas","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"999999",78,0,2013,1,"","Cochran County, Texas","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,7,3,13675,13675,369,287
+"48079",5,"999999",78,0,2013,2,"-","Cochran County, Texas","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48079",5,"999999",78,0,2013,3,"-","Cochran County, Texas","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+

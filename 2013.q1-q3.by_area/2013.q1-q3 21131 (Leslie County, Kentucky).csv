@@ -1,0 +1,983 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"21131",0,"10",70,0,2013,1,"","Leslie County, Kentucky","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",162,1933,1919,1947,17925869,7313678,204626,713
+"21131",0,"10",70,0,2013,2,"","Leslie County, Kentucky","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",166,1942,1947,1975,19337103,2016733,56984,761
+"21131",0,"10",70,0,2013,3,"","Leslie County, Kentucky","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",166,1683,1879,1953,15797302,1279197,33542,661
+"21131",1,"10",71,0,2013,1,"","Leslie County, Kentucky","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,17,18,18,131820,0,0,574
+"21131",1,"10",71,0,2013,2,"","Leslie County, Kentucky","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,16,17,17,112709,0,0,520
+"21131",1,"10",71,0,2013,3,"","Leslie County, Kentucky","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,17,19,20,135254,0,0,557
+"21131",1,"102",72,0,2013,1,"","Leslie County, Kentucky","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",11,17,18,18,131820,0,0,574
+"21131",1,"102",72,0,2013,2,"","Leslie County, Kentucky","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",11,16,17,17,112709,0,0,520
+"21131",1,"102",72,0,2013,3,"","Leslie County, Kentucky","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,17,19,20,135254,0,0,557
+"21131",1,"1021",73,0,2013,1,"","Leslie County, Kentucky","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",10,16,17,17,130456,0,0,602
+"21131",1,"1021",73,0,2013,2,"","Leslie County, Kentucky","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",10,16,17,17,112709,0,0,520
+"21131",1,"1021",73,0,2013,3,"","Leslie County, Kentucky","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",9,17,18,19,133831,0,0,572
+"21131",1,"1028",73,0,2013,1,"","Leslie County, Kentucky","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,1,1,1,1364,0,0,105
+"21131",1,"1028",73,0,2013,2,"","Leslie County, Kentucky","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",1,"1028",73,0,2013,3,"","Leslie County, Kentucky","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,1,1,1423,0,0,164
+"21131",1,"48-49",74,0,2013,1,"","Leslie County, Kentucky","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",10,16,17,17,130456,0,0,602
+"21131",1,"48-49",74,0,2013,2,"","Leslie County, Kentucky","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",10,16,17,17,112709,0,0,520
+"21131",1,"48-49",74,0,2013,3,"","Leslie County, Kentucky","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",9,17,18,19,133831,0,0,572
+"21131",1,"491",75,0,2013,1,"","Leslie County, Kentucky","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,16,17,17,130456,0,0,602
+"21131",1,"491",75,0,2013,2,"","Leslie County, Kentucky","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,16,17,17,112709,0,0,520
+"21131",1,"491",75,0,2013,3,"","Leslie County, Kentucky","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,17,18,19,133831,0,0,572
+"21131",1,"4911",76,0,2013,1,"","Leslie County, Kentucky","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",10,16,17,17,130456,0,0,602
+"21131",1,"4911",76,0,2013,2,"","Leslie County, Kentucky","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",10,16,17,17,112709,0,0,520
+"21131",1,"4911",76,0,2013,3,"","Leslie County, Kentucky","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,17,18,19,133831,0,0,572
+"21131",1,"49111",77,0,2013,1,"","Leslie County, Kentucky","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",10,16,17,17,130456,0,0,602
+"21131",1,"49111",77,0,2013,2,"","Leslie County, Kentucky","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",10,16,17,17,112709,0,0,520
+"21131",1,"49111",77,0,2013,3,"","Leslie County, Kentucky","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,17,18,19,133831,0,0,572
+"21131",1,"491110",78,0,2013,1,"","Leslie County, Kentucky","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",10,16,17,17,130456,0,0,602
+"21131",1,"491110",78,0,2013,2,"","Leslie County, Kentucky","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",10,16,17,17,112709,0,0,520
+"21131",1,"491110",78,0,2013,3,"","Leslie County, Kentucky","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",9,17,18,19,133831,0,0,572
+"21131",1,"92",74,0,2013,1,"","Leslie County, Kentucky","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,1,1,1,1364,0,0,105
+"21131",1,"92",74,0,2013,2,"","Leslie County, Kentucky","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",1,"92",74,0,2013,3,"","Leslie County, Kentucky","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,1,1,1423,0,0,164
+"21131",1,"926",75,0,2013,1,"","Leslie County, Kentucky","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,1364,0,0,105
+"21131",1,"926",75,0,2013,2,"","Leslie County, Kentucky","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",1,"926",75,0,2013,3,"","Leslie County, Kentucky","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,1,1,1423,0,0,164
+"21131",1,"9261",76,0,2013,1,"","Leslie County, Kentucky","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,1364,0,0,105
+"21131",1,"9261",76,0,2013,2,"","Leslie County, Kentucky","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",1,"9261",76,0,2013,3,"","Leslie County, Kentucky","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,1,1,1423,0,0,164
+"21131",1,"92611",77,0,2013,1,"","Leslie County, Kentucky","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,1364,0,0,105
+"21131",1,"92611",77,0,2013,2,"","Leslie County, Kentucky","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",1,"92611",77,0,2013,3,"","Leslie County, Kentucky","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,1,1,1423,0,0,164
+"21131",1,"926110",78,0,2013,1,"","Leslie County, Kentucky","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,1364,0,0,105
+"21131",1,"926110",78,0,2013,2,"","Leslie County, Kentucky","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",1,"926110",78,0,2013,3,"","Leslie County, Kentucky","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,1,1,1423,0,0,164
+"21131",2,"10",71,0,2013,1,"","Leslie County, Kentucky","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",13,73,73,73,663971,0,0,700
+"21131",2,"10",71,0,2013,2,"","Leslie County, Kentucky","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",13,71,71,71,647328,0,0,701
+"21131",2,"10",71,0,2013,3,"","Leslie County, Kentucky","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",13,72,73,73,634813,0,0,672
+"21131",2,"102",72,0,2013,1,"","Leslie County, Kentucky","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",13,73,73,73,663971,0,0,700
+"21131",2,"102",72,0,2013,2,"","Leslie County, Kentucky","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",13,71,71,71,647328,0,0,701
+"21131",2,"102",72,0,2013,3,"","Leslie County, Kentucky","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",13,72,73,73,634813,0,0,672
+"21131",2,"1025",73,0,2013,1,"N","Leslie County, Kentucky","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",2,"1025",73,0,2013,2,"N","Leslie County, Kentucky","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",2,"1025",73,0,2013,3,"N","Leslie County, Kentucky","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",2,"1028",73,0,2013,1,"N","Leslie County, Kentucky","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"21131",2,"1028",73,0,2013,2,"N","Leslie County, Kentucky","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"21131",2,"1028",73,0,2013,3,"N","Leslie County, Kentucky","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"21131",2,"61",74,0,2013,1,"N","Leslie County, Kentucky","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"61",74,0,2013,2,"N","Leslie County, Kentucky","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"61",74,0,2013,3,"N","Leslie County, Kentucky","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"611",75,0,2013,1,"N","Leslie County, Kentucky","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"611",75,0,2013,2,"N","Leslie County, Kentucky","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"611",75,0,2013,3,"N","Leslie County, Kentucky","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"6115",76,0,2013,1,"N","Leslie County, Kentucky","State Government","Technical and trade schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"6115",76,0,2013,2,"N","Leslie County, Kentucky","State Government","Technical and trade schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"6115",76,0,2013,3,"N","Leslie County, Kentucky","State Government","Technical and trade schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"61151",77,0,2013,1,"N","Leslie County, Kentucky","State Government","Technical and trade schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"61151",77,0,2013,2,"N","Leslie County, Kentucky","State Government","Technical and trade schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"61151",77,0,2013,3,"N","Leslie County, Kentucky","State Government","Technical and trade schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"611519",78,0,2013,1,"N","Leslie County, Kentucky","State Government","Other technical and trade schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"611519",78,0,2013,2,"N","Leslie County, Kentucky","State Government","Other technical and trade schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"611519",78,0,2013,3,"N","Leslie County, Kentucky","State Government","Other technical and trade schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"62",74,0,2013,1,"N","Leslie County, Kentucky","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"62",74,0,2013,2,"N","Leslie County, Kentucky","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"62",74,0,2013,3,"N","Leslie County, Kentucky","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"623",75,0,2013,1,"N","Leslie County, Kentucky","State Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"623",75,0,2013,2,"N","Leslie County, Kentucky","State Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"623",75,0,2013,3,"N","Leslie County, Kentucky","State Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"6239",76,0,2013,1,"N","Leslie County, Kentucky","State Government","Other residential care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"6239",76,0,2013,2,"N","Leslie County, Kentucky","State Government","Other residential care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"6239",76,0,2013,3,"N","Leslie County, Kentucky","State Government","Other residential care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"62399",77,0,2013,1,"N","Leslie County, Kentucky","State Government","Other residential care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"62399",77,0,2013,2,"N","Leslie County, Kentucky","State Government","Other residential care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"62399",77,0,2013,3,"N","Leslie County, Kentucky","State Government","Other residential care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"623990",78,0,2013,1,"N","Leslie County, Kentucky","State Government","Other residential care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"623990",78,0,2013,2,"N","Leslie County, Kentucky","State Government","Other residential care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"623990",78,0,2013,3,"N","Leslie County, Kentucky","State Government","Other residential care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"624",75,0,2013,1,"N","Leslie County, Kentucky","State Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"624",75,0,2013,2,"N","Leslie County, Kentucky","State Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"624",75,0,2013,3,"N","Leslie County, Kentucky","State Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"6241",76,0,2013,1,"N","Leslie County, Kentucky","State Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"6241",76,0,2013,2,"N","Leslie County, Kentucky","State Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"6241",76,0,2013,3,"N","Leslie County, Kentucky","State Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"62419",77,0,2013,1,"N","Leslie County, Kentucky","State Government","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"62419",77,0,2013,2,"N","Leslie County, Kentucky","State Government","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"62419",77,0,2013,3,"N","Leslie County, Kentucky","State Government","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"624190",78,0,2013,1,"N","Leslie County, Kentucky","State Government","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"624190",78,0,2013,2,"N","Leslie County, Kentucky","State Government","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"624190",78,0,2013,3,"N","Leslie County, Kentucky","State Government","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92",74,0,2013,1,"N","Leslie County, Kentucky","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"21131",2,"92",74,0,2013,2,"N","Leslie County, Kentucky","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"21131",2,"92",74,0,2013,3,"N","Leslie County, Kentucky","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"21131",2,"921",75,0,2013,1,"N","Leslie County, Kentucky","State Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"921",75,0,2013,2,"N","Leslie County, Kentucky","State Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"921",75,0,2013,3,"N","Leslie County, Kentucky","State Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"9211",76,0,2013,1,"N","Leslie County, Kentucky","State Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"9211",76,0,2013,2,"N","Leslie County, Kentucky","State Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"9211",76,0,2013,3,"N","Leslie County, Kentucky","State Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"92113",77,0,2013,1,"N","Leslie County, Kentucky","State Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92113",77,0,2013,2,"N","Leslie County, Kentucky","State Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92113",77,0,2013,3,"N","Leslie County, Kentucky","State Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"921130",78,0,2013,1,"N","Leslie County, Kentucky","State Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"921130",78,0,2013,2,"N","Leslie County, Kentucky","State Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"921130",78,0,2013,3,"N","Leslie County, Kentucky","State Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92119",77,0,2013,1,"N","Leslie County, Kentucky","State Government","Other general government support","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92119",77,0,2013,2,"N","Leslie County, Kentucky","State Government","Other general government support","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92119",77,0,2013,3,"N","Leslie County, Kentucky","State Government","Other general government support","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"921190",78,0,2013,1,"N","Leslie County, Kentucky","State Government","Other general government support","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"921190",78,0,2013,2,"N","Leslie County, Kentucky","State Government","Other general government support","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"921190",78,0,2013,3,"N","Leslie County, Kentucky","State Government","Other general government support","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"922",75,0,2013,1,"N","Leslie County, Kentucky","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"922",75,0,2013,2,"N","Leslie County, Kentucky","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"922",75,0,2013,3,"N","Leslie County, Kentucky","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"9221",76,0,2013,1,"N","Leslie County, Kentucky","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"9221",76,0,2013,2,"N","Leslie County, Kentucky","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"9221",76,0,2013,3,"N","Leslie County, Kentucky","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"92211",77,0,2013,1,"N","Leslie County, Kentucky","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92211",77,0,2013,2,"N","Leslie County, Kentucky","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92211",77,0,2013,3,"N","Leslie County, Kentucky","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"922110",78,0,2013,1,"N","Leslie County, Kentucky","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"922110",78,0,2013,2,"N","Leslie County, Kentucky","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"922110",78,0,2013,3,"N","Leslie County, Kentucky","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92213",77,0,2013,1,"N","Leslie County, Kentucky","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92213",77,0,2013,2,"N","Leslie County, Kentucky","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92213",77,0,2013,3,"N","Leslie County, Kentucky","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"922130",78,0,2013,1,"N","Leslie County, Kentucky","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"922130",78,0,2013,2,"N","Leslie County, Kentucky","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"922130",78,0,2013,3,"N","Leslie County, Kentucky","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"923",75,0,2013,1,"N","Leslie County, Kentucky","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"923",75,0,2013,2,"N","Leslie County, Kentucky","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"923",75,0,2013,3,"N","Leslie County, Kentucky","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"9231",76,0,2013,1,"N","Leslie County, Kentucky","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"9231",76,0,2013,2,"N","Leslie County, Kentucky","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"9231",76,0,2013,3,"N","Leslie County, Kentucky","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92313",77,0,2013,1,"N","Leslie County, Kentucky","State Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92313",77,0,2013,2,"N","Leslie County, Kentucky","State Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92313",77,0,2013,3,"N","Leslie County, Kentucky","State Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"923130",78,0,2013,1,"N","Leslie County, Kentucky","State Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"923130",78,0,2013,2,"N","Leslie County, Kentucky","State Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"923130",78,0,2013,3,"N","Leslie County, Kentucky","State Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"924",75,0,2013,1,"N","Leslie County, Kentucky","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"924",75,0,2013,2,"N","Leslie County, Kentucky","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"924",75,0,2013,3,"N","Leslie County, Kentucky","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"9241",76,0,2013,1,"N","Leslie County, Kentucky","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"9241",76,0,2013,2,"N","Leslie County, Kentucky","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"9241",76,0,2013,3,"N","Leslie County, Kentucky","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"92412",77,0,2013,1,"N","Leslie County, Kentucky","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"92412",77,0,2013,2,"N","Leslie County, Kentucky","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"92412",77,0,2013,3,"N","Leslie County, Kentucky","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"924120",78,0,2013,1,"N","Leslie County, Kentucky","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"924120",78,0,2013,2,"N","Leslie County, Kentucky","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"924120",78,0,2013,3,"N","Leslie County, Kentucky","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",2,"926",75,0,2013,1,"N","Leslie County, Kentucky","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",2,"926",75,0,2013,2,"N","Leslie County, Kentucky","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",2,"926",75,0,2013,3,"N","Leslie County, Kentucky","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",2,"9261",76,0,2013,1,"N","Leslie County, Kentucky","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",2,"9261",76,0,2013,2,"N","Leslie County, Kentucky","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",2,"9261",76,0,2013,3,"N","Leslie County, Kentucky","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",2,"92612",77,0,2013,1,"N","Leslie County, Kentucky","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92612",77,0,2013,2,"N","Leslie County, Kentucky","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92612",77,0,2013,3,"N","Leslie County, Kentucky","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"926120",78,0,2013,1,"N","Leslie County, Kentucky","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"926120",78,0,2013,2,"N","Leslie County, Kentucky","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"926120",78,0,2013,3,"N","Leslie County, Kentucky","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92614",77,0,2013,1,"N","Leslie County, Kentucky","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92614",77,0,2013,2,"N","Leslie County, Kentucky","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92614",77,0,2013,3,"N","Leslie County, Kentucky","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"926140",78,0,2013,1,"N","Leslie County, Kentucky","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"926140",78,0,2013,2,"N","Leslie County, Kentucky","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"926140",78,0,2013,3,"N","Leslie County, Kentucky","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92615",77,0,2013,1,"N","Leslie County, Kentucky","State Government","Licensing and regulating commercial sectors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92615",77,0,2013,2,"N","Leslie County, Kentucky","State Government","Licensing and regulating commercial sectors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"92615",77,0,2013,3,"N","Leslie County, Kentucky","State Government","Licensing and regulating commercial sectors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"926150",78,0,2013,1,"N","Leslie County, Kentucky","State Government","Licensing and regulating commercial sectors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"926150",78,0,2013,2,"N","Leslie County, Kentucky","State Government","Licensing and regulating commercial sectors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",2,"926150",78,0,2013,3,"N","Leslie County, Kentucky","State Government","Licensing and regulating commercial sectors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"10",71,0,2013,1,"","Leslie County, Kentucky","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,529,530,546,3842352,112828,3575,552
+"21131",3,"10",71,0,2013,2,"","Leslie County, Kentucky","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,550,540,565,5353148,45418,2032,746
+"21131",3,"10",71,0,2013,3,"","Leslie County, Kentucky","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,245,435,516,2497962,14882,846,482
+"21131",3,"102",72,0,2013,1,"","Leslie County, Kentucky","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,529,530,546,3842352,112828,3575,552
+"21131",3,"102",72,0,2013,2,"","Leslie County, Kentucky","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,550,540,565,5353148,45418,2032,746
+"21131",3,"102",72,0,2013,3,"","Leslie County, Kentucky","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,245,435,516,2497962,14882,846,482
+"21131",3,"1021",73,0,2013,1,"N","Leslie County, Kentucky","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"1021",73,0,2013,2,"N","Leslie County, Kentucky","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"1021",73,0,2013,3,"N","Leslie County, Kentucky","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"1022",73,0,2013,1,"N","Leslie County, Kentucky","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"1022",73,0,2013,2,"N","Leslie County, Kentucky","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"1022",73,0,2013,3,"N","Leslie County, Kentucky","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"1025",73,0,2013,1,"N","Leslie County, Kentucky","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",3,"1025",73,0,2013,2,"N","Leslie County, Kentucky","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",3,"1025",73,0,2013,3,"N","Leslie County, Kentucky","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",3,"1028",73,0,2013,1,"","Leslie County, Kentucky","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,148,145,146,754436,48482,2417,397
+"21131",3,"1028",73,0,2013,2,"","Leslie County, Kentucky","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,148,151,163,892391,31494,1781,446
+"21131",3,"1028",73,0,2013,3,"","Leslie County, Kentucky","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,162,163,149,761019,10142,761,371
+"21131",3,"22",74,0,2013,1,"N","Leslie County, Kentucky","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"22",74,0,2013,2,"N","Leslie County, Kentucky","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"22",74,0,2013,3,"N","Leslie County, Kentucky","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"221",75,0,2013,1,"N","Leslie County, Kentucky","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"221",75,0,2013,2,"N","Leslie County, Kentucky","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"221",75,0,2013,3,"N","Leslie County, Kentucky","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"2213",76,0,2013,1,"N","Leslie County, Kentucky","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"2213",76,0,2013,2,"N","Leslie County, Kentucky","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"2213",76,0,2013,3,"N","Leslie County, Kentucky","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"22131",77,0,2013,1,"N","Leslie County, Kentucky","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"22131",77,0,2013,2,"N","Leslie County, Kentucky","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"22131",77,0,2013,3,"N","Leslie County, Kentucky","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"221310",78,0,2013,1,"N","Leslie County, Kentucky","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"221310",78,0,2013,2,"N","Leslie County, Kentucky","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"221310",78,0,2013,3,"N","Leslie County, Kentucky","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"51",74,0,2013,1,"N","Leslie County, Kentucky","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"51",74,0,2013,2,"N","Leslie County, Kentucky","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"51",74,0,2013,3,"N","Leslie County, Kentucky","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"519",75,0,2013,1,"N","Leslie County, Kentucky","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"519",75,0,2013,2,"N","Leslie County, Kentucky","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"519",75,0,2013,3,"N","Leslie County, Kentucky","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"5191",76,0,2013,1,"N","Leslie County, Kentucky","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"5191",76,0,2013,2,"N","Leslie County, Kentucky","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"5191",76,0,2013,3,"N","Leslie County, Kentucky","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"51912",77,0,2013,1,"N","Leslie County, Kentucky","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"51912",77,0,2013,2,"N","Leslie County, Kentucky","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"51912",77,0,2013,3,"N","Leslie County, Kentucky","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"519120",78,0,2013,1,"N","Leslie County, Kentucky","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"519120",78,0,2013,2,"N","Leslie County, Kentucky","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"519120",78,0,2013,3,"N","Leslie County, Kentucky","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"61",74,0,2013,1,"N","Leslie County, Kentucky","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"61",74,0,2013,2,"N","Leslie County, Kentucky","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"61",74,0,2013,3,"N","Leslie County, Kentucky","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"611",75,0,2013,1,"N","Leslie County, Kentucky","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"611",75,0,2013,2,"N","Leslie County, Kentucky","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"611",75,0,2013,3,"N","Leslie County, Kentucky","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"6111",76,0,2013,1,"N","Leslie County, Kentucky","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"6111",76,0,2013,2,"N","Leslie County, Kentucky","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"6111",76,0,2013,3,"N","Leslie County, Kentucky","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"61111",77,0,2013,1,"N","Leslie County, Kentucky","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"61111",77,0,2013,2,"N","Leslie County, Kentucky","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"61111",77,0,2013,3,"N","Leslie County, Kentucky","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"611110",78,0,2013,1,"N","Leslie County, Kentucky","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"611110",78,0,2013,2,"N","Leslie County, Kentucky","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"611110",78,0,2013,3,"N","Leslie County, Kentucky","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"62",74,0,2013,1,"N","Leslie County, Kentucky","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"62",74,0,2013,2,"N","Leslie County, Kentucky","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"62",74,0,2013,3,"N","Leslie County, Kentucky","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"621",75,0,2013,1,"N","Leslie County, Kentucky","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"621",75,0,2013,2,"N","Leslie County, Kentucky","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"621",75,0,2013,3,"N","Leslie County, Kentucky","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"6214",76,0,2013,1,"N","Leslie County, Kentucky","Local Government","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"6214",76,0,2013,2,"N","Leslie County, Kentucky","Local Government","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"6214",76,0,2013,3,"N","Leslie County, Kentucky","Local Government","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"62149",77,0,2013,1,"N","Leslie County, Kentucky","Local Government","Other outpatient care centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"62149",77,0,2013,2,"N","Leslie County, Kentucky","Local Government","Other outpatient care centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"62149",77,0,2013,3,"N","Leslie County, Kentucky","Local Government","Other outpatient care centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"621498",78,0,2013,1,"N","Leslie County, Kentucky","Local Government","All other outpatient care centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"621498",78,0,2013,2,"N","Leslie County, Kentucky","Local Government","All other outpatient care centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"621498",78,0,2013,3,"N","Leslie County, Kentucky","Local Government","All other outpatient care centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"92",74,0,2013,1,"","Leslie County, Kentucky","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,148,145,146,754436,48482,2417,397
+"21131",3,"92",74,0,2013,2,"","Leslie County, Kentucky","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,148,151,163,892391,31494,1781,446
+"21131",3,"92",74,0,2013,3,"","Leslie County, Kentucky","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,162,163,149,761019,10142,761,371
+"21131",3,"921",75,0,2013,1,"N","Leslie County, Kentucky","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",3,"921",75,0,2013,2,"N","Leslie County, Kentucky","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",3,"921",75,0,2013,3,"N","Leslie County, Kentucky","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",3,"9211",76,0,2013,1,"N","Leslie County, Kentucky","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",3,"9211",76,0,2013,2,"N","Leslie County, Kentucky","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",3,"9211",76,0,2013,3,"N","Leslie County, Kentucky","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",3,"92114",77,0,2013,1,"N","Leslie County, Kentucky","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",3,"92114",77,0,2013,2,"N","Leslie County, Kentucky","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",3,"92114",77,0,2013,3,"N","Leslie County, Kentucky","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",3,"921140",78,0,2013,1,"N","Leslie County, Kentucky","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",3,"921140",78,0,2013,2,"N","Leslie County, Kentucky","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",3,"921140",78,0,2013,3,"N","Leslie County, Kentucky","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",3,"922",75,0,2013,1,"N","Leslie County, Kentucky","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",3,"922",75,0,2013,2,"N","Leslie County, Kentucky","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",3,"922",75,0,2013,3,"N","Leslie County, Kentucky","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",3,"9221",76,0,2013,1,"N","Leslie County, Kentucky","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",3,"9221",76,0,2013,2,"N","Leslie County, Kentucky","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",3,"9221",76,0,2013,3,"N","Leslie County, Kentucky","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",3,"92211",77,0,2013,1,"N","Leslie County, Kentucky","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"92211",77,0,2013,2,"N","Leslie County, Kentucky","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"92211",77,0,2013,3,"N","Leslie County, Kentucky","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"922110",78,0,2013,1,"N","Leslie County, Kentucky","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"922110",78,0,2013,2,"N","Leslie County, Kentucky","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"922110",78,0,2013,3,"N","Leslie County, Kentucky","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"92213",77,0,2013,1,"N","Leslie County, Kentucky","Local Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"92213",77,0,2013,2,"N","Leslie County, Kentucky","Local Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"92213",77,0,2013,3,"N","Leslie County, Kentucky","Local Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"922130",78,0,2013,1,"N","Leslie County, Kentucky","Local Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"922130",78,0,2013,2,"N","Leslie County, Kentucky","Local Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"922130",78,0,2013,3,"N","Leslie County, Kentucky","Local Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"92214",77,0,2013,1,"N","Leslie County, Kentucky","Local Government","Correctional institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"92214",77,0,2013,2,"N","Leslie County, Kentucky","Local Government","Correctional institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"92214",77,0,2013,3,"N","Leslie County, Kentucky","Local Government","Correctional institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"922140",78,0,2013,1,"N","Leslie County, Kentucky","Local Government","Correctional institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"922140",78,0,2013,2,"N","Leslie County, Kentucky","Local Government","Correctional institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"922140",78,0,2013,3,"N","Leslie County, Kentucky","Local Government","Correctional institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"924",75,0,2013,1,"N","Leslie County, Kentucky","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"924",75,0,2013,2,"N","Leslie County, Kentucky","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"924",75,0,2013,3,"N","Leslie County, Kentucky","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"9241",76,0,2013,1,"N","Leslie County, Kentucky","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"9241",76,0,2013,2,"N","Leslie County, Kentucky","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"9241",76,0,2013,3,"N","Leslie County, Kentucky","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"92412",77,0,2013,1,"N","Leslie County, Kentucky","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"92412",77,0,2013,2,"N","Leslie County, Kentucky","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"92412",77,0,2013,3,"N","Leslie County, Kentucky","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"924120",78,0,2013,1,"N","Leslie County, Kentucky","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"924120",78,0,2013,2,"N","Leslie County, Kentucky","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",3,"924120",78,0,2013,3,"N","Leslie County, Kentucky","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"10",71,0,2013,1,"","Leslie County, Kentucky","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",128,1314,1298,1310,13287726,7200850,201051,782
+"21131",5,"10",71,0,2013,2,"","Leslie County, Kentucky","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",132,1305,1319,1322,13223918,1971315,54952,773
+"21131",5,"10",71,0,2013,3,"","Leslie County, Kentucky","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",133,1349,1352,1344,12529273,1264315,32696,715
+"21131",5,"101",72,0,2013,1,"","Leslie County, Kentucky","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",17,415,398,398,6733986,3742678,128130,1283
+"21131",5,"101",72,0,2013,2,"","Leslie County, Kentucky","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",17,400,391,389,6457608,225140,18037,1263
+"21131",5,"101",72,0,2013,3,"","Leslie County, Kentucky","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",18,429,431,422,5810306,231900,12154,1046
+"21131",5,"1011",73,0,2013,1,"","Leslie County, Kentucky","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",12,382,369,369,6439481,3477420,102965,1327
+"21131",5,"1011",73,0,2013,2,"","Leslie County, Kentucky","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",12,371,361,358,6158357,123688,8689,1304
+"21131",5,"1011",73,0,2013,3,"","Leslie County, Kentucky","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",13,398,400,390,5463978,180213,7404,1061
+"21131",5,"1012",73,0,2013,1,"N","Leslie County, Kentucky","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"1012",73,0,2013,2,"N","Leslie County, Kentucky","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"1012",73,0,2013,3,"N","Leslie County, Kentucky","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"1013",73,0,2013,1,"N","Leslie County, Kentucky","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"1013",73,0,2013,2,"N","Leslie County, Kentucky","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"1013",73,0,2013,3,"N","Leslie County, Kentucky","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"102",72,0,2013,1,"","Leslie County, Kentucky","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",111,899,900,912,6553740,3458172,72921,558
+"21131",5,"102",72,0,2013,2,"","Leslie County, Kentucky","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",115,905,928,933,6766310,1746175,36915,565
+"21131",5,"102",72,0,2013,3,"","Leslie County, Kentucky","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",115,920,921,922,6718967,1032415,20542,561
+"21131",5,"1021",73,0,2013,1,"","Leslie County, Kentucky","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",39,219,214,217,1331694,1051873,25183,473
+"21131",5,"1021",73,0,2013,2,"","Leslie County, Kentucky","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",39,217,220,218,1291677,578897,13112,455
+"21131",5,"1021",73,0,2013,3,"","Leslie County, Kentucky","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",38,222,219,222,1375898,378900,7973,479
+"21131",5,"1022",73,0,2013,1,"","Leslie County, Kentucky","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",4,14,14,14,161974,108145,1085,890
+"21131",5,"1022",73,0,2013,2,"","Leslie County, Kentucky","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",4,14,14,14,141959,10145,105,780
+"21131",5,"1022",73,0,2013,3,"","Leslie County, Kentucky","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",4,13,13,13,168081,2510,27,995
+"21131",5,"1023",73,0,2013,1,"","Leslie County, Kentucky","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,50,50,50,478062,341021,3719,735
+"21131",5,"1023",73,0,2013,2,"","Leslie County, Kentucky","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,46,51,53,411506,100258,1114,633
+"21131",5,"1023",73,0,2013,3,"","Leslie County, Kentucky","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,55,54,54,460296,48149,507,652
+"21131",5,"1024",73,0,2013,1,"","Leslie County, Kentucky","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",14,93,95,91,742247,571201,16709,614
+"21131",5,"1024",73,0,2013,2,"","Leslie County, Kentucky","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",15,98,101,102,697719,294979,7806,535
+"21131",5,"1024",73,0,2013,3,"","Leslie County, Kentucky","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",15,100,105,106,677155,192520,4726,502
+"21131",5,"1025",73,0,2013,1,"","Leslie County, Kentucky","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",25,429,428,437,3388949,974098,17312,604
+"21131",5,"1025",73,0,2013,2,"","Leslie County, Kentucky","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",28,425,434,427,3750589,453376,8175,673
+"21131",5,"1025",73,0,2013,3,"","Leslie County, Kentucky","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",30,417,424,427,3566515,236155,4008,649
+"21131",5,"1026",73,0,2013,1,"","Leslie County, Kentucky","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",3,60,62,64,227009,224425,3196,282
+"21131",5,"1026",73,0,2013,2,"","Leslie County, Kentucky","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",3,65,66,66,238244,185644,2691,279
+"21131",5,"1026",73,0,2013,3,"","Leslie County, Kentucky","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",3,65,68,68,246576,123779,1707,283
+"21131",5,"1027",73,0,2013,1,"","Leslie County, Kentucky","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",21,34,37,39,223805,187409,5717,470
+"21131",5,"1027",73,0,2013,2,"","Leslie County, Kentucky","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",21,40,42,53,234616,122876,3912,401
+"21131",5,"1027",73,0,2013,3,"","Leslie County, Kentucky","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",20,48,38,32,224446,50402,1594,439
+"21131",5,"11",74,0,2013,1,"","Leslie County, Kentucky","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",5,7,2,6,15378,15377,582,237
+"21131",5,"11",74,0,2013,2,"N","Leslie County, Kentucky","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"21131",5,"11",74,0,2013,3,"","Leslie County, Kentucky","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",5,13,13,11,84643,30233,2363,528
+"21131",5,"113",75,0,2013,1,"","Leslie County, Kentucky","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,7,2,6,15378,15377,582,237
+"21131",5,"113",75,0,2013,2,"N","Leslie County, Kentucky","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"21131",5,"113",75,0,2013,3,"","Leslie County, Kentucky","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,13,13,11,84643,30233,2363,528
+"21131",5,"1133",76,0,2013,1,"","Leslie County, Kentucky","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,7,2,6,15378,15377,582,237
+"21131",5,"1133",76,0,2013,2,"N","Leslie County, Kentucky","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"21131",5,"1133",76,0,2013,3,"","Leslie County, Kentucky","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,13,13,11,84643,30233,2363,528
+"21131",5,"11331",77,0,2013,1,"","Leslie County, Kentucky","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,7,2,6,15378,15377,582,237
+"21131",5,"11331",77,0,2013,2,"N","Leslie County, Kentucky","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"21131",5,"11331",77,0,2013,3,"","Leslie County, Kentucky","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,13,13,11,84643,30233,2363,528
+"21131",5,"113310",78,0,2013,1,"","Leslie County, Kentucky","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,7,2,6,15378,15377,582,237
+"21131",5,"113310",78,0,2013,2,"N","Leslie County, Kentucky","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"21131",5,"113310",78,0,2013,3,"","Leslie County, Kentucky","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,13,13,11,84643,30233,2363,528
+"21131",5,"21",74,0,2013,1,"","Leslie County, Kentucky","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",7,375,367,363,6424103,3462043,102383,1342
+"21131",5,"21",74,0,2013,2,"N","Leslie County, Kentucky","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"21",74,0,2013,3,"","Leslie County, Kentucky","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",8,385,387,379,5379335,149980,5041,1079
+"21131",5,"211",75,0,2013,1,"N","Leslie County, Kentucky","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"211",75,0,2013,2,"N","Leslie County, Kentucky","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"211",75,0,2013,3,"N","Leslie County, Kentucky","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"2111",76,0,2013,1,"N","Leslie County, Kentucky","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"2111",76,0,2013,2,"N","Leslie County, Kentucky","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"2111",76,0,2013,3,"N","Leslie County, Kentucky","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"21111",77,0,2013,1,"N","Leslie County, Kentucky","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"21111",77,0,2013,2,"N","Leslie County, Kentucky","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"21111",77,0,2013,3,"N","Leslie County, Kentucky","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"211111",78,0,2013,1,"N","Leslie County, Kentucky","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"211111",78,0,2013,2,"N","Leslie County, Kentucky","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"211111",78,0,2013,3,"N","Leslie County, Kentucky","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"212",75,0,2013,1,"","Leslie County, Kentucky","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,344,336,331,6039791,3190442,79297,1379
+"21131",5,"212",75,0,2013,2,"","Leslie County, Kentucky","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,325,325,323,5649337,35186,1576,1340
+"21131",5,"212",75,0,2013,3,"","Leslie County, Kentucky","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,353,355,347,4933541,143219,4466,1079
+"21131",5,"2121",76,0,2013,1,"","Leslie County, Kentucky","Private","Coal mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,344,336,331,6039791,3190442,79297,1379
+"21131",5,"2121",76,0,2013,2,"","Leslie County, Kentucky","Private","Coal mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,325,325,323,5649337,35186,1576,1340
+"21131",5,"2121",76,0,2013,3,"","Leslie County, Kentucky","Private","Coal mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,353,355,347,4933541,143219,4466,1079
+"21131",5,"21211",77,0,2013,1,"","Leslie County, Kentucky","Private","Coal mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,344,336,331,6039791,3190442,79297,1379
+"21131",5,"21211",77,0,2013,2,"","Leslie County, Kentucky","Private","Coal mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,325,325,323,5649337,35186,1576,1340
+"21131",5,"21211",77,0,2013,3,"","Leslie County, Kentucky","Private","Coal mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,353,355,347,4933541,143219,4466,1079
+"21131",5,"212111",78,0,2013,1,"N","Leslie County, Kentucky","Private","Bituminous coal and lignite surface mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"212111",78,0,2013,2,"N","Leslie County, Kentucky","Private","Bituminous coal and lignite surface mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"212111",78,0,2013,3,"N","Leslie County, Kentucky","Private","Bituminous coal and lignite surface mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"212112",78,0,2013,1,"N","Leslie County, Kentucky","Private","Bituminous coal underground mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"212112",78,0,2013,2,"N","Leslie County, Kentucky","Private","Bituminous coal underground mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"212112",78,0,2013,3,"N","Leslie County, Kentucky","Private","Bituminous coal underground mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"213",75,0,2013,1,"N","Leslie County, Kentucky","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"213",75,0,2013,2,"N","Leslie County, Kentucky","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"213",75,0,2013,3,"N","Leslie County, Kentucky","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"2131",76,0,2013,1,"N","Leslie County, Kentucky","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"2131",76,0,2013,2,"N","Leslie County, Kentucky","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"2131",76,0,2013,3,"N","Leslie County, Kentucky","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"21311",77,0,2013,1,"N","Leslie County, Kentucky","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"21311",77,0,2013,2,"N","Leslie County, Kentucky","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"21311",77,0,2013,3,"N","Leslie County, Kentucky","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"213113",78,0,2013,1,"N","Leslie County, Kentucky","Private","Support activities for coal mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"213113",78,0,2013,2,"N","Leslie County, Kentucky","Private","Support activities for coal mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"213113",78,0,2013,3,"N","Leslie County, Kentucky","Private","Support activities for coal mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"23",74,0,2013,1,"N","Leslie County, Kentucky","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"23",74,0,2013,2,"N","Leslie County, Kentucky","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"23",74,0,2013,3,"N","Leslie County, Kentucky","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"237",75,0,2013,1,"N","Leslie County, Kentucky","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"237",75,0,2013,2,"N","Leslie County, Kentucky","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"237",75,0,2013,3,"N","Leslie County, Kentucky","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"2371",76,0,2013,1,"N","Leslie County, Kentucky","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"2371",76,0,2013,2,"N","Leslie County, Kentucky","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"2371",76,0,2013,3,"N","Leslie County, Kentucky","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"23713",77,0,2013,1,"N","Leslie County, Kentucky","Private","Power and communication system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"23713",77,0,2013,2,"N","Leslie County, Kentucky","Private","Power and communication system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"23713",77,0,2013,3,"N","Leslie County, Kentucky","Private","Power and communication system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"237130",78,0,2013,1,"N","Leslie County, Kentucky","Private","Power and communication system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"237130",78,0,2013,2,"N","Leslie County, Kentucky","Private","Power and communication system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"237130",78,0,2013,3,"N","Leslie County, Kentucky","Private","Power and communication system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"238",75,0,2013,1,"N","Leslie County, Kentucky","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"238",75,0,2013,2,"N","Leslie County, Kentucky","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"238",75,0,2013,3,"N","Leslie County, Kentucky","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"2382",76,0,2013,1,"N","Leslie County, Kentucky","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"2382",76,0,2013,2,"N","Leslie County, Kentucky","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"2382",76,0,2013,3,"N","Leslie County, Kentucky","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"23822",77,0,2013,1,"N","Leslie County, Kentucky","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"23822",77,0,2013,2,"N","Leslie County, Kentucky","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"23822",77,0,2013,3,"N","Leslie County, Kentucky","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"238221",78,0,2013,1,"N","Leslie County, Kentucky","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"238221",78,0,2013,2,"N","Leslie County, Kentucky","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"238221",78,0,2013,3,"N","Leslie County, Kentucky","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"2389",76,0,2013,1,"N","Leslie County, Kentucky","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"2389",76,0,2013,2,"N","Leslie County, Kentucky","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"2389",76,0,2013,3,"N","Leslie County, Kentucky","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"23891",77,0,2013,1,"N","Leslie County, Kentucky","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"23891",77,0,2013,2,"N","Leslie County, Kentucky","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"23891",77,0,2013,3,"N","Leslie County, Kentucky","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"238912",78,0,2013,1,"N","Leslie County, Kentucky","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"238912",78,0,2013,2,"N","Leslie County, Kentucky","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"238912",78,0,2013,3,"N","Leslie County, Kentucky","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"31-33",74,0,2013,1,"N","Leslie County, Kentucky","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"31-33",74,0,2013,2,"N","Leslie County, Kentucky","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"31-33",74,0,2013,3,"N","Leslie County, Kentucky","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"314",75,0,2013,1,"N","Leslie County, Kentucky","Private","Textile product mills","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"314",75,0,2013,2,"N","Leslie County, Kentucky","Private","Textile product mills","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"314",75,0,2013,3,"N","Leslie County, Kentucky","Private","Textile product mills","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"3149",76,0,2013,1,"N","Leslie County, Kentucky","Private","Other textile product mills","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"3149",76,0,2013,2,"N","Leslie County, Kentucky","Private","Other textile product mills","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"3149",76,0,2013,3,"N","Leslie County, Kentucky","Private","Other textile product mills","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"31499",77,0,2013,1,"N","Leslie County, Kentucky","Private","All other textile product mills","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"31499",77,0,2013,2,"N","Leslie County, Kentucky","Private","All other textile product mills","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"31499",77,0,2013,3,"N","Leslie County, Kentucky","Private","All other textile product mills","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"314999",78,0,2013,1,"N","Leslie County, Kentucky","Private","All other miscellaneous textile product mills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"314999",78,0,2013,2,"N","Leslie County, Kentucky","Private","All other miscellaneous textile product mills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"314999",78,0,2013,3,"N","Leslie County, Kentucky","Private","All other miscellaneous textile product mills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"321",75,0,2013,1,"N","Leslie County, Kentucky","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"321",75,0,2013,2,"N","Leslie County, Kentucky","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"321",75,0,2013,3,"N","Leslie County, Kentucky","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"3211",76,0,2013,1,"N","Leslie County, Kentucky","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"3211",76,0,2013,2,"N","Leslie County, Kentucky","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"3211",76,0,2013,3,"N","Leslie County, Kentucky","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"32111",77,0,2013,1,"N","Leslie County, Kentucky","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"32111",77,0,2013,2,"N","Leslie County, Kentucky","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"32111",77,0,2013,3,"N","Leslie County, Kentucky","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"321113",78,0,2013,1,"N","Leslie County, Kentucky","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"321113",78,0,2013,2,"N","Leslie County, Kentucky","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"321113",78,0,2013,3,"N","Leslie County, Kentucky","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"44-45",74,0,2013,1,"","Leslie County, Kentucky","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",24,184,181,183,975728,811653,12885,411
+"21131",5,"44-45",74,0,2013,2,"","Leslie County, Kentucky","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",24,180,185,180,941524,475672,7845,399
+"21131",5,"44-45",74,0,2013,3,"","Leslie County, Kentucky","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",24,183,183,185,1031577,316908,5307,432
+"21131",5,"441",75,0,2013,1,"","Leslie County, Kentucky","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,14,14,14,87572,76974,1309,481
+"21131",5,"441",75,0,2013,2,"","Leslie County, Kentucky","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,14,14,14,81384,30003,537,447
+"21131",5,"441",75,0,2013,3,"","Leslie County, Kentucky","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,15,15,15,89816,22144,391,461
+"21131",5,"4413",76,0,2013,1,"","Leslie County, Kentucky","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,14,14,14,87572,76974,1309,481
+"21131",5,"4413",76,0,2013,2,"","Leslie County, Kentucky","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,14,14,14,81384,30003,537,447
+"21131",5,"4413",76,0,2013,3,"","Leslie County, Kentucky","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,15,15,15,89816,22144,391,461
+"21131",5,"44131",77,0,2013,1,"","Leslie County, Kentucky","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,14,14,14,87572,76974,1309,481
+"21131",5,"44131",77,0,2013,2,"","Leslie County, Kentucky","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,14,14,14,81384,30003,537,447
+"21131",5,"44131",77,0,2013,3,"","Leslie County, Kentucky","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,15,15,15,89816,22144,391,461
+"21131",5,"441310",78,0,2013,1,"","Leslie County, Kentucky","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,14,14,14,87572,76974,1309,481
+"21131",5,"441310",78,0,2013,2,"","Leslie County, Kentucky","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,14,14,14,81384,30003,537,447
+"21131",5,"441310",78,0,2013,3,"","Leslie County, Kentucky","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,15,15,15,89816,22144,391,461
+"21131",5,"444",75,0,2013,1,"N","Leslie County, Kentucky","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"444",75,0,2013,2,"N","Leslie County, Kentucky","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"444",75,0,2013,3,"N","Leslie County, Kentucky","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"4441",76,0,2013,1,"N","Leslie County, Kentucky","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"4441",76,0,2013,2,"N","Leslie County, Kentucky","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"4441",76,0,2013,3,"N","Leslie County, Kentucky","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"44411",77,0,2013,1,"N","Leslie County, Kentucky","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"44411",77,0,2013,2,"N","Leslie County, Kentucky","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"44411",77,0,2013,3,"N","Leslie County, Kentucky","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"444110",78,0,2013,1,"N","Leslie County, Kentucky","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"444110",78,0,2013,2,"N","Leslie County, Kentucky","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"444110",78,0,2013,3,"N","Leslie County, Kentucky","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"44419",77,0,2013,1,"N","Leslie County, Kentucky","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"44419",77,0,2013,2,"N","Leslie County, Kentucky","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"44419",77,0,2013,3,"N","Leslie County, Kentucky","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"444190",78,0,2013,1,"N","Leslie County, Kentucky","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"444190",78,0,2013,2,"N","Leslie County, Kentucky","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"444190",78,0,2013,3,"N","Leslie County, Kentucky","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"445",75,0,2013,1,"","Leslie County, Kentucky","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,69,69,70,279199,269680,3213,310
+"21131",5,"445",75,0,2013,2,"","Leslie County, Kentucky","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,69,71,71,278117,197288,2377,304
+"21131",5,"445",75,0,2013,3,"","Leslie County, Kentucky","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,71,68,69,244147,118669,1407,271
+"21131",5,"4451",76,0,2013,1,"","Leslie County, Kentucky","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,69,69,70,279199,269680,3213,310
+"21131",5,"4451",76,0,2013,2,"","Leslie County, Kentucky","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,69,71,71,278117,197288,2377,304
+"21131",5,"4451",76,0,2013,3,"","Leslie County, Kentucky","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,71,68,69,244147,118669,1407,271
+"21131",5,"44511",77,0,2013,1,"","Leslie County, Kentucky","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,69,69,70,279199,269680,3213,310
+"21131",5,"44511",77,0,2013,2,"","Leslie County, Kentucky","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,69,71,71,278117,197288,2377,304
+"21131",5,"44511",77,0,2013,3,"","Leslie County, Kentucky","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,71,68,69,244147,118669,1407,271
+"21131",5,"445110",78,0,2013,1,"","Leslie County, Kentucky","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,69,69,70,279199,269680,3213,310
+"21131",5,"445110",78,0,2013,2,"","Leslie County, Kentucky","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,69,71,71,278117,197288,2377,304
+"21131",5,"445110",78,0,2013,3,"","Leslie County, Kentucky","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,71,68,69,244147,118669,1407,271
+"21131",5,"446",75,0,2013,1,"","Leslie County, Kentucky","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,36,35,36,369107,231423,2655,796
+"21131",5,"446",75,0,2013,2,"","Leslie County, Kentucky","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,37,38,37,337905,85825,968,696
+"21131",5,"446",75,0,2013,3,"","Leslie County, Kentucky","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,38,35,36,443396,61686,670,939
+"21131",5,"4461",76,0,2013,1,"","Leslie County, Kentucky","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,36,35,36,369107,231423,2655,796
+"21131",5,"4461",76,0,2013,2,"","Leslie County, Kentucky","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,37,38,37,337905,85825,968,696
+"21131",5,"4461",76,0,2013,3,"","Leslie County, Kentucky","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,38,35,36,443396,61686,670,939
+"21131",5,"44611",77,0,2013,1,"","Leslie County, Kentucky","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,36,35,36,369107,231423,2655,796
+"21131",5,"44611",77,0,2013,2,"","Leslie County, Kentucky","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,37,38,37,337905,85825,968,696
+"21131",5,"44611",77,0,2013,3,"","Leslie County, Kentucky","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,38,35,36,443396,61686,670,939
+"21131",5,"446110",78,0,2013,1,"","Leslie County, Kentucky","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,36,35,36,369107,231423,2655,796
+"21131",5,"446110",78,0,2013,2,"","Leslie County, Kentucky","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,37,38,37,337905,85825,968,696
+"21131",5,"446110",78,0,2013,3,"","Leslie County, Kentucky","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,38,35,36,443396,61686,670,939
+"21131",5,"447",75,0,2013,1,"","Leslie County, Kentucky","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,32,31,32,119505,115745,2982,290
+"21131",5,"447",75,0,2013,2,"","Leslie County, Kentucky","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,29,29,28,121608,76209,2017,326
+"21131",5,"447",75,0,2013,3,"","Leslie County, Kentucky","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,26,31,34,124758,55827,1429,316
+"21131",5,"4471",76,0,2013,1,"","Leslie County, Kentucky","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,32,31,32,119505,115745,2982,290
+"21131",5,"4471",76,0,2013,2,"","Leslie County, Kentucky","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,29,29,28,121608,76209,2017,326
+"21131",5,"4471",76,0,2013,3,"","Leslie County, Kentucky","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,26,31,34,124758,55827,1429,316
+"21131",5,"44711",77,0,2013,1,"N","Leslie County, Kentucky","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"21131",5,"44711",77,0,2013,2,"N","Leslie County, Kentucky","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"21131",5,"44711",77,0,2013,3,"N","Leslie County, Kentucky","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"21131",5,"447110",78,0,2013,1,"N","Leslie County, Kentucky","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"21131",5,"447110",78,0,2013,2,"N","Leslie County, Kentucky","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"21131",5,"447110",78,0,2013,3,"N","Leslie County, Kentucky","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"21131",5,"44719",77,0,2013,1,"N","Leslie County, Kentucky","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"44719",77,0,2013,2,"N","Leslie County, Kentucky","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"44719",77,0,2013,3,"N","Leslie County, Kentucky","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"447190",78,0,2013,1,"N","Leslie County, Kentucky","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"447190",78,0,2013,2,"N","Leslie County, Kentucky","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"447190",78,0,2013,3,"N","Leslie County, Kentucky","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"452",75,0,2013,1,"","Leslie County, Kentucky","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,25,24,23,93693,91181,2417,300
+"21131",5,"452",75,0,2013,2,"","Leslie County, Kentucky","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,24,26,23,96433,65302,1702,305
+"21131",5,"452",75,0,2013,3,"","Leslie County, Kentucky","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,26,27,26,107153,49752,1313,313
+"21131",5,"4529",76,0,2013,1,"","Leslie County, Kentucky","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,25,24,23,93693,91181,2417,300
+"21131",5,"4529",76,0,2013,2,"","Leslie County, Kentucky","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,24,26,23,96433,65302,1702,305
+"21131",5,"4529",76,0,2013,3,"","Leslie County, Kentucky","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,26,27,26,107153,49752,1313,313
+"21131",5,"45299",77,0,2013,1,"","Leslie County, Kentucky","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,25,24,23,93693,91181,2417,300
+"21131",5,"45299",77,0,2013,2,"","Leslie County, Kentucky","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,24,26,23,96433,65302,1702,305
+"21131",5,"45299",77,0,2013,3,"","Leslie County, Kentucky","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,26,27,26,107153,49752,1313,313
+"21131",5,"452990",78,0,2013,1,"","Leslie County, Kentucky","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,25,24,23,93693,91181,2417,300
+"21131",5,"452990",78,0,2013,2,"","Leslie County, Kentucky","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,24,26,23,96433,65302,1702,305
+"21131",5,"452990",78,0,2013,3,"","Leslie County, Kentucky","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,26,27,26,107153,49752,1313,313
+"21131",5,"453",75,0,2013,1,"N","Leslie County, Kentucky","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"453",75,0,2013,2,"N","Leslie County, Kentucky","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"453",75,0,2013,3,"N","Leslie County, Kentucky","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"4532",76,0,2013,1,"N","Leslie County, Kentucky","Private","Office supplies, stationery, and gift stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"4532",76,0,2013,2,"N","Leslie County, Kentucky","Private","Office supplies, stationery, and gift stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"4532",76,0,2013,3,"N","Leslie County, Kentucky","Private","Office supplies, stationery, and gift stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"45322",77,0,2013,1,"N","Leslie County, Kentucky","Private","Gift, novelty, and souvenir stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"45322",77,0,2013,2,"N","Leslie County, Kentucky","Private","Gift, novelty, and souvenir stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"45322",77,0,2013,3,"N","Leslie County, Kentucky","Private","Gift, novelty, and souvenir stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"453220",78,0,2013,1,"N","Leslie County, Kentucky","Private","Gift, novelty, and souvenir stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"453220",78,0,2013,2,"N","Leslie County, Kentucky","Private","Gift, novelty, and souvenir stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"453220",78,0,2013,3,"N","Leslie County, Kentucky","Private","Gift, novelty, and souvenir stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"48-49",74,0,2013,1,"","Leslie County, Kentucky","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",15,35,33,34,355966,240220,12298,805
+"21131",5,"48-49",74,0,2013,2,"","Leslie County, Kentucky","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",15,37,35,38,350153,103225,5267,735
+"21131",5,"48-49",74,0,2013,3,"","Leslie County, Kentucky","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",14,39,36,37,344321,61992,2666,709
+"21131",5,"484",75,0,2013,1,"N","Leslie County, Kentucky","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",14,0,0,0,0,0,0,0
+"21131",5,"484",75,0,2013,2,"N","Leslie County, Kentucky","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",14,0,0,0,0,0,0,0
+"21131",5,"484",75,0,2013,3,"N","Leslie County, Kentucky","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"21131",5,"4841",76,0,2013,1,"","Leslie County, Kentucky","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,16,15,16,113529,109300,3134,557
+"21131",5,"4841",76,0,2013,2,"","Leslie County, Kentucky","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,16,13,17,156916,54781,1433,787
+"21131",5,"4841",76,0,2013,3,"","Leslie County, Kentucky","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,18,16,17,144927,41260,1072,656
+"21131",5,"48411",77,0,2013,1,"N","Leslie County, Kentucky","Private","General freight trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"48411",77,0,2013,2,"N","Leslie County, Kentucky","Private","General freight trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"48411",77,0,2013,3,"N","Leslie County, Kentucky","Private","General freight trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"484110",78,0,2013,1,"N","Leslie County, Kentucky","Private","General freight trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"484110",78,0,2013,2,"N","Leslie County, Kentucky","Private","General freight trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"484110",78,0,2013,3,"N","Leslie County, Kentucky","Private","General freight trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"48412",77,0,2013,1,"N","Leslie County, Kentucky","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"21131",5,"48412",77,0,2013,2,"N","Leslie County, Kentucky","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"21131",5,"48412",77,0,2013,3,"N","Leslie County, Kentucky","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"21131",5,"484121",78,0,2013,1,"N","Leslie County, Kentucky","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"484121",78,0,2013,2,"N","Leslie County, Kentucky","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"484121",78,0,2013,3,"N","Leslie County, Kentucky","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"484122",78,0,2013,1,"N","Leslie County, Kentucky","Private","General freight trucking, long-distance ltl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"484122",78,0,2013,2,"","Leslie County, Kentucky","Private","General freight trucking, long-distance ltl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,4,5,4,32138,15191,200,570
+"21131",5,"484122",78,0,2013,3,"","Leslie County, Kentucky","Private","General freight trucking, long-distance ltl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,5,5,5,29599,8237,82,455
+"21131",5,"4842",76,0,2013,1,"N","Leslie County, Kentucky","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"4842",76,0,2013,2,"N","Leslie County, Kentucky","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"4842",76,0,2013,3,"N","Leslie County, Kentucky","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"21131",5,"48422",77,0,2013,1,"N","Leslie County, Kentucky","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"48422",77,0,2013,2,"N","Leslie County, Kentucky","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"48422",77,0,2013,3,"N","Leslie County, Kentucky","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"21131",5,"484220",78,0,2013,1,"N","Leslie County, Kentucky","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"484220",78,0,2013,2,"N","Leslie County, Kentucky","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"484220",78,0,2013,3,"N","Leslie County, Kentucky","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"21131",5,"486",75,0,2013,1,"N","Leslie County, Kentucky","Private","Pipeline transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"486",75,0,2013,2,"N","Leslie County, Kentucky","Private","Pipeline transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"486",75,0,2013,3,"N","Leslie County, Kentucky","Private","Pipeline transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"4862",76,0,2013,1,"N","Leslie County, Kentucky","Private","Pipeline transportation of natural gas","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"4862",76,0,2013,2,"N","Leslie County, Kentucky","Private","Pipeline transportation of natural gas","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"4862",76,0,2013,3,"N","Leslie County, Kentucky","Private","Pipeline transportation of natural gas","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"48621",77,0,2013,1,"N","Leslie County, Kentucky","Private","Pipeline transportation of natural gas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"48621",77,0,2013,2,"N","Leslie County, Kentucky","Private","Pipeline transportation of natural gas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"48621",77,0,2013,3,"N","Leslie County, Kentucky","Private","Pipeline transportation of natural gas","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"486210",78,0,2013,1,"N","Leslie County, Kentucky","Private","Pipeline transportation of natural gas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"486210",78,0,2013,2,"N","Leslie County, Kentucky","Private","Pipeline transportation of natural gas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"486210",78,0,2013,3,"N","Leslie County, Kentucky","Private","Pipeline transportation of natural gas","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"51",74,0,2013,1,"","Leslie County, Kentucky","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",4,14,14,14,161974,108145,1085,890
+"21131",5,"51",74,0,2013,2,"","Leslie County, Kentucky","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",4,14,14,14,141959,10145,105,780
+"21131",5,"51",74,0,2013,3,"","Leslie County, Kentucky","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",4,13,13,13,168081,2510,27,995
+"21131",5,"511",75,0,2013,1,"N","Leslie County, Kentucky","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"511",75,0,2013,2,"N","Leslie County, Kentucky","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"511",75,0,2013,3,"N","Leslie County, Kentucky","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5111",76,0,2013,1,"N","Leslie County, Kentucky","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5111",76,0,2013,2,"N","Leslie County, Kentucky","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5111",76,0,2013,3,"N","Leslie County, Kentucky","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"51111",77,0,2013,1,"N","Leslie County, Kentucky","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"51111",77,0,2013,2,"N","Leslie County, Kentucky","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"51111",77,0,2013,3,"N","Leslie County, Kentucky","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"511110",78,0,2013,1,"N","Leslie County, Kentucky","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"511110",78,0,2013,2,"N","Leslie County, Kentucky","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"511110",78,0,2013,3,"N","Leslie County, Kentucky","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"517",75,0,2013,1,"N","Leslie County, Kentucky","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"517",75,0,2013,2,"N","Leslie County, Kentucky","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"517",75,0,2013,3,"N","Leslie County, Kentucky","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"5171",76,0,2013,1,"N","Leslie County, Kentucky","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"5171",76,0,2013,2,"N","Leslie County, Kentucky","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"5171",76,0,2013,3,"N","Leslie County, Kentucky","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"51711",77,0,2013,1,"N","Leslie County, Kentucky","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"51711",77,0,2013,2,"N","Leslie County, Kentucky","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"51711",77,0,2013,3,"N","Leslie County, Kentucky","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"517110",78,0,2013,1,"N","Leslie County, Kentucky","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"517110",78,0,2013,2,"N","Leslie County, Kentucky","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"517110",78,0,2013,3,"N","Leslie County, Kentucky","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"52",74,0,2013,1,"N","Leslie County, Kentucky","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"21131",5,"52",74,0,2013,2,"N","Leslie County, Kentucky","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"21131",5,"52",74,0,2013,3,"N","Leslie County, Kentucky","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"21131",5,"522",75,0,2013,1,"N","Leslie County, Kentucky","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"522",75,0,2013,2,"N","Leslie County, Kentucky","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"522",75,0,2013,3,"N","Leslie County, Kentucky","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"21131",5,"5221",76,0,2013,1,"N","Leslie County, Kentucky","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5221",76,0,2013,2,"N","Leslie County, Kentucky","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5221",76,0,2013,3,"N","Leslie County, Kentucky","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"52211",77,0,2013,1,"N","Leslie County, Kentucky","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"52211",77,0,2013,2,"N","Leslie County, Kentucky","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"52211",77,0,2013,3,"N","Leslie County, Kentucky","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"522110",78,0,2013,1,"N","Leslie County, Kentucky","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"522110",78,0,2013,2,"N","Leslie County, Kentucky","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"522110",78,0,2013,3,"N","Leslie County, Kentucky","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5222",76,0,2013,1,"N","Leslie County, Kentucky","Private","Nondepository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"5222",76,0,2013,2,"N","Leslie County, Kentucky","Private","Nondepository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"5222",76,0,2013,3,"N","Leslie County, Kentucky","Private","Nondepository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"52229",77,0,2013,1,"N","Leslie County, Kentucky","Private","Other nondepository credit intermediation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"52229",77,0,2013,2,"N","Leslie County, Kentucky","Private","Other nondepository credit intermediation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"52229",77,0,2013,3,"N","Leslie County, Kentucky","Private","Other nondepository credit intermediation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"522291",78,0,2013,1,"N","Leslie County, Kentucky","Private","Consumer lending","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"522291",78,0,2013,2,"N","Leslie County, Kentucky","Private","Consumer lending","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"522291",78,0,2013,3,"N","Leslie County, Kentucky","Private","Consumer lending","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"524",75,0,2013,1,"N","Leslie County, Kentucky","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"524",75,0,2013,2,"N","Leslie County, Kentucky","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"524",75,0,2013,3,"N","Leslie County, Kentucky","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5242",76,0,2013,1,"N","Leslie County, Kentucky","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5242",76,0,2013,2,"N","Leslie County, Kentucky","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5242",76,0,2013,3,"N","Leslie County, Kentucky","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"52421",77,0,2013,1,"N","Leslie County, Kentucky","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"52421",77,0,2013,2,"N","Leslie County, Kentucky","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"52421",77,0,2013,3,"N","Leslie County, Kentucky","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"524210",78,0,2013,1,"N","Leslie County, Kentucky","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"524210",78,0,2013,2,"N","Leslie County, Kentucky","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"524210",78,0,2013,3,"N","Leslie County, Kentucky","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"53",74,0,2013,1,"N","Leslie County, Kentucky","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"53",74,0,2013,2,"N","Leslie County, Kentucky","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"53",74,0,2013,3,"N","Leslie County, Kentucky","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"531",75,0,2013,1,"N","Leslie County, Kentucky","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"531",75,0,2013,2,"N","Leslie County, Kentucky","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"531",75,0,2013,3,"N","Leslie County, Kentucky","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5311",76,0,2013,1,"N","Leslie County, Kentucky","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5311",76,0,2013,2,"N","Leslie County, Kentucky","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5311",76,0,2013,3,"N","Leslie County, Kentucky","Private","Lessors of real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"53119",77,0,2013,1,"N","Leslie County, Kentucky","Private","Lessors of other real estate property","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"53119",77,0,2013,2,"N","Leslie County, Kentucky","Private","Lessors of other real estate property","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"53119",77,0,2013,3,"N","Leslie County, Kentucky","Private","Lessors of other real estate property","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"531190",78,0,2013,1,"N","Leslie County, Kentucky","Private","Lessors of other real estate property","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"531190",78,0,2013,2,"N","Leslie County, Kentucky","Private","Lessors of other real estate property","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"531190",78,0,2013,3,"N","Leslie County, Kentucky","Private","Lessors of other real estate property","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"54",74,0,2013,1,"","Leslie County, Kentucky","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",7,48,50,48,334164,285596,8299,528
+"21131",5,"54",74,0,2013,2,"N","Leslie County, Kentucky","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"54",74,0,2013,3,"N","Leslie County, Kentucky","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"541",75,0,2013,1,"","Leslie County, Kentucky","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,48,50,48,334164,285596,8299,528
+"21131",5,"541",75,0,2013,2,"N","Leslie County, Kentucky","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"541",75,0,2013,3,"N","Leslie County, Kentucky","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"5411",76,0,2013,1,"","Leslie County, Kentucky","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,48,50,48,334164,285596,8299,528
+"21131",5,"5411",76,0,2013,2,"N","Leslie County, Kentucky","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"5411",76,0,2013,3,"N","Leslie County, Kentucky","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"54111",77,0,2013,1,"","Leslie County, Kentucky","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,48,50,48,334164,285596,8299,528
+"21131",5,"54111",77,0,2013,2,"N","Leslie County, Kentucky","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"54111",77,0,2013,3,"N","Leslie County, Kentucky","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"541110",78,0,2013,1,"","Leslie County, Kentucky","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,48,50,48,334164,285596,8299,528
+"21131",5,"541110",78,0,2013,2,"N","Leslie County, Kentucky","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"541110",78,0,2013,3,"N","Leslie County, Kentucky","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"21131",5,"55",74,0,2013,1,"N","Leslie County, Kentucky","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"55",74,0,2013,2,"N","Leslie County, Kentucky","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"55",74,0,2013,3,"N","Leslie County, Kentucky","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"551",75,0,2013,1,"N","Leslie County, Kentucky","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"551",75,0,2013,2,"N","Leslie County, Kentucky","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"551",75,0,2013,3,"N","Leslie County, Kentucky","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5511",76,0,2013,1,"N","Leslie County, Kentucky","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5511",76,0,2013,2,"N","Leslie County, Kentucky","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5511",76,0,2013,3,"N","Leslie County, Kentucky","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"55111",77,0,2013,1,"N","Leslie County, Kentucky","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"55111",77,0,2013,2,"N","Leslie County, Kentucky","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"55111",77,0,2013,3,"N","Leslie County, Kentucky","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"551111",78,0,2013,1,"N","Leslie County, Kentucky","Private","Offices of bank holding companies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"551111",78,0,2013,2,"N","Leslie County, Kentucky","Private","Offices of bank holding companies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"551111",78,0,2013,3,"N","Leslie County, Kentucky","Private","Offices of bank holding companies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"56",74,0,2013,1,"N","Leslie County, Kentucky","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"21131",5,"56",74,0,2013,2,"","Leslie County, Kentucky","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",7,43,47,50,191272,158996,3811,315
+"21131",5,"56",74,0,2013,3,"","Leslie County, Kentucky","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",7,49,49,56,196165,126541,2926,294
+"21131",5,"561",75,0,2013,1,"N","Leslie County, Kentucky","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"21131",5,"561",75,0,2013,2,"","Leslie County, Kentucky","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,43,47,50,191272,158996,3811,315
+"21131",5,"561",75,0,2013,3,"","Leslie County, Kentucky","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,49,49,56,196165,126541,2926,294
+"21131",5,"5613",76,0,2013,1,"N","Leslie County, Kentucky","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5613",76,0,2013,2,"N","Leslie County, Kentucky","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5613",76,0,2013,3,"N","Leslie County, Kentucky","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"56131",77,0,2013,1,"N","Leslie County, Kentucky","Private","Employment placement and executive search","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"56131",77,0,2013,2,"N","Leslie County, Kentucky","Private","Employment placement and executive search","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"56131",77,0,2013,3,"N","Leslie County, Kentucky","Private","Employment placement and executive search","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561311",78,0,2013,1,"N","Leslie County, Kentucky","Private","Employment placement agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561311",78,0,2013,2,"N","Leslie County, Kentucky","Private","Employment placement agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561311",78,0,2013,3,"N","Leslie County, Kentucky","Private","Employment placement agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5614",76,0,2013,1,"N","Leslie County, Kentucky","Private","Business support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5614",76,0,2013,2,"N","Leslie County, Kentucky","Private","Business support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5614",76,0,2013,3,"N","Leslie County, Kentucky","Private","Business support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"56141",77,0,2013,1,"N","Leslie County, Kentucky","Private","Document preparation services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"56141",77,0,2013,2,"N","Leslie County, Kentucky","Private","Document preparation services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"56141",77,0,2013,3,"N","Leslie County, Kentucky","Private","Document preparation services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561410",78,0,2013,1,"N","Leslie County, Kentucky","Private","Document preparation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561410",78,0,2013,2,"N","Leslie County, Kentucky","Private","Document preparation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561410",78,0,2013,3,"N","Leslie County, Kentucky","Private","Document preparation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5616",76,0,2013,1,"N","Leslie County, Kentucky","Private","Investigation and security services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"5616",76,0,2013,2,"N","Leslie County, Kentucky","Private","Investigation and security services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"5616",76,0,2013,3,"N","Leslie County, Kentucky","Private","Investigation and security services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"56161",77,0,2013,1,"N","Leslie County, Kentucky","Private","Security and armored car services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"56161",77,0,2013,2,"N","Leslie County, Kentucky","Private","Security and armored car services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"56161",77,0,2013,3,"N","Leslie County, Kentucky","Private","Security and armored car services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"561611",78,0,2013,1,"N","Leslie County, Kentucky","Private","Investigation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561611",78,0,2013,2,"N","Leslie County, Kentucky","Private","Investigation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561611",78,0,2013,3,"N","Leslie County, Kentucky","Private","Investigation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561612",78,0,2013,1,"N","Leslie County, Kentucky","Private","Security guards and patrol services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561612",78,0,2013,2,"N","Leslie County, Kentucky","Private","Security guards and patrol services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561612",78,0,2013,3,"N","Leslie County, Kentucky","Private","Security guards and patrol services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"5617",76,0,2013,1,"N","Leslie County, Kentucky","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"5617",76,0,2013,2,"","Leslie County, Kentucky","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,12,13,13,44305,32594,1133,269
+"21131",5,"5617",76,0,2013,3,"","Leslie County, Kentucky","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,12,12,16,44424,26539,927,256
+"21131",5,"56171",77,0,2013,1,"-","Leslie County, Kentucky","Private","Exterminating and pest control services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"21131",5,"56171",77,0,2013,2,"N","Leslie County, Kentucky","Private","Exterminating and pest control services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"56171",77,0,2013,3,"N","Leslie County, Kentucky","Private","Exterminating and pest control services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561710",78,0,2013,1,"-","Leslie County, Kentucky","Private","Exterminating and pest control services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"21131",5,"561710",78,0,2013,2,"N","Leslie County, Kentucky","Private","Exterminating and pest control services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561710",78,0,2013,3,"N","Leslie County, Kentucky","Private","Exterminating and pest control services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"56173",77,0,2013,1,"N","Leslie County, Kentucky","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"56173",77,0,2013,2,"N","Leslie County, Kentucky","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"56173",77,0,2013,3,"N","Leslie County, Kentucky","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561730",78,0,2013,1,"N","Leslie County, Kentucky","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561730",78,0,2013,2,"N","Leslie County, Kentucky","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561730",78,0,2013,3,"N","Leslie County, Kentucky","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"56179",77,0,2013,1,"N","Leslie County, Kentucky","Private","Other services to buildings and dwellings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"56179",77,0,2013,2,"N","Leslie County, Kentucky","Private","Other services to buildings and dwellings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"56179",77,0,2013,3,"N","Leslie County, Kentucky","Private","Other services to buildings and dwellings","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561790",78,0,2013,1,"N","Leslie County, Kentucky","Private","Other services to buildings and dwellings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561790",78,0,2013,2,"N","Leslie County, Kentucky","Private","Other services to buildings and dwellings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"561790",78,0,2013,3,"N","Leslie County, Kentucky","Private","Other services to buildings and dwellings","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"61",74,0,2013,1,"N","Leslie County, Kentucky","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"61",74,0,2013,2,"N","Leslie County, Kentucky","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"61",74,0,2013,3,"N","Leslie County, Kentucky","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"611",75,0,2013,1,"N","Leslie County, Kentucky","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"611",75,0,2013,2,"N","Leslie County, Kentucky","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"611",75,0,2013,3,"N","Leslie County, Kentucky","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"6113",76,0,2013,1,"N","Leslie County, Kentucky","Private","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"6113",76,0,2013,2,"N","Leslie County, Kentucky","Private","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"6113",76,0,2013,3,"N","Leslie County, Kentucky","Private","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"61131",77,0,2013,1,"N","Leslie County, Kentucky","Private","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"61131",77,0,2013,2,"N","Leslie County, Kentucky","Private","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"61131",77,0,2013,3,"N","Leslie County, Kentucky","Private","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"611310",78,0,2013,1,"N","Leslie County, Kentucky","Private","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"611310",78,0,2013,2,"N","Leslie County, Kentucky","Private","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"611310",78,0,2013,3,"N","Leslie County, Kentucky","Private","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62",74,0,2013,1,"N","Leslie County, Kentucky","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",24,0,0,0,0,0,0,0
+"21131",5,"62",74,0,2013,2,"N","Leslie County, Kentucky","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",27,0,0,0,0,0,0,0
+"21131",5,"62",74,0,2013,3,"N","Leslie County, Kentucky","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",29,0,0,0,0,0,0,0
+"21131",5,"621",75,0,2013,1,"","Leslie County, Kentucky","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",14,103,108,107,874437,346565,7755,635
+"21131",5,"621",75,0,2013,2,"","Leslie County, Kentucky","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",13,90,91,87,896933,144983,3239,772
+"21131",5,"621",75,0,2013,3,"","Leslie County, Kentucky","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",13,82,83,86,838568,58375,1061,771
+"21131",5,"6211",76,0,2013,1,"","Leslie County, Kentucky","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,27,28,29,431091,49583,1731,1184
+"21131",5,"6211",76,0,2013,2,"","Leslie County, Kentucky","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,27,27,27,458916,14822,776,1307
+"21131",5,"6211",76,0,2013,3,"","Leslie County, Kentucky","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,24,26,25,414423,3031,44,1275
+"21131",5,"62111",77,0,2013,1,"","Leslie County, Kentucky","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,27,28,29,431091,49583,1731,1184
+"21131",5,"62111",77,0,2013,2,"","Leslie County, Kentucky","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,27,27,27,458916,14822,776,1307
+"21131",5,"62111",77,0,2013,3,"","Leslie County, Kentucky","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,24,26,25,414423,3031,44,1275
+"21131",5,"621111",78,0,2013,1,"","Leslie County, Kentucky","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,27,28,29,431091,49583,1731,1184
+"21131",5,"621111",78,0,2013,2,"","Leslie County, Kentucky","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,27,27,27,458916,14822,776,1307
+"21131",5,"621111",78,0,2013,3,"","Leslie County, Kentucky","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,24,26,25,414423,3031,44,1275
+"21131",5,"6212",76,0,2013,1,"","Leslie County, Kentucky","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,21,22,22,99830,76435,1745,354
+"21131",5,"6212",76,0,2013,2,"","Leslie County, Kentucky","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,22,22,19,121832,54078,1302,446
+"21131",5,"6212",76,0,2013,3,"","Leslie County, Kentucky","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,17,18,18,125466,21207,474,546
+"21131",5,"62121",77,0,2013,1,"","Leslie County, Kentucky","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,21,22,22,99830,76435,1745,354
+"21131",5,"62121",77,0,2013,2,"","Leslie County, Kentucky","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,22,22,19,121832,54078,1302,446
+"21131",5,"62121",77,0,2013,3,"","Leslie County, Kentucky","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,17,18,18,125466,21207,474,546
+"21131",5,"621210",78,0,2013,1,"","Leslie County, Kentucky","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,21,22,22,99830,76435,1745,354
+"21131",5,"621210",78,0,2013,2,"","Leslie County, Kentucky","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,22,22,19,121832,54078,1302,446
+"21131",5,"621210",78,0,2013,3,"","Leslie County, Kentucky","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,17,18,18,125466,21207,474,546
+"21131",5,"6213",76,0,2013,1,"N","Leslie County, Kentucky","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"6213",76,0,2013,2,"N","Leslie County, Kentucky","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"6213",76,0,2013,3,"N","Leslie County, Kentucky","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"62132",77,0,2013,1,"N","Leslie County, Kentucky","Private","Offices of optometrists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62132",77,0,2013,2,"N","Leslie County, Kentucky","Private","Offices of optometrists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62132",77,0,2013,3,"N","Leslie County, Kentucky","Private","Offices of optometrists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"621320",78,0,2013,1,"N","Leslie County, Kentucky","Private","Offices of optometrists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"621320",78,0,2013,2,"N","Leslie County, Kentucky","Private","Offices of optometrists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"621320",78,0,2013,3,"N","Leslie County, Kentucky","Private","Offices of optometrists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62134",77,0,2013,1,"N","Leslie County, Kentucky","Private","Offices of specialty therapists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62134",77,0,2013,2,"N","Leslie County, Kentucky","Private","Offices of specialty therapists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62134",77,0,2013,3,"N","Leslie County, Kentucky","Private","Offices of specialty therapists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"621340",78,0,2013,1,"N","Leslie County, Kentucky","Private","Offices of specialty therapists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"621340",78,0,2013,2,"N","Leslie County, Kentucky","Private","Offices of specialty therapists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"621340",78,0,2013,3,"N","Leslie County, Kentucky","Private","Offices of specialty therapists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"6214",76,0,2013,1,"N","Leslie County, Kentucky","Private","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"6214",76,0,2013,2,"N","Leslie County, Kentucky","Private","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"6214",76,0,2013,3,"N","Leslie County, Kentucky","Private","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"62142",77,0,2013,1,"N","Leslie County, Kentucky","Private","Outpatient mental health centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"62142",77,0,2013,2,"N","Leslie County, Kentucky","Private","Outpatient mental health centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"62142",77,0,2013,3,"N","Leslie County, Kentucky","Private","Outpatient mental health centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"621420",78,0,2013,1,"N","Leslie County, Kentucky","Private","Outpatient mental health centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"621420",78,0,2013,2,"N","Leslie County, Kentucky","Private","Outpatient mental health centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"621420",78,0,2013,3,"N","Leslie County, Kentucky","Private","Outpatient mental health centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"6216",76,0,2013,1,"N","Leslie County, Kentucky","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"6216",76,0,2013,2,"N","Leslie County, Kentucky","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"6216",76,0,2013,3,"N","Leslie County, Kentucky","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62161",77,0,2013,1,"N","Leslie County, Kentucky","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62161",77,0,2013,2,"N","Leslie County, Kentucky","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62161",77,0,2013,3,"N","Leslie County, Kentucky","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"621610",78,0,2013,1,"N","Leslie County, Kentucky","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"621610",78,0,2013,2,"N","Leslie County, Kentucky","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"621610",78,0,2013,3,"N","Leslie County, Kentucky","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"6219",76,0,2013,1,"N","Leslie County, Kentucky","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"6219",76,0,2013,2,"-","Leslie County, Kentucky","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"21131",5,"6219",76,0,2013,3,"-","Leslie County, Kentucky","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"21131",5,"62199",77,0,2013,1,"N","Leslie County, Kentucky","Private","All other ambulatory health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62199",77,0,2013,2,"-","Leslie County, Kentucky","Private","All other ambulatory health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"21131",5,"62199",77,0,2013,3,"-","Leslie County, Kentucky","Private","All other ambulatory health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"21131",5,"621999",78,0,2013,1,"N","Leslie County, Kentucky","Private","Miscellaneous ambulatory health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"621999",78,0,2013,2,"-","Leslie County, Kentucky","Private","Miscellaneous ambulatory health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"21131",5,"621999",78,0,2013,3,"-","Leslie County, Kentucky","Private","Miscellaneous ambulatory health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"21131",5,"622",75,0,2013,1,"N","Leslie County, Kentucky","Private","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"622",75,0,2013,2,"N","Leslie County, Kentucky","Private","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"622",75,0,2013,3,"N","Leslie County, Kentucky","Private","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"6221",76,0,2013,1,"N","Leslie County, Kentucky","Private","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"6221",76,0,2013,2,"N","Leslie County, Kentucky","Private","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"6221",76,0,2013,3,"N","Leslie County, Kentucky","Private","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"62211",77,0,2013,1,"N","Leslie County, Kentucky","Private","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"62211",77,0,2013,2,"N","Leslie County, Kentucky","Private","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"62211",77,0,2013,3,"N","Leslie County, Kentucky","Private","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"622110",78,0,2013,1,"N","Leslie County, Kentucky","Private","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"622110",78,0,2013,2,"N","Leslie County, Kentucky","Private","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"622110",78,0,2013,3,"N","Leslie County, Kentucky","Private","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"623",75,0,2013,1,"N","Leslie County, Kentucky","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"623",75,0,2013,2,"N","Leslie County, Kentucky","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"623",75,0,2013,3,"N","Leslie County, Kentucky","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"6231",76,0,2013,1,"N","Leslie County, Kentucky","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"6231",76,0,2013,2,"N","Leslie County, Kentucky","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"6231",76,0,2013,3,"N","Leslie County, Kentucky","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62311",77,0,2013,1,"N","Leslie County, Kentucky","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62311",77,0,2013,2,"N","Leslie County, Kentucky","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62311",77,0,2013,3,"N","Leslie County, Kentucky","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"623110",78,0,2013,1,"N","Leslie County, Kentucky","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"623110",78,0,2013,2,"N","Leslie County, Kentucky","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"623110",78,0,2013,3,"N","Leslie County, Kentucky","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"6232",76,0,2013,1,"-","Leslie County, Kentucky","Private","Residential mental health facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"21131",5,"6232",76,0,2013,2,"N","Leslie County, Kentucky","Private","Residential mental health facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"6232",76,0,2013,3,"N","Leslie County, Kentucky","Private","Residential mental health facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62321",77,0,2013,1,"-","Leslie County, Kentucky","Private","Residential disability facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"21131",5,"62321",77,0,2013,2,"N","Leslie County, Kentucky","Private","Residential disability facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62321",77,0,2013,3,"N","Leslie County, Kentucky","Private","Residential disability facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"623210",78,0,2013,1,"-","Leslie County, Kentucky","Private","Residential disability facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"21131",5,"623210",78,0,2013,2,"N","Leslie County, Kentucky","Private","Residential disability facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"623210",78,0,2013,3,"N","Leslie County, Kentucky","Private","Residential disability facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"624",75,0,2013,1,"","Leslie County, Kentucky","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,11,9,9,47583,44533,1395,379
+"21131",5,"624",75,0,2013,2,"","Leslie County, Kentucky","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,12,15,14,57709,38995,1165,325
+"21131",5,"624",75,0,2013,3,"","Leslie County, Kentucky","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",12,16,16,16,56056,31373,897,270
+"21131",5,"6241",76,0,2013,1,"N","Leslie County, Kentucky","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"21131",5,"6241",76,0,2013,2,"N","Leslie County, Kentucky","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"21131",5,"6241",76,0,2013,3,"N","Leslie County, Kentucky","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"21131",5,"62412",77,0,2013,1,"","Leslie County, Kentucky","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,4,4,4,8092,8092,223,156
+"21131",5,"62412",77,0,2013,2,"","Leslie County, Kentucky","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,6,8,8,19376,19072,521,203
+"21131",5,"62412",77,0,2013,3,"","Leslie County, Kentucky","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,9,10,10,30348,23051,624,241
+"21131",5,"624120",78,0,2013,1,"","Leslie County, Kentucky","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,4,4,4,8092,8092,223,156
+"21131",5,"624120",78,0,2013,2,"","Leslie County, Kentucky","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,6,8,8,19376,19072,521,203
+"21131",5,"624120",78,0,2013,3,"","Leslie County, Kentucky","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",9,9,10,10,30348,23051,624,241
+"21131",5,"62419",77,0,2013,1,"N","Leslie County, Kentucky","Private","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62419",77,0,2013,2,"N","Leslie County, Kentucky","Private","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"62419",77,0,2013,3,"N","Leslie County, Kentucky","Private","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"624190",78,0,2013,1,"N","Leslie County, Kentucky","Private","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"624190",78,0,2013,2,"N","Leslie County, Kentucky","Private","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"624190",78,0,2013,3,"N","Leslie County, Kentucky","Private","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"6244",76,0,2013,1,"N","Leslie County, Kentucky","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"6244",76,0,2013,2,"N","Leslie County, Kentucky","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"6244",76,0,2013,3,"N","Leslie County, Kentucky","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"62441",77,0,2013,1,"N","Leslie County, Kentucky","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"62441",77,0,2013,2,"N","Leslie County, Kentucky","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"62441",77,0,2013,3,"N","Leslie County, Kentucky","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"624410",78,0,2013,1,"N","Leslie County, Kentucky","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"624410",78,0,2013,2,"N","Leslie County, Kentucky","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"624410",78,0,2013,3,"N","Leslie County, Kentucky","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"72",74,0,2013,1,"","Leslie County, Kentucky","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,60,62,64,227009,224425,3196,282
+"21131",5,"72",74,0,2013,2,"","Leslie County, Kentucky","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,65,66,66,238244,185644,2691,279
+"21131",5,"72",74,0,2013,3,"","Leslie County, Kentucky","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,65,68,68,246576,123779,1707,283
+"21131",5,"722",75,0,2013,1,"","Leslie County, Kentucky","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,60,62,64,227009,224425,3196,282
+"21131",5,"722",75,0,2013,2,"","Leslie County, Kentucky","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,65,66,66,238244,185644,2691,279
+"21131",5,"722",75,0,2013,3,"","Leslie County, Kentucky","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,65,68,68,246576,123779,1707,283
+"21131",5,"7225",76,0,2013,1,"","Leslie County, Kentucky","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,60,62,64,227009,224425,3196,282
+"21131",5,"7225",76,0,2013,2,"","Leslie County, Kentucky","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,65,66,66,238244,185644,2691,279
+"21131",5,"7225",76,0,2013,3,"","Leslie County, Kentucky","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,65,68,68,246576,123779,1707,283
+"21131",5,"72251",77,0,2013,1,"","Leslie County, Kentucky","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,60,62,64,227009,224425,3196,282
+"21131",5,"72251",77,0,2013,2,"","Leslie County, Kentucky","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,65,66,66,238244,185644,2691,279
+"21131",5,"72251",77,0,2013,3,"","Leslie County, Kentucky","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,65,68,68,246576,123779,1707,283
+"21131",5,"722513",78,0,2013,1,"N","Leslie County, Kentucky","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"722513",78,0,2013,2,"N","Leslie County, Kentucky","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"722513",78,0,2013,3,"N","Leslie County, Kentucky","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"722515",78,0,2013,1,"N","Leslie County, Kentucky","Private","Snack and nonalcoholic beverage bars","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"722515",78,0,2013,2,"N","Leslie County, Kentucky","Private","Snack and nonalcoholic beverage bars","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"722515",78,0,2013,3,"N","Leslie County, Kentucky","Private","Snack and nonalcoholic beverage bars","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"81",74,0,2013,1,"","Leslie County, Kentucky","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",21,34,37,39,223805,187409,5717,470
+"21131",5,"81",74,0,2013,2,"","Leslie County, Kentucky","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",21,40,42,53,234616,122876,3912,401
+"21131",5,"81",74,0,2013,3,"","Leslie County, Kentucky","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",20,48,38,32,224446,50402,1594,439
+"21131",5,"812",75,0,2013,1,"N","Leslie County, Kentucky","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"812",75,0,2013,2,"N","Leslie County, Kentucky","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"812",75,0,2013,3,"N","Leslie County, Kentucky","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"8122",76,0,2013,1,"N","Leslie County, Kentucky","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"8122",76,0,2013,2,"N","Leslie County, Kentucky","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"8122",76,0,2013,3,"N","Leslie County, Kentucky","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"81221",77,0,2013,1,"N","Leslie County, Kentucky","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"81221",77,0,2013,2,"N","Leslie County, Kentucky","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"81221",77,0,2013,3,"N","Leslie County, Kentucky","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"812210",78,0,2013,1,"N","Leslie County, Kentucky","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"812210",78,0,2013,2,"N","Leslie County, Kentucky","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"812210",78,0,2013,3,"N","Leslie County, Kentucky","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"21131",5,"813",75,0,2013,1,"N","Leslie County, Kentucky","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"813",75,0,2013,2,"N","Leslie County, Kentucky","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"813",75,0,2013,3,"N","Leslie County, Kentucky","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"8131",76,0,2013,1,"N","Leslie County, Kentucky","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"8131",76,0,2013,2,"N","Leslie County, Kentucky","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"8131",76,0,2013,3,"N","Leslie County, Kentucky","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"81311",77,0,2013,1,"N","Leslie County, Kentucky","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"81311",77,0,2013,2,"N","Leslie County, Kentucky","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"81311",77,0,2013,3,"N","Leslie County, Kentucky","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"813110",78,0,2013,1,"N","Leslie County, Kentucky","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"813110",78,0,2013,2,"N","Leslie County, Kentucky","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"813110",78,0,2013,3,"N","Leslie County, Kentucky","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"21131",5,"814",75,0,2013,1,"","Leslie County, Kentucky","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",18,20,23,23,98045,98043,2987,343
+"21131",5,"814",75,0,2013,2,"","Leslie County, Kentucky","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",18,21,21,18,73918,49423,1500,284
+"21131",5,"814",75,0,2013,3,"","Leslie County, Kentucky","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",17,19,18,16,69235,25166,765,301
+"21131",5,"8141",76,0,2013,1,"","Leslie County, Kentucky","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",18,20,23,23,98045,98043,2987,343
+"21131",5,"8141",76,0,2013,2,"","Leslie County, Kentucky","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",18,21,21,18,73918,49423,1500,284
+"21131",5,"8141",76,0,2013,3,"","Leslie County, Kentucky","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",17,19,18,16,69235,25166,765,301
+"21131",5,"81411",77,0,2013,1,"","Leslie County, Kentucky","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",18,20,23,23,98045,98043,2987,343
+"21131",5,"81411",77,0,2013,2,"","Leslie County, Kentucky","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",18,21,21,18,73918,49423,1500,284
+"21131",5,"81411",77,0,2013,3,"","Leslie County, Kentucky","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",17,19,18,16,69235,25166,765,301
+"21131",5,"814110",78,0,2013,1,"","Leslie County, Kentucky","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",18,20,23,23,98045,98043,2987,343
+"21131",5,"814110",78,0,2013,2,"","Leslie County, Kentucky","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",18,21,21,18,73918,49423,1500,284
+"21131",5,"814110",78,0,2013,3,"","Leslie County, Kentucky","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",17,19,18,16,69235,25166,765,301
+

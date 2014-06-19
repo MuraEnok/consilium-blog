@@ -1,0 +1,908 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"48327",0,"10",70,0,2013,1,"","Menard County, Texas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",81,440,449,452,2624338,1123253,14730,452
+"48327",0,"10",70,0,2013,2,"","Menard County, Texas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",80,442,451,446,2698648,587180,7511,465
+"48327",0,"10",70,0,2013,3,"","Menard County, Texas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",80,435,438,435,2631751,279389,3069,464
+"48327",1,"10",71,0,2013,1,"","Menard County, Texas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,7,8,9,67483,0,0,649
+"48327",1,"10",71,0,2013,2,"","Menard County, Texas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,7,7,7,63285,0,0,695
+"48327",1,"10",71,0,2013,3,"","Menard County, Texas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,7,7,7,70610,0,0,776
+"48327",1,"102",72,0,2013,1,"","Menard County, Texas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,7,8,9,67483,0,0,649
+"48327",1,"102",72,0,2013,2,"","Menard County, Texas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,7,7,7,63285,0,0,695
+"48327",1,"102",72,0,2013,3,"","Menard County, Texas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,7,7,7,70610,0,0,776
+"48327",1,"1021",73,0,2013,1,"","Menard County, Texas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,6,7,8,52080,0,0,572
+"48327",1,"1021",73,0,2013,2,"","Menard County, Texas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,6,6,6,45315,0,0,581
+"48327",1,"1021",73,0,2013,3,"","Menard County, Texas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,6,6,6,52448,0,0,672
+"48327",1,"1028",73,0,2013,1,"","Menard County, Texas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,1,1,1,15403,0,0,1185
+"48327",1,"1028",73,0,2013,2,"","Menard County, Texas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,1,1,1,17970,0,0,1382
+"48327",1,"1028",73,0,2013,3,"","Menard County, Texas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,1,1,1,18162,0,0,1397
+"48327",1,"48-49",74,0,2013,1,"","Menard County, Texas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,7,8,52080,0,0,572
+"48327",1,"48-49",74,0,2013,2,"","Menard County, Texas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,6,6,45315,0,0,581
+"48327",1,"48-49",74,0,2013,3,"","Menard County, Texas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,6,6,52448,0,0,672
+"48327",1,"491",75,0,2013,1,"","Menard County, Texas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,7,8,52080,0,0,572
+"48327",1,"491",75,0,2013,2,"","Menard County, Texas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,6,6,45315,0,0,581
+"48327",1,"491",75,0,2013,3,"","Menard County, Texas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,6,6,52448,0,0,672
+"48327",1,"4911",76,0,2013,1,"","Menard County, Texas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,7,8,52080,0,0,572
+"48327",1,"4911",76,0,2013,2,"","Menard County, Texas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,6,6,45315,0,0,581
+"48327",1,"4911",76,0,2013,3,"","Menard County, Texas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,6,6,6,52448,0,0,672
+"48327",1,"49111",77,0,2013,1,"","Menard County, Texas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,6,7,8,52080,0,0,572
+"48327",1,"49111",77,0,2013,2,"","Menard County, Texas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,6,6,6,45315,0,0,581
+"48327",1,"49111",77,0,2013,3,"","Menard County, Texas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,6,6,6,52448,0,0,672
+"48327",1,"491110",78,0,2013,1,"","Menard County, Texas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,7,8,52080,0,0,572
+"48327",1,"491110",78,0,2013,2,"","Menard County, Texas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,6,6,45315,0,0,581
+"48327",1,"491110",78,0,2013,3,"","Menard County, Texas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,6,6,6,52448,0,0,672
+"48327",1,"92",74,0,2013,1,"","Menard County, Texas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,1,1,1,15403,0,0,1185
+"48327",1,"92",74,0,2013,2,"","Menard County, Texas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,1,1,1,17970,0,0,1382
+"48327",1,"92",74,0,2013,3,"","Menard County, Texas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,1,1,1,18162,0,0,1397
+"48327",1,"924",75,0,2013,1,"","Menard County, Texas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,1,1,1,15403,0,0,1185
+"48327",1,"924",75,0,2013,2,"","Menard County, Texas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,1,1,1,17970,0,0,1382
+"48327",1,"924",75,0,2013,3,"","Menard County, Texas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,1,1,1,18162,0,0,1397
+"48327",1,"9241",76,0,2013,1,"","Menard County, Texas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,1,1,1,15403,0,0,1185
+"48327",1,"9241",76,0,2013,2,"","Menard County, Texas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,1,1,1,17970,0,0,1382
+"48327",1,"9241",76,0,2013,3,"","Menard County, Texas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,1,1,1,18162,0,0,1397
+"48327",1,"92412",77,0,2013,1,"","Menard County, Texas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,1,1,1,15403,0,0,1185
+"48327",1,"92412",77,0,2013,2,"","Menard County, Texas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,1,1,1,17970,0,0,1382
+"48327",1,"92412",77,0,2013,3,"","Menard County, Texas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,1,1,1,18162,0,0,1397
+"48327",1,"924120",78,0,2013,1,"","Menard County, Texas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,1,1,1,15403,0,0,1185
+"48327",1,"924120",78,0,2013,2,"","Menard County, Texas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,1,1,1,17970,0,0,1382
+"48327",1,"924120",78,0,2013,3,"","Menard County, Texas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,1,1,1,18162,0,0,1397
+"48327",2,"10",71,0,2013,1,"","Menard County, Texas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,7,7,7,62135,0,0,683
+"48327",2,"10",71,0,2013,2,"","Menard County, Texas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,7,6,7,67977,0,0,784
+"48327",2,"10",71,0,2013,3,"","Menard County, Texas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,8,8,6,63382,0,0,665
+"48327",2,"101",72,0,2013,1,"N","Menard County, Texas","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"101",72,0,2013,2,"N","Menard County, Texas","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"101",72,0,2013,3,"N","Menard County, Texas","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"1012",73,0,2013,1,"N","Menard County, Texas","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"1012",73,0,2013,2,"N","Menard County, Texas","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"1012",73,0,2013,3,"N","Menard County, Texas","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"102",72,0,2013,1,"N","Menard County, Texas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48327",2,"102",72,0,2013,2,"N","Menard County, Texas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48327",2,"102",72,0,2013,3,"N","Menard County, Texas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48327",2,"1028",73,0,2013,1,"N","Menard County, Texas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48327",2,"1028",73,0,2013,2,"N","Menard County, Texas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48327",2,"1028",73,0,2013,3,"N","Menard County, Texas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48327",2,"23",74,0,2013,1,"N","Menard County, Texas","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"23",74,0,2013,2,"N","Menard County, Texas","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"23",74,0,2013,3,"N","Menard County, Texas","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"237",75,0,2013,1,"N","Menard County, Texas","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"237",75,0,2013,2,"N","Menard County, Texas","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"237",75,0,2013,3,"N","Menard County, Texas","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"2373",76,0,2013,1,"N","Menard County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"2373",76,0,2013,2,"N","Menard County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"2373",76,0,2013,3,"N","Menard County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"23731",77,0,2013,1,"N","Menard County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"23731",77,0,2013,2,"N","Menard County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"23731",77,0,2013,3,"N","Menard County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"237310",78,0,2013,1,"N","Menard County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"237310",78,0,2013,2,"N","Menard County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"237310",78,0,2013,3,"N","Menard County, Texas","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"92",74,0,2013,1,"N","Menard County, Texas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48327",2,"92",74,0,2013,2,"N","Menard County, Texas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48327",2,"92",74,0,2013,3,"N","Menard County, Texas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"48327",2,"922",75,0,2013,1,"N","Menard County, Texas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"922",75,0,2013,2,"N","Menard County, Texas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"922",75,0,2013,3,"N","Menard County, Texas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"9221",76,0,2013,1,"N","Menard County, Texas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"9221",76,0,2013,2,"N","Menard County, Texas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"9221",76,0,2013,3,"N","Menard County, Texas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"92212",77,0,2013,1,"N","Menard County, Texas","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"92212",77,0,2013,2,"N","Menard County, Texas","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"92212",77,0,2013,3,"N","Menard County, Texas","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"922120",78,0,2013,1,"N","Menard County, Texas","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"922120",78,0,2013,2,"N","Menard County, Texas","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"922120",78,0,2013,3,"N","Menard County, Texas","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"924",75,0,2013,1,"N","Menard County, Texas","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"924",75,0,2013,2,"N","Menard County, Texas","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"924",75,0,2013,3,"N","Menard County, Texas","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"9241",76,0,2013,1,"N","Menard County, Texas","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"9241",76,0,2013,2,"N","Menard County, Texas","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"9241",76,0,2013,3,"N","Menard County, Texas","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"92412",77,0,2013,1,"N","Menard County, Texas","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"92412",77,0,2013,2,"N","Menard County, Texas","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"92412",77,0,2013,3,"N","Menard County, Texas","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"924120",78,0,2013,1,"N","Menard County, Texas","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"924120",78,0,2013,2,"N","Menard County, Texas","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"924120",78,0,2013,3,"N","Menard County, Texas","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",2,"926",75,0,2013,1,"N","Menard County, Texas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",2,"926",75,0,2013,2,"N","Menard County, Texas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",2,"926",75,0,2013,3,"N","Menard County, Texas","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",2,"9261",76,0,2013,1,"N","Menard County, Texas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",2,"9261",76,0,2013,2,"N","Menard County, Texas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",2,"9261",76,0,2013,3,"N","Menard County, Texas","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",2,"92614",77,0,2013,1,"N","Menard County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",2,"92614",77,0,2013,2,"N","Menard County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",2,"92614",77,0,2013,3,"N","Menard County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",2,"926140",78,0,2013,1,"N","Menard County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",2,"926140",78,0,2013,2,"N","Menard County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",2,"926140",78,0,2013,3,"N","Menard County, Texas","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",3,"10",71,0,2013,1,"","Menard County, Texas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",22,187,184,185,1209422,107414,106,502
+"48327",3,"10",71,0,2013,2,"","Menard County, Texas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",22,190,195,191,1303358,36324,34,522
+"48327",3,"10",71,0,2013,3,"","Menard County, Texas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",22,191,192,191,1236077,8844,8,497
+"48327",3,"101",72,0,2013,1,"N","Menard County, Texas","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"101",72,0,2013,2,"N","Menard County, Texas","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"101",72,0,2013,3,"N","Menard County, Texas","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"1012",73,0,2013,1,"N","Menard County, Texas","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"1012",73,0,2013,2,"N","Menard County, Texas","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"1012",73,0,2013,3,"N","Menard County, Texas","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"102",72,0,2013,1,"N","Menard County, Texas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",21,0,0,0,0,0,0,0
+"48327",3,"102",72,0,2013,2,"N","Menard County, Texas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",21,0,0,0,0,0,0,0
+"48327",3,"102",72,0,2013,3,"N","Menard County, Texas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",21,0,0,0,0,0,0,0
+"48327",3,"1021",73,0,2013,1,"N","Menard County, Texas","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"1021",73,0,2013,2,"N","Menard County, Texas","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"1021",73,0,2013,3,"N","Menard County, Texas","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"1022",73,0,2013,1,"N","Menard County, Texas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"1022",73,0,2013,2,"N","Menard County, Texas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"1022",73,0,2013,3,"N","Menard County, Texas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"1024",73,0,2013,1,"N","Menard County, Texas","Local Government","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",3,"1024",73,0,2013,2,"N","Menard County, Texas","Local Government","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",3,"1024",73,0,2013,3,"N","Menard County, Texas","Local Government","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",3,"1025",73,0,2013,1,"","Menard County, Texas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,141,139,139,939946,21375,21,518
+"48327",3,"1025",73,0,2013,2,"","Menard County, Texas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,141,145,141,994363,9330,9,537
+"48327",3,"1025",73,0,2013,3,"","Menard County, Texas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,141,142,142,941684,2618,3,511
+"48327",3,"1026",73,0,2013,1,"N","Menard County, Texas","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"1026",73,0,2013,2,"N","Menard County, Texas","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"1026",73,0,2013,3,"N","Menard County, Texas","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"1027",73,0,2013,1,"N","Menard County, Texas","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"1027",73,0,2013,2,"N","Menard County, Texas","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"1027",73,0,2013,3,"N","Menard County, Texas","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"1028",73,0,2013,1,"","Menard County, Texas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",11,34,33,34,225955,86039,85,516
+"48327",3,"1028",73,0,2013,2,"","Menard County, Texas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",11,34,35,35,252342,26994,25,560
+"48327",3,"1028",73,0,2013,3,"","Menard County, Texas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",11,35,35,34,243313,6226,5,540
+"48327",3,"22",74,0,2013,1,"N","Menard County, Texas","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"22",74,0,2013,2,"N","Menard County, Texas","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"22",74,0,2013,3,"N","Menard County, Texas","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"221",75,0,2013,1,"N","Menard County, Texas","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"221",75,0,2013,2,"N","Menard County, Texas","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"221",75,0,2013,3,"N","Menard County, Texas","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"2213",76,0,2013,1,"N","Menard County, Texas","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"2213",76,0,2013,2,"N","Menard County, Texas","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"2213",76,0,2013,3,"N","Menard County, Texas","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"22131",77,0,2013,1,"N","Menard County, Texas","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"22131",77,0,2013,2,"N","Menard County, Texas","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"22131",77,0,2013,3,"N","Menard County, Texas","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"221310",78,0,2013,1,"N","Menard County, Texas","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"221310",78,0,2013,2,"N","Menard County, Texas","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"221310",78,0,2013,3,"N","Menard County, Texas","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"23",74,0,2013,1,"N","Menard County, Texas","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"23",74,0,2013,2,"N","Menard County, Texas","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"23",74,0,2013,3,"N","Menard County, Texas","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"237",75,0,2013,1,"N","Menard County, Texas","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"237",75,0,2013,2,"N","Menard County, Texas","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"237",75,0,2013,3,"N","Menard County, Texas","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"2373",76,0,2013,1,"N","Menard County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"2373",76,0,2013,2,"N","Menard County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"2373",76,0,2013,3,"N","Menard County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"23731",77,0,2013,1,"N","Menard County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"23731",77,0,2013,2,"N","Menard County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"23731",77,0,2013,3,"N","Menard County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"237310",78,0,2013,1,"N","Menard County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"237310",78,0,2013,2,"N","Menard County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"237310",78,0,2013,3,"N","Menard County, Texas","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"51",74,0,2013,1,"N","Menard County, Texas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"51",74,0,2013,2,"N","Menard County, Texas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"51",74,0,2013,3,"N","Menard County, Texas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"519",75,0,2013,1,"N","Menard County, Texas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"519",75,0,2013,2,"N","Menard County, Texas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"519",75,0,2013,3,"N","Menard County, Texas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"5191",76,0,2013,1,"N","Menard County, Texas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"5191",76,0,2013,2,"N","Menard County, Texas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"5191",76,0,2013,3,"N","Menard County, Texas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"51912",77,0,2013,1,"N","Menard County, Texas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"51912",77,0,2013,2,"N","Menard County, Texas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"51912",77,0,2013,3,"N","Menard County, Texas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"519120",78,0,2013,1,"N","Menard County, Texas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"519120",78,0,2013,2,"N","Menard County, Texas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"519120",78,0,2013,3,"N","Menard County, Texas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"54",74,0,2013,1,"N","Menard County, Texas","Local Government","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"54",74,0,2013,2,"N","Menard County, Texas","Local Government","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"54",74,0,2013,3,"N","Menard County, Texas","Local Government","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"541",75,0,2013,1,"N","Menard County, Texas","Local Government","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"541",75,0,2013,2,"N","Menard County, Texas","Local Government","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"541",75,0,2013,3,"N","Menard County, Texas","Local Government","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"5418",76,0,2013,1,"N","Menard County, Texas","Local Government","Advertising, pr, and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"5418",76,0,2013,2,"N","Menard County, Texas","Local Government","Advertising, pr, and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"5418",76,0,2013,3,"N","Menard County, Texas","Local Government","Advertising, pr, and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"54182",77,0,2013,1,"N","Menard County, Texas","Local Government","Public relations agencies","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"54182",77,0,2013,2,"N","Menard County, Texas","Local Government","Public relations agencies","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"54182",77,0,2013,3,"N","Menard County, Texas","Local Government","Public relations agencies","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"541820",78,0,2013,1,"N","Menard County, Texas","Local Government","Public relations agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"541820",78,0,2013,2,"N","Menard County, Texas","Local Government","Public relations agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"541820",78,0,2013,3,"N","Menard County, Texas","Local Government","Public relations agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"56",74,0,2013,1,"N","Menard County, Texas","Local Government","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"56",74,0,2013,2,"N","Menard County, Texas","Local Government","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"56",74,0,2013,3,"N","Menard County, Texas","Local Government","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"561",75,0,2013,1,"N","Menard County, Texas","Local Government","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"561",75,0,2013,2,"N","Menard County, Texas","Local Government","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"561",75,0,2013,3,"N","Menard County, Texas","Local Government","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"5617",76,0,2013,1,"N","Menard County, Texas","Local Government","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"5617",76,0,2013,2,"N","Menard County, Texas","Local Government","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"5617",76,0,2013,3,"N","Menard County, Texas","Local Government","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"56172",77,0,2013,1,"N","Menard County, Texas","Local Government","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"56172",77,0,2013,2,"N","Menard County, Texas","Local Government","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"56172",77,0,2013,3,"N","Menard County, Texas","Local Government","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"561720",78,0,2013,1,"N","Menard County, Texas","Local Government","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"561720",78,0,2013,2,"N","Menard County, Texas","Local Government","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"561720",78,0,2013,3,"N","Menard County, Texas","Local Government","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"61",74,0,2013,1,"N","Menard County, Texas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"61",74,0,2013,2,"N","Menard County, Texas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"61",74,0,2013,3,"N","Menard County, Texas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"611",75,0,2013,1,"N","Menard County, Texas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"611",75,0,2013,2,"N","Menard County, Texas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"611",75,0,2013,3,"N","Menard County, Texas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"6111",76,0,2013,1,"N","Menard County, Texas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"6111",76,0,2013,2,"N","Menard County, Texas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"6111",76,0,2013,3,"N","Menard County, Texas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"61111",77,0,2013,1,"N","Menard County, Texas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"61111",77,0,2013,2,"N","Menard County, Texas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"61111",77,0,2013,3,"N","Menard County, Texas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"611110",78,0,2013,1,"N","Menard County, Texas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"611110",78,0,2013,2,"N","Menard County, Texas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"611110",78,0,2013,3,"N","Menard County, Texas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"62",74,0,2013,1,"N","Menard County, Texas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48327",3,"62",74,0,2013,2,"N","Menard County, Texas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48327",3,"62",74,0,2013,3,"N","Menard County, Texas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48327",3,"623",75,0,2013,1,"N","Menard County, Texas","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"623",75,0,2013,2,"N","Menard County, Texas","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"623",75,0,2013,3,"N","Menard County, Texas","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"6231",76,0,2013,1,"N","Menard County, Texas","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"6231",76,0,2013,2,"N","Menard County, Texas","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"6231",76,0,2013,3,"N","Menard County, Texas","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"62311",77,0,2013,1,"N","Menard County, Texas","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"62311",77,0,2013,2,"N","Menard County, Texas","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"62311",77,0,2013,3,"N","Menard County, Texas","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"623110",78,0,2013,1,"N","Menard County, Texas","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"623110",78,0,2013,2,"N","Menard County, Texas","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"623110",78,0,2013,3,"N","Menard County, Texas","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"624",75,0,2013,1,"N","Menard County, Texas","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",3,"624",75,0,2013,2,"N","Menard County, Texas","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",3,"624",75,0,2013,3,"N","Menard County, Texas","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",3,"6241",76,0,2013,1,"N","Menard County, Texas","Local Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"6241",76,0,2013,2,"N","Menard County, Texas","Local Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"6241",76,0,2013,3,"N","Menard County, Texas","Local Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"62419",77,0,2013,1,"N","Menard County, Texas","Local Government","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"62419",77,0,2013,2,"N","Menard County, Texas","Local Government","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"62419",77,0,2013,3,"N","Menard County, Texas","Local Government","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"624190",78,0,2013,1,"N","Menard County, Texas","Local Government","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"624190",78,0,2013,2,"N","Menard County, Texas","Local Government","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"624190",78,0,2013,3,"N","Menard County, Texas","Local Government","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"6244",76,0,2013,1,"N","Menard County, Texas","Local Government","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"6244",76,0,2013,2,"N","Menard County, Texas","Local Government","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"6244",76,0,2013,3,"N","Menard County, Texas","Local Government","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"62441",77,0,2013,1,"N","Menard County, Texas","Local Government","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"62441",77,0,2013,2,"N","Menard County, Texas","Local Government","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"62441",77,0,2013,3,"N","Menard County, Texas","Local Government","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"624410",78,0,2013,1,"N","Menard County, Texas","Local Government","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"624410",78,0,2013,2,"N","Menard County, Texas","Local Government","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"624410",78,0,2013,3,"N","Menard County, Texas","Local Government","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"71",74,0,2013,1,"N","Menard County, Texas","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"71",74,0,2013,2,"N","Menard County, Texas","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"71",74,0,2013,3,"N","Menard County, Texas","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"712",75,0,2013,1,"N","Menard County, Texas","Local Government","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"712",75,0,2013,2,"N","Menard County, Texas","Local Government","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"712",75,0,2013,3,"N","Menard County, Texas","Local Government","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"7121",76,0,2013,1,"N","Menard County, Texas","Local Government","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"7121",76,0,2013,2,"N","Menard County, Texas","Local Government","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"7121",76,0,2013,3,"N","Menard County, Texas","Local Government","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"71219",77,0,2013,1,"N","Menard County, Texas","Local Government","Nature parks and other similar institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"71219",77,0,2013,2,"N","Menard County, Texas","Local Government","Nature parks and other similar institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"71219",77,0,2013,3,"N","Menard County, Texas","Local Government","Nature parks and other similar institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"712190",78,0,2013,1,"N","Menard County, Texas","Local Government","Nature parks and other similar institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"712190",78,0,2013,2,"N","Menard County, Texas","Local Government","Nature parks and other similar institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"712190",78,0,2013,3,"N","Menard County, Texas","Local Government","Nature parks and other similar institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"81",74,0,2013,1,"N","Menard County, Texas","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"81",74,0,2013,2,"N","Menard County, Texas","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"81",74,0,2013,3,"N","Menard County, Texas","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"811",75,0,2013,1,"N","Menard County, Texas","Local Government","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"811",75,0,2013,2,"N","Menard County, Texas","Local Government","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"811",75,0,2013,3,"N","Menard County, Texas","Local Government","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"8111",76,0,2013,1,"N","Menard County, Texas","Local Government","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"8111",76,0,2013,2,"N","Menard County, Texas","Local Government","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"8111",76,0,2013,3,"N","Menard County, Texas","Local Government","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"81111",77,0,2013,1,"N","Menard County, Texas","Local Government","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"81111",77,0,2013,2,"N","Menard County, Texas","Local Government","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"81111",77,0,2013,3,"N","Menard County, Texas","Local Government","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"811111",78,0,2013,1,"N","Menard County, Texas","Local Government","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"811111",78,0,2013,2,"N","Menard County, Texas","Local Government","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"811111",78,0,2013,3,"N","Menard County, Texas","Local Government","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92",74,0,2013,1,"","Menard County, Texas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",11,34,33,34,225955,86039,85,516
+"48327",3,"92",74,0,2013,2,"","Menard County, Texas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",11,34,35,35,252342,26994,25,560
+"48327",3,"92",74,0,2013,3,"","Menard County, Texas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",11,35,35,34,243313,6226,5,540
+"48327",3,"921",75,0,2013,1,"","Menard County, Texas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,15,14,15,99889,83799,83,524
+"48327",3,"921",75,0,2013,2,"","Menard County, Texas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,15,15,15,100437,24594,23,515
+"48327",3,"921",75,0,2013,3,"","Menard County, Texas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,16,16,15,103361,3696,3,508
+"48327",3,"9211",76,0,2013,1,"","Menard County, Texas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,15,14,15,99889,83799,83,524
+"48327",3,"9211",76,0,2013,2,"","Menard County, Texas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,15,15,15,100437,24594,23,515
+"48327",3,"9211",76,0,2013,3,"","Menard County, Texas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,16,16,15,103361,3696,3,508
+"48327",3,"92113",77,0,2013,1,"N","Menard County, Texas","Local Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92113",77,0,2013,2,"N","Menard County, Texas","Local Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92113",77,0,2013,3,"N","Menard County, Texas","Local Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"921130",78,0,2013,1,"N","Menard County, Texas","Local Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"921130",78,0,2013,2,"N","Menard County, Texas","Local Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"921130",78,0,2013,3,"N","Menard County, Texas","Local Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92114",77,0,2013,1,"N","Menard County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",3,"92114",77,0,2013,2,"N","Menard County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",3,"92114",77,0,2013,3,"N","Menard County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",3,"921140",78,0,2013,1,"N","Menard County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",3,"921140",78,0,2013,2,"N","Menard County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",3,"921140",78,0,2013,3,"N","Menard County, Texas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",3,"922",75,0,2013,1,"","Menard County, Texas","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,13,13,13,107936,0,0,639
+"48327",3,"922",75,0,2013,2,"","Menard County, Texas","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,13,14,14,132272,0,0,744
+"48327",3,"922",75,0,2013,3,"","Menard County, Texas","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,13,13,13,120514,0,0,713
+"48327",3,"9221",76,0,2013,1,"","Menard County, Texas","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,13,13,13,107936,0,0,639
+"48327",3,"9221",76,0,2013,2,"","Menard County, Texas","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,13,14,14,132272,0,0,744
+"48327",3,"9221",76,0,2013,3,"","Menard County, Texas","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,13,13,13,120514,0,0,713
+"48327",3,"92211",77,0,2013,1,"N","Menard County, Texas","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92211",77,0,2013,2,"N","Menard County, Texas","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92211",77,0,2013,3,"N","Menard County, Texas","Local Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"922110",78,0,2013,1,"N","Menard County, Texas","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"922110",78,0,2013,2,"N","Menard County, Texas","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"922110",78,0,2013,3,"N","Menard County, Texas","Local Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92212",77,0,2013,1,"N","Menard County, Texas","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92212",77,0,2013,2,"N","Menard County, Texas","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92212",77,0,2013,3,"N","Menard County, Texas","Local Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"922120",78,0,2013,1,"N","Menard County, Texas","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"922120",78,0,2013,2,"N","Menard County, Texas","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"922120",78,0,2013,3,"N","Menard County, Texas","Local Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92214",77,0,2013,1,"N","Menard County, Texas","Local Government","Correctional institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92214",77,0,2013,2,"N","Menard County, Texas","Local Government","Correctional institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92214",77,0,2013,3,"N","Menard County, Texas","Local Government","Correctional institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"922140",78,0,2013,1,"N","Menard County, Texas","Local Government","Correctional institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"922140",78,0,2013,2,"N","Menard County, Texas","Local Government","Correctional institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"922140",78,0,2013,3,"N","Menard County, Texas","Local Government","Correctional institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92215",77,0,2013,1,"N","Menard County, Texas","Local Government","Parole offices and probation offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92215",77,0,2013,2,"N","Menard County, Texas","Local Government","Parole offices and probation offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92215",77,0,2013,3,"N","Menard County, Texas","Local Government","Parole offices and probation offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"922150",78,0,2013,1,"N","Menard County, Texas","Local Government","Parole offices and probation offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"922150",78,0,2013,2,"N","Menard County, Texas","Local Government","Parole offices and probation offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"922150",78,0,2013,3,"N","Menard County, Texas","Local Government","Parole offices and probation offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92219",77,0,2013,1,"N","Menard County, Texas","Local Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92219",77,0,2013,2,"N","Menard County, Texas","Local Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92219",77,0,2013,3,"N","Menard County, Texas","Local Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"922190",78,0,2013,1,"N","Menard County, Texas","Local Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"922190",78,0,2013,2,"N","Menard County, Texas","Local Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"922190",78,0,2013,3,"N","Menard County, Texas","Local Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"923",75,0,2013,1,"N","Menard County, Texas","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"923",75,0,2013,2,"N","Menard County, Texas","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"923",75,0,2013,3,"N","Menard County, Texas","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"9231",76,0,2013,1,"N","Menard County, Texas","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"9231",76,0,2013,2,"N","Menard County, Texas","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"9231",76,0,2013,3,"N","Menard County, Texas","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92314",77,0,2013,1,"N","Menard County, Texas","Local Government","Administration of veterans' affairs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92314",77,0,2013,2,"N","Menard County, Texas","Local Government","Administration of veterans' affairs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92314",77,0,2013,3,"N","Menard County, Texas","Local Government","Administration of veterans' affairs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"923140",78,0,2013,1,"N","Menard County, Texas","Local Government","Administration of veterans' affairs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"923140",78,0,2013,2,"N","Menard County, Texas","Local Government","Administration of veterans' affairs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"923140",78,0,2013,3,"N","Menard County, Texas","Local Government","Administration of veterans' affairs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"924",75,0,2013,1,"N","Menard County, Texas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"924",75,0,2013,2,"N","Menard County, Texas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"924",75,0,2013,3,"N","Menard County, Texas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"9241",76,0,2013,1,"N","Menard County, Texas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"9241",76,0,2013,2,"N","Menard County, Texas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"9241",76,0,2013,3,"N","Menard County, Texas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92412",77,0,2013,1,"N","Menard County, Texas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92412",77,0,2013,2,"N","Menard County, Texas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92412",77,0,2013,3,"N","Menard County, Texas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"924120",78,0,2013,1,"N","Menard County, Texas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"924120",78,0,2013,2,"N","Menard County, Texas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"924120",78,0,2013,3,"N","Menard County, Texas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"926",75,0,2013,1,"N","Menard County, Texas","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"926",75,0,2013,2,"N","Menard County, Texas","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"926",75,0,2013,3,"N","Menard County, Texas","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"9261",76,0,2013,1,"N","Menard County, Texas","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"9261",76,0,2013,2,"N","Menard County, Texas","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"9261",76,0,2013,3,"N","Menard County, Texas","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92614",77,0,2013,1,"N","Menard County, Texas","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92614",77,0,2013,2,"N","Menard County, Texas","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"92614",77,0,2013,3,"N","Menard County, Texas","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"926140",78,0,2013,1,"N","Menard County, Texas","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"926140",78,0,2013,2,"N","Menard County, Texas","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",3,"926140",78,0,2013,3,"N","Menard County, Texas","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"10",71,0,2013,1,"","Menard County, Texas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",49,239,250,251,1285298,1015839,14624,401
+"48327",5,"10",71,0,2013,2,"","Menard County, Texas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",48,238,243,241,1264028,550856,7477,404
+"48327",5,"10",71,0,2013,3,"","Menard County, Texas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",48,229,231,231,1261682,270545,3061,421
+"48327",5,"101",72,0,2013,1,"","Menard County, Texas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",15,46,55,57,379948,311029,4974,555
+"48327",5,"101",72,0,2013,2,"","Menard County, Texas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",15,52,57,60,390651,158807,2156,533
+"48327",5,"101",72,0,2013,3,"","Menard County, Texas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",15,54,57,57,396592,64245,329,545
+"48327",5,"1011",73,0,2013,1,"N","Menard County, Texas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"48327",5,"1011",73,0,2013,2,"N","Menard County, Texas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"48327",5,"1011",73,0,2013,3,"","Menard County, Texas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",8,23,23,23,196308,19832,104,657
+"48327",5,"1012",73,0,2013,1,"","Menard County, Texas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",6,17,25,27,130059,129398,2200,435
+"48327",5,"1012",73,0,2013,2,"","Menard County, Texas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",6,22,26,29,142496,94912,1444,427
+"48327",5,"1012",73,0,2013,3,"N","Menard County, Texas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"48327",5,"1013",73,0,2013,1,"N","Menard County, Texas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"1013",73,0,2013,2,"N","Menard County, Texas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"1013",73,0,2013,3,"N","Menard County, Texas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"102",72,0,2013,1,"","Menard County, Texas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",34,193,195,194,905350,704810,9650,359
+"48327",5,"102",72,0,2013,2,"","Menard County, Texas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",33,186,186,181,873377,392049,5321,364
+"48327",5,"102",72,0,2013,3,"","Menard County, Texas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",33,175,174,174,865090,206300,2732,382
+"48327",5,"1021",73,0,2013,1,"","Menard County, Texas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",13,90,94,89,462074,354084,7204,391
+"48327",5,"1021",73,0,2013,2,"","Menard County, Texas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",13,91,91,84,439768,219175,3940,382
+"48327",5,"1021",73,0,2013,3,"","Menard County, Texas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",13,82,84,85,448586,112332,1866,412
+"48327",5,"1022",73,0,2013,1,"N","Menard County, Texas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"1022",73,0,2013,2,"N","Menard County, Texas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"1022",73,0,2013,3,"N","Menard County, Texas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"1023",73,0,2013,1,"","Menard County, Texas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",6,29,28,30,263230,176240,1035,698
+"48327",5,"1023",73,0,2013,2,"","Menard County, Texas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",6,28,29,30,286028,52681,304,759
+"48327",5,"1023",73,0,2013,3,"","Menard County, Texas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",6,30,29,31,275885,20221,113,707
+"48327",5,"1024",73,0,2013,1,"N","Menard County, Texas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48327",5,"1024",73,0,2013,2,"","Menard County, Texas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",3,4,4,4,10896,9096,48,210
+"48327",5,"1024",73,0,2013,3,"N","Menard County, Texas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48327",5,"1025",73,0,2013,1,"","Menard County, Texas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,30,31,31,70675,65115,706,177
+"48327",5,"1025",73,0,2013,2,"","Menard County, Texas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,22,23,23,35537,28048,482,121
+"48327",5,"1025",73,0,2013,3,"","Menard County, Texas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,23,23,21,40100,27223,407,138
+"48327",5,"1026",73,0,2013,1,"","Menard County, Texas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",4,35,35,36,83839,83839,507,183
+"48327",5,"1026",73,0,2013,2,"","Menard County, Texas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",4,35,34,34,85957,72021,431,193
+"48327",5,"1026",73,0,2013,3,"","Menard County, Texas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",4,30,30,29,72238,36573,217,187
+"48327",5,"1027",73,0,2013,1,"N","Menard County, Texas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48327",5,"1027",73,0,2013,2,"N","Menard County, Texas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48327",5,"1027",73,0,2013,3,"","Menard County, Texas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,4,4,4,12947,5717,107,249
+"48327",5,"11",74,0,2013,1,"","Menard County, Texas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",6,16,17,17,117748,99748,1721,543
+"48327",5,"11",74,0,2013,2,"","Menard County, Texas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",6,17,18,17,119477,39897,583,530
+"48327",5,"11",74,0,2013,3,"N","Menard County, Texas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"48327",5,"112",75,0,2013,1,"","Menard County, Texas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,16,17,17,117748,99748,1721,543
+"48327",5,"112",75,0,2013,2,"","Menard County, Texas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,17,18,17,119477,39897,583,530
+"48327",5,"112",75,0,2013,3,"N","Menard County, Texas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"48327",5,"1121",76,0,2013,1,"N","Menard County, Texas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48327",5,"1121",76,0,2013,2,"N","Menard County, Texas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48327",5,"1121",76,0,2013,3,"","Menard County, Texas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,19,19,19,119065,17852,94,482
+"48327",5,"11211",77,0,2013,1,"N","Menard County, Texas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48327",5,"11211",77,0,2013,2,"N","Menard County, Texas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48327",5,"11211",77,0,2013,3,"","Menard County, Texas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,19,19,19,119065,17852,94,482
+"48327",5,"112111",78,0,2013,1,"N","Menard County, Texas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48327",5,"112111",78,0,2013,2,"N","Menard County, Texas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48327",5,"112111",78,0,2013,3,"","Menard County, Texas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,19,19,19,119065,17852,94,482
+"48327",5,"1124",76,0,2013,1,"N","Menard County, Texas","Private","Sheep and goat farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"1124",76,0,2013,2,"N","Menard County, Texas","Private","Sheep and goat farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"1124",76,0,2013,3,"N","Menard County, Texas","Private","Sheep and goat farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"11241",77,0,2013,1,"N","Menard County, Texas","Private","Sheep farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"11241",77,0,2013,2,"N","Menard County, Texas","Private","Sheep farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"11241",77,0,2013,3,"N","Menard County, Texas","Private","Sheep farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"112410",78,0,2013,1,"N","Menard County, Texas","Private","Sheep farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"112410",78,0,2013,2,"N","Menard County, Texas","Private","Sheep farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"112410",78,0,2013,3,"N","Menard County, Texas","Private","Sheep farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"21",74,0,2013,1,"N","Menard County, Texas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"21",74,0,2013,2,"N","Menard County, Texas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"21",74,0,2013,3,"N","Menard County, Texas","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"211",75,0,2013,1,"N","Menard County, Texas","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"211",75,0,2013,2,"N","Menard County, Texas","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"211",75,0,2013,3,"N","Menard County, Texas","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2111",76,0,2013,1,"N","Menard County, Texas","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2111",76,0,2013,2,"N","Menard County, Texas","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2111",76,0,2013,3,"N","Menard County, Texas","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"21111",77,0,2013,1,"N","Menard County, Texas","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"21111",77,0,2013,2,"N","Menard County, Texas","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"21111",77,0,2013,3,"N","Menard County, Texas","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"211111",78,0,2013,1,"N","Menard County, Texas","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"211111",78,0,2013,2,"N","Menard County, Texas","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"211111",78,0,2013,3,"N","Menard County, Texas","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"213",75,0,2013,1,"N","Menard County, Texas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"213",75,0,2013,2,"N","Menard County, Texas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"213",75,0,2013,3,"N","Menard County, Texas","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2131",76,0,2013,1,"N","Menard County, Texas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2131",76,0,2013,2,"N","Menard County, Texas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2131",76,0,2013,3,"N","Menard County, Texas","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"21311",77,0,2013,1,"N","Menard County, Texas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"21311",77,0,2013,2,"N","Menard County, Texas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"21311",77,0,2013,3,"N","Menard County, Texas","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"213112",78,0,2013,1,"N","Menard County, Texas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"213112",78,0,2013,2,"N","Menard County, Texas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"213112",78,0,2013,3,"N","Menard County, Texas","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"22",74,0,2013,1,"N","Menard County, Texas","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"22",74,0,2013,2,"N","Menard County, Texas","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"22",74,0,2013,3,"N","Menard County, Texas","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"221",75,0,2013,1,"N","Menard County, Texas","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"221",75,0,2013,2,"N","Menard County, Texas","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"221",75,0,2013,3,"N","Menard County, Texas","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"2211",76,0,2013,1,"N","Menard County, Texas","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2211",76,0,2013,2,"N","Menard County, Texas","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2211",76,0,2013,3,"N","Menard County, Texas","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"22111",77,0,2013,1,"N","Menard County, Texas","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"22111",77,0,2013,2,"N","Menard County, Texas","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"22111",77,0,2013,3,"N","Menard County, Texas","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"221111",78,0,2013,1,"N","Menard County, Texas","Private","Hydroelectric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"221111",78,0,2013,2,"N","Menard County, Texas","Private","Hydroelectric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"221111",78,0,2013,3,"N","Menard County, Texas","Private","Hydroelectric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2212",76,0,2013,1,"N","Menard County, Texas","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2212",76,0,2013,2,"N","Menard County, Texas","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2212",76,0,2013,3,"N","Menard County, Texas","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"22121",77,0,2013,1,"N","Menard County, Texas","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"22121",77,0,2013,2,"N","Menard County, Texas","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"22121",77,0,2013,3,"N","Menard County, Texas","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"221210",78,0,2013,1,"N","Menard County, Texas","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"221210",78,0,2013,2,"N","Menard County, Texas","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"221210",78,0,2013,3,"N","Menard County, Texas","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"23",74,0,2013,1,"","Menard County, Texas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",6,17,25,27,130059,129398,2200,435
+"48327",5,"23",74,0,2013,2,"","Menard County, Texas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",6,22,26,29,142496,94912,1444,427
+"48327",5,"23",74,0,2013,3,"N","Menard County, Texas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"48327",5,"237",75,0,2013,1,"N","Menard County, Texas","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"237",75,0,2013,2,"N","Menard County, Texas","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"237",75,0,2013,3,"N","Menard County, Texas","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2371",76,0,2013,1,"N","Menard County, Texas","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2371",76,0,2013,2,"N","Menard County, Texas","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2371",76,0,2013,3,"N","Menard County, Texas","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"23713",77,0,2013,1,"N","Menard County, Texas","Private","Power and communication system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"23713",77,0,2013,2,"N","Menard County, Texas","Private","Power and communication system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"23713",77,0,2013,3,"N","Menard County, Texas","Private","Power and communication system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"237130",78,0,2013,1,"N","Menard County, Texas","Private","Power and communication system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"237130",78,0,2013,2,"N","Menard County, Texas","Private","Power and communication system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"237130",78,0,2013,3,"N","Menard County, Texas","Private","Power and communication system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"238",75,0,2013,1,"N","Menard County, Texas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48327",5,"238",75,0,2013,2,"N","Menard County, Texas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"48327",5,"238",75,0,2013,3,"","Menard County, Texas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,18,21,22,127252,30689,151,481
+"48327",5,"2381",76,0,2013,1,"N","Menard County, Texas","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"2381",76,0,2013,2,"N","Menard County, Texas","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"2381",76,0,2013,3,"N","Menard County, Texas","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"23811",77,0,2013,1,"N","Menard County, Texas","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"23811",77,0,2013,2,"N","Menard County, Texas","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"23811",77,0,2013,3,"N","Menard County, Texas","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"238112",78,0,2013,1,"N","Menard County, Texas","Private","Nonresidential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"238112",78,0,2013,2,"N","Menard County, Texas","Private","Nonresidential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"238112",78,0,2013,3,"N","Menard County, Texas","Private","Nonresidential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"23814",77,0,2013,1,"N","Menard County, Texas","Private","Masonry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"23814",77,0,2013,2,"N","Menard County, Texas","Private","Masonry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"23814",77,0,2013,3,"N","Menard County, Texas","Private","Masonry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"238141",78,0,2013,1,"N","Menard County, Texas","Private","Residential masonry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"238141",78,0,2013,2,"N","Menard County, Texas","Private","Residential masonry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"238141",78,0,2013,3,"N","Menard County, Texas","Private","Residential masonry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2382",76,0,2013,1,"N","Menard County, Texas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2382",76,0,2013,2,"N","Menard County, Texas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2382",76,0,2013,3,"N","Menard County, Texas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"23829",77,0,2013,1,"N","Menard County, Texas","Private","Other building equipment contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"23829",77,0,2013,2,"N","Menard County, Texas","Private","Other building equipment contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"23829",77,0,2013,3,"N","Menard County, Texas","Private","Other building equipment contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"238291",78,0,2013,1,"N","Menard County, Texas","Private","Other residential equipment contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"238291",78,0,2013,2,"N","Menard County, Texas","Private","Other residential equipment contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"238291",78,0,2013,3,"N","Menard County, Texas","Private","Other residential equipment contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"2389",76,0,2013,1,"N","Menard County, Texas","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"2389",76,0,2013,2,"N","Menard County, Texas","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"2389",76,0,2013,3,"N","Menard County, Texas","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"23899",77,0,2013,1,"N","Menard County, Texas","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"23899",77,0,2013,2,"N","Menard County, Texas","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"23899",77,0,2013,3,"N","Menard County, Texas","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"238991",78,0,2013,1,"N","Menard County, Texas","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"238991",78,0,2013,2,"N","Menard County, Texas","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"238991",78,0,2013,3,"N","Menard County, Texas","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"238992",78,0,2013,1,"N","Menard County, Texas","Private","All other nonresidential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"238992",78,0,2013,2,"N","Menard County, Texas","Private","All other nonresidential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"238992",78,0,2013,3,"N","Menard County, Texas","Private","All other nonresidential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"31-33",74,0,2013,1,"N","Menard County, Texas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"31-33",74,0,2013,2,"N","Menard County, Texas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"31-33",74,0,2013,3,"N","Menard County, Texas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"311",75,0,2013,1,"N","Menard County, Texas","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"311",75,0,2013,2,"N","Menard County, Texas","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"311",75,0,2013,3,"N","Menard County, Texas","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"3111",76,0,2013,1,"N","Menard County, Texas","Private","Animal food manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"3111",76,0,2013,2,"N","Menard County, Texas","Private","Animal food manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"3111",76,0,2013,3,"N","Menard County, Texas","Private","Animal food manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"31111",77,0,2013,1,"N","Menard County, Texas","Private","Animal food manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"31111",77,0,2013,2,"N","Menard County, Texas","Private","Animal food manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"31111",77,0,2013,3,"N","Menard County, Texas","Private","Animal food manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"311119",78,0,2013,1,"N","Menard County, Texas","Private","Other animal food manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"311119",78,0,2013,2,"N","Menard County, Texas","Private","Other animal food manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"311119",78,0,2013,3,"N","Menard County, Texas","Private","Other animal food manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"42",74,0,2013,1,"N","Menard County, Texas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"42",74,0,2013,2,"N","Menard County, Texas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"42",74,0,2013,3,"N","Menard County, Texas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"423",75,0,2013,1,"N","Menard County, Texas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"423",75,0,2013,2,"N","Menard County, Texas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"423",75,0,2013,3,"N","Menard County, Texas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4238",76,0,2013,1,"N","Menard County, Texas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4238",76,0,2013,2,"N","Menard County, Texas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4238",76,0,2013,3,"N","Menard County, Texas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"42383",77,0,2013,1,"N","Menard County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"42383",77,0,2013,2,"N","Menard County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"42383",77,0,2013,3,"N","Menard County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"423830",78,0,2013,1,"N","Menard County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"423830",78,0,2013,2,"N","Menard County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"423830",78,0,2013,3,"N","Menard County, Texas","Private","Industrial machinery merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"424",75,0,2013,1,"N","Menard County, Texas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"424",75,0,2013,2,"N","Menard County, Texas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"424",75,0,2013,3,"N","Menard County, Texas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4247",76,0,2013,1,"N","Menard County, Texas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4247",76,0,2013,2,"N","Menard County, Texas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4247",76,0,2013,3,"N","Menard County, Texas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"42472",77,0,2013,1,"N","Menard County, Texas","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"42472",77,0,2013,2,"N","Menard County, Texas","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"42472",77,0,2013,3,"N","Menard County, Texas","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"424720",78,0,2013,1,"N","Menard County, Texas","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"424720",78,0,2013,2,"N","Menard County, Texas","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"424720",78,0,2013,3,"N","Menard County, Texas","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"44-45",74,0,2013,1,"","Menard County, Texas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,83,86,82,376780,308619,5857,346
+"48327",5,"44-45",74,0,2013,2,"","Menard County, Texas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,83,83,76,365891,212081,3899,349
+"48327",5,"44-45",74,0,2013,3,"","Menard County, Texas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,74,76,77,353875,105015,1817,360
+"48327",5,"441",75,0,2013,1,"N","Menard County, Texas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"441",75,0,2013,2,"N","Menard County, Texas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"441",75,0,2013,3,"N","Menard County, Texas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4413",76,0,2013,1,"N","Menard County, Texas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4413",76,0,2013,2,"N","Menard County, Texas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4413",76,0,2013,3,"N","Menard County, Texas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"44131",77,0,2013,1,"N","Menard County, Texas","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"44131",77,0,2013,2,"N","Menard County, Texas","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"44131",77,0,2013,3,"N","Menard County, Texas","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"441310",78,0,2013,1,"N","Menard County, Texas","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"441310",78,0,2013,2,"N","Menard County, Texas","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"441310",78,0,2013,3,"N","Menard County, Texas","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"444",75,0,2013,1,"N","Menard County, Texas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"444",75,0,2013,2,"N","Menard County, Texas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"444",75,0,2013,3,"N","Menard County, Texas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4441",76,0,2013,1,"N","Menard County, Texas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4441",76,0,2013,2,"N","Menard County, Texas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4441",76,0,2013,3,"N","Menard County, Texas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"44411",77,0,2013,1,"N","Menard County, Texas","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"44411",77,0,2013,2,"N","Menard County, Texas","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"44411",77,0,2013,3,"N","Menard County, Texas","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"444110",78,0,2013,1,"N","Menard County, Texas","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"444110",78,0,2013,2,"N","Menard County, Texas","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"444110",78,0,2013,3,"N","Menard County, Texas","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"445",75,0,2013,1,"N","Menard County, Texas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"445",75,0,2013,2,"N","Menard County, Texas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"445",75,0,2013,3,"N","Menard County, Texas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"4451",76,0,2013,1,"N","Menard County, Texas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4451",76,0,2013,2,"N","Menard County, Texas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4451",76,0,2013,3,"N","Menard County, Texas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"44511",77,0,2013,1,"N","Menard County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"44511",77,0,2013,2,"N","Menard County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"44511",77,0,2013,3,"N","Menard County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"445110",78,0,2013,1,"N","Menard County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"445110",78,0,2013,2,"N","Menard County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"445110",78,0,2013,3,"N","Menard County, Texas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4452",76,0,2013,1,"N","Menard County, Texas","Private","Specialty food stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4452",76,0,2013,2,"N","Menard County, Texas","Private","Specialty food stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4452",76,0,2013,3,"N","Menard County, Texas","Private","Specialty food stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"44521",77,0,2013,1,"N","Menard County, Texas","Private","Meat markets","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"44521",77,0,2013,2,"N","Menard County, Texas","Private","Meat markets","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"44521",77,0,2013,3,"N","Menard County, Texas","Private","Meat markets","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"445210",78,0,2013,1,"N","Menard County, Texas","Private","Meat markets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"445210",78,0,2013,2,"N","Menard County, Texas","Private","Meat markets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"445210",78,0,2013,3,"N","Menard County, Texas","Private","Meat markets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"447",75,0,2013,1,"","Menard County, Texas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,31,32,32,143000,100323,1861,347
+"48327",5,"447",75,0,2013,2,"","Menard County, Texas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,32,32,32,145986,83215,1439,351
+"48327",5,"447",75,0,2013,3,"","Menard County, Texas","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,28,27,28,133094,44901,764,370
+"48327",5,"4471",76,0,2013,1,"","Menard County, Texas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,31,32,32,143000,100323,1861,347
+"48327",5,"4471",76,0,2013,2,"","Menard County, Texas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,32,32,32,145986,83215,1439,351
+"48327",5,"4471",76,0,2013,3,"","Menard County, Texas","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,28,27,28,133094,44901,764,370
+"48327",5,"44711",77,0,2013,1,"","Menard County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,31,32,32,143000,100323,1861,347
+"48327",5,"44711",77,0,2013,2,"","Menard County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,32,32,32,145986,83215,1439,351
+"48327",5,"44711",77,0,2013,3,"","Menard County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,28,27,28,133094,44901,764,370
+"48327",5,"447110",78,0,2013,1,"","Menard County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,31,32,32,143000,100323,1861,347
+"48327",5,"447110",78,0,2013,2,"","Menard County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,32,32,32,145986,83215,1439,351
+"48327",5,"447110",78,0,2013,3,"","Menard County, Texas","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,28,27,28,133094,44901,764,370
+"48327",5,"453",75,0,2013,1,"N","Menard County, Texas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"453",75,0,2013,2,"N","Menard County, Texas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"453",75,0,2013,3,"N","Menard County, Texas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4539",76,0,2013,1,"N","Menard County, Texas","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4539",76,0,2013,2,"N","Menard County, Texas","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4539",76,0,2013,3,"N","Menard County, Texas","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"45391",77,0,2013,1,"N","Menard County, Texas","Private","Pet and pet supplies stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"45391",77,0,2013,2,"N","Menard County, Texas","Private","Pet and pet supplies stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"45391",77,0,2013,3,"N","Menard County, Texas","Private","Pet and pet supplies stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"453910",78,0,2013,1,"N","Menard County, Texas","Private","Pet and pet supplies stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"453910",78,0,2013,2,"N","Menard County, Texas","Private","Pet and pet supplies stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"453910",78,0,2013,3,"N","Menard County, Texas","Private","Pet and pet supplies stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"454",75,0,2013,1,"N","Menard County, Texas","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"454",75,0,2013,2,"N","Menard County, Texas","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"454",75,0,2013,3,"N","Menard County, Texas","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4541",76,0,2013,1,"N","Menard County, Texas","Private","Electronic shopping and mail-order houses","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4541",76,0,2013,2,"N","Menard County, Texas","Private","Electronic shopping and mail-order houses","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"4541",76,0,2013,3,"N","Menard County, Texas","Private","Electronic shopping and mail-order houses","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"45411",77,0,2013,1,"N","Menard County, Texas","Private","Electronic shopping and mail-order houses","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"45411",77,0,2013,2,"N","Menard County, Texas","Private","Electronic shopping and mail-order houses","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"45411",77,0,2013,3,"N","Menard County, Texas","Private","Electronic shopping and mail-order houses","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"454111",78,0,2013,1,"N","Menard County, Texas","Private","Electronic shopping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"454111",78,0,2013,2,"N","Menard County, Texas","Private","Electronic shopping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"454111",78,0,2013,3,"N","Menard County, Texas","Private","Electronic shopping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"51",74,0,2013,1,"N","Menard County, Texas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"51",74,0,2013,2,"N","Menard County, Texas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"51",74,0,2013,3,"N","Menard County, Texas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"511",75,0,2013,1,"N","Menard County, Texas","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"511",75,0,2013,2,"N","Menard County, Texas","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"511",75,0,2013,3,"N","Menard County, Texas","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5111",76,0,2013,1,"N","Menard County, Texas","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5111",76,0,2013,2,"N","Menard County, Texas","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5111",76,0,2013,3,"N","Menard County, Texas","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"51111",77,0,2013,1,"N","Menard County, Texas","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"51111",77,0,2013,2,"N","Menard County, Texas","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"51111",77,0,2013,3,"N","Menard County, Texas","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"511110",78,0,2013,1,"N","Menard County, Texas","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"511110",78,0,2013,2,"N","Menard County, Texas","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"511110",78,0,2013,3,"N","Menard County, Texas","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"52",74,0,2013,1,"","Menard County, Texas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,29,28,30,263230,176240,1035,698
+"48327",5,"52",74,0,2013,2,"","Menard County, Texas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,28,29,30,286028,52681,304,759
+"48327",5,"52",74,0,2013,3,"","Menard County, Texas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,30,29,31,275885,20221,113,707
+"48327",5,"522",75,0,2013,1,"N","Menard County, Texas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"522",75,0,2013,2,"N","Menard County, Texas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"522",75,0,2013,3,"N","Menard County, Texas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"5221",76,0,2013,1,"N","Menard County, Texas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"5221",76,0,2013,2,"N","Menard County, Texas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"5221",76,0,2013,3,"N","Menard County, Texas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"52211",77,0,2013,1,"N","Menard County, Texas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"52211",77,0,2013,2,"N","Menard County, Texas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"52211",77,0,2013,3,"N","Menard County, Texas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"522110",78,0,2013,1,"N","Menard County, Texas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"522110",78,0,2013,2,"N","Menard County, Texas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"522110",78,0,2013,3,"N","Menard County, Texas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"523",75,0,2013,1,"N","Menard County, Texas","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"523",75,0,2013,2,"N","Menard County, Texas","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"523",75,0,2013,3,"N","Menard County, Texas","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"5231",76,0,2013,1,"N","Menard County, Texas","Private","Securities and commodity contracts brokerage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5231",76,0,2013,2,"N","Menard County, Texas","Private","Securities and commodity contracts brokerage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5231",76,0,2013,3,"N","Menard County, Texas","Private","Securities and commodity contracts brokerage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"52314",77,0,2013,1,"N","Menard County, Texas","Private","Commodity contracts brokerage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"52314",77,0,2013,2,"N","Menard County, Texas","Private","Commodity contracts brokerage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"52314",77,0,2013,3,"N","Menard County, Texas","Private","Commodity contracts brokerage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"523140",78,0,2013,1,"N","Menard County, Texas","Private","Commodity contracts brokerage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"523140",78,0,2013,2,"N","Menard County, Texas","Private","Commodity contracts brokerage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"523140",78,0,2013,3,"N","Menard County, Texas","Private","Commodity contracts brokerage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5239",76,0,2013,1,"N","Menard County, Texas","Private","Other financial investment activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5239",76,0,2013,2,"N","Menard County, Texas","Private","Other financial investment activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5239",76,0,2013,3,"N","Menard County, Texas","Private","Other financial investment activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"52392",77,0,2013,1,"N","Menard County, Texas","Private","Portfolio management","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"52392",77,0,2013,2,"N","Menard County, Texas","Private","Portfolio management","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"52392",77,0,2013,3,"N","Menard County, Texas","Private","Portfolio management","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"523920",78,0,2013,1,"N","Menard County, Texas","Private","Portfolio management","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"523920",78,0,2013,2,"N","Menard County, Texas","Private","Portfolio management","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"523920",78,0,2013,3,"N","Menard County, Texas","Private","Portfolio management","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"524",75,0,2013,1,"N","Menard County, Texas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"524",75,0,2013,2,"N","Menard County, Texas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"524",75,0,2013,3,"N","Menard County, Texas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"5241",76,0,2013,1,"N","Menard County, Texas","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5241",76,0,2013,2,"N","Menard County, Texas","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5241",76,0,2013,3,"N","Menard County, Texas","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"52412",77,0,2013,1,"N","Menard County, Texas","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"52412",77,0,2013,2,"N","Menard County, Texas","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"52412",77,0,2013,3,"N","Menard County, Texas","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"524127",78,0,2013,1,"N","Menard County, Texas","Private","Direct title insurance carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"524127",78,0,2013,2,"N","Menard County, Texas","Private","Direct title insurance carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"524127",78,0,2013,3,"N","Menard County, Texas","Private","Direct title insurance carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5242",76,0,2013,1,"N","Menard County, Texas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5242",76,0,2013,2,"N","Menard County, Texas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5242",76,0,2013,3,"N","Menard County, Texas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"52421",77,0,2013,1,"N","Menard County, Texas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"52421",77,0,2013,2,"N","Menard County, Texas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"52421",77,0,2013,3,"N","Menard County, Texas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"524210",78,0,2013,1,"N","Menard County, Texas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"524210",78,0,2013,2,"N","Menard County, Texas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"524210",78,0,2013,3,"N","Menard County, Texas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"54",74,0,2013,1,"N","Menard County, Texas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"54",74,0,2013,2,"N","Menard County, Texas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"54",74,0,2013,3,"N","Menard County, Texas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"541",75,0,2013,1,"N","Menard County, Texas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"541",75,0,2013,2,"N","Menard County, Texas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"541",75,0,2013,3,"N","Menard County, Texas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"5413",76,0,2013,1,"N","Menard County, Texas","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5413",76,0,2013,2,"N","Menard County, Texas","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5413",76,0,2013,3,"N","Menard County, Texas","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"54133",77,0,2013,1,"N","Menard County, Texas","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"54133",77,0,2013,2,"N","Menard County, Texas","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"54133",77,0,2013,3,"N","Menard County, Texas","Private","Engineering services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"541330",78,0,2013,1,"N","Menard County, Texas","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"541330",78,0,2013,2,"N","Menard County, Texas","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"541330",78,0,2013,3,"N","Menard County, Texas","Private","Engineering services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5419",76,0,2013,1,"N","Menard County, Texas","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5419",76,0,2013,2,"N","Menard County, Texas","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5419",76,0,2013,3,"N","Menard County, Texas","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"54194",77,0,2013,1,"N","Menard County, Texas","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"54194",77,0,2013,2,"N","Menard County, Texas","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"54194",77,0,2013,3,"N","Menard County, Texas","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"541940",78,0,2013,1,"N","Menard County, Texas","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"541940",78,0,2013,2,"N","Menard County, Texas","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"541940",78,0,2013,3,"N","Menard County, Texas","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"56",74,0,2013,1,"N","Menard County, Texas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"56",74,0,2013,2,"N","Menard County, Texas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"56",74,0,2013,3,"N","Menard County, Texas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"561",75,0,2013,1,"N","Menard County, Texas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"561",75,0,2013,2,"N","Menard County, Texas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"561",75,0,2013,3,"N","Menard County, Texas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5617",76,0,2013,1,"N","Menard County, Texas","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5617",76,0,2013,2,"N","Menard County, Texas","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"5617",76,0,2013,3,"N","Menard County, Texas","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"56173",77,0,2013,1,"N","Menard County, Texas","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"56173",77,0,2013,2,"N","Menard County, Texas","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"56173",77,0,2013,3,"N","Menard County, Texas","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"561730",78,0,2013,1,"N","Menard County, Texas","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"561730",78,0,2013,2,"N","Menard County, Texas","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"561730",78,0,2013,3,"N","Menard County, Texas","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"62",74,0,2013,1,"","Menard County, Texas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,30,31,31,70675,65115,706,177
+"48327",5,"62",74,0,2013,2,"","Menard County, Texas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,22,23,23,35537,28048,482,121
+"48327",5,"62",74,0,2013,3,"","Menard County, Texas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,23,23,21,40100,27223,407,138
+"48327",5,"621",75,0,2013,1,"N","Menard County, Texas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48327",5,"621",75,0,2013,2,"N","Menard County, Texas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"621",75,0,2013,3,"N","Menard County, Texas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"6216",76,0,2013,1,"N","Menard County, Texas","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"6216",76,0,2013,2,"N","Menard County, Texas","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"6216",76,0,2013,3,"N","Menard County, Texas","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"62161",77,0,2013,1,"N","Menard County, Texas","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"62161",77,0,2013,2,"N","Menard County, Texas","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"62161",77,0,2013,3,"N","Menard County, Texas","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"621610",78,0,2013,1,"N","Menard County, Texas","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"621610",78,0,2013,2,"N","Menard County, Texas","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"621610",78,0,2013,3,"N","Menard County, Texas","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"6219",76,0,2013,1,"N","Menard County, Texas","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"6219",76,0,2013,2,"-","Menard County, Texas","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48327",5,"6219",76,0,2013,3,"-","Menard County, Texas","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48327",5,"62191",77,0,2013,1,"N","Menard County, Texas","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"62191",77,0,2013,2,"-","Menard County, Texas","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48327",5,"62191",77,0,2013,3,"-","Menard County, Texas","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48327",5,"621910",78,0,2013,1,"N","Menard County, Texas","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"621910",78,0,2013,2,"-","Menard County, Texas","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48327",5,"621910",78,0,2013,3,"-","Menard County, Texas","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"48327",5,"624",75,0,2013,1,"N","Menard County, Texas","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"624",75,0,2013,2,"N","Menard County, Texas","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"624",75,0,2013,3,"N","Menard County, Texas","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"6244",76,0,2013,1,"N","Menard County, Texas","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"6244",76,0,2013,2,"N","Menard County, Texas","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"6244",76,0,2013,3,"N","Menard County, Texas","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"62441",77,0,2013,1,"N","Menard County, Texas","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"62441",77,0,2013,2,"N","Menard County, Texas","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"62441",77,0,2013,3,"N","Menard County, Texas","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"624410",78,0,2013,1,"N","Menard County, Texas","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"624410",78,0,2013,2,"N","Menard County, Texas","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"624410",78,0,2013,3,"N","Menard County, Texas","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"71",74,0,2013,1,"N","Menard County, Texas","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"71",74,0,2013,2,"N","Menard County, Texas","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"71",74,0,2013,3,"N","Menard County, Texas","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"713",75,0,2013,1,"N","Menard County, Texas","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"713",75,0,2013,2,"N","Menard County, Texas","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"713",75,0,2013,3,"N","Menard County, Texas","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"7139",76,0,2013,1,"N","Menard County, Texas","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"7139",76,0,2013,2,"N","Menard County, Texas","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"7139",76,0,2013,3,"N","Menard County, Texas","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"71391",77,0,2013,1,"N","Menard County, Texas","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"71391",77,0,2013,2,"N","Menard County, Texas","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"71391",77,0,2013,3,"N","Menard County, Texas","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"713910",78,0,2013,1,"N","Menard County, Texas","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"713910",78,0,2013,2,"N","Menard County, Texas","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"713910",78,0,2013,3,"N","Menard County, Texas","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"72",74,0,2013,1,"N","Menard County, Texas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48327",5,"72",74,0,2013,2,"N","Menard County, Texas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48327",5,"72",74,0,2013,3,"N","Menard County, Texas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48327",5,"721",75,0,2013,1,"N","Menard County, Texas","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"721",75,0,2013,2,"N","Menard County, Texas","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"721",75,0,2013,3,"N","Menard County, Texas","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"7211",76,0,2013,1,"N","Menard County, Texas","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"7211",76,0,2013,2,"N","Menard County, Texas","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"7211",76,0,2013,3,"N","Menard County, Texas","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"72111",77,0,2013,1,"N","Menard County, Texas","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"72111",77,0,2013,2,"N","Menard County, Texas","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"72111",77,0,2013,3,"N","Menard County, Texas","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"721110",78,0,2013,1,"N","Menard County, Texas","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"721110",78,0,2013,2,"N","Menard County, Texas","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"721110",78,0,2013,3,"N","Menard County, Texas","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"722",75,0,2013,1,"N","Menard County, Texas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"722",75,0,2013,2,"N","Menard County, Texas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"722",75,0,2013,3,"N","Menard County, Texas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"7225",76,0,2013,1,"N","Menard County, Texas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"7225",76,0,2013,2,"N","Menard County, Texas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"7225",76,0,2013,3,"N","Menard County, Texas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"72251",77,0,2013,1,"N","Menard County, Texas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"72251",77,0,2013,2,"N","Menard County, Texas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"72251",77,0,2013,3,"N","Menard County, Texas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"722511",78,0,2013,1,"N","Menard County, Texas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"722511",78,0,2013,2,"N","Menard County, Texas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"722511",78,0,2013,3,"N","Menard County, Texas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"81",74,0,2013,1,"N","Menard County, Texas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48327",5,"81",74,0,2013,2,"N","Menard County, Texas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"48327",5,"81",74,0,2013,3,"","Menard County, Texas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,4,4,4,12947,5717,107,249
+"48327",5,"813",75,0,2013,1,"N","Menard County, Texas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"813",75,0,2013,2,"N","Menard County, Texas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"813",75,0,2013,3,"N","Menard County, Texas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"8139",76,0,2013,1,"N","Menard County, Texas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"8139",76,0,2013,2,"N","Menard County, Texas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"8139",76,0,2013,3,"N","Menard County, Texas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"81391",77,0,2013,1,"N","Menard County, Texas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"81391",77,0,2013,2,"N","Menard County, Texas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"81391",77,0,2013,3,"N","Menard County, Texas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"813910",78,0,2013,1,"N","Menard County, Texas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"813910",78,0,2013,2,"N","Menard County, Texas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"813910",78,0,2013,3,"N","Menard County, Texas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"48327",5,"814",75,0,2013,1,"N","Menard County, Texas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"814",75,0,2013,2,"N","Menard County, Texas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"814",75,0,2013,3,"N","Menard County, Texas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"8141",76,0,2013,1,"N","Menard County, Texas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"8141",76,0,2013,2,"N","Menard County, Texas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"8141",76,0,2013,3,"N","Menard County, Texas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"81411",77,0,2013,1,"N","Menard County, Texas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"81411",77,0,2013,2,"N","Menard County, Texas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"81411",77,0,2013,3,"N","Menard County, Texas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"814110",78,0,2013,1,"N","Menard County, Texas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"814110",78,0,2013,2,"N","Menard County, Texas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"48327",5,"814110",78,0,2013,3,"N","Menard County, Texas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

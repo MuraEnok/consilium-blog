@@ -1,0 +1,107 @@
+---
+title: "Weekly wages 2007 to 2013 with inflation adjustment"
+output: md_document
+---
+One of the best sources of local economic data is the quarterly census of wages and employment. In terms of usefulness this data is golden. In fact it is used to validate most other series of data that gets more of the monthly headlines, like the current employment statistics.  The data is found [qcew] (http://www.bls.gov/cew/datatoc.htm) from the bls.  The granularity of this data is very deep, as it goes down to a 6 digit NAICS code and to counties.  It shows average employment, the number of firms and the total wages earned by quarter.  The main downfall of this data is that it does not get published until five and a half months after the close of the quarter, so it is slow.  But I will take accuracy over speed here.
+
+To see the script for downloading and unzipping the qcew data go [here] (https://github.com/MuraEnok/consilium-blog). I did not place it in the code as it due to the size of the files it takes a while to run and unzip.
+
+
+```{r echo=FALSE}
+# unpack qcew and map 2013 and 2007 with inflation adjustment
+library(choroplethr)
+library(dplyr)
+library(stringr)
+```
+This assumes you have run the script above and have the files in a folder called data on your pwd. Then creates a list of all the unzipped files to build the QCEW data file for all counties.
+
+```{r} 
+loc = paste0(getwd(), "/",  "data/")
+# create a map of location of files
+base = paste0(loc, "2013.q1-q3.by_area/")
+# create list of the files to be used
+dir <- dir(base)
+# only get the files with county information
+dirx = str_detect(dir, "County|Parish|Borough") # remove multiple county, msa data
+dir = dir[dirx == TRUE]
+# create the loop to grab the needed files from each csv
+dfs <- lapply(dir, function(src) {
+  nm = paste0(base, src )
+  read.csv(nm, header=FALSE, skip=1, nrows=3, as.is=TRUE) # for this all we need is total employment
+})
+qcew <- do.call(rbind, dfs)
+```
+Get the names from a file so that the main qcew has proper labels.  This beats typing in a list of 25 columns.
+```{r echo=FALSE}
+# get the names of the columns
+colnm <- read.csv(paste0(base, dir[[3]]), header=TRUE,  nrows=1)
+names(qcew) = names(colnm) 
+```
+
+For this visualization and analysis, I only needed total employment, however the QCEW data is very detailed and should be investigated further. Get the data for just quarter 3 and remove from the map the inset for Hawai and Alaska, as their economies are counter cyclical and not pertinant for this analysis.  Then I map using the choroplethr package and save the file as map1 which can be used to plot in a side by side manner with the plot from 2007.
+
+```{r}
+df <-  filter(qcew, qtr == 3) %.%
+  filter( ! (substr(area_fips, 1, 2) %in% c("CS", "C1")) )%.%
+  select(area_fips, avg_wkly_wage, area_title) # %.%
+# mutate( region = as.numeric(area_fips))
+
+names(df) <- c( "region", "value", "nm")    
+state.abb.48 = setdiff(state.abb, c("AK", "HI"))
+choroplethr(df, "county", title = "Average Weekly Wage 2013 Qtr 3",  num_buckets = 5, states = state.abb.48)
+map1 <- choroplethr(df, "county", title = "Average Weekly Wage 2013 Qtr 3",  num_buckets = 5, )
+```
+
+Now the deflator is needed. For this I used the cpi-urban index from FRED data.  The data can be found [here](http://research.stlouisfed.org/fred2/data/CPIAUCNS.txt).  I really only need the index number for the 3rd quarter 2007 and 2013 which I will save as a vector named inflator.  Inflation adjustment will show us the areas of the country that have seen real wage growth or decline from prior to the last recession and post-recession.  This does not adequately address the very uneven economic recovery either. 
+``` {r}
+#########################################################################################
+# get the inflation cpi from fred http://research.stlouisfed.org/fred2/data/CPIAUCNS.txt
+url = "http://research.stlouisfed.org/fred2/data/CPIAUCNS.txt"
+cpi <- read.table(url, skip = 13, header=TRUE, as.is=TRUE)
+names(cpi) <- tolower(names(cpi))
+cpi$date <- as.Date(cpi$date, "%Y-%m-%d")
+top_dte = as.vector(cpi[cpi$date == "2007-09-01",2])
+bot_dte = as.vector(cpi[cpi$date == "2013-09-01",2])
+inflator =  bot_dte /top_dte
+```
+For the next part we do the same thing as the top with 2007 data. I probably should create a loop for this if I were going to run it all the time, but I found that in the analysis stage it is best to keep the code longer, so as to ensure no errors are incurred and that little things like inflation adjustment can be added. 
+  
+```{r}
+# create a map of location of files
+base = paste0(loc, "2007.q1-q4.by_area/")
+# create list of the files to be used
+dir <- dir(base)
+# only get the files with county information
+dirx = str_detect(dir, "County|Parish|Borough") # remove multiple county, msa data
+dir = dir[dirx == TRUE]
+# create the loop to grab the needed files from each csv
+dfs <- lapply(dir, function(src) {
+  nm = paste0(base, src )
+  read.csv(nm, header=FALSE, skip=1, nrows=3, as.is=TRUE) # for this all we need is total employment
+})
+# combine each file into master file
+qcew <- do.call(rbind, dfs)
+# get column names from first file: and put into master file
+colnm <- read.csv(paste0(base, dir[[1]]), header=TRUE,  nrows=1)
+names(qcew) = names(colnm) 
+rm(dfs)
+
+df.2 <-  filter(qcew, qtr == 3) %.%
+  filter( ! (substr(area_fips, 1, 2) %in% c("CS", "C1")) )%.%
+  select(area_fips, avg_wkly_wage, area_title) %.%
+  mutate( wg_inflation_adj = avg_wkly_wage * inflator)
+df.2 <- df.2[, c(1, 4)]
+
+names(df.2) <- c( "region", "value")    
+map2 <- choroplethr(df.2, "county", title = "Average Weekly Wage 2007 Qtr 3 inflation adjusted", states = state.abb.48, num_buckets = 5 )
+```
+Now that we have both maps we can place them side by side using grid view
+
+
+```{r, echo=FALSE}
+library(gridExtra)
+library(ggplot2)
+
+grid.arrange(map1, map2 , nrow=1, ncol=2)
+
+```

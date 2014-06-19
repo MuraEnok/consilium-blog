@@ -1,0 +1,839 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"31057",0,"10",70,0,2013,1,"","Dundy County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",107,652,655,667,5437247,2255669,33631,636
+"31057",0,"10",70,0,2013,2,"","Dundy County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",109,701,727,707,5422497,1006694,14860,586
+"31057",0,"10",70,0,2013,3,"","Dundy County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",110,663,660,705,5456255,551087,7924,621
+"31057",1,"10",71,0,2013,1,"","Dundy County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,14,12,14,113706,0,0,656
+"31057",1,"10",71,0,2013,2,"","Dundy County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,11,12,12,108508,0,0,715
+"31057",1,"10",71,0,2013,3,"","Dundy County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,11,10,11,117028,0,0,844
+"31057",1,"102",72,0,2013,1,"","Dundy County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,14,12,14,113706,0,0,656
+"31057",1,"102",72,0,2013,2,"","Dundy County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,11,12,12,108508,0,0,715
+"31057",1,"102",72,0,2013,3,"","Dundy County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,11,10,11,117028,0,0,844
+"31057",1,"1021",73,0,2013,1,"","Dundy County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,8,9,9,68905,0,0,612
+"31057",1,"1021",73,0,2013,2,"","Dundy County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,8,9,9,56277,0,0,500
+"31057",1,"1021",73,0,2013,3,"","Dundy County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,8,7,8,64863,0,0,651
+"31057",1,"1028",73,0,2013,1,"","Dundy County, Nebraska","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,6,3,5,44801,0,0,738
+"31057",1,"1028",73,0,2013,2,"","Dundy County, Nebraska","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,3,3,3,52231,0,0,1339
+"31057",1,"1028",73,0,2013,3,"","Dundy County, Nebraska","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,3,3,3,52165,0,0,1338
+"31057",1,"48-49",74,0,2013,1,"","Dundy County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,8,9,9,68905,0,0,612
+"31057",1,"48-49",74,0,2013,2,"","Dundy County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,8,9,9,56277,0,0,500
+"31057",1,"48-49",74,0,2013,3,"","Dundy County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,8,7,8,64863,0,0,651
+"31057",1,"491",75,0,2013,1,"","Dundy County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,9,9,68905,0,0,612
+"31057",1,"491",75,0,2013,2,"","Dundy County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,9,9,56277,0,0,500
+"31057",1,"491",75,0,2013,3,"","Dundy County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,7,8,64863,0,0,651
+"31057",1,"4911",76,0,2013,1,"","Dundy County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,9,9,68905,0,0,612
+"31057",1,"4911",76,0,2013,2,"","Dundy County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,9,9,56277,0,0,500
+"31057",1,"4911",76,0,2013,3,"","Dundy County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,7,8,64863,0,0,651
+"31057",1,"49111",77,0,2013,1,"","Dundy County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,8,9,9,68905,0,0,612
+"31057",1,"49111",77,0,2013,2,"","Dundy County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,8,9,9,56277,0,0,500
+"31057",1,"49111",77,0,2013,3,"","Dundy County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,8,7,8,64863,0,0,651
+"31057",1,"491110",78,0,2013,1,"","Dundy County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,8,9,9,68905,0,0,612
+"31057",1,"491110",78,0,2013,2,"","Dundy County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,8,9,9,56277,0,0,500
+"31057",1,"491110",78,0,2013,3,"","Dundy County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,8,7,8,64863,0,0,651
+"31057",1,"92",74,0,2013,1,"","Dundy County, Nebraska","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,6,3,5,44801,0,0,738
+"31057",1,"92",74,0,2013,2,"","Dundy County, Nebraska","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,3,3,3,52231,0,0,1339
+"31057",1,"92",74,0,2013,3,"","Dundy County, Nebraska","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,3,3,3,52165,0,0,1338
+"31057",1,"924",75,0,2013,1,"","Dundy County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,6,3,5,44801,0,0,738
+"31057",1,"924",75,0,2013,2,"","Dundy County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,3,3,3,52231,0,0,1339
+"31057",1,"924",75,0,2013,3,"","Dundy County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,3,3,3,52165,0,0,1338
+"31057",1,"9241",76,0,2013,1,"","Dundy County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,6,3,5,44801,0,0,738
+"31057",1,"9241",76,0,2013,2,"","Dundy County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,3,3,3,52231,0,0,1339
+"31057",1,"9241",76,0,2013,3,"","Dundy County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,3,3,3,52165,0,0,1338
+"31057",1,"92412",77,0,2013,1,"","Dundy County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,6,3,5,44801,0,0,738
+"31057",1,"92412",77,0,2013,2,"","Dundy County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,3,3,3,52231,0,0,1339
+"31057",1,"92412",77,0,2013,3,"","Dundy County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,3,3,3,52165,0,0,1338
+"31057",1,"924120",78,0,2013,1,"","Dundy County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,6,3,5,44801,0,0,738
+"31057",1,"924120",78,0,2013,2,"","Dundy County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,3,3,3,52231,0,0,1339
+"31057",1,"924120",78,0,2013,3,"","Dundy County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,3,3,3,52165,0,0,1338
+"31057",2,"10",71,0,2013,1,"","Dundy County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,11,10,10,101656,0,0,757
+"31057",2,"10",71,0,2013,2,"","Dundy County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,10,13,13,122587,0,0,786
+"31057",2,"10",71,0,2013,3,"","Dundy County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,13,11,10,108927,0,0,739
+"31057",2,"102",72,0,2013,1,"","Dundy County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,11,10,10,101656,0,0,757
+"31057",2,"102",72,0,2013,2,"","Dundy County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,10,13,13,122587,0,0,786
+"31057",2,"102",72,0,2013,3,"","Dundy County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,13,11,10,108927,0,0,739
+"31057",2,"1025",73,0,2013,1,"N","Dundy County, Nebraska","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"1025",73,0,2013,2,"N","Dundy County, Nebraska","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"1025",73,0,2013,3,"N","Dundy County, Nebraska","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"1028",73,0,2013,1,"N","Dundy County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31057",2,"1028",73,0,2013,2,"N","Dundy County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31057",2,"1028",73,0,2013,3,"N","Dundy County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31057",2,"61",74,0,2013,1,"N","Dundy County, Nebraska","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"61",74,0,2013,2,"N","Dundy County, Nebraska","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"61",74,0,2013,3,"N","Dundy County, Nebraska","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"611",75,0,2013,1,"N","Dundy County, Nebraska","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"611",75,0,2013,2,"N","Dundy County, Nebraska","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"611",75,0,2013,3,"N","Dundy County, Nebraska","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"6113",76,0,2013,1,"N","Dundy County, Nebraska","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"6113",76,0,2013,2,"N","Dundy County, Nebraska","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"6113",76,0,2013,3,"N","Dundy County, Nebraska","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"61131",77,0,2013,1,"N","Dundy County, Nebraska","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"61131",77,0,2013,2,"N","Dundy County, Nebraska","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"61131",77,0,2013,3,"N","Dundy County, Nebraska","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"611310",78,0,2013,1,"N","Dundy County, Nebraska","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"611310",78,0,2013,2,"N","Dundy County, Nebraska","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"611310",78,0,2013,3,"N","Dundy County, Nebraska","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"92",74,0,2013,1,"N","Dundy County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31057",2,"92",74,0,2013,2,"N","Dundy County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31057",2,"92",74,0,2013,3,"N","Dundy County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31057",2,"922",75,0,2013,1,"N","Dundy County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"922",75,0,2013,2,"N","Dundy County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"922",75,0,2013,3,"N","Dundy County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"9221",76,0,2013,1,"N","Dundy County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"9221",76,0,2013,2,"N","Dundy County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"9221",76,0,2013,3,"N","Dundy County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"92211",77,0,2013,1,"N","Dundy County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"92211",77,0,2013,2,"N","Dundy County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"92211",77,0,2013,3,"N","Dundy County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"922110",78,0,2013,1,"N","Dundy County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"922110",78,0,2013,2,"N","Dundy County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"922110",78,0,2013,3,"N","Dundy County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"924",75,0,2013,1,"N","Dundy County, Nebraska","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"924",75,0,2013,2,"N","Dundy County, Nebraska","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"924",75,0,2013,3,"N","Dundy County, Nebraska","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"9241",76,0,2013,1,"N","Dundy County, Nebraska","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"9241",76,0,2013,2,"N","Dundy County, Nebraska","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"9241",76,0,2013,3,"N","Dundy County, Nebraska","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"92412",77,0,2013,1,"N","Dundy County, Nebraska","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"92412",77,0,2013,2,"N","Dundy County, Nebraska","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"92412",77,0,2013,3,"N","Dundy County, Nebraska","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"924120",78,0,2013,1,"N","Dundy County, Nebraska","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"924120",78,0,2013,2,"N","Dundy County, Nebraska","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"924120",78,0,2013,3,"N","Dundy County, Nebraska","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"926",75,0,2013,1,"N","Dundy County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",2,"926",75,0,2013,2,"N","Dundy County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",2,"926",75,0,2013,3,"N","Dundy County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",2,"9261",76,0,2013,1,"N","Dundy County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",2,"9261",76,0,2013,2,"N","Dundy County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",2,"9261",76,0,2013,3,"N","Dundy County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",2,"92612",77,0,2013,1,"N","Dundy County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"92612",77,0,2013,2,"N","Dundy County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"92612",77,0,2013,3,"N","Dundy County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"926120",78,0,2013,1,"N","Dundy County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"926120",78,0,2013,2,"N","Dundy County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"926120",78,0,2013,3,"N","Dundy County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"92614",77,0,2013,1,"N","Dundy County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"92614",77,0,2013,2,"N","Dundy County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"92614",77,0,2013,3,"N","Dundy County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"926140",78,0,2013,1,"N","Dundy County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"926140",78,0,2013,2,"N","Dundy County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",2,"926140",78,0,2013,3,"N","Dundy County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"10",71,0,2013,1,"","Dundy County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,211,214,211,1982101,9438,127,719
+"31057",3,"10",71,0,2013,2,"","Dundy County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,220,224,227,1875702,3440,46,645
+"31057",3,"10",71,0,2013,3,"","Dundy County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,185,189,215,1895856,3184,43,743
+"31057",3,"102",72,0,2013,1,"","Dundy County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,211,214,211,1982101,9438,127,719
+"31057",3,"102",72,0,2013,2,"","Dundy County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,220,224,227,1875702,3440,46,645
+"31057",3,"102",72,0,2013,3,"","Dundy County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,185,189,215,1895856,3184,43,743
+"31057",3,"1025",73,0,2013,1,"","Dundy County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,171,172,171,1709287,0,0,767
+"31057",3,"1025",73,0,2013,2,"","Dundy County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,172,175,167,1588447,0,0,713
+"31057",3,"1025",73,0,2013,3,"","Dundy County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,133,137,167,1587093,0,0,838
+"31057",3,"1028",73,0,2013,1,"","Dundy County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,40,42,40,272814,9438,127,516
+"31057",3,"1028",73,0,2013,2,"","Dundy County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,48,49,60,287255,3440,46,422
+"31057",3,"1028",73,0,2013,3,"","Dundy County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,52,52,48,308763,3184,43,469
+"31057",3,"61",74,0,2013,1,"N","Dundy County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"61",74,0,2013,2,"N","Dundy County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"61",74,0,2013,3,"N","Dundy County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"611",75,0,2013,1,"N","Dundy County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"611",75,0,2013,2,"N","Dundy County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"611",75,0,2013,3,"N","Dundy County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"6111",76,0,2013,1,"N","Dundy County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"6111",76,0,2013,2,"N","Dundy County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"6111",76,0,2013,3,"N","Dundy County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"61111",77,0,2013,1,"N","Dundy County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"61111",77,0,2013,2,"N","Dundy County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"61111",77,0,2013,3,"N","Dundy County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"611110",78,0,2013,1,"N","Dundy County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"611110",78,0,2013,2,"N","Dundy County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"611110",78,0,2013,3,"N","Dundy County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"62",74,0,2013,1,"N","Dundy County, Nebraska","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"62",74,0,2013,2,"N","Dundy County, Nebraska","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"62",74,0,2013,3,"N","Dundy County, Nebraska","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"622",75,0,2013,1,"N","Dundy County, Nebraska","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"622",75,0,2013,2,"N","Dundy County, Nebraska","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"622",75,0,2013,3,"N","Dundy County, Nebraska","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"6221",76,0,2013,1,"N","Dundy County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"6221",76,0,2013,2,"N","Dundy County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"6221",76,0,2013,3,"N","Dundy County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"62211",77,0,2013,1,"N","Dundy County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"62211",77,0,2013,2,"N","Dundy County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"62211",77,0,2013,3,"N","Dundy County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"622110",78,0,2013,1,"N","Dundy County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"622110",78,0,2013,2,"N","Dundy County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"622110",78,0,2013,3,"N","Dundy County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"92",74,0,2013,1,"","Dundy County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,40,42,40,272814,9438,127,516
+"31057",3,"92",74,0,2013,2,"","Dundy County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,48,49,60,287255,3440,46,422
+"31057",3,"92",74,0,2013,3,"","Dundy County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,52,52,48,308763,3184,43,469
+"31057",3,"921",75,0,2013,1,"N","Dundy County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"921",75,0,2013,2,"N","Dundy County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"921",75,0,2013,3,"N","Dundy County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"9211",76,0,2013,1,"N","Dundy County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"9211",76,0,2013,2,"N","Dundy County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"9211",76,0,2013,3,"N","Dundy County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"92114",77,0,2013,1,"N","Dundy County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"92114",77,0,2013,2,"N","Dundy County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"92114",77,0,2013,3,"N","Dundy County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"921140",78,0,2013,1,"N","Dundy County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"921140",78,0,2013,2,"N","Dundy County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"921140",78,0,2013,3,"N","Dundy County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",3,"925",75,0,2013,1,"N","Dundy County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"925",75,0,2013,2,"N","Dundy County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"925",75,0,2013,3,"N","Dundy County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"9251",76,0,2013,1,"N","Dundy County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"9251",76,0,2013,2,"N","Dundy County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"9251",76,0,2013,3,"N","Dundy County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"92511",77,0,2013,1,"N","Dundy County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"92511",77,0,2013,2,"N","Dundy County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"92511",77,0,2013,3,"N","Dundy County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"925110",78,0,2013,1,"N","Dundy County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"925110",78,0,2013,2,"N","Dundy County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",3,"925110",78,0,2013,3,"N","Dundy County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"10",71,0,2013,1,"","Dundy County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",90,416,419,432,3239784,2246231,33504,590
+"31057",5,"10",71,0,2013,2,"","Dundy County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",92,460,478,455,3315700,1003254,14814,549
+"31057",5,"10",71,0,2013,3,"","Dundy County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",93,454,450,469,3334444,547903,7881,560
+"31057",5,"101",72,0,2013,1,"","Dundy County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",35,158,157,164,1133939,1048606,15977,546
+"31057",5,"101",72,0,2013,2,"","Dundy County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",34,179,182,171,1453262,432215,6807,630
+"31057",5,"101",72,0,2013,3,"","Dundy County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",34,174,172,199,1479072,237899,3515,626
+"31057",5,"1011",73,0,2013,1,"","Dundy County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",18,119,122,128,934886,856376,11912,585
+"31057",5,"1011",73,0,2013,2,"","Dundy County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",18,136,137,126,1185069,309375,4027,685
+"31057",5,"1011",73,0,2013,3,"","Dundy County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",18,129,128,159,1192007,170266,1949,661
+"31057",5,"1012",73,0,2013,1,"","Dundy County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",10,16,12,14,78097,73300,1088,429
+"31057",5,"1012",73,0,2013,2,"","Dundy County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",9,20,19,20,128066,62301,1172,501
+"31057",5,"1012",73,0,2013,3,"","Dundy County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",9,22,22,16,147436,30911,490,567
+"31057",5,"1013",73,0,2013,1,"","Dundy County, Nebraska","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",7,23,23,22,120956,118930,2977,410
+"31057",5,"1013",73,0,2013,2,"","Dundy County, Nebraska","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",7,23,26,25,140127,60539,1608,437
+"31057",5,"1013",73,0,2013,3,"","Dundy County, Nebraska","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",7,23,22,24,139629,36722,1076,467
+"31057",5,"102",72,0,2013,1,"","Dundy County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",55,258,262,268,2105845,1197625,17527,617
+"31057",5,"102",72,0,2013,2,"","Dundy County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",58,281,296,284,1862438,571039,8007,499
+"31057",5,"102",72,0,2013,3,"","Dundy County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",59,280,278,270,1855372,310004,4366,517
+"31057",5,"1021",73,0,2013,1,"","Dundy County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",21,102,104,106,1120752,506099,8458,829
+"31057",5,"1021",73,0,2013,2,"","Dundy County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",22,116,124,122,835243,256592,4791,532
+"31057",5,"1021",73,0,2013,3,"","Dundy County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",22,122,117,119,873452,149226,2607,563
+"31057",5,"1022",73,0,2013,1,"N","Dundy County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"1022",73,0,2013,2,"N","Dundy County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"1022",73,0,2013,3,"N","Dundy County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"1023",73,0,2013,1,"","Dundy County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",4,13,13,13,108932,76598,746,645
+"31057",5,"1023",73,0,2013,2,"","Dundy County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,13,13,14,114213,19565,220,659
+"31057",5,"1023",73,0,2013,3,"","Dundy County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",6,14,14,14,111491,7373,64,613
+"31057",5,"1024",73,0,2013,1,"N","Dundy County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"1024",73,0,2013,2,"N","Dundy County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"1024",73,0,2013,3,"N","Dundy County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"1025",73,0,2013,1,"","Dundy County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",14,72,72,72,322227,303828,2597,344
+"31057",5,"1025",73,0,2013,2,"","Dundy County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",15,74,74,67,361378,151723,1384,388
+"31057",5,"1025",73,0,2013,3,"","Dundy County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",15,67,70,65,324313,66175,637,371
+"31057",5,"1026",73,0,2013,1,"","Dundy County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",7,33,37,40,90216,90216,1119,189
+"31057",5,"1026",73,0,2013,2,"","Dundy County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",7,39,40,40,107614,98622,997,209
+"31057",5,"1026",73,0,2013,3,"","Dundy County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",7,37,39,32,101411,62844,610,217
+"31057",5,"1027",73,0,2013,1,"","Dundy County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,10,9,9,52272,46245,819,431
+"31057",5,"1027",73,0,2013,2,"","Dundy County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,9,9,8,56563,12477,213,502
+"31057",5,"1027",73,0,2013,3,"","Dundy County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,9,10,9,56974,14180,259,470
+"31057",5,"11",74,0,2013,1,"","Dundy County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",18,119,122,128,934886,856376,11912,585
+"31057",5,"11",74,0,2013,2,"","Dundy County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",18,136,137,126,1185069,309375,4027,685
+"31057",5,"11",74,0,2013,3,"","Dundy County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",18,129,128,159,1192007,170266,1949,661
+"31057",5,"111",75,0,2013,1,"","Dundy County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,43,45,49,351351,312463,5038,592
+"31057",5,"111",75,0,2013,2,"","Dundy County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,57,55,45,475142,155938,2442,698
+"31057",5,"111",75,0,2013,3,"","Dundy County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,45,41,80,406601,54934,850,565
+"31057",5,"1111",76,0,2013,1,"","Dundy County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,20,21,21,124964,122954,2124,465
+"31057",5,"1111",76,0,2013,2,"","Dundy County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,15,16,15,96656,33460,384,485
+"31057",5,"1111",76,0,2013,3,"","Dundy County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,15,14,13,106311,12244,136,584
+"31057",5,"11115",77,0,2013,1,"N","Dundy County, Nebraska","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"11115",77,0,2013,2,"N","Dundy County, Nebraska","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"11115",77,0,2013,3,"N","Dundy County, Nebraska","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"111150",78,0,2013,1,"N","Dundy County, Nebraska","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"111150",78,0,2013,2,"N","Dundy County, Nebraska","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"111150",78,0,2013,3,"N","Dundy County, Nebraska","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"11119",77,0,2013,1,"N","Dundy County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"11119",77,0,2013,2,"N","Dundy County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"11119",77,0,2013,3,"N","Dundy County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"111191",78,0,2013,1,"N","Dundy County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"111191",78,0,2013,2,"N","Dundy County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"111191",78,0,2013,3,"N","Dundy County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"1112",76,0,2013,1,"N","Dundy County, Nebraska","Private","Vegetable and melon farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"1112",76,0,2013,2,"N","Dundy County, Nebraska","Private","Vegetable and melon farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"1112",76,0,2013,3,"N","Dundy County, Nebraska","Private","Vegetable and melon farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"11121",77,0,2013,1,"N","Dundy County, Nebraska","Private","Vegetable and melon farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"11121",77,0,2013,2,"N","Dundy County, Nebraska","Private","Vegetable and melon farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"11121",77,0,2013,3,"N","Dundy County, Nebraska","Private","Vegetable and melon farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"111211",78,0,2013,1,"N","Dundy County, Nebraska","Private","Potato farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"111211",78,0,2013,2,"N","Dundy County, Nebraska","Private","Potato farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"111211",78,0,2013,3,"N","Dundy County, Nebraska","Private","Potato farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"1119",76,0,2013,1,"N","Dundy County, Nebraska","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"1119",76,0,2013,2,"N","Dundy County, Nebraska","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"1119",76,0,2013,3,"N","Dundy County, Nebraska","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"11194",77,0,2013,1,"N","Dundy County, Nebraska","Private","Hay farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"11194",77,0,2013,2,"N","Dundy County, Nebraska","Private","Hay farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"11194",77,0,2013,3,"N","Dundy County, Nebraska","Private","Hay farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"111940",78,0,2013,1,"N","Dundy County, Nebraska","Private","Hay farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"111940",78,0,2013,2,"N","Dundy County, Nebraska","Private","Hay farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"111940",78,0,2013,3,"N","Dundy County, Nebraska","Private","Hay farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"112",75,0,2013,1,"N","Dundy County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31057",5,"112",75,0,2013,2,"N","Dundy County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31057",5,"112",75,0,2013,3,"N","Dundy County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31057",5,"1121",76,0,2013,1,"N","Dundy County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31057",5,"1121",76,0,2013,2,"N","Dundy County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31057",5,"1121",76,0,2013,3,"N","Dundy County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31057",5,"11211",77,0,2013,1,"N","Dundy County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31057",5,"11211",77,0,2013,2,"N","Dundy County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31057",5,"11211",77,0,2013,3,"N","Dundy County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31057",5,"112111",78,0,2013,1,"","Dundy County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,26,25,25,147511,142586,783,448
+"31057",5,"112111",78,0,2013,2,"","Dundy County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,26,28,29,175777,62261,311,489
+"31057",5,"112111",78,0,2013,3,"","Dundy County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,27,28,28,196803,46497,455,547
+"31057",5,"112112",78,0,2013,1,"N","Dundy County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31057",5,"112112",78,0,2013,2,"N","Dundy County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31057",5,"112112",78,0,2013,3,"N","Dundy County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31057",5,"115",75,0,2013,1,"N","Dundy County, Nebraska","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"115",75,0,2013,2,"N","Dundy County, Nebraska","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"115",75,0,2013,3,"N","Dundy County, Nebraska","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"1151",76,0,2013,1,"N","Dundy County, Nebraska","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"1151",76,0,2013,2,"N","Dundy County, Nebraska","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"1151",76,0,2013,3,"N","Dundy County, Nebraska","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"11511",77,0,2013,1,"N","Dundy County, Nebraska","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"11511",77,0,2013,2,"N","Dundy County, Nebraska","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"11511",77,0,2013,3,"N","Dundy County, Nebraska","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"115112",78,0,2013,1,"N","Dundy County, Nebraska","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"115112",78,0,2013,2,"N","Dundy County, Nebraska","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"115112",78,0,2013,3,"N","Dundy County, Nebraska","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"22",74,0,2013,1,"N","Dundy County, Nebraska","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"22",74,0,2013,2,"N","Dundy County, Nebraska","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"22",74,0,2013,3,"N","Dundy County, Nebraska","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"221",75,0,2013,1,"N","Dundy County, Nebraska","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"221",75,0,2013,2,"N","Dundy County, Nebraska","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"221",75,0,2013,3,"N","Dundy County, Nebraska","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"2212",76,0,2013,1,"N","Dundy County, Nebraska","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"2212",76,0,2013,2,"N","Dundy County, Nebraska","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"2212",76,0,2013,3,"N","Dundy County, Nebraska","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"22121",77,0,2013,1,"N","Dundy County, Nebraska","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"22121",77,0,2013,2,"N","Dundy County, Nebraska","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"22121",77,0,2013,3,"N","Dundy County, Nebraska","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"221210",78,0,2013,1,"N","Dundy County, Nebraska","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"221210",78,0,2013,2,"N","Dundy County, Nebraska","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"221210",78,0,2013,3,"N","Dundy County, Nebraska","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"23",74,0,2013,1,"","Dundy County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",10,16,12,14,78097,73300,1088,429
+"31057",5,"23",74,0,2013,2,"","Dundy County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",9,20,19,20,128066,62301,1172,501
+"31057",5,"23",74,0,2013,3,"","Dundy County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",9,22,22,16,147436,30911,490,567
+"31057",5,"236",75,0,2013,1,"N","Dundy County, Nebraska","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31057",5,"236",75,0,2013,2,"N","Dundy County, Nebraska","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"236",75,0,2013,3,"N","Dundy County, Nebraska","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"2361",76,0,2013,1,"N","Dundy County, Nebraska","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31057",5,"2361",76,0,2013,2,"N","Dundy County, Nebraska","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"2361",76,0,2013,3,"N","Dundy County, Nebraska","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"23611",77,0,2013,1,"N","Dundy County, Nebraska","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31057",5,"23611",77,0,2013,2,"N","Dundy County, Nebraska","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"23611",77,0,2013,3,"N","Dundy County, Nebraska","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"236118",78,0,2013,1,"N","Dundy County, Nebraska","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31057",5,"236118",78,0,2013,2,"N","Dundy County, Nebraska","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"236118",78,0,2013,3,"N","Dundy County, Nebraska","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"237",75,0,2013,1,"N","Dundy County, Nebraska","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"237",75,0,2013,2,"N","Dundy County, Nebraska","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"237",75,0,2013,3,"N","Dundy County, Nebraska","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"2371",76,0,2013,1,"N","Dundy County, Nebraska","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"2371",76,0,2013,2,"N","Dundy County, Nebraska","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"2371",76,0,2013,3,"N","Dundy County, Nebraska","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"23711",77,0,2013,1,"N","Dundy County, Nebraska","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"23711",77,0,2013,2,"N","Dundy County, Nebraska","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"23711",77,0,2013,3,"N","Dundy County, Nebraska","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"237110",78,0,2013,1,"N","Dundy County, Nebraska","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"237110",78,0,2013,2,"N","Dundy County, Nebraska","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"237110",78,0,2013,3,"N","Dundy County, Nebraska","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"238",75,0,2013,1,"N","Dundy County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31057",5,"238",75,0,2013,2,"","Dundy County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,12,12,12,77359,35824,484,496
+"31057",5,"238",75,0,2013,3,"","Dundy County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,13,14,11,97143,22000,338,590
+"31057",5,"2381",76,0,2013,1,"N","Dundy County, Nebraska","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"2381",76,0,2013,2,"N","Dundy County, Nebraska","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"2381",76,0,2013,3,"N","Dundy County, Nebraska","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"23811",77,0,2013,1,"N","Dundy County, Nebraska","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"23811",77,0,2013,2,"N","Dundy County, Nebraska","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"23811",77,0,2013,3,"N","Dundy County, Nebraska","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"238111",78,0,2013,1,"N","Dundy County, Nebraska","Private","Residential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"238111",78,0,2013,2,"N","Dundy County, Nebraska","Private","Residential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"238111",78,0,2013,3,"N","Dundy County, Nebraska","Private","Residential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"2382",76,0,2013,1,"N","Dundy County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"2382",76,0,2013,2,"N","Dundy County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"2382",76,0,2013,3,"N","Dundy County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"23821",77,0,2013,1,"N","Dundy County, Nebraska","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"23821",77,0,2013,2,"N","Dundy County, Nebraska","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"23821",77,0,2013,3,"N","Dundy County, Nebraska","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"238212",78,0,2013,1,"N","Dundy County, Nebraska","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"238212",78,0,2013,2,"N","Dundy County, Nebraska","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"238212",78,0,2013,3,"N","Dundy County, Nebraska","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"2383",76,0,2013,1,"N","Dundy County, Nebraska","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"2383",76,0,2013,2,"N","Dundy County, Nebraska","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"2383",76,0,2013,3,"N","Dundy County, Nebraska","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"23835",77,0,2013,1,"N","Dundy County, Nebraska","Private","Finish carpentry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"23835",77,0,2013,2,"N","Dundy County, Nebraska","Private","Finish carpentry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"23835",77,0,2013,3,"N","Dundy County, Nebraska","Private","Finish carpentry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"238351",78,0,2013,1,"N","Dundy County, Nebraska","Private","Residential finish carpentry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"238351",78,0,2013,2,"N","Dundy County, Nebraska","Private","Residential finish carpentry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"238351",78,0,2013,3,"N","Dundy County, Nebraska","Private","Residential finish carpentry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"31-33",74,0,2013,1,"","Dundy County, Nebraska","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,23,23,22,120956,118930,2977,410
+"31057",5,"31-33",74,0,2013,2,"","Dundy County, Nebraska","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,23,26,25,140127,60539,1608,437
+"31057",5,"31-33",74,0,2013,3,"","Dundy County, Nebraska","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,23,22,24,139629,36722,1076,467
+"31057",5,"311",75,0,2013,1,"N","Dundy County, Nebraska","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"311",75,0,2013,2,"N","Dundy County, Nebraska","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"311",75,0,2013,3,"N","Dundy County, Nebraska","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"3116",76,0,2013,1,"N","Dundy County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"3116",76,0,2013,2,"N","Dundy County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"3116",76,0,2013,3,"N","Dundy County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"31161",77,0,2013,1,"N","Dundy County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"31161",77,0,2013,2,"N","Dundy County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"31161",77,0,2013,3,"N","Dundy County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"311611",78,0,2013,1,"N","Dundy County, Nebraska","Private","Animal, except poultry, slaughtering","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"311611",78,0,2013,2,"N","Dundy County, Nebraska","Private","Animal, except poultry, slaughtering","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"311611",78,0,2013,3,"N","Dundy County, Nebraska","Private","Animal, except poultry, slaughtering","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"312",75,0,2013,1,"N","Dundy County, Nebraska","Private","Beverage and tobacco product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"312",75,0,2013,2,"N","Dundy County, Nebraska","Private","Beverage and tobacco product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"312",75,0,2013,3,"N","Dundy County, Nebraska","Private","Beverage and tobacco product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"3121",76,0,2013,1,"N","Dundy County, Nebraska","Private","Beverage manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"3121",76,0,2013,2,"N","Dundy County, Nebraska","Private","Beverage manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"3121",76,0,2013,3,"N","Dundy County, Nebraska","Private","Beverage manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"31211",77,0,2013,1,"N","Dundy County, Nebraska","Private","Soft drink and ice manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"31211",77,0,2013,2,"N","Dundy County, Nebraska","Private","Soft drink and ice manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"31211",77,0,2013,3,"N","Dundy County, Nebraska","Private","Soft drink and ice manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"312113",78,0,2013,1,"N","Dundy County, Nebraska","Private","Ice manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"312113",78,0,2013,2,"N","Dundy County, Nebraska","Private","Ice manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"312113",78,0,2013,3,"N","Dundy County, Nebraska","Private","Ice manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"336",75,0,2013,1,"N","Dundy County, Nebraska","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"336",75,0,2013,2,"N","Dundy County, Nebraska","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"336",75,0,2013,3,"N","Dundy County, Nebraska","Private","Transportation equipment manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"3362",76,0,2013,1,"N","Dundy County, Nebraska","Private","Motor vehicle body and trailer manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"3362",76,0,2013,2,"N","Dundy County, Nebraska","Private","Motor vehicle body and trailer manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"3362",76,0,2013,3,"N","Dundy County, Nebraska","Private","Motor vehicle body and trailer manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"33621",77,0,2013,1,"N","Dundy County, Nebraska","Private","Motor vehicle body and trailer manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"33621",77,0,2013,2,"N","Dundy County, Nebraska","Private","Motor vehicle body and trailer manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"33621",77,0,2013,3,"N","Dundy County, Nebraska","Private","Motor vehicle body and trailer manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"336212",78,0,2013,1,"N","Dundy County, Nebraska","Private","Truck trailer manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"336212",78,0,2013,2,"N","Dundy County, Nebraska","Private","Truck trailer manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"336212",78,0,2013,3,"N","Dundy County, Nebraska","Private","Truck trailer manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"337",75,0,2013,1,"N","Dundy County, Nebraska","Private","Furniture and related product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"337",75,0,2013,2,"N","Dundy County, Nebraska","Private","Furniture and related product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"337",75,0,2013,3,"N","Dundy County, Nebraska","Private","Furniture and related product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"3371",76,0,2013,1,"N","Dundy County, Nebraska","Private","Household and institutional furniture mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"3371",76,0,2013,2,"N","Dundy County, Nebraska","Private","Household and institutional furniture mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"3371",76,0,2013,3,"N","Dundy County, Nebraska","Private","Household and institutional furniture mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"33711",77,0,2013,1,"N","Dundy County, Nebraska","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"33711",77,0,2013,2,"N","Dundy County, Nebraska","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"33711",77,0,2013,3,"N","Dundy County, Nebraska","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"337110",78,0,2013,1,"N","Dundy County, Nebraska","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"337110",78,0,2013,2,"N","Dundy County, Nebraska","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"337110",78,0,2013,3,"N","Dundy County, Nebraska","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"339",75,0,2013,1,"","Dundy County, Nebraska","Private","Miscellaneous manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,7,30114,30114,541,331
+"31057",5,"339",75,0,2013,2,"N","Dundy County, Nebraska","Private","Miscellaneous manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"339",75,0,2013,3,"N","Dundy County, Nebraska","Private","Miscellaneous manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"3391",76,0,2013,1,"","Dundy County, Nebraska","Private","Medical equipment and supplies manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,7,7,30114,30114,541,331
+"31057",5,"3391",76,0,2013,2,"N","Dundy County, Nebraska","Private","Medical equipment and supplies manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"3391",76,0,2013,3,"N","Dundy County, Nebraska","Private","Medical equipment and supplies manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"33911",77,0,2013,1,"","Dundy County, Nebraska","Private","Medical equipment and supplies manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,7,7,30114,30114,541,331
+"31057",5,"33911",77,0,2013,2,"N","Dundy County, Nebraska","Private","Medical equipment and supplies manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"33911",77,0,2013,3,"N","Dundy County, Nebraska","Private","Medical equipment and supplies manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"339113",78,0,2013,1,"","Dundy County, Nebraska","Private","Surgical appliance and supplies manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,7,7,30114,30114,541,331
+"31057",5,"339113",78,0,2013,2,"N","Dundy County, Nebraska","Private","Surgical appliance and supplies manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"339113",78,0,2013,3,"N","Dundy County, Nebraska","Private","Surgical appliance and supplies manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"42",74,0,2013,1,"","Dundy County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",7,47,45,46,819923,244407,3929,1371
+"31057",5,"42",74,0,2013,2,"","Dundy County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",7,51,53,53,487089,98160,1634,716
+"31057",5,"42",74,0,2013,3,"","Dundy County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",7,52,51,51,522228,44990,625,783
+"31057",5,"424",75,0,2013,1,"","Dundy County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,47,45,46,819923,244407,3929,1371
+"31057",5,"424",75,0,2013,2,"","Dundy County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,51,53,53,487089,98160,1634,716
+"31057",5,"424",75,0,2013,3,"","Dundy County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,52,51,51,522228,44990,625,783
+"31057",5,"4245",76,0,2013,1,"N","Dundy County, Nebraska","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"4245",76,0,2013,2,"N","Dundy County, Nebraska","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"4245",76,0,2013,3,"N","Dundy County, Nebraska","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"42451",77,0,2013,1,"N","Dundy County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"42451",77,0,2013,2,"N","Dundy County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"42451",77,0,2013,3,"N","Dundy County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"424510",78,0,2013,1,"N","Dundy County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"424510",78,0,2013,2,"N","Dundy County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"424510",78,0,2013,3,"N","Dundy County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"4247",76,0,2013,1,"N","Dundy County, Nebraska","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4247",76,0,2013,2,"N","Dundy County, Nebraska","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4247",76,0,2013,3,"N","Dundy County, Nebraska","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"42472",77,0,2013,1,"N","Dundy County, Nebraska","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"42472",77,0,2013,2,"N","Dundy County, Nebraska","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"42472",77,0,2013,3,"N","Dundy County, Nebraska","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"424720",78,0,2013,1,"N","Dundy County, Nebraska","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"424720",78,0,2013,2,"N","Dundy County, Nebraska","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"424720",78,0,2013,3,"N","Dundy County, Nebraska","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4249",76,0,2013,1,"","Dundy County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,20,19,20,565848,140207,2705,2213
+"31057",5,"4249",76,0,2013,2,"","Dundy County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,27,27,27,275531,60134,1146,785
+"31057",5,"4249",76,0,2013,3,"","Dundy County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,27,27,27,295104,22728,421,841
+"31057",5,"42491",77,0,2013,1,"","Dundy County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,20,19,20,565848,140207,2705,2213
+"31057",5,"42491",77,0,2013,2,"","Dundy County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,27,27,27,275531,60134,1146,785
+"31057",5,"42491",77,0,2013,3,"","Dundy County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,27,27,27,295104,22728,421,841
+"31057",5,"424910",78,0,2013,1,"","Dundy County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,20,19,20,565848,140207,2705,2213
+"31057",5,"424910",78,0,2013,2,"","Dundy County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,27,27,27,275531,60134,1146,785
+"31057",5,"424910",78,0,2013,3,"","Dundy County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,27,27,27,295104,22728,421,841
+"31057",5,"44-45",74,0,2013,1,"","Dundy County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,43,48,49,230436,200203,3331,380
+"31057",5,"44-45",74,0,2013,2,"","Dundy County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,50,54,55,253731,118269,2244,368
+"31057",5,"44-45",74,0,2013,3,"","Dundy County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,55,51,53,246844,77618,1383,358
+"31057",5,"441",75,0,2013,1,"N","Dundy County, Nebraska","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"441",75,0,2013,2,"N","Dundy County, Nebraska","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"441",75,0,2013,3,"N","Dundy County, Nebraska","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"4411",76,0,2013,1,"N","Dundy County, Nebraska","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4411",76,0,2013,2,"N","Dundy County, Nebraska","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4411",76,0,2013,3,"N","Dundy County, Nebraska","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44111",77,0,2013,1,"N","Dundy County, Nebraska","Private","New car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44111",77,0,2013,2,"N","Dundy County, Nebraska","Private","New car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44111",77,0,2013,3,"N","Dundy County, Nebraska","Private","New car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"441110",78,0,2013,1,"N","Dundy County, Nebraska","Private","New car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"441110",78,0,2013,2,"N","Dundy County, Nebraska","Private","New car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"441110",78,0,2013,3,"N","Dundy County, Nebraska","Private","New car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4413",76,0,2013,1,"N","Dundy County, Nebraska","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4413",76,0,2013,2,"N","Dundy County, Nebraska","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4413",76,0,2013,3,"N","Dundy County, Nebraska","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44131",77,0,2013,1,"N","Dundy County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44131",77,0,2013,2,"N","Dundy County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44131",77,0,2013,3,"N","Dundy County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"441310",78,0,2013,1,"N","Dundy County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"441310",78,0,2013,2,"N","Dundy County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"441310",78,0,2013,3,"N","Dundy County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"444",75,0,2013,1,"N","Dundy County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"444",75,0,2013,2,"N","Dundy County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"444",75,0,2013,3,"N","Dundy County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4441",76,0,2013,1,"N","Dundy County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4441",76,0,2013,2,"N","Dundy County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4441",76,0,2013,3,"N","Dundy County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44413",77,0,2013,1,"N","Dundy County, Nebraska","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44413",77,0,2013,2,"N","Dundy County, Nebraska","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44413",77,0,2013,3,"N","Dundy County, Nebraska","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"444130",78,0,2013,1,"N","Dundy County, Nebraska","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"444130",78,0,2013,2,"N","Dundy County, Nebraska","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"444130",78,0,2013,3,"N","Dundy County, Nebraska","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"445",75,0,2013,1,"N","Dundy County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"445",75,0,2013,2,"N","Dundy County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"445",75,0,2013,3,"N","Dundy County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"4451",76,0,2013,1,"N","Dundy County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4451",76,0,2013,2,"N","Dundy County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4451",76,0,2013,3,"N","Dundy County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44511",77,0,2013,1,"N","Dundy County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44511",77,0,2013,2,"N","Dundy County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44511",77,0,2013,3,"N","Dundy County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"445110",78,0,2013,1,"N","Dundy County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"445110",78,0,2013,2,"N","Dundy County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"445110",78,0,2013,3,"N","Dundy County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4453",76,0,2013,1,"N","Dundy County, Nebraska","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4453",76,0,2013,2,"N","Dundy County, Nebraska","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4453",76,0,2013,3,"N","Dundy County, Nebraska","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44531",77,0,2013,1,"N","Dundy County, Nebraska","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44531",77,0,2013,2,"N","Dundy County, Nebraska","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44531",77,0,2013,3,"N","Dundy County, Nebraska","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"445310",78,0,2013,1,"N","Dundy County, Nebraska","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"445310",78,0,2013,2,"N","Dundy County, Nebraska","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"445310",78,0,2013,3,"N","Dundy County, Nebraska","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"446",75,0,2013,1,"N","Dundy County, Nebraska","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"446",75,0,2013,2,"N","Dundy County, Nebraska","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"446",75,0,2013,3,"N","Dundy County, Nebraska","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4461",76,0,2013,1,"N","Dundy County, Nebraska","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4461",76,0,2013,2,"N","Dundy County, Nebraska","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4461",76,0,2013,3,"N","Dundy County, Nebraska","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44611",77,0,2013,1,"N","Dundy County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44611",77,0,2013,2,"N","Dundy County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44611",77,0,2013,3,"N","Dundy County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"446110",78,0,2013,1,"N","Dundy County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"446110",78,0,2013,2,"N","Dundy County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"446110",78,0,2013,3,"N","Dundy County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"447",75,0,2013,1,"N","Dundy County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"447",75,0,2013,2,"N","Dundy County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"447",75,0,2013,3,"N","Dundy County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4471",76,0,2013,1,"N","Dundy County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4471",76,0,2013,2,"N","Dundy County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4471",76,0,2013,3,"N","Dundy County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44711",77,0,2013,1,"N","Dundy County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44711",77,0,2013,2,"N","Dundy County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"44711",77,0,2013,3,"N","Dundy County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"447110",78,0,2013,1,"N","Dundy County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"447110",78,0,2013,2,"N","Dundy County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"447110",78,0,2013,3,"N","Dundy County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"453",75,0,2013,1,"N","Dundy County, Nebraska","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"453",75,0,2013,2,"N","Dundy County, Nebraska","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"453",75,0,2013,3,"N","Dundy County, Nebraska","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4539",76,0,2013,1,"N","Dundy County, Nebraska","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4539",76,0,2013,2,"N","Dundy County, Nebraska","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4539",76,0,2013,3,"N","Dundy County, Nebraska","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"45399",77,0,2013,1,"N","Dundy County, Nebraska","Private","All other miscellaneous store retailers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"45399",77,0,2013,2,"N","Dundy County, Nebraska","Private","All other miscellaneous store retailers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"45399",77,0,2013,3,"N","Dundy County, Nebraska","Private","All other miscellaneous store retailers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"453998",78,0,2013,1,"N","Dundy County, Nebraska","Private","Store retailers not specified elsewhere","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"453998",78,0,2013,2,"N","Dundy County, Nebraska","Private","Store retailers not specified elsewhere","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"453998",78,0,2013,3,"N","Dundy County, Nebraska","Private","Store retailers not specified elsewhere","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"48-49",74,0,2013,1,"N","Dundy County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31057",5,"48-49",74,0,2013,2,"N","Dundy County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31057",5,"48-49",74,0,2013,3,"N","Dundy County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31057",5,"484",75,0,2013,1,"","Dundy County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,7,6,39177,38987,725,431
+"31057",5,"484",75,0,2013,2,"","Dundy County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,9,11,8,58120,33903,680,479
+"31057",5,"484",75,0,2013,3,"","Dundy County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,9,9,9,59872,22409,470,512
+"31057",5,"4842",76,0,2013,1,"","Dundy County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,7,6,39177,38987,725,431
+"31057",5,"4842",76,0,2013,2,"","Dundy County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,9,11,8,58120,33903,680,479
+"31057",5,"4842",76,0,2013,3,"","Dundy County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,9,9,9,59872,22409,470,512
+"31057",5,"48422",77,0,2013,1,"N","Dundy County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"48422",77,0,2013,2,"N","Dundy County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"48422",77,0,2013,3,"N","Dundy County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"484220",78,0,2013,1,"N","Dundy County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"484220",78,0,2013,2,"N","Dundy County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"484220",78,0,2013,3,"N","Dundy County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"48423",77,0,2013,1,"N","Dundy County, Nebraska","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"48423",77,0,2013,2,"N","Dundy County, Nebraska","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"48423",77,0,2013,3,"N","Dundy County, Nebraska","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"484230",78,0,2013,1,"N","Dundy County, Nebraska","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"484230",78,0,2013,2,"N","Dundy County, Nebraska","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"484230",78,0,2013,3,"N","Dundy County, Nebraska","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"491",75,0,2013,1,"N","Dundy County, Nebraska","Private","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"491",75,0,2013,2,"N","Dundy County, Nebraska","Private","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"491",75,0,2013,3,"N","Dundy County, Nebraska","Private","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4911",76,0,2013,1,"N","Dundy County, Nebraska","Private","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4911",76,0,2013,2,"N","Dundy County, Nebraska","Private","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4911",76,0,2013,3,"N","Dundy County, Nebraska","Private","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"49111",77,0,2013,1,"N","Dundy County, Nebraska","Private","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"49111",77,0,2013,2,"N","Dundy County, Nebraska","Private","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"49111",77,0,2013,3,"N","Dundy County, Nebraska","Private","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"491110",78,0,2013,1,"N","Dundy County, Nebraska","Private","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"491110",78,0,2013,2,"N","Dundy County, Nebraska","Private","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"491110",78,0,2013,3,"N","Dundy County, Nebraska","Private","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"493",75,0,2013,1,"N","Dundy County, Nebraska","Private","Warehousing and storage","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"493",75,0,2013,2,"N","Dundy County, Nebraska","Private","Warehousing and storage","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"493",75,0,2013,3,"N","Dundy County, Nebraska","Private","Warehousing and storage","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4931",76,0,2013,1,"N","Dundy County, Nebraska","Private","Warehousing and storage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4931",76,0,2013,2,"N","Dundy County, Nebraska","Private","Warehousing and storage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"4931",76,0,2013,3,"N","Dundy County, Nebraska","Private","Warehousing and storage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"49313",77,0,2013,1,"N","Dundy County, Nebraska","Private","Farm product warehousing and storage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"49313",77,0,2013,2,"N","Dundy County, Nebraska","Private","Farm product warehousing and storage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"49313",77,0,2013,3,"N","Dundy County, Nebraska","Private","Farm product warehousing and storage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"493130",78,0,2013,1,"N","Dundy County, Nebraska","Private","Farm product warehousing and storage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"493130",78,0,2013,2,"N","Dundy County, Nebraska","Private","Farm product warehousing and storage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"493130",78,0,2013,3,"N","Dundy County, Nebraska","Private","Farm product warehousing and storage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"51",74,0,2013,1,"N","Dundy County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"51",74,0,2013,2,"N","Dundy County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"51",74,0,2013,3,"N","Dundy County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"512",75,0,2013,1,"N","Dundy County, Nebraska","Private","Motion picture and sound recording industries","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"512",75,0,2013,2,"N","Dundy County, Nebraska","Private","Motion picture and sound recording industries","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"512",75,0,2013,3,"N","Dundy County, Nebraska","Private","Motion picture and sound recording industries","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"5121",76,0,2013,1,"N","Dundy County, Nebraska","Private","Motion picture and video industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"5121",76,0,2013,2,"N","Dundy County, Nebraska","Private","Motion picture and video industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"5121",76,0,2013,3,"N","Dundy County, Nebraska","Private","Motion picture and video industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"51213",77,0,2013,1,"N","Dundy County, Nebraska","Private","Motion picture and video exhibition","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"51213",77,0,2013,2,"N","Dundy County, Nebraska","Private","Motion picture and video exhibition","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"51213",77,0,2013,3,"N","Dundy County, Nebraska","Private","Motion picture and video exhibition","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"512131",78,0,2013,1,"N","Dundy County, Nebraska","Private","Motion picture theaters, except drive-ins","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"512131",78,0,2013,2,"N","Dundy County, Nebraska","Private","Motion picture theaters, except drive-ins","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"512131",78,0,2013,3,"N","Dundy County, Nebraska","Private","Motion picture theaters, except drive-ins","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"517",75,0,2013,1,"N","Dundy County, Nebraska","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"517",75,0,2013,2,"N","Dundy County, Nebraska","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"517",75,0,2013,3,"N","Dundy County, Nebraska","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"5171",76,0,2013,1,"N","Dundy County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"5171",76,0,2013,2,"N","Dundy County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"5171",76,0,2013,3,"N","Dundy County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"51711",77,0,2013,1,"N","Dundy County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"51711",77,0,2013,2,"N","Dundy County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"51711",77,0,2013,3,"N","Dundy County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"517110",78,0,2013,1,"N","Dundy County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"517110",78,0,2013,2,"N","Dundy County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"517110",78,0,2013,3,"N","Dundy County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"52",74,0,2013,1,"","Dundy County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,13,13,13,108932,76598,746,645
+"31057",5,"52",74,0,2013,2,"","Dundy County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,13,13,14,114213,19565,220,659
+"31057",5,"52",74,0,2013,3,"","Dundy County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,14,14,14,111491,7373,64,613
+"31057",5,"522",75,0,2013,1,"N","Dundy County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"522",75,0,2013,2,"N","Dundy County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"522",75,0,2013,3,"N","Dundy County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"5221",76,0,2013,1,"N","Dundy County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"5221",76,0,2013,2,"N","Dundy County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"5221",76,0,2013,3,"N","Dundy County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"52211",77,0,2013,1,"N","Dundy County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"52211",77,0,2013,2,"N","Dundy County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"52211",77,0,2013,3,"N","Dundy County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"522110",78,0,2013,1,"N","Dundy County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"522110",78,0,2013,2,"N","Dundy County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"522110",78,0,2013,3,"N","Dundy County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"52212",77,0,2013,1,"N","Dundy County, Nebraska","Private","Savings institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"52212",77,0,2013,2,"N","Dundy County, Nebraska","Private","Savings institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"52212",77,0,2013,3,"N","Dundy County, Nebraska","Private","Savings institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"522120",78,0,2013,1,"N","Dundy County, Nebraska","Private","Savings institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"522120",78,0,2013,2,"N","Dundy County, Nebraska","Private","Savings institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"522120",78,0,2013,3,"N","Dundy County, Nebraska","Private","Savings institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"524",75,0,2013,1,"N","Dundy County, Nebraska","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"524",75,0,2013,2,"N","Dundy County, Nebraska","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"524",75,0,2013,3,"N","Dundy County, Nebraska","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31057",5,"5242",76,0,2013,1,"N","Dundy County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"5242",76,0,2013,2,"N","Dundy County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"5242",76,0,2013,3,"N","Dundy County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31057",5,"52421",77,0,2013,1,"N","Dundy County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"52421",77,0,2013,2,"N","Dundy County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"52421",77,0,2013,3,"N","Dundy County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31057",5,"524210",78,0,2013,1,"N","Dundy County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"524210",78,0,2013,2,"N","Dundy County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"524210",78,0,2013,3,"N","Dundy County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31057",5,"54",74,0,2013,1,"N","Dundy County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"54",74,0,2013,2,"N","Dundy County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"54",74,0,2013,3,"N","Dundy County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"541",75,0,2013,1,"N","Dundy County, Nebraska","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"541",75,0,2013,2,"N","Dundy County, Nebraska","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"541",75,0,2013,3,"N","Dundy County, Nebraska","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"5419",76,0,2013,1,"N","Dundy County, Nebraska","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"5419",76,0,2013,2,"N","Dundy County, Nebraska","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"5419",76,0,2013,3,"N","Dundy County, Nebraska","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"54194",77,0,2013,1,"N","Dundy County, Nebraska","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"54194",77,0,2013,2,"N","Dundy County, Nebraska","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"54194",77,0,2013,3,"N","Dundy County, Nebraska","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"541940",78,0,2013,1,"N","Dundy County, Nebraska","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"541940",78,0,2013,2,"N","Dundy County, Nebraska","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"541940",78,0,2013,3,"N","Dundy County, Nebraska","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"56",74,0,2013,1,"N","Dundy County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"56",74,0,2013,2,"N","Dundy County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"56",74,0,2013,3,"N","Dundy County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"561",75,0,2013,1,"N","Dundy County, Nebraska","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"561",75,0,2013,2,"N","Dundy County, Nebraska","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"561",75,0,2013,3,"N","Dundy County, Nebraska","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"5617",76,0,2013,1,"N","Dundy County, Nebraska","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"5617",76,0,2013,2,"N","Dundy County, Nebraska","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"5617",76,0,2013,3,"N","Dundy County, Nebraska","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"56173",77,0,2013,1,"N","Dundy County, Nebraska","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"56173",77,0,2013,2,"N","Dundy County, Nebraska","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"56173",77,0,2013,3,"N","Dundy County, Nebraska","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"561730",78,0,2013,1,"N","Dundy County, Nebraska","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"561730",78,0,2013,2,"N","Dundy County, Nebraska","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"561730",78,0,2013,3,"N","Dundy County, Nebraska","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"62",74,0,2013,1,"","Dundy County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",14,72,72,72,322227,303828,2597,344
+"31057",5,"62",74,0,2013,2,"","Dundy County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",15,74,74,67,361378,151723,1384,388
+"31057",5,"62",74,0,2013,3,"","Dundy County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",15,67,70,65,324313,66175,637,371
+"31057",5,"621",75,0,2013,1,"N","Dundy County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"621",75,0,2013,2,"N","Dundy County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"621",75,0,2013,3,"N","Dundy County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31057",5,"6211",76,0,2013,1,"N","Dundy County, Nebraska","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"6211",76,0,2013,2,"N","Dundy County, Nebraska","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"6211",76,0,2013,3,"N","Dundy County, Nebraska","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"62111",77,0,2013,1,"N","Dundy County, Nebraska","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"62111",77,0,2013,2,"N","Dundy County, Nebraska","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"62111",77,0,2013,3,"N","Dundy County, Nebraska","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"621111",78,0,2013,1,"N","Dundy County, Nebraska","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"621111",78,0,2013,2,"N","Dundy County, Nebraska","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"621111",78,0,2013,3,"N","Dundy County, Nebraska","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"6212",76,0,2013,1,"N","Dundy County, Nebraska","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"6212",76,0,2013,2,"N","Dundy County, Nebraska","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"6212",76,0,2013,3,"N","Dundy County, Nebraska","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"62121",77,0,2013,1,"N","Dundy County, Nebraska","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"62121",77,0,2013,2,"N","Dundy County, Nebraska","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"62121",77,0,2013,3,"N","Dundy County, Nebraska","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"621210",78,0,2013,1,"N","Dundy County, Nebraska","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"621210",78,0,2013,2,"N","Dundy County, Nebraska","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"621210",78,0,2013,3,"N","Dundy County, Nebraska","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"6213",76,0,2013,1,"N","Dundy County, Nebraska","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"6213",76,0,2013,2,"N","Dundy County, Nebraska","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"6213",76,0,2013,3,"N","Dundy County, Nebraska","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"62131",77,0,2013,1,"N","Dundy County, Nebraska","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"62131",77,0,2013,2,"N","Dundy County, Nebraska","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"62131",77,0,2013,3,"N","Dundy County, Nebraska","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"621310",78,0,2013,1,"N","Dundy County, Nebraska","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"621310",78,0,2013,2,"N","Dundy County, Nebraska","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"621310",78,0,2013,3,"N","Dundy County, Nebraska","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"623",75,0,2013,1,"N","Dundy County, Nebraska","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"623",75,0,2013,2,"N","Dundy County, Nebraska","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"623",75,0,2013,3,"N","Dundy County, Nebraska","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"6231",76,0,2013,1,"N","Dundy County, Nebraska","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"6231",76,0,2013,2,"N","Dundy County, Nebraska","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"6231",76,0,2013,3,"N","Dundy County, Nebraska","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"62311",77,0,2013,1,"N","Dundy County, Nebraska","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"62311",77,0,2013,2,"N","Dundy County, Nebraska","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"62311",77,0,2013,3,"N","Dundy County, Nebraska","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"623110",78,0,2013,1,"N","Dundy County, Nebraska","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"623110",78,0,2013,2,"N","Dundy County, Nebraska","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"623110",78,0,2013,3,"N","Dundy County, Nebraska","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"624",75,0,2013,1,"","Dundy County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,11,10,11,16155,16155,266,117
+"31057",5,"624",75,0,2013,2,"","Dundy County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",11,11,11,10,14691,14096,234,106
+"31057",5,"624",75,0,2013,3,"","Dundy County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",11,10,11,9,15923,7576,127,122
+"31057",5,"6241",76,0,2013,1,"N","Dundy County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31057",5,"6241",76,0,2013,2,"N","Dundy County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31057",5,"6241",76,0,2013,3,"N","Dundy County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31057",5,"62412",77,0,2013,1,"N","Dundy County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31057",5,"62412",77,0,2013,2,"N","Dundy County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31057",5,"62412",77,0,2013,3,"N","Dundy County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31057",5,"624120",78,0,2013,1,"N","Dundy County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31057",5,"624120",78,0,2013,2,"N","Dundy County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31057",5,"624120",78,0,2013,3,"N","Dundy County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31057",5,"6244",76,0,2013,1,"N","Dundy County, Nebraska","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"6244",76,0,2013,2,"N","Dundy County, Nebraska","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"6244",76,0,2013,3,"N","Dundy County, Nebraska","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"62441",77,0,2013,1,"N","Dundy County, Nebraska","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"62441",77,0,2013,2,"N","Dundy County, Nebraska","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"62441",77,0,2013,3,"N","Dundy County, Nebraska","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"624410",78,0,2013,1,"N","Dundy County, Nebraska","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"624410",78,0,2013,2,"N","Dundy County, Nebraska","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"624410",78,0,2013,3,"N","Dundy County, Nebraska","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"71",74,0,2013,1,"N","Dundy County, Nebraska","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"71",74,0,2013,2,"N","Dundy County, Nebraska","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"71",74,0,2013,3,"N","Dundy County, Nebraska","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"713",75,0,2013,1,"N","Dundy County, Nebraska","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"713",75,0,2013,2,"N","Dundy County, Nebraska","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"713",75,0,2013,3,"N","Dundy County, Nebraska","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"7139",76,0,2013,1,"N","Dundy County, Nebraska","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"7139",76,0,2013,2,"N","Dundy County, Nebraska","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"7139",76,0,2013,3,"N","Dundy County, Nebraska","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"71391",77,0,2013,1,"N","Dundy County, Nebraska","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"71391",77,0,2013,2,"N","Dundy County, Nebraska","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"71391",77,0,2013,3,"N","Dundy County, Nebraska","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"713910",78,0,2013,1,"N","Dundy County, Nebraska","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"713910",78,0,2013,2,"N","Dundy County, Nebraska","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"713910",78,0,2013,3,"N","Dundy County, Nebraska","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"72",74,0,2013,1,"N","Dundy County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31057",5,"72",74,0,2013,2,"N","Dundy County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31057",5,"72",74,0,2013,3,"N","Dundy County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31057",5,"722",75,0,2013,1,"N","Dundy County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31057",5,"722",75,0,2013,2,"N","Dundy County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31057",5,"722",75,0,2013,3,"N","Dundy County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31057",5,"7225",76,0,2013,1,"N","Dundy County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31057",5,"7225",76,0,2013,2,"N","Dundy County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31057",5,"7225",76,0,2013,3,"N","Dundy County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31057",5,"72251",77,0,2013,1,"N","Dundy County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31057",5,"72251",77,0,2013,2,"N","Dundy County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31057",5,"72251",77,0,2013,3,"N","Dundy County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31057",5,"722511",78,0,2013,1,"","Dundy County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,29,31,30,67092,67092,1008,172
+"31057",5,"722511",78,0,2013,2,"N","Dundy County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31057",5,"722511",78,0,2013,3,"","Dundy County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,24,24,22,60003,40955,527,198
+"31057",5,"722513",78,0,2013,1,"N","Dundy County, Nebraska","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"722513",78,0,2013,2,"N","Dundy County, Nebraska","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"722513",78,0,2013,3,"N","Dundy County, Nebraska","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"722514",78,0,2013,1,"N","Dundy County, Nebraska","Private","Cafeterias, grill buffets, and buffets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"722514",78,0,2013,2,"N","Dundy County, Nebraska","Private","Cafeterias, grill buffets, and buffets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"722514",78,0,2013,3,"N","Dundy County, Nebraska","Private","Cafeterias, grill buffets, and buffets","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"81",74,0,2013,1,"","Dundy County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,10,9,9,52272,46245,819,431
+"31057",5,"81",74,0,2013,2,"","Dundy County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,9,9,8,56563,12477,213,502
+"31057",5,"81",74,0,2013,3,"","Dundy County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,9,10,9,56974,14180,259,470
+"31057",5,"811",75,0,2013,1,"","Dundy County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,6,6,43844,38078,677,562
+"31057",5,"811",75,0,2013,2,"","Dundy County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,6,6,46793,5959,107,600
+"31057",5,"811",75,0,2013,3,"","Dundy County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,8,7,52974,11320,227,582
+"31057",5,"8111",76,0,2013,1,"N","Dundy County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"8111",76,0,2013,2,"N","Dundy County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"8111",76,0,2013,3,"N","Dundy County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"81111",77,0,2013,1,"N","Dundy County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"81111",77,0,2013,2,"N","Dundy County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"81111",77,0,2013,3,"N","Dundy County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"811111",78,0,2013,1,"N","Dundy County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"811111",78,0,2013,2,"N","Dundy County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"811111",78,0,2013,3,"N","Dundy County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31057",5,"8114",76,0,2013,1,"N","Dundy County, Nebraska","Private","Household goods repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"8114",76,0,2013,2,"N","Dundy County, Nebraska","Private","Household goods repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"8114",76,0,2013,3,"N","Dundy County, Nebraska","Private","Household goods repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"81141",77,0,2013,1,"N","Dundy County, Nebraska","Private","Home and garden equip. and appliance repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"81141",77,0,2013,2,"N","Dundy County, Nebraska","Private","Home and garden equip. and appliance repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"81141",77,0,2013,3,"N","Dundy County, Nebraska","Private","Home and garden equip. and appliance repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"811412",78,0,2013,1,"N","Dundy County, Nebraska","Private","Appliance repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"811412",78,0,2013,2,"N","Dundy County, Nebraska","Private","Appliance repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"811412",78,0,2013,3,"N","Dundy County, Nebraska","Private","Appliance repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"812",75,0,2013,1,"N","Dundy County, Nebraska","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"812",75,0,2013,2,"N","Dundy County, Nebraska","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"812",75,0,2013,3,"N","Dundy County, Nebraska","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"8122",76,0,2013,1,"N","Dundy County, Nebraska","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"8122",76,0,2013,2,"N","Dundy County, Nebraska","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"8122",76,0,2013,3,"N","Dundy County, Nebraska","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"81222",77,0,2013,1,"N","Dundy County, Nebraska","Private","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"81222",77,0,2013,2,"N","Dundy County, Nebraska","Private","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"81222",77,0,2013,3,"N","Dundy County, Nebraska","Private","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"812220",78,0,2013,1,"N","Dundy County, Nebraska","Private","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"812220",78,0,2013,2,"N","Dundy County, Nebraska","Private","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"812220",78,0,2013,3,"N","Dundy County, Nebraska","Private","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"813",75,0,2013,1,"N","Dundy County, Nebraska","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"813",75,0,2013,2,"N","Dundy County, Nebraska","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"813",75,0,2013,3,"N","Dundy County, Nebraska","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"8133",76,0,2013,1,"N","Dundy County, Nebraska","Private","Social advocacy organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"8133",76,0,2013,2,"N","Dundy County, Nebraska","Private","Social advocacy organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"8133",76,0,2013,3,"N","Dundy County, Nebraska","Private","Social advocacy organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"81331",77,0,2013,1,"N","Dundy County, Nebraska","Private","Social advocacy organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"81331",77,0,2013,2,"N","Dundy County, Nebraska","Private","Social advocacy organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"81331",77,0,2013,3,"N","Dundy County, Nebraska","Private","Social advocacy organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"813319",78,0,2013,1,"N","Dundy County, Nebraska","Private","Other social advocacy organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"813319",78,0,2013,2,"N","Dundy County, Nebraska","Private","Other social advocacy organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31057",5,"813319",78,0,2013,3,"N","Dundy County, Nebraska","Private","Other social advocacy organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

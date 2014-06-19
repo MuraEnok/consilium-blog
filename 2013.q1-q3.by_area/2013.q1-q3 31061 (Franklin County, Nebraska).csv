@@ -1,0 +1,800 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"31061",0,"10",70,0,2013,1,"","Franklin County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",130,795,787,805,5143933,2417684,35969,497
+"31061",0,"10",70,0,2013,2,"","Franklin County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",131,789,817,796,5201296,1153264,18902,500
+"31061",0,"10",70,0,2013,3,"","Franklin County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",132,772,821,768,5240793,544646,8765,512
+"31061",1,"10",71,0,2013,1,"","Franklin County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",9,19,20,24,199284,0,0,730
+"31061",1,"10",71,0,2013,2,"","Franklin County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,18,23,21,186205,0,0,693
+"31061",1,"10",71,0,2013,3,"","Franklin County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,22,20,16,188268,0,0,749
+"31061",1,"102",72,0,2013,1,"","Franklin County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",9,19,20,24,199284,0,0,730
+"31061",1,"102",72,0,2013,2,"","Franklin County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,18,23,21,186205,0,0,693
+"31061",1,"102",72,0,2013,3,"","Franklin County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,22,20,16,188268,0,0,749
+"31061",1,"1021",73,0,2013,1,"","Franklin County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",6,12,13,15,109041,0,0,629
+"31061",1,"1021",73,0,2013,2,"","Franklin County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",7,12,16,14,88834,0,0,488
+"31061",1,"1021",73,0,2013,3,"","Franklin County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",7,15,14,11,94375,0,0,544
+"31061",1,"1028",73,0,2013,1,"","Franklin County, Nebraska","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,7,7,9,90243,0,0,905
+"31061",1,"1028",73,0,2013,2,"","Franklin County, Nebraska","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,6,7,7,97371,0,0,1124
+"31061",1,"1028",73,0,2013,3,"","Franklin County, Nebraska","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,7,6,5,93893,0,0,1204
+"31061",1,"48-49",74,0,2013,1,"","Franklin County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",6,12,13,15,109041,0,0,629
+"31061",1,"48-49",74,0,2013,2,"","Franklin County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,12,16,14,88834,0,0,488
+"31061",1,"48-49",74,0,2013,3,"","Franklin County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,15,14,11,94375,0,0,544
+"31061",1,"491",75,0,2013,1,"","Franklin County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,12,13,15,109041,0,0,629
+"31061",1,"491",75,0,2013,2,"","Franklin County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,12,16,14,88834,0,0,488
+"31061",1,"491",75,0,2013,3,"","Franklin County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,15,14,11,94375,0,0,544
+"31061",1,"4911",76,0,2013,1,"","Franklin County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,12,13,15,109041,0,0,629
+"31061",1,"4911",76,0,2013,2,"","Franklin County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,12,16,14,88834,0,0,488
+"31061",1,"4911",76,0,2013,3,"","Franklin County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,15,14,11,94375,0,0,544
+"31061",1,"49111",77,0,2013,1,"","Franklin County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,12,13,15,109041,0,0,629
+"31061",1,"49111",77,0,2013,2,"","Franklin County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,12,16,14,88834,0,0,488
+"31061",1,"49111",77,0,2013,3,"","Franklin County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,15,14,11,94375,0,0,544
+"31061",1,"491110",78,0,2013,1,"","Franklin County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,12,13,15,109041,0,0,629
+"31061",1,"491110",78,0,2013,2,"","Franklin County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,12,16,14,88834,0,0,488
+"31061",1,"491110",78,0,2013,3,"","Franklin County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,15,14,11,94375,0,0,544
+"31061",1,"92",74,0,2013,1,"","Franklin County, Nebraska","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,7,9,90243,0,0,905
+"31061",1,"92",74,0,2013,2,"","Franklin County, Nebraska","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,7,7,97371,0,0,1124
+"31061",1,"92",74,0,2013,3,"","Franklin County, Nebraska","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,6,5,93893,0,0,1204
+"31061",1,"924",75,0,2013,1,"","Franklin County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,7,7,9,90243,0,0,905
+"31061",1,"924",75,0,2013,2,"","Franklin County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,6,6,6,93771,0,0,1202
+"31061",1,"924",75,0,2013,3,"","Franklin County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,6,5,5,87128,0,0,1257
+"31061",1,"9241",76,0,2013,1,"","Franklin County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,7,7,9,90243,0,0,905
+"31061",1,"9241",76,0,2013,2,"","Franklin County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,6,6,6,93771,0,0,1202
+"31061",1,"9241",76,0,2013,3,"","Franklin County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,6,5,5,87128,0,0,1257
+"31061",1,"92412",77,0,2013,1,"","Franklin County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,7,7,9,90243,0,0,905
+"31061",1,"92412",77,0,2013,2,"","Franklin County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,6,6,6,93771,0,0,1202
+"31061",1,"92412",77,0,2013,3,"","Franklin County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,6,5,5,87128,0,0,1257
+"31061",1,"924120",78,0,2013,1,"","Franklin County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,7,7,9,90243,0,0,905
+"31061",1,"924120",78,0,2013,2,"","Franklin County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,6,6,6,93771,0,0,1202
+"31061",1,"924120",78,0,2013,3,"","Franklin County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,6,5,5,87128,0,0,1257
+"31061",1,"926",75,0,2013,1,"","Franklin County, Nebraska","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",1,"926",75,0,2013,2,"","Franklin County, Nebraska","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,1,1,3600,0,0,415
+"31061",1,"926",75,0,2013,3,"","Franklin County, Nebraska","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,0,6765,0,0,781
+"31061",1,"9261",76,0,2013,1,"","Franklin County, Nebraska","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",1,"9261",76,0,2013,2,"","Franklin County, Nebraska","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,1,1,3600,0,0,415
+"31061",1,"9261",76,0,2013,3,"","Franklin County, Nebraska","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,0,6765,0,0,781
+"31061",1,"92614",77,0,2013,1,"","Franklin County, Nebraska","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",1,"92614",77,0,2013,2,"","Franklin County, Nebraska","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,1,1,3600,0,0,415
+"31061",1,"92614",77,0,2013,3,"","Franklin County, Nebraska","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,0,6765,0,0,781
+"31061",1,"926140",78,0,2013,1,"","Franklin County, Nebraska","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",1,"926140",78,0,2013,2,"","Franklin County, Nebraska","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,1,1,3600,0,0,415
+"31061",1,"926140",78,0,2013,3,"","Franklin County, Nebraska","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,0,6765,0,0,781
+"31061",2,"10",71,0,2013,1,"","Franklin County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,4,3,5,36494,0,0,702
+"31061",2,"10",71,0,2013,2,"","Franklin County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,5,5,5,40691,0,0,626
+"31061",2,"10",71,0,2013,3,"","Franklin County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,5,5,6,39462,0,0,569
+"31061",2,"102",72,0,2013,1,"","Franklin County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,4,3,5,36494,0,0,702
+"31061",2,"102",72,0,2013,2,"","Franklin County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,5,5,5,40691,0,0,626
+"31061",2,"102",72,0,2013,3,"","Franklin County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,5,5,6,39462,0,0,569
+"31061",2,"1025",73,0,2013,1,"N","Franklin County, Nebraska","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"1025",73,0,2013,2,"N","Franklin County, Nebraska","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"1025",73,0,2013,3,"N","Franklin County, Nebraska","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"1028",73,0,2013,1,"N","Franklin County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",2,"1028",73,0,2013,2,"N","Franklin County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",2,"1028",73,0,2013,3,"N","Franklin County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",2,"61",74,0,2013,1,"N","Franklin County, Nebraska","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"61",74,0,2013,2,"N","Franklin County, Nebraska","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"61",74,0,2013,3,"N","Franklin County, Nebraska","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"611",75,0,2013,1,"N","Franklin County, Nebraska","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"611",75,0,2013,2,"N","Franklin County, Nebraska","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"611",75,0,2013,3,"N","Franklin County, Nebraska","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"6113",76,0,2013,1,"N","Franklin County, Nebraska","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"6113",76,0,2013,2,"N","Franklin County, Nebraska","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"6113",76,0,2013,3,"N","Franklin County, Nebraska","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"61131",77,0,2013,1,"N","Franklin County, Nebraska","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"61131",77,0,2013,2,"N","Franklin County, Nebraska","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"61131",77,0,2013,3,"N","Franklin County, Nebraska","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"611310",78,0,2013,1,"N","Franklin County, Nebraska","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"611310",78,0,2013,2,"N","Franklin County, Nebraska","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"611310",78,0,2013,3,"N","Franklin County, Nebraska","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"92",74,0,2013,1,"N","Franklin County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",2,"92",74,0,2013,2,"N","Franklin County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",2,"92",74,0,2013,3,"N","Franklin County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",2,"922",75,0,2013,1,"N","Franklin County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"922",75,0,2013,2,"N","Franklin County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"922",75,0,2013,3,"N","Franklin County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"9221",76,0,2013,1,"N","Franklin County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"9221",76,0,2013,2,"N","Franklin County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"9221",76,0,2013,3,"N","Franklin County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"92211",77,0,2013,1,"N","Franklin County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"92211",77,0,2013,2,"N","Franklin County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"92211",77,0,2013,3,"N","Franklin County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"922110",78,0,2013,1,"N","Franklin County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"922110",78,0,2013,2,"N","Franklin County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"922110",78,0,2013,3,"N","Franklin County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"926",75,0,2013,1,"N","Franklin County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"926",75,0,2013,2,"N","Franklin County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"926",75,0,2013,3,"N","Franklin County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"9261",76,0,2013,1,"N","Franklin County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"9261",76,0,2013,2,"N","Franklin County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"9261",76,0,2013,3,"N","Franklin County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"92612",77,0,2013,1,"N","Franklin County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"92612",77,0,2013,2,"N","Franklin County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"92612",77,0,2013,3,"N","Franklin County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"926120",78,0,2013,1,"N","Franklin County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"926120",78,0,2013,2,"N","Franklin County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",2,"926120",78,0,2013,3,"N","Franklin County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"10",71,0,2013,1,"","Franklin County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",17,305,304,305,2254113,160964,3218,569
+"31061",3,"10",71,0,2013,2,"","Franklin County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",17,296,294,294,2160509,57226,1130,564
+"31061",3,"10",71,0,2013,3,"","Franklin County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",17,272,333,299,2205239,58870,1087,563
+"31061",3,"102",72,0,2013,1,"","Franklin County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",17,305,304,305,2254113,160964,3218,569
+"31061",3,"102",72,0,2013,2,"","Franklin County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",17,296,294,294,2160509,57226,1130,564
+"31061",3,"102",72,0,2013,3,"","Franklin County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",17,272,333,299,2205239,58870,1087,563
+"31061",3,"1021",73,0,2013,1,"N","Franklin County, Nebraska","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"1021",73,0,2013,2,"N","Franklin County, Nebraska","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"1021",73,0,2013,3,"N","Franklin County, Nebraska","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"1025",73,0,2013,1,"","Franklin County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,225,223,223,1704881,0,0,586
+"31061",3,"1025",73,0,2013,2,"","Franklin County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,216,212,196,1597380,0,0,591
+"31061",3,"1025",73,0,2013,3,"","Franklin County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,169,230,215,1639019,0,0,616
+"31061",3,"1028",73,0,2013,1,"N","Franklin County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31061",3,"1028",73,0,2013,2,"N","Franklin County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31061",3,"1028",73,0,2013,3,"N","Franklin County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31061",3,"22",74,0,2013,1,"N","Franklin County, Nebraska","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"22",74,0,2013,2,"N","Franklin County, Nebraska","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"22",74,0,2013,3,"N","Franklin County, Nebraska","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"221",75,0,2013,1,"N","Franklin County, Nebraska","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"221",75,0,2013,2,"N","Franklin County, Nebraska","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"221",75,0,2013,3,"N","Franklin County, Nebraska","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"2211",76,0,2013,1,"N","Franklin County, Nebraska","Local Government","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"2211",76,0,2013,2,"N","Franklin County, Nebraska","Local Government","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"2211",76,0,2013,3,"N","Franklin County, Nebraska","Local Government","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"22112",77,0,2013,1,"N","Franklin County, Nebraska","Local Government","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"22112",77,0,2013,2,"N","Franklin County, Nebraska","Local Government","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"22112",77,0,2013,3,"N","Franklin County, Nebraska","Local Government","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"221122",78,0,2013,1,"N","Franklin County, Nebraska","Local Government","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"221122",78,0,2013,2,"N","Franklin County, Nebraska","Local Government","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"221122",78,0,2013,3,"N","Franklin County, Nebraska","Local Government","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"61",74,0,2013,1,"N","Franklin County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",3,"61",74,0,2013,2,"N","Franklin County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",3,"61",74,0,2013,3,"N","Franklin County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",3,"611",75,0,2013,1,"N","Franklin County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",3,"611",75,0,2013,2,"N","Franklin County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",3,"611",75,0,2013,3,"N","Franklin County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",3,"6111",76,0,2013,1,"N","Franklin County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",3,"6111",76,0,2013,2,"N","Franklin County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",3,"6111",76,0,2013,3,"N","Franklin County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",3,"61111",77,0,2013,1,"N","Franklin County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",3,"61111",77,0,2013,2,"N","Franklin County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",3,"61111",77,0,2013,3,"N","Franklin County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",3,"611110",78,0,2013,1,"N","Franklin County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",3,"611110",78,0,2013,2,"N","Franklin County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",3,"611110",78,0,2013,3,"N","Franklin County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",3,"62",74,0,2013,1,"N","Franklin County, Nebraska","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",3,"62",74,0,2013,2,"N","Franklin County, Nebraska","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",3,"62",74,0,2013,3,"N","Franklin County, Nebraska","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",3,"621",75,0,2013,1,"","Franklin County, Nebraska","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,12,12,12,157926,0,0,1012
+"31061",3,"621",75,0,2013,2,"","Franklin County, Nebraska","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,12,12,12,131085,0,0,840
+"31061",3,"621",75,0,2013,3,"","Franklin County, Nebraska","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,14,14,14,162074,0,0,891
+"31061",3,"6211",76,0,2013,1,"","Franklin County, Nebraska","Local Government","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,12,12,12,157926,0,0,1012
+"31061",3,"6211",76,0,2013,2,"","Franklin County, Nebraska","Local Government","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,12,12,12,131085,0,0,840
+"31061",3,"6211",76,0,2013,3,"","Franklin County, Nebraska","Local Government","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,14,14,14,162074,0,0,891
+"31061",3,"62111",77,0,2013,1,"","Franklin County, Nebraska","Local Government","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,12,12,12,157926,0,0,1012
+"31061",3,"62111",77,0,2013,2,"","Franklin County, Nebraska","Local Government","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,12,12,12,131085,0,0,840
+"31061",3,"62111",77,0,2013,3,"","Franklin County, Nebraska","Local Government","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,14,14,14,162074,0,0,891
+"31061",3,"621111",78,0,2013,1,"","Franklin County, Nebraska","Local Government","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,12,12,12,157926,0,0,1012
+"31061",3,"621111",78,0,2013,2,"","Franklin County, Nebraska","Local Government","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,12,12,12,131085,0,0,840
+"31061",3,"621111",78,0,2013,3,"","Franklin County, Nebraska","Local Government","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,14,14,14,162074,0,0,891
+"31061",3,"622",75,0,2013,1,"N","Franklin County, Nebraska","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"622",75,0,2013,2,"N","Franklin County, Nebraska","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"622",75,0,2013,3,"N","Franklin County, Nebraska","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"6221",76,0,2013,1,"N","Franklin County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"6221",76,0,2013,2,"N","Franklin County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"6221",76,0,2013,3,"N","Franklin County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"62211",77,0,2013,1,"N","Franklin County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"62211",77,0,2013,2,"N","Franklin County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"62211",77,0,2013,3,"N","Franklin County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"622110",78,0,2013,1,"N","Franklin County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"622110",78,0,2013,2,"N","Franklin County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"622110",78,0,2013,3,"N","Franklin County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"92",74,0,2013,1,"N","Franklin County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31061",3,"92",74,0,2013,2,"N","Franklin County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31061",3,"92",74,0,2013,3,"N","Franklin County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31061",3,"921",75,0,2013,1,"","Franklin County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,69,70,71,423387,157442,3180,465
+"31061",3,"921",75,0,2013,2,"","Franklin County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,71,72,88,423691,53704,1092,423
+"31061",3,"921",75,0,2013,3,"","Franklin County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,93,93,75,451919,56913,1066,400
+"31061",3,"9211",76,0,2013,1,"","Franklin County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,69,70,71,423387,157442,3180,465
+"31061",3,"9211",76,0,2013,2,"","Franklin County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,71,72,88,423691,53704,1092,423
+"31061",3,"9211",76,0,2013,3,"","Franklin County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",8,93,93,75,451919,56913,1066,400
+"31061",3,"92111",77,0,2013,1,"N","Franklin County, Nebraska","Local Government","Executive offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"92111",77,0,2013,2,"N","Franklin County, Nebraska","Local Government","Executive offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"92111",77,0,2013,3,"N","Franklin County, Nebraska","Local Government","Executive offices","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"921110",78,0,2013,1,"N","Franklin County, Nebraska","Local Government","Executive offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"921110",78,0,2013,2,"N","Franklin County, Nebraska","Local Government","Executive offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"921110",78,0,2013,3,"N","Franklin County, Nebraska","Local Government","Executive offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"92114",77,0,2013,1,"N","Franklin County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31061",3,"92114",77,0,2013,2,"N","Franklin County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31061",3,"92114",77,0,2013,3,"N","Franklin County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31061",3,"921140",78,0,2013,1,"N","Franklin County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31061",3,"921140",78,0,2013,2,"N","Franklin County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31061",3,"921140",78,0,2013,3,"N","Franklin County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31061",3,"925",75,0,2013,1,"N","Franklin County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"925",75,0,2013,2,"N","Franklin County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"925",75,0,2013,3,"N","Franklin County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"9251",76,0,2013,1,"N","Franklin County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"9251",76,0,2013,2,"N","Franklin County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"9251",76,0,2013,3,"N","Franklin County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"92511",77,0,2013,1,"N","Franklin County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"92511",77,0,2013,2,"N","Franklin County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"92511",77,0,2013,3,"N","Franklin County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"925110",78,0,2013,1,"N","Franklin County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"925110",78,0,2013,2,"N","Franklin County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"925110",78,0,2013,3,"N","Franklin County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"926",75,0,2013,1,"N","Franklin County, Nebraska","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"926",75,0,2013,2,"N","Franklin County, Nebraska","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"926",75,0,2013,3,"N","Franklin County, Nebraska","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"9261",76,0,2013,1,"N","Franklin County, Nebraska","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"9261",76,0,2013,2,"N","Franklin County, Nebraska","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"9261",76,0,2013,3,"N","Franklin County, Nebraska","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"92614",77,0,2013,1,"N","Franklin County, Nebraska","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"92614",77,0,2013,2,"N","Franklin County, Nebraska","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"92614",77,0,2013,3,"N","Franklin County, Nebraska","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"926140",78,0,2013,1,"N","Franklin County, Nebraska","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"926140",78,0,2013,2,"N","Franklin County, Nebraska","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",3,"926140",78,0,2013,3,"N","Franklin County, Nebraska","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"10",71,0,2013,1,"","Franklin County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",101,467,460,471,2654042,2256720,32751,438
+"31061",5,"10",71,0,2013,2,"","Franklin County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",101,470,495,476,2813891,1096038,17772,451
+"31061",5,"10",71,0,2013,3,"","Franklin County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",102,473,463,447,2807824,485776,7678,469
+"31061",5,"101",72,0,2013,1,"","Franklin County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",19,75,75,84,653802,503043,9367,645
+"31061",5,"101",72,0,2013,2,"","Franklin County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",19,84,88,82,673456,231534,5925,612
+"31061",5,"101",72,0,2013,3,"","Franklin County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",19,86,80,74,596196,60402,1578,573
+"31061",5,"1011",73,0,2013,1,"","Franklin County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",16,68,68,73,574223,446129,6939,634
+"31061",5,"1011",73,0,2013,2,"","Franklin County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",16,70,73,66,548296,163923,2833,605
+"31061",5,"1011",73,0,2013,3,"","Franklin County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",16,72,67,65,465063,45022,841,526
+"31061",5,"1012",73,0,2013,1,"","Franklin County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,7,7,11,79579,56914,2428,735
+"31061",5,"1012",73,0,2013,2,"","Franklin County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,14,15,16,125160,67611,3092,642
+"31061",5,"1012",73,0,2013,3,"","Franklin County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",3,14,13,9,131133,15380,737,841
+"31061",5,"102",72,0,2013,1,"","Franklin County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",82,392,385,387,2000240,1753677,23384,397
+"31061",5,"102",72,0,2013,2,"","Franklin County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",82,386,407,394,2140435,864504,11847,416
+"31061",5,"102",72,0,2013,3,"","Franklin County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",83,387,383,373,2211628,425374,6100,447
+"31061",5,"1021",73,0,2013,1,"","Franklin County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",23,156,155,155,867307,757441,9353,430
+"31061",5,"1021",73,0,2013,2,"","Franklin County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",23,159,165,163,956624,357667,4315,453
+"31061",5,"1021",73,0,2013,3,"","Franklin County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",23,161,152,156,985722,186772,2256,485
+"31061",5,"1022",73,0,2013,1,"N","Franklin County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"1022",73,0,2013,2,"N","Franklin County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"1022",73,0,2013,3,"N","Franklin County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"1023",73,0,2013,1,"","Franklin County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",9,47,46,46,317673,260359,2763,527
+"31061",5,"1023",73,0,2013,2,"","Franklin County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",9,45,47,47,331191,85934,914,550
+"31061",5,"1023",73,0,2013,3,"","Franklin County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",9,48,47,44,345592,22608,274,574
+"31061",5,"1024",73,0,2013,1,"","Franklin County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",10,32,30,35,167603,149319,2882,399
+"31061",5,"1024",73,0,2013,2,"","Franklin County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",10,33,42,33,235547,103002,2116,503
+"31061",5,"1024",73,0,2013,3,"","Franklin County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",10,32,33,32,224391,49540,1138,534
+"31061",5,"1025",73,0,2013,1,"","Franklin County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",21,82,81,79,408797,350806,5137,390
+"31061",5,"1025",73,0,2013,2,"","Franklin County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",21,73,76,71,335346,143199,2136,352
+"31061",5,"1025",73,0,2013,3,"","Franklin County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",22,74,74,71,393142,85771,1150,414
+"31061",5,"1026",73,0,2013,1,"","Franklin County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",8,34,33,31,74212,73912,1153,175
+"31061",5,"1026",73,0,2013,2,"","Franklin County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",8,34,34,35,81392,66385,1058,182
+"31061",5,"1026",73,0,2013,3,"","Franklin County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",8,32,35,28,86064,53165,942,209
+"31061",5,"1027",73,0,2013,1,"N","Franklin County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31061",5,"1027",73,0,2013,2,"N","Franklin County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31061",5,"1027",73,0,2013,3,"N","Franklin County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31061",5,"11",74,0,2013,1,"","Franklin County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",16,68,68,73,574223,446129,6939,634
+"31061",5,"11",74,0,2013,2,"","Franklin County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",16,70,73,66,548296,163923,2833,605
+"31061",5,"11",74,0,2013,3,"","Franklin County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",16,72,67,65,465063,45022,841,526
+"31061",5,"111",75,0,2013,1,"","Franklin County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,39,37,39,330593,256637,4666,663
+"31061",5,"111",75,0,2013,2,"","Franklin County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,41,41,38,363354,105950,2047,699
+"31061",5,"111",75,0,2013,3,"","Franklin County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,40,38,37,278794,25886,594,559
+"31061",5,"1111",76,0,2013,1,"","Franklin County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",10,39,37,39,330593,256637,4666,663
+"31061",5,"1111",76,0,2013,2,"","Franklin County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",10,41,41,38,363354,105950,2047,699
+"31061",5,"1111",76,0,2013,3,"","Franklin County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",10,40,38,37,278794,25886,594,559
+"31061",5,"11115",77,0,2013,1,"","Franklin County, Nebraska","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,19,18,20,147715,123067,1756,598
+"31061",5,"11115",77,0,2013,2,"","Franklin County, Nebraska","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,19,20,19,129800,28833,508,516
+"31061",5,"11115",77,0,2013,3,"","Franklin County, Nebraska","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,19,19,18,124898,10695,183,515
+"31061",5,"111150",78,0,2013,1,"","Franklin County, Nebraska","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,19,18,20,147715,123067,1756,598
+"31061",5,"111150",78,0,2013,2,"","Franklin County, Nebraska","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,19,20,19,129800,28833,508,516
+"31061",5,"111150",78,0,2013,3,"","Franklin County, Nebraska","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,19,19,18,124898,10695,183,515
+"31061",5,"11119",77,0,2013,1,"","Franklin County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,20,19,19,182878,133570,2910,728
+"31061",5,"11119",77,0,2013,2,"","Franklin County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,22,21,19,233554,77117,1539,869
+"31061",5,"11119",77,0,2013,3,"","Franklin County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,21,19,19,153896,15191,411,602
+"31061",5,"111191",78,0,2013,1,"","Franklin County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,20,19,19,182878,133570,2910,728
+"31061",5,"111191",78,0,2013,2,"","Franklin County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,22,21,19,233554,77117,1539,869
+"31061",5,"111191",78,0,2013,3,"","Franklin County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,21,19,19,153896,15191,411,602
+"31061",5,"112",75,0,2013,1,"","Franklin County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,29,31,34,243630,189492,2273,598
+"31061",5,"112",75,0,2013,2,"","Franklin County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,29,32,28,184942,57973,786,480
+"31061",5,"112",75,0,2013,3,"","Franklin County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,32,29,28,186269,19136,247,483
+"31061",5,"1121",76,0,2013,1,"N","Franklin County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"1121",76,0,2013,2,"N","Franklin County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"1121",76,0,2013,3,"N","Franklin County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"11211",77,0,2013,1,"N","Franklin County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"11211",77,0,2013,2,"N","Franklin County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"11211",77,0,2013,3,"N","Franklin County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"112111",78,0,2013,1,"","Franklin County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,23,26,29,212624,158486,1540,629
+"31061",5,"112111",78,0,2013,2,"","Franklin County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,24,28,23,155667,43401,446,479
+"31061",5,"112111",78,0,2013,3,"","Franklin County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,27,24,24,159306,17524,189,490
+"31061",5,"112112",78,0,2013,1,"N","Franklin County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"112112",78,0,2013,2,"N","Franklin County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"112112",78,0,2013,3,"N","Franklin County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"1129",76,0,2013,1,"N","Franklin County, Nebraska","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"1129",76,0,2013,2,"N","Franklin County, Nebraska","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"1129",76,0,2013,3,"N","Franklin County, Nebraska","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"11299",77,0,2013,1,"N","Franklin County, Nebraska","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"11299",77,0,2013,2,"N","Franklin County, Nebraska","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"11299",77,0,2013,3,"N","Franklin County, Nebraska","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"112990",78,0,2013,1,"N","Franklin County, Nebraska","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"112990",78,0,2013,2,"N","Franklin County, Nebraska","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"112990",78,0,2013,3,"N","Franklin County, Nebraska","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"22",74,0,2013,1,"N","Franklin County, Nebraska","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"22",74,0,2013,2,"N","Franklin County, Nebraska","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"22",74,0,2013,3,"N","Franklin County, Nebraska","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"221",75,0,2013,1,"N","Franklin County, Nebraska","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"221",75,0,2013,2,"N","Franklin County, Nebraska","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"221",75,0,2013,3,"N","Franklin County, Nebraska","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"2212",76,0,2013,1,"N","Franklin County, Nebraska","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"2212",76,0,2013,2,"N","Franklin County, Nebraska","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"2212",76,0,2013,3,"N","Franklin County, Nebraska","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"22121",77,0,2013,1,"N","Franklin County, Nebraska","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"22121",77,0,2013,2,"N","Franklin County, Nebraska","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"22121",77,0,2013,3,"N","Franklin County, Nebraska","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"221210",78,0,2013,1,"N","Franklin County, Nebraska","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"221210",78,0,2013,2,"N","Franklin County, Nebraska","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"221210",78,0,2013,3,"N","Franklin County, Nebraska","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"23",74,0,2013,1,"","Franklin County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,7,11,79579,56914,2428,735
+"31061",5,"23",74,0,2013,2,"","Franklin County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,14,15,16,125160,67611,3092,642
+"31061",5,"23",74,0,2013,3,"","Franklin County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",3,14,13,9,131133,15380,737,841
+"31061",5,"236",75,0,2013,1,"N","Franklin County, Nebraska","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"236",75,0,2013,2,"N","Franklin County, Nebraska","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"236",75,0,2013,3,"N","Franklin County, Nebraska","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"2361",76,0,2013,1,"N","Franklin County, Nebraska","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"2361",76,0,2013,2,"N","Franklin County, Nebraska","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"2361",76,0,2013,3,"N","Franklin County, Nebraska","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"23611",77,0,2013,1,"N","Franklin County, Nebraska","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"23611",77,0,2013,2,"N","Franklin County, Nebraska","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"23611",77,0,2013,3,"N","Franklin County, Nebraska","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"236115",78,0,2013,1,"N","Franklin County, Nebraska","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"236115",78,0,2013,2,"N","Franklin County, Nebraska","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"236115",78,0,2013,3,"N","Franklin County, Nebraska","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"236118",78,0,2013,1,"N","Franklin County, Nebraska","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"236118",78,0,2013,2,"N","Franklin County, Nebraska","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"236118",78,0,2013,3,"N","Franklin County, Nebraska","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"238",75,0,2013,1,"N","Franklin County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"238",75,0,2013,2,"N","Franklin County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"238",75,0,2013,3,"N","Franklin County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"2389",76,0,2013,1,"N","Franklin County, Nebraska","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"2389",76,0,2013,2,"N","Franklin County, Nebraska","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"2389",76,0,2013,3,"N","Franklin County, Nebraska","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"23891",77,0,2013,1,"N","Franklin County, Nebraska","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"23891",77,0,2013,2,"N","Franklin County, Nebraska","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"23891",77,0,2013,3,"N","Franklin County, Nebraska","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"238912",78,0,2013,1,"N","Franklin County, Nebraska","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"238912",78,0,2013,2,"N","Franklin County, Nebraska","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"238912",78,0,2013,3,"N","Franklin County, Nebraska","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"42",74,0,2013,1,"","Franklin County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,57,57,57,430845,354930,5184,581
+"31061",5,"42",74,0,2013,2,"","Franklin County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,57,57,57,469766,107784,1521,634
+"31061",5,"42",74,0,2013,3,"","Franklin County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,57,55,58,491127,44001,744,667
+"31061",5,"423",75,0,2013,1,"N","Franklin County, Nebraska","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"423",75,0,2013,2,"N","Franklin County, Nebraska","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"423",75,0,2013,3,"N","Franklin County, Nebraska","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4238",76,0,2013,1,"N","Franklin County, Nebraska","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4238",76,0,2013,2,"N","Franklin County, Nebraska","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4238",76,0,2013,3,"N","Franklin County, Nebraska","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"42382",77,0,2013,1,"N","Franklin County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"42382",77,0,2013,2,"N","Franklin County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"42382",77,0,2013,3,"N","Franklin County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"423820",78,0,2013,1,"N","Franklin County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"423820",78,0,2013,2,"N","Franklin County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"423820",78,0,2013,3,"N","Franklin County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"424",75,0,2013,1,"N","Franklin County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31061",5,"424",75,0,2013,2,"N","Franklin County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31061",5,"424",75,0,2013,3,"N","Franklin County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31061",5,"4245",76,0,2013,1,"N","Franklin County, Nebraska","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"4245",76,0,2013,2,"N","Franklin County, Nebraska","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"4245",76,0,2013,3,"N","Franklin County, Nebraska","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"42451",77,0,2013,1,"N","Franklin County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"42451",77,0,2013,2,"N","Franklin County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"42451",77,0,2013,3,"N","Franklin County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"424510",78,0,2013,1,"N","Franklin County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"424510",78,0,2013,2,"N","Franklin County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"424510",78,0,2013,3,"N","Franklin County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"4247",76,0,2013,1,"N","Franklin County, Nebraska","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4247",76,0,2013,2,"N","Franklin County, Nebraska","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4247",76,0,2013,3,"N","Franklin County, Nebraska","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"42472",77,0,2013,1,"N","Franklin County, Nebraska","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"42472",77,0,2013,2,"N","Franklin County, Nebraska","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"42472",77,0,2013,3,"N","Franklin County, Nebraska","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"424720",78,0,2013,1,"N","Franklin County, Nebraska","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"424720",78,0,2013,2,"N","Franklin County, Nebraska","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"424720",78,0,2013,3,"N","Franklin County, Nebraska","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4249",76,0,2013,1,"N","Franklin County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4249",76,0,2013,2,"N","Franklin County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4249",76,0,2013,3,"N","Franklin County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"42491",77,0,2013,1,"N","Franklin County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"42491",77,0,2013,2,"N","Franklin County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"42491",77,0,2013,3,"N","Franklin County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"424910",78,0,2013,1,"N","Franklin County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"424910",78,0,2013,2,"N","Franklin County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"424910",78,0,2013,3,"N","Franklin County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"44-45",74,0,2013,1,"","Franklin County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",10,92,89,89,369736,350240,3295,316
+"31061",5,"44-45",74,0,2013,2,"","Franklin County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",10,93,101,99,396667,226822,2256,312
+"31061",5,"44-45",74,0,2013,3,"","Franklin County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",10,95,90,91,422484,138533,1398,353
+"31061",5,"441",75,0,2013,1,"N","Franklin County, Nebraska","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"441",75,0,2013,2,"N","Franklin County, Nebraska","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"441",75,0,2013,3,"N","Franklin County, Nebraska","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"4413",76,0,2013,1,"N","Franklin County, Nebraska","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"4413",76,0,2013,2,"N","Franklin County, Nebraska","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"4413",76,0,2013,3,"N","Franklin County, Nebraska","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"44131",77,0,2013,1,"N","Franklin County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"44131",77,0,2013,2,"N","Franklin County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"44131",77,0,2013,3,"N","Franklin County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"441310",78,0,2013,1,"N","Franklin County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"441310",78,0,2013,2,"N","Franklin County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"441310",78,0,2013,3,"N","Franklin County, Nebraska","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"44132",77,0,2013,1,"N","Franklin County, Nebraska","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"44132",77,0,2013,2,"N","Franklin County, Nebraska","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"44132",77,0,2013,3,"N","Franklin County, Nebraska","Private","Tire dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"441320",78,0,2013,1,"N","Franklin County, Nebraska","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"441320",78,0,2013,2,"N","Franklin County, Nebraska","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"441320",78,0,2013,3,"N","Franklin County, Nebraska","Private","Tire dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"444",75,0,2013,1,"N","Franklin County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"444",75,0,2013,2,"N","Franklin County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"444",75,0,2013,3,"N","Franklin County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4441",76,0,2013,1,"N","Franklin County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4441",76,0,2013,2,"N","Franklin County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4441",76,0,2013,3,"N","Franklin County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"44411",77,0,2013,1,"N","Franklin County, Nebraska","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"44411",77,0,2013,2,"N","Franklin County, Nebraska","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"44411",77,0,2013,3,"N","Franklin County, Nebraska","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"444110",78,0,2013,1,"N","Franklin County, Nebraska","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"444110",78,0,2013,2,"N","Franklin County, Nebraska","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"444110",78,0,2013,3,"N","Franklin County, Nebraska","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"445",75,0,2013,1,"N","Franklin County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"445",75,0,2013,2,"N","Franklin County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"445",75,0,2013,3,"N","Franklin County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"4451",76,0,2013,1,"N","Franklin County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"4451",76,0,2013,2,"N","Franklin County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"4451",76,0,2013,3,"N","Franklin County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"44511",77,0,2013,1,"N","Franklin County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"44511",77,0,2013,2,"N","Franklin County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"44511",77,0,2013,3,"N","Franklin County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"445110",78,0,2013,1,"N","Franklin County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"445110",78,0,2013,2,"N","Franklin County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"445110",78,0,2013,3,"N","Franklin County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"446",75,0,2013,1,"N","Franklin County, Nebraska","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"446",75,0,2013,2,"N","Franklin County, Nebraska","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"446",75,0,2013,3,"N","Franklin County, Nebraska","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4461",76,0,2013,1,"N","Franklin County, Nebraska","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4461",76,0,2013,2,"N","Franklin County, Nebraska","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4461",76,0,2013,3,"N","Franklin County, Nebraska","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"44611",77,0,2013,1,"N","Franklin County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"44611",77,0,2013,2,"N","Franklin County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"44611",77,0,2013,3,"N","Franklin County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"446110",78,0,2013,1,"N","Franklin County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"446110",78,0,2013,2,"N","Franklin County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"446110",78,0,2013,3,"N","Franklin County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"447",75,0,2013,1,"","Franklin County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,34,30,32,94175,89212,1210,226
+"31061",5,"447",75,0,2013,2,"","Franklin County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,31,32,34,110401,85376,1017,263
+"31061",5,"447",75,0,2013,3,"","Franklin County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,32,27,30,104576,36721,470,271
+"31061",5,"4471",76,0,2013,1,"","Franklin County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,34,30,32,94175,89212,1210,226
+"31061",5,"4471",76,0,2013,2,"","Franklin County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,31,32,34,110401,85376,1017,263
+"31061",5,"4471",76,0,2013,3,"","Franklin County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,32,27,30,104576,36721,470,271
+"31061",5,"44711",77,0,2013,1,"","Franklin County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,34,30,32,94175,89212,1210,226
+"31061",5,"44711",77,0,2013,2,"","Franklin County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,31,32,34,110401,85376,1017,263
+"31061",5,"44711",77,0,2013,3,"","Franklin County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,32,27,30,104576,36721,470,271
+"31061",5,"447110",78,0,2013,1,"","Franklin County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,34,30,32,94175,89212,1210,226
+"31061",5,"447110",78,0,2013,2,"","Franklin County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,31,32,34,110401,85376,1017,263
+"31061",5,"447110",78,0,2013,3,"","Franklin County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,32,27,30,104576,36721,470,271
+"31061",5,"453",75,0,2013,1,"N","Franklin County, Nebraska","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"453",75,0,2013,2,"N","Franklin County, Nebraska","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"453",75,0,2013,3,"N","Franklin County, Nebraska","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4539",76,0,2013,1,"N","Franklin County, Nebraska","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4539",76,0,2013,2,"N","Franklin County, Nebraska","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"4539",76,0,2013,3,"N","Franklin County, Nebraska","Private","Other miscellaneous store retailers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"45391",77,0,2013,1,"N","Franklin County, Nebraska","Private","Pet and pet supplies stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"45391",77,0,2013,2,"N","Franklin County, Nebraska","Private","Pet and pet supplies stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"45391",77,0,2013,3,"N","Franklin County, Nebraska","Private","Pet and pet supplies stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"453910",78,0,2013,1,"N","Franklin County, Nebraska","Private","Pet and pet supplies stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"453910",78,0,2013,2,"N","Franklin County, Nebraska","Private","Pet and pet supplies stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"453910",78,0,2013,3,"N","Franklin County, Nebraska","Private","Pet and pet supplies stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"48-49",74,0,2013,1,"N","Franklin County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"48-49",74,0,2013,2,"N","Franklin County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"48-49",74,0,2013,3,"N","Franklin County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"484",75,0,2013,1,"N","Franklin County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"484",75,0,2013,2,"N","Franklin County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"484",75,0,2013,3,"N","Franklin County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"4842",76,0,2013,1,"N","Franklin County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"4842",76,0,2013,2,"N","Franklin County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"4842",76,0,2013,3,"N","Franklin County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"48422",77,0,2013,1,"N","Franklin County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"48422",77,0,2013,2,"N","Franklin County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"48422",77,0,2013,3,"N","Franklin County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"484220",78,0,2013,1,"N","Franklin County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"484220",78,0,2013,2,"N","Franklin County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"484220",78,0,2013,3,"N","Franklin County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"51",74,0,2013,1,"N","Franklin County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"51",74,0,2013,2,"N","Franklin County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"51",74,0,2013,3,"N","Franklin County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"511",75,0,2013,1,"N","Franklin County, Nebraska","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"511",75,0,2013,2,"N","Franklin County, Nebraska","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"511",75,0,2013,3,"N","Franklin County, Nebraska","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5111",76,0,2013,1,"N","Franklin County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5111",76,0,2013,2,"N","Franklin County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5111",76,0,2013,3,"N","Franklin County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"51111",77,0,2013,1,"N","Franklin County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"51111",77,0,2013,2,"N","Franklin County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"51111",77,0,2013,3,"N","Franklin County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"511110",78,0,2013,1,"N","Franklin County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"511110",78,0,2013,2,"N","Franklin County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"511110",78,0,2013,3,"N","Franklin County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"52",74,0,2013,1,"N","Franklin County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31061",5,"52",74,0,2013,2,"N","Franklin County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31061",5,"52",74,0,2013,3,"N","Franklin County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31061",5,"522",75,0,2013,1,"","Franklin County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,34,33,33,232297,188909,1705,536
+"31061",5,"522",75,0,2013,2,"","Franklin County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,32,34,34,239517,66842,620,553
+"31061",5,"522",75,0,2013,3,"","Franklin County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,34,33,33,242135,10564,98,559
+"31061",5,"5221",76,0,2013,1,"","Franklin County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,34,33,33,232297,188909,1705,536
+"31061",5,"5221",76,0,2013,2,"","Franklin County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,32,34,34,239517,66842,620,553
+"31061",5,"5221",76,0,2013,3,"","Franklin County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,34,33,33,242135,10564,98,559
+"31061",5,"52211",77,0,2013,1,"","Franklin County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,34,33,33,232297,188909,1705,536
+"31061",5,"52211",77,0,2013,2,"","Franklin County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,32,34,34,239517,66842,620,553
+"31061",5,"52211",77,0,2013,3,"","Franklin County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,34,33,33,242135,10564,98,559
+"31061",5,"522110",78,0,2013,1,"","Franklin County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,34,33,33,232297,188909,1705,536
+"31061",5,"522110",78,0,2013,2,"","Franklin County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,32,34,34,239517,66842,620,553
+"31061",5,"522110",78,0,2013,3,"","Franklin County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,34,33,33,242135,10564,98,559
+"31061",5,"524",75,0,2013,1,"N","Franklin County, Nebraska","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"524",75,0,2013,2,"N","Franklin County, Nebraska","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"524",75,0,2013,3,"N","Franklin County, Nebraska","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"5241",76,0,2013,1,"N","Franklin County, Nebraska","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5241",76,0,2013,2,"N","Franklin County, Nebraska","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5241",76,0,2013,3,"N","Franklin County, Nebraska","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"52413",77,0,2013,1,"N","Franklin County, Nebraska","Private","Reinsurance carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"52413",77,0,2013,2,"N","Franklin County, Nebraska","Private","Reinsurance carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"52413",77,0,2013,3,"N","Franklin County, Nebraska","Private","Reinsurance carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"524130",78,0,2013,1,"N","Franklin County, Nebraska","Private","Reinsurance carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"524130",78,0,2013,2,"N","Franklin County, Nebraska","Private","Reinsurance carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"524130",78,0,2013,3,"N","Franklin County, Nebraska","Private","Reinsurance carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5242",76,0,2013,1,"","Franklin County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,11,11,11,82041,68115,1009,574
+"31061",5,"5242",76,0,2013,2,"","Franklin County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,11,11,11,88264,15682,244,617
+"31061",5,"5242",76,0,2013,3,"N","Franklin County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31061",5,"52421",77,0,2013,1,"","Franklin County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,11,11,11,82041,68115,1009,574
+"31061",5,"52421",77,0,2013,2,"","Franklin County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,11,11,11,88264,15682,244,617
+"31061",5,"52421",77,0,2013,3,"N","Franklin County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31061",5,"524210",78,0,2013,1,"","Franklin County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,11,11,11,82041,68115,1009,574
+"31061",5,"524210",78,0,2013,2,"","Franklin County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,11,11,11,88264,15682,244,617
+"31061",5,"524210",78,0,2013,3,"N","Franklin County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31061",5,"53",74,0,2013,1,"N","Franklin County, Nebraska","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"53",74,0,2013,2,"N","Franklin County, Nebraska","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"53",74,0,2013,3,"N","Franklin County, Nebraska","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"531",75,0,2013,1,"N","Franklin County, Nebraska","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"531",75,0,2013,2,"N","Franklin County, Nebraska","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"531",75,0,2013,3,"N","Franklin County, Nebraska","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5313",76,0,2013,1,"N","Franklin County, Nebraska","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5313",76,0,2013,2,"N","Franklin County, Nebraska","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5313",76,0,2013,3,"N","Franklin County, Nebraska","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"53132",77,0,2013,1,"N","Franklin County, Nebraska","Private","Offices of real estate appraisers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"53132",77,0,2013,2,"N","Franklin County, Nebraska","Private","Offices of real estate appraisers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"53132",77,0,2013,3,"N","Franklin County, Nebraska","Private","Offices of real estate appraisers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"531320",78,0,2013,1,"N","Franklin County, Nebraska","Private","Offices of real estate appraisers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"531320",78,0,2013,2,"N","Franklin County, Nebraska","Private","Offices of real estate appraisers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"531320",78,0,2013,3,"N","Franklin County, Nebraska","Private","Offices of real estate appraisers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"54",74,0,2013,1,"N","Franklin County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"54",74,0,2013,2,"","Franklin County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,16,24,23,174567,69539,1212,639
+"31061",5,"54",74,0,2013,3,"","Franklin County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,23,22,21,172862,28113,485,604
+"31061",5,"541",75,0,2013,1,"N","Franklin County, Nebraska","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"541",75,0,2013,2,"","Franklin County, Nebraska","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,16,24,23,174567,69539,1212,639
+"31061",5,"541",75,0,2013,3,"","Franklin County, Nebraska","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,23,22,21,172862,28113,485,604
+"31061",5,"5411",76,0,2013,1,"N","Franklin County, Nebraska","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5411",76,0,2013,2,"N","Franklin County, Nebraska","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5411",76,0,2013,3,"N","Franklin County, Nebraska","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"54111",77,0,2013,1,"N","Franklin County, Nebraska","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"54111",77,0,2013,2,"N","Franklin County, Nebraska","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"54111",77,0,2013,3,"N","Franklin County, Nebraska","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"541110",78,0,2013,1,"N","Franklin County, Nebraska","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"541110",78,0,2013,2,"N","Franklin County, Nebraska","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"541110",78,0,2013,3,"N","Franklin County, Nebraska","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5412",76,0,2013,1,"N","Franklin County, Nebraska","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5412",76,0,2013,2,"N","Franklin County, Nebraska","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5412",76,0,2013,3,"N","Franklin County, Nebraska","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"54121",77,0,2013,1,"N","Franklin County, Nebraska","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"54121",77,0,2013,2,"N","Franklin County, Nebraska","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"54121",77,0,2013,3,"N","Franklin County, Nebraska","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"541211",78,0,2013,1,"N","Franklin County, Nebraska","Private","Offices of certified public accountants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"541211",78,0,2013,2,"N","Franklin County, Nebraska","Private","Offices of certified public accountants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"541211",78,0,2013,3,"N","Franklin County, Nebraska","Private","Offices of certified public accountants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5416",76,0,2013,1,"N","Franklin County, Nebraska","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"5416",76,0,2013,2,"N","Franklin County, Nebraska","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"5416",76,0,2013,3,"N","Franklin County, Nebraska","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"54169",77,0,2013,1,"N","Franklin County, Nebraska","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"54169",77,0,2013,2,"N","Franklin County, Nebraska","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"54169",77,0,2013,3,"N","Franklin County, Nebraska","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"541690",78,0,2013,1,"N","Franklin County, Nebraska","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"541690",78,0,2013,2,"N","Franklin County, Nebraska","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"541690",78,0,2013,3,"N","Franklin County, Nebraska","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"55",74,0,2013,1,"N","Franklin County, Nebraska","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"55",74,0,2013,2,"N","Franklin County, Nebraska","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"55",74,0,2013,3,"N","Franklin County, Nebraska","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"551",75,0,2013,1,"N","Franklin County, Nebraska","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"551",75,0,2013,2,"N","Franklin County, Nebraska","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"551",75,0,2013,3,"N","Franklin County, Nebraska","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5511",76,0,2013,1,"N","Franklin County, Nebraska","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5511",76,0,2013,2,"N","Franklin County, Nebraska","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5511",76,0,2013,3,"N","Franklin County, Nebraska","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"55111",77,0,2013,1,"N","Franklin County, Nebraska","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"55111",77,0,2013,2,"N","Franklin County, Nebraska","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"55111",77,0,2013,3,"N","Franklin County, Nebraska","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"551111",78,0,2013,1,"N","Franklin County, Nebraska","Private","Offices of bank holding companies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"551111",78,0,2013,2,"N","Franklin County, Nebraska","Private","Offices of bank holding companies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"551111",78,0,2013,3,"N","Franklin County, Nebraska","Private","Offices of bank holding companies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"56",74,0,2013,1,"","Franklin County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,17,14,17,47404,41775,1039,228
+"31061",5,"56",74,0,2013,2,"N","Franklin County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"56",74,0,2013,3,"N","Franklin County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"561",75,0,2013,1,"","Franklin County, Nebraska","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,17,14,17,47404,41775,1039,228
+"31061",5,"561",75,0,2013,2,"N","Franklin County, Nebraska","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"561",75,0,2013,3,"N","Franklin County, Nebraska","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31061",5,"5613",76,0,2013,1,"N","Franklin County, Nebraska","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5613",76,0,2013,2,"N","Franklin County, Nebraska","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5613",76,0,2013,3,"N","Franklin County, Nebraska","Private","Employment services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"56132",77,0,2013,1,"N","Franklin County, Nebraska","Private","Temporary help services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"56132",77,0,2013,2,"N","Franklin County, Nebraska","Private","Temporary help services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"56132",77,0,2013,3,"N","Franklin County, Nebraska","Private","Temporary help services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"561320",78,0,2013,1,"N","Franklin County, Nebraska","Private","Temporary help services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"561320",78,0,2013,2,"N","Franklin County, Nebraska","Private","Temporary help services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"561320",78,0,2013,3,"N","Franklin County, Nebraska","Private","Temporary help services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5616",76,0,2013,1,"N","Franklin County, Nebraska","Private","Investigation and security services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5616",76,0,2013,2,"N","Franklin County, Nebraska","Private","Investigation and security services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5616",76,0,2013,3,"N","Franklin County, Nebraska","Private","Investigation and security services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"56161",77,0,2013,1,"N","Franklin County, Nebraska","Private","Security and armored car services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"56161",77,0,2013,2,"N","Franklin County, Nebraska","Private","Security and armored car services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"56161",77,0,2013,3,"N","Franklin County, Nebraska","Private","Security and armored car services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"561612",78,0,2013,1,"N","Franklin County, Nebraska","Private","Security guards and patrol services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"561612",78,0,2013,2,"N","Franklin County, Nebraska","Private","Security guards and patrol services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"561612",78,0,2013,3,"N","Franklin County, Nebraska","Private","Security guards and patrol services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"5617",76,0,2013,1,"N","Franklin County, Nebraska","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31061",5,"5617",76,0,2013,2,"N","Franklin County, Nebraska","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31061",5,"5617",76,0,2013,3,"N","Franklin County, Nebraska","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31061",5,"56172",77,0,2013,1,"N","Franklin County, Nebraska","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"56172",77,0,2013,2,"N","Franklin County, Nebraska","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"56172",77,0,2013,3,"N","Franklin County, Nebraska","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"561720",78,0,2013,1,"N","Franklin County, Nebraska","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"561720",78,0,2013,2,"N","Franklin County, Nebraska","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"561720",78,0,2013,3,"N","Franklin County, Nebraska","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"56173",77,0,2013,1,"N","Franklin County, Nebraska","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"56173",77,0,2013,2,"N","Franklin County, Nebraska","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"56173",77,0,2013,3,"N","Franklin County, Nebraska","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"561730",78,0,2013,1,"N","Franklin County, Nebraska","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"561730",78,0,2013,2,"N","Franklin County, Nebraska","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"561730",78,0,2013,3,"N","Franklin County, Nebraska","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"62",74,0,2013,1,"","Franklin County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",21,82,81,79,408797,350806,5137,390
+"31061",5,"62",74,0,2013,2,"","Franklin County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",21,73,76,71,335346,143199,2136,352
+"31061",5,"62",74,0,2013,3,"","Franklin County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",22,74,74,71,393142,85771,1150,414
+"31061",5,"621",75,0,2013,1,"N","Franklin County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"621",75,0,2013,2,"N","Franklin County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"621",75,0,2013,3,"N","Franklin County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"6212",76,0,2013,1,"N","Franklin County, Nebraska","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"6212",76,0,2013,2,"N","Franklin County, Nebraska","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"6212",76,0,2013,3,"N","Franklin County, Nebraska","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"62121",77,0,2013,1,"N","Franklin County, Nebraska","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"62121",77,0,2013,2,"N","Franklin County, Nebraska","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"62121",77,0,2013,3,"N","Franklin County, Nebraska","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"621210",78,0,2013,1,"N","Franklin County, Nebraska","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"621210",78,0,2013,2,"N","Franklin County, Nebraska","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"621210",78,0,2013,3,"N","Franklin County, Nebraska","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"623",75,0,2013,1,"N","Franklin County, Nebraska","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"623",75,0,2013,2,"N","Franklin County, Nebraska","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"623",75,0,2013,3,"N","Franklin County, Nebraska","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"6231",76,0,2013,1,"N","Franklin County, Nebraska","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"6231",76,0,2013,2,"N","Franklin County, Nebraska","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"6231",76,0,2013,3,"N","Franklin County, Nebraska","Private","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"62311",77,0,2013,1,"N","Franklin County, Nebraska","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"62311",77,0,2013,2,"N","Franklin County, Nebraska","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"62311",77,0,2013,3,"N","Franklin County, Nebraska","Private","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"623110",78,0,2013,1,"N","Franklin County, Nebraska","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"623110",78,0,2013,2,"N","Franklin County, Nebraska","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"623110",78,0,2013,3,"N","Franklin County, Nebraska","Private","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"624",75,0,2013,1,"","Franklin County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",19,32,30,29,110909,82832,2297,281
+"31061",5,"624",75,0,2013,2,"","Franklin County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",19,27,29,25,90451,36171,993,258
+"31061",5,"624",75,0,2013,3,"","Franklin County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",20,26,29,27,87128,18196,453,245
+"31061",5,"6241",76,0,2013,1,"N","Franklin County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",17,0,0,0,0,0,0,0
+"31061",5,"6241",76,0,2013,2,"N","Franklin County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",17,0,0,0,0,0,0,0
+"31061",5,"6241",76,0,2013,3,"N","Franklin County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",18,0,0,0,0,0,0,0
+"31061",5,"62412",77,0,2013,1,"N","Franklin County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",17,0,0,0,0,0,0,0
+"31061",5,"62412",77,0,2013,2,"N","Franklin County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",17,0,0,0,0,0,0,0
+"31061",5,"62412",77,0,2013,3,"N","Franklin County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",18,0,0,0,0,0,0,0
+"31061",5,"624120",78,0,2013,1,"N","Franklin County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",17,0,0,0,0,0,0,0
+"31061",5,"624120",78,0,2013,2,"N","Franklin County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",17,0,0,0,0,0,0,0
+"31061",5,"624120",78,0,2013,3,"N","Franklin County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",18,0,0,0,0,0,0,0
+"31061",5,"6244",76,0,2013,1,"N","Franklin County, Nebraska","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"6244",76,0,2013,2,"N","Franklin County, Nebraska","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"6244",76,0,2013,3,"N","Franklin County, Nebraska","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"62441",77,0,2013,1,"N","Franklin County, Nebraska","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"62441",77,0,2013,2,"N","Franklin County, Nebraska","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"62441",77,0,2013,3,"N","Franklin County, Nebraska","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"624410",78,0,2013,1,"N","Franklin County, Nebraska","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"624410",78,0,2013,2,"N","Franklin County, Nebraska","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"624410",78,0,2013,3,"N","Franklin County, Nebraska","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"72",74,0,2013,1,"","Franklin County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",8,34,33,31,74212,73912,1153,175
+"31061",5,"72",74,0,2013,2,"","Franklin County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",8,34,34,35,81392,66385,1058,182
+"31061",5,"72",74,0,2013,3,"","Franklin County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",8,32,35,28,86064,53165,942,209
+"31061",5,"721",75,0,2013,1,"N","Franklin County, Nebraska","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"721",75,0,2013,2,"N","Franklin County, Nebraska","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"721",75,0,2013,3,"N","Franklin County, Nebraska","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"7211",76,0,2013,1,"N","Franklin County, Nebraska","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"7211",76,0,2013,2,"N","Franklin County, Nebraska","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"7211",76,0,2013,3,"N","Franklin County, Nebraska","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"72111",77,0,2013,1,"N","Franklin County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"72111",77,0,2013,2,"N","Franklin County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"72111",77,0,2013,3,"N","Franklin County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"721110",78,0,2013,1,"N","Franklin County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"721110",78,0,2013,2,"N","Franklin County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"721110",78,0,2013,3,"N","Franklin County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"722",75,0,2013,1,"N","Franklin County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31061",5,"722",75,0,2013,2,"N","Franklin County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31061",5,"722",75,0,2013,3,"N","Franklin County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31061",5,"7224",76,0,2013,1,"N","Franklin County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"7224",76,0,2013,2,"","Franklin County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,13,13,13,34467,25167,431,204
+"31061",5,"7224",76,0,2013,3,"N","Franklin County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"72241",77,0,2013,1,"N","Franklin County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"72241",77,0,2013,2,"","Franklin County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,13,13,13,34467,25167,431,204
+"31061",5,"72241",77,0,2013,3,"N","Franklin County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"722410",78,0,2013,1,"N","Franklin County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"722410",78,0,2013,2,"","Franklin County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,13,13,13,34467,25167,431,204
+"31061",5,"722410",78,0,2013,3,"N","Franklin County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31061",5,"7225",76,0,2013,1,"","Franklin County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,19,19,17,41764,41764,476,175
+"31061",5,"7225",76,0,2013,2,"N","Franklin County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31061",5,"7225",76,0,2013,3,"","Franklin County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,17,20,15,42411,19808,222,188
+"31061",5,"72251",77,0,2013,1,"","Franklin County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,19,19,17,41764,41764,476,175
+"31061",5,"72251",77,0,2013,2,"N","Franklin County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31061",5,"72251",77,0,2013,3,"","Franklin County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,17,20,15,42411,19808,222,188
+"31061",5,"722511",78,0,2013,1,"N","Franklin County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"722511",78,0,2013,2,"N","Franklin County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"722511",78,0,2013,3,"N","Franklin County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"722513",78,0,2013,1,"N","Franklin County, Nebraska","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"722513",78,0,2013,2,"N","Franklin County, Nebraska","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"722513",78,0,2013,3,"N","Franklin County, Nebraska","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"81",74,0,2013,1,"N","Franklin County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31061",5,"81",74,0,2013,2,"N","Franklin County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31061",5,"81",74,0,2013,3,"N","Franklin County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31061",5,"811",75,0,2013,1,"","Franklin County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,17,18,18,92620,92240,1149,403
+"31061",5,"811",75,0,2013,2,"","Franklin County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,18,19,19,106578,48993,544,439
+"31061",5,"811",75,0,2013,3,"","Franklin County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,17,17,16,95234,9222,123,440
+"31061",5,"8111",76,0,2013,1,"","Franklin County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,8,8,7,34996,34616,437,351
+"31061",5,"8111",76,0,2013,2,"","Franklin County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,7,7,8,36962,16356,233,388
+"31061",5,"8111",76,0,2013,3,"","Franklin County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,8,8,8,40781,8330,116,392
+"31061",5,"81111",77,0,2013,1,"N","Franklin County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31061",5,"81111",77,0,2013,2,"N","Franklin County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31061",5,"81111",77,0,2013,3,"N","Franklin County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31061",5,"811111",78,0,2013,1,"N","Franklin County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31061",5,"811111",78,0,2013,2,"N","Franklin County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31061",5,"811111",78,0,2013,3,"N","Franklin County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31061",5,"81112",77,0,2013,1,"N","Franklin County, Nebraska","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"81112",77,0,2013,2,"N","Franklin County, Nebraska","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"81112",77,0,2013,3,"N","Franklin County, Nebraska","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"811121",78,0,2013,1,"N","Franklin County, Nebraska","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"811121",78,0,2013,2,"N","Franklin County, Nebraska","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"811121",78,0,2013,3,"N","Franklin County, Nebraska","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"8113",76,0,2013,1,"","Franklin County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,10,11,57624,57624,712,443
+"31061",5,"8113",76,0,2013,2,"","Franklin County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,11,12,11,69616,32637,311,473
+"31061",5,"8113",76,0,2013,3,"","Franklin County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,9,8,54453,892,7,483
+"31061",5,"81131",77,0,2013,1,"","Franklin County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,10,11,57624,57624,712,443
+"31061",5,"81131",77,0,2013,2,"","Franklin County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,11,12,11,69616,32637,311,473
+"31061",5,"81131",77,0,2013,3,"","Franklin County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,9,8,54453,892,7,483
+"31061",5,"811310",78,0,2013,1,"","Franklin County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,10,11,57624,57624,712,443
+"31061",5,"811310",78,0,2013,2,"","Franklin County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,11,12,11,69616,32637,311,473
+"31061",5,"811310",78,0,2013,3,"","Franklin County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,9,8,54453,892,7,483
+"31061",5,"812",75,0,2013,1,"N","Franklin County, Nebraska","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"812",75,0,2013,2,"N","Franklin County, Nebraska","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"812",75,0,2013,3,"N","Franklin County, Nebraska","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31061",5,"8121",76,0,2013,1,"N","Franklin County, Nebraska","Private","Personal care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"8121",76,0,2013,2,"N","Franklin County, Nebraska","Private","Personal care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"8121",76,0,2013,3,"N","Franklin County, Nebraska","Private","Personal care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"81211",77,0,2013,1,"N","Franklin County, Nebraska","Private","Hair, nail, and skin care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"81211",77,0,2013,2,"N","Franklin County, Nebraska","Private","Hair, nail, and skin care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"81211",77,0,2013,3,"N","Franklin County, Nebraska","Private","Hair, nail, and skin care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"812112",78,0,2013,1,"N","Franklin County, Nebraska","Private","Beauty salons","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"812112",78,0,2013,2,"N","Franklin County, Nebraska","Private","Beauty salons","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"812112",78,0,2013,3,"N","Franklin County, Nebraska","Private","Beauty salons","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"8122",76,0,2013,1,"N","Franklin County, Nebraska","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"8122",76,0,2013,2,"N","Franklin County, Nebraska","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"8122",76,0,2013,3,"N","Franklin County, Nebraska","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"81221",77,0,2013,1,"N","Franklin County, Nebraska","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"81221",77,0,2013,2,"N","Franklin County, Nebraska","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"81221",77,0,2013,3,"N","Franklin County, Nebraska","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"812210",78,0,2013,1,"N","Franklin County, Nebraska","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"812210",78,0,2013,2,"N","Franklin County, Nebraska","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"812210",78,0,2013,3,"N","Franklin County, Nebraska","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"813",75,0,2013,1,"N","Franklin County, Nebraska","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"813",75,0,2013,2,"N","Franklin County, Nebraska","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"813",75,0,2013,3,"N","Franklin County, Nebraska","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"8133",76,0,2013,1,"N","Franklin County, Nebraska","Private","Social advocacy organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"8133",76,0,2013,2,"N","Franklin County, Nebraska","Private","Social advocacy organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"8133",76,0,2013,3,"N","Franklin County, Nebraska","Private","Social advocacy organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"81331",77,0,2013,1,"N","Franklin County, Nebraska","Private","Social advocacy organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"81331",77,0,2013,2,"N","Franklin County, Nebraska","Private","Social advocacy organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"81331",77,0,2013,3,"N","Franklin County, Nebraska","Private","Social advocacy organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"813319",78,0,2013,1,"N","Franklin County, Nebraska","Private","Other social advocacy organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"813319",78,0,2013,2,"N","Franklin County, Nebraska","Private","Other social advocacy organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31061",5,"813319",78,0,2013,3,"N","Franklin County, Nebraska","Private","Other social advocacy organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

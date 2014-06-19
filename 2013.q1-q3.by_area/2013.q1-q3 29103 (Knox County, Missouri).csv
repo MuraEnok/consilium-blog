@@ -1,0 +1,989 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"29103",0,"10",70,0,2013,1,"","Knox County, Missouri","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",126,1070,1079,1070,6140410,3560178,52032,440
+"29103",0,"10",70,0,2013,2,"","Knox County, Missouri","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",125,1087,1114,1101,6803187,2628634,50249,475
+"29103",0,"10",70,0,2013,3,"","Knox County, Missouri","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",124,1090,1069,1113,6613345,1263645,22689,466
+"29103",1,"10",71,0,2013,1,"","Knox County, Missouri","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,35,41,33,330021,0,0,699
+"29103",1,"10",71,0,2013,2,"","Knox County, Missouri","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,34,31,29,312124,0,0,766
+"29103",1,"10",71,0,2013,3,"","Knox County, Missouri","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,29,30,40,365951,0,0,853
+"29103",1,"102",72,0,2013,1,"","Knox County, Missouri","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,35,41,33,330021,0,0,699
+"29103",1,"102",72,0,2013,2,"","Knox County, Missouri","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,34,31,29,312124,0,0,766
+"29103",1,"102",72,0,2013,3,"","Knox County, Missouri","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,29,30,40,365951,0,0,853
+"29103",1,"1021",73,0,2013,1,"","Knox County, Missouri","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",7,24,30,22,184048,0,0,559
+"29103",1,"1021",73,0,2013,2,"","Knox County, Missouri","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",7,23,20,18,140766,0,0,533
+"29103",1,"1021",73,0,2013,3,"","Knox County, Missouri","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",7,18,19,25,193782,0,0,721
+"29103",1,"1028",73,0,2013,1,"","Knox County, Missouri","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,11,11,11,145973,0,0,1021
+"29103",1,"1028",73,0,2013,2,"","Knox County, Missouri","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,11,11,11,171358,0,0,1198
+"29103",1,"1028",73,0,2013,3,"","Knox County, Missouri","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,11,11,15,172169,0,0,1074
+"29103",1,"48-49",74,0,2013,1,"","Knox County, Missouri","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,24,30,22,184048,0,0,559
+"29103",1,"48-49",74,0,2013,2,"","Knox County, Missouri","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,23,20,18,140766,0,0,533
+"29103",1,"48-49",74,0,2013,3,"","Knox County, Missouri","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,18,19,25,193782,0,0,721
+"29103",1,"491",75,0,2013,1,"","Knox County, Missouri","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,24,30,22,184048,0,0,559
+"29103",1,"491",75,0,2013,2,"","Knox County, Missouri","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,23,20,18,140766,0,0,533
+"29103",1,"491",75,0,2013,3,"","Knox County, Missouri","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,18,19,25,193782,0,0,721
+"29103",1,"4911",76,0,2013,1,"","Knox County, Missouri","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,24,30,22,184048,0,0,559
+"29103",1,"4911",76,0,2013,2,"","Knox County, Missouri","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,23,20,18,140766,0,0,533
+"29103",1,"4911",76,0,2013,3,"","Knox County, Missouri","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,18,19,25,193782,0,0,721
+"29103",1,"49111",77,0,2013,1,"","Knox County, Missouri","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,24,30,22,184048,0,0,559
+"29103",1,"49111",77,0,2013,2,"","Knox County, Missouri","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,23,20,18,140766,0,0,533
+"29103",1,"49111",77,0,2013,3,"","Knox County, Missouri","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,18,19,25,193782,0,0,721
+"29103",1,"491110",78,0,2013,1,"","Knox County, Missouri","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,24,30,22,184048,0,0,559
+"29103",1,"491110",78,0,2013,2,"","Knox County, Missouri","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,23,20,18,140766,0,0,533
+"29103",1,"491110",78,0,2013,3,"","Knox County, Missouri","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,18,19,25,193782,0,0,721
+"29103",1,"92",74,0,2013,1,"","Knox County, Missouri","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,11,11,11,145973,0,0,1021
+"29103",1,"92",74,0,2013,2,"","Knox County, Missouri","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,11,11,11,171358,0,0,1198
+"29103",1,"92",74,0,2013,3,"","Knox County, Missouri","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,11,11,15,172169,0,0,1074
+"29103",1,"924",75,0,2013,1,"","Knox County, Missouri","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,8,8,8,102888,0,0,989
+"29103",1,"924",75,0,2013,2,"","Knox County, Missouri","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,8,8,8,120912,0,0,1163
+"29103",1,"924",75,0,2013,3,"","Knox County, Missouri","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,8,8,12,121483,0,0,1001
+"29103",1,"9241",76,0,2013,1,"","Knox County, Missouri","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,8,8,8,102888,0,0,989
+"29103",1,"9241",76,0,2013,2,"","Knox County, Missouri","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,8,8,8,120912,0,0,1163
+"29103",1,"9241",76,0,2013,3,"","Knox County, Missouri","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,8,8,12,121483,0,0,1001
+"29103",1,"92412",77,0,2013,1,"","Knox County, Missouri","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,8,8,8,102888,0,0,989
+"29103",1,"92412",77,0,2013,2,"","Knox County, Missouri","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,8,8,8,120912,0,0,1163
+"29103",1,"92412",77,0,2013,3,"","Knox County, Missouri","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,8,8,12,121483,0,0,1001
+"29103",1,"924120",78,0,2013,1,"","Knox County, Missouri","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,8,8,8,102888,0,0,989
+"29103",1,"924120",78,0,2013,2,"","Knox County, Missouri","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,8,8,8,120912,0,0,1163
+"29103",1,"924120",78,0,2013,3,"","Knox County, Missouri","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,8,8,12,121483,0,0,1001
+"29103",1,"926",75,0,2013,1,"","Knox County, Missouri","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,3,3,3,43085,0,0,1105
+"29103",1,"926",75,0,2013,2,"","Knox County, Missouri","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,3,3,3,50446,0,0,1293
+"29103",1,"926",75,0,2013,3,"","Knox County, Missouri","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,3,3,3,50686,0,0,1300
+"29103",1,"9261",76,0,2013,1,"","Knox County, Missouri","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,3,3,3,43085,0,0,1105
+"29103",1,"9261",76,0,2013,2,"","Knox County, Missouri","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,3,3,3,50446,0,0,1293
+"29103",1,"9261",76,0,2013,3,"","Knox County, Missouri","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,3,3,3,50686,0,0,1300
+"29103",1,"92614",77,0,2013,1,"","Knox County, Missouri","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,3,3,3,43085,0,0,1105
+"29103",1,"92614",77,0,2013,2,"","Knox County, Missouri","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,3,3,3,50446,0,0,1293
+"29103",1,"92614",77,0,2013,3,"","Knox County, Missouri","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,3,3,3,50686,0,0,1300
+"29103",1,"926140",78,0,2013,1,"","Knox County, Missouri","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,3,3,3,43085,0,0,1105
+"29103",1,"926140",78,0,2013,2,"","Knox County, Missouri","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,3,3,3,50446,0,0,1293
+"29103",1,"926140",78,0,2013,3,"","Knox County, Missouri","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,3,3,3,50686,0,0,1300
+"29103",2,"10",71,0,2013,1,"N","Knox County, Missouri","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",2,"10",71,0,2013,2,"","Knox County, Missouri","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,17,17,17,157609,0,0,713
+"29103",2,"10",71,0,2013,3,"","Knox County, Missouri","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,17,17,17,153374,0,0,694
+"29103",2,"101",72,0,2013,1,"N","Knox County, Missouri","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"101",72,0,2013,2,"N","Knox County, Missouri","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"101",72,0,2013,3,"N","Knox County, Missouri","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"1012",73,0,2013,1,"N","Knox County, Missouri","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"1012",73,0,2013,2,"N","Knox County, Missouri","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"1012",73,0,2013,3,"N","Knox County, Missouri","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"102",72,0,2013,1,"N","Knox County, Missouri","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",2,"102",72,0,2013,2,"N","Knox County, Missouri","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",2,"102",72,0,2013,3,"N","Knox County, Missouri","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",2,"1028",73,0,2013,1,"N","Knox County, Missouri","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",2,"1028",73,0,2013,2,"N","Knox County, Missouri","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",2,"1028",73,0,2013,3,"N","Knox County, Missouri","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",2,"23",74,0,2013,1,"N","Knox County, Missouri","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"23",74,0,2013,2,"N","Knox County, Missouri","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"23",74,0,2013,3,"N","Knox County, Missouri","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"237",75,0,2013,1,"N","Knox County, Missouri","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"237",75,0,2013,2,"N","Knox County, Missouri","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"237",75,0,2013,3,"N","Knox County, Missouri","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"2373",76,0,2013,1,"N","Knox County, Missouri","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"2373",76,0,2013,2,"N","Knox County, Missouri","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"2373",76,0,2013,3,"N","Knox County, Missouri","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"23731",77,0,2013,1,"N","Knox County, Missouri","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"23731",77,0,2013,2,"N","Knox County, Missouri","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"23731",77,0,2013,3,"N","Knox County, Missouri","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"237310",78,0,2013,1,"N","Knox County, Missouri","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"237310",78,0,2013,2,"N","Knox County, Missouri","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"237310",78,0,2013,3,"N","Knox County, Missouri","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"92",74,0,2013,1,"N","Knox County, Missouri","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",2,"92",74,0,2013,2,"N","Knox County, Missouri","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",2,"92",74,0,2013,3,"N","Knox County, Missouri","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",2,"922",75,0,2013,1,"N","Knox County, Missouri","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"922",75,0,2013,2,"N","Knox County, Missouri","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"922",75,0,2013,3,"N","Knox County, Missouri","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"9221",76,0,2013,1,"N","Knox County, Missouri","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"9221",76,0,2013,2,"N","Knox County, Missouri","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"9221",76,0,2013,3,"N","Knox County, Missouri","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"92211",77,0,2013,1,"N","Knox County, Missouri","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"92211",77,0,2013,2,"N","Knox County, Missouri","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"92211",77,0,2013,3,"N","Knox County, Missouri","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"922110",78,0,2013,1,"N","Knox County, Missouri","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"922110",78,0,2013,2,"N","Knox County, Missouri","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"922110",78,0,2013,3,"N","Knox County, Missouri","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"923",75,0,2013,1,"N","Knox County, Missouri","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"923",75,0,2013,2,"N","Knox County, Missouri","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"923",75,0,2013,3,"N","Knox County, Missouri","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"9231",76,0,2013,1,"N","Knox County, Missouri","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"9231",76,0,2013,2,"N","Knox County, Missouri","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"9231",76,0,2013,3,"N","Knox County, Missouri","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"92313",77,0,2013,1,"N","Knox County, Missouri","State Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"92313",77,0,2013,2,"N","Knox County, Missouri","State Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"92313",77,0,2013,3,"N","Knox County, Missouri","State Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"923130",78,0,2013,1,"N","Knox County, Missouri","State Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"923130",78,0,2013,2,"N","Knox County, Missouri","State Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",2,"923130",78,0,2013,3,"N","Knox County, Missouri","State Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"10",71,0,2013,1,"N","Knox County, Missouri","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"29103",3,"10",71,0,2013,2,"","Knox County, Missouri","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,266,263,265,1349274,189206,4223,392
+"29103",3,"10",71,0,2013,3,"","Knox County, Missouri","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,240,229,252,1380669,99990,1869,442
+"29103",3,"102",72,0,2013,1,"N","Knox County, Missouri","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"29103",3,"102",72,0,2013,2,"","Knox County, Missouri","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",11,266,263,265,1349274,189206,4223,392
+"29103",3,"102",72,0,2013,3,"","Knox County, Missouri","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",11,240,229,252,1380669,99990,1869,442
+"29103",3,"1021",73,0,2013,1,"N","Knox County, Missouri","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"1021",73,0,2013,2,"N","Knox County, Missouri","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"1021",73,0,2013,3,"N","Knox County, Missouri","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"1025",73,0,2013,1,"","Knox County, Missouri","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,189,181,186,1036735,60235,235,430
+"29103",3,"1025",73,0,2013,2,"","Knox County, Missouri","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,193,190,191,1043066,43520,170,419
+"29103",3,"1025",73,0,2013,3,"","Knox County, Missouri","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,167,154,176,1031085,34409,134,479
+"29103",3,"1028",73,0,2013,1,"","Knox County, Missouri","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",7,68,67,67,322997,167570,5019,369
+"29103",3,"1028",73,0,2013,2,"N","Knox County, Missouri","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"29103",3,"1028",73,0,2013,3,"N","Knox County, Missouri","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"29103",3,"22",74,0,2013,1,"N","Knox County, Missouri","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"22",74,0,2013,2,"N","Knox County, Missouri","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"22",74,0,2013,3,"N","Knox County, Missouri","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"221",75,0,2013,1,"N","Knox County, Missouri","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"221",75,0,2013,2,"N","Knox County, Missouri","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"221",75,0,2013,3,"N","Knox County, Missouri","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"2213",76,0,2013,1,"N","Knox County, Missouri","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"2213",76,0,2013,2,"N","Knox County, Missouri","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"2213",76,0,2013,3,"N","Knox County, Missouri","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"22131",77,0,2013,1,"N","Knox County, Missouri","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"22131",77,0,2013,2,"N","Knox County, Missouri","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"22131",77,0,2013,3,"N","Knox County, Missouri","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"221310",78,0,2013,1,"N","Knox County, Missouri","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"221310",78,0,2013,2,"N","Knox County, Missouri","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"221310",78,0,2013,3,"N","Knox County, Missouri","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"61",74,0,2013,1,"N","Knox County, Missouri","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"61",74,0,2013,2,"N","Knox County, Missouri","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"61",74,0,2013,3,"N","Knox County, Missouri","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"611",75,0,2013,1,"N","Knox County, Missouri","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"611",75,0,2013,2,"N","Knox County, Missouri","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"611",75,0,2013,3,"N","Knox County, Missouri","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"6111",76,0,2013,1,"N","Knox County, Missouri","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"6111",76,0,2013,2,"N","Knox County, Missouri","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"6111",76,0,2013,3,"N","Knox County, Missouri","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"61111",77,0,2013,1,"N","Knox County, Missouri","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"61111",77,0,2013,2,"N","Knox County, Missouri","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"61111",77,0,2013,3,"N","Knox County, Missouri","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"611110",78,0,2013,1,"N","Knox County, Missouri","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"611110",78,0,2013,2,"N","Knox County, Missouri","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"611110",78,0,2013,3,"N","Knox County, Missouri","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"62",74,0,2013,1,"N","Knox County, Missouri","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",3,"62",74,0,2013,2,"N","Knox County, Missouri","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",3,"62",74,0,2013,3,"N","Knox County, Missouri","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",3,"621",75,0,2013,1,"N","Knox County, Missouri","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"621",75,0,2013,2,"N","Knox County, Missouri","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"621",75,0,2013,3,"N","Knox County, Missouri","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"6219",76,0,2013,1,"N","Knox County, Missouri","Local Government","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"6219",76,0,2013,2,"N","Knox County, Missouri","Local Government","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"6219",76,0,2013,3,"N","Knox County, Missouri","Local Government","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"62191",77,0,2013,1,"N","Knox County, Missouri","Local Government","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"62191",77,0,2013,2,"N","Knox County, Missouri","Local Government","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"62191",77,0,2013,3,"N","Knox County, Missouri","Local Government","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"621910",78,0,2013,1,"N","Knox County, Missouri","Local Government","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"621910",78,0,2013,2,"N","Knox County, Missouri","Local Government","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"621910",78,0,2013,3,"N","Knox County, Missouri","Local Government","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"623",75,0,2013,1,"N","Knox County, Missouri","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"623",75,0,2013,2,"N","Knox County, Missouri","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"623",75,0,2013,3,"N","Knox County, Missouri","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"6231",76,0,2013,1,"N","Knox County, Missouri","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"6231",76,0,2013,2,"N","Knox County, Missouri","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"6231",76,0,2013,3,"N","Knox County, Missouri","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"62311",77,0,2013,1,"N","Knox County, Missouri","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"62311",77,0,2013,2,"N","Knox County, Missouri","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"62311",77,0,2013,3,"N","Knox County, Missouri","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"623110",78,0,2013,1,"N","Knox County, Missouri","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"623110",78,0,2013,2,"N","Knox County, Missouri","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"623110",78,0,2013,3,"N","Knox County, Missouri","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"92",74,0,2013,1,"","Knox County, Missouri","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",7,68,67,67,322997,167570,5019,369
+"29103",3,"92",74,0,2013,2,"N","Knox County, Missouri","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"29103",3,"92",74,0,2013,3,"N","Knox County, Missouri","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"29103",3,"921",75,0,2013,1,"","Knox County, Missouri","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,55,54,53,231992,139876,4739,330
+"29103",3,"921",75,0,2013,2,"","Knox County, Missouri","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,54,55,56,196731,111928,3770,275
+"29103",3,"921",75,0,2013,3,"","Knox County, Missouri","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,55,53,55,229236,50955,1641,325
+"29103",3,"9211",76,0,2013,1,"","Knox County, Missouri","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,55,54,53,231992,139876,4739,330
+"29103",3,"9211",76,0,2013,2,"","Knox County, Missouri","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,54,55,56,196731,111928,3770,275
+"29103",3,"9211",76,0,2013,3,"","Knox County, Missouri","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,55,53,55,229236,50955,1641,325
+"29103",3,"92114",77,0,2013,1,"","Knox County, Missouri","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,55,54,53,231992,139876,4739,330
+"29103",3,"92114",77,0,2013,2,"","Knox County, Missouri","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,54,55,56,196731,111928,3770,275
+"29103",3,"92114",77,0,2013,3,"","Knox County, Missouri","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,55,53,55,229236,50955,1641,325
+"29103",3,"921140",78,0,2013,1,"","Knox County, Missouri","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,55,54,53,231992,139876,4739,330
+"29103",3,"921140",78,0,2013,2,"","Knox County, Missouri","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,54,55,56,196731,111928,3770,275
+"29103",3,"921140",78,0,2013,3,"","Knox County, Missouri","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,55,53,55,229236,50955,1641,325
+"29103",3,"923",75,0,2013,1,"N","Knox County, Missouri","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"923",75,0,2013,2,"N","Knox County, Missouri","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"923",75,0,2013,3,"N","Knox County, Missouri","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"9231",76,0,2013,1,"N","Knox County, Missouri","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"9231",76,0,2013,2,"N","Knox County, Missouri","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"9231",76,0,2013,3,"N","Knox County, Missouri","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"92312",77,0,2013,1,"N","Knox County, Missouri","Local Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"92312",77,0,2013,2,"N","Knox County, Missouri","Local Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"92312",77,0,2013,3,"N","Knox County, Missouri","Local Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"923120",78,0,2013,1,"N","Knox County, Missouri","Local Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"923120",78,0,2013,2,"N","Knox County, Missouri","Local Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"923120",78,0,2013,3,"N","Knox County, Missouri","Local Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"924",75,0,2013,1,"N","Knox County, Missouri","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"924",75,0,2013,2,"N","Knox County, Missouri","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"924",75,0,2013,3,"N","Knox County, Missouri","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"9241",76,0,2013,1,"N","Knox County, Missouri","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"9241",76,0,2013,2,"N","Knox County, Missouri","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"9241",76,0,2013,3,"N","Knox County, Missouri","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"92412",77,0,2013,1,"N","Knox County, Missouri","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"92412",77,0,2013,2,"N","Knox County, Missouri","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"92412",77,0,2013,3,"N","Knox County, Missouri","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"924120",78,0,2013,1,"N","Knox County, Missouri","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"924120",78,0,2013,2,"N","Knox County, Missouri","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"924120",78,0,2013,3,"N","Knox County, Missouri","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"926",75,0,2013,1,"N","Knox County, Missouri","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"926",75,0,2013,2,"N","Knox County, Missouri","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"926",75,0,2013,3,"N","Knox County, Missouri","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"9261",76,0,2013,1,"N","Knox County, Missouri","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"9261",76,0,2013,2,"N","Knox County, Missouri","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"9261",76,0,2013,3,"N","Knox County, Missouri","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"92614",77,0,2013,1,"N","Knox County, Missouri","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"92614",77,0,2013,2,"N","Knox County, Missouri","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"92614",77,0,2013,3,"N","Knox County, Missouri","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"926140",78,0,2013,1,"N","Knox County, Missouri","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"926140",78,0,2013,2,"N","Knox County, Missouri","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",3,"926140",78,0,2013,3,"N","Knox County, Missouri","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"10",71,0,2013,1,"","Knox County, Missouri","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",102,751,763,757,4247849,3303735,46555,432
+"29103",5,"10",71,0,2013,2,"","Knox County, Missouri","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",101,770,803,790,4984180,2439428,46026,487
+"29103",5,"10",71,0,2013,3,"","Knox County, Missouri","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",100,804,793,804,4713351,1163655,20820,453
+"29103",5,"101",72,0,2013,1,"","Knox County, Missouri","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",22,202,206,209,1219335,1181151,21298,456
+"29103",5,"101",72,0,2013,2,"","Knox County, Missouri","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",21,212,227,225,1829944,1183934,27982,636
+"29103",5,"101",72,0,2013,3,"","Knox County, Missouri","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",21,229,230,223,1510279,423519,10851,511
+"29103",5,"1011",73,0,2013,1,"","Knox County, Missouri","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",5,26,28,32,199802,186855,5000,536
+"29103",5,"1011",73,0,2013,2,"","Knox County, Missouri","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",5,42,47,48,331219,213649,7756,558
+"29103",5,"1011",73,0,2013,3,"","Knox County, Missouri","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",5,48,48,45,362023,58325,2490,593
+"29103",5,"1012",73,0,2013,1,"","Knox County, Missouri","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",10,3,5,5,18463,18463,585,328
+"29103",5,"1012",73,0,2013,2,"","Knox County, Missouri","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",9,7,10,9,79194,75412,6448,703
+"29103",5,"1012",73,0,2013,3,"","Knox County, Missouri","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",9,13,12,13,150326,45975,3547,913
+"29103",5,"1013",73,0,2013,1,"","Knox County, Missouri","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",7,173,173,172,1001070,975833,15713,446
+"29103",5,"1013",73,0,2013,2,"","Knox County, Missouri","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",7,163,170,168,1419531,894873,13778,654
+"29103",5,"1013",73,0,2013,3,"","Knox County, Missouri","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",7,168,170,165,997930,319219,4814,458
+"29103",5,"102",72,0,2013,1,"","Knox County, Missouri","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",80,549,557,548,3028514,2122584,25257,423
+"29103",5,"102",72,0,2013,2,"","Knox County, Missouri","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",80,558,576,565,3154236,1255494,18044,428
+"29103",5,"102",72,0,2013,3,"","Knox County, Missouri","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",79,575,563,581,3203072,740136,9969,430
+"29103",5,"1021",73,0,2013,1,"","Knox County, Missouri","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",25,168,169,170,968085,854387,10197,441
+"29103",5,"1021",73,0,2013,2,"","Knox County, Missouri","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",26,172,178,176,984519,521479,6589,432
+"29103",5,"1021",73,0,2013,3,"","Knox County, Missouri","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",26,169,173,182,992610,289585,3438,437
+"29103",5,"1022",73,0,2013,1,"","Knox County, Missouri","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",3,29,29,28,468176,326546,2267,1256
+"29103",5,"1022",73,0,2013,2,"","Knox County, Missouri","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",3,29,29,30,372003,38878,91,976
+"29103",5,"1022",73,0,2013,3,"","Knox County, Missouri","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",3,30,31,31,454724,42708,180,1141
+"29103",5,"1023",73,0,2013,1,"","Knox County, Missouri","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",6,53,55,55,383792,347216,2715,543
+"29103",5,"1023",73,0,2013,2,"","Knox County, Missouri","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,53,52,51,422256,177060,1417,625
+"29103",5,"1023",73,0,2013,3,"","Knox County, Missouri","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,53,50,52,528765,72842,611,787
+"29103",5,"1024",73,0,2013,1,"","Knox County, Missouri","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",9,34,35,35,204492,189677,3759,454
+"29103",5,"1024",73,0,2013,2,"","Knox County, Missouri","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",9,37,36,36,237819,140747,2776,503
+"29103",5,"1024",73,0,2013,3,"","Knox County, Missouri","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",9,35,37,35,184871,83305,1789,399
+"29103",5,"1025",73,0,2013,1,"","Knox County, Missouri","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",18,60,59,56,345461,181319,3568,456
+"29103",5,"1025",73,0,2013,2,"","Knox County, Missouri","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",17,58,58,53,339258,113047,3659,463
+"29103",5,"1025",73,0,2013,3,"","Knox County, Missouri","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",15,53,51,57,323957,54795,1250,464
+"29103",5,"1026",73,0,2013,1,"","Knox County, Missouri","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",8,55,56,54,132833,132833,1420,186
+"29103",5,"1026",73,0,2013,2,"","Knox County, Missouri","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",8,53,61,65,155925,144947,1568,201
+"29103",5,"1026",73,0,2013,3,"","Knox County, Missouri","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",9,77,73,74,146612,114248,1281,151
+"29103",5,"1027",73,0,2013,1,"","Knox County, Missouri","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",11,150,154,150,525675,90606,1331,267
+"29103",5,"1027",73,0,2013,2,"","Knox County, Missouri","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",12,156,162,154,642456,119336,1944,314
+"29103",5,"1027",73,0,2013,3,"","Knox County, Missouri","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",12,158,148,150,571533,82653,1420,289
+"29103",5,"11",74,0,2013,1,"N","Knox County, Missouri","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"11",74,0,2013,2,"N","Knox County, Missouri","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"11",74,0,2013,3,"N","Knox County, Missouri","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"111",75,0,2013,1,"N","Knox County, Missouri","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"111",75,0,2013,2,"N","Knox County, Missouri","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"111",75,0,2013,3,"N","Knox County, Missouri","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"1111",76,0,2013,1,"N","Knox County, Missouri","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"1111",76,0,2013,2,"N","Knox County, Missouri","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"1111",76,0,2013,3,"N","Knox County, Missouri","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"11111",77,0,2013,1,"N","Knox County, Missouri","Private","Soybean farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"11111",77,0,2013,2,"N","Knox County, Missouri","Private","Soybean farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"11111",77,0,2013,3,"N","Knox County, Missouri","Private","Soybean farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"111110",78,0,2013,1,"N","Knox County, Missouri","Private","Soybean farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"111110",78,0,2013,2,"N","Knox County, Missouri","Private","Soybean farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"111110",78,0,2013,3,"N","Knox County, Missouri","Private","Soybean farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"112",75,0,2013,1,"N","Knox County, Missouri","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"112",75,0,2013,2,"N","Knox County, Missouri","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"112",75,0,2013,3,"N","Knox County, Missouri","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"1125",76,0,2013,1,"N","Knox County, Missouri","Private","Aquaculture","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"1125",76,0,2013,2,"N","Knox County, Missouri","Private","Aquaculture","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"1125",76,0,2013,3,"N","Knox County, Missouri","Private","Aquaculture","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"11251",77,0,2013,1,"N","Knox County, Missouri","Private","Aquaculture","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"11251",77,0,2013,2,"N","Knox County, Missouri","Private","Aquaculture","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"11251",77,0,2013,3,"N","Knox County, Missouri","Private","Aquaculture","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"112511",78,0,2013,1,"N","Knox County, Missouri","Private","Finfish farming and fish hatcheries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"112511",78,0,2013,2,"N","Knox County, Missouri","Private","Finfish farming and fish hatcheries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"112511",78,0,2013,3,"N","Knox County, Missouri","Private","Finfish farming and fish hatcheries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"113",75,0,2013,1,"N","Knox County, Missouri","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"113",75,0,2013,2,"N","Knox County, Missouri","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"113",75,0,2013,3,"N","Knox County, Missouri","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"1133",76,0,2013,1,"N","Knox County, Missouri","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"1133",76,0,2013,2,"N","Knox County, Missouri","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"1133",76,0,2013,3,"N","Knox County, Missouri","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"11331",77,0,2013,1,"N","Knox County, Missouri","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"11331",77,0,2013,2,"N","Knox County, Missouri","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"11331",77,0,2013,3,"N","Knox County, Missouri","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"113310",78,0,2013,1,"N","Knox County, Missouri","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"113310",78,0,2013,2,"N","Knox County, Missouri","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"113310",78,0,2013,3,"N","Knox County, Missouri","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"21",74,0,2013,1,"N","Knox County, Missouri","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"21",74,0,2013,2,"N","Knox County, Missouri","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"21",74,0,2013,3,"N","Knox County, Missouri","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"212",75,0,2013,1,"N","Knox County, Missouri","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"212",75,0,2013,2,"N","Knox County, Missouri","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"212",75,0,2013,3,"N","Knox County, Missouri","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"2123",76,0,2013,1,"N","Knox County, Missouri","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"2123",76,0,2013,2,"N","Knox County, Missouri","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"2123",76,0,2013,3,"N","Knox County, Missouri","Private","Nonmetallic mineral mining and quarrying","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"21231",77,0,2013,1,"N","Knox County, Missouri","Private","Stone mining and quarrying","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"21231",77,0,2013,2,"N","Knox County, Missouri","Private","Stone mining and quarrying","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"21231",77,0,2013,3,"N","Knox County, Missouri","Private","Stone mining and quarrying","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"212312",78,0,2013,1,"N","Knox County, Missouri","Private","Crushed and broken limestone mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"212312",78,0,2013,2,"N","Knox County, Missouri","Private","Crushed and broken limestone mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"212312",78,0,2013,3,"N","Knox County, Missouri","Private","Crushed and broken limestone mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"22",74,0,2013,1,"N","Knox County, Missouri","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"22",74,0,2013,2,"N","Knox County, Missouri","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"22",74,0,2013,3,"N","Knox County, Missouri","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"221",75,0,2013,1,"N","Knox County, Missouri","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"221",75,0,2013,2,"N","Knox County, Missouri","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"221",75,0,2013,3,"N","Knox County, Missouri","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"2211",76,0,2013,1,"N","Knox County, Missouri","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"2211",76,0,2013,2,"N","Knox County, Missouri","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"2211",76,0,2013,3,"N","Knox County, Missouri","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"22111",77,0,2013,1,"N","Knox County, Missouri","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"22111",77,0,2013,2,"N","Knox County, Missouri","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"22111",77,0,2013,3,"N","Knox County, Missouri","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"221111",78,0,2013,1,"N","Knox County, Missouri","Private","Hydroelectric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"221111",78,0,2013,2,"N","Knox County, Missouri","Private","Hydroelectric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"221111",78,0,2013,3,"N","Knox County, Missouri","Private","Hydroelectric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"23",74,0,2013,1,"","Knox County, Missouri","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",10,3,5,5,18463,18463,585,328
+"29103",5,"23",74,0,2013,2,"","Knox County, Missouri","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",9,7,10,9,79194,75412,6448,703
+"29103",5,"23",74,0,2013,3,"","Knox County, Missouri","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",9,13,12,13,150326,45975,3547,913
+"29103",5,"238",75,0,2013,1,"","Knox County, Missouri","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,3,5,5,18463,18463,585,328
+"29103",5,"238",75,0,2013,2,"","Knox County, Missouri","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,7,10,9,79194,75412,6448,703
+"29103",5,"238",75,0,2013,3,"","Knox County, Missouri","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,13,12,13,150326,45975,3547,913
+"29103",5,"2381",76,0,2013,1,"N","Knox County, Missouri","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"2381",76,0,2013,2,"N","Knox County, Missouri","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"2381",76,0,2013,3,"N","Knox County, Missouri","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"23811",77,0,2013,1,"N","Knox County, Missouri","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"23811",77,0,2013,2,"N","Knox County, Missouri","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"23811",77,0,2013,3,"N","Knox County, Missouri","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"238111",78,0,2013,1,"N","Knox County, Missouri","Private","Residential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"238111",78,0,2013,2,"N","Knox County, Missouri","Private","Residential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"238111",78,0,2013,3,"N","Knox County, Missouri","Private","Residential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"2382",76,0,2013,1,"N","Knox County, Missouri","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"2382",76,0,2013,2,"N","Knox County, Missouri","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"2382",76,0,2013,3,"-","Knox County, Missouri","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"29103",5,"23822",77,0,2013,1,"N","Knox County, Missouri","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"23822",77,0,2013,2,"N","Knox County, Missouri","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"23822",77,0,2013,3,"-","Knox County, Missouri","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"29103",5,"238221",78,0,2013,1,"N","Knox County, Missouri","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"238221",78,0,2013,2,"N","Knox County, Missouri","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"238221",78,0,2013,3,"-","Knox County, Missouri","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"29103",5,"2383",76,0,2013,1,"N","Knox County, Missouri","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"2383",76,0,2013,2,"N","Knox County, Missouri","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"2383",76,0,2013,3,"N","Knox County, Missouri","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"23831",77,0,2013,1,"N","Knox County, Missouri","Private","Drywall and insulation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"23831",77,0,2013,2,"N","Knox County, Missouri","Private","Drywall and insulation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"23831",77,0,2013,3,"N","Knox County, Missouri","Private","Drywall and insulation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"238311",78,0,2013,1,"N","Knox County, Missouri","Private","Residential drywall contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"238311",78,0,2013,2,"N","Knox County, Missouri","Private","Residential drywall contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"238311",78,0,2013,3,"N","Knox County, Missouri","Private","Residential drywall contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"2389",76,0,2013,1,"N","Knox County, Missouri","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"29103",5,"2389",76,0,2013,2,"","Knox County, Missouri","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,4,7,6,52713,51181,4889,716
+"29103",5,"2389",76,0,2013,3,"","Knox County, Missouri","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,7,8,9,125007,28144,2408,1202
+"29103",5,"23891",77,0,2013,1,"N","Knox County, Missouri","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"29103",5,"23891",77,0,2013,2,"N","Knox County, Missouri","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"29103",5,"23891",77,0,2013,3,"N","Knox County, Missouri","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"29103",5,"238911",78,0,2013,1,"N","Knox County, Missouri","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"238911",78,0,2013,2,"N","Knox County, Missouri","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"238911",78,0,2013,3,"N","Knox County, Missouri","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"238912",78,0,2013,1,"N","Knox County, Missouri","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"238912",78,0,2013,2,"N","Knox County, Missouri","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"238912",78,0,2013,3,"N","Knox County, Missouri","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"23899",77,0,2013,1,"N","Knox County, Missouri","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"23899",77,0,2013,2,"N","Knox County, Missouri","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"23899",77,0,2013,3,"N","Knox County, Missouri","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"238991",78,0,2013,1,"N","Knox County, Missouri","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"238991",78,0,2013,2,"N","Knox County, Missouri","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"238991",78,0,2013,3,"N","Knox County, Missouri","Private","All other residential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"31-33",74,0,2013,1,"","Knox County, Missouri","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,173,173,172,1001070,975833,15713,446
+"29103",5,"31-33",74,0,2013,2,"","Knox County, Missouri","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,163,170,168,1419531,894873,13778,654
+"29103",5,"31-33",74,0,2013,3,"","Knox County, Missouri","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,168,170,165,997930,319219,4814,458
+"29103",5,"311",75,0,2013,1,"N","Knox County, Missouri","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"29103",5,"311",75,0,2013,2,"N","Knox County, Missouri","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"29103",5,"311",75,0,2013,3,"N","Knox County, Missouri","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"29103",5,"3112",76,0,2013,1,"N","Knox County, Missouri","Private","Grain and oilseed milling","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"3112",76,0,2013,2,"N","Knox County, Missouri","Private","Grain and oilseed milling","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"3112",76,0,2013,3,"N","Knox County, Missouri","Private","Grain and oilseed milling","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"31122",77,0,2013,1,"N","Knox County, Missouri","Private","Starch and vegetable oil manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"31122",77,0,2013,2,"N","Knox County, Missouri","Private","Starch and vegetable oil manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"31122",77,0,2013,3,"N","Knox County, Missouri","Private","Starch and vegetable oil manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"311224",78,0,2013,1,"N","Knox County, Missouri","Private","Soybean and other oilseed processing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"311224",78,0,2013,2,"N","Knox County, Missouri","Private","Soybean and other oilseed processing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"311224",78,0,2013,3,"N","Knox County, Missouri","Private","Soybean and other oilseed processing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"3115",76,0,2013,1,"N","Knox County, Missouri","Private","Dairy product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"3115",76,0,2013,2,"N","Knox County, Missouri","Private","Dairy product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"3115",76,0,2013,3,"N","Knox County, Missouri","Private","Dairy product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"31151",77,0,2013,1,"N","Knox County, Missouri","Private","Dairy product, except frozen, manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"31151",77,0,2013,2,"N","Knox County, Missouri","Private","Dairy product, except frozen, manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"31151",77,0,2013,3,"N","Knox County, Missouri","Private","Dairy product, except frozen, manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"311513",78,0,2013,1,"N","Knox County, Missouri","Private","Cheese manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"311513",78,0,2013,2,"N","Knox County, Missouri","Private","Cheese manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"311513",78,0,2013,3,"N","Knox County, Missouri","Private","Cheese manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"321",75,0,2013,1,"N","Knox County, Missouri","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"321",75,0,2013,2,"N","Knox County, Missouri","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"321",75,0,2013,3,"N","Knox County, Missouri","Private","Wood product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"3211",76,0,2013,1,"N","Knox County, Missouri","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"3211",76,0,2013,2,"N","Knox County, Missouri","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"3211",76,0,2013,3,"N","Knox County, Missouri","Private","Sawmills and wood preservation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"32111",77,0,2013,1,"N","Knox County, Missouri","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"32111",77,0,2013,2,"N","Knox County, Missouri","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"32111",77,0,2013,3,"N","Knox County, Missouri","Private","Sawmills and wood preservation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"321113",78,0,2013,1,"N","Knox County, Missouri","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"321113",78,0,2013,2,"N","Knox County, Missouri","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"321113",78,0,2013,3,"N","Knox County, Missouri","Private","Sawmills","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"325",75,0,2013,1,"N","Knox County, Missouri","Private","Chemical manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"325",75,0,2013,2,"N","Knox County, Missouri","Private","Chemical manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"325",75,0,2013,3,"N","Knox County, Missouri","Private","Chemical manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"3253",76,0,2013,1,"N","Knox County, Missouri","Private","Agricultural chemical manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"3253",76,0,2013,2,"N","Knox County, Missouri","Private","Agricultural chemical manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"3253",76,0,2013,3,"N","Knox County, Missouri","Private","Agricultural chemical manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"32531",77,0,2013,1,"N","Knox County, Missouri","Private","Fertilizer manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"32531",77,0,2013,2,"N","Knox County, Missouri","Private","Fertilizer manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"32531",77,0,2013,3,"N","Knox County, Missouri","Private","Fertilizer manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"325314",78,0,2013,1,"N","Knox County, Missouri","Private","Fertilizer, mixing only, manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"325314",78,0,2013,2,"N","Knox County, Missouri","Private","Fertilizer, mixing only, manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"325314",78,0,2013,3,"N","Knox County, Missouri","Private","Fertilizer, mixing only, manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"327",75,0,2013,1,"N","Knox County, Missouri","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"327",75,0,2013,2,"N","Knox County, Missouri","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"327",75,0,2013,3,"N","Knox County, Missouri","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"3274",76,0,2013,1,"N","Knox County, Missouri","Private","Lime and gypsum product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"3274",76,0,2013,2,"N","Knox County, Missouri","Private","Lime and gypsum product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"3274",76,0,2013,3,"N","Knox County, Missouri","Private","Lime and gypsum product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"32741",77,0,2013,1,"N","Knox County, Missouri","Private","Lime manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"32741",77,0,2013,2,"N","Knox County, Missouri","Private","Lime manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"32741",77,0,2013,3,"N","Knox County, Missouri","Private","Lime manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"327410",78,0,2013,1,"N","Knox County, Missouri","Private","Lime manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"327410",78,0,2013,2,"N","Knox County, Missouri","Private","Lime manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"327410",78,0,2013,3,"N","Knox County, Missouri","Private","Lime manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"42",74,0,2013,1,"","Knox County, Missouri","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,51,52,54,362657,315147,2620,533
+"29103",5,"42",74,0,2013,2,"","Knox County, Missouri","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",5,57,59,59,374619,170814,1608,494
+"29103",5,"42",74,0,2013,3,"","Knox County, Missouri","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",5,53,58,57,376793,64178,651,518
+"29103",5,"423",75,0,2013,1,"N","Knox County, Missouri","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"423",75,0,2013,2,"N","Knox County, Missouri","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"423",75,0,2013,3,"N","Knox County, Missouri","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4238",76,0,2013,1,"N","Knox County, Missouri","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4238",76,0,2013,2,"N","Knox County, Missouri","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4238",76,0,2013,3,"N","Knox County, Missouri","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"42382",77,0,2013,1,"N","Knox County, Missouri","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"42382",77,0,2013,2,"N","Knox County, Missouri","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"42382",77,0,2013,3,"N","Knox County, Missouri","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"423820",78,0,2013,1,"N","Knox County, Missouri","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"423820",78,0,2013,2,"N","Knox County, Missouri","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"423820",78,0,2013,3,"N","Knox County, Missouri","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"424",75,0,2013,1,"N","Knox County, Missouri","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"424",75,0,2013,2,"N","Knox County, Missouri","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"424",75,0,2013,3,"N","Knox County, Missouri","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"4247",76,0,2013,1,"N","Knox County, Missouri","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4247",76,0,2013,2,"N","Knox County, Missouri","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4247",76,0,2013,3,"N","Knox County, Missouri","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"42471",77,0,2013,1,"N","Knox County, Missouri","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"42471",77,0,2013,2,"N","Knox County, Missouri","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"42471",77,0,2013,3,"N","Knox County, Missouri","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"424710",78,0,2013,1,"N","Knox County, Missouri","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"424710",78,0,2013,2,"N","Knox County, Missouri","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"424710",78,0,2013,3,"N","Knox County, Missouri","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4249",76,0,2013,1,"N","Knox County, Missouri","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4249",76,0,2013,2,"N","Knox County, Missouri","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4249",76,0,2013,3,"N","Knox County, Missouri","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"42491",77,0,2013,1,"N","Knox County, Missouri","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"42491",77,0,2013,2,"N","Knox County, Missouri","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"42491",77,0,2013,3,"N","Knox County, Missouri","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"424910",78,0,2013,1,"N","Knox County, Missouri","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"424910",78,0,2013,2,"N","Knox County, Missouri","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"424910",78,0,2013,3,"N","Knox County, Missouri","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"425",75,0,2013,1,"N","Knox County, Missouri","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"425",75,0,2013,2,"N","Knox County, Missouri","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"425",75,0,2013,3,"N","Knox County, Missouri","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"4251",76,0,2013,1,"N","Knox County, Missouri","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4251",76,0,2013,2,"N","Knox County, Missouri","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"4251",76,0,2013,3,"N","Knox County, Missouri","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"42512",77,0,2013,1,"N","Knox County, Missouri","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"42512",77,0,2013,2,"N","Knox County, Missouri","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"42512",77,0,2013,3,"N","Knox County, Missouri","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"425120",78,0,2013,1,"N","Knox County, Missouri","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"425120",78,0,2013,2,"N","Knox County, Missouri","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"425120",78,0,2013,3,"N","Knox County, Missouri","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"44-45",74,0,2013,1,"","Knox County, Missouri","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,90,90,88,339314,320259,3902,292
+"29103",5,"44-45",74,0,2013,2,"","Knox County, Missouri","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,92,91,89,344017,250618,2805,292
+"29103",5,"44-45",74,0,2013,3,"","Knox County, Missouri","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,87,87,96,367076,180638,2127,314
+"29103",5,"441",75,0,2013,1,"N","Knox County, Missouri","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"441",75,0,2013,2,"N","Knox County, Missouri","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"441",75,0,2013,3,"N","Knox County, Missouri","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"4411",76,0,2013,1,"N","Knox County, Missouri","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4411",76,0,2013,2,"N","Knox County, Missouri","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4411",76,0,2013,3,"N","Knox County, Missouri","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44112",77,0,2013,1,"N","Knox County, Missouri","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44112",77,0,2013,2,"N","Knox County, Missouri","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44112",77,0,2013,3,"N","Knox County, Missouri","Private","Used car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"441120",78,0,2013,1,"N","Knox County, Missouri","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"441120",78,0,2013,2,"N","Knox County, Missouri","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"441120",78,0,2013,3,"N","Knox County, Missouri","Private","Used car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4413",76,0,2013,1,"N","Knox County, Missouri","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4413",76,0,2013,2,"N","Knox County, Missouri","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4413",76,0,2013,3,"N","Knox County, Missouri","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44131",77,0,2013,1,"N","Knox County, Missouri","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44131",77,0,2013,2,"N","Knox County, Missouri","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44131",77,0,2013,3,"N","Knox County, Missouri","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"441310",78,0,2013,1,"N","Knox County, Missouri","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"441310",78,0,2013,2,"N","Knox County, Missouri","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"441310",78,0,2013,3,"N","Knox County, Missouri","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"444",75,0,2013,1,"N","Knox County, Missouri","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"444",75,0,2013,2,"N","Knox County, Missouri","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"444",75,0,2013,3,"N","Knox County, Missouri","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4441",76,0,2013,1,"N","Knox County, Missouri","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4441",76,0,2013,2,"N","Knox County, Missouri","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4441",76,0,2013,3,"N","Knox County, Missouri","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44411",77,0,2013,1,"N","Knox County, Missouri","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44411",77,0,2013,2,"N","Knox County, Missouri","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44411",77,0,2013,3,"N","Knox County, Missouri","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"444110",78,0,2013,1,"N","Knox County, Missouri","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"444110",78,0,2013,2,"N","Knox County, Missouri","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"444110",78,0,2013,3,"N","Knox County, Missouri","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"445",75,0,2013,1,"N","Knox County, Missouri","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"445",75,0,2013,2,"N","Knox County, Missouri","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"445",75,0,2013,3,"N","Knox County, Missouri","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4451",76,0,2013,1,"N","Knox County, Missouri","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4451",76,0,2013,2,"N","Knox County, Missouri","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4451",76,0,2013,3,"N","Knox County, Missouri","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44511",77,0,2013,1,"N","Knox County, Missouri","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44511",77,0,2013,2,"N","Knox County, Missouri","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44511",77,0,2013,3,"N","Knox County, Missouri","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"445110",78,0,2013,1,"N","Knox County, Missouri","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"445110",78,0,2013,2,"N","Knox County, Missouri","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"445110",78,0,2013,3,"N","Knox County, Missouri","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"446",75,0,2013,1,"N","Knox County, Missouri","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"446",75,0,2013,2,"N","Knox County, Missouri","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"446",75,0,2013,3,"N","Knox County, Missouri","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4461",76,0,2013,1,"N","Knox County, Missouri","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4461",76,0,2013,2,"N","Knox County, Missouri","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4461",76,0,2013,3,"N","Knox County, Missouri","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44611",77,0,2013,1,"N","Knox County, Missouri","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44611",77,0,2013,2,"N","Knox County, Missouri","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44611",77,0,2013,3,"N","Knox County, Missouri","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"446110",78,0,2013,1,"N","Knox County, Missouri","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"446110",78,0,2013,2,"N","Knox County, Missouri","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"446110",78,0,2013,3,"N","Knox County, Missouri","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"447",75,0,2013,1,"","Knox County, Missouri","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,25,29,28,98683,95981,1404,278
+"29103",5,"447",75,0,2013,2,"","Knox County, Missouri","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,29,31,28,93463,84837,1212,245
+"29103",5,"447",75,0,2013,3,"","Knox County, Missouri","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,27,29,32,96223,64907,940,252
+"29103",5,"4471",76,0,2013,1,"","Knox County, Missouri","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,25,29,28,98683,95981,1404,278
+"29103",5,"4471",76,0,2013,2,"","Knox County, Missouri","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,29,31,28,93463,84837,1212,245
+"29103",5,"4471",76,0,2013,3,"","Knox County, Missouri","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,27,29,32,96223,64907,940,252
+"29103",5,"44711",77,0,2013,1,"N","Knox County, Missouri","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"44711",77,0,2013,2,"N","Knox County, Missouri","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"44711",77,0,2013,3,"N","Knox County, Missouri","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"447110",78,0,2013,1,"N","Knox County, Missouri","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"447110",78,0,2013,2,"N","Knox County, Missouri","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"447110",78,0,2013,3,"N","Knox County, Missouri","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"44719",77,0,2013,1,"N","Knox County, Missouri","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44719",77,0,2013,2,"N","Knox County, Missouri","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"44719",77,0,2013,3,"N","Knox County, Missouri","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"447190",78,0,2013,1,"N","Knox County, Missouri","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"447190",78,0,2013,2,"N","Knox County, Missouri","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"447190",78,0,2013,3,"N","Knox County, Missouri","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"452",75,0,2013,1,"N","Knox County, Missouri","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"452",75,0,2013,2,"N","Knox County, Missouri","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"452",75,0,2013,3,"N","Knox County, Missouri","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"4529",76,0,2013,1,"N","Knox County, Missouri","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"4529",76,0,2013,2,"N","Knox County, Missouri","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"4529",76,0,2013,3,"N","Knox County, Missouri","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"45299",77,0,2013,1,"N","Knox County, Missouri","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"45299",77,0,2013,2,"N","Knox County, Missouri","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"45299",77,0,2013,3,"N","Knox County, Missouri","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"452990",78,0,2013,1,"N","Knox County, Missouri","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"452990",78,0,2013,2,"N","Knox County, Missouri","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"452990",78,0,2013,3,"N","Knox County, Missouri","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"453",75,0,2013,1,"N","Knox County, Missouri","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"453",75,0,2013,2,"N","Knox County, Missouri","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"453",75,0,2013,3,"N","Knox County, Missouri","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4531",76,0,2013,1,"N","Knox County, Missouri","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4531",76,0,2013,2,"N","Knox County, Missouri","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4531",76,0,2013,3,"N","Knox County, Missouri","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"45311",77,0,2013,1,"N","Knox County, Missouri","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"45311",77,0,2013,2,"N","Knox County, Missouri","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"45311",77,0,2013,3,"N","Knox County, Missouri","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"453110",78,0,2013,1,"N","Knox County, Missouri","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"453110",78,0,2013,2,"N","Knox County, Missouri","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"453110",78,0,2013,3,"N","Knox County, Missouri","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"454",75,0,2013,1,"N","Knox County, Missouri","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"454",75,0,2013,2,"N","Knox County, Missouri","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"454",75,0,2013,3,"N","Knox County, Missouri","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4543",76,0,2013,1,"N","Knox County, Missouri","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4543",76,0,2013,2,"N","Knox County, Missouri","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4543",76,0,2013,3,"N","Knox County, Missouri","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"45431",77,0,2013,1,"N","Knox County, Missouri","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"45431",77,0,2013,2,"N","Knox County, Missouri","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"45431",77,0,2013,3,"N","Knox County, Missouri","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"454310",78,0,2013,1,"N","Knox County, Missouri","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"454310",78,0,2013,2,"N","Knox County, Missouri","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"454310",78,0,2013,3,"N","Knox County, Missouri","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"48-49",74,0,2013,1,"N","Knox County, Missouri","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"29103",5,"48-49",74,0,2013,2,"N","Knox County, Missouri","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"29103",5,"48-49",74,0,2013,3,"N","Knox County, Missouri","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"29103",5,"484",75,0,2013,1,"","Knox County, Missouri","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,21,21,22,174176,170678,3443,628
+"29103",5,"484",75,0,2013,2,"","Knox County, Missouri","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,17,22,22,182042,86038,2120,689
+"29103",5,"484",75,0,2013,3,"","Knox County, Missouri","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,23,22,23,173330,41711,648,588
+"29103",5,"4841",76,0,2013,1,"","Knox County, Missouri","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,8,8,8,62604,61100,1937,602
+"29103",5,"4841",76,0,2013,2,"","Knox County, Missouri","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,8,8,8,61449,30300,781,591
+"29103",5,"4841",76,0,2013,3,"","Knox County, Missouri","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,8,8,8,62065,7398,87,597
+"29103",5,"48412",77,0,2013,1,"","Knox County, Missouri","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,8,8,8,62604,61100,1937,602
+"29103",5,"48412",77,0,2013,2,"","Knox County, Missouri","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,8,8,8,61449,30300,781,591
+"29103",5,"48412",77,0,2013,3,"","Knox County, Missouri","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,8,8,8,62065,7398,87,597
+"29103",5,"484121",78,0,2013,1,"","Knox County, Missouri","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,8,8,8,62604,61100,1937,602
+"29103",5,"484121",78,0,2013,2,"","Knox County, Missouri","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,8,8,8,61449,30300,781,591
+"29103",5,"484121",78,0,2013,3,"","Knox County, Missouri","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,8,8,8,62065,7398,87,597
+"29103",5,"4842",76,0,2013,1,"","Knox County, Missouri","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,13,13,14,111572,109578,1506,644
+"29103",5,"4842",76,0,2013,2,"","Knox County, Missouri","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,14,14,120593,55738,1339,752
+"29103",5,"4842",76,0,2013,3,"","Knox County, Missouri","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,15,14,15,111265,34313,561,584
+"29103",5,"48422",77,0,2013,1,"N","Knox County, Missouri","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"48422",77,0,2013,2,"N","Knox County, Missouri","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"48422",77,0,2013,3,"N","Knox County, Missouri","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"484220",78,0,2013,1,"N","Knox County, Missouri","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"484220",78,0,2013,2,"N","Knox County, Missouri","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"484220",78,0,2013,3,"N","Knox County, Missouri","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"48423",77,0,2013,1,"N","Knox County, Missouri","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"48423",77,0,2013,2,"N","Knox County, Missouri","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"48423",77,0,2013,3,"N","Knox County, Missouri","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"484230",78,0,2013,1,"N","Knox County, Missouri","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"484230",78,0,2013,2,"N","Knox County, Missouri","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"484230",78,0,2013,3,"N","Knox County, Missouri","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"488",75,0,2013,1,"N","Knox County, Missouri","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"488",75,0,2013,2,"N","Knox County, Missouri","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"488",75,0,2013,3,"N","Knox County, Missouri","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4889",76,0,2013,1,"N","Knox County, Missouri","Private","Other support activities for transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4889",76,0,2013,2,"N","Knox County, Missouri","Private","Other support activities for transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"4889",76,0,2013,3,"N","Knox County, Missouri","Private","Other support activities for transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"48899",77,0,2013,1,"N","Knox County, Missouri","Private","Other support activities for transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"48899",77,0,2013,2,"N","Knox County, Missouri","Private","Other support activities for transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"48899",77,0,2013,3,"N","Knox County, Missouri","Private","Other support activities for transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"488999",78,0,2013,1,"N","Knox County, Missouri","Private","All other support activities for transport.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"488999",78,0,2013,2,"N","Knox County, Missouri","Private","All other support activities for transport.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"488999",78,0,2013,3,"N","Knox County, Missouri","Private","All other support activities for transport.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"51",74,0,2013,1,"","Knox County, Missouri","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",3,29,29,28,468176,326546,2267,1256
+"29103",5,"51",74,0,2013,2,"","Knox County, Missouri","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",3,29,29,30,372003,38878,91,976
+"29103",5,"51",74,0,2013,3,"","Knox County, Missouri","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",3,30,31,31,454724,42708,180,1141
+"29103",5,"511",75,0,2013,1,"N","Knox County, Missouri","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"511",75,0,2013,2,"N","Knox County, Missouri","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"511",75,0,2013,3,"N","Knox County, Missouri","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5111",76,0,2013,1,"N","Knox County, Missouri","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5111",76,0,2013,2,"N","Knox County, Missouri","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5111",76,0,2013,3,"N","Knox County, Missouri","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"51111",77,0,2013,1,"N","Knox County, Missouri","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"51111",77,0,2013,2,"N","Knox County, Missouri","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"51111",77,0,2013,3,"N","Knox County, Missouri","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"511110",78,0,2013,1,"N","Knox County, Missouri","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"511110",78,0,2013,2,"N","Knox County, Missouri","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"511110",78,0,2013,3,"N","Knox County, Missouri","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"517",75,0,2013,1,"N","Knox County, Missouri","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"517",75,0,2013,2,"N","Knox County, Missouri","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"517",75,0,2013,3,"N","Knox County, Missouri","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"5171",76,0,2013,1,"N","Knox County, Missouri","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5171",76,0,2013,2,"N","Knox County, Missouri","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5171",76,0,2013,3,"N","Knox County, Missouri","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"51711",77,0,2013,1,"N","Knox County, Missouri","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"51711",77,0,2013,2,"N","Knox County, Missouri","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"51711",77,0,2013,3,"N","Knox County, Missouri","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"517110",78,0,2013,1,"N","Knox County, Missouri","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"517110",78,0,2013,2,"N","Knox County, Missouri","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"517110",78,0,2013,3,"N","Knox County, Missouri","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5179",76,0,2013,1,"N","Knox County, Missouri","Private","Other telecommunications","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5179",76,0,2013,2,"N","Knox County, Missouri","Private","Other telecommunications","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5179",76,0,2013,3,"N","Knox County, Missouri","Private","Other telecommunications","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"51791",77,0,2013,1,"N","Knox County, Missouri","Private","Other telecommunications","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"51791",77,0,2013,2,"N","Knox County, Missouri","Private","Other telecommunications","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"51791",77,0,2013,3,"N","Knox County, Missouri","Private","Other telecommunications","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"517911",78,0,2013,1,"N","Knox County, Missouri","Private","Telecommunications resellers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"517911",78,0,2013,2,"N","Knox County, Missouri","Private","Telecommunications resellers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"517911",78,0,2013,3,"N","Knox County, Missouri","Private","Telecommunications resellers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"52",74,0,2013,1,"","Knox County, Missouri","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,53,55,55,383792,347216,2715,543
+"29103",5,"52",74,0,2013,2,"","Knox County, Missouri","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,53,52,51,422256,177060,1417,625
+"29103",5,"52",74,0,2013,3,"","Knox County, Missouri","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",5,53,50,52,528765,72842,611,787
+"29103",5,"522",75,0,2013,1,"N","Knox County, Missouri","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"522",75,0,2013,2,"N","Knox County, Missouri","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"522",75,0,2013,3,"N","Knox County, Missouri","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"5221",76,0,2013,1,"N","Knox County, Missouri","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"5221",76,0,2013,2,"N","Knox County, Missouri","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"5221",76,0,2013,3,"N","Knox County, Missouri","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"52211",77,0,2013,1,"N","Knox County, Missouri","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"52211",77,0,2013,2,"N","Knox County, Missouri","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"52211",77,0,2013,3,"N","Knox County, Missouri","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"522110",78,0,2013,1,"N","Knox County, Missouri","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"522110",78,0,2013,2,"N","Knox County, Missouri","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"522110",78,0,2013,3,"N","Knox County, Missouri","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"524",75,0,2013,1,"N","Knox County, Missouri","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"29103",5,"524",75,0,2013,2,"N","Knox County, Missouri","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"524",75,0,2013,3,"N","Knox County, Missouri","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"5241",76,0,2013,1,"N","Knox County, Missouri","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"5241",76,0,2013,2,"N","Knox County, Missouri","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5241",76,0,2013,3,"N","Knox County, Missouri","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"52412",77,0,2013,1,"N","Knox County, Missouri","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"52412",77,0,2013,2,"N","Knox County, Missouri","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"52412",77,0,2013,3,"N","Knox County, Missouri","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"524126",78,0,2013,1,"N","Knox County, Missouri","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"524126",78,0,2013,2,"N","Knox County, Missouri","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"524126",78,0,2013,3,"N","Knox County, Missouri","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5242",76,0,2013,1,"N","Knox County, Missouri","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"5242",76,0,2013,2,"N","Knox County, Missouri","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"5242",76,0,2013,3,"N","Knox County, Missouri","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"52421",77,0,2013,1,"N","Knox County, Missouri","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"52421",77,0,2013,2,"N","Knox County, Missouri","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"52421",77,0,2013,3,"N","Knox County, Missouri","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"524210",78,0,2013,1,"N","Knox County, Missouri","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"524210",78,0,2013,2,"N","Knox County, Missouri","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"524210",78,0,2013,3,"N","Knox County, Missouri","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"54",74,0,2013,1,"","Knox County, Missouri","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,29,30,30,177466,162651,3149,460
+"29103",5,"54",74,0,2013,2,"","Knox County, Missouri","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,33,31,31,209853,113581,2206,510
+"29103",5,"54",74,0,2013,3,"","Knox County, Missouri","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,30,32,30,155622,65873,1414,390
+"29103",5,"541",75,0,2013,1,"","Knox County, Missouri","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,29,30,30,177466,162651,3149,460
+"29103",5,"541",75,0,2013,2,"","Knox County, Missouri","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,33,31,31,209853,113581,2206,510
+"29103",5,"541",75,0,2013,3,"","Knox County, Missouri","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,30,32,30,155622,65873,1414,390
+"29103",5,"5411",76,0,2013,1,"N","Knox County, Missouri","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5411",76,0,2013,2,"N","Knox County, Missouri","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5411",76,0,2013,3,"N","Knox County, Missouri","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"54111",77,0,2013,1,"N","Knox County, Missouri","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"54111",77,0,2013,2,"N","Knox County, Missouri","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"54111",77,0,2013,3,"N","Knox County, Missouri","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"541110",78,0,2013,1,"N","Knox County, Missouri","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"541110",78,0,2013,2,"N","Knox County, Missouri","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"541110",78,0,2013,3,"N","Knox County, Missouri","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5412",76,0,2013,1,"","Knox County, Missouri","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,10,10,69094,69094,1132,550
+"29103",5,"5412",76,0,2013,2,"N","Knox County, Missouri","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"5412",76,0,2013,3,"N","Knox County, Missouri","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"54121",77,0,2013,1,"","Knox County, Missouri","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,10,10,69094,69094,1132,550
+"29103",5,"54121",77,0,2013,2,"N","Knox County, Missouri","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"54121",77,0,2013,3,"N","Knox County, Missouri","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"29103",5,"541211",78,0,2013,1,"N","Knox County, Missouri","Private","Offices of certified public accountants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"541211",78,0,2013,2,"N","Knox County, Missouri","Private","Offices of certified public accountants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"541211",78,0,2013,3,"N","Knox County, Missouri","Private","Offices of certified public accountants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"541219",78,0,2013,1,"N","Knox County, Missouri","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"541219",78,0,2013,2,"N","Knox County, Missouri","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"541219",78,0,2013,3,"N","Knox County, Missouri","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"5416",76,0,2013,1,"N","Knox County, Missouri","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5416",76,0,2013,2,"N","Knox County, Missouri","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5416",76,0,2013,3,"N","Knox County, Missouri","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"54161",77,0,2013,1,"N","Knox County, Missouri","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"54161",77,0,2013,2,"N","Knox County, Missouri","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"54161",77,0,2013,3,"N","Knox County, Missouri","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"541613",78,0,2013,1,"N","Knox County, Missouri","Private","Marketing consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"541613",78,0,2013,2,"N","Knox County, Missouri","Private","Marketing consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"541613",78,0,2013,3,"N","Knox County, Missouri","Private","Marketing consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5419",76,0,2013,1,"N","Knox County, Missouri","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5419",76,0,2013,2,"N","Knox County, Missouri","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5419",76,0,2013,3,"N","Knox County, Missouri","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"54194",77,0,2013,1,"N","Knox County, Missouri","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"54194",77,0,2013,2,"N","Knox County, Missouri","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"54194",77,0,2013,3,"N","Knox County, Missouri","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"541940",78,0,2013,1,"N","Knox County, Missouri","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"541940",78,0,2013,2,"N","Knox County, Missouri","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"541940",78,0,2013,3,"N","Knox County, Missouri","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"55",74,0,2013,1,"N","Knox County, Missouri","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"55",74,0,2013,2,"N","Knox County, Missouri","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"55",74,0,2013,3,"N","Knox County, Missouri","Private","Management of companies and enterprises","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"551",75,0,2013,1,"N","Knox County, Missouri","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"551",75,0,2013,2,"N","Knox County, Missouri","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"551",75,0,2013,3,"N","Knox County, Missouri","Private","Management of companies and enterprises","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5511",76,0,2013,1,"N","Knox County, Missouri","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5511",76,0,2013,2,"N","Knox County, Missouri","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5511",76,0,2013,3,"N","Knox County, Missouri","Private","Management of companies and enterprises","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"55111",77,0,2013,1,"N","Knox County, Missouri","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"55111",77,0,2013,2,"N","Knox County, Missouri","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"55111",77,0,2013,3,"N","Knox County, Missouri","Private","Management of companies and enterprises","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"551114",78,0,2013,1,"N","Knox County, Missouri","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"551114",78,0,2013,2,"N","Knox County, Missouri","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"551114",78,0,2013,3,"N","Knox County, Missouri","Private","Managing offices","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"56",74,0,2013,1,"N","Knox County, Missouri","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"56",74,0,2013,2,"N","Knox County, Missouri","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"56",74,0,2013,3,"N","Knox County, Missouri","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"561",75,0,2013,1,"N","Knox County, Missouri","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"561",75,0,2013,2,"N","Knox County, Missouri","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"561",75,0,2013,3,"N","Knox County, Missouri","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"5617",76,0,2013,1,"N","Knox County, Missouri","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5617",76,0,2013,2,"N","Knox County, Missouri","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5617",76,0,2013,3,"N","Knox County, Missouri","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"56172",77,0,2013,1,"N","Knox County, Missouri","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"56172",77,0,2013,2,"N","Knox County, Missouri","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"56172",77,0,2013,3,"N","Knox County, Missouri","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"561720",78,0,2013,1,"N","Knox County, Missouri","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"561720",78,0,2013,2,"N","Knox County, Missouri","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"561720",78,0,2013,3,"N","Knox County, Missouri","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5619",76,0,2013,1,"N","Knox County, Missouri","Private","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5619",76,0,2013,2,"N","Knox County, Missouri","Private","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"5619",76,0,2013,3,"N","Knox County, Missouri","Private","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"56199",77,0,2013,1,"N","Knox County, Missouri","Private","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"56199",77,0,2013,2,"N","Knox County, Missouri","Private","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"56199",77,0,2013,3,"N","Knox County, Missouri","Private","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"561990",78,0,2013,1,"N","Knox County, Missouri","Private","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"561990",78,0,2013,2,"N","Knox County, Missouri","Private","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"561990",78,0,2013,3,"N","Knox County, Missouri","Private","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"62",74,0,2013,1,"","Knox County, Missouri","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",18,60,59,56,345461,181319,3568,456
+"29103",5,"62",74,0,2013,2,"","Knox County, Missouri","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",17,58,58,53,339258,113047,3659,463
+"29103",5,"62",74,0,2013,3,"","Knox County, Missouri","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",15,53,51,57,323957,54795,1250,464
+"29103",5,"621",75,0,2013,1,"","Knox County, Missouri","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,22,22,22,239343,135500,1160,837
+"29103",5,"621",75,0,2013,2,"","Knox County, Missouri","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,22,22,23,224554,59009,650,773
+"29103",5,"621",75,0,2013,3,"","Knox County, Missouri","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,22,22,22,237719,28218,264,831
+"29103",5,"6211",76,0,2013,1,"","Knox County, Missouri","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,16,16,16,194991,116723,940,937
+"29103",5,"6211",76,0,2013,2,"","Knox County, Missouri","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,16,16,17,177996,42136,453,838
+"29103",5,"6211",76,0,2013,3,"","Knox County, Missouri","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,16,16,16,191050,18780,154,919
+"29103",5,"62111",77,0,2013,1,"","Knox County, Missouri","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,16,16,16,194991,116723,940,937
+"29103",5,"62111",77,0,2013,2,"","Knox County, Missouri","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,16,16,17,177996,42136,453,838
+"29103",5,"62111",77,0,2013,3,"","Knox County, Missouri","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,16,16,16,191050,18780,154,919
+"29103",5,"621111",78,0,2013,1,"","Knox County, Missouri","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,16,16,16,194991,116723,940,937
+"29103",5,"621111",78,0,2013,2,"","Knox County, Missouri","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,16,16,17,177996,42136,453,838
+"29103",5,"621111",78,0,2013,3,"","Knox County, Missouri","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,16,16,16,191050,18780,154,919
+"29103",5,"6212",76,0,2013,1,"N","Knox County, Missouri","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"6212",76,0,2013,2,"N","Knox County, Missouri","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"6212",76,0,2013,3,"N","Knox County, Missouri","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"62121",77,0,2013,1,"N","Knox County, Missouri","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"62121",77,0,2013,2,"N","Knox County, Missouri","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"62121",77,0,2013,3,"N","Knox County, Missouri","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"621210",78,0,2013,1,"N","Knox County, Missouri","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"621210",78,0,2013,2,"N","Knox County, Missouri","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"621210",78,0,2013,3,"N","Knox County, Missouri","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"6214",76,0,2013,1,"N","Knox County, Missouri","Private","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"6214",76,0,2013,2,"N","Knox County, Missouri","Private","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"6214",76,0,2013,3,"N","Knox County, Missouri","Private","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"62142",77,0,2013,1,"N","Knox County, Missouri","Private","Outpatient mental health centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"62142",77,0,2013,2,"N","Knox County, Missouri","Private","Outpatient mental health centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"62142",77,0,2013,3,"N","Knox County, Missouri","Private","Outpatient mental health centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"621420",78,0,2013,1,"N","Knox County, Missouri","Private","Outpatient mental health centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"621420",78,0,2013,2,"N","Knox County, Missouri","Private","Outpatient mental health centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"621420",78,0,2013,3,"N","Knox County, Missouri","Private","Outpatient mental health centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"624",75,0,2013,1,"","Knox County, Missouri","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",13,38,37,34,106118,45819,2408,225
+"29103",5,"624",75,0,2013,2,"","Knox County, Missouri","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",12,36,36,30,114704,54038,3009,260
+"29103",5,"624",75,0,2013,3,"","Knox County, Missouri","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,31,29,35,86238,26577,986,209
+"29103",5,"6241",76,0,2013,1,"N","Knox County, Missouri","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"29103",5,"6241",76,0,2013,2,"N","Knox County, Missouri","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"29103",5,"6241",76,0,2013,3,"N","Knox County, Missouri","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"29103",5,"62412",77,0,2013,1,"","Knox County, Missouri","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",11,21,20,17,38549,18070,388,153
+"29103",5,"62412",77,0,2013,2,"","Knox County, Missouri","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",10,18,18,14,37422,18492,421,173
+"29103",5,"62412",77,0,2013,3,"","Knox County, Missouri","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",8,17,18,16,33619,16087,222,152
+"29103",5,"624120",78,0,2013,1,"","Knox County, Missouri","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",11,21,20,17,38549,18070,388,153
+"29103",5,"624120",78,0,2013,2,"","Knox County, Missouri","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",10,18,18,14,37422,18492,421,173
+"29103",5,"624120",78,0,2013,3,"","Knox County, Missouri","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",8,17,18,16,33619,16087,222,152
+"29103",5,"62419",77,0,2013,1,"N","Knox County, Missouri","Private","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"62419",77,0,2013,2,"N","Knox County, Missouri","Private","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"62419",77,0,2013,3,"N","Knox County, Missouri","Private","Other individual and family services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"624190",78,0,2013,1,"N","Knox County, Missouri","Private","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"624190",78,0,2013,2,"N","Knox County, Missouri","Private","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"624190",78,0,2013,3,"N","Knox County, Missouri","Private","Other individual and family services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"6244",76,0,2013,1,"N","Knox County, Missouri","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"6244",76,0,2013,2,"N","Knox County, Missouri","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"6244",76,0,2013,3,"N","Knox County, Missouri","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"62441",77,0,2013,1,"N","Knox County, Missouri","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"62441",77,0,2013,2,"N","Knox County, Missouri","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"62441",77,0,2013,3,"N","Knox County, Missouri","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"624410",78,0,2013,1,"N","Knox County, Missouri","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"624410",78,0,2013,2,"N","Knox County, Missouri","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"624410",78,0,2013,3,"N","Knox County, Missouri","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"71",74,0,2013,1,"N","Knox County, Missouri","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"71",74,0,2013,2,"N","Knox County, Missouri","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"71",74,0,2013,3,"N","Knox County, Missouri","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"713",75,0,2013,1,"N","Knox County, Missouri","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"713",75,0,2013,2,"N","Knox County, Missouri","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"713",75,0,2013,3,"N","Knox County, Missouri","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"7139",76,0,2013,1,"N","Knox County, Missouri","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"7139",76,0,2013,2,"N","Knox County, Missouri","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"7139",76,0,2013,3,"N","Knox County, Missouri","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"71394",77,0,2013,1,"N","Knox County, Missouri","Private","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"71394",77,0,2013,2,"N","Knox County, Missouri","Private","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"71394",77,0,2013,3,"N","Knox County, Missouri","Private","Fitness and recreational sports centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"713940",78,0,2013,1,"N","Knox County, Missouri","Private","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"713940",78,0,2013,2,"N","Knox County, Missouri","Private","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"713940",78,0,2013,3,"N","Knox County, Missouri","Private","Fitness and recreational sports centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"72",74,0,2013,1,"N","Knox County, Missouri","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"29103",5,"72",74,0,2013,2,"N","Knox County, Missouri","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"29103",5,"72",74,0,2013,3,"N","Knox County, Missouri","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"29103",5,"722",75,0,2013,1,"N","Knox County, Missouri","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"29103",5,"722",75,0,2013,2,"N","Knox County, Missouri","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"29103",5,"722",75,0,2013,3,"N","Knox County, Missouri","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"29103",5,"7224",76,0,2013,1,"N","Knox County, Missouri","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"7224",76,0,2013,2,"N","Knox County, Missouri","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"7224",76,0,2013,3,"N","Knox County, Missouri","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"72241",77,0,2013,1,"N","Knox County, Missouri","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"72241",77,0,2013,2,"N","Knox County, Missouri","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"72241",77,0,2013,3,"N","Knox County, Missouri","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"722410",78,0,2013,1,"N","Knox County, Missouri","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"722410",78,0,2013,2,"N","Knox County, Missouri","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"722410",78,0,2013,3,"N","Knox County, Missouri","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"7225",76,0,2013,1,"","Knox County, Missouri","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,51,52,50,121017,121017,1398,183
+"29103",5,"7225",76,0,2013,2,"","Knox County, Missouri","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,49,51,53,141738,130760,1538,214
+"29103",5,"7225",76,0,2013,3,"","Knox County, Missouri","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,64,59,62,131572,100123,1253,164
+"29103",5,"72251",77,0,2013,1,"","Knox County, Missouri","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,51,52,50,121017,121017,1398,183
+"29103",5,"72251",77,0,2013,2,"","Knox County, Missouri","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,49,51,53,141738,130760,1538,214
+"29103",5,"72251",77,0,2013,3,"","Knox County, Missouri","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,64,59,62,131572,100123,1253,164
+"29103",5,"722511",78,0,2013,1,"","Knox County, Missouri","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,51,52,50,121017,121017,1398,183
+"29103",5,"722511",78,0,2013,2,"","Knox County, Missouri","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,49,51,53,141738,130760,1538,214
+"29103",5,"722511",78,0,2013,3,"N","Knox County, Missouri","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"29103",5,"722515",78,0,2013,1,"-","Knox County, Missouri","Private","Snack and nonalcoholic beverage bars","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"29103",5,"722515",78,0,2013,2,"-","Knox County, Missouri","Private","Snack and nonalcoholic beverage bars","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"29103",5,"722515",78,0,2013,3,"N","Knox County, Missouri","Private","Snack and nonalcoholic beverage bars","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"81",74,0,2013,1,"","Knox County, Missouri","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",11,150,154,150,525675,90606,1331,267
+"29103",5,"81",74,0,2013,2,"","Knox County, Missouri","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",12,156,162,154,642456,119336,1944,314
+"29103",5,"81",74,0,2013,3,"","Knox County, Missouri","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",12,158,148,150,571533,82653,1420,289
+"29103",5,"811",75,0,2013,1,"","Knox County, Missouri","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,18,20,21,88336,88336,1331,346
+"29103",5,"811",75,0,2013,2,"","Knox County, Missouri","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,27,27,25,118684,111284,1944,347
+"29103",5,"811",75,0,2013,3,"","Knox County, Missouri","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,33,25,26,115794,77550,1420,318
+"29103",5,"8111",76,0,2013,1,"","Knox County, Missouri","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,14,16,17,73911,73911,1287,363
+"29103",5,"8111",76,0,2013,2,"","Knox County, Missouri","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,23,23,21,96259,92759,1713,332
+"29103",5,"8111",76,0,2013,3,"","Knox County, Missouri","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,29,20,21,89508,59714,1053,295
+"29103",5,"81111",77,0,2013,1,"N","Knox County, Missouri","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"29103",5,"81111",77,0,2013,2,"","Knox County, Missouri","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,6,6,5,23188,19688,329,315
+"29103",5,"81111",77,0,2013,3,"","Knox County, Missouri","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,5,5,6,21197,12747,173,306
+"29103",5,"811111",78,0,2013,1,"N","Knox County, Missouri","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"29103",5,"811111",78,0,2013,2,"","Knox County, Missouri","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,6,6,5,23188,19688,329,315
+"29103",5,"811111",78,0,2013,3,"","Knox County, Missouri","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,5,5,6,21197,12747,173,306
+"29103",5,"81112",77,0,2013,1,"N","Knox County, Missouri","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"81112",77,0,2013,2,"","Knox County, Missouri","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,17,17,16,73071,73071,1384,337
+"29103",5,"81112",77,0,2013,3,"","Knox County, Missouri","Private","Automotive body, interior, and glass repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,24,15,15,68311,46967,880,292
+"29103",5,"811121",78,0,2013,1,"N","Knox County, Missouri","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"811121",78,0,2013,2,"","Knox County, Missouri","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,17,17,16,73071,73071,1384,337
+"29103",5,"811121",78,0,2013,3,"","Knox County, Missouri","Private","Automotive body and interior repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,24,15,15,68311,46967,880,292
+"29103",5,"8113",76,0,2013,1,"N","Knox County, Missouri","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"8113",76,0,2013,2,"N","Knox County, Missouri","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"8113",76,0,2013,3,"N","Knox County, Missouri","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"81131",77,0,2013,1,"N","Knox County, Missouri","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"81131",77,0,2013,2,"N","Knox County, Missouri","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"81131",77,0,2013,3,"N","Knox County, Missouri","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"811310",78,0,2013,1,"N","Knox County, Missouri","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"811310",78,0,2013,2,"N","Knox County, Missouri","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"811310",78,0,2013,3,"N","Knox County, Missouri","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"8114",76,0,2013,1,"N","Knox County, Missouri","Private","Household goods repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"8114",76,0,2013,2,"N","Knox County, Missouri","Private","Household goods repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"8114",76,0,2013,3,"N","Knox County, Missouri","Private","Household goods repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"29103",5,"81141",77,0,2013,1,"N","Knox County, Missouri","Private","Home and garden equip. and appliance repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"81141",77,0,2013,2,"N","Knox County, Missouri","Private","Home and garden equip. and appliance repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"81141",77,0,2013,3,"N","Knox County, Missouri","Private","Home and garden equip. and appliance repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"811412",78,0,2013,1,"N","Knox County, Missouri","Private","Appliance repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"811412",78,0,2013,2,"N","Knox County, Missouri","Private","Appliance repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"811412",78,0,2013,3,"N","Knox County, Missouri","Private","Appliance repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"81149",77,0,2013,1,"N","Knox County, Missouri","Private","Other household goods repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"81149",77,0,2013,2,"N","Knox County, Missouri","Private","Other household goods repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"81149",77,0,2013,3,"N","Knox County, Missouri","Private","Other household goods repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"811490",78,0,2013,1,"N","Knox County, Missouri","Private","Other household goods repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"811490",78,0,2013,2,"N","Knox County, Missouri","Private","Other household goods repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"811490",78,0,2013,3,"N","Knox County, Missouri","Private","Other household goods repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"812",75,0,2013,1,"N","Knox County, Missouri","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"812",75,0,2013,2,"N","Knox County, Missouri","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"812",75,0,2013,3,"N","Knox County, Missouri","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"8122",76,0,2013,1,"N","Knox County, Missouri","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"8122",76,0,2013,2,"N","Knox County, Missouri","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"8122",76,0,2013,3,"N","Knox County, Missouri","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"81221",77,0,2013,1,"N","Knox County, Missouri","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"81221",77,0,2013,2,"N","Knox County, Missouri","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"81221",77,0,2013,3,"N","Knox County, Missouri","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"812210",78,0,2013,1,"N","Knox County, Missouri","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"812210",78,0,2013,2,"N","Knox County, Missouri","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"812210",78,0,2013,3,"N","Knox County, Missouri","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"813",75,0,2013,1,"N","Knox County, Missouri","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"813",75,0,2013,2,"N","Knox County, Missouri","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"813",75,0,2013,3,"N","Knox County, Missouri","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"8131",76,0,2013,1,"N","Knox County, Missouri","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"8131",76,0,2013,2,"N","Knox County, Missouri","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"8131",76,0,2013,3,"N","Knox County, Missouri","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"81311",77,0,2013,1,"N","Knox County, Missouri","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"81311",77,0,2013,2,"N","Knox County, Missouri","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"81311",77,0,2013,3,"N","Knox County, Missouri","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"813110",78,0,2013,1,"N","Knox County, Missouri","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"813110",78,0,2013,2,"N","Knox County, Missouri","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"29103",5,"813110",78,0,2013,3,"N","Knox County, Missouri","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

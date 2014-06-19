@@ -1,0 +1,707 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"31077",0,"10",70,0,2013,1,"","Greeley County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",116,613,616,607,3921467,2064844,31183,493
+"31077",0,"10",70,0,2013,2,"","Greeley County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",117,615,666,672,4548593,884000,14335,537
+"31077",0,"10",70,0,2013,3,"","Greeley County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",119,655,647,636,4553782,484833,7937,542
+"31077",1,"10",71,0,2013,1,"","Greeley County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,18,17,16,111210,0,0,503
+"31077",1,"10",71,0,2013,2,"","Greeley County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,15,16,16,127522,0,0,626
+"31077",1,"10",71,0,2013,3,"","Greeley County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,17,17,12,111347,0,0,559
+"31077",1,"102",72,0,2013,1,"","Greeley County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,18,17,16,111210,0,0,503
+"31077",1,"102",72,0,2013,2,"","Greeley County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,15,16,16,127522,0,0,626
+"31077",1,"102",72,0,2013,3,"","Greeley County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,17,17,12,111347,0,0,559
+"31077",1,"1021",73,0,2013,1,"","Greeley County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",4,16,15,14,79044,0,0,405
+"31077",1,"1021",73,0,2013,2,"","Greeley County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",4,13,15,14,93354,0,0,513
+"31077",1,"1021",73,0,2013,3,"","Greeley County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",4,15,14,9,60253,0,0,366
+"31077",1,"1028",73,0,2013,1,"","Greeley County, Nebraska","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,2,2,2,32166,0,0,1237
+"31077",1,"1028",73,0,2013,2,"","Greeley County, Nebraska","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,2,1,2,34168,0,0,1577
+"31077",1,"1028",73,0,2013,3,"","Greeley County, Nebraska","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,2,3,3,51094,0,0,1474
+"31077",1,"48-49",74,0,2013,1,"","Greeley County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,16,15,14,79044,0,0,405
+"31077",1,"48-49",74,0,2013,2,"","Greeley County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,13,15,14,93354,0,0,513
+"31077",1,"48-49",74,0,2013,3,"","Greeley County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,15,14,9,60253,0,0,366
+"31077",1,"491",75,0,2013,1,"","Greeley County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,16,15,14,79044,0,0,405
+"31077",1,"491",75,0,2013,2,"","Greeley County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,13,15,14,93354,0,0,513
+"31077",1,"491",75,0,2013,3,"","Greeley County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,15,14,9,60253,0,0,366
+"31077",1,"4911",76,0,2013,1,"","Greeley County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,16,15,14,79044,0,0,405
+"31077",1,"4911",76,0,2013,2,"","Greeley County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,13,15,14,93354,0,0,513
+"31077",1,"4911",76,0,2013,3,"","Greeley County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,15,14,9,60253,0,0,366
+"31077",1,"49111",77,0,2013,1,"","Greeley County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,16,15,14,79044,0,0,405
+"31077",1,"49111",77,0,2013,2,"","Greeley County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,13,15,14,93354,0,0,513
+"31077",1,"49111",77,0,2013,3,"","Greeley County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,15,14,9,60253,0,0,366
+"31077",1,"491110",78,0,2013,1,"","Greeley County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,16,15,14,79044,0,0,405
+"31077",1,"491110",78,0,2013,2,"","Greeley County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,13,15,14,93354,0,0,513
+"31077",1,"491110",78,0,2013,3,"","Greeley County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,15,14,9,60253,0,0,366
+"31077",1,"92",74,0,2013,1,"","Greeley County, Nebraska","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,2,2,2,32166,0,0,1237
+"31077",1,"92",74,0,2013,2,"","Greeley County, Nebraska","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,2,1,2,34168,0,0,1577
+"31077",1,"92",74,0,2013,3,"","Greeley County, Nebraska","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,2,3,3,51094,0,0,1474
+"31077",1,"922",75,0,2013,1,"","Greeley County, Nebraska","Federal Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,1,1,14863,0,0,1715
+"31077",1,"922",75,0,2013,2,"","Greeley County, Nebraska","Federal Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,0,1,14658,0,0,1691
+"31077",1,"922",75,0,2013,3,"","Greeley County, Nebraska","Federal Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,26784,0,0,2060
+"31077",1,"9221",76,0,2013,1,"","Greeley County, Nebraska","Federal Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,1,1,14863,0,0,1715
+"31077",1,"9221",76,0,2013,2,"","Greeley County, Nebraska","Federal Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,0,1,14658,0,0,1691
+"31077",1,"9221",76,0,2013,3,"","Greeley County, Nebraska","Federal Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,26784,0,0,2060
+"31077",1,"92219",77,0,2013,1,"","Greeley County, Nebraska","Federal Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,1,1,14863,0,0,1715
+"31077",1,"92219",77,0,2013,2,"","Greeley County, Nebraska","Federal Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,0,1,14658,0,0,1691
+"31077",1,"92219",77,0,2013,3,"","Greeley County, Nebraska","Federal Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,26784,0,0,2060
+"31077",1,"922190",78,0,2013,1,"","Greeley County, Nebraska","Federal Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,1,1,14863,0,0,1715
+"31077",1,"922190",78,0,2013,2,"","Greeley County, Nebraska","Federal Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,0,1,14658,0,0,1691
+"31077",1,"922190",78,0,2013,3,"","Greeley County, Nebraska","Federal Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,26784,0,0,2060
+"31077",1,"924",75,0,2013,1,"","Greeley County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,1,1,17303,0,0,998
+"31077",1,"924",75,0,2013,2,"","Greeley County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,1,1,19510,0,0,1501
+"31077",1,"924",75,0,2013,3,"","Greeley County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,1,2,2,24310,0,0,1122
+"31077",1,"9241",76,0,2013,1,"","Greeley County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,1,1,17303,0,0,998
+"31077",1,"9241",76,0,2013,2,"","Greeley County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,1,1,19510,0,0,1501
+"31077",1,"9241",76,0,2013,3,"","Greeley County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,1,2,2,24310,0,0,1122
+"31077",1,"92412",77,0,2013,1,"","Greeley County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,1,1,17303,0,0,998
+"31077",1,"92412",77,0,2013,2,"","Greeley County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,19510,0,0,1501
+"31077",1,"92412",77,0,2013,3,"","Greeley County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,2,2,24310,0,0,1122
+"31077",1,"924120",78,0,2013,1,"","Greeley County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,1,1,17303,0,0,998
+"31077",1,"924120",78,0,2013,2,"","Greeley County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,19510,0,0,1501
+"31077",1,"924120",78,0,2013,3,"","Greeley County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,2,2,24310,0,0,1122
+"31077",2,"10",71,0,2013,1,"","Greeley County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,7,8,7,71355,0,0,748
+"31077",2,"10",71,0,2013,2,"N","Greeley County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31077",2,"10",71,0,2013,3,"","Greeley County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,7,8,8,66126,0,0,663
+"31077",2,"102",72,0,2013,1,"","Greeley County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,7,8,7,71355,0,0,748
+"31077",2,"102",72,0,2013,2,"N","Greeley County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31077",2,"102",72,0,2013,3,"","Greeley County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,7,8,8,66126,0,0,663
+"31077",2,"1028",73,0,2013,1,"","Greeley County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,7,8,7,71355,0,0,748
+"31077",2,"1028",73,0,2013,2,"N","Greeley County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31077",2,"1028",73,0,2013,3,"","Greeley County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,7,8,8,66126,0,0,663
+"31077",2,"92",74,0,2013,1,"","Greeley County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,7,8,7,71355,0,0,748
+"31077",2,"92",74,0,2013,2,"N","Greeley County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31077",2,"92",74,0,2013,3,"","Greeley County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,7,8,8,66126,0,0,663
+"31077",2,"921",75,0,2013,1,"N","Greeley County, Nebraska","State Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"921",75,0,2013,2,"N","Greeley County, Nebraska","State Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"921",75,0,2013,3,"N","Greeley County, Nebraska","State Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"9211",76,0,2013,1,"N","Greeley County, Nebraska","State Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"9211",76,0,2013,2,"N","Greeley County, Nebraska","State Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"9211",76,0,2013,3,"N","Greeley County, Nebraska","State Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"92113",77,0,2013,1,"N","Greeley County, Nebraska","State Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"92113",77,0,2013,2,"N","Greeley County, Nebraska","State Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"92113",77,0,2013,3,"N","Greeley County, Nebraska","State Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"921130",78,0,2013,1,"N","Greeley County, Nebraska","State Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"921130",78,0,2013,2,"N","Greeley County, Nebraska","State Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"921130",78,0,2013,3,"N","Greeley County, Nebraska","State Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"922",75,0,2013,1,"N","Greeley County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"922",75,0,2013,2,"N","Greeley County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"922",75,0,2013,3,"N","Greeley County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"9221",76,0,2013,1,"N","Greeley County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"9221",76,0,2013,2,"N","Greeley County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"9221",76,0,2013,3,"N","Greeley County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"92211",77,0,2013,1,"N","Greeley County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"92211",77,0,2013,2,"N","Greeley County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"92211",77,0,2013,3,"N","Greeley County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"922110",78,0,2013,1,"N","Greeley County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"922110",78,0,2013,2,"N","Greeley County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"922110",78,0,2013,3,"N","Greeley County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"926",75,0,2013,1,"N","Greeley County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",2,"926",75,0,2013,2,"N","Greeley County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",2,"926",75,0,2013,3,"N","Greeley County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",2,"9261",76,0,2013,1,"N","Greeley County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",2,"9261",76,0,2013,2,"N","Greeley County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",2,"9261",76,0,2013,3,"N","Greeley County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",2,"92611",77,0,2013,1,"N","Greeley County, Nebraska","State Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"92611",77,0,2013,2,"N","Greeley County, Nebraska","State Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"92611",77,0,2013,3,"N","Greeley County, Nebraska","State Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"926110",78,0,2013,1,"N","Greeley County, Nebraska","State Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"926110",78,0,2013,2,"N","Greeley County, Nebraska","State Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"926110",78,0,2013,3,"N","Greeley County, Nebraska","State Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"92612",77,0,2013,1,"N","Greeley County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"92612",77,0,2013,2,"N","Greeley County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"92612",77,0,2013,3,"N","Greeley County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"926120",78,0,2013,1,"N","Greeley County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"926120",78,0,2013,2,"N","Greeley County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"926120",78,0,2013,3,"N","Greeley County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",2,"92614",77,0,2013,1,"N","Greeley County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",2,"92614",77,0,2013,2,"N","Greeley County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",2,"92614",77,0,2013,3,"N","Greeley County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",2,"926140",78,0,2013,1,"N","Greeley County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",2,"926140",78,0,2013,2,"N","Greeley County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",2,"926140",78,0,2013,3,"N","Greeley County, Nebraska","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",3,"10",71,0,2013,1,"","Greeley County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",13,246,256,251,1472258,189581,2172,451
+"31077",3,"10",71,0,2013,2,"N","Greeley County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"31077",3,"10",71,0,2013,3,"","Greeley County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",13,255,250,248,1571868,79623,988,482
+"31077",3,"102",72,0,2013,1,"","Greeley County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",13,246,256,251,1472258,189581,2172,451
+"31077",3,"102",72,0,2013,2,"N","Greeley County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"31077",3,"102",72,0,2013,3,"","Greeley County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",13,255,250,248,1571868,79623,988,482
+"31077",3,"1025",73,0,2013,1,"","Greeley County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,184,191,188,1111883,0,0,456
+"31077",3,"1025",73,0,2013,2,"","Greeley County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,184,181,175,1131688,0,0,484
+"31077",3,"1025",73,0,2013,3,"","Greeley County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,141,138,173,1095278,0,0,559
+"31077",3,"1028",73,0,2013,1,"","Greeley County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",8,62,65,63,360375,189581,2172,438
+"31077",3,"1028",73,0,2013,2,"N","Greeley County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31077",3,"1028",73,0,2013,3,"","Greeley County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",8,114,112,75,476590,79623,988,365
+"31077",3,"61",74,0,2013,1,"N","Greeley County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",3,"61",74,0,2013,2,"N","Greeley County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",3,"61",74,0,2013,3,"N","Greeley County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",3,"611",75,0,2013,1,"N","Greeley County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",3,"611",75,0,2013,2,"N","Greeley County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",3,"611",75,0,2013,3,"N","Greeley County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",3,"6111",76,0,2013,1,"N","Greeley County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",3,"6111",76,0,2013,2,"N","Greeley County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",3,"6111",76,0,2013,3,"N","Greeley County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",3,"61111",77,0,2013,1,"N","Greeley County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",3,"61111",77,0,2013,2,"N","Greeley County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",3,"61111",77,0,2013,3,"N","Greeley County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",3,"611110",78,0,2013,1,"N","Greeley County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",3,"611110",78,0,2013,2,"N","Greeley County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",3,"611110",78,0,2013,3,"N","Greeley County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",3,"62",74,0,2013,1,"N","Greeley County, Nebraska","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",3,"62",74,0,2013,2,"N","Greeley County, Nebraska","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",3,"62",74,0,2013,3,"N","Greeley County, Nebraska","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",3,"621",75,0,2013,1,"N","Greeley County, Nebraska","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"621",75,0,2013,2,"N","Greeley County, Nebraska","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"621",75,0,2013,3,"N","Greeley County, Nebraska","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"6211",76,0,2013,1,"N","Greeley County, Nebraska","Local Government","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"6211",76,0,2013,2,"N","Greeley County, Nebraska","Local Government","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"6211",76,0,2013,3,"N","Greeley County, Nebraska","Local Government","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"62111",77,0,2013,1,"N","Greeley County, Nebraska","Local Government","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"62111",77,0,2013,2,"N","Greeley County, Nebraska","Local Government","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"62111",77,0,2013,3,"N","Greeley County, Nebraska","Local Government","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"621111",78,0,2013,1,"N","Greeley County, Nebraska","Local Government","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"621111",78,0,2013,2,"N","Greeley County, Nebraska","Local Government","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"621111",78,0,2013,3,"N","Greeley County, Nebraska","Local Government","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"623",75,0,2013,1,"N","Greeley County, Nebraska","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"623",75,0,2013,2,"N","Greeley County, Nebraska","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"623",75,0,2013,3,"N","Greeley County, Nebraska","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"6231",76,0,2013,1,"N","Greeley County, Nebraska","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"6231",76,0,2013,2,"N","Greeley County, Nebraska","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"6231",76,0,2013,3,"N","Greeley County, Nebraska","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"62311",77,0,2013,1,"N","Greeley County, Nebraska","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"62311",77,0,2013,2,"N","Greeley County, Nebraska","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"62311",77,0,2013,3,"N","Greeley County, Nebraska","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"623110",78,0,2013,1,"N","Greeley County, Nebraska","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"623110",78,0,2013,2,"N","Greeley County, Nebraska","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"623110",78,0,2013,3,"N","Greeley County, Nebraska","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"92",74,0,2013,1,"","Greeley County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",8,62,65,63,360375,189581,2172,438
+"31077",3,"92",74,0,2013,2,"N","Greeley County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31077",3,"92",74,0,2013,3,"","Greeley County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",8,114,112,75,476590,79623,988,365
+"31077",3,"921",75,0,2013,1,"","Greeley County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,43,45,44,190062,67069,837,332
+"31077",3,"921",75,0,2013,2,"","Greeley County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,43,70,87,225128,63553,782,260
+"31077",3,"921",75,0,2013,3,"","Greeley County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,93,91,54,258635,72766,913,251
+"31077",3,"9211",76,0,2013,1,"","Greeley County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,43,45,44,190062,67069,837,332
+"31077",3,"9211",76,0,2013,2,"","Greeley County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,43,70,87,225128,63553,782,260
+"31077",3,"9211",76,0,2013,3,"","Greeley County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,93,91,54,258635,72766,913,251
+"31077",3,"92114",77,0,2013,1,"","Greeley County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,43,45,44,190062,67069,837,332
+"31077",3,"92114",77,0,2013,2,"","Greeley County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,43,70,87,225128,63553,782,260
+"31077",3,"92114",77,0,2013,3,"","Greeley County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,93,91,54,258635,72766,913,251
+"31077",3,"921140",78,0,2013,1,"","Greeley County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,43,45,44,190062,67069,837,332
+"31077",3,"921140",78,0,2013,2,"","Greeley County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,43,70,87,225128,63553,782,260
+"31077",3,"921140",78,0,2013,3,"","Greeley County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,93,91,54,258635,72766,913,251
+"31077",3,"924",75,0,2013,1,"N","Greeley County, Nebraska","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"924",75,0,2013,2,"N","Greeley County, Nebraska","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"924",75,0,2013,3,"N","Greeley County, Nebraska","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"9241",76,0,2013,1,"N","Greeley County, Nebraska","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"9241",76,0,2013,2,"N","Greeley County, Nebraska","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"9241",76,0,2013,3,"N","Greeley County, Nebraska","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"92412",77,0,2013,1,"N","Greeley County, Nebraska","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"92412",77,0,2013,2,"N","Greeley County, Nebraska","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"92412",77,0,2013,3,"N","Greeley County, Nebraska","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"924120",78,0,2013,1,"N","Greeley County, Nebraska","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"924120",78,0,2013,2,"N","Greeley County, Nebraska","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"924120",78,0,2013,3,"N","Greeley County, Nebraska","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"925",75,0,2013,1,"N","Greeley County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"925",75,0,2013,2,"N","Greeley County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"925",75,0,2013,3,"N","Greeley County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"9251",76,0,2013,1,"N","Greeley County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"9251",76,0,2013,2,"N","Greeley County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"9251",76,0,2013,3,"N","Greeley County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"92511",77,0,2013,1,"N","Greeley County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"92511",77,0,2013,2,"N","Greeley County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"92511",77,0,2013,3,"N","Greeley County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"925110",78,0,2013,1,"N","Greeley County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"925110",78,0,2013,2,"N","Greeley County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"925110",78,0,2013,3,"N","Greeley County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"926",75,0,2013,1,"N","Greeley County, Nebraska","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"926",75,0,2013,2,"N","Greeley County, Nebraska","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"926",75,0,2013,3,"N","Greeley County, Nebraska","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"9261",76,0,2013,1,"N","Greeley County, Nebraska","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"9261",76,0,2013,2,"N","Greeley County, Nebraska","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"9261",76,0,2013,3,"N","Greeley County, Nebraska","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"92613",77,0,2013,1,"N","Greeley County, Nebraska","Local Government","Utility regulation and administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"92613",77,0,2013,2,"N","Greeley County, Nebraska","Local Government","Utility regulation and administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"92613",77,0,2013,3,"N","Greeley County, Nebraska","Local Government","Utility regulation and administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"926130",78,0,2013,1,"N","Greeley County, Nebraska","Local Government","Utility regulation and administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"926130",78,0,2013,2,"N","Greeley County, Nebraska","Local Government","Utility regulation and administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",3,"926130",78,0,2013,3,"N","Greeley County, Nebraska","Local Government","Utility regulation and administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"10",71,0,2013,1,"","Greeley County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",91,342,335,333,2266644,1875263,29011,518
+"31077",5,"10",71,0,2013,2,"","Greeley County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",92,346,372,366,2797111,807020,13407,595
+"31077",5,"10",71,0,2013,3,"","Greeley County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",94,376,372,368,2804441,405210,6949,580
+"31077",5,"101",72,0,2013,1,"","Greeley County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",33,125,118,117,923948,805216,14324,592
+"31077",5,"101",72,0,2013,2,"","Greeley County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",33,119,120,125,879132,235440,3812,557
+"31077",5,"101",72,0,2013,3,"","Greeley County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",34,131,131,130,1036224,168581,3399,610
+"31077",5,"1011",73,0,2013,1,"","Greeley County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",15,68,67,66,562287,483420,9288,646
+"31077",5,"1011",73,0,2013,2,"","Greeley County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",15,63,65,66,505614,108556,1604,601
+"31077",5,"1011",73,0,2013,3,"","Greeley County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",15,65,67,65,564877,83892,1258,662
+"31077",5,"1012",73,0,2013,1,"","Greeley County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",11,25,23,23,171912,159557,2047,559
+"31077",5,"1012",73,0,2013,2,"","Greeley County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",11,25,22,23,191570,60315,998,632
+"31077",5,"1012",73,0,2013,3,"","Greeley County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",12,28,27,27,217985,39074,962,613
+"31077",5,"1013",73,0,2013,1,"","Greeley County, Nebraska","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",7,32,28,28,189749,162239,2989,498
+"31077",5,"1013",73,0,2013,2,"","Greeley County, Nebraska","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",7,31,33,36,181948,66569,1210,420
+"31077",5,"1013",73,0,2013,3,"","Greeley County, Nebraska","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",7,38,37,38,253362,45615,1179,517
+"31077",5,"102",72,0,2013,1,"","Greeley County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",58,217,217,216,1342696,1070047,14687,477
+"31077",5,"102",72,0,2013,2,"","Greeley County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",59,227,252,241,1917979,571580,9595,615
+"31077",5,"102",72,0,2013,3,"","Greeley County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",60,245,241,238,1768217,236629,3550,564
+"31077",5,"1021",73,0,2013,1,"","Greeley County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",21,141,141,144,889560,748865,10702,482
+"31077",5,"1021",73,0,2013,2,"","Greeley County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",21,152,173,163,1406471,438469,7303,665
+"31077",5,"1021",73,0,2013,3,"","Greeley County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",21,162,153,145,1255871,144608,2019,630
+"31077",5,"1022",73,0,2013,1,"N","Greeley County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",5,"1022",73,0,2013,2,"N","Greeley County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",5,"1022",73,0,2013,3,"N","Greeley County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",5,"1023",73,0,2013,1,"","Greeley County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",8,38,37,37,338495,226504,2255,697
+"31077",5,"1023",73,0,2013,2,"","Greeley County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",9,40,39,40,373195,63759,858,724
+"31077",5,"1023",73,0,2013,3,"","Greeley County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",9,40,40,40,361151,20223,293,695
+"31077",5,"1024",73,0,2013,1,"N","Greeley County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"1024",73,0,2013,2,"N","Greeley County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"1024",73,0,2013,3,"N","Greeley County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"1025",73,0,2013,1,"","Greeley County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",16,12,14,11,18660,18660,281,116
+"31077",5,"1025",73,0,2013,2,"","Greeley County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",16,10,11,11,22550,19328,303,163
+"31077",5,"1025",73,0,2013,3,"","Greeley County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",16,8,9,11,16928,12259,186,140
+"31077",5,"1026",73,0,2013,1,"","Greeley County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",4,11,12,10,17481,17481,339,122
+"31077",5,"1026",73,0,2013,2,"","Greeley County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",4,10,13,12,24385,24385,494,161
+"31077",5,"1026",73,0,2013,3,"","Greeley County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",5,18,23,27,43340,40940,720,147
+"31077",5,"1027",73,0,2013,1,"","Greeley County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",4,9,8,9,36881,36881,827,327
+"31077",5,"1027",73,0,2013,2,"","Greeley County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",4,9,9,9,42623,21686,567,364
+"31077",5,"1027",73,0,2013,3,"","Greeley County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",4,11,9,9,48855,15831,277,389
+"31077",5,"11",74,0,2013,1,"","Greeley County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",15,68,67,66,562287,483420,9288,646
+"31077",5,"11",74,0,2013,2,"","Greeley County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",15,63,65,66,505614,108556,1604,601
+"31077",5,"11",74,0,2013,3,"","Greeley County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",15,65,67,65,564877,83892,1258,662
+"31077",5,"111",75,0,2013,1,"","Greeley County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,11,11,10,81885,53537,909,591
+"31077",5,"111",75,0,2013,2,"","Greeley County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,11,12,13,91443,25340,436,586
+"31077",5,"111",75,0,2013,3,"","Greeley County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,13,13,12,96317,23881,304,585
+"31077",5,"1111",76,0,2013,1,"","Greeley County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,11,11,10,81885,53537,909,591
+"31077",5,"1111",76,0,2013,2,"","Greeley County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,11,12,13,91443,25340,436,586
+"31077",5,"1111",76,0,2013,3,"","Greeley County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,13,13,12,96317,23881,304,585
+"31077",5,"11119",77,0,2013,1,"","Greeley County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,11,11,10,81885,53537,909,591
+"31077",5,"11119",77,0,2013,2,"","Greeley County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,11,12,13,91443,25340,436,586
+"31077",5,"11119",77,0,2013,3,"","Greeley County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,13,13,12,96317,23881,304,585
+"31077",5,"111191",78,0,2013,1,"","Greeley County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,11,11,10,81885,53537,909,591
+"31077",5,"111191",78,0,2013,2,"","Greeley County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,11,12,13,91443,25340,436,586
+"31077",5,"111191",78,0,2013,3,"","Greeley County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,13,13,12,96317,23881,304,585
+"31077",5,"112",75,0,2013,1,"","Greeley County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",11,57,56,56,480402,429883,8379,656
+"31077",5,"112",75,0,2013,2,"","Greeley County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",11,52,53,53,414171,83216,1168,605
+"31077",5,"112",75,0,2013,3,"","Greeley County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",11,52,54,53,468560,60011,954,680
+"31077",5,"1121",76,0,2013,1,"N","Greeley County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"1121",76,0,2013,2,"N","Greeley County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"1121",76,0,2013,3,"N","Greeley County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"11211",77,0,2013,1,"N","Greeley County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"11211",77,0,2013,2,"N","Greeley County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"11211",77,0,2013,3,"N","Greeley County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"112111",78,0,2013,1,"N","Greeley County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"112111",78,0,2013,2,"N","Greeley County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"112111",78,0,2013,3,"N","Greeley County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"112112",78,0,2013,1,"N","Greeley County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"112112",78,0,2013,2,"N","Greeley County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"112112",78,0,2013,3,"N","Greeley County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"1122",76,0,2013,1,"N","Greeley County, Nebraska","Private","Hog and pig farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31077",5,"1122",76,0,2013,2,"N","Greeley County, Nebraska","Private","Hog and pig farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31077",5,"1122",76,0,2013,3,"N","Greeley County, Nebraska","Private","Hog and pig farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31077",5,"11221",77,0,2013,1,"N","Greeley County, Nebraska","Private","Hog and pig farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31077",5,"11221",77,0,2013,2,"N","Greeley County, Nebraska","Private","Hog and pig farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31077",5,"11221",77,0,2013,3,"N","Greeley County, Nebraska","Private","Hog and pig farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31077",5,"112210",78,0,2013,1,"N","Greeley County, Nebraska","Private","Hog and pig farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31077",5,"112210",78,0,2013,2,"N","Greeley County, Nebraska","Private","Hog and pig farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31077",5,"112210",78,0,2013,3,"N","Greeley County, Nebraska","Private","Hog and pig farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"31077",5,"23",74,0,2013,1,"","Greeley County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",11,25,23,23,171912,159557,2047,559
+"31077",5,"23",74,0,2013,2,"","Greeley County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",11,25,22,23,191570,60315,998,632
+"31077",5,"23",74,0,2013,3,"","Greeley County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",12,28,27,27,217985,39074,962,613
+"31077",5,"236",75,0,2013,1,"N","Greeley County, Nebraska","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",5,"236",75,0,2013,2,"","Greeley County, Nebraska","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,4,3,4,29526,6661,107,619
+"31077",5,"236",75,0,2013,3,"N","Greeley County, Nebraska","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",5,"2361",76,0,2013,1,"N","Greeley County, Nebraska","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",5,"2361",76,0,2013,2,"","Greeley County, Nebraska","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,4,3,4,29526,6661,107,619
+"31077",5,"2361",76,0,2013,3,"N","Greeley County, Nebraska","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",5,"23611",77,0,2013,1,"N","Greeley County, Nebraska","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",5,"23611",77,0,2013,2,"","Greeley County, Nebraska","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,4,3,4,29526,6661,107,619
+"31077",5,"23611",77,0,2013,3,"N","Greeley County, Nebraska","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",5,"236118",78,0,2013,1,"N","Greeley County, Nebraska","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",5,"236118",78,0,2013,2,"","Greeley County, Nebraska","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,4,3,4,29526,6661,107,619
+"31077",5,"236118",78,0,2013,3,"N","Greeley County, Nebraska","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",5,"238",75,0,2013,1,"N","Greeley County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31077",5,"238",75,0,2013,2,"","Greeley County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,21,19,19,162044,53654,891,634
+"31077",5,"238",75,0,2013,3,"N","Greeley County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"31077",5,"2381",76,0,2013,1,"N","Greeley County, Nebraska","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"2381",76,0,2013,2,"N","Greeley County, Nebraska","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"2381",76,0,2013,3,"N","Greeley County, Nebraska","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"23814",77,0,2013,1,"N","Greeley County, Nebraska","Private","Masonry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"23814",77,0,2013,2,"N","Greeley County, Nebraska","Private","Masonry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"23814",77,0,2013,3,"N","Greeley County, Nebraska","Private","Masonry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238142",78,0,2013,1,"N","Greeley County, Nebraska","Private","Nonresidential masonry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238142",78,0,2013,2,"N","Greeley County, Nebraska","Private","Nonresidential masonry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238142",78,0,2013,3,"N","Greeley County, Nebraska","Private","Nonresidential masonry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"23817",77,0,2013,1,"-","Greeley County, Nebraska","Private","Siding contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31077",5,"23817",77,0,2013,2,"-","Greeley County, Nebraska","Private","Siding contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31077",5,"23817",77,0,2013,3,"N","Greeley County, Nebraska","Private","Siding contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238171",78,0,2013,1,"-","Greeley County, Nebraska","Private","Residential siding contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31077",5,"238171",78,0,2013,2,"-","Greeley County, Nebraska","Private","Residential siding contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31077",5,"238171",78,0,2013,3,"N","Greeley County, Nebraska","Private","Residential siding contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"2382",76,0,2013,1,"","Greeley County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,9,9,57224,55559,662,489
+"31077",5,"2382",76,0,2013,2,"","Greeley County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,9,9,66157,22802,338,565
+"31077",5,"2382",76,0,2013,3,"","Greeley County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,9,9,62685,2640,60,536
+"31077",5,"23821",77,0,2013,1,"N","Greeley County, Nebraska","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"23821",77,0,2013,2,"N","Greeley County, Nebraska","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"23821",77,0,2013,3,"N","Greeley County, Nebraska","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"238211",78,0,2013,1,"N","Greeley County, Nebraska","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238211",78,0,2013,2,"N","Greeley County, Nebraska","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238211",78,0,2013,3,"N","Greeley County, Nebraska","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238212",78,0,2013,1,"N","Greeley County, Nebraska","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238212",78,0,2013,2,"N","Greeley County, Nebraska","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238212",78,0,2013,3,"N","Greeley County, Nebraska","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"23822",77,0,2013,1,"N","Greeley County, Nebraska","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"23822",77,0,2013,2,"N","Greeley County, Nebraska","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"23822",77,0,2013,3,"N","Greeley County, Nebraska","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238221",78,0,2013,1,"N","Greeley County, Nebraska","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238221",78,0,2013,2,"N","Greeley County, Nebraska","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238221",78,0,2013,3,"N","Greeley County, Nebraska","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"2383",76,0,2013,1,"N","Greeley County, Nebraska","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"2383",76,0,2013,2,"N","Greeley County, Nebraska","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"2383",76,0,2013,3,"N","Greeley County, Nebraska","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"23831",77,0,2013,1,"N","Greeley County, Nebraska","Private","Drywall and insulation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"23831",77,0,2013,2,"N","Greeley County, Nebraska","Private","Drywall and insulation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"23831",77,0,2013,3,"N","Greeley County, Nebraska","Private","Drywall and insulation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238311",78,0,2013,1,"N","Greeley County, Nebraska","Private","Residential drywall contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238311",78,0,2013,2,"N","Greeley County, Nebraska","Private","Residential drywall contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238311",78,0,2013,3,"N","Greeley County, Nebraska","Private","Residential drywall contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"23833",77,0,2013,1,"N","Greeley County, Nebraska","Private","Flooring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"23833",77,0,2013,2,"N","Greeley County, Nebraska","Private","Flooring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"23833",77,0,2013,3,"N","Greeley County, Nebraska","Private","Flooring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238331",78,0,2013,1,"N","Greeley County, Nebraska","Private","Residential flooring contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238331",78,0,2013,2,"N","Greeley County, Nebraska","Private","Residential flooring contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238331",78,0,2013,3,"N","Greeley County, Nebraska","Private","Residential flooring contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"2389",76,0,2013,1,"N","Greeley County, Nebraska","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"2389",76,0,2013,2,"N","Greeley County, Nebraska","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"2389",76,0,2013,3,"N","Greeley County, Nebraska","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"23891",77,0,2013,1,"N","Greeley County, Nebraska","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"23891",77,0,2013,2,"N","Greeley County, Nebraska","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"23891",77,0,2013,3,"N","Greeley County, Nebraska","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238912",78,0,2013,1,"N","Greeley County, Nebraska","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238912",78,0,2013,2,"N","Greeley County, Nebraska","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"238912",78,0,2013,3,"N","Greeley County, Nebraska","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"31-33",74,0,2013,1,"","Greeley County, Nebraska","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,32,28,28,189749,162239,2989,498
+"31077",5,"31-33",74,0,2013,2,"","Greeley County, Nebraska","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,31,33,36,181948,66569,1210,420
+"31077",5,"31-33",74,0,2013,3,"","Greeley County, Nebraska","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",7,38,37,38,253362,45615,1179,517
+"31077",5,"311",75,0,2013,1,"","Greeley County, Nebraska","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,14,14,14,108926,83059,1734,598
+"31077",5,"311",75,0,2013,2,"","Greeley County, Nebraska","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,15,14,14,81087,29661,418,435
+"31077",5,"311",75,0,2013,3,"","Greeley County, Nebraska","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,14,14,14,119927,11715,243,659
+"31077",5,"3111",76,0,2013,1,"N","Greeley County, Nebraska","Private","Animal food manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"3111",76,0,2013,2,"N","Greeley County, Nebraska","Private","Animal food manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"3111",76,0,2013,3,"N","Greeley County, Nebraska","Private","Animal food manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"31111",77,0,2013,1,"N","Greeley County, Nebraska","Private","Animal food manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"31111",77,0,2013,2,"N","Greeley County, Nebraska","Private","Animal food manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"31111",77,0,2013,3,"N","Greeley County, Nebraska","Private","Animal food manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"311119",78,0,2013,1,"N","Greeley County, Nebraska","Private","Other animal food manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"311119",78,0,2013,2,"N","Greeley County, Nebraska","Private","Other animal food manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"311119",78,0,2013,3,"N","Greeley County, Nebraska","Private","Other animal food manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"3116",76,0,2013,1,"N","Greeley County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"3116",76,0,2013,2,"N","Greeley County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"3116",76,0,2013,3,"N","Greeley County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"31161",77,0,2013,1,"N","Greeley County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"31161",77,0,2013,2,"N","Greeley County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"31161",77,0,2013,3,"N","Greeley County, Nebraska","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"311611",78,0,2013,1,"N","Greeley County, Nebraska","Private","Animal, except poultry, slaughtering","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"311611",78,0,2013,2,"N","Greeley County, Nebraska","Private","Animal, except poultry, slaughtering","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"311611",78,0,2013,3,"N","Greeley County, Nebraska","Private","Animal, except poultry, slaughtering","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"327",75,0,2013,1,"N","Greeley County, Nebraska","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"327",75,0,2013,2,"N","Greeley County, Nebraska","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"327",75,0,2013,3,"N","Greeley County, Nebraska","Private","Nonmetallic mineral product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"3273",76,0,2013,1,"N","Greeley County, Nebraska","Private","Cement and concrete product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"3273",76,0,2013,2,"N","Greeley County, Nebraska","Private","Cement and concrete product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"3273",76,0,2013,3,"N","Greeley County, Nebraska","Private","Cement and concrete product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"32732",77,0,2013,1,"N","Greeley County, Nebraska","Private","Ready-mix concrete manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"32732",77,0,2013,2,"N","Greeley County, Nebraska","Private","Ready-mix concrete manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"32732",77,0,2013,3,"N","Greeley County, Nebraska","Private","Ready-mix concrete manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"327320",78,0,2013,1,"N","Greeley County, Nebraska","Private","Ready-mix concrete manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"327320",78,0,2013,2,"N","Greeley County, Nebraska","Private","Ready-mix concrete manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"327320",78,0,2013,3,"N","Greeley County, Nebraska","Private","Ready-mix concrete manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"332",75,0,2013,1,"N","Greeley County, Nebraska","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"332",75,0,2013,2,"N","Greeley County, Nebraska","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"332",75,0,2013,3,"N","Greeley County, Nebraska","Private","Fabricated metal product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"3327",76,0,2013,1,"N","Greeley County, Nebraska","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"3327",76,0,2013,2,"N","Greeley County, Nebraska","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"3327",76,0,2013,3,"N","Greeley County, Nebraska","Private","Machine shops and threaded product mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"33271",77,0,2013,1,"N","Greeley County, Nebraska","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"33271",77,0,2013,2,"N","Greeley County, Nebraska","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"33271",77,0,2013,3,"N","Greeley County, Nebraska","Private","Machine shops","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"332710",78,0,2013,1,"N","Greeley County, Nebraska","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"332710",78,0,2013,2,"N","Greeley County, Nebraska","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"332710",78,0,2013,3,"N","Greeley County, Nebraska","Private","Machine shops","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"333",75,0,2013,1,"N","Greeley County, Nebraska","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"333",75,0,2013,2,"N","Greeley County, Nebraska","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"333",75,0,2013,3,"N","Greeley County, Nebraska","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"3333",76,0,2013,1,"N","Greeley County, Nebraska","Private","Commercial and service industry machinery","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"3333",76,0,2013,2,"N","Greeley County, Nebraska","Private","Commercial and service industry machinery","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"3333",76,0,2013,3,"N","Greeley County, Nebraska","Private","Commercial and service industry machinery","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"33331",77,0,2013,1,"N","Greeley County, Nebraska","Private","Commercial and service industry machinery","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"33331",77,0,2013,2,"N","Greeley County, Nebraska","Private","Commercial and service industry machinery","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"33331",77,0,2013,3,"N","Greeley County, Nebraska","Private","Commercial and service industry machinery","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"333318",78,0,2013,1,"N","Greeley County, Nebraska","Private","Other industry machinery manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"333318",78,0,2013,2,"N","Greeley County, Nebraska","Private","Other industry machinery manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"333318",78,0,2013,3,"N","Greeley County, Nebraska","Private","Other industry machinery manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"42",74,0,2013,1,"","Greeley County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,88,91,92,683596,550369,9720,582
+"31077",5,"42",74,0,2013,2,"","Greeley County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,100,116,103,1166456,322236,6409,844
+"31077",5,"42",74,0,2013,3,"","Greeley County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,101,95,91,1001883,79257,1380,806
+"31077",5,"423",75,0,2013,1,"","Greeley County, Nebraska","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,30,31,29,225374,159581,1510,578
+"31077",5,"423",75,0,2013,2,"","Greeley County, Nebraska","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,29,29,28,238971,44218,254,641
+"31077",5,"423",75,0,2013,3,"","Greeley County, Nebraska","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,29,29,30,269039,14280,81,706
+"31077",5,"4238",76,0,2013,1,"","Greeley County, Nebraska","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,30,31,29,225374,159581,1510,578
+"31077",5,"4238",76,0,2013,2,"","Greeley County, Nebraska","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,29,29,28,238971,44218,254,641
+"31077",5,"4238",76,0,2013,3,"","Greeley County, Nebraska","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,29,29,30,269039,14280,81,706
+"31077",5,"42382",77,0,2013,1,"","Greeley County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,30,31,29,225374,159581,1510,578
+"31077",5,"42382",77,0,2013,2,"","Greeley County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,29,29,28,238971,44218,254,641
+"31077",5,"42382",77,0,2013,3,"","Greeley County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,29,29,30,269039,14280,81,706
+"31077",5,"423820",78,0,2013,1,"","Greeley County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,30,31,29,225374,159581,1510,578
+"31077",5,"423820",78,0,2013,2,"","Greeley County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,29,29,28,238971,44218,254,641
+"31077",5,"423820",78,0,2013,3,"","Greeley County, Nebraska","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,29,29,30,269039,14280,81,706
+"31077",5,"424",75,0,2013,1,"","Greeley County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,58,60,63,458222,390788,8210,584
+"31077",5,"424",75,0,2013,2,"","Greeley County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,71,87,75,927485,278018,6155,919
+"31077",5,"424",75,0,2013,3,"","Greeley County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,72,66,61,732844,64977,1299,850
+"31077",5,"4249",76,0,2013,1,"","Greeley County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,58,60,63,458222,390788,8210,584
+"31077",5,"4249",76,0,2013,2,"","Greeley County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,71,87,75,927485,278018,6155,919
+"31077",5,"4249",76,0,2013,3,"","Greeley County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,72,66,61,732844,64977,1299,850
+"31077",5,"42491",77,0,2013,1,"","Greeley County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,58,60,63,458222,390788,8210,584
+"31077",5,"42491",77,0,2013,2,"","Greeley County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,71,87,75,927485,278018,6155,919
+"31077",5,"42491",77,0,2013,3,"","Greeley County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,72,66,61,732844,64977,1299,850
+"31077",5,"424910",78,0,2013,1,"","Greeley County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,58,60,63,458222,390788,8210,584
+"31077",5,"424910",78,0,2013,2,"","Greeley County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,71,87,75,927485,278018,6155,919
+"31077",5,"424910",78,0,2013,3,"","Greeley County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,72,66,61,732844,64977,1299,850
+"31077",5,"44-45",74,0,2013,1,"N","Greeley County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31077",5,"44-45",74,0,2013,2,"N","Greeley County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31077",5,"44-45",74,0,2013,3,"N","Greeley County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"31077",5,"444",75,0,2013,1,"","Greeley County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,7,6,6,24742,24742,149,301
+"31077",5,"444",75,0,2013,2,"","Greeley County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,7,10,9,33531,24234,277,298
+"31077",5,"444",75,0,2013,3,"","Greeley County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,10,10,10,47222,16726,245,363
+"31077",5,"4441",76,0,2013,1,"N","Greeley County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"4441",76,0,2013,2,"N","Greeley County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"4441",76,0,2013,3,"N","Greeley County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"44413",77,0,2013,1,"N","Greeley County, Nebraska","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"44413",77,0,2013,2,"N","Greeley County, Nebraska","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"44413",77,0,2013,3,"N","Greeley County, Nebraska","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"444130",78,0,2013,1,"N","Greeley County, Nebraska","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"444130",78,0,2013,2,"N","Greeley County, Nebraska","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"444130",78,0,2013,3,"N","Greeley County, Nebraska","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"44419",77,0,2013,1,"N","Greeley County, Nebraska","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"44419",77,0,2013,2,"N","Greeley County, Nebraska","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"44419",77,0,2013,3,"N","Greeley County, Nebraska","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"444190",78,0,2013,1,"N","Greeley County, Nebraska","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"444190",78,0,2013,2,"N","Greeley County, Nebraska","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"444190",78,0,2013,3,"N","Greeley County, Nebraska","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"4442",76,0,2013,1,"N","Greeley County, Nebraska","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"4442",76,0,2013,2,"N","Greeley County, Nebraska","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"4442",76,0,2013,3,"N","Greeley County, Nebraska","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"44422",77,0,2013,1,"N","Greeley County, Nebraska","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"44422",77,0,2013,2,"N","Greeley County, Nebraska","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"44422",77,0,2013,3,"N","Greeley County, Nebraska","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"444220",78,0,2013,1,"N","Greeley County, Nebraska","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"444220",78,0,2013,2,"N","Greeley County, Nebraska","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"444220",78,0,2013,3,"N","Greeley County, Nebraska","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"445",75,0,2013,1,"N","Greeley County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"445",75,0,2013,2,"N","Greeley County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"445",75,0,2013,3,"N","Greeley County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"4451",76,0,2013,1,"N","Greeley County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"4451",76,0,2013,2,"N","Greeley County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"4451",76,0,2013,3,"N","Greeley County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"44511",77,0,2013,1,"N","Greeley County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"44511",77,0,2013,2,"N","Greeley County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"44511",77,0,2013,3,"N","Greeley County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"445110",78,0,2013,1,"N","Greeley County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"445110",78,0,2013,2,"N","Greeley County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"445110",78,0,2013,3,"N","Greeley County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"447",75,0,2013,1,"N","Greeley County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"447",75,0,2013,2,"N","Greeley County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"447",75,0,2013,3,"N","Greeley County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"4471",76,0,2013,1,"N","Greeley County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"4471",76,0,2013,2,"N","Greeley County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"4471",76,0,2013,3,"N","Greeley County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"44711",77,0,2013,1,"N","Greeley County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"44711",77,0,2013,2,"N","Greeley County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"44711",77,0,2013,3,"N","Greeley County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"447110",78,0,2013,1,"N","Greeley County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"447110",78,0,2013,2,"N","Greeley County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"447110",78,0,2013,3,"N","Greeley County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"454",75,0,2013,1,"N","Greeley County, Nebraska","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"454",75,0,2013,2,"N","Greeley County, Nebraska","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"454",75,0,2013,3,"N","Greeley County, Nebraska","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"4543",76,0,2013,1,"N","Greeley County, Nebraska","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"4543",76,0,2013,2,"N","Greeley County, Nebraska","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"4543",76,0,2013,3,"N","Greeley County, Nebraska","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"45431",77,0,2013,1,"N","Greeley County, Nebraska","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"45431",77,0,2013,2,"N","Greeley County, Nebraska","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"45431",77,0,2013,3,"N","Greeley County, Nebraska","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"454310",78,0,2013,1,"N","Greeley County, Nebraska","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"454310",78,0,2013,2,"N","Greeley County, Nebraska","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"454310",78,0,2013,3,"N","Greeley County, Nebraska","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"48-49",74,0,2013,1,"N","Greeley County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"48-49",74,0,2013,2,"N","Greeley County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"48-49",74,0,2013,3,"N","Greeley County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"484",75,0,2013,1,"N","Greeley County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"484",75,0,2013,2,"N","Greeley County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"484",75,0,2013,3,"N","Greeley County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"4842",76,0,2013,1,"N","Greeley County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"4842",76,0,2013,2,"N","Greeley County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"4842",76,0,2013,3,"N","Greeley County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"48422",77,0,2013,1,"N","Greeley County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"48422",77,0,2013,2,"N","Greeley County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"48422",77,0,2013,3,"N","Greeley County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"484220",78,0,2013,1,"N","Greeley County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"484220",78,0,2013,2,"N","Greeley County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"484220",78,0,2013,3,"N","Greeley County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"51",74,0,2013,1,"N","Greeley County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",5,"51",74,0,2013,2,"N","Greeley County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",5,"51",74,0,2013,3,"N","Greeley County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31077",5,"511",75,0,2013,1,"N","Greeley County, Nebraska","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"511",75,0,2013,2,"N","Greeley County, Nebraska","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"511",75,0,2013,3,"N","Greeley County, Nebraska","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"5111",76,0,2013,1,"N","Greeley County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"5111",76,0,2013,2,"N","Greeley County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"5111",76,0,2013,3,"N","Greeley County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"51111",77,0,2013,1,"N","Greeley County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"51111",77,0,2013,2,"N","Greeley County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"51111",77,0,2013,3,"N","Greeley County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"511110",78,0,2013,1,"N","Greeley County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"511110",78,0,2013,2,"N","Greeley County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"511110",78,0,2013,3,"N","Greeley County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"517",75,0,2013,1,"N","Greeley County, Nebraska","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"517",75,0,2013,2,"N","Greeley County, Nebraska","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"517",75,0,2013,3,"N","Greeley County, Nebraska","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"5171",76,0,2013,1,"N","Greeley County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"5171",76,0,2013,2,"N","Greeley County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"5171",76,0,2013,3,"N","Greeley County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"51711",77,0,2013,1,"N","Greeley County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"51711",77,0,2013,2,"N","Greeley County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"51711",77,0,2013,3,"N","Greeley County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"517110",78,0,2013,1,"N","Greeley County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"517110",78,0,2013,2,"N","Greeley County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"517110",78,0,2013,3,"N","Greeley County, Nebraska","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"52",74,0,2013,1,"","Greeley County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",8,38,37,37,338495,226504,2255,697
+"31077",5,"52",74,0,2013,2,"","Greeley County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",9,40,39,40,373195,63759,858,724
+"31077",5,"52",74,0,2013,3,"","Greeley County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",9,40,40,40,361151,20223,293,695
+"31077",5,"522",75,0,2013,1,"","Greeley County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,30,29,29,304603,197783,1918,799
+"31077",5,"522",75,0,2013,2,"","Greeley County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,32,32,33,342551,50925,624,815
+"31077",5,"522",75,0,2013,3,"","Greeley County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,33,33,33,329287,15080,199,768
+"31077",5,"5221",76,0,2013,1,"","Greeley County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,30,29,29,304603,197783,1918,799
+"31077",5,"5221",76,0,2013,2,"N","Greeley County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31077",5,"5221",76,0,2013,3,"N","Greeley County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31077",5,"52211",77,0,2013,1,"","Greeley County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,30,29,29,304603,197783,1918,799
+"31077",5,"52211",77,0,2013,2,"N","Greeley County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31077",5,"52211",77,0,2013,3,"N","Greeley County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31077",5,"522110",78,0,2013,1,"","Greeley County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,30,29,29,304603,197783,1918,799
+"31077",5,"522110",78,0,2013,2,"N","Greeley County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31077",5,"522110",78,0,2013,3,"N","Greeley County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31077",5,"5223",76,0,2013,1,"-","Greeley County, Nebraska","Private","Activities related to credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31077",5,"5223",76,0,2013,2,"N","Greeley County, Nebraska","Private","Activities related to credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"5223",76,0,2013,3,"N","Greeley County, Nebraska","Private","Activities related to credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"52239",77,0,2013,1,"-","Greeley County, Nebraska","Private","Other credit intermediation activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31077",5,"52239",77,0,2013,2,"N","Greeley County, Nebraska","Private","Other credit intermediation activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"52239",77,0,2013,3,"N","Greeley County, Nebraska","Private","Other credit intermediation activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"522390",78,0,2013,1,"-","Greeley County, Nebraska","Private","Other credit intermediation activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31077",5,"522390",78,0,2013,2,"N","Greeley County, Nebraska","Private","Other credit intermediation activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"522390",78,0,2013,3,"N","Greeley County, Nebraska","Private","Other credit intermediation activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"524",75,0,2013,1,"","Greeley County, Nebraska","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,8,8,33892,28721,337,326
+"31077",5,"524",75,0,2013,2,"","Greeley County, Nebraska","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,7,7,30644,12834,234,321
+"31077",5,"524",75,0,2013,3,"","Greeley County, Nebraska","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,7,31864,5143,94,350
+"31077",5,"5241",76,0,2013,1,"N","Greeley County, Nebraska","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"5241",76,0,2013,2,"N","Greeley County, Nebraska","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"5241",76,0,2013,3,"N","Greeley County, Nebraska","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"52411",77,0,2013,1,"N","Greeley County, Nebraska","Private","Direct life and health insurance carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"52411",77,0,2013,2,"N","Greeley County, Nebraska","Private","Direct life and health insurance carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"52411",77,0,2013,3,"N","Greeley County, Nebraska","Private","Direct life and health insurance carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"524113",78,0,2013,1,"N","Greeley County, Nebraska","Private","Direct life insurance carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"524113",78,0,2013,2,"N","Greeley County, Nebraska","Private","Direct life insurance carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"524113",78,0,2013,3,"N","Greeley County, Nebraska","Private","Direct life insurance carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"5242",76,0,2013,1,"N","Greeley County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"5242",76,0,2013,2,"N","Greeley County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"5242",76,0,2013,3,"N","Greeley County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"52421",77,0,2013,1,"N","Greeley County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"52421",77,0,2013,2,"N","Greeley County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"52421",77,0,2013,3,"N","Greeley County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"524210",78,0,2013,1,"N","Greeley County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"524210",78,0,2013,2,"N","Greeley County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"524210",78,0,2013,3,"N","Greeley County, Nebraska","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"56",74,0,2013,1,"N","Greeley County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"56",74,0,2013,2,"N","Greeley County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"56",74,0,2013,3,"N","Greeley County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"562",75,0,2013,1,"N","Greeley County, Nebraska","Private","Waste management and remediation services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"562",75,0,2013,2,"N","Greeley County, Nebraska","Private","Waste management and remediation services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"562",75,0,2013,3,"N","Greeley County, Nebraska","Private","Waste management and remediation services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"5622",76,0,2013,1,"N","Greeley County, Nebraska","Private","Waste treatment and disposal","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"5622",76,0,2013,2,"N","Greeley County, Nebraska","Private","Waste treatment and disposal","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"5622",76,0,2013,3,"N","Greeley County, Nebraska","Private","Waste treatment and disposal","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"56221",77,0,2013,1,"N","Greeley County, Nebraska","Private","Waste treatment and disposal","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"56221",77,0,2013,2,"N","Greeley County, Nebraska","Private","Waste treatment and disposal","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"56221",77,0,2013,3,"N","Greeley County, Nebraska","Private","Waste treatment and disposal","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"562211",78,0,2013,1,"N","Greeley County, Nebraska","Private","Hazardous waste treatment and disposal","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"562211",78,0,2013,2,"N","Greeley County, Nebraska","Private","Hazardous waste treatment and disposal","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"562211",78,0,2013,3,"N","Greeley County, Nebraska","Private","Hazardous waste treatment and disposal","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"62",74,0,2013,1,"","Greeley County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",16,12,14,11,18660,18660,281,116
+"31077",5,"62",74,0,2013,2,"","Greeley County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",16,10,11,11,22550,19328,303,163
+"31077",5,"62",74,0,2013,3,"","Greeley County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",16,8,9,11,16928,12259,186,140
+"31077",5,"621",75,0,2013,1,"N","Greeley County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"621",75,0,2013,2,"N","Greeley County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"621",75,0,2013,3,"N","Greeley County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"6216",76,0,2013,1,"N","Greeley County, Nebraska","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"6216",76,0,2013,2,"N","Greeley County, Nebraska","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"6216",76,0,2013,3,"N","Greeley County, Nebraska","Private","Home health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"62161",77,0,2013,1,"N","Greeley County, Nebraska","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"62161",77,0,2013,2,"N","Greeley County, Nebraska","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"62161",77,0,2013,3,"N","Greeley County, Nebraska","Private","Home health care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"621610",78,0,2013,1,"N","Greeley County, Nebraska","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"621610",78,0,2013,2,"N","Greeley County, Nebraska","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"621610",78,0,2013,3,"N","Greeley County, Nebraska","Private","Home health care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"624",75,0,2013,1,"N","Greeley County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",15,0,0,0,0,0,0,0
+"31077",5,"624",75,0,2013,2,"N","Greeley County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",15,0,0,0,0,0,0,0
+"31077",5,"624",75,0,2013,3,"N","Greeley County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",15,0,0,0,0,0,0,0
+"31077",5,"6241",76,0,2013,1,"N","Greeley County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",15,0,0,0,0,0,0,0
+"31077",5,"6241",76,0,2013,2,"N","Greeley County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",15,0,0,0,0,0,0,0
+"31077",5,"6241",76,0,2013,3,"N","Greeley County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",15,0,0,0,0,0,0,0
+"31077",5,"62412",77,0,2013,1,"N","Greeley County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",15,0,0,0,0,0,0,0
+"31077",5,"62412",77,0,2013,2,"N","Greeley County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",15,0,0,0,0,0,0,0
+"31077",5,"62412",77,0,2013,3,"N","Greeley County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",15,0,0,0,0,0,0,0
+"31077",5,"624120",78,0,2013,1,"N","Greeley County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",15,0,0,0,0,0,0,0
+"31077",5,"624120",78,0,2013,2,"N","Greeley County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",15,0,0,0,0,0,0,0
+"31077",5,"624120",78,0,2013,3,"N","Greeley County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",15,0,0,0,0,0,0,0
+"31077",5,"72",74,0,2013,1,"","Greeley County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,11,12,10,17481,17481,339,122
+"31077",5,"72",74,0,2013,2,"","Greeley County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,10,13,12,24385,24385,494,161
+"31077",5,"72",74,0,2013,3,"","Greeley County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,18,23,27,43340,40940,720,147
+"31077",5,"722",75,0,2013,1,"","Greeley County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,11,12,10,17481,17481,339,122
+"31077",5,"722",75,0,2013,2,"","Greeley County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,10,13,12,24385,24385,494,161
+"31077",5,"722",75,0,2013,3,"","Greeley County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,18,23,27,43340,40940,720,147
+"31077",5,"7224",76,0,2013,1,"N","Greeley County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"7224",76,0,2013,2,"N","Greeley County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"7224",76,0,2013,3,"N","Greeley County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"72241",77,0,2013,1,"N","Greeley County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"72241",77,0,2013,2,"N","Greeley County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"72241",77,0,2013,3,"N","Greeley County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"722410",78,0,2013,1,"N","Greeley County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"722410",78,0,2013,2,"N","Greeley County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"722410",78,0,2013,3,"N","Greeley County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"7225",76,0,2013,1,"N","Greeley County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"7225",76,0,2013,2,"N","Greeley County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"7225",76,0,2013,3,"N","Greeley County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"72251",77,0,2013,1,"N","Greeley County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"72251",77,0,2013,2,"N","Greeley County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"72251",77,0,2013,3,"N","Greeley County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"722511",78,0,2013,1,"N","Greeley County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"722511",78,0,2013,2,"N","Greeley County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"722511",78,0,2013,3,"N","Greeley County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31077",5,"81",74,0,2013,1,"","Greeley County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,9,8,9,36881,36881,827,327
+"31077",5,"81",74,0,2013,2,"","Greeley County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,9,9,9,42623,21686,567,364
+"31077",5,"81",74,0,2013,3,"","Greeley County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,11,9,9,48855,15831,277,389
+"31077",5,"811",75,0,2013,1,"","Greeley County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,9,8,9,36881,36881,827,327
+"31077",5,"811",75,0,2013,2,"","Greeley County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,9,9,9,42623,21686,567,364
+"31077",5,"811",75,0,2013,3,"","Greeley County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,11,9,9,48855,15831,277,389
+"31077",5,"8111",76,0,2013,1,"N","Greeley County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"8111",76,0,2013,2,"N","Greeley County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"8111",76,0,2013,3,"N","Greeley County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"81111",77,0,2013,1,"N","Greeley County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"81111",77,0,2013,2,"N","Greeley County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"81111",77,0,2013,3,"N","Greeley County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"811111",78,0,2013,1,"N","Greeley County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"811111",78,0,2013,2,"N","Greeley County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"811111",78,0,2013,3,"N","Greeley County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31077",5,"8113",76,0,2013,1,"N","Greeley County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"8113",76,0,2013,2,"N","Greeley County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"8113",76,0,2013,3,"N","Greeley County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"81131",77,0,2013,1,"N","Greeley County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"81131",77,0,2013,2,"N","Greeley County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"81131",77,0,2013,3,"N","Greeley County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"811310",78,0,2013,1,"N","Greeley County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"811310",78,0,2013,2,"N","Greeley County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31077",5,"811310",78,0,2013,3,"N","Greeley County, Nebraska","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+

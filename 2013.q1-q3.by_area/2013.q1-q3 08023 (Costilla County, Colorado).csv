@@ -1,0 +1,800 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"08023",0,"10",70,0,2013,1,"","Costilla County, Colorado","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",84,725,748,760,5133276,3611086,53722,530
+"08023",0,"10",70,0,2013,2,"","Costilla County, Colorado","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",84,777,783,840,5317288,3034144,36663,511
+"08023",0,"10",70,0,2013,3,"","Costilla County, Colorado","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",87,889,822,881,5279249,2792305,29193,470
+"08023",1,"10",71,0,2013,1,"","Costilla County, Colorado","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",7,11,11,13,106738,0,0,704
+"08023",1,"10",71,0,2013,2,"","Costilla County, Colorado","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",7,12,11,11,88166,0,0,598
+"08023",1,"10",71,0,2013,3,"","Costilla County, Colorado","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",7,10,10,11,100877,0,0,751
+"08023",1,"102",72,0,2013,1,"","Costilla County, Colorado","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",7,11,11,13,106738,0,0,704
+"08023",1,"102",72,0,2013,2,"","Costilla County, Colorado","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",7,12,11,11,88166,0,0,598
+"08023",1,"102",72,0,2013,3,"","Costilla County, Colorado","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",7,10,10,11,100877,0,0,751
+"08023",1,"1021",73,0,2013,1,"","Costilla County, Colorado","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,9,9,11,87503,0,0,696
+"08023",1,"1021",73,0,2013,2,"","Costilla County, Colorado","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,10,9,8,63806,0,0,545
+"08023",1,"1021",73,0,2013,3,"","Costilla County, Colorado","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,8,8,7,75966,0,0,762
+"08023",1,"1028",73,0,2013,1,"","Costilla County, Colorado","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,2,2,2,19235,0,0,740
+"08023",1,"1028",73,0,2013,2,"","Costilla County, Colorado","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,2,2,3,24360,0,0,803
+"08023",1,"1028",73,0,2013,3,"","Costilla County, Colorado","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,2,2,4,24911,0,0,719
+"08023",1,"48-49",74,0,2013,1,"","Costilla County, Colorado","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,9,9,11,87503,0,0,696
+"08023",1,"48-49",74,0,2013,2,"","Costilla County, Colorado","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,10,9,8,63806,0,0,545
+"08023",1,"48-49",74,0,2013,3,"","Costilla County, Colorado","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,8,8,7,75966,0,0,762
+"08023",1,"491",75,0,2013,1,"","Costilla County, Colorado","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,9,9,11,87503,0,0,696
+"08023",1,"491",75,0,2013,2,"","Costilla County, Colorado","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,10,9,8,63806,0,0,545
+"08023",1,"491",75,0,2013,3,"","Costilla County, Colorado","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,8,8,7,75966,0,0,762
+"08023",1,"4911",76,0,2013,1,"","Costilla County, Colorado","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,9,9,11,87503,0,0,696
+"08023",1,"4911",76,0,2013,2,"","Costilla County, Colorado","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,10,9,8,63806,0,0,545
+"08023",1,"4911",76,0,2013,3,"","Costilla County, Colorado","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,8,8,7,75966,0,0,762
+"08023",1,"49111",77,0,2013,1,"","Costilla County, Colorado","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,9,9,11,87503,0,0,696
+"08023",1,"49111",77,0,2013,2,"","Costilla County, Colorado","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,10,9,8,63806,0,0,545
+"08023",1,"49111",77,0,2013,3,"","Costilla County, Colorado","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,8,8,7,75966,0,0,762
+"08023",1,"491110",78,0,2013,1,"","Costilla County, Colorado","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,9,9,11,87503,0,0,696
+"08023",1,"491110",78,0,2013,2,"","Costilla County, Colorado","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,10,9,8,63806,0,0,545
+"08023",1,"491110",78,0,2013,3,"","Costilla County, Colorado","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,8,8,7,75966,0,0,762
+"08023",1,"92",74,0,2013,1,"","Costilla County, Colorado","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,2,2,2,19235,0,0,740
+"08023",1,"92",74,0,2013,2,"","Costilla County, Colorado","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,2,2,3,24360,0,0,803
+"08023",1,"92",74,0,2013,3,"","Costilla County, Colorado","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,2,2,4,24911,0,0,719
+"08023",1,"924",75,0,2013,1,"","Costilla County, Colorado","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,2,2,2,19235,0,0,740
+"08023",1,"924",75,0,2013,2,"","Costilla County, Colorado","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,2,2,3,24360,0,0,803
+"08023",1,"924",75,0,2013,3,"","Costilla County, Colorado","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,2,2,4,24911,0,0,719
+"08023",1,"9241",76,0,2013,1,"","Costilla County, Colorado","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,2,2,2,19235,0,0,740
+"08023",1,"9241",76,0,2013,2,"","Costilla County, Colorado","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,2,2,3,24360,0,0,803
+"08023",1,"9241",76,0,2013,3,"","Costilla County, Colorado","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,2,2,4,24911,0,0,719
+"08023",1,"92412",77,0,2013,1,"","Costilla County, Colorado","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,2,2,2,19235,0,0,740
+"08023",1,"92412",77,0,2013,2,"","Costilla County, Colorado","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,2,2,3,24360,0,0,803
+"08023",1,"92412",77,0,2013,3,"","Costilla County, Colorado","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,2,2,4,24911,0,0,719
+"08023",1,"924120",78,0,2013,1,"","Costilla County, Colorado","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,2,2,2,19235,0,0,740
+"08023",1,"924120",78,0,2013,2,"","Costilla County, Colorado","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,2,2,3,24360,0,0,803
+"08023",1,"924120",78,0,2013,3,"","Costilla County, Colorado","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,2,2,4,24911,0,0,719
+"08023",2,"10",71,0,2013,1,"","Costilla County, Colorado","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,10,11,11,120788,0,0,871
+"08023",2,"10",71,0,2013,2,"","Costilla County, Colorado","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,11,11,11,87266,0,0,610
+"08023",2,"10",71,0,2013,3,"","Costilla County, Colorado","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,12,16,16,183530,0,0,963
+"08023",2,"101",72,0,2013,1,"N","Costilla County, Colorado","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"101",72,0,2013,2,"N","Costilla County, Colorado","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"101",72,0,2013,3,"N","Costilla County, Colorado","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"1012",73,0,2013,1,"N","Costilla County, Colorado","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"1012",73,0,2013,2,"N","Costilla County, Colorado","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"1012",73,0,2013,3,"N","Costilla County, Colorado","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"102",72,0,2013,1,"N","Costilla County, Colorado","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",2,"102",72,0,2013,2,"N","Costilla County, Colorado","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",2,"102",72,0,2013,3,"N","Costilla County, Colorado","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",2,"1028",73,0,2013,1,"N","Costilla County, Colorado","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",2,"1028",73,0,2013,2,"N","Costilla County, Colorado","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",2,"1028",73,0,2013,3,"N","Costilla County, Colorado","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",2,"23",74,0,2013,1,"N","Costilla County, Colorado","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"23",74,0,2013,2,"N","Costilla County, Colorado","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"23",74,0,2013,3,"N","Costilla County, Colorado","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"237",75,0,2013,1,"N","Costilla County, Colorado","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"237",75,0,2013,2,"N","Costilla County, Colorado","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"237",75,0,2013,3,"N","Costilla County, Colorado","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"2373",76,0,2013,1,"N","Costilla County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"2373",76,0,2013,2,"N","Costilla County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"2373",76,0,2013,3,"N","Costilla County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"23731",77,0,2013,1,"N","Costilla County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"23731",77,0,2013,2,"N","Costilla County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"23731",77,0,2013,3,"N","Costilla County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"237310",78,0,2013,1,"N","Costilla County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"237310",78,0,2013,2,"N","Costilla County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"237310",78,0,2013,3,"N","Costilla County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"92",74,0,2013,1,"N","Costilla County, Colorado","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",2,"92",74,0,2013,2,"N","Costilla County, Colorado","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",2,"92",74,0,2013,3,"N","Costilla County, Colorado","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",2,"922",75,0,2013,1,"N","Costilla County, Colorado","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",2,"922",75,0,2013,2,"N","Costilla County, Colorado","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",2,"922",75,0,2013,3,"N","Costilla County, Colorado","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",2,"9221",76,0,2013,1,"N","Costilla County, Colorado","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",2,"9221",76,0,2013,2,"N","Costilla County, Colorado","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",2,"9221",76,0,2013,3,"N","Costilla County, Colorado","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",2,"92211",77,0,2013,1,"N","Costilla County, Colorado","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"92211",77,0,2013,2,"N","Costilla County, Colorado","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"92211",77,0,2013,3,"N","Costilla County, Colorado","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"922110",78,0,2013,1,"N","Costilla County, Colorado","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"922110",78,0,2013,2,"N","Costilla County, Colorado","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"922110",78,0,2013,3,"N","Costilla County, Colorado","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"92212",77,0,2013,1,"N","Costilla County, Colorado","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"92212",77,0,2013,2,"N","Costilla County, Colorado","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"92212",77,0,2013,3,"N","Costilla County, Colorado","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"922120",78,0,2013,1,"N","Costilla County, Colorado","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"922120",78,0,2013,2,"N","Costilla County, Colorado","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"922120",78,0,2013,3,"N","Costilla County, Colorado","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"923",75,0,2013,1,"N","Costilla County, Colorado","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"923",75,0,2013,2,"N","Costilla County, Colorado","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"923",75,0,2013,3,"N","Costilla County, Colorado","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"9231",76,0,2013,1,"N","Costilla County, Colorado","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"9231",76,0,2013,2,"N","Costilla County, Colorado","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"9231",76,0,2013,3,"N","Costilla County, Colorado","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"92311",77,0,2013,1,"N","Costilla County, Colorado","State Government","Administration of education programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"92311",77,0,2013,2,"N","Costilla County, Colorado","State Government","Administration of education programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"92311",77,0,2013,3,"N","Costilla County, Colorado","State Government","Administration of education programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"923110",78,0,2013,1,"N","Costilla County, Colorado","State Government","Administration of education programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"923110",78,0,2013,2,"N","Costilla County, Colorado","State Government","Administration of education programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"923110",78,0,2013,3,"N","Costilla County, Colorado","State Government","Administration of education programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"926",75,0,2013,1,"N","Costilla County, Colorado","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"926",75,0,2013,2,"N","Costilla County, Colorado","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"926",75,0,2013,3,"N","Costilla County, Colorado","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"9261",76,0,2013,1,"N","Costilla County, Colorado","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"9261",76,0,2013,2,"N","Costilla County, Colorado","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"9261",76,0,2013,3,"N","Costilla County, Colorado","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"92614",77,0,2013,1,"N","Costilla County, Colorado","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"92614",77,0,2013,2,"N","Costilla County, Colorado","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"92614",77,0,2013,3,"N","Costilla County, Colorado","State Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"926140",78,0,2013,1,"N","Costilla County, Colorado","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"926140",78,0,2013,2,"N","Costilla County, Colorado","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",2,"926140",78,0,2013,3,"N","Costilla County, Colorado","State Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"10",71,0,2013,1,"","Costilla County, Colorado","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,300,312,309,1786964,1346333,4040,448
+"08023",3,"10",71,0,2013,2,"","Costilla County, Colorado","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,317,323,333,1923322,1423538,4271,456
+"08023",3,"10",71,0,2013,3,"","Costilla County, Colorado","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,331,328,338,1780009,1780009,5338,412
+"08023",3,"102",72,0,2013,1,"","Costilla County, Colorado","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",11,300,312,309,1786964,1346333,4040,448
+"08023",3,"102",72,0,2013,2,"","Costilla County, Colorado","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",11,317,323,333,1923322,1423538,4271,456
+"08023",3,"102",72,0,2013,3,"","Costilla County, Colorado","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",11,331,328,338,1780009,1780009,5338,412
+"08023",3,"1021",73,0,2013,1,"N","Costilla County, Colorado","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"1021",73,0,2013,2,"N","Costilla County, Colorado","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"1021",73,0,2013,3,"N","Costilla County, Colorado","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"1022",73,0,2013,1,"N","Costilla County, Colorado","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"1022",73,0,2013,2,"N","Costilla County, Colorado","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"1022",73,0,2013,3,"N","Costilla County, Colorado","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"1023",73,0,2013,1,"N","Costilla County, Colorado","Local Government","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"1023",73,0,2013,2,"N","Costilla County, Colorado","Local Government","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"1023",73,0,2013,3,"N","Costilla County, Colorado","Local Government","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"1025",73,0,2013,1,"N","Costilla County, Colorado","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"1025",73,0,2013,2,"N","Costilla County, Colorado","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"1025",73,0,2013,3,"N","Costilla County, Colorado","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"1028",73,0,2013,1,"N","Costilla County, Colorado","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08023",3,"1028",73,0,2013,2,"N","Costilla County, Colorado","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08023",3,"1028",73,0,2013,3,"N","Costilla County, Colorado","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08023",3,"22",74,0,2013,1,"N","Costilla County, Colorado","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"22",74,0,2013,2,"N","Costilla County, Colorado","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"22",74,0,2013,3,"N","Costilla County, Colorado","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"221",75,0,2013,1,"N","Costilla County, Colorado","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"221",75,0,2013,2,"N","Costilla County, Colorado","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"221",75,0,2013,3,"N","Costilla County, Colorado","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"2213",76,0,2013,1,"N","Costilla County, Colorado","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"2213",76,0,2013,2,"N","Costilla County, Colorado","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"2213",76,0,2013,3,"N","Costilla County, Colorado","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"22131",77,0,2013,1,"N","Costilla County, Colorado","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"22131",77,0,2013,2,"N","Costilla County, Colorado","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"22131",77,0,2013,3,"N","Costilla County, Colorado","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"221310",78,0,2013,1,"N","Costilla County, Colorado","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"221310",78,0,2013,2,"N","Costilla County, Colorado","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"221310",78,0,2013,3,"N","Costilla County, Colorado","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"51",74,0,2013,1,"N","Costilla County, Colorado","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"51",74,0,2013,2,"N","Costilla County, Colorado","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"51",74,0,2013,3,"N","Costilla County, Colorado","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"519",75,0,2013,1,"N","Costilla County, Colorado","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"519",75,0,2013,2,"N","Costilla County, Colorado","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"519",75,0,2013,3,"N","Costilla County, Colorado","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"5191",76,0,2013,1,"N","Costilla County, Colorado","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"5191",76,0,2013,2,"N","Costilla County, Colorado","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"5191",76,0,2013,3,"N","Costilla County, Colorado","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"51912",77,0,2013,1,"N","Costilla County, Colorado","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"51912",77,0,2013,2,"N","Costilla County, Colorado","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"51912",77,0,2013,3,"N","Costilla County, Colorado","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"519120",78,0,2013,1,"N","Costilla County, Colorado","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"519120",78,0,2013,2,"N","Costilla County, Colorado","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"519120",78,0,2013,3,"N","Costilla County, Colorado","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"53",74,0,2013,1,"N","Costilla County, Colorado","Local Government","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"53",74,0,2013,2,"N","Costilla County, Colorado","Local Government","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"53",74,0,2013,3,"N","Costilla County, Colorado","Local Government","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"531",75,0,2013,1,"N","Costilla County, Colorado","Local Government","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"531",75,0,2013,2,"N","Costilla County, Colorado","Local Government","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"531",75,0,2013,3,"N","Costilla County, Colorado","Local Government","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"5313",76,0,2013,1,"N","Costilla County, Colorado","Local Government","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"5313",76,0,2013,2,"N","Costilla County, Colorado","Local Government","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"5313",76,0,2013,3,"N","Costilla County, Colorado","Local Government","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"53131",77,0,2013,1,"N","Costilla County, Colorado","Local Government","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"53131",77,0,2013,2,"N","Costilla County, Colorado","Local Government","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"53131",77,0,2013,3,"N","Costilla County, Colorado","Local Government","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"531311",78,0,2013,1,"N","Costilla County, Colorado","Local Government","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"531311",78,0,2013,2,"N","Costilla County, Colorado","Local Government","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"531311",78,0,2013,3,"N","Costilla County, Colorado","Local Government","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"61",74,0,2013,1,"N","Costilla County, Colorado","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"61",74,0,2013,2,"N","Costilla County, Colorado","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"61",74,0,2013,3,"N","Costilla County, Colorado","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"611",75,0,2013,1,"N","Costilla County, Colorado","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"611",75,0,2013,2,"N","Costilla County, Colorado","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"611",75,0,2013,3,"N","Costilla County, Colorado","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"6111",76,0,2013,1,"N","Costilla County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"6111",76,0,2013,2,"N","Costilla County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"6111",76,0,2013,3,"N","Costilla County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"61111",77,0,2013,1,"N","Costilla County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"61111",77,0,2013,2,"N","Costilla County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"61111",77,0,2013,3,"N","Costilla County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"611110",78,0,2013,1,"N","Costilla County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"611110",78,0,2013,2,"N","Costilla County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"611110",78,0,2013,3,"N","Costilla County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",3,"92",74,0,2013,1,"N","Costilla County, Colorado","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08023",3,"92",74,0,2013,2,"N","Costilla County, Colorado","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08023",3,"92",74,0,2013,3,"N","Costilla County, Colorado","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08023",3,"921",75,0,2013,1,"N","Costilla County, Colorado","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",3,"921",75,0,2013,2,"N","Costilla County, Colorado","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",3,"921",75,0,2013,3,"N","Costilla County, Colorado","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",3,"9211",76,0,2013,1,"N","Costilla County, Colorado","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",3,"9211",76,0,2013,2,"N","Costilla County, Colorado","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",3,"9211",76,0,2013,3,"N","Costilla County, Colorado","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",3,"92114",77,0,2013,1,"N","Costilla County, Colorado","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",3,"92114",77,0,2013,2,"N","Costilla County, Colorado","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",3,"92114",77,0,2013,3,"N","Costilla County, Colorado","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",3,"921140",78,0,2013,1,"N","Costilla County, Colorado","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",3,"921140",78,0,2013,2,"N","Costilla County, Colorado","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",3,"921140",78,0,2013,3,"N","Costilla County, Colorado","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",3,"922",75,0,2013,1,"N","Costilla County, Colorado","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"922",75,0,2013,2,"N","Costilla County, Colorado","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"922",75,0,2013,3,"N","Costilla County, Colorado","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"9221",76,0,2013,1,"N","Costilla County, Colorado","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"9221",76,0,2013,2,"N","Costilla County, Colorado","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"9221",76,0,2013,3,"N","Costilla County, Colorado","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"92216",77,0,2013,1,"N","Costilla County, Colorado","Local Government","Fire protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"92216",77,0,2013,2,"N","Costilla County, Colorado","Local Government","Fire protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"92216",77,0,2013,3,"N","Costilla County, Colorado","Local Government","Fire protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"922160",78,0,2013,1,"N","Costilla County, Colorado","Local Government","Fire protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"922160",78,0,2013,2,"N","Costilla County, Colorado","Local Government","Fire protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"922160",78,0,2013,3,"N","Costilla County, Colorado","Local Government","Fire protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"924",75,0,2013,1,"N","Costilla County, Colorado","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"924",75,0,2013,2,"N","Costilla County, Colorado","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"924",75,0,2013,3,"N","Costilla County, Colorado","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"9241",76,0,2013,1,"N","Costilla County, Colorado","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"9241",76,0,2013,2,"N","Costilla County, Colorado","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"9241",76,0,2013,3,"N","Costilla County, Colorado","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"92412",77,0,2013,1,"N","Costilla County, Colorado","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"92412",77,0,2013,2,"N","Costilla County, Colorado","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"92412",77,0,2013,3,"N","Costilla County, Colorado","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"924120",78,0,2013,1,"N","Costilla County, Colorado","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"924120",78,0,2013,2,"N","Costilla County, Colorado","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",3,"924120",78,0,2013,3,"N","Costilla County, Colorado","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"10",71,0,2013,1,"","Costilla County, Colorado","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",61,404,414,427,3118786,2264753,49682,578
+"08023",5,"10",71,0,2013,2,"","Costilla County, Colorado","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",61,437,438,485,3218534,1610606,32392,546
+"08023",5,"10",71,0,2013,3,"","Costilla County, Colorado","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",64,536,468,516,3214833,1012296,23855,488
+"08023",5,"101",72,0,2013,1,"","Costilla County, Colorado","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",21,122,125,129,1518992,899771,27435,932
+"08023",5,"101",72,0,2013,2,"","Costilla County, Colorado","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",21,130,125,159,1228075,513020,13225,685
+"08023",5,"101",72,0,2013,3,"","Costilla County, Colorado","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",21,204,133,209,1357891,348071,11466,574
+"08023",5,"1011",73,0,2013,1,"","Costilla County, Colorado","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",13,93,97,104,1289827,701207,20317,1012
+"08023",5,"1011",73,0,2013,2,"","Costilla County, Colorado","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",13,103,97,133,996144,413692,10601,690
+"08023",5,"1011",73,0,2013,3,"","Costilla County, Colorado","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",13,178,106,184,1167031,322009,10575,575
+"08023",5,"1012",73,0,2013,1,"N","Costilla County, Colorado","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"08023",5,"1012",73,0,2013,2,"N","Costilla County, Colorado","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"08023",5,"1012",73,0,2013,3,"N","Costilla County, Colorado","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"08023",5,"1013",73,0,2013,1,"N","Costilla County, Colorado","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1013",73,0,2013,2,"N","Costilla County, Colorado","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1013",73,0,2013,3,"N","Costilla County, Colorado","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"102",72,0,2013,1,"","Costilla County, Colorado","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",40,282,289,298,1599794,1364982,22247,425
+"08023",5,"102",72,0,2013,2,"","Costilla County, Colorado","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",40,307,313,326,1990459,1097586,19167,486
+"08023",5,"102",72,0,2013,3,"","Costilla County, Colorado","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",43,332,335,307,1856942,664225,12389,440
+"08023",5,"1021",73,0,2013,1,"","Costilla County, Colorado","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",11,120,124,129,606141,571861,8087,375
+"08023",5,"1021",73,0,2013,2,"","Costilla County, Colorado","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",11,130,126,132,735038,524294,7188,437
+"08023",5,"1021",73,0,2013,3,"","Costilla County, Colorado","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",12,129,128,119,669023,251468,3672,411
+"08023",5,"1022",73,0,2013,1,"N","Costilla County, Colorado","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1022",73,0,2013,2,"N","Costilla County, Colorado","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1022",73,0,2013,3,"N","Costilla County, Colorado","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1023",73,0,2013,1,"N","Costilla County, Colorado","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"1023",73,0,2013,2,"N","Costilla County, Colorado","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",5,"1023",73,0,2013,3,"N","Costilla County, Colorado","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08023",5,"1024",73,0,2013,1,"","Costilla County, Colorado","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,12,14,13,121598,70094,875,720
+"08023",5,"1024",73,0,2013,2,"","Costilla County, Colorado","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,14,14,14,138039,42805,586,758
+"08023",5,"1024",73,0,2013,3,"","Costilla County, Colorado","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,13,13,13,133294,24214,401,789
+"08023",5,"1025",73,0,2013,1,"","Costilla County, Colorado","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",9,54,52,55,273714,216417,5166,392
+"08023",5,"1025",73,0,2013,2,"","Costilla County, Colorado","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",9,57,59,51,321077,197946,5730,444
+"08023",5,"1025",73,0,2013,3,"","Costilla County, Colorado","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",10,54,59,57,260528,121558,2528,354
+"08023",5,"1026",73,0,2013,1,"","Costilla County, Colorado","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",7,49,49,52,137049,137049,2183,211
+"08023",5,"1026",73,0,2013,2,"","Costilla County, Colorado","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",6,55,58,67,152884,150784,1892,196
+"08023",5,"1026",73,0,2013,3,"","Costilla County, Colorado","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",6,75,72,59,200703,174827,2275,225
+"08023",5,"1027",73,0,2013,1,"N","Costilla County, Colorado","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"1027",73,0,2013,2,"","Costilla County, Colorado","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,3,6,10,40319,30488,1433,490
+"08023",5,"1027",73,0,2013,3,"","Costilla County, Colorado","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,10,9,10,64826,33204,2533,516
+"08023",5,"11",74,0,2013,1,"N","Costilla County, Colorado","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"08023",5,"11",74,0,2013,2,"N","Costilla County, Colorado","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"08023",5,"11",74,0,2013,3,"N","Costilla County, Colorado","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"08023",5,"111",75,0,2013,1,"","Costilla County, Colorado","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,76,80,87,1017841,535308,12164,967
+"08023",5,"111",75,0,2013,2,"","Costilla County, Colorado","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,86,80,89,731857,364016,8409,662
+"08023",5,"111",75,0,2013,3,"","Costilla County, Colorado","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,90,88,166,794670,207899,3912,533
+"08023",5,"1111",76,0,2013,1,"N","Costilla County, Colorado","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1111",76,0,2013,2,"N","Costilla County, Colorado","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1111",76,0,2013,3,"N","Costilla County, Colorado","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"11119",77,0,2013,1,"N","Costilla County, Colorado","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"11119",77,0,2013,2,"N","Costilla County, Colorado","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"11119",77,0,2013,3,"N","Costilla County, Colorado","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"111199",78,0,2013,1,"N","Costilla County, Colorado","Private","All other grain farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"111199",78,0,2013,2,"N","Costilla County, Colorado","Private","All other grain farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"111199",78,0,2013,3,"N","Costilla County, Colorado","Private","All other grain farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1112",76,0,2013,1,"","Costilla County, Colorado","Private","Vegetable and melon farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,49,55,62,841320,360787,6313,1170
+"08023",5,"1112",76,0,2013,2,"","Costilla County, Colorado","Private","Vegetable and melon farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,56,52,52,489168,213911,3507,706
+"08023",5,"1112",76,0,2013,3,"","Costilla County, Colorado","Private","Vegetable and melon farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,55,59,136,526560,126452,2149,486
+"08023",5,"11121",77,0,2013,1,"","Costilla County, Colorado","Private","Vegetable and melon farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,49,55,62,841320,360787,6313,1170
+"08023",5,"11121",77,0,2013,2,"","Costilla County, Colorado","Private","Vegetable and melon farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,56,52,52,489168,213911,3507,706
+"08023",5,"11121",77,0,2013,3,"","Costilla County, Colorado","Private","Vegetable and melon farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,55,59,136,526560,126452,2149,486
+"08023",5,"111211",78,0,2013,1,"","Costilla County, Colorado","Private","Potato farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,49,55,62,841320,360787,6313,1170
+"08023",5,"111211",78,0,2013,2,"","Costilla County, Colorado","Private","Potato farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,56,52,52,489168,213911,3507,706
+"08023",5,"111211",78,0,2013,3,"","Costilla County, Colorado","Private","Potato farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,55,59,136,526560,126452,2149,486
+"08023",5,"1114",76,0,2013,1,"N","Costilla County, Colorado","Private","Greenhouse and nursery production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1114",76,0,2013,2,"N","Costilla County, Colorado","Private","Greenhouse and nursery production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1114",76,0,2013,3,"N","Costilla County, Colorado","Private","Greenhouse and nursery production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"11142",77,0,2013,1,"N","Costilla County, Colorado","Private","Nursery and floriculture production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"11142",77,0,2013,2,"N","Costilla County, Colorado","Private","Nursery and floriculture production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"11142",77,0,2013,3,"N","Costilla County, Colorado","Private","Nursery and floriculture production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"111422",78,0,2013,1,"N","Costilla County, Colorado","Private","Floriculture production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"111422",78,0,2013,2,"N","Costilla County, Colorado","Private","Floriculture production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"111422",78,0,2013,3,"N","Costilla County, Colorado","Private","Floriculture production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1119",76,0,2013,1,"","Costilla County, Colorado","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,18,15,16,113759,113759,1395,536
+"08023",5,"1119",76,0,2013,2,"","Costilla County, Colorado","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,19,18,26,161560,104926,1278,592
+"08023",5,"1119",76,0,2013,3,"","Costilla County, Colorado","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,24,18,17,181700,63528,797,711
+"08023",5,"11194",77,0,2013,1,"","Costilla County, Colorado","Private","Hay farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,18,15,16,113759,113759,1395,536
+"08023",5,"11194",77,0,2013,2,"","Costilla County, Colorado","Private","Hay farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,19,18,26,161560,104926,1278,592
+"08023",5,"11194",77,0,2013,3,"","Costilla County, Colorado","Private","Hay farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,24,18,17,181700,63528,797,711
+"08023",5,"111940",78,0,2013,1,"","Costilla County, Colorado","Private","Hay farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,18,15,16,113759,113759,1395,536
+"08023",5,"111940",78,0,2013,2,"","Costilla County, Colorado","Private","Hay farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,19,18,26,161560,104926,1278,592
+"08023",5,"111940",78,0,2013,3,"","Costilla County, Colorado","Private","Hay farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,24,18,17,181700,63528,797,711
+"08023",5,"112",75,0,2013,1,"N","Costilla County, Colorado","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"112",75,0,2013,2,"N","Costilla County, Colorado","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"112",75,0,2013,3,"N","Costilla County, Colorado","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1121",76,0,2013,1,"N","Costilla County, Colorado","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1121",76,0,2013,2,"N","Costilla County, Colorado","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1121",76,0,2013,3,"N","Costilla County, Colorado","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"11211",77,0,2013,1,"N","Costilla County, Colorado","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"11211",77,0,2013,2,"N","Costilla County, Colorado","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"11211",77,0,2013,3,"N","Costilla County, Colorado","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"112111",78,0,2013,1,"N","Costilla County, Colorado","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"112111",78,0,2013,2,"N","Costilla County, Colorado","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"112111",78,0,2013,3,"N","Costilla County, Colorado","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"113",75,0,2013,1,"N","Costilla County, Colorado","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"113",75,0,2013,2,"N","Costilla County, Colorado","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"113",75,0,2013,3,"N","Costilla County, Colorado","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1133",76,0,2013,1,"N","Costilla County, Colorado","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1133",76,0,2013,2,"N","Costilla County, Colorado","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1133",76,0,2013,3,"N","Costilla County, Colorado","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"11331",77,0,2013,1,"N","Costilla County, Colorado","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"11331",77,0,2013,2,"N","Costilla County, Colorado","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"11331",77,0,2013,3,"N","Costilla County, Colorado","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"113310",78,0,2013,1,"N","Costilla County, Colorado","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"113310",78,0,2013,2,"N","Costilla County, Colorado","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"113310",78,0,2013,3,"N","Costilla County, Colorado","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"115",75,0,2013,1,"N","Costilla County, Colorado","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"115",75,0,2013,2,"N","Costilla County, Colorado","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"115",75,0,2013,3,"N","Costilla County, Colorado","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1151",76,0,2013,1,"N","Costilla County, Colorado","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1151",76,0,2013,2,"N","Costilla County, Colorado","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"1151",76,0,2013,3,"N","Costilla County, Colorado","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"11511",77,0,2013,1,"N","Costilla County, Colorado","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"11511",77,0,2013,2,"N","Costilla County, Colorado","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"11511",77,0,2013,3,"N","Costilla County, Colorado","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"115115",78,0,2013,1,"N","Costilla County, Colorado","Private","Farm labor contractors and crew leaders","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"115115",78,0,2013,2,"N","Costilla County, Colorado","Private","Farm labor contractors and crew leaders","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"115115",78,0,2013,3,"N","Costilla County, Colorado","Private","Farm labor contractors and crew leaders","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"21",74,0,2013,1,"N","Costilla County, Colorado","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"21",74,0,2013,2,"N","Costilla County, Colorado","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"21",74,0,2013,3,"N","Costilla County, Colorado","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"212",75,0,2013,1,"N","Costilla County, Colorado","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"212",75,0,2013,2,"N","Costilla County, Colorado","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"212",75,0,2013,3,"N","Costilla County, Colorado","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"2122",76,0,2013,1,"N","Costilla County, Colorado","Private","Metal ore mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"2122",76,0,2013,2,"N","Costilla County, Colorado","Private","Metal ore mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"2122",76,0,2013,3,"N","Costilla County, Colorado","Private","Metal ore mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"21222",77,0,2013,1,"N","Costilla County, Colorado","Private","Gold ore and silver ore mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"21222",77,0,2013,2,"N","Costilla County, Colorado","Private","Gold ore and silver ore mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"21222",77,0,2013,3,"N","Costilla County, Colorado","Private","Gold ore and silver ore mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"212221",78,0,2013,1,"N","Costilla County, Colorado","Private","Gold ore mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"212221",78,0,2013,2,"N","Costilla County, Colorado","Private","Gold ore mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"212221",78,0,2013,3,"N","Costilla County, Colorado","Private","Gold ore mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"22",74,0,2013,1,"N","Costilla County, Colorado","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"22",74,0,2013,2,"N","Costilla County, Colorado","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"22",74,0,2013,3,"N","Costilla County, Colorado","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"221",75,0,2013,1,"N","Costilla County, Colorado","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"221",75,0,2013,2,"N","Costilla County, Colorado","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"221",75,0,2013,3,"N","Costilla County, Colorado","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"2213",76,0,2013,1,"N","Costilla County, Colorado","Private","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"2213",76,0,2013,2,"N","Costilla County, Colorado","Private","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"2213",76,0,2013,3,"N","Costilla County, Colorado","Private","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"22131",77,0,2013,1,"N","Costilla County, Colorado","Private","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"22131",77,0,2013,2,"N","Costilla County, Colorado","Private","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"22131",77,0,2013,3,"N","Costilla County, Colorado","Private","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"221310",78,0,2013,1,"N","Costilla County, Colorado","Private","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"221310",78,0,2013,2,"N","Costilla County, Colorado","Private","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"221310",78,0,2013,3,"N","Costilla County, Colorado","Private","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"23",74,0,2013,1,"N","Costilla County, Colorado","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"08023",5,"23",74,0,2013,2,"N","Costilla County, Colorado","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"08023",5,"23",74,0,2013,3,"N","Costilla County, Colorado","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"08023",5,"236",75,0,2013,1,"N","Costilla County, Colorado","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"236",75,0,2013,2,"N","Costilla County, Colorado","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"236",75,0,2013,3,"N","Costilla County, Colorado","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"2361",76,0,2013,1,"N","Costilla County, Colorado","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"2361",76,0,2013,2,"N","Costilla County, Colorado","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"2361",76,0,2013,3,"N","Costilla County, Colorado","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"23611",77,0,2013,1,"N","Costilla County, Colorado","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"23611",77,0,2013,2,"N","Costilla County, Colorado","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"23611",77,0,2013,3,"N","Costilla County, Colorado","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"236115",78,0,2013,1,"N","Costilla County, Colorado","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"236115",78,0,2013,2,"N","Costilla County, Colorado","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"236115",78,0,2013,3,"N","Costilla County, Colorado","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"238",75,0,2013,1,"","Costilla County, Colorado","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,14,13,12,121638,107176,5080,720
+"08023",5,"238",75,0,2013,2,"","Costilla County, Colorado","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,14,15,13,107538,38958,1349,591
+"08023",5,"238",75,0,2013,3,"","Costilla County, Colorado","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,11,12,10,81762,19465,455,572
+"08023",5,"2382",76,0,2013,1,"N","Costilla County, Colorado","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"2382",76,0,2013,2,"N","Costilla County, Colorado","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"2382",76,0,2013,3,"N","Costilla County, Colorado","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"23821",77,0,2013,1,"N","Costilla County, Colorado","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"23821",77,0,2013,2,"N","Costilla County, Colorado","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"23821",77,0,2013,3,"N","Costilla County, Colorado","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"238212",78,0,2013,1,"N","Costilla County, Colorado","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"238212",78,0,2013,2,"N","Costilla County, Colorado","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"238212",78,0,2013,3,"N","Costilla County, Colorado","Private","Nonresidential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"23822",77,0,2013,1,"N","Costilla County, Colorado","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"23822",77,0,2013,2,"N","Costilla County, Colorado","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"23822",77,0,2013,3,"N","Costilla County, Colorado","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"238222",78,0,2013,1,"N","Costilla County, Colorado","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"238222",78,0,2013,2,"N","Costilla County, Colorado","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"238222",78,0,2013,3,"N","Costilla County, Colorado","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"2383",76,0,2013,1,"N","Costilla County, Colorado","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"2383",76,0,2013,2,"N","Costilla County, Colorado","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"2383",76,0,2013,3,"N","Costilla County, Colorado","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"23832",77,0,2013,1,"N","Costilla County, Colorado","Private","Painting and wall covering contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"23832",77,0,2013,2,"N","Costilla County, Colorado","Private","Painting and wall covering contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"23832",77,0,2013,3,"N","Costilla County, Colorado","Private","Painting and wall covering contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"238321",78,0,2013,1,"N","Costilla County, Colorado","Private","Residential painting contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"238321",78,0,2013,2,"N","Costilla County, Colorado","Private","Residential painting contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"238321",78,0,2013,3,"N","Costilla County, Colorado","Private","Residential painting contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"31-33",74,0,2013,1,"N","Costilla County, Colorado","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"31-33",74,0,2013,2,"N","Costilla County, Colorado","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"31-33",74,0,2013,3,"N","Costilla County, Colorado","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"339",75,0,2013,1,"N","Costilla County, Colorado","Private","Miscellaneous manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"339",75,0,2013,2,"N","Costilla County, Colorado","Private","Miscellaneous manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"339",75,0,2013,3,"N","Costilla County, Colorado","Private","Miscellaneous manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"3399",76,0,2013,1,"N","Costilla County, Colorado","Private","Other miscellaneous manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"3399",76,0,2013,2,"N","Costilla County, Colorado","Private","Other miscellaneous manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"3399",76,0,2013,3,"N","Costilla County, Colorado","Private","Other miscellaneous manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"33999",77,0,2013,1,"N","Costilla County, Colorado","Private","All other miscellaneous manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"33999",77,0,2013,2,"N","Costilla County, Colorado","Private","All other miscellaneous manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"33999",77,0,2013,3,"N","Costilla County, Colorado","Private","All other miscellaneous manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"339999",78,0,2013,1,"N","Costilla County, Colorado","Private","All other miscellaneous manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"339999",78,0,2013,2,"N","Costilla County, Colorado","Private","All other miscellaneous manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"339999",78,0,2013,3,"N","Costilla County, Colorado","Private","All other miscellaneous manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"42",74,0,2013,1,"N","Costilla County, Colorado","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"42",74,0,2013,2,"N","Costilla County, Colorado","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"42",74,0,2013,3,"N","Costilla County, Colorado","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"424",75,0,2013,1,"N","Costilla County, Colorado","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"424",75,0,2013,2,"N","Costilla County, Colorado","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"424",75,0,2013,3,"N","Costilla County, Colorado","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"4244",76,0,2013,1,"N","Costilla County, Colorado","Private","Grocery and related product wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"4244",76,0,2013,2,"N","Costilla County, Colorado","Private","Grocery and related product wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"4244",76,0,2013,3,"N","Costilla County, Colorado","Private","Grocery and related product wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"42448",77,0,2013,1,"N","Costilla County, Colorado","Private","Fruit and vegetable merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"42448",77,0,2013,2,"N","Costilla County, Colorado","Private","Fruit and vegetable merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"42448",77,0,2013,3,"N","Costilla County, Colorado","Private","Fruit and vegetable merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"424480",78,0,2013,1,"N","Costilla County, Colorado","Private","Fruit and vegetable merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"424480",78,0,2013,2,"N","Costilla County, Colorado","Private","Fruit and vegetable merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"424480",78,0,2013,3,"N","Costilla County, Colorado","Private","Fruit and vegetable merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"425",75,0,2013,1,"N","Costilla County, Colorado","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"425",75,0,2013,2,"N","Costilla County, Colorado","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"425",75,0,2013,3,"N","Costilla County, Colorado","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"4251",76,0,2013,1,"N","Costilla County, Colorado","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"4251",76,0,2013,2,"N","Costilla County, Colorado","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"4251",76,0,2013,3,"N","Costilla County, Colorado","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"42512",77,0,2013,1,"N","Costilla County, Colorado","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"42512",77,0,2013,2,"N","Costilla County, Colorado","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"42512",77,0,2013,3,"N","Costilla County, Colorado","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"425120",78,0,2013,1,"N","Costilla County, Colorado","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"425120",78,0,2013,2,"N","Costilla County, Colorado","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"425120",78,0,2013,3,"N","Costilla County, Colorado","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"44-45",74,0,2013,1,"","Costilla County, Colorado","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,35,34,32,104732,101850,2187,239
+"08023",5,"44-45",74,0,2013,2,"","Costilla County, Colorado","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,33,34,34,114816,92101,1845,262
+"08023",5,"44-45",74,0,2013,3,"","Costilla County, Colorado","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",9,34,36,36,119751,82546,1596,261
+"08023",5,"445",75,0,2013,1,"N","Costilla County, Colorado","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"445",75,0,2013,2,"N","Costilla County, Colorado","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"445",75,0,2013,3,"N","Costilla County, Colorado","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",5,"4451",76,0,2013,1,"N","Costilla County, Colorado","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"4451",76,0,2013,2,"N","Costilla County, Colorado","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"4451",76,0,2013,3,"","Costilla County, Colorado","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,11,11,12,37416,34490,469,254
+"08023",5,"44511",77,0,2013,1,"N","Costilla County, Colorado","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"44511",77,0,2013,2,"N","Costilla County, Colorado","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"44511",77,0,2013,3,"","Costilla County, Colorado","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,11,11,12,37416,34490,469,254
+"08023",5,"445110",78,0,2013,1,"N","Costilla County, Colorado","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"445110",78,0,2013,2,"N","Costilla County, Colorado","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"445110",78,0,2013,3,"","Costilla County, Colorado","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,11,11,12,37416,34490,469,254
+"08023",5,"4453",76,0,2013,1,"-","Costilla County, Colorado","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08023",5,"4453",76,0,2013,2,"-","Costilla County, Colorado","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08023",5,"4453",76,0,2013,3,"N","Costilla County, Colorado","Private","Beer, wine, and liquor stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"44531",77,0,2013,1,"-","Costilla County, Colorado","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08023",5,"44531",77,0,2013,2,"-","Costilla County, Colorado","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08023",5,"44531",77,0,2013,3,"N","Costilla County, Colorado","Private","Beer, wine, and liquor stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"445310",78,0,2013,1,"-","Costilla County, Colorado","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08023",5,"445310",78,0,2013,2,"-","Costilla County, Colorado","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08023",5,"445310",78,0,2013,3,"N","Costilla County, Colorado","Private","Beer, wine, and liquor stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"447",75,0,2013,1,"","Costilla County, Colorado","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,17,17,17,51917,49163,1154,235
+"08023",5,"447",75,0,2013,2,"","Costilla County, Colorado","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,17,17,17,57802,41937,943,262
+"08023",5,"447",75,0,2013,3,"","Costilla County, Colorado","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,16,18,17,54954,31209,755,249
+"08023",5,"4471",76,0,2013,1,"","Costilla County, Colorado","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,17,17,17,51917,49163,1154,235
+"08023",5,"4471",76,0,2013,2,"","Costilla County, Colorado","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,17,17,17,57802,41937,943,262
+"08023",5,"4471",76,0,2013,3,"","Costilla County, Colorado","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,16,18,17,54954,31209,755,249
+"08023",5,"44711",77,0,2013,1,"N","Costilla County, Colorado","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"44711",77,0,2013,2,"N","Costilla County, Colorado","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"44711",77,0,2013,3,"N","Costilla County, Colorado","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"447110",78,0,2013,1,"N","Costilla County, Colorado","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"447110",78,0,2013,2,"N","Costilla County, Colorado","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"447110",78,0,2013,3,"N","Costilla County, Colorado","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"44719",77,0,2013,1,"N","Costilla County, Colorado","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"44719",77,0,2013,2,"N","Costilla County, Colorado","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"44719",77,0,2013,3,"N","Costilla County, Colorado","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"447190",78,0,2013,1,"N","Costilla County, Colorado","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"447190",78,0,2013,2,"N","Costilla County, Colorado","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"447190",78,0,2013,3,"N","Costilla County, Colorado","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"452",75,0,2013,1,"N","Costilla County, Colorado","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"452",75,0,2013,2,"N","Costilla County, Colorado","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"452",75,0,2013,3,"N","Costilla County, Colorado","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"4529",76,0,2013,1,"N","Costilla County, Colorado","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"4529",76,0,2013,2,"N","Costilla County, Colorado","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"4529",76,0,2013,3,"N","Costilla County, Colorado","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"45299",77,0,2013,1,"N","Costilla County, Colorado","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"45299",77,0,2013,2,"N","Costilla County, Colorado","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"45299",77,0,2013,3,"N","Costilla County, Colorado","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"452990",78,0,2013,1,"N","Costilla County, Colorado","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"452990",78,0,2013,2,"N","Costilla County, Colorado","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"452990",78,0,2013,3,"N","Costilla County, Colorado","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"51",74,0,2013,1,"N","Costilla County, Colorado","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"51",74,0,2013,2,"N","Costilla County, Colorado","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"51",74,0,2013,3,"N","Costilla County, Colorado","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"511",75,0,2013,1,"N","Costilla County, Colorado","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"511",75,0,2013,2,"N","Costilla County, Colorado","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"511",75,0,2013,3,"N","Costilla County, Colorado","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5111",76,0,2013,1,"N","Costilla County, Colorado","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5111",76,0,2013,2,"N","Costilla County, Colorado","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5111",76,0,2013,3,"N","Costilla County, Colorado","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"51111",77,0,2013,1,"N","Costilla County, Colorado","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"51111",77,0,2013,2,"N","Costilla County, Colorado","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"51111",77,0,2013,3,"N","Costilla County, Colorado","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"511110",78,0,2013,1,"N","Costilla County, Colorado","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"511110",78,0,2013,2,"N","Costilla County, Colorado","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"511110",78,0,2013,3,"N","Costilla County, Colorado","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"52",74,0,2013,1,"N","Costilla County, Colorado","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"52",74,0,2013,2,"N","Costilla County, Colorado","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"52",74,0,2013,3,"N","Costilla County, Colorado","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"522",75,0,2013,1,"N","Costilla County, Colorado","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"522",75,0,2013,2,"N","Costilla County, Colorado","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"522",75,0,2013,3,"N","Costilla County, Colorado","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5221",76,0,2013,1,"N","Costilla County, Colorado","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5221",76,0,2013,2,"N","Costilla County, Colorado","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5221",76,0,2013,3,"N","Costilla County, Colorado","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"52211",77,0,2013,1,"N","Costilla County, Colorado","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"52211",77,0,2013,2,"N","Costilla County, Colorado","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"52211",77,0,2013,3,"N","Costilla County, Colorado","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"522110",78,0,2013,1,"N","Costilla County, Colorado","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"522110",78,0,2013,2,"N","Costilla County, Colorado","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"522110",78,0,2013,3,"N","Costilla County, Colorado","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"53",74,0,2013,1,"N","Costilla County, Colorado","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"53",74,0,2013,2,"N","Costilla County, Colorado","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"53",74,0,2013,3,"N","Costilla County, Colorado","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",5,"531",75,0,2013,1,"N","Costilla County, Colorado","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"531",75,0,2013,2,"N","Costilla County, Colorado","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"531",75,0,2013,3,"N","Costilla County, Colorado","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",5,"5312",76,0,2013,1,"N","Costilla County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"5312",76,0,2013,2,"N","Costilla County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"5312",76,0,2013,3,"N","Costilla County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"53121",77,0,2013,1,"N","Costilla County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"53121",77,0,2013,2,"N","Costilla County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"53121",77,0,2013,3,"N","Costilla County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"531210",78,0,2013,1,"N","Costilla County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"531210",78,0,2013,2,"N","Costilla County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"531210",78,0,2013,3,"N","Costilla County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"5313",76,0,2013,1,"-","Costilla County, Colorado","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08023",5,"5313",76,0,2013,2,"N","Costilla County, Colorado","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5313",76,0,2013,3,"N","Costilla County, Colorado","Private","Activities related to real estate","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"53131",77,0,2013,1,"-","Costilla County, Colorado","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08023",5,"53131",77,0,2013,2,"N","Costilla County, Colorado","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"53131",77,0,2013,3,"N","Costilla County, Colorado","Private","Real estate property managers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"531311",78,0,2013,1,"-","Costilla County, Colorado","Private","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08023",5,"531311",78,0,2013,2,"N","Costilla County, Colorado","Private","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"531311",78,0,2013,3,"N","Costilla County, Colorado","Private","Residential property managers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"53139",77,0,2013,1,"-","Costilla County, Colorado","Private","Other activities related to real estate","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08023",5,"53139",77,0,2013,2,"-","Costilla County, Colorado","Private","Other activities related to real estate","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08023",5,"53139",77,0,2013,3,"N","Costilla County, Colorado","Private","Other activities related to real estate","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"531390",78,0,2013,1,"-","Costilla County, Colorado","Private","Other activities related to real estate","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08023",5,"531390",78,0,2013,2,"-","Costilla County, Colorado","Private","Other activities related to real estate","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08023",5,"531390",78,0,2013,3,"N","Costilla County, Colorado","Private","Other activities related to real estate","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"54",74,0,2013,1,"N","Costilla County, Colorado","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",5,"54",74,0,2013,2,"N","Costilla County, Colorado","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",5,"54",74,0,2013,3,"N","Costilla County, Colorado","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",5,"541",75,0,2013,1,"N","Costilla County, Colorado","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",5,"541",75,0,2013,2,"N","Costilla County, Colorado","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",5,"541",75,0,2013,3,"N","Costilla County, Colorado","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",5,"5411",76,0,2013,1,"N","Costilla County, Colorado","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5411",76,0,2013,2,"N","Costilla County, Colorado","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5411",76,0,2013,3,"N","Costilla County, Colorado","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"54111",77,0,2013,1,"N","Costilla County, Colorado","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"54111",77,0,2013,2,"N","Costilla County, Colorado","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"54111",77,0,2013,3,"N","Costilla County, Colorado","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"541110",78,0,2013,1,"N","Costilla County, Colorado","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"541110",78,0,2013,2,"N","Costilla County, Colorado","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"541110",78,0,2013,3,"N","Costilla County, Colorado","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5415",76,0,2013,1,"N","Costilla County, Colorado","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5415",76,0,2013,2,"N","Costilla County, Colorado","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5415",76,0,2013,3,"N","Costilla County, Colorado","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"54151",77,0,2013,1,"N","Costilla County, Colorado","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"54151",77,0,2013,2,"N","Costilla County, Colorado","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"54151",77,0,2013,3,"N","Costilla County, Colorado","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"541511",78,0,2013,1,"N","Costilla County, Colorado","Private","Custom computer programming services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"541511",78,0,2013,2,"N","Costilla County, Colorado","Private","Custom computer programming services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"541511",78,0,2013,3,"N","Costilla County, Colorado","Private","Custom computer programming services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5416",76,0,2013,1,"N","Costilla County, Colorado","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5416",76,0,2013,2,"N","Costilla County, Colorado","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5416",76,0,2013,3,"N","Costilla County, Colorado","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"54169",77,0,2013,1,"N","Costilla County, Colorado","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"54169",77,0,2013,2,"N","Costilla County, Colorado","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"54169",77,0,2013,3,"N","Costilla County, Colorado","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"541690",78,0,2013,1,"N","Costilla County, Colorado","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"541690",78,0,2013,2,"N","Costilla County, Colorado","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"541690",78,0,2013,3,"N","Costilla County, Colorado","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5418",76,0,2013,1,"N","Costilla County, Colorado","Private","Advertising, pr, and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5418",76,0,2013,2,"N","Costilla County, Colorado","Private","Advertising, pr, and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5418",76,0,2013,3,"N","Costilla County, Colorado","Private","Advertising, pr, and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"54181",77,0,2013,1,"N","Costilla County, Colorado","Private","Advertising agencies","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"54181",77,0,2013,2,"N","Costilla County, Colorado","Private","Advertising agencies","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"54181",77,0,2013,3,"N","Costilla County, Colorado","Private","Advertising agencies","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"541810",78,0,2013,1,"N","Costilla County, Colorado","Private","Advertising agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"541810",78,0,2013,2,"N","Costilla County, Colorado","Private","Advertising agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"541810",78,0,2013,3,"N","Costilla County, Colorado","Private","Advertising agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"56",74,0,2013,1,"N","Costilla County, Colorado","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"56",74,0,2013,2,"N","Costilla County, Colorado","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"56",74,0,2013,3,"N","Costilla County, Colorado","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"561",75,0,2013,1,"N","Costilla County, Colorado","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"561",75,0,2013,2,"N","Costilla County, Colorado","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"561",75,0,2013,3,"N","Costilla County, Colorado","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5615",76,0,2013,1,"N","Costilla County, Colorado","Private","Travel arrangement and reservation services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5615",76,0,2013,2,"N","Costilla County, Colorado","Private","Travel arrangement and reservation services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5615",76,0,2013,3,"N","Costilla County, Colorado","Private","Travel arrangement and reservation services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"56151",77,0,2013,1,"N","Costilla County, Colorado","Private","Travel agencies","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"56151",77,0,2013,2,"N","Costilla County, Colorado","Private","Travel agencies","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"56151",77,0,2013,3,"N","Costilla County, Colorado","Private","Travel agencies","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"561510",78,0,2013,1,"N","Costilla County, Colorado","Private","Travel agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"561510",78,0,2013,2,"N","Costilla County, Colorado","Private","Travel agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"561510",78,0,2013,3,"N","Costilla County, Colorado","Private","Travel agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"562",75,0,2013,1,"N","Costilla County, Colorado","Private","Waste management and remediation services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"562",75,0,2013,2,"N","Costilla County, Colorado","Private","Waste management and remediation services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"562",75,0,2013,3,"N","Costilla County, Colorado","Private","Waste management and remediation services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5621",76,0,2013,1,"N","Costilla County, Colorado","Private","Waste collection","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5621",76,0,2013,2,"N","Costilla County, Colorado","Private","Waste collection","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"5621",76,0,2013,3,"N","Costilla County, Colorado","Private","Waste collection","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"56211",77,0,2013,1,"N","Costilla County, Colorado","Private","Waste collection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"56211",77,0,2013,2,"N","Costilla County, Colorado","Private","Waste collection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"56211",77,0,2013,3,"N","Costilla County, Colorado","Private","Waste collection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"562111",78,0,2013,1,"N","Costilla County, Colorado","Private","Solid waste collection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"562111",78,0,2013,2,"N","Costilla County, Colorado","Private","Solid waste collection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"562111",78,0,2013,3,"N","Costilla County, Colorado","Private","Solid waste collection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"62",74,0,2013,1,"","Costilla County, Colorado","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",9,54,52,55,273714,216417,5166,392
+"08023",5,"62",74,0,2013,2,"","Costilla County, Colorado","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",9,57,59,51,321077,197946,5730,444
+"08023",5,"62",74,0,2013,3,"","Costilla County, Colorado","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",10,54,59,57,260528,121558,2528,354
+"08023",5,"621",75,0,2013,1,"","Costilla County, Colorado","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,27,24,25,181208,154430,1761,550
+"08023",5,"621",75,0,2013,2,"","Costilla County, Colorado","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,30,34,29,224116,128700,1480,556
+"08023",5,"621",75,0,2013,3,"","Costilla County, Colorado","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,35,36,33,175846,91770,1008,390
+"08023",5,"6211",76,0,2013,1,"N","Costilla County, Colorado","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"6211",76,0,2013,2,"N","Costilla County, Colorado","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"6211",76,0,2013,3,"N","Costilla County, Colorado","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"62111",77,0,2013,1,"N","Costilla County, Colorado","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"62111",77,0,2013,2,"N","Costilla County, Colorado","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"62111",77,0,2013,3,"N","Costilla County, Colorado","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"621111",78,0,2013,1,"N","Costilla County, Colorado","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"621111",78,0,2013,2,"N","Costilla County, Colorado","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"621111",78,0,2013,3,"N","Costilla County, Colorado","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"6212",76,0,2013,1,"N","Costilla County, Colorado","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"6212",76,0,2013,2,"N","Costilla County, Colorado","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"6212",76,0,2013,3,"N","Costilla County, Colorado","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"62121",77,0,2013,1,"N","Costilla County, Colorado","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"62121",77,0,2013,2,"N","Costilla County, Colorado","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"62121",77,0,2013,3,"N","Costilla County, Colorado","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"621210",78,0,2013,1,"N","Costilla County, Colorado","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"621210",78,0,2013,2,"N","Costilla County, Colorado","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"621210",78,0,2013,3,"N","Costilla County, Colorado","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"6213",76,0,2013,1,"N","Costilla County, Colorado","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"6213",76,0,2013,2,"N","Costilla County, Colorado","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"6213",76,0,2013,3,"N","Costilla County, Colorado","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",5,"62139",77,0,2013,1,"N","Costilla County, Colorado","Private","Offices of all other health practitioners","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"62139",77,0,2013,2,"N","Costilla County, Colorado","Private","Offices of all other health practitioners","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"62139",77,0,2013,3,"N","Costilla County, Colorado","Private","Offices of all other health practitioners","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",5,"621399",78,0,2013,1,"N","Costilla County, Colorado","Private","Offices of miscellaneous health practitioners","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"621399",78,0,2013,2,"N","Costilla County, Colorado","Private","Offices of miscellaneous health practitioners","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"621399",78,0,2013,3,"N","Costilla County, Colorado","Private","Offices of miscellaneous health practitioners","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08023",5,"6219",76,0,2013,1,"N","Costilla County, Colorado","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"6219",76,0,2013,2,"N","Costilla County, Colorado","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"6219",76,0,2013,3,"N","Costilla County, Colorado","Private","Other ambulatory health care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"62191",77,0,2013,1,"N","Costilla County, Colorado","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"62191",77,0,2013,2,"N","Costilla County, Colorado","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"62191",77,0,2013,3,"N","Costilla County, Colorado","Private","Ambulance services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"621910",78,0,2013,1,"N","Costilla County, Colorado","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"621910",78,0,2013,2,"N","Costilla County, Colorado","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"621910",78,0,2013,3,"N","Costilla County, Colorado","Private","Ambulance services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"624",75,0,2013,1,"","Costilla County, Colorado","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,27,28,30,92506,61987,3405,251
+"08023",5,"624",75,0,2013,2,"","Costilla County, Colorado","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,27,25,22,96961,69246,4250,302
+"08023",5,"624",75,0,2013,3,"","Costilla County, Colorado","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,19,23,24,84682,29788,1520,296
+"08023",5,"6241",76,0,2013,1,"N","Costilla County, Colorado","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"6241",76,0,2013,2,"N","Costilla County, Colorado","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"6241",76,0,2013,3,"N","Costilla County, Colorado","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"62412",77,0,2013,1,"N","Costilla County, Colorado","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"62412",77,0,2013,2,"N","Costilla County, Colorado","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"62412",77,0,2013,3,"N","Costilla County, Colorado","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"624120",78,0,2013,1,"N","Costilla County, Colorado","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"624120",78,0,2013,2,"N","Costilla County, Colorado","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"624120",78,0,2013,3,"N","Costilla County, Colorado","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"6244",76,0,2013,1,"N","Costilla County, Colorado","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"6244",76,0,2013,2,"N","Costilla County, Colorado","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"6244",76,0,2013,3,"N","Costilla County, Colorado","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"62441",77,0,2013,1,"N","Costilla County, Colorado","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"62441",77,0,2013,2,"N","Costilla County, Colorado","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"62441",77,0,2013,3,"N","Costilla County, Colorado","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"624410",78,0,2013,1,"N","Costilla County, Colorado","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"624410",78,0,2013,2,"N","Costilla County, Colorado","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"624410",78,0,2013,3,"N","Costilla County, Colorado","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08023",5,"71",74,0,2013,1,"N","Costilla County, Colorado","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"71",74,0,2013,2,"N","Costilla County, Colorado","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"71",74,0,2013,3,"N","Costilla County, Colorado","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"713",75,0,2013,1,"N","Costilla County, Colorado","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"713",75,0,2013,2,"N","Costilla County, Colorado","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"713",75,0,2013,3,"N","Costilla County, Colorado","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"7139",76,0,2013,1,"N","Costilla County, Colorado","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"7139",76,0,2013,2,"N","Costilla County, Colorado","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"7139",76,0,2013,3,"N","Costilla County, Colorado","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"71399",77,0,2013,1,"N","Costilla County, Colorado","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"71399",77,0,2013,2,"N","Costilla County, Colorado","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"71399",77,0,2013,3,"N","Costilla County, Colorado","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"713990",78,0,2013,1,"N","Costilla County, Colorado","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"713990",78,0,2013,2,"N","Costilla County, Colorado","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"713990",78,0,2013,3,"N","Costilla County, Colorado","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"72",74,0,2013,1,"N","Costilla County, Colorado","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"08023",5,"72",74,0,2013,2,"N","Costilla County, Colorado","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08023",5,"72",74,0,2013,3,"N","Costilla County, Colorado","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08023",5,"721",75,0,2013,1,"N","Costilla County, Colorado","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"721",75,0,2013,2,"N","Costilla County, Colorado","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"721",75,0,2013,3,"N","Costilla County, Colorado","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"7211",76,0,2013,1,"N","Costilla County, Colorado","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"7211",76,0,2013,2,"N","Costilla County, Colorado","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"7211",76,0,2013,3,"N","Costilla County, Colorado","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"72111",77,0,2013,1,"N","Costilla County, Colorado","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"72111",77,0,2013,2,"N","Costilla County, Colorado","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"72111",77,0,2013,3,"N","Costilla County, Colorado","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"721110",78,0,2013,1,"N","Costilla County, Colorado","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"721110",78,0,2013,2,"N","Costilla County, Colorado","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"721110",78,0,2013,3,"N","Costilla County, Colorado","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"722",75,0,2013,1,"","Costilla County, Colorado","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,37,35,38,94397,94397,1735,198
+"08023",5,"722",75,0,2013,2,"","Costilla County, Colorado","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,38,44,46,100958,98858,1347,182
+"08023",5,"722",75,0,2013,3,"","Costilla County, Colorado","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,46,48,44,145915,120039,1699,244
+"08023",5,"7225",76,0,2013,1,"","Costilla County, Colorado","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,37,35,38,94397,94397,1735,198
+"08023",5,"7225",76,0,2013,2,"","Costilla County, Colorado","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,38,44,46,100958,98858,1347,182
+"08023",5,"7225",76,0,2013,3,"","Costilla County, Colorado","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,46,48,44,145915,120039,1699,244
+"08023",5,"72251",77,0,2013,1,"","Costilla County, Colorado","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,37,35,38,94397,94397,1735,198
+"08023",5,"72251",77,0,2013,2,"","Costilla County, Colorado","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,38,44,46,100958,98858,1347,182
+"08023",5,"72251",77,0,2013,3,"","Costilla County, Colorado","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,46,48,44,145915,120039,1699,244
+"08023",5,"722511",78,0,2013,1,"","Costilla County, Colorado","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,37,35,38,94397,94397,1735,198
+"08023",5,"722511",78,0,2013,2,"","Costilla County, Colorado","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,38,44,46,100958,98858,1347,182
+"08023",5,"722511",78,0,2013,3,"","Costilla County, Colorado","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,46,48,44,145915,120039,1699,244
+"08023",5,"81",74,0,2013,1,"N","Costilla County, Colorado","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08023",5,"81",74,0,2013,2,"","Costilla County, Colorado","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,3,6,10,40319,30488,1433,490
+"08023",5,"81",74,0,2013,3,"","Costilla County, Colorado","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,10,9,10,64826,33204,2533,516
+"08023",5,"811",75,0,2013,1,"N","Costilla County, Colorado","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"811",75,0,2013,2,"N","Costilla County, Colorado","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"811",75,0,2013,3,"N","Costilla County, Colorado","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"8111",76,0,2013,1,"N","Costilla County, Colorado","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"8111",76,0,2013,2,"N","Costilla County, Colorado","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"8111",76,0,2013,3,"N","Costilla County, Colorado","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"81111",77,0,2013,1,"N","Costilla County, Colorado","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"81111",77,0,2013,2,"N","Costilla County, Colorado","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"81111",77,0,2013,3,"N","Costilla County, Colorado","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"811111",78,0,2013,1,"N","Costilla County, Colorado","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"811111",78,0,2013,2,"N","Costilla County, Colorado","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"811111",78,0,2013,3,"N","Costilla County, Colorado","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"813",75,0,2013,1,"N","Costilla County, Colorado","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"813",75,0,2013,2,"N","Costilla County, Colorado","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"813",75,0,2013,3,"N","Costilla County, Colorado","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"8139",76,0,2013,1,"N","Costilla County, Colorado","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"8139",76,0,2013,2,"N","Costilla County, Colorado","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"8139",76,0,2013,3,"N","Costilla County, Colorado","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"81399",77,0,2013,1,"N","Costilla County, Colorado","Private","Other similar organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"81399",77,0,2013,2,"N","Costilla County, Colorado","Private","Other similar organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"81399",77,0,2013,3,"N","Costilla County, Colorado","Private","Other similar organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"813990",78,0,2013,1,"N","Costilla County, Colorado","Private","Other similar organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"813990",78,0,2013,2,"N","Costilla County, Colorado","Private","Other similar organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"813990",78,0,2013,3,"N","Costilla County, Colorado","Private","Other similar organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"814",75,0,2013,1,"N","Costilla County, Colorado","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"814",75,0,2013,2,"N","Costilla County, Colorado","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"814",75,0,2013,3,"N","Costilla County, Colorado","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"8141",76,0,2013,1,"N","Costilla County, Colorado","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"8141",76,0,2013,2,"N","Costilla County, Colorado","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"8141",76,0,2013,3,"N","Costilla County, Colorado","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"81411",77,0,2013,1,"N","Costilla County, Colorado","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"81411",77,0,2013,2,"N","Costilla County, Colorado","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"81411",77,0,2013,3,"N","Costilla County, Colorado","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"814110",78,0,2013,1,"N","Costilla County, Colorado","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"814110",78,0,2013,2,"N","Costilla County, Colorado","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08023",5,"814110",78,0,2013,3,"N","Costilla County, Colorado","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

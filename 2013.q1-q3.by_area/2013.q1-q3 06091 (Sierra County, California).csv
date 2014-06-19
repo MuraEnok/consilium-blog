@@ -1,0 +1,752 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"06091",0,"10",70,0,2013,1,"","Sierra County, California","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",105,519,488,489,4687322,1778634,97930,723
+"06091",0,"10",70,0,2013,2,"","Sierra County, California","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",106,511,556,630,5330961,762128,41393,725
+"06091",0,"10",70,0,2013,3,"","Sierra County, California","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",112,567,579,601,5380463,591046,31517,711
+"06091",1,"10",71,0,2013,1,"","Sierra County, California","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,43,38,37,400448,0,0,783
+"06091",1,"10",71,0,2013,2,"","Sierra County, California","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,40,44,60,519232,0,0,832
+"06091",1,"10",71,0,2013,3,"","Sierra County, California","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,63,60,61,956267,0,0,1199
+"06091",1,"102",72,0,2013,1,"","Sierra County, California","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,43,38,37,400448,0,0,783
+"06091",1,"102",72,0,2013,2,"","Sierra County, California","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,40,44,60,519232,0,0,832
+"06091",1,"102",72,0,2013,3,"","Sierra County, California","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,63,60,61,956267,0,0,1199
+"06091",1,"1021",73,0,2013,1,"","Sierra County, California","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",6,9,9,8,47728,0,0,424
+"06091",1,"1021",73,0,2013,2,"","Sierra County, California","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",6,9,8,7,37921,0,0,365
+"06091",1,"1021",73,0,2013,3,"","Sierra County, California","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",6,6,9,9,65054,0,0,626
+"06091",1,"1028",73,0,2013,1,"","Sierra County, California","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,34,29,29,352720,0,0,885
+"06091",1,"1028",73,0,2013,2,"","Sierra County, California","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,31,36,53,481311,0,0,926
+"06091",1,"1028",73,0,2013,3,"","Sierra County, California","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,57,51,52,891213,0,0,1285
+"06091",1,"48-49",74,0,2013,1,"","Sierra County, California","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",6,9,9,8,47728,0,0,424
+"06091",1,"48-49",74,0,2013,2,"","Sierra County, California","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",6,9,8,7,37921,0,0,365
+"06091",1,"48-49",74,0,2013,3,"","Sierra County, California","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",6,6,9,9,65054,0,0,626
+"06091",1,"491",75,0,2013,1,"","Sierra County, California","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,9,9,8,47728,0,0,424
+"06091",1,"491",75,0,2013,2,"","Sierra County, California","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,9,8,7,37921,0,0,365
+"06091",1,"491",75,0,2013,3,"","Sierra County, California","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,6,9,9,65054,0,0,626
+"06091",1,"4911",76,0,2013,1,"","Sierra County, California","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,9,9,8,47728,0,0,424
+"06091",1,"4911",76,0,2013,2,"","Sierra County, California","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,9,8,7,37921,0,0,365
+"06091",1,"4911",76,0,2013,3,"","Sierra County, California","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,6,9,9,65054,0,0,626
+"06091",1,"49111",77,0,2013,1,"","Sierra County, California","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,9,9,8,47728,0,0,424
+"06091",1,"49111",77,0,2013,2,"","Sierra County, California","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,9,8,7,37921,0,0,365
+"06091",1,"49111",77,0,2013,3,"","Sierra County, California","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,6,9,9,65054,0,0,626
+"06091",1,"491110",78,0,2013,1,"","Sierra County, California","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,9,9,8,47728,0,0,424
+"06091",1,"491110",78,0,2013,2,"","Sierra County, California","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,9,8,7,37921,0,0,365
+"06091",1,"491110",78,0,2013,3,"","Sierra County, California","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,6,9,9,65054,0,0,626
+"06091",1,"92",74,0,2013,1,"","Sierra County, California","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,34,29,29,352720,0,0,885
+"06091",1,"92",74,0,2013,2,"","Sierra County, California","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,31,36,53,481311,0,0,926
+"06091",1,"92",74,0,2013,3,"","Sierra County, California","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,57,51,52,891213,0,0,1285
+"06091",1,"924",75,0,2013,1,"","Sierra County, California","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,34,29,29,352720,0,0,885
+"06091",1,"924",75,0,2013,2,"","Sierra County, California","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,31,36,53,481311,0,0,926
+"06091",1,"924",75,0,2013,3,"","Sierra County, California","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,57,51,52,891213,0,0,1285
+"06091",1,"9241",76,0,2013,1,"","Sierra County, California","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,34,29,29,352720,0,0,885
+"06091",1,"9241",76,0,2013,2,"","Sierra County, California","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,31,36,53,481311,0,0,926
+"06091",1,"9241",76,0,2013,3,"","Sierra County, California","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,57,51,52,891213,0,0,1285
+"06091",1,"92412",77,0,2013,1,"","Sierra County, California","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,34,29,29,352720,0,0,885
+"06091",1,"92412",77,0,2013,2,"","Sierra County, California","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,31,36,53,481311,0,0,926
+"06091",1,"92412",77,0,2013,3,"","Sierra County, California","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,57,51,52,891213,0,0,1285
+"06091",1,"924120",78,0,2013,1,"","Sierra County, California","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,34,29,29,352720,0,0,885
+"06091",1,"924120",78,0,2013,2,"","Sierra County, California","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,31,36,53,481311,0,0,926
+"06091",1,"924120",78,0,2013,3,"","Sierra County, California","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,57,51,52,891213,0,0,1285
+"06091",3,"10",71,0,2013,1,"","Sierra County, California","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",21,255,243,255,2485250,723124,44225,762
+"06091",3,"10",71,0,2013,2,"","Sierra County, California","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",21,244,240,243,2220502,52880,3129,705
+"06091",3,"10",71,0,2013,3,"","Sierra County, California","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",21,151,166,224,1580201,52242,3017,674
+"06091",3,"101",72,0,2013,1,"N","Sierra County, California","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"101",72,0,2013,2,"N","Sierra County, California","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"101",72,0,2013,3,"N","Sierra County, California","Local Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"1012",73,0,2013,1,"N","Sierra County, California","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"1012",73,0,2013,2,"N","Sierra County, California","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"1012",73,0,2013,3,"N","Sierra County, California","Local Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"102",72,0,2013,1,"N","Sierra County, California","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",20,0,0,0,0,0,0,0
+"06091",3,"102",72,0,2013,2,"N","Sierra County, California","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",20,0,0,0,0,0,0,0
+"06091",3,"102",72,0,2013,3,"N","Sierra County, California","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",20,0,0,0,0,0,0,0
+"06091",3,"1024",73,0,2013,1,"N","Sierra County, California","Local Government","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",3,"1024",73,0,2013,2,"N","Sierra County, California","Local Government","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",3,"1024",73,0,2013,3,"N","Sierra County, California","Local Government","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",3,"1025",73,0,2013,1,"","Sierra County, California","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",9,112,108,119,922667,0,0,628
+"06091",3,"1025",73,0,2013,2,"","Sierra County, California","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",9,111,115,114,915302,0,0,621
+"06091",3,"1025",73,0,2013,3,"","Sierra County, California","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",9,25,36,94,458947,0,0,683
+"06091",3,"1028",73,0,2013,1,"","Sierra County, California","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",9,116,113,116,1285649,598623,36524,860
+"06091",3,"1028",73,0,2013,2,"N","Sierra County, California","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"06091",3,"1028",73,0,2013,3,"N","Sierra County, California","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"06091",3,"23",74,0,2013,1,"N","Sierra County, California","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"23",74,0,2013,2,"N","Sierra County, California","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"23",74,0,2013,3,"N","Sierra County, California","Local Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"237",75,0,2013,1,"N","Sierra County, California","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"237",75,0,2013,2,"N","Sierra County, California","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"237",75,0,2013,3,"N","Sierra County, California","Local Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"2373",76,0,2013,1,"N","Sierra County, California","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"2373",76,0,2013,2,"N","Sierra County, California","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"2373",76,0,2013,3,"N","Sierra County, California","Local Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"23731",77,0,2013,1,"N","Sierra County, California","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"23731",77,0,2013,2,"N","Sierra County, California","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"23731",77,0,2013,3,"N","Sierra County, California","Local Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"237310",78,0,2013,1,"N","Sierra County, California","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"237310",78,0,2013,2,"N","Sierra County, California","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"237310",78,0,2013,3,"N","Sierra County, California","Local Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"54",74,0,2013,1,"N","Sierra County, California","Local Government","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"54",74,0,2013,2,"N","Sierra County, California","Local Government","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"54",74,0,2013,3,"N","Sierra County, California","Local Government","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"541",75,0,2013,1,"N","Sierra County, California","Local Government","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"541",75,0,2013,2,"N","Sierra County, California","Local Government","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"541",75,0,2013,3,"N","Sierra County, California","Local Government","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"5416",76,0,2013,1,"N","Sierra County, California","Local Government","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"5416",76,0,2013,2,"N","Sierra County, California","Local Government","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"5416",76,0,2013,3,"N","Sierra County, California","Local Government","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"54161",77,0,2013,1,"N","Sierra County, California","Local Government","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"54161",77,0,2013,2,"N","Sierra County, California","Local Government","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"54161",77,0,2013,3,"N","Sierra County, California","Local Government","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"541611",78,0,2013,1,"N","Sierra County, California","Local Government","Administrative management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"541611",78,0,2013,2,"N","Sierra County, California","Local Government","Administrative management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"541611",78,0,2013,3,"N","Sierra County, California","Local Government","Administrative management consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"56",74,0,2013,1,"N","Sierra County, California","Local Government","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"56",74,0,2013,2,"N","Sierra County, California","Local Government","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"56",74,0,2013,3,"N","Sierra County, California","Local Government","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"561",75,0,2013,1,"N","Sierra County, California","Local Government","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"561",75,0,2013,2,"N","Sierra County, California","Local Government","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"561",75,0,2013,3,"N","Sierra County, California","Local Government","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"5619",76,0,2013,1,"N","Sierra County, California","Local Government","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"5619",76,0,2013,2,"N","Sierra County, California","Local Government","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"5619",76,0,2013,3,"N","Sierra County, California","Local Government","Other support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"56199",77,0,2013,1,"N","Sierra County, California","Local Government","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"56199",77,0,2013,2,"N","Sierra County, California","Local Government","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"56199",77,0,2013,3,"N","Sierra County, California","Local Government","All other support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"561990",78,0,2013,1,"N","Sierra County, California","Local Government","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"561990",78,0,2013,2,"N","Sierra County, California","Local Government","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"561990",78,0,2013,3,"N","Sierra County, California","Local Government","All other support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"61",74,0,2013,1,"","Sierra County, California","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",9,112,108,119,922667,0,0,628
+"06091",3,"61",74,0,2013,2,"","Sierra County, California","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",9,111,115,114,915302,0,0,621
+"06091",3,"61",74,0,2013,3,"","Sierra County, California","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",9,25,36,94,458947,0,0,683
+"06091",3,"611",75,0,2013,1,"","Sierra County, California","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,112,108,119,922667,0,0,628
+"06091",3,"611",75,0,2013,2,"","Sierra County, California","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,111,115,114,915302,0,0,621
+"06091",3,"611",75,0,2013,3,"","Sierra County, California","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",9,25,36,94,458947,0,0,683
+"06091",3,"6111",76,0,2013,1,"","Sierra County, California","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,112,108,119,922667,0,0,628
+"06091",3,"6111",76,0,2013,2,"","Sierra County, California","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,111,115,114,915302,0,0,621
+"06091",3,"6111",76,0,2013,3,"","Sierra County, California","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",9,25,36,94,458947,0,0,683
+"06091",3,"61111",77,0,2013,1,"","Sierra County, California","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,112,108,119,922667,0,0,628
+"06091",3,"61111",77,0,2013,2,"","Sierra County, California","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,111,115,114,915302,0,0,621
+"06091",3,"61111",77,0,2013,3,"","Sierra County, California","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",9,25,36,94,458947,0,0,683
+"06091",3,"611110",78,0,2013,1,"","Sierra County, California","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",9,112,108,119,922667,0,0,628
+"06091",3,"611110",78,0,2013,2,"","Sierra County, California","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",9,111,115,114,915302,0,0,621
+"06091",3,"611110",78,0,2013,3,"","Sierra County, California","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",9,25,36,94,458947,0,0,683
+"06091",3,"92",74,0,2013,1,"","Sierra County, California","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",9,116,113,116,1285649,598623,36524,860
+"06091",3,"92",74,0,2013,2,"N","Sierra County, California","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"06091",3,"92",74,0,2013,3,"N","Sierra County, California","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"06091",3,"921",75,0,2013,1,"","Sierra County, California","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,29,30,31,349561,167896,10335,896
+"06091",3,"921",75,0,2013,2,"","Sierra County, California","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,30,28,30,307627,15816,959,807
+"06091",3,"921",75,0,2013,3,"","Sierra County, California","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,29,27,28,294541,11796,726,809
+"06091",3,"9211",76,0,2013,1,"","Sierra County, California","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,29,30,31,349561,167896,10335,896
+"06091",3,"9211",76,0,2013,2,"","Sierra County, California","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,30,28,30,307627,15816,959,807
+"06091",3,"9211",76,0,2013,3,"","Sierra County, California","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,29,27,28,294541,11796,726,809
+"06091",3,"92113",77,0,2013,1,"N","Sierra County, California","Local Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"92113",77,0,2013,2,"N","Sierra County, California","Local Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"92113",77,0,2013,3,"N","Sierra County, California","Local Government","Public finance activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"921130",78,0,2013,1,"N","Sierra County, California","Local Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"921130",78,0,2013,2,"N","Sierra County, California","Local Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"921130",78,0,2013,3,"N","Sierra County, California","Local Government","Public finance activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"92114",77,0,2013,1,"N","Sierra County, California","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",3,"92114",77,0,2013,2,"N","Sierra County, California","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",3,"92114",77,0,2013,3,"N","Sierra County, California","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",3,"921140",78,0,2013,1,"N","Sierra County, California","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",3,"921140",78,0,2013,2,"N","Sierra County, California","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",3,"921140",78,0,2013,3,"N","Sierra County, California","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",3,"922",75,0,2013,1,"N","Sierra County, California","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",3,"922",75,0,2013,2,"N","Sierra County, California","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",3,"922",75,0,2013,3,"N","Sierra County, California","Local Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",3,"9221",76,0,2013,1,"N","Sierra County, California","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",3,"9221",76,0,2013,2,"N","Sierra County, California","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",3,"9221",76,0,2013,3,"N","Sierra County, California","Local Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",3,"92216",77,0,2013,1,"N","Sierra County, California","Local Government","Fire protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"92216",77,0,2013,2,"N","Sierra County, California","Local Government","Fire protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"92216",77,0,2013,3,"N","Sierra County, California","Local Government","Fire protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"922160",78,0,2013,1,"N","Sierra County, California","Local Government","Fire protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"922160",78,0,2013,2,"N","Sierra County, California","Local Government","Fire protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"922160",78,0,2013,3,"N","Sierra County, California","Local Government","Fire protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"92219",77,0,2013,1,"N","Sierra County, California","Local Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"92219",77,0,2013,2,"N","Sierra County, California","Local Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"92219",77,0,2013,3,"N","Sierra County, California","Local Government","Other justice and safety activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"922190",78,0,2013,1,"N","Sierra County, California","Local Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"922190",78,0,2013,2,"N","Sierra County, California","Local Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"922190",78,0,2013,3,"N","Sierra County, California","Local Government","Other justice and safety activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"923",75,0,2013,1,"N","Sierra County, California","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",3,"923",75,0,2013,2,"N","Sierra County, California","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",3,"923",75,0,2013,3,"N","Sierra County, California","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",3,"9231",76,0,2013,1,"N","Sierra County, California","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",3,"9231",76,0,2013,2,"N","Sierra County, California","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",3,"9231",76,0,2013,3,"N","Sierra County, California","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",3,"92312",77,0,2013,1,"N","Sierra County, California","Local Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"92312",77,0,2013,2,"N","Sierra County, California","Local Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"92312",77,0,2013,3,"N","Sierra County, California","Local Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"923120",78,0,2013,1,"N","Sierra County, California","Local Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"923120",78,0,2013,2,"N","Sierra County, California","Local Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"923120",78,0,2013,3,"N","Sierra County, California","Local Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"92313",77,0,2013,1,"N","Sierra County, California","Local Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"92313",77,0,2013,2,"N","Sierra County, California","Local Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"92313",77,0,2013,3,"N","Sierra County, California","Local Government","Other human resource programs administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"923130",78,0,2013,1,"N","Sierra County, California","Local Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"923130",78,0,2013,2,"N","Sierra County, California","Local Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"923130",78,0,2013,3,"N","Sierra County, California","Local Government","Other human resource programs administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"924",75,0,2013,1,"N","Sierra County, California","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"924",75,0,2013,2,"N","Sierra County, California","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"924",75,0,2013,3,"N","Sierra County, California","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"9241",76,0,2013,1,"N","Sierra County, California","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"9241",76,0,2013,2,"N","Sierra County, California","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"9241",76,0,2013,3,"N","Sierra County, California","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"92411",77,0,2013,1,"N","Sierra County, California","Local Government","Air, water, and waste program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"92411",77,0,2013,2,"N","Sierra County, California","Local Government","Air, water, and waste program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"92411",77,0,2013,3,"N","Sierra County, California","Local Government","Air, water, and waste program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"924110",78,0,2013,1,"N","Sierra County, California","Local Government","Air, water, and waste program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"924110",78,0,2013,2,"N","Sierra County, California","Local Government","Air, water, and waste program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",3,"924110",78,0,2013,3,"N","Sierra County, California","Local Government","Air, water, and waste program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"10",71,0,2013,1,"","Sierra County, California","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",76,221,207,197,1801624,1055510,53705,665
+"06091",5,"10",71,0,2013,2,"","Sierra County, California","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",77,227,272,327,2591227,709248,38264,724
+"06091",5,"10",71,0,2013,3,"","Sierra County, California","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",83,353,353,316,2843995,538804,28500,642
+"06091",5,"101",72,0,2013,1,"","Sierra County, California","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",18,30,18,16,180826,155695,8941,652
+"06091",5,"101",72,0,2013,2,"","Sierra County, California","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",18,30,32,57,320486,193394,11680,621
+"06091",5,"101",72,0,2013,3,"","Sierra County, California","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",18,55,53,58,446902,103197,6219,621
+"06091",5,"1011",73,0,2013,1,"N","Sierra County, California","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"06091",5,"1011",73,0,2013,2,"N","Sierra County, California","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"06091",5,"1011",73,0,2013,3,"N","Sierra County, California","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"06091",5,"1012",73,0,2013,1,"N","Sierra County, California","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"06091",5,"1012",73,0,2013,2,"","Sierra County, California","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",10,9,13,36,189371,112784,6993,753
+"06091",5,"1012",73,0,2013,3,"","Sierra County, California","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",10,32,31,35,310961,72204,4476,732
+"06091",5,"1013",73,0,2013,1,"N","Sierra County, California","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"1013",73,0,2013,2,"N","Sierra County, California","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"1013",73,0,2013,3,"N","Sierra County, California","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"102",72,0,2013,1,"","Sierra County, California","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",58,191,189,181,1620798,899815,44764,667
+"06091",5,"102",72,0,2013,2,"","Sierra County, California","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",59,197,240,270,2270741,515854,26584,741
+"06091",5,"102",72,0,2013,3,"","Sierra County, California","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",65,298,300,258,2397093,435607,22281,646
+"06091",5,"1021",73,0,2013,1,"","Sierra County, California","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",12,46,42,43,299514,213258,12063,528
+"06091",5,"1021",73,0,2013,2,"","Sierra County, California","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",12,41,49,47,306389,78262,4337,516
+"06091",5,"1021",73,0,2013,3,"","Sierra County, California","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",12,46,47,49,319625,89215,4764,519
+"06091",5,"1022",73,0,2013,1,"N","Sierra County, California","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"1022",73,0,2013,2,"N","Sierra County, California","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"1022",73,0,2013,3,"N","Sierra County, California","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"1023",73,0,2013,1,"","Sierra County, California","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",3,15,15,16,179481,74899,3239,900
+"06091",5,"1023",73,0,2013,2,"","Sierra County, California","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",3,17,17,17,190618,9798,373,863
+"06091",5,"1023",73,0,2013,3,"","Sierra County, California","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",3,15,17,17,203426,523,26,958
+"06091",5,"1024",73,0,2013,1,"N","Sierra County, California","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"06091",5,"1024",73,0,2013,2,"","Sierra County, California","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",5,12,29,29,238646,94874,5462,787
+"06091",5,"1024",73,0,2013,3,"","Sierra County, California","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",5,40,39,25,365996,98096,5423,812
+"06091",5,"1025",73,0,2013,1,"","Sierra County, California","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",21,111,113,108,903813,520792,25398,628
+"06091",5,"1025",73,0,2013,2,"","Sierra County, California","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",21,104,105,106,1275469,171587,8133,934
+"06091",5,"1025",73,0,2013,3,"","Sierra County, California","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",27,109,112,110,1117763,70409,3323,779
+"06091",5,"1026",73,0,2013,1,"","Sierra County, California","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",9,10,10,9,32267,32267,1423,257
+"06091",5,"1026",73,0,2013,2,"","Sierra County, California","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",10,19,36,62,171921,154478,8049,339
+"06091",5,"1026",73,0,2013,3,"","Sierra County, California","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",10,68,68,51,269070,168103,8298,332
+"06091",5,"1027",73,0,2013,1,"N","Sierra County, California","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"1027",73,0,2013,2,"N","Sierra County, California","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"1027",73,0,2013,3,"N","Sierra County, California","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"1029",73,0,2013,1,"","Sierra County, California","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",4,2,3,3,117141,17486,896,3379
+"06091",5,"1029",73,0,2013,2,"","Sierra County, California","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",4,3,3,3,81063,3510,119,2079
+"06091",5,"1029",73,0,2013,3,"","Sierra County, California","Private","Unclassified","County, by Supersector -- by ownership sector","All establishment sizes",4,3,4,3,79498,1919,65,1835
+"06091",5,"11",74,0,2013,1,"N","Sierra County, California","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"06091",5,"11",74,0,2013,2,"","Sierra County, California","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",5,16,15,16,105155,68528,4041,516
+"06091",5,"11",74,0,2013,3,"","Sierra County, California","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",5,19,18,18,113974,21770,1283,478
+"06091",5,"111",75,0,2013,1,"N","Sierra County, California","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"111",75,0,2013,2,"N","Sierra County, California","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"111",75,0,2013,3,"N","Sierra County, California","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"1114",76,0,2013,1,"N","Sierra County, California","Private","Greenhouse and nursery production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"1114",76,0,2013,2,"N","Sierra County, California","Private","Greenhouse and nursery production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"1114",76,0,2013,3,"N","Sierra County, California","Private","Greenhouse and nursery production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"11142",77,0,2013,1,"N","Sierra County, California","Private","Nursery and floriculture production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"11142",77,0,2013,2,"N","Sierra County, California","Private","Nursery and floriculture production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"11142",77,0,2013,3,"N","Sierra County, California","Private","Nursery and floriculture production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"111421",78,0,2013,1,"N","Sierra County, California","Private","Nursery and tree production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"111421",78,0,2013,2,"N","Sierra County, California","Private","Nursery and tree production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"111421",78,0,2013,3,"N","Sierra County, California","Private","Nursery and tree production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"112",75,0,2013,1,"N","Sierra County, California","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"112",75,0,2013,2,"","Sierra County, California","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,9,9,9,59798,23171,1229,511
+"06091",5,"112",75,0,2013,3,"","Sierra County, California","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,11,11,11,61278,8367,452,429
+"06091",5,"1121",76,0,2013,1,"N","Sierra County, California","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"1121",76,0,2013,2,"","Sierra County, California","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,9,9,59798,23171,1229,511
+"06091",5,"1121",76,0,2013,3,"","Sierra County, California","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,11,11,11,61278,8367,452,429
+"06091",5,"11211",77,0,2013,1,"N","Sierra County, California","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"11211",77,0,2013,2,"","Sierra County, California","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,9,9,59798,23171,1229,511
+"06091",5,"11211",77,0,2013,3,"","Sierra County, California","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,11,11,11,61278,8367,452,429
+"06091",5,"112111",78,0,2013,1,"N","Sierra County, California","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"112111",78,0,2013,2,"","Sierra County, California","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,9,9,59798,23171,1229,511
+"06091",5,"112111",78,0,2013,3,"","Sierra County, California","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,11,11,11,61278,8367,452,429
+"06091",5,"113",75,0,2013,1,"N","Sierra County, California","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"113",75,0,2013,2,"N","Sierra County, California","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"113",75,0,2013,3,"N","Sierra County, California","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"1131",76,0,2013,1,"N","Sierra County, California","Private","Timber tract operations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"1131",76,0,2013,2,"N","Sierra County, California","Private","Timber tract operations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"1131",76,0,2013,3,"N","Sierra County, California","Private","Timber tract operations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"11311",77,0,2013,1,"N","Sierra County, California","Private","Timber tract operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"11311",77,0,2013,2,"N","Sierra County, California","Private","Timber tract operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"11311",77,0,2013,3,"N","Sierra County, California","Private","Timber tract operations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"113110",78,0,2013,1,"N","Sierra County, California","Private","Timber tract operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"113110",78,0,2013,2,"N","Sierra County, California","Private","Timber tract operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"113110",78,0,2013,3,"N","Sierra County, California","Private","Timber tract operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"21",74,0,2013,1,"N","Sierra County, California","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"21",74,0,2013,2,"N","Sierra County, California","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"21",74,0,2013,3,"N","Sierra County, California","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"212",75,0,2013,1,"N","Sierra County, California","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"212",75,0,2013,2,"N","Sierra County, California","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"212",75,0,2013,3,"N","Sierra County, California","Private","Mining, except oil and gas","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"2122",76,0,2013,1,"N","Sierra County, California","Private","Metal ore mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"2122",76,0,2013,2,"N","Sierra County, California","Private","Metal ore mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"2122",76,0,2013,3,"N","Sierra County, California","Private","Metal ore mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"21222",77,0,2013,1,"N","Sierra County, California","Private","Gold ore and silver ore mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"21222",77,0,2013,2,"N","Sierra County, California","Private","Gold ore and silver ore mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"21222",77,0,2013,3,"N","Sierra County, California","Private","Gold ore and silver ore mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"212221",78,0,2013,1,"N","Sierra County, California","Private","Gold ore mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"212221",78,0,2013,2,"N","Sierra County, California","Private","Gold ore mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"212221",78,0,2013,3,"N","Sierra County, California","Private","Gold ore mining","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"22",74,0,2013,1,"N","Sierra County, California","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"22",74,0,2013,2,"N","Sierra County, California","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"22",74,0,2013,3,"N","Sierra County, California","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"221",75,0,2013,1,"N","Sierra County, California","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"221",75,0,2013,2,"N","Sierra County, California","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"221",75,0,2013,3,"N","Sierra County, California","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"2211",76,0,2013,1,"N","Sierra County, California","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"2211",76,0,2013,2,"N","Sierra County, California","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"2211",76,0,2013,3,"N","Sierra County, California","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"22111",77,0,2013,1,"N","Sierra County, California","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"22111",77,0,2013,2,"N","Sierra County, California","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"22111",77,0,2013,3,"N","Sierra County, California","Private","Electric power generation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"221117",78,0,2013,1,"N","Sierra County, California","Private","Biomass electric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"221117",78,0,2013,2,"N","Sierra County, California","Private","Biomass electric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"221117",78,0,2013,3,"N","Sierra County, California","Private","Biomass electric power generation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"23",74,0,2013,1,"N","Sierra County, California","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"06091",5,"23",74,0,2013,2,"","Sierra County, California","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",10,9,13,36,189371,112784,6993,753
+"06091",5,"23",74,0,2013,3,"","Sierra County, California","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",10,32,31,35,310961,72204,4476,732
+"06091",5,"236",75,0,2013,1,"N","Sierra County, California","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"236",75,0,2013,2,"N","Sierra County, California","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"236",75,0,2013,3,"N","Sierra County, California","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"2361",76,0,2013,1,"N","Sierra County, California","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"2361",76,0,2013,2,"N","Sierra County, California","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"2361",76,0,2013,3,"N","Sierra County, California","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"23611",77,0,2013,1,"N","Sierra County, California","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"23611",77,0,2013,2,"N","Sierra County, California","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"23611",77,0,2013,3,"N","Sierra County, California","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"236115",78,0,2013,1,"N","Sierra County, California","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"236115",78,0,2013,2,"N","Sierra County, California","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"236115",78,0,2013,3,"N","Sierra County, California","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"236118",78,0,2013,1,"N","Sierra County, California","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"236118",78,0,2013,2,"N","Sierra County, California","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"236118",78,0,2013,3,"N","Sierra County, California","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"237",75,0,2013,1,"N","Sierra County, California","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"237",75,0,2013,2,"N","Sierra County, California","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"237",75,0,2013,3,"N","Sierra County, California","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"2379",76,0,2013,1,"N","Sierra County, California","Private","Other heavy construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"2379",76,0,2013,2,"N","Sierra County, California","Private","Other heavy construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"2379",76,0,2013,3,"N","Sierra County, California","Private","Other heavy construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"23799",77,0,2013,1,"N","Sierra County, California","Private","Other heavy construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"23799",77,0,2013,2,"N","Sierra County, California","Private","Other heavy construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"23799",77,0,2013,3,"N","Sierra County, California","Private","Other heavy construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"237990",78,0,2013,1,"N","Sierra County, California","Private","Other heavy construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"237990",78,0,2013,2,"N","Sierra County, California","Private","Other heavy construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"237990",78,0,2013,3,"N","Sierra County, California","Private","Other heavy construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"238",75,0,2013,1,"N","Sierra County, California","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"06091",5,"238",75,0,2013,2,"N","Sierra County, California","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"06091",5,"238",75,0,2013,3,"N","Sierra County, California","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"06091",5,"2381",76,0,2013,1,"N","Sierra County, California","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"2381",76,0,2013,2,"N","Sierra County, California","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"2381",76,0,2013,3,"N","Sierra County, California","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"23811",77,0,2013,1,"N","Sierra County, California","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"23811",77,0,2013,2,"N","Sierra County, California","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"23811",77,0,2013,3,"N","Sierra County, California","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"238111",78,0,2013,1,"N","Sierra County, California","Private","Residential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"238111",78,0,2013,2,"N","Sierra County, California","Private","Residential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"238111",78,0,2013,3,"N","Sierra County, California","Private","Residential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"238112",78,0,2013,1,"N","Sierra County, California","Private","Nonresidential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"238112",78,0,2013,2,"N","Sierra County, California","Private","Nonresidential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"238112",78,0,2013,3,"N","Sierra County, California","Private","Nonresidential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"23819",77,0,2013,1,"N","Sierra County, California","Private","Other building exterior contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"23819",77,0,2013,2,"N","Sierra County, California","Private","Other building exterior contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"23819",77,0,2013,3,"N","Sierra County, California","Private","Other building exterior contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"238191",78,0,2013,1,"N","Sierra County, California","Private","Other residential exterior contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"238191",78,0,2013,2,"N","Sierra County, California","Private","Other residential exterior contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"238191",78,0,2013,3,"N","Sierra County, California","Private","Other residential exterior contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"2382",76,0,2013,1,"N","Sierra County, California","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"2382",76,0,2013,2,"N","Sierra County, California","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"2382",76,0,2013,3,"N","Sierra County, California","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"23822",77,0,2013,1,"N","Sierra County, California","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"23822",77,0,2013,2,"N","Sierra County, California","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"23822",77,0,2013,3,"N","Sierra County, California","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"238221",78,0,2013,1,"N","Sierra County, California","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"238221",78,0,2013,2,"N","Sierra County, California","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"238221",78,0,2013,3,"N","Sierra County, California","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"2389",76,0,2013,1,"N","Sierra County, California","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"2389",76,0,2013,2,"N","Sierra County, California","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"2389",76,0,2013,3,"N","Sierra County, California","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"23891",77,0,2013,1,"N","Sierra County, California","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"23891",77,0,2013,2,"N","Sierra County, California","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"23891",77,0,2013,3,"N","Sierra County, California","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"238912",78,0,2013,1,"N","Sierra County, California","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"238912",78,0,2013,2,"N","Sierra County, California","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"238912",78,0,2013,3,"N","Sierra County, California","Private","Nonresidential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"31-33",74,0,2013,1,"N","Sierra County, California","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"31-33",74,0,2013,2,"N","Sierra County, California","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"31-33",74,0,2013,3,"N","Sierra County, California","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"325",75,0,2013,1,"N","Sierra County, California","Private","Chemical manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"325",75,0,2013,2,"N","Sierra County, California","Private","Chemical manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"325",75,0,2013,3,"N","Sierra County, California","Private","Chemical manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"3259",76,0,2013,1,"N","Sierra County, California","Private","Other chemical product and preparation mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"3259",76,0,2013,2,"N","Sierra County, California","Private","Other chemical product and preparation mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"3259",76,0,2013,3,"N","Sierra County, California","Private","Other chemical product and preparation mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"32599",77,0,2013,1,"N","Sierra County, California","Private","All other chemical preparation manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"32599",77,0,2013,2,"N","Sierra County, California","Private","All other chemical preparation manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"32599",77,0,2013,3,"N","Sierra County, California","Private","All other chemical preparation manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"325998",78,0,2013,1,"N","Sierra County, California","Private","Other miscellaneous chemical product mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"325998",78,0,2013,2,"N","Sierra County, California","Private","Other miscellaneous chemical product mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"325998",78,0,2013,3,"N","Sierra County, California","Private","Other miscellaneous chemical product mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"42",74,0,2013,1,"N","Sierra County, California","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"42",74,0,2013,2,"","Sierra County, California","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",3,15,14,13,168576,20429,1267,926
+"06091",5,"42",74,0,2013,3,"","Sierra County, California","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",3,12,13,13,149229,8021,497,906
+"06091",5,"423",75,0,2013,1,"N","Sierra County, California","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"423",75,0,2013,2,"N","Sierra County, California","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"423",75,0,2013,3,"N","Sierra County, California","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"4237",76,0,2013,1,"N","Sierra County, California","Private","Hardware and plumbing merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"4237",76,0,2013,2,"N","Sierra County, California","Private","Hardware and plumbing merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"4237",76,0,2013,3,"N","Sierra County, California","Private","Hardware and plumbing merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"42371",77,0,2013,1,"N","Sierra County, California","Private","Hardware merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"42371",77,0,2013,2,"N","Sierra County, California","Private","Hardware merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"42371",77,0,2013,3,"N","Sierra County, California","Private","Hardware merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"423710",78,0,2013,1,"N","Sierra County, California","Private","Hardware merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"423710",78,0,2013,2,"N","Sierra County, California","Private","Hardware merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"423710",78,0,2013,3,"N","Sierra County, California","Private","Hardware merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"425",75,0,2013,1,"N","Sierra County, California","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"425",75,0,2013,2,"N","Sierra County, California","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"425",75,0,2013,3,"N","Sierra County, California","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"4251",76,0,2013,1,"N","Sierra County, California","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"4251",76,0,2013,2,"N","Sierra County, California","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"4251",76,0,2013,3,"N","Sierra County, California","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"42512",77,0,2013,1,"N","Sierra County, California","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"42512",77,0,2013,2,"N","Sierra County, California","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"42512",77,0,2013,3,"N","Sierra County, California","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"425120",78,0,2013,1,"N","Sierra County, California","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"425120",78,0,2013,2,"N","Sierra County, California","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"425120",78,0,2013,3,"N","Sierra County, California","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"44-45",74,0,2013,1,"","Sierra County, California","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,23,19,20,126146,101421,5325,470
+"06091",5,"44-45",74,0,2013,2,"","Sierra County, California","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,19,28,27,111099,46002,2337,346
+"06091",5,"44-45",74,0,2013,3,"","Sierra County, California","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",6,28,28,27,142724,74507,3852,397
+"06091",5,"441",75,0,2013,1,"N","Sierra County, California","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"441",75,0,2013,2,"N","Sierra County, California","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"441",75,0,2013,3,"N","Sierra County, California","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"4412",76,0,2013,1,"N","Sierra County, California","Private","Other motor vehicle dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"4412",76,0,2013,2,"N","Sierra County, California","Private","Other motor vehicle dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"4412",76,0,2013,3,"N","Sierra County, California","Private","Other motor vehicle dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"44122",77,0,2013,1,"N","Sierra County, California","Private","Motorcycle, boat, and other vehicle dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"44122",77,0,2013,2,"N","Sierra County, California","Private","Motorcycle, boat, and other vehicle dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"44122",77,0,2013,3,"N","Sierra County, California","Private","Motorcycle, boat, and other vehicle dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"441228",78,0,2013,1,"N","Sierra County, California","Private","Motorcycle and other motor vehicle dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"441228",78,0,2013,2,"N","Sierra County, California","Private","Motorcycle and other motor vehicle dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"441228",78,0,2013,3,"N","Sierra County, California","Private","Motorcycle and other motor vehicle dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"444",75,0,2013,1,"N","Sierra County, California","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"444",75,0,2013,2,"N","Sierra County, California","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"444",75,0,2013,3,"N","Sierra County, California","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"4441",76,0,2013,1,"N","Sierra County, California","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"4441",76,0,2013,2,"N","Sierra County, California","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"4441",76,0,2013,3,"N","Sierra County, California","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"44413",77,0,2013,1,"N","Sierra County, California","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"44413",77,0,2013,2,"N","Sierra County, California","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"44413",77,0,2013,3,"N","Sierra County, California","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"444130",78,0,2013,1,"N","Sierra County, California","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"444130",78,0,2013,2,"N","Sierra County, California","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"444130",78,0,2013,3,"N","Sierra County, California","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"446",75,0,2013,1,"N","Sierra County, California","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"446",75,0,2013,2,"N","Sierra County, California","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"446",75,0,2013,3,"N","Sierra County, California","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"4461",76,0,2013,1,"N","Sierra County, California","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"4461",76,0,2013,2,"N","Sierra County, California","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"4461",76,0,2013,3,"N","Sierra County, California","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"44611",77,0,2013,1,"N","Sierra County, California","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"44611",77,0,2013,2,"N","Sierra County, California","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"44611",77,0,2013,3,"N","Sierra County, California","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"446110",78,0,2013,1,"N","Sierra County, California","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"446110",78,0,2013,2,"N","Sierra County, California","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"446110",78,0,2013,3,"N","Sierra County, California","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"447",75,0,2013,1,"N","Sierra County, California","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"447",75,0,2013,2,"N","Sierra County, California","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"447",75,0,2013,3,"N","Sierra County, California","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"4471",76,0,2013,1,"N","Sierra County, California","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"4471",76,0,2013,2,"N","Sierra County, California","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"4471",76,0,2013,3,"N","Sierra County, California","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"44711",77,0,2013,1,"N","Sierra County, California","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"44711",77,0,2013,2,"N","Sierra County, California","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"44711",77,0,2013,3,"N","Sierra County, California","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"447110",78,0,2013,1,"N","Sierra County, California","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"447110",78,0,2013,2,"N","Sierra County, California","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"447110",78,0,2013,3,"N","Sierra County, California","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"44719",77,0,2013,1,"N","Sierra County, California","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"44719",77,0,2013,2,"N","Sierra County, California","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"44719",77,0,2013,3,"N","Sierra County, California","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"447190",78,0,2013,1,"N","Sierra County, California","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"447190",78,0,2013,2,"N","Sierra County, California","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"447190",78,0,2013,3,"N","Sierra County, California","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"48-49",74,0,2013,1,"N","Sierra County, California","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"48-49",74,0,2013,2,"N","Sierra County, California","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"48-49",74,0,2013,3,"N","Sierra County, California","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"485",75,0,2013,1,"N","Sierra County, California","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"485",75,0,2013,2,"N","Sierra County, California","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"485",75,0,2013,3,"N","Sierra County, California","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"4854",76,0,2013,1,"N","Sierra County, California","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"4854",76,0,2013,2,"N","Sierra County, California","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"4854",76,0,2013,3,"N","Sierra County, California","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"48541",77,0,2013,1,"N","Sierra County, California","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"48541",77,0,2013,2,"N","Sierra County, California","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"48541",77,0,2013,3,"N","Sierra County, California","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"485410",78,0,2013,1,"N","Sierra County, California","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"485410",78,0,2013,2,"N","Sierra County, California","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"485410",78,0,2013,3,"N","Sierra County, California","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"4859",76,0,2013,1,"N","Sierra County, California","Private","Other ground passenger transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"4859",76,0,2013,2,"N","Sierra County, California","Private","Other ground passenger transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"4859",76,0,2013,3,"N","Sierra County, California","Private","Other ground passenger transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"48599",77,0,2013,1,"N","Sierra County, California","Private","Other ground passenger transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"48599",77,0,2013,2,"N","Sierra County, California","Private","Other ground passenger transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"48599",77,0,2013,3,"N","Sierra County, California","Private","Other ground passenger transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"485991",78,0,2013,1,"N","Sierra County, California","Private","Special needs transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"485991",78,0,2013,2,"N","Sierra County, California","Private","Special needs transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"485991",78,0,2013,3,"N","Sierra County, California","Private","Special needs transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"51",74,0,2013,1,"N","Sierra County, California","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"51",74,0,2013,2,"N","Sierra County, California","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"51",74,0,2013,3,"N","Sierra County, California","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"511",75,0,2013,1,"N","Sierra County, California","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"511",75,0,2013,2,"N","Sierra County, California","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"511",75,0,2013,3,"N","Sierra County, California","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5111",76,0,2013,1,"N","Sierra County, California","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5111",76,0,2013,2,"N","Sierra County, California","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5111",76,0,2013,3,"N","Sierra County, California","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"51111",77,0,2013,1,"N","Sierra County, California","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"51111",77,0,2013,2,"N","Sierra County, California","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"51111",77,0,2013,3,"N","Sierra County, California","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"511110",78,0,2013,1,"N","Sierra County, California","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"511110",78,0,2013,2,"N","Sierra County, California","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"511110",78,0,2013,3,"N","Sierra County, California","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"52",74,0,2013,1,"N","Sierra County, California","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"52",74,0,2013,2,"N","Sierra County, California","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"52",74,0,2013,3,"N","Sierra County, California","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"522",75,0,2013,1,"N","Sierra County, California","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"522",75,0,2013,2,"N","Sierra County, California","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"522",75,0,2013,3,"N","Sierra County, California","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5221",76,0,2013,1,"N","Sierra County, California","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5221",76,0,2013,2,"N","Sierra County, California","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5221",76,0,2013,3,"N","Sierra County, California","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"52212",77,0,2013,1,"N","Sierra County, California","Private","Savings institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"52212",77,0,2013,2,"N","Sierra County, California","Private","Savings institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"52212",77,0,2013,3,"N","Sierra County, California","Private","Savings institutions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"522120",78,0,2013,1,"N","Sierra County, California","Private","Savings institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"522120",78,0,2013,2,"N","Sierra County, California","Private","Savings institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"522120",78,0,2013,3,"N","Sierra County, California","Private","Savings institutions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"524",75,0,2013,1,"N","Sierra County, California","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"524",75,0,2013,2,"N","Sierra County, California","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"524",75,0,2013,3,"N","Sierra County, California","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5242",76,0,2013,1,"N","Sierra County, California","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5242",76,0,2013,2,"N","Sierra County, California","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5242",76,0,2013,3,"N","Sierra County, California","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"52429",77,0,2013,1,"N","Sierra County, California","Private","Other insurance related activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"52429",77,0,2013,2,"N","Sierra County, California","Private","Other insurance related activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"52429",77,0,2013,3,"N","Sierra County, California","Private","Other insurance related activities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"524298",78,0,2013,1,"N","Sierra County, California","Private","All other insurance related activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"524298",78,0,2013,2,"N","Sierra County, California","Private","All other insurance related activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"524298",78,0,2013,3,"N","Sierra County, California","Private","All other insurance related activities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"53",74,0,2013,1,"N","Sierra County, California","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"53",74,0,2013,2,"N","Sierra County, California","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"53",74,0,2013,3,"N","Sierra County, California","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"532",75,0,2013,1,"N","Sierra County, California","Private","Rental and leasing services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"532",75,0,2013,2,"N","Sierra County, California","Private","Rental and leasing services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"532",75,0,2013,3,"N","Sierra County, California","Private","Rental and leasing services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5321",76,0,2013,1,"N","Sierra County, California","Private","Automotive equipment rental and leasing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5321",76,0,2013,2,"N","Sierra County, California","Private","Automotive equipment rental and leasing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5321",76,0,2013,3,"N","Sierra County, California","Private","Automotive equipment rental and leasing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"53212",77,0,2013,1,"N","Sierra County, California","Private","Truck, trailer, and rv rental and leasing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"53212",77,0,2013,2,"N","Sierra County, California","Private","Truck, trailer, and rv rental and leasing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"53212",77,0,2013,3,"N","Sierra County, California","Private","Truck, trailer, and rv rental and leasing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"532120",78,0,2013,1,"N","Sierra County, California","Private","Truck, trailer, and rv rental and leasing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"532120",78,0,2013,2,"N","Sierra County, California","Private","Truck, trailer, and rv rental and leasing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"532120",78,0,2013,3,"N","Sierra County, California","Private","Truck, trailer, and rv rental and leasing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"54",74,0,2013,1,"N","Sierra County, California","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"54",74,0,2013,2,"N","Sierra County, California","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"54",74,0,2013,3,"N","Sierra County, California","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"541",75,0,2013,1,"N","Sierra County, California","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"541",75,0,2013,2,"N","Sierra County, California","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"541",75,0,2013,3,"N","Sierra County, California","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"5413",76,0,2013,1,"N","Sierra County, California","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5413",76,0,2013,2,"N","Sierra County, California","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5413",76,0,2013,3,"N","Sierra County, California","Private","Architectural and engineering services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"54132",77,0,2013,1,"N","Sierra County, California","Private","Landscape architectural services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"54132",77,0,2013,2,"N","Sierra County, California","Private","Landscape architectural services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"54132",77,0,2013,3,"N","Sierra County, California","Private","Landscape architectural services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"541320",78,0,2013,1,"N","Sierra County, California","Private","Landscape architectural services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"541320",78,0,2013,2,"N","Sierra County, California","Private","Landscape architectural services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"541320",78,0,2013,3,"N","Sierra County, California","Private","Landscape architectural services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5415",76,0,2013,1,"N","Sierra County, California","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5415",76,0,2013,2,"N","Sierra County, California","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5415",76,0,2013,3,"N","Sierra County, California","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"54151",77,0,2013,1,"N","Sierra County, California","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"54151",77,0,2013,2,"N","Sierra County, California","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"54151",77,0,2013,3,"N","Sierra County, California","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"541511",78,0,2013,1,"N","Sierra County, California","Private","Custom computer programming services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"541511",78,0,2013,2,"N","Sierra County, California","Private","Custom computer programming services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"541511",78,0,2013,3,"N","Sierra County, California","Private","Custom computer programming services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"56",74,0,2013,1,"N","Sierra County, California","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"56",74,0,2013,2,"N","Sierra County, California","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"56",74,0,2013,3,"N","Sierra County, California","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"561",75,0,2013,1,"N","Sierra County, California","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"561",75,0,2013,2,"N","Sierra County, California","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"561",75,0,2013,3,"N","Sierra County, California","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"5612",76,0,2013,1,"N","Sierra County, California","Private","Facilities support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5612",76,0,2013,2,"N","Sierra County, California","Private","Facilities support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5612",76,0,2013,3,"N","Sierra County, California","Private","Facilities support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"56121",77,0,2013,1,"N","Sierra County, California","Private","Facilities support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"56121",77,0,2013,2,"N","Sierra County, California","Private","Facilities support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"56121",77,0,2013,3,"N","Sierra County, California","Private","Facilities support services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"561210",78,0,2013,1,"N","Sierra County, California","Private","Facilities support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"561210",78,0,2013,2,"N","Sierra County, California","Private","Facilities support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"561210",78,0,2013,3,"N","Sierra County, California","Private","Facilities support services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"5617",76,0,2013,1,"N","Sierra County, California","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"5617",76,0,2013,2,"N","Sierra County, California","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"5617",76,0,2013,3,"N","Sierra County, California","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"56173",77,0,2013,1,"N","Sierra County, California","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"56173",77,0,2013,2,"N","Sierra County, California","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"56173",77,0,2013,3,"N","Sierra County, California","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"561730",78,0,2013,1,"N","Sierra County, California","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"561730",78,0,2013,2,"N","Sierra County, California","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"561730",78,0,2013,3,"N","Sierra County, California","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"62",74,0,2013,1,"","Sierra County, California","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",21,111,113,108,903813,520792,25398,628
+"06091",5,"62",74,0,2013,2,"","Sierra County, California","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",21,104,105,106,1275469,171587,8133,934
+"06091",5,"62",74,0,2013,3,"","Sierra County, California","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",27,109,112,110,1117763,70409,3323,779
+"06091",5,"621",75,0,2013,1,"N","Sierra County, California","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"621",75,0,2013,2,"N","Sierra County, California","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"621",75,0,2013,3,"N","Sierra County, California","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"6211",76,0,2013,1,"N","Sierra County, California","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"6211",76,0,2013,2,"N","Sierra County, California","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"6211",76,0,2013,3,"N","Sierra County, California","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"62111",77,0,2013,1,"N","Sierra County, California","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"62111",77,0,2013,2,"N","Sierra County, California","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"62111",77,0,2013,3,"N","Sierra County, California","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"621111",78,0,2013,1,"N","Sierra County, California","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"621111",78,0,2013,2,"N","Sierra County, California","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"621111",78,0,2013,3,"N","Sierra County, California","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"6212",76,0,2013,1,"N","Sierra County, California","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"6212",76,0,2013,2,"N","Sierra County, California","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"6212",76,0,2013,3,"N","Sierra County, California","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"62121",77,0,2013,1,"N","Sierra County, California","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"62121",77,0,2013,2,"N","Sierra County, California","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"62121",77,0,2013,3,"N","Sierra County, California","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"621210",78,0,2013,1,"N","Sierra County, California","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"621210",78,0,2013,2,"N","Sierra County, California","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"621210",78,0,2013,3,"N","Sierra County, California","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"6213",76,0,2013,1,"N","Sierra County, California","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"6213",76,0,2013,2,"N","Sierra County, California","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"6213",76,0,2013,3,"N","Sierra County, California","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"62134",77,0,2013,1,"N","Sierra County, California","Private","Offices of specialty therapists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"62134",77,0,2013,2,"N","Sierra County, California","Private","Offices of specialty therapists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"62134",77,0,2013,3,"N","Sierra County, California","Private","Offices of specialty therapists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"621340",78,0,2013,1,"N","Sierra County, California","Private","Offices of specialty therapists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"621340",78,0,2013,2,"N","Sierra County, California","Private","Offices of specialty therapists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"621340",78,0,2013,3,"N","Sierra County, California","Private","Offices of specialty therapists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"624",75,0,2013,1,"N","Sierra County, California","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",18,0,0,0,0,0,0,0
+"06091",5,"624",75,0,2013,2,"N","Sierra County, California","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",18,0,0,0,0,0,0,0
+"06091",5,"624",75,0,2013,3,"N","Sierra County, California","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",24,0,0,0,0,0,0,0
+"06091",5,"6241",76,0,2013,1,"","Sierra County, California","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",16,30,29,27,86311,81581,3412,232
+"06091",5,"6241",76,0,2013,2,"","Sierra County, California","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",16,26,27,27,84623,50037,2331,244
+"06091",5,"6241",76,0,2013,3,"","Sierra County, California","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",22,31,32,30,88439,32980,1583,219
+"06091",5,"62411",77,0,2013,1,"N","Sierra County, California","Private","Child and youth services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"62411",77,0,2013,2,"N","Sierra County, California","Private","Child and youth services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"62411",77,0,2013,3,"N","Sierra County, California","Private","Child and youth services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"624110",78,0,2013,1,"N","Sierra County, California","Private","Child and youth services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"624110",78,0,2013,2,"N","Sierra County, California","Private","Child and youth services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"624110",78,0,2013,3,"N","Sierra County, California","Private","Child and youth services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"62412",77,0,2013,1,"N","Sierra County, California","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",15,0,0,0,0,0,0,0
+"06091",5,"62412",77,0,2013,2,"N","Sierra County, California","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",15,0,0,0,0,0,0,0
+"06091",5,"62412",77,0,2013,3,"N","Sierra County, California","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",21,0,0,0,0,0,0,0
+"06091",5,"624120",78,0,2013,1,"N","Sierra County, California","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",15,0,0,0,0,0,0,0
+"06091",5,"624120",78,0,2013,2,"N","Sierra County, California","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",15,0,0,0,0,0,0,0
+"06091",5,"624120",78,0,2013,3,"N","Sierra County, California","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",21,0,0,0,0,0,0,0
+"06091",5,"6244",76,0,2013,1,"N","Sierra County, California","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"6244",76,0,2013,2,"N","Sierra County, California","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"6244",76,0,2013,3,"N","Sierra County, California","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"62441",77,0,2013,1,"N","Sierra County, California","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"62441",77,0,2013,2,"N","Sierra County, California","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"62441",77,0,2013,3,"N","Sierra County, California","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"624410",78,0,2013,1,"N","Sierra County, California","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"624410",78,0,2013,2,"N","Sierra County, California","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"624410",78,0,2013,3,"N","Sierra County, California","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"72",74,0,2013,1,"","Sierra County, California","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",9,10,10,9,32267,32267,1423,257
+"06091",5,"72",74,0,2013,2,"","Sierra County, California","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",10,19,36,62,171921,154478,8049,339
+"06091",5,"72",74,0,2013,3,"","Sierra County, California","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",10,68,68,51,269070,168103,8298,332
+"06091",5,"721",75,0,2013,1,"N","Sierra County, California","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"06091",5,"721",75,0,2013,2,"","Sierra County, California","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,4,16,29,96652,94652,5604,455
+"06091",5,"721",75,0,2013,3,"","Sierra County, California","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,34,34,31,148201,87426,5082,345
+"06091",5,"7211",76,0,2013,1,"N","Sierra County, California","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"06091",5,"7211",76,0,2013,2,"","Sierra County, California","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,4,16,29,96652,94652,5604,455
+"06091",5,"7211",76,0,2013,3,"","Sierra County, California","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,34,34,31,148201,87426,5082,345
+"06091",5,"72111",77,0,2013,1,"N","Sierra County, California","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"72111",77,0,2013,2,"N","Sierra County, California","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"72111",77,0,2013,3,"N","Sierra County, California","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"721110",78,0,2013,1,"N","Sierra County, California","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"721110",78,0,2013,2,"N","Sierra County, California","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"721110",78,0,2013,3,"N","Sierra County, California","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"72119",77,0,2013,1,"N","Sierra County, California","Private","Other traveler accommodation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"72119",77,0,2013,2,"N","Sierra County, California","Private","Other traveler accommodation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"72119",77,0,2013,3,"N","Sierra County, California","Private","Other traveler accommodation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"721199",78,0,2013,1,"N","Sierra County, California","Private","All other traveler accommodation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"721199",78,0,2013,2,"N","Sierra County, California","Private","All other traveler accommodation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"721199",78,0,2013,3,"N","Sierra County, California","Private","All other traveler accommodation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"722",75,0,2013,1,"N","Sierra County, California","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"06091",5,"722",75,0,2013,2,"","Sierra County, California","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,15,20,33,75269,59826,2445,255
+"06091",5,"722",75,0,2013,3,"","Sierra County, California","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,34,34,20,120869,80677,3216,317
+"06091",5,"7224",76,0,2013,1,"N","Sierra County, California","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"7224",76,0,2013,2,"N","Sierra County, California","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"7224",76,0,2013,3,"N","Sierra County, California","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"72241",77,0,2013,1,"N","Sierra County, California","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"72241",77,0,2013,2,"N","Sierra County, California","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"72241",77,0,2013,3,"N","Sierra County, California","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"722410",78,0,2013,1,"N","Sierra County, California","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"722410",78,0,2013,2,"N","Sierra County, California","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"722410",78,0,2013,3,"N","Sierra County, California","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"7225",76,0,2013,1,"N","Sierra County, California","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"06091",5,"7225",76,0,2013,2,"N","Sierra County, California","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"06091",5,"7225",76,0,2013,3,"N","Sierra County, California","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"06091",5,"72251",77,0,2013,1,"N","Sierra County, California","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"06091",5,"72251",77,0,2013,2,"N","Sierra County, California","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"06091",5,"72251",77,0,2013,3,"N","Sierra County, California","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"06091",5,"722511",78,0,2013,1,"N","Sierra County, California","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"722511",78,0,2013,2,"","Sierra County, California","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,6,11,23,42670,37415,1422,246
+"06091",5,"722511",78,0,2013,3,"","Sierra County, California","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,23,21,8,82233,60557,2261,365
+"06091",5,"722513",78,0,2013,1,"N","Sierra County, California","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"722513",78,0,2013,2,"N","Sierra County, California","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"722513",78,0,2013,3,"N","Sierra County, California","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"81",74,0,2013,1,"N","Sierra County, California","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"81",74,0,2013,2,"N","Sierra County, California","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"81",74,0,2013,3,"N","Sierra County, California","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"06091",5,"811",75,0,2013,1,"N","Sierra County, California","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"811",75,0,2013,2,"N","Sierra County, California","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"811",75,0,2013,3,"N","Sierra County, California","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"8111",76,0,2013,1,"N","Sierra County, California","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"8111",76,0,2013,2,"N","Sierra County, California","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"8111",76,0,2013,3,"N","Sierra County, California","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"81111",77,0,2013,1,"N","Sierra County, California","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"81111",77,0,2013,2,"N","Sierra County, California","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"81111",77,0,2013,3,"N","Sierra County, California","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"811111",78,0,2013,1,"N","Sierra County, California","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"811111",78,0,2013,2,"N","Sierra County, California","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"811111",78,0,2013,3,"N","Sierra County, California","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"06091",5,"813",75,0,2013,1,"N","Sierra County, California","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"813",75,0,2013,2,"N","Sierra County, California","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"813",75,0,2013,3,"N","Sierra County, California","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"8134",76,0,2013,1,"N","Sierra County, California","Private","Civic and social organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"8134",76,0,2013,2,"N","Sierra County, California","Private","Civic and social organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"8134",76,0,2013,3,"N","Sierra County, California","Private","Civic and social organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"81341",77,0,2013,1,"N","Sierra County, California","Private","Civic and social organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"81341",77,0,2013,2,"N","Sierra County, California","Private","Civic and social organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"81341",77,0,2013,3,"N","Sierra County, California","Private","Civic and social organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"813410",78,0,2013,1,"N","Sierra County, California","Private","Civic and social organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"813410",78,0,2013,2,"N","Sierra County, California","Private","Civic and social organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"813410",78,0,2013,3,"N","Sierra County, California","Private","Civic and social organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"06091",5,"99",74,0,2013,1,"","Sierra County, California","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",4,2,3,3,117141,17486,896,3379
+"06091",5,"99",74,0,2013,2,"","Sierra County, California","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",4,3,3,3,81063,3510,119,2079
+"06091",5,"99",74,0,2013,3,"","Sierra County, California","Private","Unclassified","County, NAICS Sector -- by ownership sector","All establishment sizes",4,3,4,3,79498,1919,65,1835
+"06091",5,"999",75,0,2013,1,"","Sierra County, California","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,2,3,3,117141,17486,896,3379
+"06091",5,"999",75,0,2013,2,"","Sierra County, California","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,3,3,3,81063,3510,119,2079
+"06091",5,"999",75,0,2013,3,"","Sierra County, California","Private","Unclassified","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,3,4,3,79498,1919,65,1835
+"06091",5,"9999",76,0,2013,1,"","Sierra County, California","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,2,3,3,117141,17486,896,3379
+"06091",5,"9999",76,0,2013,2,"","Sierra County, California","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,3,3,3,81063,3510,119,2079
+"06091",5,"9999",76,0,2013,3,"","Sierra County, California","Private","Unclassified","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,3,4,3,79498,1919,65,1835
+"06091",5,"99999",77,0,2013,1,"","Sierra County, California","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,2,3,3,117141,17486,896,3379
+"06091",5,"99999",77,0,2013,2,"","Sierra County, California","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,3,3,3,81063,3510,119,2079
+"06091",5,"99999",77,0,2013,3,"","Sierra County, California","Private","Unclassified","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,3,4,3,79498,1919,65,1835
+"06091",5,"999999",78,0,2013,1,"","Sierra County, California","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,2,3,3,117141,17486,896,3379
+"06091",5,"999999",78,0,2013,2,"","Sierra County, California","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,3,3,3,81063,3510,119,2079
+"06091",5,"999999",78,0,2013,3,"","Sierra County, California","Private","Unclassified","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,3,4,3,79498,1919,65,1835
+

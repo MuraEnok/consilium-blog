@@ -1,0 +1,596 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"41069",0,"10",70,0,2013,1,"","Wheeler County, Oregon","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",59,299,297,294,1871541,1121771,32603,485
+"41069",0,"10",70,0,2013,2,"","Wheeler County, Oregon","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",62,320,327,327,2203391,1167143,35251,522
+"41069",0,"10",70,0,2013,3,"","Wheeler County, Oregon","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",62,269,275,304,1797062,1013530,30140,489
+"41069",1,"10",71,0,2013,1,"","Wheeler County, Oregon","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,5,5,5,43195,0,0,665
+"41069",1,"10",71,0,2013,2,"","Wheeler County, Oregon","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,5,5,5,43209,0,0,665
+"41069",1,"10",71,0,2013,3,"","Wheeler County, Oregon","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,5,4,4,45945,0,0,816
+"41069",1,"102",72,0,2013,1,"","Wheeler County, Oregon","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,5,5,5,43195,0,0,665
+"41069",1,"102",72,0,2013,2,"","Wheeler County, Oregon","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,5,5,5,43209,0,0,665
+"41069",1,"102",72,0,2013,3,"","Wheeler County, Oregon","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,5,4,4,45945,0,0,816
+"41069",1,"1021",73,0,2013,1,"","Wheeler County, Oregon","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,3,4,4,23696,0,0,497
+"41069",1,"1021",73,0,2013,2,"","Wheeler County, Oregon","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,4,4,4,19751,0,0,380
+"41069",1,"1021",73,0,2013,3,"","Wheeler County, Oregon","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,4,3,3,26633,0,0,615
+"41069",1,"1028",73,0,2013,1,"","Wheeler County, Oregon","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,2,1,1,19499,0,0,1125
+"41069",1,"1028",73,0,2013,2,"","Wheeler County, Oregon","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,1,1,1,23458,0,0,1804
+"41069",1,"1028",73,0,2013,3,"","Wheeler County, Oregon","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,1,1,1,19312,0,0,1486
+"41069",1,"48-49",74,0,2013,1,"","Wheeler County, Oregon","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,3,4,4,23696,0,0,497
+"41069",1,"48-49",74,0,2013,2,"","Wheeler County, Oregon","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,4,4,4,19751,0,0,380
+"41069",1,"48-49",74,0,2013,3,"","Wheeler County, Oregon","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,4,3,3,26633,0,0,615
+"41069",1,"491",75,0,2013,1,"","Wheeler County, Oregon","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,3,4,4,23696,0,0,497
+"41069",1,"491",75,0,2013,2,"","Wheeler County, Oregon","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,4,4,4,19751,0,0,380
+"41069",1,"491",75,0,2013,3,"","Wheeler County, Oregon","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,4,3,3,26633,0,0,615
+"41069",1,"4911",76,0,2013,1,"","Wheeler County, Oregon","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,3,4,4,23696,0,0,497
+"41069",1,"4911",76,0,2013,2,"","Wheeler County, Oregon","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,4,4,4,19751,0,0,380
+"41069",1,"4911",76,0,2013,3,"","Wheeler County, Oregon","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,4,3,3,26633,0,0,615
+"41069",1,"49111",77,0,2013,1,"","Wheeler County, Oregon","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,3,4,4,23696,0,0,497
+"41069",1,"49111",77,0,2013,2,"","Wheeler County, Oregon","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,4,4,4,19751,0,0,380
+"41069",1,"49111",77,0,2013,3,"","Wheeler County, Oregon","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,4,3,3,26633,0,0,615
+"41069",1,"491110",78,0,2013,1,"","Wheeler County, Oregon","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,3,4,4,23696,0,0,497
+"41069",1,"491110",78,0,2013,2,"","Wheeler County, Oregon","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,4,4,4,19751,0,0,380
+"41069",1,"491110",78,0,2013,3,"","Wheeler County, Oregon","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,4,3,3,26633,0,0,615
+"41069",1,"92",74,0,2013,1,"","Wheeler County, Oregon","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,2,1,1,19499,0,0,1125
+"41069",1,"92",74,0,2013,2,"","Wheeler County, Oregon","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,1,1,1,23458,0,0,1804
+"41069",1,"92",74,0,2013,3,"","Wheeler County, Oregon","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,1,1,1,19312,0,0,1486
+"41069",1,"926",75,0,2013,1,"","Wheeler County, Oregon","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,2,1,1,19499,0,0,1125
+"41069",1,"926",75,0,2013,2,"","Wheeler County, Oregon","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,1,1,1,23458,0,0,1804
+"41069",1,"926",75,0,2013,3,"","Wheeler County, Oregon","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,1,1,1,19312,0,0,1486
+"41069",1,"9261",76,0,2013,1,"","Wheeler County, Oregon","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,2,1,1,19499,0,0,1125
+"41069",1,"9261",76,0,2013,2,"","Wheeler County, Oregon","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,1,1,1,23458,0,0,1804
+"41069",1,"9261",76,0,2013,3,"","Wheeler County, Oregon","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,1,1,1,19312,0,0,1486
+"41069",1,"92611",77,0,2013,1,"","Wheeler County, Oregon","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",1,"92611",77,0,2013,2,"","Wheeler County, Oregon","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",1,"92611",77,0,2013,3,"","Wheeler County, Oregon","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",1,"926110",78,0,2013,1,"","Wheeler County, Oregon","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",1,"926110",78,0,2013,2,"","Wheeler County, Oregon","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",1,"926110",78,0,2013,3,"","Wheeler County, Oregon","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",1,"92612",77,0,2013,1,"","Wheeler County, Oregon","Federal Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,1,1,19499,0,0,1125
+"41069",1,"92612",77,0,2013,2,"","Wheeler County, Oregon","Federal Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,23458,0,0,1804
+"41069",1,"92612",77,0,2013,3,"","Wheeler County, Oregon","Federal Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,1,1,1,19312,0,0,1486
+"41069",1,"926120",78,0,2013,1,"","Wheeler County, Oregon","Federal Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,1,1,19499,0,0,1125
+"41069",1,"926120",78,0,2013,2,"","Wheeler County, Oregon","Federal Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,23458,0,0,1804
+"41069",1,"926120",78,0,2013,3,"","Wheeler County, Oregon","Federal Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,1,1,1,19312,0,0,1486
+"41069",2,"10",71,0,2013,1,"N","Wheeler County, Oregon","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"10",71,0,2013,2,"N","Wheeler County, Oregon","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"10",71,0,2013,3,"N","Wheeler County, Oregon","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"102",72,0,2013,1,"N","Wheeler County, Oregon","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"102",72,0,2013,2,"N","Wheeler County, Oregon","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"102",72,0,2013,3,"N","Wheeler County, Oregon","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"1025",73,0,2013,1,"N","Wheeler County, Oregon","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"1025",73,0,2013,2,"N","Wheeler County, Oregon","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"1025",73,0,2013,3,"N","Wheeler County, Oregon","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"62",74,0,2013,1,"N","Wheeler County, Oregon","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"62",74,0,2013,2,"N","Wheeler County, Oregon","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"62",74,0,2013,3,"N","Wheeler County, Oregon","State Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"624",75,0,2013,1,"N","Wheeler County, Oregon","State Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"624",75,0,2013,2,"N","Wheeler County, Oregon","State Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"624",75,0,2013,3,"N","Wheeler County, Oregon","State Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"6241",76,0,2013,1,"N","Wheeler County, Oregon","State Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"6241",76,0,2013,2,"N","Wheeler County, Oregon","State Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"6241",76,0,2013,3,"N","Wheeler County, Oregon","State Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"62412",77,0,2013,1,"N","Wheeler County, Oregon","State Government","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"62412",77,0,2013,2,"N","Wheeler County, Oregon","State Government","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"62412",77,0,2013,3,"N","Wheeler County, Oregon","State Government","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"624120",78,0,2013,1,"N","Wheeler County, Oregon","State Government","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"624120",78,0,2013,2,"N","Wheeler County, Oregon","State Government","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",2,"624120",78,0,2013,3,"N","Wheeler County, Oregon","State Government","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"10",71,0,2013,1,"N","Wheeler County, Oregon","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"41069",3,"10",71,0,2013,2,"N","Wheeler County, Oregon","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"41069",3,"10",71,0,2013,3,"N","Wheeler County, Oregon","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"41069",3,"102",72,0,2013,1,"N","Wheeler County, Oregon","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"41069",3,"102",72,0,2013,2,"N","Wheeler County, Oregon","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"41069",3,"102",72,0,2013,3,"N","Wheeler County, Oregon","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"41069",3,"1025",73,0,2013,1,"N","Wheeler County, Oregon","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"1025",73,0,2013,2,"N","Wheeler County, Oregon","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"1025",73,0,2013,3,"N","Wheeler County, Oregon","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"1028",73,0,2013,1,"N","Wheeler County, Oregon","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41069",3,"1028",73,0,2013,2,"N","Wheeler County, Oregon","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41069",3,"1028",73,0,2013,3,"N","Wheeler County, Oregon","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41069",3,"61",74,0,2013,1,"N","Wheeler County, Oregon","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"61",74,0,2013,2,"N","Wheeler County, Oregon","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"61",74,0,2013,3,"N","Wheeler County, Oregon","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"611",75,0,2013,1,"N","Wheeler County, Oregon","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"611",75,0,2013,2,"N","Wheeler County, Oregon","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"611",75,0,2013,3,"N","Wheeler County, Oregon","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"6111",76,0,2013,1,"N","Wheeler County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"6111",76,0,2013,2,"N","Wheeler County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"6111",76,0,2013,3,"N","Wheeler County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"61111",77,0,2013,1,"N","Wheeler County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"61111",77,0,2013,2,"N","Wheeler County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"61111",77,0,2013,3,"N","Wheeler County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"611110",78,0,2013,1,"N","Wheeler County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"611110",78,0,2013,2,"N","Wheeler County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"611110",78,0,2013,3,"N","Wheeler County, Oregon","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",3,"92",74,0,2013,1,"N","Wheeler County, Oregon","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41069",3,"92",74,0,2013,2,"N","Wheeler County, Oregon","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41069",3,"92",74,0,2013,3,"N","Wheeler County, Oregon","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41069",3,"921",75,0,2013,1,"","Wheeler County, Oregon","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,33,33,33,208960,31938,835,487
+"41069",3,"921",75,0,2013,2,"","Wheeler County, Oregon","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,34,35,39,213542,38109,985,456
+"41069",3,"921",75,0,2013,3,"","Wheeler County, Oregon","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,35,33,29,296275,43998,1293,705
+"41069",3,"9211",76,0,2013,1,"","Wheeler County, Oregon","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,33,33,33,208960,31938,835,487
+"41069",3,"9211",76,0,2013,2,"","Wheeler County, Oregon","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,34,35,39,213542,38109,985,456
+"41069",3,"9211",76,0,2013,3,"","Wheeler County, Oregon","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,35,33,29,296275,43998,1293,705
+"41069",3,"92114",77,0,2013,1,"","Wheeler County, Oregon","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,33,33,33,208960,31938,835,487
+"41069",3,"92114",77,0,2013,2,"","Wheeler County, Oregon","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,34,35,39,213542,38109,985,456
+"41069",3,"92114",77,0,2013,3,"","Wheeler County, Oregon","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,35,33,29,296275,43998,1293,705
+"41069",3,"921140",78,0,2013,1,"","Wheeler County, Oregon","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,33,33,33,208960,31938,835,487
+"41069",3,"921140",78,0,2013,2,"","Wheeler County, Oregon","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,34,35,39,213542,38109,985,456
+"41069",3,"921140",78,0,2013,3,"","Wheeler County, Oregon","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,35,33,29,296275,43998,1293,705
+"41069",3,"924",75,0,2013,1,"N","Wheeler County, Oregon","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"924",75,0,2013,2,"N","Wheeler County, Oregon","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"924",75,0,2013,3,"N","Wheeler County, Oregon","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"9241",76,0,2013,1,"N","Wheeler County, Oregon","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"9241",76,0,2013,2,"N","Wheeler County, Oregon","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"9241",76,0,2013,3,"N","Wheeler County, Oregon","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"92411",77,0,2013,1,"N","Wheeler County, Oregon","Local Government","Air, water, and waste program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"92411",77,0,2013,2,"N","Wheeler County, Oregon","Local Government","Air, water, and waste program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"92411",77,0,2013,3,"N","Wheeler County, Oregon","Local Government","Air, water, and waste program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"924110",78,0,2013,1,"N","Wheeler County, Oregon","Local Government","Air, water, and waste program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"924110",78,0,2013,2,"N","Wheeler County, Oregon","Local Government","Air, water, and waste program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"924110",78,0,2013,3,"N","Wheeler County, Oregon","Local Government","Air, water, and waste program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"926",75,0,2013,1,"N","Wheeler County, Oregon","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"926",75,0,2013,2,"N","Wheeler County, Oregon","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"926",75,0,2013,3,"N","Wheeler County, Oregon","Local Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"9261",76,0,2013,1,"N","Wheeler County, Oregon","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"9261",76,0,2013,2,"N","Wheeler County, Oregon","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"9261",76,0,2013,3,"N","Wheeler County, Oregon","Local Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"92614",77,0,2013,1,"N","Wheeler County, Oregon","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"92614",77,0,2013,2,"N","Wheeler County, Oregon","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"92614",77,0,2013,3,"N","Wheeler County, Oregon","Local Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"926140",78,0,2013,1,"N","Wheeler County, Oregon","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"926140",78,0,2013,2,"N","Wheeler County, Oregon","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",3,"926140",78,0,2013,3,"N","Wheeler County, Oregon","Local Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"10",71,0,2013,1,"","Wheeler County, Oregon","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",44,176,174,175,1054216,1039385,30658,463
+"41069",5,"10",71,0,2013,2,"","Wheeler County, Oregon","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",47,198,206,197,1186282,1078586,33156,456
+"41069",5,"10",71,0,2013,3,"","Wheeler County, Oregon","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",47,202,200,195,1141109,927663,27926,441
+"41069",5,"101",72,0,2013,1,"","Wheeler County, Oregon","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",12,44,44,38,294735,294735,10138,540
+"41069",5,"101",72,0,2013,2,"","Wheeler County, Oregon","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",13,54,55,50,391745,365842,12912,569
+"41069",5,"101",72,0,2013,3,"","Wheeler County, Oregon","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",13,58,59,50,412280,344799,11945,570
+"41069",5,"1011",73,0,2013,1,"N","Wheeler County, Oregon","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"41069",5,"1011",73,0,2013,2,"N","Wheeler County, Oregon","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"41069",5,"1011",73,0,2013,3,"","Wheeler County, Oregon","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",11,55,56,47,392223,324742,11112,573
+"41069",5,"1012",73,0,2013,1,"N","Wheeler County, Oregon","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1012",73,0,2013,2,"N","Wheeler County, Oregon","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1012",73,0,2013,3,"N","Wheeler County, Oregon","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1013",73,0,2013,1,"-","Wheeler County, Oregon","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41069",5,"1013",73,0,2013,2,"N","Wheeler County, Oregon","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1013",73,0,2013,3,"N","Wheeler County, Oregon","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"102",72,0,2013,1,"","Wheeler County, Oregon","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",32,132,130,137,759481,744650,20520,439
+"41069",5,"102",72,0,2013,2,"","Wheeler County, Oregon","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",34,144,151,147,794537,712744,20244,415
+"41069",5,"102",72,0,2013,3,"","Wheeler County, Oregon","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",34,144,141,145,728829,582864,15981,391
+"41069",5,"1021",73,0,2013,1,"","Wheeler County, Oregon","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",11,49,46,47,307637,307637,7790,500
+"41069",5,"1021",73,0,2013,2,"","Wheeler County, Oregon","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",12,54,55,55,276591,263075,6773,389
+"41069",5,"1021",73,0,2013,3,"","Wheeler County, Oregon","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",12,55,54,52,301391,250341,6269,432
+"41069",5,"1022",73,0,2013,1,"N","Wheeler County, Oregon","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1022",73,0,2013,2,"N","Wheeler County, Oregon","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1022",73,0,2013,3,"N","Wheeler County, Oregon","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1023",73,0,2013,1,"N","Wheeler County, Oregon","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1023",73,0,2013,2,"N","Wheeler County, Oregon","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1023",73,0,2013,3,"N","Wheeler County, Oregon","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1024",73,0,2013,1,"N","Wheeler County, Oregon","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1024",73,0,2013,2,"N","Wheeler County, Oregon","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1024",73,0,2013,3,"N","Wheeler County, Oregon","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1025",73,0,2013,1,"","Wheeler County, Oregon","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",8,56,57,57,335195,332780,10016,455
+"41069",5,"1025",73,0,2013,2,"","Wheeler County, Oregon","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",8,58,59,55,380645,328180,10083,511
+"41069",5,"1025",73,0,2013,3,"","Wheeler County, Oregon","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",8,50,50,57,294308,230962,6618,433
+"41069",5,"1026",73,0,2013,1,"","Wheeler County, Oregon","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",5,11,11,13,33508,33508,903,221
+"41069",5,"1026",73,0,2013,2,"","Wheeler County, Oregon","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",6,16,16,17,59281,59281,1737,279
+"41069",5,"1026",73,0,2013,3,"","Wheeler County, Oregon","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",6,19,18,19,67504,67504,2025,278
+"41069",5,"1027",73,0,2013,1,"","Wheeler County, Oregon","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,8,8,11,23200,15400,569,198
+"41069",5,"1027",73,0,2013,2,"","Wheeler County, Oregon","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,8,13,12,26088,18288,669,182
+"41069",5,"1027",73,0,2013,3,"","Wheeler County, Oregon","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",5,12,11,9,28958,21158,774,209
+"41069",5,"11",74,0,2013,1,"N","Wheeler County, Oregon","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"41069",5,"11",74,0,2013,2,"N","Wheeler County, Oregon","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"41069",5,"11",74,0,2013,3,"","Wheeler County, Oregon","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",11,55,56,47,392223,324742,11112,573
+"41069",5,"111",75,0,2013,1,"N","Wheeler County, Oregon","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"111",75,0,2013,2,"N","Wheeler County, Oregon","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"111",75,0,2013,3,"N","Wheeler County, Oregon","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"1119",76,0,2013,1,"N","Wheeler County, Oregon","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"1119",76,0,2013,2,"N","Wheeler County, Oregon","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"1119",76,0,2013,3,"N","Wheeler County, Oregon","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"11194",77,0,2013,1,"N","Wheeler County, Oregon","Private","Hay farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"11194",77,0,2013,2,"N","Wheeler County, Oregon","Private","Hay farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"11194",77,0,2013,3,"N","Wheeler County, Oregon","Private","Hay farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"111940",78,0,2013,1,"N","Wheeler County, Oregon","Private","Hay farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"111940",78,0,2013,2,"N","Wheeler County, Oregon","Private","Hay farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"111940",78,0,2013,3,"N","Wheeler County, Oregon","Private","Hay farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"112",75,0,2013,1,"","Wheeler County, Oregon","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,31,31,26,166583,166583,5268,437
+"41069",5,"112",75,0,2013,2,"","Wheeler County, Oregon","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,34,31,25,164992,164992,5189,423
+"41069",5,"112",75,0,2013,3,"","Wheeler County, Oregon","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,31,30,28,160246,153746,4782,416
+"41069",5,"1121",76,0,2013,1,"","Wheeler County, Oregon","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,31,31,26,166583,166583,5268,437
+"41069",5,"1121",76,0,2013,2,"","Wheeler County, Oregon","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,34,31,25,164992,164992,5189,423
+"41069",5,"1121",76,0,2013,3,"","Wheeler County, Oregon","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",7,31,30,28,160246,153746,4782,416
+"41069",5,"11211",77,0,2013,1,"","Wheeler County, Oregon","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,31,31,26,166583,166583,5268,437
+"41069",5,"11211",77,0,2013,2,"","Wheeler County, Oregon","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,34,31,25,164992,164992,5189,423
+"41069",5,"11211",77,0,2013,3,"","Wheeler County, Oregon","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",7,31,30,28,160246,153746,4782,416
+"41069",5,"112111",78,0,2013,1,"","Wheeler County, Oregon","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,31,31,26,166583,166583,5268,437
+"41069",5,"112111",78,0,2013,2,"","Wheeler County, Oregon","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,34,31,25,164992,164992,5189,423
+"41069",5,"112111",78,0,2013,3,"","Wheeler County, Oregon","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",7,31,30,28,160246,153746,4782,416
+"41069",5,"113",75,0,2013,1,"N","Wheeler County, Oregon","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"113",75,0,2013,2,"N","Wheeler County, Oregon","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"113",75,0,2013,3,"N","Wheeler County, Oregon","Private","Forestry and logging","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1133",76,0,2013,1,"N","Wheeler County, Oregon","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1133",76,0,2013,2,"N","Wheeler County, Oregon","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1133",76,0,2013,3,"N","Wheeler County, Oregon","Private","Logging","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"11331",77,0,2013,1,"N","Wheeler County, Oregon","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"11331",77,0,2013,2,"N","Wheeler County, Oregon","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"11331",77,0,2013,3,"N","Wheeler County, Oregon","Private","Logging","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"113310",78,0,2013,1,"N","Wheeler County, Oregon","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"113310",78,0,2013,2,"N","Wheeler County, Oregon","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"113310",78,0,2013,3,"N","Wheeler County, Oregon","Private","Logging","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"115",75,0,2013,1,"N","Wheeler County, Oregon","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"115",75,0,2013,2,"N","Wheeler County, Oregon","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"115",75,0,2013,3,"N","Wheeler County, Oregon","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1153",76,0,2013,1,"N","Wheeler County, Oregon","Private","Support activities for forestry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1153",76,0,2013,2,"N","Wheeler County, Oregon","Private","Support activities for forestry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"1153",76,0,2013,3,"N","Wheeler County, Oregon","Private","Support activities for forestry","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"11531",77,0,2013,1,"N","Wheeler County, Oregon","Private","Support activities for forestry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"11531",77,0,2013,2,"N","Wheeler County, Oregon","Private","Support activities for forestry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"11531",77,0,2013,3,"N","Wheeler County, Oregon","Private","Support activities for forestry","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"115310",78,0,2013,1,"N","Wheeler County, Oregon","Private","Support activities for forestry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"115310",78,0,2013,2,"N","Wheeler County, Oregon","Private","Support activities for forestry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"115310",78,0,2013,3,"N","Wheeler County, Oregon","Private","Support activities for forestry","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"23",74,0,2013,1,"N","Wheeler County, Oregon","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"23",74,0,2013,2,"N","Wheeler County, Oregon","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"23",74,0,2013,3,"N","Wheeler County, Oregon","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"236",75,0,2013,1,"N","Wheeler County, Oregon","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"236",75,0,2013,2,"N","Wheeler County, Oregon","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"236",75,0,2013,3,"N","Wheeler County, Oregon","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"2361",76,0,2013,1,"N","Wheeler County, Oregon","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"2361",76,0,2013,2,"N","Wheeler County, Oregon","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"2361",76,0,2013,3,"N","Wheeler County, Oregon","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"23611",77,0,2013,1,"N","Wheeler County, Oregon","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"23611",77,0,2013,2,"N","Wheeler County, Oregon","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"23611",77,0,2013,3,"N","Wheeler County, Oregon","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"236115",78,0,2013,1,"N","Wheeler County, Oregon","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"236115",78,0,2013,2,"N","Wheeler County, Oregon","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"236115",78,0,2013,3,"N","Wheeler County, Oregon","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"31-33",74,0,2013,1,"-","Wheeler County, Oregon","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41069",5,"31-33",74,0,2013,2,"N","Wheeler County, Oregon","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"31-33",74,0,2013,3,"N","Wheeler County, Oregon","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"312",75,0,2013,1,"-","Wheeler County, Oregon","Private","Beverage and tobacco product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41069",5,"312",75,0,2013,2,"N","Wheeler County, Oregon","Private","Beverage and tobacco product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"312",75,0,2013,3,"N","Wheeler County, Oregon","Private","Beverage and tobacco product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"3121",76,0,2013,1,"-","Wheeler County, Oregon","Private","Beverage manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41069",5,"3121",76,0,2013,2,"N","Wheeler County, Oregon","Private","Beverage manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"3121",76,0,2013,3,"N","Wheeler County, Oregon","Private","Beverage manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"31214",77,0,2013,1,"-","Wheeler County, Oregon","Private","Distilleries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41069",5,"31214",77,0,2013,2,"N","Wheeler County, Oregon","Private","Distilleries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"31214",77,0,2013,3,"N","Wheeler County, Oregon","Private","Distilleries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"312140",78,0,2013,1,"-","Wheeler County, Oregon","Private","Distilleries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"41069",5,"312140",78,0,2013,2,"N","Wheeler County, Oregon","Private","Distilleries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"312140",78,0,2013,3,"N","Wheeler County, Oregon","Private","Distilleries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"42",74,0,2013,1,"N","Wheeler County, Oregon","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"42",74,0,2013,2,"N","Wheeler County, Oregon","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"42",74,0,2013,3,"N","Wheeler County, Oregon","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"424",75,0,2013,1,"N","Wheeler County, Oregon","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"424",75,0,2013,2,"N","Wheeler County, Oregon","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"424",75,0,2013,3,"N","Wheeler County, Oregon","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4244",76,0,2013,1,"N","Wheeler County, Oregon","Private","Grocery and related product wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4244",76,0,2013,2,"N","Wheeler County, Oregon","Private","Grocery and related product wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4244",76,0,2013,3,"N","Wheeler County, Oregon","Private","Grocery and related product wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"42447",77,0,2013,1,"N","Wheeler County, Oregon","Private","Meat and meat product merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"42447",77,0,2013,2,"N","Wheeler County, Oregon","Private","Meat and meat product merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"42447",77,0,2013,3,"N","Wheeler County, Oregon","Private","Meat and meat product merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"424470",78,0,2013,1,"N","Wheeler County, Oregon","Private","Meat and meat product merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"424470",78,0,2013,2,"N","Wheeler County, Oregon","Private","Meat and meat product merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"424470",78,0,2013,3,"N","Wheeler County, Oregon","Private","Meat and meat product merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"425",75,0,2013,1,"N","Wheeler County, Oregon","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"425",75,0,2013,2,"N","Wheeler County, Oregon","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"425",75,0,2013,3,"N","Wheeler County, Oregon","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"4251",76,0,2013,1,"N","Wheeler County, Oregon","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4251",76,0,2013,2,"N","Wheeler County, Oregon","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"4251",76,0,2013,3,"N","Wheeler County, Oregon","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"42512",77,0,2013,1,"N","Wheeler County, Oregon","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"42512",77,0,2013,2,"N","Wheeler County, Oregon","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"42512",77,0,2013,3,"N","Wheeler County, Oregon","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"425120",78,0,2013,1,"N","Wheeler County, Oregon","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"425120",78,0,2013,2,"N","Wheeler County, Oregon","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"425120",78,0,2013,3,"N","Wheeler County, Oregon","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"44-45",74,0,2013,1,"","Wheeler County, Oregon","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,36,35,35,194931,194931,5242,424
+"41069",5,"44-45",74,0,2013,2,"","Wheeler County, Oregon","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,38,38,39,173035,166095,4552,347
+"41069",5,"44-45",74,0,2013,3,"","Wheeler County, Oregon","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,41,39,38,196093,166000,4400,383
+"41069",5,"441",75,0,2013,1,"N","Wheeler County, Oregon","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"441",75,0,2013,2,"N","Wheeler County, Oregon","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"441",75,0,2013,3,"N","Wheeler County, Oregon","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4411",76,0,2013,1,"N","Wheeler County, Oregon","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4411",76,0,2013,2,"N","Wheeler County, Oregon","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4411",76,0,2013,3,"N","Wheeler County, Oregon","Private","Automobile dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"44111",77,0,2013,1,"N","Wheeler County, Oregon","Private","New car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"44111",77,0,2013,2,"N","Wheeler County, Oregon","Private","New car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"44111",77,0,2013,3,"N","Wheeler County, Oregon","Private","New car dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"441110",78,0,2013,1,"N","Wheeler County, Oregon","Private","New car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"441110",78,0,2013,2,"N","Wheeler County, Oregon","Private","New car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"441110",78,0,2013,3,"N","Wheeler County, Oregon","Private","New car dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"444",75,0,2013,1,"N","Wheeler County, Oregon","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"444",75,0,2013,2,"N","Wheeler County, Oregon","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"444",75,0,2013,3,"N","Wheeler County, Oregon","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4441",76,0,2013,1,"N","Wheeler County, Oregon","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4441",76,0,2013,2,"N","Wheeler County, Oregon","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4441",76,0,2013,3,"N","Wheeler County, Oregon","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"44413",77,0,2013,1,"N","Wheeler County, Oregon","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"44413",77,0,2013,2,"N","Wheeler County, Oregon","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"44413",77,0,2013,3,"N","Wheeler County, Oregon","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"444130",78,0,2013,1,"N","Wheeler County, Oregon","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"444130",78,0,2013,2,"N","Wheeler County, Oregon","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"444130",78,0,2013,3,"N","Wheeler County, Oregon","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"445",75,0,2013,1,"N","Wheeler County, Oregon","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"445",75,0,2013,2,"N","Wheeler County, Oregon","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"445",75,0,2013,3,"N","Wheeler County, Oregon","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4451",76,0,2013,1,"N","Wheeler County, Oregon","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4451",76,0,2013,2,"N","Wheeler County, Oregon","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4451",76,0,2013,3,"N","Wheeler County, Oregon","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"44511",77,0,2013,1,"N","Wheeler County, Oregon","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"44511",77,0,2013,2,"N","Wheeler County, Oregon","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"44511",77,0,2013,3,"N","Wheeler County, Oregon","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"445110",78,0,2013,1,"N","Wheeler County, Oregon","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"445110",78,0,2013,2,"N","Wheeler County, Oregon","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"445110",78,0,2013,3,"N","Wheeler County, Oregon","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"447",75,0,2013,1,"N","Wheeler County, Oregon","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"447",75,0,2013,2,"N","Wheeler County, Oregon","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"447",75,0,2013,3,"N","Wheeler County, Oregon","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"4471",76,0,2013,1,"N","Wheeler County, Oregon","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"4471",76,0,2013,2,"N","Wheeler County, Oregon","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"4471",76,0,2013,3,"N","Wheeler County, Oregon","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"44711",77,0,2013,1,"N","Wheeler County, Oregon","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"44711",77,0,2013,2,"N","Wheeler County, Oregon","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"44711",77,0,2013,3,"N","Wheeler County, Oregon","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"447110",78,0,2013,1,"N","Wheeler County, Oregon","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"447110",78,0,2013,2,"N","Wheeler County, Oregon","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"447110",78,0,2013,3,"N","Wheeler County, Oregon","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"44719",77,0,2013,1,"N","Wheeler County, Oregon","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"44719",77,0,2013,2,"N","Wheeler County, Oregon","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"44719",77,0,2013,3,"N","Wheeler County, Oregon","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"447190",78,0,2013,1,"N","Wheeler County, Oregon","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"447190",78,0,2013,2,"N","Wheeler County, Oregon","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"447190",78,0,2013,3,"N","Wheeler County, Oregon","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"451",75,0,2013,1,"N","Wheeler County, Oregon","Private","Sporting goods, hobby, book and music stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"451",75,0,2013,2,"N","Wheeler County, Oregon","Private","Sporting goods, hobby, book and music stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"451",75,0,2013,3,"N","Wheeler County, Oregon","Private","Sporting goods, hobby, book and music stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4511",76,0,2013,1,"N","Wheeler County, Oregon","Private","Sporting goods and musical instrument stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4511",76,0,2013,2,"N","Wheeler County, Oregon","Private","Sporting goods and musical instrument stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4511",76,0,2013,3,"N","Wheeler County, Oregon","Private","Sporting goods and musical instrument stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"45111",77,0,2013,1,"N","Wheeler County, Oregon","Private","Sporting goods stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"45111",77,0,2013,2,"N","Wheeler County, Oregon","Private","Sporting goods stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"45111",77,0,2013,3,"N","Wheeler County, Oregon","Private","Sporting goods stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"451110",78,0,2013,1,"N","Wheeler County, Oregon","Private","Sporting goods stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"451110",78,0,2013,2,"N","Wheeler County, Oregon","Private","Sporting goods stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"451110",78,0,2013,3,"N","Wheeler County, Oregon","Private","Sporting goods stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"454",75,0,2013,1,"N","Wheeler County, Oregon","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"454",75,0,2013,2,"N","Wheeler County, Oregon","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"454",75,0,2013,3,"N","Wheeler County, Oregon","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"4541",76,0,2013,1,"N","Wheeler County, Oregon","Private","Electronic shopping and mail-order houses","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4541",76,0,2013,2,"N","Wheeler County, Oregon","Private","Electronic shopping and mail-order houses","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4541",76,0,2013,3,"N","Wheeler County, Oregon","Private","Electronic shopping and mail-order houses","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"45411",77,0,2013,1,"N","Wheeler County, Oregon","Private","Electronic shopping and mail-order houses","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"45411",77,0,2013,2,"N","Wheeler County, Oregon","Private","Electronic shopping and mail-order houses","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"45411",77,0,2013,3,"N","Wheeler County, Oregon","Private","Electronic shopping and mail-order houses","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"454111",78,0,2013,1,"N","Wheeler County, Oregon","Private","Electronic shopping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"454111",78,0,2013,2,"N","Wheeler County, Oregon","Private","Electronic shopping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"454111",78,0,2013,3,"N","Wheeler County, Oregon","Private","Electronic shopping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4543",76,0,2013,1,"N","Wheeler County, Oregon","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4543",76,0,2013,2,"N","Wheeler County, Oregon","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4543",76,0,2013,3,"N","Wheeler County, Oregon","Private","Direct selling establishments","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"45431",77,0,2013,1,"N","Wheeler County, Oregon","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"45431",77,0,2013,2,"N","Wheeler County, Oregon","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"45431",77,0,2013,3,"N","Wheeler County, Oregon","Private","Fuel dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"454310",78,0,2013,1,"N","Wheeler County, Oregon","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"454310",78,0,2013,2,"N","Wheeler County, Oregon","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"454310",78,0,2013,3,"N","Wheeler County, Oregon","Private","Fuel dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"48-49",74,0,2013,1,"N","Wheeler County, Oregon","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"48-49",74,0,2013,2,"N","Wheeler County, Oregon","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"48-49",74,0,2013,3,"N","Wheeler County, Oregon","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"485",75,0,2013,1,"N","Wheeler County, Oregon","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"485",75,0,2013,2,"N","Wheeler County, Oregon","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"485",75,0,2013,3,"N","Wheeler County, Oregon","Private","Transit and ground passenger transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4854",76,0,2013,1,"N","Wheeler County, Oregon","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4854",76,0,2013,2,"N","Wheeler County, Oregon","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"4854",76,0,2013,3,"N","Wheeler County, Oregon","Private","School and employee bus transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"48541",77,0,2013,1,"N","Wheeler County, Oregon","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"48541",77,0,2013,2,"N","Wheeler County, Oregon","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"48541",77,0,2013,3,"N","Wheeler County, Oregon","Private","School and employee bus transportation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"485410",78,0,2013,1,"N","Wheeler County, Oregon","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"485410",78,0,2013,2,"N","Wheeler County, Oregon","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"485410",78,0,2013,3,"N","Wheeler County, Oregon","Private","School and employee bus transportation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"51",74,0,2013,1,"N","Wheeler County, Oregon","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"51",74,0,2013,2,"N","Wheeler County, Oregon","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"51",74,0,2013,3,"N","Wheeler County, Oregon","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"517",75,0,2013,1,"N","Wheeler County, Oregon","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"517",75,0,2013,2,"N","Wheeler County, Oregon","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"517",75,0,2013,3,"N","Wheeler County, Oregon","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"5171",76,0,2013,1,"N","Wheeler County, Oregon","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"5171",76,0,2013,2,"N","Wheeler County, Oregon","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"5171",76,0,2013,3,"N","Wheeler County, Oregon","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"51711",77,0,2013,1,"N","Wheeler County, Oregon","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"51711",77,0,2013,2,"N","Wheeler County, Oregon","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"51711",77,0,2013,3,"N","Wheeler County, Oregon","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"517110",78,0,2013,1,"N","Wheeler County, Oregon","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"517110",78,0,2013,2,"N","Wheeler County, Oregon","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"517110",78,0,2013,3,"N","Wheeler County, Oregon","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"52",74,0,2013,1,"N","Wheeler County, Oregon","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"52",74,0,2013,2,"N","Wheeler County, Oregon","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"52",74,0,2013,3,"N","Wheeler County, Oregon","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"522",75,0,2013,1,"N","Wheeler County, Oregon","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"522",75,0,2013,2,"N","Wheeler County, Oregon","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"522",75,0,2013,3,"N","Wheeler County, Oregon","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"5221",76,0,2013,1,"N","Wheeler County, Oregon","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"5221",76,0,2013,2,"N","Wheeler County, Oregon","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"5221",76,0,2013,3,"N","Wheeler County, Oregon","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"52211",77,0,2013,1,"N","Wheeler County, Oregon","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"52211",77,0,2013,2,"N","Wheeler County, Oregon","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"52211",77,0,2013,3,"N","Wheeler County, Oregon","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"522110",78,0,2013,1,"N","Wheeler County, Oregon","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"522110",78,0,2013,2,"N","Wheeler County, Oregon","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"522110",78,0,2013,3,"N","Wheeler County, Oregon","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"56",74,0,2013,1,"N","Wheeler County, Oregon","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"56",74,0,2013,2,"N","Wheeler County, Oregon","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"56",74,0,2013,3,"N","Wheeler County, Oregon","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"561",75,0,2013,1,"N","Wheeler County, Oregon","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"561",75,0,2013,2,"N","Wheeler County, Oregon","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"561",75,0,2013,3,"N","Wheeler County, Oregon","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"5617",76,0,2013,1,"N","Wheeler County, Oregon","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"5617",76,0,2013,2,"N","Wheeler County, Oregon","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"5617",76,0,2013,3,"N","Wheeler County, Oregon","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"56172",77,0,2013,1,"N","Wheeler County, Oregon","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"56172",77,0,2013,2,"N","Wheeler County, Oregon","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"56172",77,0,2013,3,"N","Wheeler County, Oregon","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"561720",78,0,2013,1,"N","Wheeler County, Oregon","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"561720",78,0,2013,2,"N","Wheeler County, Oregon","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"561720",78,0,2013,3,"N","Wheeler County, Oregon","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"61",74,0,2013,1,"N","Wheeler County, Oregon","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"61",74,0,2013,2,"N","Wheeler County, Oregon","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"61",74,0,2013,3,"N","Wheeler County, Oregon","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"611",75,0,2013,1,"N","Wheeler County, Oregon","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"611",75,0,2013,2,"N","Wheeler County, Oregon","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"611",75,0,2013,3,"N","Wheeler County, Oregon","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"6111",76,0,2013,1,"N","Wheeler County, Oregon","Private","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"6111",76,0,2013,2,"N","Wheeler County, Oregon","Private","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"6111",76,0,2013,3,"N","Wheeler County, Oregon","Private","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"61111",77,0,2013,1,"N","Wheeler County, Oregon","Private","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"61111",77,0,2013,2,"N","Wheeler County, Oregon","Private","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"61111",77,0,2013,3,"N","Wheeler County, Oregon","Private","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"611110",78,0,2013,1,"N","Wheeler County, Oregon","Private","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"611110",78,0,2013,2,"N","Wheeler County, Oregon","Private","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"611110",78,0,2013,3,"N","Wheeler County, Oregon","Private","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"6114",76,0,2013,1,"N","Wheeler County, Oregon","Private","Business, computer and management training","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"6114",76,0,2013,2,"N","Wheeler County, Oregon","Private","Business, computer and management training","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"6114",76,0,2013,3,"N","Wheeler County, Oregon","Private","Business, computer and management training","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"61143",77,0,2013,1,"N","Wheeler County, Oregon","Private","Management training","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"61143",77,0,2013,2,"N","Wheeler County, Oregon","Private","Management training","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"61143",77,0,2013,3,"N","Wheeler County, Oregon","Private","Management training","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"611430",78,0,2013,1,"N","Wheeler County, Oregon","Private","Management training","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"611430",78,0,2013,2,"N","Wheeler County, Oregon","Private","Management training","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"611430",78,0,2013,3,"N","Wheeler County, Oregon","Private","Management training","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"62",74,0,2013,1,"N","Wheeler County, Oregon","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41069",5,"62",74,0,2013,2,"N","Wheeler County, Oregon","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41069",5,"62",74,0,2013,3,"N","Wheeler County, Oregon","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"41069",5,"621",75,0,2013,1,"N","Wheeler County, Oregon","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"621",75,0,2013,2,"N","Wheeler County, Oregon","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"621",75,0,2013,3,"N","Wheeler County, Oregon","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"6211",76,0,2013,1,"N","Wheeler County, Oregon","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"6211",76,0,2013,2,"N","Wheeler County, Oregon","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"6211",76,0,2013,3,"N","Wheeler County, Oregon","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"62111",77,0,2013,1,"N","Wheeler County, Oregon","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"62111",77,0,2013,2,"N","Wheeler County, Oregon","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"62111",77,0,2013,3,"N","Wheeler County, Oregon","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"621111",78,0,2013,1,"N","Wheeler County, Oregon","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"621111",78,0,2013,2,"N","Wheeler County, Oregon","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"621111",78,0,2013,3,"N","Wheeler County, Oregon","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"6214",76,0,2013,1,"N","Wheeler County, Oregon","Private","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"6214",76,0,2013,2,"N","Wheeler County, Oregon","Private","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"6214",76,0,2013,3,"N","Wheeler County, Oregon","Private","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"62142",77,0,2013,1,"N","Wheeler County, Oregon","Private","Outpatient mental health centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"62142",77,0,2013,2,"N","Wheeler County, Oregon","Private","Outpatient mental health centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"62142",77,0,2013,3,"N","Wheeler County, Oregon","Private","Outpatient mental health centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"621420",78,0,2013,1,"N","Wheeler County, Oregon","Private","Outpatient mental health centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"621420",78,0,2013,2,"N","Wheeler County, Oregon","Private","Outpatient mental health centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"621420",78,0,2013,3,"N","Wheeler County, Oregon","Private","Outpatient mental health centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"623",75,0,2013,1,"N","Wheeler County, Oregon","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"623",75,0,2013,2,"N","Wheeler County, Oregon","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"623",75,0,2013,3,"N","Wheeler County, Oregon","Private","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"6233",76,0,2013,1,"N","Wheeler County, Oregon","Private","Community care facilities for the elderly","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"6233",76,0,2013,2,"N","Wheeler County, Oregon","Private","Community care facilities for the elderly","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"6233",76,0,2013,3,"N","Wheeler County, Oregon","Private","Community care facilities for the elderly","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"62331",77,0,2013,1,"N","Wheeler County, Oregon","Private","Community care facilities for the elderly","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"62331",77,0,2013,2,"N","Wheeler County, Oregon","Private","Community care facilities for the elderly","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"62331",77,0,2013,3,"N","Wheeler County, Oregon","Private","Community care facilities for the elderly","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"623312",78,0,2013,1,"N","Wheeler County, Oregon","Private","Assisted living facilities for the elderly","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"623312",78,0,2013,2,"N","Wheeler County, Oregon","Private","Assisted living facilities for the elderly","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"623312",78,0,2013,3,"N","Wheeler County, Oregon","Private","Assisted living facilities for the elderly","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"624",75,0,2013,1,"","Wheeler County, Oregon","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,7,11059,11059,243,122
+"41069",5,"624",75,0,2013,2,"N","Wheeler County, Oregon","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"624",75,0,2013,3,"","Wheeler County, Oregon","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,3,3,6,6046,6046,133,116
+"41069",5,"6244",76,0,2013,1,"","Wheeler County, Oregon","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,7,7,11059,11059,243,122
+"41069",5,"6244",76,0,2013,2,"N","Wheeler County, Oregon","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"6244",76,0,2013,3,"","Wheeler County, Oregon","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,3,3,6,6046,6046,133,116
+"41069",5,"62441",77,0,2013,1,"","Wheeler County, Oregon","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,7,7,11059,11059,243,122
+"41069",5,"62441",77,0,2013,2,"N","Wheeler County, Oregon","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"62441",77,0,2013,3,"","Wheeler County, Oregon","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,3,3,6,6046,6046,133,116
+"41069",5,"624410",78,0,2013,1,"","Wheeler County, Oregon","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,7,7,11059,11059,243,122
+"41069",5,"624410",78,0,2013,2,"N","Wheeler County, Oregon","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"624410",78,0,2013,3,"","Wheeler County, Oregon","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,3,3,6,6046,6046,133,116
+"41069",5,"71",74,0,2013,1,"N","Wheeler County, Oregon","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"71",74,0,2013,2,"N","Wheeler County, Oregon","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"71",74,0,2013,3,"N","Wheeler County, Oregon","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"712",75,0,2013,1,"N","Wheeler County, Oregon","Private","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"712",75,0,2013,2,"N","Wheeler County, Oregon","Private","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"712",75,0,2013,3,"N","Wheeler County, Oregon","Private","Museums, historical sites, zoos, and parks","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"7121",76,0,2013,1,"N","Wheeler County, Oregon","Private","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"7121",76,0,2013,2,"N","Wheeler County, Oregon","Private","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"7121",76,0,2013,3,"N","Wheeler County, Oregon","Private","Museums, historical sites, zoos, and parks","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"71211",77,0,2013,1,"N","Wheeler County, Oregon","Private","Museums","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"71211",77,0,2013,2,"N","Wheeler County, Oregon","Private","Museums","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"71211",77,0,2013,3,"N","Wheeler County, Oregon","Private","Museums","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"712110",78,0,2013,1,"N","Wheeler County, Oregon","Private","Museums","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"712110",78,0,2013,2,"N","Wheeler County, Oregon","Private","Museums","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"712110",78,0,2013,3,"N","Wheeler County, Oregon","Private","Museums","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"72",74,0,2013,1,"N","Wheeler County, Oregon","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"41069",5,"72",74,0,2013,2,"N","Wheeler County, Oregon","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"41069",5,"72",74,0,2013,3,"N","Wheeler County, Oregon","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"41069",5,"721",75,0,2013,1,"N","Wheeler County, Oregon","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"721",75,0,2013,2,"N","Wheeler County, Oregon","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"721",75,0,2013,3,"N","Wheeler County, Oregon","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"7211",76,0,2013,1,"N","Wheeler County, Oregon","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"7211",76,0,2013,2,"N","Wheeler County, Oregon","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"7211",76,0,2013,3,"N","Wheeler County, Oregon","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"72111",77,0,2013,1,"N","Wheeler County, Oregon","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"72111",77,0,2013,2,"N","Wheeler County, Oregon","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"72111",77,0,2013,3,"N","Wheeler County, Oregon","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"721110",78,0,2013,1,"N","Wheeler County, Oregon","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"721110",78,0,2013,2,"N","Wheeler County, Oregon","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"721110",78,0,2013,3,"N","Wheeler County, Oregon","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"7212",76,0,2013,1,"N","Wheeler County, Oregon","Private","Rv parks and recreational camps","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"7212",76,0,2013,2,"N","Wheeler County, Oregon","Private","Rv parks and recreational camps","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"7212",76,0,2013,3,"N","Wheeler County, Oregon","Private","Rv parks and recreational camps","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"72121",77,0,2013,1,"N","Wheeler County, Oregon","Private","Rv parks and recreational camps","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"72121",77,0,2013,2,"N","Wheeler County, Oregon","Private","Rv parks and recreational camps","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"72121",77,0,2013,3,"N","Wheeler County, Oregon","Private","Rv parks and recreational camps","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"721214",78,0,2013,1,"N","Wheeler County, Oregon","Private","Recreational and vacation camps","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"721214",78,0,2013,2,"N","Wheeler County, Oregon","Private","Recreational and vacation camps","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"721214",78,0,2013,3,"N","Wheeler County, Oregon","Private","Recreational and vacation camps","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"722",75,0,2013,1,"N","Wheeler County, Oregon","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"722",75,0,2013,2,"N","Wheeler County, Oregon","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"722",75,0,2013,3,"N","Wheeler County, Oregon","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"7225",76,0,2013,1,"N","Wheeler County, Oregon","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"7225",76,0,2013,2,"N","Wheeler County, Oregon","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"7225",76,0,2013,3,"N","Wheeler County, Oregon","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"72251",77,0,2013,1,"N","Wheeler County, Oregon","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"72251",77,0,2013,2,"N","Wheeler County, Oregon","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"72251",77,0,2013,3,"N","Wheeler County, Oregon","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"722511",78,0,2013,1,"N","Wheeler County, Oregon","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"41069",5,"722511",78,0,2013,2,"N","Wheeler County, Oregon","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"722511",78,0,2013,3,"N","Wheeler County, Oregon","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"81",74,0,2013,1,"","Wheeler County, Oregon","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,8,8,11,23200,15400,569,198
+"41069",5,"81",74,0,2013,2,"","Wheeler County, Oregon","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,8,13,12,26088,18288,669,182
+"41069",5,"81",74,0,2013,3,"","Wheeler County, Oregon","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,12,11,9,28958,21158,774,209
+"41069",5,"813",75,0,2013,1,"","Wheeler County, Oregon","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,8,8,11,23200,15400,569,198
+"41069",5,"813",75,0,2013,2,"","Wheeler County, Oregon","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,8,13,12,26088,18288,669,182
+"41069",5,"813",75,0,2013,3,"","Wheeler County, Oregon","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,12,11,9,28958,21158,774,209
+"41069",5,"8131",76,0,2013,1,"","Wheeler County, Oregon","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,5,5,5,9005,1205,26,139
+"41069",5,"8131",76,0,2013,2,"N","Wheeler County, Oregon","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"8131",76,0,2013,3,"N","Wheeler County, Oregon","Private","Religious organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"81311",77,0,2013,1,"","Wheeler County, Oregon","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,5,5,5,9005,1205,26,139
+"41069",5,"81311",77,0,2013,2,"N","Wheeler County, Oregon","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"81311",77,0,2013,3,"N","Wheeler County, Oregon","Private","Religious organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"813110",78,0,2013,1,"","Wheeler County, Oregon","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,5,5,5,9005,1205,26,139
+"41069",5,"813110",78,0,2013,2,"N","Wheeler County, Oregon","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"813110",78,0,2013,3,"N","Wheeler County, Oregon","Private","Religious organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"41069",5,"8133",76,0,2013,1,"N","Wheeler County, Oregon","Private","Social advocacy organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"8133",76,0,2013,2,"N","Wheeler County, Oregon","Private","Social advocacy organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"8133",76,0,2013,3,"N","Wheeler County, Oregon","Private","Social advocacy organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"81331",77,0,2013,1,"N","Wheeler County, Oregon","Private","Social advocacy organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"81331",77,0,2013,2,"N","Wheeler County, Oregon","Private","Social advocacy organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"81331",77,0,2013,3,"N","Wheeler County, Oregon","Private","Social advocacy organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"813312",78,0,2013,1,"N","Wheeler County, Oregon","Private","Environment and conservation organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"813312",78,0,2013,2,"N","Wheeler County, Oregon","Private","Environment and conservation organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"813312",78,0,2013,3,"N","Wheeler County, Oregon","Private","Environment and conservation organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"8139",76,0,2013,1,"N","Wheeler County, Oregon","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"8139",76,0,2013,2,"N","Wheeler County, Oregon","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"8139",76,0,2013,3,"N","Wheeler County, Oregon","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"81392",77,0,2013,1,"N","Wheeler County, Oregon","Private","Professional organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"81392",77,0,2013,2,"N","Wheeler County, Oregon","Private","Professional organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"81392",77,0,2013,3,"N","Wheeler County, Oregon","Private","Professional organizations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"813920",78,0,2013,1,"N","Wheeler County, Oregon","Private","Professional organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"813920",78,0,2013,2,"N","Wheeler County, Oregon","Private","Professional organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"41069",5,"813920",78,0,2013,3,"N","Wheeler County, Oregon","Private","Professional organizations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

@@ -1,0 +1,761 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"31069",0,"10",70,0,2013,1,"","Garden County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",83,568,557,570,4030597,1316916,13870,549
+"31069",0,"10",70,0,2013,2,"","Garden County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",84,595,617,595,3813917,577494,6440,487
+"31069",0,"10",70,0,2013,3,"","Garden County, Nebraska","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",85,578,578,562,3716647,355572,4145,499
+"31069",1,"10",71,0,2013,1,"","Garden County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,16,16,21,188984,0,0,823
+"31069",1,"10",71,0,2013,2,"","Garden County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,16,20,18,198316,0,0,848
+"31069",1,"10",71,0,2013,3,"","Garden County, Nebraska","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",6,17,18,16,209617,0,0,948
+"31069",1,"102",72,0,2013,1,"","Garden County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,16,16,21,188984,0,0,823
+"31069",1,"102",72,0,2013,2,"","Garden County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,16,20,18,198316,0,0,848
+"31069",1,"102",72,0,2013,3,"","Garden County, Nebraska","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",6,17,18,16,209617,0,0,948
+"31069",1,"1021",73,0,2013,1,"","Garden County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,9,9,10,97384,0,0,803
+"31069",1,"1021",73,0,2013,2,"","Garden County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,9,10,10,88438,0,0,704
+"31069",1,"1021",73,0,2013,3,"","Garden County, Nebraska","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",3,9,9,9,101557,0,0,868
+"31069",1,"1028",73,0,2013,1,"","Garden County, Nebraska","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,7,7,11,91600,0,0,846
+"31069",1,"1028",73,0,2013,2,"","Garden County, Nebraska","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,7,10,8,109878,0,0,1014
+"31069",1,"1028",73,0,2013,3,"","Garden County, Nebraska","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,8,9,7,108060,0,0,1039
+"31069",1,"48-49",74,0,2013,1,"","Garden County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,9,9,10,97384,0,0,803
+"31069",1,"48-49",74,0,2013,2,"","Garden County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,9,10,10,88438,0,0,704
+"31069",1,"48-49",74,0,2013,3,"","Garden County, Nebraska","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,9,9,9,101557,0,0,868
+"31069",1,"491",75,0,2013,1,"","Garden County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,9,9,10,97384,0,0,803
+"31069",1,"491",75,0,2013,2,"","Garden County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,9,10,10,88438,0,0,704
+"31069",1,"491",75,0,2013,3,"","Garden County, Nebraska","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,9,9,9,101557,0,0,868
+"31069",1,"4911",76,0,2013,1,"","Garden County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,9,10,97384,0,0,803
+"31069",1,"4911",76,0,2013,2,"","Garden County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,10,10,88438,0,0,704
+"31069",1,"4911",76,0,2013,3,"","Garden County, Nebraska","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,9,9,9,101557,0,0,868
+"31069",1,"49111",77,0,2013,1,"","Garden County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,9,10,97384,0,0,803
+"31069",1,"49111",77,0,2013,2,"","Garden County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,10,10,88438,0,0,704
+"31069",1,"49111",77,0,2013,3,"","Garden County, Nebraska","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,9,9,9,101557,0,0,868
+"31069",1,"491110",78,0,2013,1,"","Garden County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,9,10,97384,0,0,803
+"31069",1,"491110",78,0,2013,2,"","Garden County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,10,10,88438,0,0,704
+"31069",1,"491110",78,0,2013,3,"","Garden County, Nebraska","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,9,9,9,101557,0,0,868
+"31069",1,"92",74,0,2013,1,"","Garden County, Nebraska","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,7,11,91600,0,0,846
+"31069",1,"92",74,0,2013,2,"","Garden County, Nebraska","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,10,8,109878,0,0,1014
+"31069",1,"92",74,0,2013,3,"","Garden County, Nebraska","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,8,9,7,108060,0,0,1039
+"31069",1,"924",75,0,2013,1,"","Garden County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,7,11,91600,0,0,846
+"31069",1,"924",75,0,2013,2,"","Garden County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,7,10,8,109878,0,0,1014
+"31069",1,"924",75,0,2013,3,"","Garden County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,8,9,7,108060,0,0,1039
+"31069",1,"9241",76,0,2013,1,"","Garden County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,7,11,91600,0,0,846
+"31069",1,"9241",76,0,2013,2,"","Garden County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,7,10,8,109878,0,0,1014
+"31069",1,"9241",76,0,2013,3,"","Garden County, Nebraska","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,8,9,7,108060,0,0,1039
+"31069",1,"92412",77,0,2013,1,"","Garden County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,7,11,91600,0,0,846
+"31069",1,"92412",77,0,2013,2,"","Garden County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,7,10,8,109878,0,0,1014
+"31069",1,"92412",77,0,2013,3,"","Garden County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,8,9,7,108060,0,0,1039
+"31069",1,"924120",78,0,2013,1,"","Garden County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,7,11,91600,0,0,846
+"31069",1,"924120",78,0,2013,2,"","Garden County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,7,10,8,109878,0,0,1014
+"31069",1,"924120",78,0,2013,3,"","Garden County, Nebraska","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,8,9,7,108060,0,0,1039
+"31069",2,"10",71,0,2013,1,"","Garden County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,5,6,6,57245,0,0,777
+"31069",2,"10",71,0,2013,2,"","Garden County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,10,10,11,77241,0,0,575
+"31069",2,"10",71,0,2013,3,"","Garden County, Nebraska","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,11,11,11,67792,0,0,474
+"31069",2,"102",72,0,2013,1,"","Garden County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,5,6,6,57245,0,0,777
+"31069",2,"102",72,0,2013,2,"","Garden County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,10,10,11,77241,0,0,575
+"31069",2,"102",72,0,2013,3,"","Garden County, Nebraska","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",4,11,11,11,67792,0,0,474
+"31069",2,"1025",73,0,2013,1,"N","Garden County, Nebraska","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"1025",73,0,2013,2,"N","Garden County, Nebraska","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"1025",73,0,2013,3,"N","Garden County, Nebraska","State Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"1028",73,0,2013,1,"N","Garden County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",2,"1028",73,0,2013,2,"N","Garden County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",2,"1028",73,0,2013,3,"N","Garden County, Nebraska","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",2,"61",74,0,2013,1,"N","Garden County, Nebraska","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"61",74,0,2013,2,"N","Garden County, Nebraska","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"61",74,0,2013,3,"N","Garden County, Nebraska","State Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"611",75,0,2013,1,"N","Garden County, Nebraska","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"611",75,0,2013,2,"N","Garden County, Nebraska","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"611",75,0,2013,3,"N","Garden County, Nebraska","State Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"6113",76,0,2013,1,"N","Garden County, Nebraska","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"6113",76,0,2013,2,"N","Garden County, Nebraska","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"6113",76,0,2013,3,"N","Garden County, Nebraska","State Government","Colleges and universities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"61131",77,0,2013,1,"N","Garden County, Nebraska","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"61131",77,0,2013,2,"N","Garden County, Nebraska","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"61131",77,0,2013,3,"N","Garden County, Nebraska","State Government","Colleges and universities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"611310",78,0,2013,1,"N","Garden County, Nebraska","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"611310",78,0,2013,2,"N","Garden County, Nebraska","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"611310",78,0,2013,3,"N","Garden County, Nebraska","State Government","Colleges and universities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"92",74,0,2013,1,"N","Garden County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",2,"92",74,0,2013,2,"N","Garden County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",2,"92",74,0,2013,3,"N","Garden County, Nebraska","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",2,"922",75,0,2013,1,"N","Garden County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"922",75,0,2013,2,"N","Garden County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"922",75,0,2013,3,"N","Garden County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"9221",76,0,2013,1,"N","Garden County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"9221",76,0,2013,2,"N","Garden County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"9221",76,0,2013,3,"N","Garden County, Nebraska","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"92211",77,0,2013,1,"N","Garden County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"92211",77,0,2013,2,"N","Garden County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"92211",77,0,2013,3,"N","Garden County, Nebraska","State Government","Courts","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"922110",78,0,2013,1,"N","Garden County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"922110",78,0,2013,2,"N","Garden County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"922110",78,0,2013,3,"N","Garden County, Nebraska","State Government","Courts","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"924",75,0,2013,1,"N","Garden County, Nebraska","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"924",75,0,2013,2,"N","Garden County, Nebraska","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"924",75,0,2013,3,"N","Garden County, Nebraska","State Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"9241",76,0,2013,1,"N","Garden County, Nebraska","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"9241",76,0,2013,2,"N","Garden County, Nebraska","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"9241",76,0,2013,3,"N","Garden County, Nebraska","State Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"92412",77,0,2013,1,"N","Garden County, Nebraska","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"92412",77,0,2013,2,"N","Garden County, Nebraska","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"92412",77,0,2013,3,"N","Garden County, Nebraska","State Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"924120",78,0,2013,1,"N","Garden County, Nebraska","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"924120",78,0,2013,2,"N","Garden County, Nebraska","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"924120",78,0,2013,3,"N","Garden County, Nebraska","State Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"926",75,0,2013,1,"N","Garden County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"926",75,0,2013,2,"N","Garden County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"926",75,0,2013,3,"N","Garden County, Nebraska","State Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"9261",76,0,2013,1,"N","Garden County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"9261",76,0,2013,2,"N","Garden County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"9261",76,0,2013,3,"N","Garden County, Nebraska","State Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"92612",77,0,2013,1,"N","Garden County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"92612",77,0,2013,2,"N","Garden County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"92612",77,0,2013,3,"N","Garden County, Nebraska","State Government","Transportation program administration","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"926120",78,0,2013,1,"N","Garden County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"926120",78,0,2013,2,"N","Garden County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",2,"926120",78,0,2013,3,"N","Garden County, Nebraska","State Government","Transportation program administration","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"10",71,0,2013,1,"","Garden County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,256,249,254,1763558,11262,86,536
+"31069",3,"10",71,0,2013,2,"","Garden County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,247,251,257,1926436,6706,51,589
+"31069",3,"10",71,0,2013,3,"","Garden County, Nebraska","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",10,241,243,240,1683750,4079,31,537
+"31069",3,"102",72,0,2013,1,"","Garden County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,256,249,254,1763558,11262,86,536
+"31069",3,"102",72,0,2013,2,"","Garden County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,247,251,257,1926436,6706,51,589
+"31069",3,"102",72,0,2013,3,"","Garden County, Nebraska","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",10,241,243,240,1683750,4079,31,537
+"31069",3,"1021",73,0,2013,1,"N","Garden County, Nebraska","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"1021",73,0,2013,2,"N","Garden County, Nebraska","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"1021",73,0,2013,3,"N","Garden County, Nebraska","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"1025",73,0,2013,1,"","Garden County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,205,198,205,1460432,0,0,554
+"31069",3,"1025",73,0,2013,2,"","Garden County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,198,200,199,1609305,0,0,622
+"31069",3,"1025",73,0,2013,3,"","Garden County, Nebraska","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",5,182,187,185,1377226,0,0,574
+"31069",3,"1028",73,0,2013,1,"N","Garden County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",3,"1028",73,0,2013,2,"N","Garden County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",3,"1028",73,0,2013,3,"N","Garden County, Nebraska","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",3,"22",74,0,2013,1,"N","Garden County, Nebraska","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"22",74,0,2013,2,"N","Garden County, Nebraska","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"22",74,0,2013,3,"N","Garden County, Nebraska","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"221",75,0,2013,1,"N","Garden County, Nebraska","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"221",75,0,2013,2,"N","Garden County, Nebraska","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"221",75,0,2013,3,"N","Garden County, Nebraska","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"2211",76,0,2013,1,"N","Garden County, Nebraska","Local Government","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"2211",76,0,2013,2,"N","Garden County, Nebraska","Local Government","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"2211",76,0,2013,3,"N","Garden County, Nebraska","Local Government","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"22112",77,0,2013,1,"N","Garden County, Nebraska","Local Government","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"22112",77,0,2013,2,"N","Garden County, Nebraska","Local Government","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"22112",77,0,2013,3,"N","Garden County, Nebraska","Local Government","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"221122",78,0,2013,1,"N","Garden County, Nebraska","Local Government","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"221122",78,0,2013,2,"N","Garden County, Nebraska","Local Government","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"221122",78,0,2013,3,"N","Garden County, Nebraska","Local Government","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"61",74,0,2013,1,"N","Garden County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"61",74,0,2013,2,"N","Garden County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"61",74,0,2013,3,"N","Garden County, Nebraska","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"611",75,0,2013,1,"N","Garden County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"611",75,0,2013,2,"N","Garden County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"611",75,0,2013,3,"N","Garden County, Nebraska","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"6111",76,0,2013,1,"N","Garden County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"6111",76,0,2013,2,"N","Garden County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"6111",76,0,2013,3,"N","Garden County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"61111",77,0,2013,1,"N","Garden County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"61111",77,0,2013,2,"N","Garden County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"61111",77,0,2013,3,"N","Garden County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"611110",78,0,2013,1,"N","Garden County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"611110",78,0,2013,2,"N","Garden County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"611110",78,0,2013,3,"N","Garden County, Nebraska","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"62",74,0,2013,1,"N","Garden County, Nebraska","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",3,"62",74,0,2013,2,"N","Garden County, Nebraska","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",3,"62",74,0,2013,3,"N","Garden County, Nebraska","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",3,"621",75,0,2013,1,"N","Garden County, Nebraska","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"621",75,0,2013,2,"N","Garden County, Nebraska","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"621",75,0,2013,3,"N","Garden County, Nebraska","Local Government","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"6214",76,0,2013,1,"N","Garden County, Nebraska","Local Government","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"6214",76,0,2013,2,"N","Garden County, Nebraska","Local Government","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"6214",76,0,2013,3,"N","Garden County, Nebraska","Local Government","Outpatient care centers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"62142",77,0,2013,1,"N","Garden County, Nebraska","Local Government","Outpatient mental health centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"62142",77,0,2013,2,"N","Garden County, Nebraska","Local Government","Outpatient mental health centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"62142",77,0,2013,3,"N","Garden County, Nebraska","Local Government","Outpatient mental health centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"621420",78,0,2013,1,"N","Garden County, Nebraska","Local Government","Outpatient mental health centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"621420",78,0,2013,2,"N","Garden County, Nebraska","Local Government","Outpatient mental health centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"621420",78,0,2013,3,"N","Garden County, Nebraska","Local Government","Outpatient mental health centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"622",75,0,2013,1,"N","Garden County, Nebraska","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"622",75,0,2013,2,"N","Garden County, Nebraska","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"622",75,0,2013,3,"N","Garden County, Nebraska","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"6221",76,0,2013,1,"N","Garden County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"6221",76,0,2013,2,"N","Garden County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"6221",76,0,2013,3,"N","Garden County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"62211",77,0,2013,1,"N","Garden County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"62211",77,0,2013,2,"N","Garden County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"62211",77,0,2013,3,"N","Garden County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"622110",78,0,2013,1,"N","Garden County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"622110",78,0,2013,2,"N","Garden County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"622110",78,0,2013,3,"N","Garden County, Nebraska","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"623",75,0,2013,1,"N","Garden County, Nebraska","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"623",75,0,2013,2,"N","Garden County, Nebraska","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"623",75,0,2013,3,"N","Garden County, Nebraska","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"6231",76,0,2013,1,"N","Garden County, Nebraska","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"6231",76,0,2013,2,"N","Garden County, Nebraska","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"6231",76,0,2013,3,"N","Garden County, Nebraska","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"62311",77,0,2013,1,"N","Garden County, Nebraska","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"62311",77,0,2013,2,"N","Garden County, Nebraska","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"62311",77,0,2013,3,"N","Garden County, Nebraska","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"623110",78,0,2013,1,"N","Garden County, Nebraska","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"623110",78,0,2013,2,"N","Garden County, Nebraska","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"623110",78,0,2013,3,"N","Garden County, Nebraska","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"624",75,0,2013,1,"N","Garden County, Nebraska","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"624",75,0,2013,2,"N","Garden County, Nebraska","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"624",75,0,2013,3,"N","Garden County, Nebraska","Local Government","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"6241",76,0,2013,1,"N","Garden County, Nebraska","Local Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"6241",76,0,2013,2,"N","Garden County, Nebraska","Local Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"6241",76,0,2013,3,"N","Garden County, Nebraska","Local Government","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"62412",77,0,2013,1,"N","Garden County, Nebraska","Local Government","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"62412",77,0,2013,2,"N","Garden County, Nebraska","Local Government","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"62412",77,0,2013,3,"N","Garden County, Nebraska","Local Government","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"624120",78,0,2013,1,"N","Garden County, Nebraska","Local Government","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"624120",78,0,2013,2,"N","Garden County, Nebraska","Local Government","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"624120",78,0,2013,3,"N","Garden County, Nebraska","Local Government","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"92",74,0,2013,1,"N","Garden County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",3,"92",74,0,2013,2,"N","Garden County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",3,"92",74,0,2013,3,"N","Garden County, Nebraska","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",3,"921",75,0,2013,1,"","Garden County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,47,47,45,273921,11262,86,455
+"31069",3,"921",75,0,2013,2,"","Garden County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,45,47,54,279934,6706,51,442
+"31069",3,"921",75,0,2013,3,"","Garden County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,55,52,51,277717,4079,31,406
+"31069",3,"9211",76,0,2013,1,"","Garden County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,47,47,45,273921,11262,86,455
+"31069",3,"9211",76,0,2013,2,"","Garden County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,45,47,54,279934,6706,51,442
+"31069",3,"9211",76,0,2013,3,"","Garden County, Nebraska","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,55,52,51,277717,4079,31,406
+"31069",3,"92114",77,0,2013,1,"","Garden County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,47,47,45,273921,11262,86,455
+"31069",3,"92114",77,0,2013,2,"","Garden County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,45,47,54,279934,6706,51,442
+"31069",3,"92114",77,0,2013,3,"","Garden County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,55,52,51,277717,4079,31,406
+"31069",3,"921140",78,0,2013,1,"","Garden County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,47,47,45,273921,11262,86,455
+"31069",3,"921140",78,0,2013,2,"","Garden County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,45,47,54,279934,6706,51,442
+"31069",3,"921140",78,0,2013,3,"","Garden County, Nebraska","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,55,52,51,277717,4079,31,406
+"31069",3,"925",75,0,2013,1,"N","Garden County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"925",75,0,2013,2,"N","Garden County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"925",75,0,2013,3,"N","Garden County, Nebraska","Local Government","Community and housing program administration","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"9251",76,0,2013,1,"N","Garden County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"9251",76,0,2013,2,"N","Garden County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"9251",76,0,2013,3,"N","Garden County, Nebraska","Local Government","Community and housing program administration","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"92511",77,0,2013,1,"N","Garden County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"92511",77,0,2013,2,"N","Garden County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"92511",77,0,2013,3,"N","Garden County, Nebraska","Local Government","Administration of housing programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"925110",78,0,2013,1,"N","Garden County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"925110",78,0,2013,2,"N","Garden County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",3,"925110",78,0,2013,3,"N","Garden County, Nebraska","Local Government","Administration of housing programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"10",71,0,2013,1,"","Garden County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",63,291,286,289,2020810,1305654,13784,538
+"31069",5,"10",71,0,2013,2,"","Garden County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",64,322,336,309,1611924,570788,6389,385
+"31069",5,"10",71,0,2013,3,"","Garden County, Nebraska","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",65,309,306,295,1755488,351493,4114,445
+"31069",5,"101",72,0,2013,1,"","Garden County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",15,75,72,74,760417,426417,4374,794
+"31069",5,"101",72,0,2013,2,"","Garden County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",15,77,79,76,435002,159079,1973,433
+"31069",5,"101",72,0,2013,3,"","Garden County, Nebraska","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",15,78,78,72,449874,84532,1088,455
+"31069",5,"1011",73,0,2013,1,"","Garden County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",9,53,54,54,694910,363118,3511,996
+"31069",5,"1011",73,0,2013,2,"","Garden County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",9,56,56,53,349738,113921,1374,489
+"31069",5,"1011",73,0,2013,3,"","Garden County, Nebraska","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",9,53,54,48,357234,37378,513,532
+"31069",5,"1012",73,0,2013,1,"N","Garden County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",5,"1012",73,0,2013,2,"N","Garden County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",5,"1012",73,0,2013,3,"N","Garden County, Nebraska","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",5,"1013",73,0,2013,1,"N","Garden County, Nebraska","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"1013",73,0,2013,2,"N","Garden County, Nebraska","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"1013",73,0,2013,3,"N","Garden County, Nebraska","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"102",72,0,2013,1,"","Garden County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",48,216,214,215,1260393,879237,9410,451
+"31069",5,"102",72,0,2013,2,"","Garden County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",49,245,257,233,1176922,411709,4416,370
+"31069",5,"102",72,0,2013,3,"","Garden County, Nebraska","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",50,231,228,223,1305614,266961,3026,442
+"31069",5,"1021",73,0,2013,1,"","Garden County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",17,159,156,154,940879,621307,5615,463
+"31069",5,"1021",73,0,2013,2,"","Garden County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",18,176,190,166,795657,312742,2884,345
+"31069",5,"1021",73,0,2013,3,"","Garden County, Nebraska","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",18,165,156,158,825061,186538,1601,397
+"31069",5,"1022",73,0,2013,1,"N","Garden County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"1022",73,0,2013,2,"N","Garden County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"1022",73,0,2013,3,"N","Garden County, Nebraska","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"1023",73,0,2013,1,"N","Garden County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",5,"1023",73,0,2013,2,"","Garden County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",3,24,23,23,224495,20142,102,740
+"31069",5,"1023",73,0,2013,3,"","Garden County, Nebraska","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",4,23,23,24,315652,7931,25,1041
+"31069",5,"1024",73,0,2013,1,"","Garden County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,8,8,8,86949,53347,1085,836
+"31069",5,"1024",73,0,2013,2,"","Garden County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,8,8,9,81014,12134,183,748
+"31069",5,"1024",73,0,2013,3,"","Garden County, Nebraska","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",6,9,9,8,78311,9537,132,695
+"31069",5,"1025",73,0,2013,1,"","Garden County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",13,12,12,15,23180,23180,621,137
+"31069",5,"1025",73,0,2013,2,"","Garden County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",14,14,12,12,27143,22704,580,165
+"31069",5,"1025",73,0,2013,3,"","Garden County, Nebraska","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",14,8,14,12,33242,26029,775,226
+"31069",5,"1026",73,0,2013,1,"N","Garden County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"31069",5,"1026",73,0,2013,2,"","Garden County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",5,15,17,16,28217,27017,324,136
+"31069",5,"1026",73,0,2013,3,"","Garden County, Nebraska","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",5,18,18,14,31049,20099,186,143
+"31069",5,"1027",73,0,2013,1,"N","Garden County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"1027",73,0,2013,2,"N","Garden County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"1027",73,0,2013,3,"N","Garden County, Nebraska","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"11",74,0,2013,1,"","Garden County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",9,53,54,54,694910,363118,3511,996
+"31069",5,"11",74,0,2013,2,"","Garden County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",9,56,56,53,349738,113921,1374,489
+"31069",5,"11",74,0,2013,3,"","Garden County, Nebraska","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",9,53,54,48,357234,37378,513,532
+"31069",5,"111",75,0,2013,1,"N","Garden County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"111",75,0,2013,2,"N","Garden County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"111",75,0,2013,3,"N","Garden County, Nebraska","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"1111",76,0,2013,1,"N","Garden County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"1111",76,0,2013,2,"N","Garden County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"1111",76,0,2013,3,"N","Garden County, Nebraska","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"11119",77,0,2013,1,"N","Garden County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"11119",77,0,2013,2,"N","Garden County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"11119",77,0,2013,3,"N","Garden County, Nebraska","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"111191",78,0,2013,1,"N","Garden County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"111191",78,0,2013,2,"N","Garden County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"111191",78,0,2013,3,"N","Garden County, Nebraska","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"1119",76,0,2013,1,"N","Garden County, Nebraska","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"1119",76,0,2013,2,"N","Garden County, Nebraska","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"1119",76,0,2013,3,"N","Garden County, Nebraska","Private","Other crop farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"11194",77,0,2013,1,"N","Garden County, Nebraska","Private","Hay farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"11194",77,0,2013,2,"N","Garden County, Nebraska","Private","Hay farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"11194",77,0,2013,3,"N","Garden County, Nebraska","Private","Hay farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"111940",78,0,2013,1,"N","Garden County, Nebraska","Private","Hay farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"111940",78,0,2013,2,"N","Garden County, Nebraska","Private","Hay farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"111940",78,0,2013,3,"N","Garden County, Nebraska","Private","Hay farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"112",75,0,2013,1,"N","Garden County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31069",5,"112",75,0,2013,2,"N","Garden County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31069",5,"112",75,0,2013,3,"N","Garden County, Nebraska","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"31069",5,"1121",76,0,2013,1,"","Garden County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,41,41,41,615174,291222,2292,1154
+"31069",5,"1121",76,0,2013,2,"","Garden County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,42,43,41,280083,83637,721,513
+"31069",5,"1121",76,0,2013,3,"","Garden County, Nebraska","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,41,41,35,262270,25362,354,517
+"31069",5,"11211",77,0,2013,1,"","Garden County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,41,41,41,615174,291222,2292,1154
+"31069",5,"11211",77,0,2013,2,"","Garden County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,42,43,41,280083,83637,721,513
+"31069",5,"11211",77,0,2013,3,"","Garden County, Nebraska","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,41,41,35,262270,25362,354,517
+"31069",5,"112111",78,0,2013,1,"N","Garden County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31069",5,"112111",78,0,2013,2,"N","Garden County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31069",5,"112111",78,0,2013,3,"N","Garden County, Nebraska","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31069",5,"112112",78,0,2013,1,"N","Garden County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"112112",78,0,2013,2,"N","Garden County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"112112",78,0,2013,3,"N","Garden County, Nebraska","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"1129",76,0,2013,1,"N","Garden County, Nebraska","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"1129",76,0,2013,2,"N","Garden County, Nebraska","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"1129",76,0,2013,3,"N","Garden County, Nebraska","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"11299",77,0,2013,1,"N","Garden County, Nebraska","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"11299",77,0,2013,2,"N","Garden County, Nebraska","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"11299",77,0,2013,3,"N","Garden County, Nebraska","Private","All other animal production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"112990",78,0,2013,1,"N","Garden County, Nebraska","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"112990",78,0,2013,2,"N","Garden County, Nebraska","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"112990",78,0,2013,3,"N","Garden County, Nebraska","Private","All other animal production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"22",74,0,2013,1,"N","Garden County, Nebraska","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"22",74,0,2013,2,"N","Garden County, Nebraska","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"22",74,0,2013,3,"N","Garden County, Nebraska","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"221",75,0,2013,1,"N","Garden County, Nebraska","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"221",75,0,2013,2,"N","Garden County, Nebraska","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"221",75,0,2013,3,"N","Garden County, Nebraska","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"2212",76,0,2013,1,"N","Garden County, Nebraska","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"2212",76,0,2013,2,"N","Garden County, Nebraska","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"2212",76,0,2013,3,"N","Garden County, Nebraska","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"22121",77,0,2013,1,"N","Garden County, Nebraska","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"22121",77,0,2013,2,"N","Garden County, Nebraska","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"22121",77,0,2013,3,"N","Garden County, Nebraska","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"221210",78,0,2013,1,"N","Garden County, Nebraska","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"221210",78,0,2013,2,"N","Garden County, Nebraska","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"221210",78,0,2013,3,"N","Garden County, Nebraska","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"23",74,0,2013,1,"N","Garden County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",5,"23",74,0,2013,2,"N","Garden County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",5,"23",74,0,2013,3,"N","Garden County, Nebraska","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",5,"236",75,0,2013,1,"N","Garden County, Nebraska","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"236",75,0,2013,2,"N","Garden County, Nebraska","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"236",75,0,2013,3,"N","Garden County, Nebraska","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"2362",76,0,2013,1,"N","Garden County, Nebraska","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"2362",76,0,2013,2,"N","Garden County, Nebraska","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"2362",76,0,2013,3,"N","Garden County, Nebraska","Private","Nonresidential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"23622",77,0,2013,1,"N","Garden County, Nebraska","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"23622",77,0,2013,2,"N","Garden County, Nebraska","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"23622",77,0,2013,3,"N","Garden County, Nebraska","Private","Commercial building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"236220",78,0,2013,1,"N","Garden County, Nebraska","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"236220",78,0,2013,2,"N","Garden County, Nebraska","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"236220",78,0,2013,3,"N","Garden County, Nebraska","Private","Commercial building construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"238",75,0,2013,1,"N","Garden County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",5,"238",75,0,2013,2,"N","Garden County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",5,"238",75,0,2013,3,"N","Garden County, Nebraska","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",5,"2381",76,0,2013,1,"N","Garden County, Nebraska","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"2381",76,0,2013,2,"N","Garden County, Nebraska","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"2381",76,0,2013,3,"N","Garden County, Nebraska","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"23819",77,0,2013,1,"N","Garden County, Nebraska","Private","Other building exterior contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"23819",77,0,2013,2,"N","Garden County, Nebraska","Private","Other building exterior contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"23819",77,0,2013,3,"N","Garden County, Nebraska","Private","Other building exterior contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"238192",78,0,2013,1,"N","Garden County, Nebraska","Private","Other nonresidential exterior contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"238192",78,0,2013,2,"N","Garden County, Nebraska","Private","Other nonresidential exterior contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"238192",78,0,2013,3,"N","Garden County, Nebraska","Private","Other nonresidential exterior contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"2382",76,0,2013,1,"N","Garden County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"2382",76,0,2013,2,"N","Garden County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"2382",76,0,2013,3,"N","Garden County, Nebraska","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"23822",77,0,2013,1,"N","Garden County, Nebraska","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"23822",77,0,2013,2,"N","Garden County, Nebraska","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"23822",77,0,2013,3,"N","Garden County, Nebraska","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"238221",78,0,2013,1,"N","Garden County, Nebraska","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"238221",78,0,2013,2,"N","Garden County, Nebraska","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"238221",78,0,2013,3,"N","Garden County, Nebraska","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"2389",76,0,2013,1,"N","Garden County, Nebraska","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"2389",76,0,2013,2,"N","Garden County, Nebraska","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"2389",76,0,2013,3,"N","Garden County, Nebraska","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"23891",77,0,2013,1,"N","Garden County, Nebraska","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"23891",77,0,2013,2,"N","Garden County, Nebraska","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"23891",77,0,2013,3,"N","Garden County, Nebraska","Private","Site preparation contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"238911",78,0,2013,1,"N","Garden County, Nebraska","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"238911",78,0,2013,2,"N","Garden County, Nebraska","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"238911",78,0,2013,3,"N","Garden County, Nebraska","Private","Residential site preparation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"31-33",74,0,2013,1,"N","Garden County, Nebraska","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"31-33",74,0,2013,2,"N","Garden County, Nebraska","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"31-33",74,0,2013,3,"N","Garden County, Nebraska","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"311",75,0,2013,1,"N","Garden County, Nebraska","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"311",75,0,2013,2,"N","Garden County, Nebraska","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"311",75,0,2013,3,"N","Garden County, Nebraska","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"3119",76,0,2013,1,"N","Garden County, Nebraska","Private","Other food manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"3119",76,0,2013,2,"N","Garden County, Nebraska","Private","Other food manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"3119",76,0,2013,3,"N","Garden County, Nebraska","Private","Other food manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"31192",77,0,2013,1,"N","Garden County, Nebraska","Private","Coffee and tea manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"31192",77,0,2013,2,"N","Garden County, Nebraska","Private","Coffee and tea manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"31192",77,0,2013,3,"N","Garden County, Nebraska","Private","Coffee and tea manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"311920",78,0,2013,1,"N","Garden County, Nebraska","Private","Coffee and tea manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"311920",78,0,2013,2,"N","Garden County, Nebraska","Private","Coffee and tea manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"311920",78,0,2013,3,"N","Garden County, Nebraska","Private","Coffee and tea manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"312",75,0,2013,1,"N","Garden County, Nebraska","Private","Beverage and tobacco product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"312",75,0,2013,2,"N","Garden County, Nebraska","Private","Beverage and tobacco product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"312",75,0,2013,3,"N","Garden County, Nebraska","Private","Beverage and tobacco product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"3121",76,0,2013,1,"N","Garden County, Nebraska","Private","Beverage manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"3121",76,0,2013,2,"N","Garden County, Nebraska","Private","Beverage manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"3121",76,0,2013,3,"N","Garden County, Nebraska","Private","Beverage manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"31211",77,0,2013,1,"N","Garden County, Nebraska","Private","Soft drink and ice manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"31211",77,0,2013,2,"N","Garden County, Nebraska","Private","Soft drink and ice manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"31211",77,0,2013,3,"N","Garden County, Nebraska","Private","Soft drink and ice manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"312112",78,0,2013,1,"N","Garden County, Nebraska","Private","Bottled water manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"312112",78,0,2013,2,"N","Garden County, Nebraska","Private","Bottled water manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"312112",78,0,2013,3,"N","Garden County, Nebraska","Private","Bottled water manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"42",74,0,2013,1,"","Garden County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,14,14,13,81552,71128,1325,459
+"31069",5,"42",74,0,2013,2,"","Garden County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,17,17,13,110007,41554,758,540
+"31069",5,"42",74,0,2013,3,"","Garden County, Nebraska","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",4,15,14,11,88391,14163,266,510
+"31069",5,"424",75,0,2013,1,"","Garden County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,14,14,13,81552,71128,1325,459
+"31069",5,"424",75,0,2013,2,"","Garden County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,17,17,13,110007,41554,758,540
+"31069",5,"424",75,0,2013,3,"","Garden County, Nebraska","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,15,14,11,88391,14163,266,510
+"31069",5,"4245",76,0,2013,1,"N","Garden County, Nebraska","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"4245",76,0,2013,2,"N","Garden County, Nebraska","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"4245",76,0,2013,3,"N","Garden County, Nebraska","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"42451",77,0,2013,1,"N","Garden County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"42451",77,0,2013,2,"N","Garden County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"42451",77,0,2013,3,"N","Garden County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"424510",78,0,2013,1,"N","Garden County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"424510",78,0,2013,2,"N","Garden County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"424510",78,0,2013,3,"N","Garden County, Nebraska","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"4249",76,0,2013,1,"N","Garden County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"4249",76,0,2013,2,"N","Garden County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"4249",76,0,2013,3,"N","Garden County, Nebraska","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"42491",77,0,2013,1,"N","Garden County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"42491",77,0,2013,2,"N","Garden County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"42491",77,0,2013,3,"N","Garden County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"424910",78,0,2013,1,"N","Garden County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"424910",78,0,2013,2,"N","Garden County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"424910",78,0,2013,3,"N","Garden County, Nebraska","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"44-45",74,0,2013,1,"","Garden County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",11,142,139,138,818064,523386,3679,451
+"31069",5,"44-45",74,0,2013,2,"","Garden County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,156,169,149,627434,262787,1836,305
+"31069",5,"44-45",74,0,2013,3,"","Garden County, Nebraska","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",12,146,138,143,687411,165225,1079,372
+"31069",5,"444",75,0,2013,1,"","Garden County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,20,19,19,81014,76767,519,322
+"31069",5,"444",75,0,2013,2,"","Garden County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,19,22,20,67523,51741,344,255
+"31069",5,"444",75,0,2013,3,"","Garden County, Nebraska","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,21,22,22,78953,24750,113,280
+"31069",5,"4441",76,0,2013,1,"N","Garden County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",5,"4441",76,0,2013,2,"N","Garden County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",5,"4441",76,0,2013,3,"N","Garden County, Nebraska","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",5,"44411",77,0,2013,1,"N","Garden County, Nebraska","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44411",77,0,2013,2,"N","Garden County, Nebraska","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44411",77,0,2013,3,"N","Garden County, Nebraska","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"444110",78,0,2013,1,"N","Garden County, Nebraska","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"444110",78,0,2013,2,"N","Garden County, Nebraska","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"444110",78,0,2013,3,"N","Garden County, Nebraska","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44413",77,0,2013,1,"N","Garden County, Nebraska","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44413",77,0,2013,2,"N","Garden County, Nebraska","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44413",77,0,2013,3,"N","Garden County, Nebraska","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"444130",78,0,2013,1,"N","Garden County, Nebraska","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"444130",78,0,2013,2,"N","Garden County, Nebraska","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"444130",78,0,2013,3,"N","Garden County, Nebraska","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44419",77,0,2013,1,"N","Garden County, Nebraska","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44419",77,0,2013,2,"N","Garden County, Nebraska","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44419",77,0,2013,3,"N","Garden County, Nebraska","Private","Other building material dealers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"444190",78,0,2013,1,"N","Garden County, Nebraska","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"444190",78,0,2013,2,"N","Garden County, Nebraska","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"444190",78,0,2013,3,"N","Garden County, Nebraska","Private","Other building material dealers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4442",76,0,2013,1,"N","Garden County, Nebraska","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4442",76,0,2013,2,"N","Garden County, Nebraska","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4442",76,0,2013,3,"N","Garden County, Nebraska","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44421",77,0,2013,1,"N","Garden County, Nebraska","Private","Outdoor power equipment stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44421",77,0,2013,2,"N","Garden County, Nebraska","Private","Outdoor power equipment stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44421",77,0,2013,3,"N","Garden County, Nebraska","Private","Outdoor power equipment stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"444210",78,0,2013,1,"N","Garden County, Nebraska","Private","Outdoor power equipment stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"444210",78,0,2013,2,"N","Garden County, Nebraska","Private","Outdoor power equipment stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"444210",78,0,2013,3,"N","Garden County, Nebraska","Private","Outdoor power equipment stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"445",75,0,2013,1,"N","Garden County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"445",75,0,2013,2,"N","Garden County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"445",75,0,2013,3,"N","Garden County, Nebraska","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4451",76,0,2013,1,"N","Garden County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4451",76,0,2013,2,"N","Garden County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4451",76,0,2013,3,"N","Garden County, Nebraska","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44511",77,0,2013,1,"N","Garden County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44511",77,0,2013,2,"N","Garden County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44511",77,0,2013,3,"N","Garden County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"445110",78,0,2013,1,"N","Garden County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"445110",78,0,2013,2,"N","Garden County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"445110",78,0,2013,3,"N","Garden County, Nebraska","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"446",75,0,2013,1,"N","Garden County, Nebraska","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"446",75,0,2013,2,"N","Garden County, Nebraska","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"446",75,0,2013,3,"N","Garden County, Nebraska","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4461",76,0,2013,1,"N","Garden County, Nebraska","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4461",76,0,2013,2,"N","Garden County, Nebraska","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4461",76,0,2013,3,"N","Garden County, Nebraska","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44611",77,0,2013,1,"N","Garden County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44611",77,0,2013,2,"N","Garden County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44611",77,0,2013,3,"N","Garden County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"446110",78,0,2013,1,"N","Garden County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"446110",78,0,2013,2,"N","Garden County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"446110",78,0,2013,3,"N","Garden County, Nebraska","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"447",75,0,2013,1,"","Garden County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,24,23,20,60386,59333,232,208
+"31069",5,"447",75,0,2013,2,"","Garden County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,21,23,24,72706,53373,188,247
+"31069",5,"447",75,0,2013,3,"","Garden County, Nebraska","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,23,23,26,71470,38324,104,229
+"31069",5,"4471",76,0,2013,1,"","Garden County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,24,23,20,60386,59333,232,208
+"31069",5,"4471",76,0,2013,2,"","Garden County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,21,23,24,72706,53373,188,247
+"31069",5,"4471",76,0,2013,3,"","Garden County, Nebraska","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,23,23,26,71470,38324,104,229
+"31069",5,"44711",77,0,2013,1,"N","Garden County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44711",77,0,2013,2,"N","Garden County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44711",77,0,2013,3,"N","Garden County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"447110",78,0,2013,1,"N","Garden County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"447110",78,0,2013,2,"N","Garden County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"447110",78,0,2013,3,"N","Garden County, Nebraska","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"44719",77,0,2013,1,"N","Garden County, Nebraska","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"44719",77,0,2013,2,"N","Garden County, Nebraska","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"44719",77,0,2013,3,"N","Garden County, Nebraska","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"447190",78,0,2013,1,"N","Garden County, Nebraska","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"447190",78,0,2013,2,"N","Garden County, Nebraska","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"447190",78,0,2013,3,"N","Garden County, Nebraska","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"453",75,0,2013,1,"N","Garden County, Nebraska","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"453",75,0,2013,2,"N","Garden County, Nebraska","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"453",75,0,2013,3,"N","Garden County, Nebraska","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"4531",76,0,2013,1,"N","Garden County, Nebraska","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4531",76,0,2013,2,"N","Garden County, Nebraska","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4531",76,0,2013,3,"N","Garden County, Nebraska","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"45311",77,0,2013,1,"N","Garden County, Nebraska","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"45311",77,0,2013,2,"N","Garden County, Nebraska","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"45311",77,0,2013,3,"N","Garden County, Nebraska","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"453110",78,0,2013,1,"N","Garden County, Nebraska","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"453110",78,0,2013,2,"N","Garden County, Nebraska","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"453110",78,0,2013,3,"N","Garden County, Nebraska","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4532",76,0,2013,1,"-","Garden County, Nebraska","Private","Office supplies, stationery, and gift stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31069",5,"4532",76,0,2013,2,"N","Garden County, Nebraska","Private","Office supplies, stationery, and gift stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4532",76,0,2013,3,"N","Garden County, Nebraska","Private","Office supplies, stationery, and gift stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"45322",77,0,2013,1,"-","Garden County, Nebraska","Private","Gift, novelty, and souvenir stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31069",5,"45322",77,0,2013,2,"N","Garden County, Nebraska","Private","Gift, novelty, and souvenir stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"45322",77,0,2013,3,"N","Garden County, Nebraska","Private","Gift, novelty, and souvenir stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"453220",78,0,2013,1,"-","Garden County, Nebraska","Private","Gift, novelty, and souvenir stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"31069",5,"453220",78,0,2013,2,"N","Garden County, Nebraska","Private","Gift, novelty, and souvenir stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"453220",78,0,2013,3,"N","Garden County, Nebraska","Private","Gift, novelty, and souvenir stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"454",75,0,2013,1,"N","Garden County, Nebraska","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"454",75,0,2013,2,"N","Garden County, Nebraska","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"454",75,0,2013,3,"N","Garden County, Nebraska","Private","Nonstore retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4541",76,0,2013,1,"N","Garden County, Nebraska","Private","Electronic shopping and mail-order houses","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4541",76,0,2013,2,"N","Garden County, Nebraska","Private","Electronic shopping and mail-order houses","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4541",76,0,2013,3,"N","Garden County, Nebraska","Private","Electronic shopping and mail-order houses","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"45411",77,0,2013,1,"N","Garden County, Nebraska","Private","Electronic shopping and mail-order houses","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"45411",77,0,2013,2,"N","Garden County, Nebraska","Private","Electronic shopping and mail-order houses","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"45411",77,0,2013,3,"N","Garden County, Nebraska","Private","Electronic shopping and mail-order houses","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"454111",78,0,2013,1,"N","Garden County, Nebraska","Private","Electronic shopping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"454111",78,0,2013,2,"N","Garden County, Nebraska","Private","Electronic shopping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"454111",78,0,2013,3,"N","Garden County, Nebraska","Private","Electronic shopping","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"48-49",74,0,2013,1,"N","Garden County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"48-49",74,0,2013,2,"N","Garden County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"48-49",74,0,2013,3,"N","Garden County, Nebraska","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"484",75,0,2013,1,"N","Garden County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"484",75,0,2013,2,"N","Garden County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"484",75,0,2013,3,"N","Garden County, Nebraska","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4842",76,0,2013,1,"N","Garden County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4842",76,0,2013,2,"N","Garden County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"4842",76,0,2013,3,"N","Garden County, Nebraska","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"48422",77,0,2013,1,"N","Garden County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"48422",77,0,2013,2,"N","Garden County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"48422",77,0,2013,3,"N","Garden County, Nebraska","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"484220",78,0,2013,1,"N","Garden County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"484220",78,0,2013,2,"N","Garden County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"484220",78,0,2013,3,"N","Garden County, Nebraska","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"51",74,0,2013,1,"N","Garden County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"51",74,0,2013,2,"N","Garden County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"51",74,0,2013,3,"N","Garden County, Nebraska","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"511",75,0,2013,1,"N","Garden County, Nebraska","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"511",75,0,2013,2,"N","Garden County, Nebraska","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"511",75,0,2013,3,"N","Garden County, Nebraska","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"5111",76,0,2013,1,"N","Garden County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"5111",76,0,2013,2,"N","Garden County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"5111",76,0,2013,3,"N","Garden County, Nebraska","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"51111",77,0,2013,1,"N","Garden County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"51111",77,0,2013,2,"N","Garden County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"51111",77,0,2013,3,"N","Garden County, Nebraska","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"511110",78,0,2013,1,"N","Garden County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"511110",78,0,2013,2,"N","Garden County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"511110",78,0,2013,3,"N","Garden County, Nebraska","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"52",74,0,2013,1,"N","Garden County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",5,"52",74,0,2013,2,"","Garden County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",3,24,23,23,224495,20142,102,740
+"31069",5,"52",74,0,2013,3,"","Garden County, Nebraska","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",4,23,23,24,315652,7931,25,1041
+"31069",5,"522",75,0,2013,1,"N","Garden County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",5,"522",75,0,2013,2,"","Garden County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,24,23,23,224495,20142,102,740
+"31069",5,"522",75,0,2013,3,"","Garden County, Nebraska","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,23,23,24,315652,7931,25,1041
+"31069",5,"5221",76,0,2013,1,"N","Garden County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",5,"5221",76,0,2013,2,"","Garden County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,24,23,23,224495,20142,102,740
+"31069",5,"5221",76,0,2013,3,"","Garden County, Nebraska","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,23,23,24,315652,7931,25,1041
+"31069",5,"52211",77,0,2013,1,"N","Garden County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",5,"52211",77,0,2013,2,"","Garden County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,24,23,23,224495,20142,102,740
+"31069",5,"52211",77,0,2013,3,"","Garden County, Nebraska","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,23,23,24,315652,7931,25,1041
+"31069",5,"522110",78,0,2013,1,"N","Garden County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",5,"522110",78,0,2013,2,"","Garden County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,24,23,23,224495,20142,102,740
+"31069",5,"522110",78,0,2013,3,"","Garden County, Nebraska","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,23,23,24,315652,7931,25,1041
+"31069",5,"54",74,0,2013,1,"N","Garden County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",5,"54",74,0,2013,2,"N","Garden County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",5,"54",74,0,2013,3,"N","Garden County, Nebraska","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",5,"541",75,0,2013,1,"N","Garden County, Nebraska","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",5,"541",75,0,2013,2,"N","Garden County, Nebraska","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",5,"541",75,0,2013,3,"N","Garden County, Nebraska","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",5,"5411",76,0,2013,1,"N","Garden County, Nebraska","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"5411",76,0,2013,2,"N","Garden County, Nebraska","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"5411",76,0,2013,3,"N","Garden County, Nebraska","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"54111",77,0,2013,1,"N","Garden County, Nebraska","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"54111",77,0,2013,2,"N","Garden County, Nebraska","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"54111",77,0,2013,3,"N","Garden County, Nebraska","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"541110",78,0,2013,1,"N","Garden County, Nebraska","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"541110",78,0,2013,2,"N","Garden County, Nebraska","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"541110",78,0,2013,3,"N","Garden County, Nebraska","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"5415",76,0,2013,1,"N","Garden County, Nebraska","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"5415",76,0,2013,2,"N","Garden County, Nebraska","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"5415",76,0,2013,3,"N","Garden County, Nebraska","Private","Computer systems design and related services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"54151",77,0,2013,1,"N","Garden County, Nebraska","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"54151",77,0,2013,2,"N","Garden County, Nebraska","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"54151",77,0,2013,3,"N","Garden County, Nebraska","Private","Computer systems design and related services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"541511",78,0,2013,1,"N","Garden County, Nebraska","Private","Custom computer programming services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"541511",78,0,2013,2,"N","Garden County, Nebraska","Private","Custom computer programming services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"541511",78,0,2013,3,"N","Garden County, Nebraska","Private","Custom computer programming services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"5416",76,0,2013,1,"N","Garden County, Nebraska","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"5416",76,0,2013,2,"N","Garden County, Nebraska","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"5416",76,0,2013,3,"N","Garden County, Nebraska","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"54161",77,0,2013,1,"N","Garden County, Nebraska","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"54161",77,0,2013,2,"N","Garden County, Nebraska","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"54161",77,0,2013,3,"N","Garden County, Nebraska","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"541613",78,0,2013,1,"N","Garden County, Nebraska","Private","Marketing consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"541613",78,0,2013,2,"N","Garden County, Nebraska","Private","Marketing consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"541613",78,0,2013,3,"N","Garden County, Nebraska","Private","Marketing consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"5419",76,0,2013,1,"N","Garden County, Nebraska","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"5419",76,0,2013,2,"N","Garden County, Nebraska","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"5419",76,0,2013,3,"N","Garden County, Nebraska","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"54194",77,0,2013,1,"N","Garden County, Nebraska","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"54194",77,0,2013,2,"N","Garden County, Nebraska","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"54194",77,0,2013,3,"N","Garden County, Nebraska","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"541940",78,0,2013,1,"N","Garden County, Nebraska","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"541940",78,0,2013,2,"N","Garden County, Nebraska","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"541940",78,0,2013,3,"N","Garden County, Nebraska","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"56",74,0,2013,1,"N","Garden County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"56",74,0,2013,2,"N","Garden County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"56",74,0,2013,3,"N","Garden County, Nebraska","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"561",75,0,2013,1,"N","Garden County, Nebraska","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"561",75,0,2013,2,"N","Garden County, Nebraska","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"561",75,0,2013,3,"N","Garden County, Nebraska","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"5615",76,0,2013,1,"N","Garden County, Nebraska","Private","Travel arrangement and reservation services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"5615",76,0,2013,2,"N","Garden County, Nebraska","Private","Travel arrangement and reservation services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"5615",76,0,2013,3,"N","Garden County, Nebraska","Private","Travel arrangement and reservation services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"56151",77,0,2013,1,"N","Garden County, Nebraska","Private","Travel agencies","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"56151",77,0,2013,2,"N","Garden County, Nebraska","Private","Travel agencies","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"56151",77,0,2013,3,"N","Garden County, Nebraska","Private","Travel agencies","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"561510",78,0,2013,1,"N","Garden County, Nebraska","Private","Travel agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"561510",78,0,2013,2,"N","Garden County, Nebraska","Private","Travel agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"561510",78,0,2013,3,"N","Garden County, Nebraska","Private","Travel agencies","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"62",74,0,2013,1,"","Garden County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",13,12,12,15,23180,23180,621,137
+"31069",5,"62",74,0,2013,2,"","Garden County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",14,14,12,12,27143,22704,580,165
+"31069",5,"62",74,0,2013,3,"","Garden County, Nebraska","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",14,8,14,12,33242,26029,775,226
+"31069",5,"621",75,0,2013,1,"N","Garden County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"621",75,0,2013,2,"N","Garden County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"621",75,0,2013,3,"N","Garden County, Nebraska","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"6212",76,0,2013,1,"N","Garden County, Nebraska","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"6212",76,0,2013,2,"N","Garden County, Nebraska","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"6212",76,0,2013,3,"N","Garden County, Nebraska","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"62121",77,0,2013,1,"N","Garden County, Nebraska","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"62121",77,0,2013,2,"N","Garden County, Nebraska","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"62121",77,0,2013,3,"N","Garden County, Nebraska","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"621210",78,0,2013,1,"N","Garden County, Nebraska","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"621210",78,0,2013,2,"N","Garden County, Nebraska","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"621210",78,0,2013,3,"N","Garden County, Nebraska","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"624",75,0,2013,1,"N","Garden County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",12,0,0,0,0,0,0,0
+"31069",5,"624",75,0,2013,2,"N","Garden County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"31069",5,"624",75,0,2013,3,"N","Garden County, Nebraska","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",13,0,0,0,0,0,0,0
+"31069",5,"6241",76,0,2013,1,"","Garden County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",10,6,6,8,10584,10584,178,122
+"31069",5,"6241",76,0,2013,2,"","Garden County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",11,8,8,7,16019,11580,195,161
+"31069",5,"6241",76,0,2013,3,"","Garden County, Nebraska","Private","Individual and family services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",11,3,7,6,17675,10992,185,255
+"31069",5,"62412",77,0,2013,1,"","Garden County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",10,6,6,8,10584,10584,178,122
+"31069",5,"62412",77,0,2013,2,"","Garden County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",11,8,8,7,16019,11580,195,161
+"31069",5,"62412",77,0,2013,3,"","Garden County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 5-digit -- by ownership sector","All establishment sizes",11,3,7,6,17675,10992,185,255
+"31069",5,"624120",78,0,2013,1,"","Garden County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",10,6,6,8,10584,10584,178,122
+"31069",5,"624120",78,0,2013,2,"","Garden County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",11,8,8,7,16019,11580,195,161
+"31069",5,"624120",78,0,2013,3,"","Garden County, Nebraska","Private","Services for the elderly and disabled","County, NAICS 6-digit -- by ownership sector","All establishment sizes",11,3,7,6,17675,10992,185,255
+"31069",5,"6244",76,0,2013,1,"N","Garden County, Nebraska","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"6244",76,0,2013,2,"N","Garden County, Nebraska","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"6244",76,0,2013,3,"N","Garden County, Nebraska","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"62441",77,0,2013,1,"N","Garden County, Nebraska","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"62441",77,0,2013,2,"N","Garden County, Nebraska","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"62441",77,0,2013,3,"N","Garden County, Nebraska","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"624410",78,0,2013,1,"N","Garden County, Nebraska","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"624410",78,0,2013,2,"N","Garden County, Nebraska","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"624410",78,0,2013,3,"N","Garden County, Nebraska","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"71",74,0,2013,1,"N","Garden County, Nebraska","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"71",74,0,2013,2,"N","Garden County, Nebraska","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"71",74,0,2013,3,"N","Garden County, Nebraska","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"713",75,0,2013,1,"N","Garden County, Nebraska","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"713",75,0,2013,2,"N","Garden County, Nebraska","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"713",75,0,2013,3,"N","Garden County, Nebraska","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"7139",76,0,2013,1,"N","Garden County, Nebraska","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"7139",76,0,2013,2,"N","Garden County, Nebraska","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"7139",76,0,2013,3,"N","Garden County, Nebraska","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"71391",77,0,2013,1,"N","Garden County, Nebraska","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"71391",77,0,2013,2,"N","Garden County, Nebraska","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"71391",77,0,2013,3,"N","Garden County, Nebraska","Private","Golf courses and country clubs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"713910",78,0,2013,1,"N","Garden County, Nebraska","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"713910",78,0,2013,2,"N","Garden County, Nebraska","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"713910",78,0,2013,3,"N","Garden County, Nebraska","Private","Golf courses and country clubs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"72",74,0,2013,1,"N","Garden County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"31069",5,"72",74,0,2013,2,"N","Garden County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",5,"72",74,0,2013,3,"N","Garden County, Nebraska","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"31069",5,"721",75,0,2013,1,"N","Garden County, Nebraska","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"721",75,0,2013,2,"N","Garden County, Nebraska","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"721",75,0,2013,3,"N","Garden County, Nebraska","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"7211",76,0,2013,1,"N","Garden County, Nebraska","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"7211",76,0,2013,2,"N","Garden County, Nebraska","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"7211",76,0,2013,3,"N","Garden County, Nebraska","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"72111",77,0,2013,1,"N","Garden County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"72111",77,0,2013,2,"N","Garden County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"72111",77,0,2013,3,"N","Garden County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"721110",78,0,2013,1,"N","Garden County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"721110",78,0,2013,2,"N","Garden County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"721110",78,0,2013,3,"N","Garden County, Nebraska","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"722",75,0,2013,1,"N","Garden County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"31069",5,"722",75,0,2013,2,"N","Garden County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"722",75,0,2013,3,"N","Garden County, Nebraska","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"7224",76,0,2013,1,"N","Garden County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"7224",76,0,2013,2,"N","Garden County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"7224",76,0,2013,3,"N","Garden County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"72241",77,0,2013,1,"N","Garden County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"72241",77,0,2013,2,"N","Garden County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"72241",77,0,2013,3,"N","Garden County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"722410",78,0,2013,1,"N","Garden County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"722410",78,0,2013,2,"N","Garden County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"722410",78,0,2013,3,"N","Garden County, Nebraska","Private","Drinking places, alcoholic beverages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"7225",76,0,2013,1,"N","Garden County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"7225",76,0,2013,2,"N","Garden County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"7225",76,0,2013,3,"N","Garden County, Nebraska","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"72251",77,0,2013,1,"N","Garden County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"72251",77,0,2013,2,"N","Garden County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"72251",77,0,2013,3,"N","Garden County, Nebraska","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"722511",78,0,2013,1,"N","Garden County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"722511",78,0,2013,2,"N","Garden County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"722511",78,0,2013,3,"N","Garden County, Nebraska","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"81",74,0,2013,1,"N","Garden County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"81",74,0,2013,2,"N","Garden County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"81",74,0,2013,3,"N","Garden County, Nebraska","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"31069",5,"811",75,0,2013,1,"N","Garden County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"811",75,0,2013,2,"N","Garden County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"811",75,0,2013,3,"N","Garden County, Nebraska","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"8111",76,0,2013,1,"N","Garden County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"8111",76,0,2013,2,"N","Garden County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"8111",76,0,2013,3,"N","Garden County, Nebraska","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"81111",77,0,2013,1,"N","Garden County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"81111",77,0,2013,2,"N","Garden County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"81111",77,0,2013,3,"N","Garden County, Nebraska","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"811111",78,0,2013,1,"N","Garden County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"811111",78,0,2013,2,"N","Garden County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"811111",78,0,2013,3,"N","Garden County, Nebraska","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"812",75,0,2013,1,"N","Garden County, Nebraska","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"812",75,0,2013,2,"N","Garden County, Nebraska","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"812",75,0,2013,3,"N","Garden County, Nebraska","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"8123",76,0,2013,1,"N","Garden County, Nebraska","Private","Drycleaning and laundry services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"8123",76,0,2013,2,"N","Garden County, Nebraska","Private","Drycleaning and laundry services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"8123",76,0,2013,3,"N","Garden County, Nebraska","Private","Drycleaning and laundry services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"81232",77,0,2013,1,"N","Garden County, Nebraska","Private","Drycleaning and laundry services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"81232",77,0,2013,2,"N","Garden County, Nebraska","Private","Drycleaning and laundry services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"81232",77,0,2013,3,"N","Garden County, Nebraska","Private","Drycleaning and laundry services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"812320",78,0,2013,1,"N","Garden County, Nebraska","Private","Drycleaning and laundry services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"812320",78,0,2013,2,"N","Garden County, Nebraska","Private","Drycleaning and laundry services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"31069",5,"812320",78,0,2013,3,"N","Garden County, Nebraska","Private","Drycleaning and laundry services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

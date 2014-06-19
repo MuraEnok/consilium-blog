@@ -1,0 +1,21 @@
+---
+title: "data table percent change avg weekly wages"
+author: "fr. Athanasius"
+date: "June 19, 2014"
+output: md_document
+---
+
+Here is the head and tail of the data table showing the top 15 gainers and declining counties in US from 2007 to 2013. All wages were inflation adjusted to show real gains.  Clearly oil, gas and mining is driving the numbers for gaining communities. I am unsure what is causing the declines, but will post more when I dig into things a bit more.
+
+```{r }
+library(dplyr)
+# print out top and bottom of percent change of wages from 2007 to 2013 with adjustment for inflation.
+df.pc = read.csv("../data/pctchg_wages.csv")[3:6]
+
+
+names(df.pc) = c("avg_wg_13", "Desc", "avg_wg_07", "pc")
+df.pc <- select(df.pc, Desc, avg_wg_07, avg_wg_13, pc)
+
+head(df.pc, n = 20)
+tail(df.pc, n = 20)
+```

@@ -1,0 +1,926 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"08009",0,"10",70,0,2013,1,"","Baca County, Colorado","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",119,1105,1116,1110,7247149,5325228,50082,502
+"08009",0,"10",70,0,2013,2,"","Baca County, Colorado","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",119,1129,1112,1147,7545336,4547099,37725,514
+"08009",0,"10",70,0,2013,3,"","Baca County, Colorado","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",114,1102,1091,1084,7173665,3478176,20224,505
+"08009",1,"10",71,0,2013,1,"","Baca County, Colorado","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,39,35,36,340499,0,0,714
+"08009",1,"10",71,0,2013,2,"","Baca County, Colorado","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,38,34,40,387046,0,0,797
+"08009",1,"10",71,0,2013,3,"","Baca County, Colorado","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",8,38,40,41,490250,0,0,951
+"08009",1,"102",72,0,2013,1,"","Baca County, Colorado","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,39,35,36,340499,0,0,714
+"08009",1,"102",72,0,2013,2,"","Baca County, Colorado","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,38,34,40,387046,0,0,797
+"08009",1,"102",72,0,2013,3,"","Baca County, Colorado","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",8,38,40,41,490250,0,0,951
+"08009",1,"1021",73,0,2013,1,"","Baca County, Colorado","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,15,11,11,95708,0,0,597
+"08009",1,"1021",73,0,2013,2,"","Baca County, Colorado","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,13,10,12,81420,0,0,537
+"08009",1,"1021",73,0,2013,3,"","Baca County, Colorado","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",5,11,12,13,91443,0,0,586
+"08009",1,"1028",73,0,2013,1,"","Baca County, Colorado","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,24,24,25,244791,0,0,774
+"08009",1,"1028",73,0,2013,2,"","Baca County, Colorado","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,25,24,28,305626,0,0,916
+"08009",1,"1028",73,0,2013,3,"","Baca County, Colorado","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,27,28,28,398807,0,0,1109
+"08009",1,"48-49",74,0,2013,1,"","Baca County, Colorado","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,15,11,11,95708,0,0,597
+"08009",1,"48-49",74,0,2013,2,"","Baca County, Colorado","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,13,10,12,81420,0,0,537
+"08009",1,"48-49",74,0,2013,3,"","Baca County, Colorado","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,11,12,13,91443,0,0,586
+"08009",1,"491",75,0,2013,1,"","Baca County, Colorado","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,15,11,11,95708,0,0,597
+"08009",1,"491",75,0,2013,2,"","Baca County, Colorado","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,13,10,12,81420,0,0,537
+"08009",1,"491",75,0,2013,3,"","Baca County, Colorado","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,11,12,13,91443,0,0,586
+"08009",1,"4911",76,0,2013,1,"","Baca County, Colorado","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,15,11,11,95708,0,0,597
+"08009",1,"4911",76,0,2013,2,"","Baca County, Colorado","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,13,10,12,81420,0,0,537
+"08009",1,"4911",76,0,2013,3,"","Baca County, Colorado","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,11,12,13,91443,0,0,586
+"08009",1,"49111",77,0,2013,1,"","Baca County, Colorado","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,15,11,11,95708,0,0,597
+"08009",1,"49111",77,0,2013,2,"","Baca County, Colorado","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,13,10,12,81420,0,0,537
+"08009",1,"49111",77,0,2013,3,"","Baca County, Colorado","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,11,12,13,91443,0,0,586
+"08009",1,"491110",78,0,2013,1,"","Baca County, Colorado","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,15,11,11,95708,0,0,597
+"08009",1,"491110",78,0,2013,2,"","Baca County, Colorado","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,13,10,12,81420,0,0,537
+"08009",1,"491110",78,0,2013,3,"","Baca County, Colorado","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,11,12,13,91443,0,0,586
+"08009",1,"92",74,0,2013,1,"","Baca County, Colorado","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,24,24,25,244791,0,0,774
+"08009",1,"92",74,0,2013,2,"","Baca County, Colorado","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,25,24,28,305626,0,0,916
+"08009",1,"92",74,0,2013,3,"","Baca County, Colorado","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,27,28,28,398807,0,0,1109
+"08009",1,"924",75,0,2013,1,"","Baca County, Colorado","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,24,24,25,244791,0,0,774
+"08009",1,"924",75,0,2013,2,"","Baca County, Colorado","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,25,24,28,305626,0,0,916
+"08009",1,"924",75,0,2013,3,"","Baca County, Colorado","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,27,28,28,398807,0,0,1109
+"08009",1,"9241",76,0,2013,1,"","Baca County, Colorado","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,24,24,25,244791,0,0,774
+"08009",1,"9241",76,0,2013,2,"","Baca County, Colorado","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,25,24,28,305626,0,0,916
+"08009",1,"9241",76,0,2013,3,"","Baca County, Colorado","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,27,28,28,398807,0,0,1109
+"08009",1,"92412",77,0,2013,1,"","Baca County, Colorado","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,24,24,25,244791,0,0,774
+"08009",1,"92412",77,0,2013,2,"","Baca County, Colorado","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,25,24,28,305626,0,0,916
+"08009",1,"92412",77,0,2013,3,"","Baca County, Colorado","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,27,28,28,398807,0,0,1109
+"08009",1,"924120",78,0,2013,1,"","Baca County, Colorado","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,24,24,25,244791,0,0,774
+"08009",1,"924120",78,0,2013,2,"","Baca County, Colorado","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,25,24,28,305626,0,0,916
+"08009",1,"924120",78,0,2013,3,"","Baca County, Colorado","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,27,28,28,398807,0,0,1109
+"08009",2,"10",71,0,2013,1,"","Baca County, Colorado","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,12,12,12,139964,0,0,897
+"08009",2,"10",71,0,2013,2,"","Baca County, Colorado","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",3,12,11,11,91087,0,0,618
+"08009",2,"10",71,0,2013,3,"","Baca County, Colorado","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",4,11,11,13,147134,0,0,970
+"08009",2,"101",72,0,2013,1,"N","Baca County, Colorado","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"101",72,0,2013,2,"N","Baca County, Colorado","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"101",72,0,2013,3,"N","Baca County, Colorado","State Government","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"1012",73,0,2013,1,"N","Baca County, Colorado","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"1012",73,0,2013,2,"N","Baca County, Colorado","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"1012",73,0,2013,3,"N","Baca County, Colorado","State Government","Construction","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"102",72,0,2013,1,"N","Baca County, Colorado","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",2,"102",72,0,2013,2,"N","Baca County, Colorado","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",2,"102",72,0,2013,3,"N","Baca County, Colorado","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",2,"1028",73,0,2013,1,"N","Baca County, Colorado","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",2,"1028",73,0,2013,2,"N","Baca County, Colorado","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",2,"1028",73,0,2013,3,"N","Baca County, Colorado","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",2,"23",74,0,2013,1,"N","Baca County, Colorado","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"23",74,0,2013,2,"N","Baca County, Colorado","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"23",74,0,2013,3,"N","Baca County, Colorado","State Government","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"237",75,0,2013,1,"N","Baca County, Colorado","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"237",75,0,2013,2,"N","Baca County, Colorado","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"237",75,0,2013,3,"N","Baca County, Colorado","State Government","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"2373",76,0,2013,1,"N","Baca County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"2373",76,0,2013,2,"N","Baca County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"2373",76,0,2013,3,"N","Baca County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"23731",77,0,2013,1,"N","Baca County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"23731",77,0,2013,2,"N","Baca County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"23731",77,0,2013,3,"N","Baca County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"237310",78,0,2013,1,"N","Baca County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"237310",78,0,2013,2,"N","Baca County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"237310",78,0,2013,3,"N","Baca County, Colorado","State Government","Highway, street, and bridge construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"92",74,0,2013,1,"N","Baca County, Colorado","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",2,"92",74,0,2013,2,"N","Baca County, Colorado","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",2,"92",74,0,2013,3,"N","Baca County, Colorado","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",2,"922",75,0,2013,1,"N","Baca County, Colorado","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",2,"922",75,0,2013,2,"N","Baca County, Colorado","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",2,"922",75,0,2013,3,"N","Baca County, Colorado","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",2,"9221",76,0,2013,1,"N","Baca County, Colorado","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",2,"9221",76,0,2013,2,"N","Baca County, Colorado","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",2,"9221",76,0,2013,3,"N","Baca County, Colorado","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",2,"92212",77,0,2013,1,"N","Baca County, Colorado","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"92212",77,0,2013,2,"N","Baca County, Colorado","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"92212",77,0,2013,3,"N","Baca County, Colorado","State Government","Police protection","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"922120",78,0,2013,1,"N","Baca County, Colorado","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"922120",78,0,2013,2,"N","Baca County, Colorado","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"922120",78,0,2013,3,"N","Baca County, Colorado","State Government","Police protection","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"92213",77,0,2013,1,"N","Baca County, Colorado","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"92213",77,0,2013,2,"N","Baca County, Colorado","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"92213",77,0,2013,3,"N","Baca County, Colorado","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"922130",78,0,2013,1,"N","Baca County, Colorado","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"922130",78,0,2013,2,"N","Baca County, Colorado","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"922130",78,0,2013,3,"N","Baca County, Colorado","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"923",75,0,2013,1,"-","Baca County, Colorado","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",2,"923",75,0,2013,2,"-","Baca County, Colorado","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",2,"923",75,0,2013,3,"N","Baca County, Colorado","State Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"9231",76,0,2013,1,"-","Baca County, Colorado","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",2,"9231",76,0,2013,2,"-","Baca County, Colorado","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",2,"9231",76,0,2013,3,"N","Baca County, Colorado","State Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"92311",77,0,2013,1,"-","Baca County, Colorado","State Government","Administration of education programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",2,"92311",77,0,2013,2,"-","Baca County, Colorado","State Government","Administration of education programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",2,"92311",77,0,2013,3,"N","Baca County, Colorado","State Government","Administration of education programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",2,"923110",78,0,2013,1,"-","Baca County, Colorado","State Government","Administration of education programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",2,"923110",78,0,2013,2,"-","Baca County, Colorado","State Government","Administration of education programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",2,"923110",78,0,2013,3,"N","Baca County, Colorado","State Government","Administration of education programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"10",71,0,2013,1,"","Baca County, Colorado","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",16,630,636,620,3742945,2849899,8548,458
+"08009",3,"10",71,0,2013,2,"","Baca County, Colorado","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",15,638,632,651,4023443,3093685,9280,483
+"08009",3,"10",71,0,2013,3,"","Baca County, Colorado","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",15,602,589,604,3611844,2715355,8147,464
+"08009",3,"102",72,0,2013,1,"","Baca County, Colorado","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",16,630,636,620,3742945,2849899,8548,458
+"08009",3,"102",72,0,2013,2,"","Baca County, Colorado","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",15,638,632,651,4023443,3093685,9280,483
+"08009",3,"102",72,0,2013,3,"","Baca County, Colorado","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",15,602,589,604,3611844,2715355,8147,464
+"08009",3,"1021",73,0,2013,1,"N","Baca County, Colorado","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"1021",73,0,2013,2,"N","Baca County, Colorado","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"1021",73,0,2013,3,"N","Baca County, Colorado","Local Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"1025",73,0,2013,1,"","Baca County, Colorado","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",7,443,450,436,2819332,1960579,5881,490
+"08009",3,"1025",73,0,2013,2,"","Baca County, Colorado","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",7,453,445,443,3087521,2198296,6594,531
+"08009",3,"1025",73,0,2013,3,"","Baca County, Colorado","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",7,389,384,416,2658043,1801647,5405,516
+"08009",3,"1027",73,0,2013,1,"N","Baca County, Colorado","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"1027",73,0,2013,2,"N","Baca County, Colorado","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"1027",73,0,2013,3,"N","Baca County, Colorado","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"1028",73,0,2013,1,"","Baca County, Colorado","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",6,181,180,178,911674,883070,2648,390
+"08009",3,"1028",73,0,2013,2,"","Baca County, Colorado","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,179,181,202,922143,887299,2662,379
+"08009",3,"1028",73,0,2013,3,"","Baca County, Colorado","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,206,198,181,938457,904053,2713,370
+"08009",3,"22",74,0,2013,1,"N","Baca County, Colorado","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"22",74,0,2013,2,"N","Baca County, Colorado","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"22",74,0,2013,3,"N","Baca County, Colorado","Local Government","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"221",75,0,2013,1,"N","Baca County, Colorado","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"221",75,0,2013,2,"N","Baca County, Colorado","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"221",75,0,2013,3,"N","Baca County, Colorado","Local Government","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"2213",76,0,2013,1,"N","Baca County, Colorado","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"2213",76,0,2013,2,"N","Baca County, Colorado","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"2213",76,0,2013,3,"N","Baca County, Colorado","Local Government","Water, sewage and other systems","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"22131",77,0,2013,1,"N","Baca County, Colorado","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"22131",77,0,2013,2,"N","Baca County, Colorado","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"22131",77,0,2013,3,"N","Baca County, Colorado","Local Government","Water supply and irrigation systems","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"221310",78,0,2013,1,"N","Baca County, Colorado","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"221310",78,0,2013,2,"N","Baca County, Colorado","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"221310",78,0,2013,3,"N","Baca County, Colorado","Local Government","Water supply and irrigation systems","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"61",74,0,2013,1,"N","Baca County, Colorado","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",3,"61",74,0,2013,2,"N","Baca County, Colorado","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",3,"61",74,0,2013,3,"N","Baca County, Colorado","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",3,"611",75,0,2013,1,"N","Baca County, Colorado","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",3,"611",75,0,2013,2,"N","Baca County, Colorado","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",3,"611",75,0,2013,3,"N","Baca County, Colorado","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",3,"6111",76,0,2013,1,"N","Baca County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",3,"6111",76,0,2013,2,"N","Baca County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",3,"6111",76,0,2013,3,"N","Baca County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",3,"61111",77,0,2013,1,"N","Baca County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",3,"61111",77,0,2013,2,"N","Baca County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",3,"61111",77,0,2013,3,"N","Baca County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",3,"611110",78,0,2013,1,"N","Baca County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",3,"611110",78,0,2013,2,"N","Baca County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",3,"611110",78,0,2013,3,"N","Baca County, Colorado","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",3,"62",74,0,2013,1,"N","Baca County, Colorado","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"62",74,0,2013,2,"N","Baca County, Colorado","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"62",74,0,2013,3,"N","Baca County, Colorado","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"622",75,0,2013,1,"N","Baca County, Colorado","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"622",75,0,2013,2,"N","Baca County, Colorado","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"622",75,0,2013,3,"N","Baca County, Colorado","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"6221",76,0,2013,1,"N","Baca County, Colorado","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"6221",76,0,2013,2,"N","Baca County, Colorado","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"6221",76,0,2013,3,"N","Baca County, Colorado","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"62211",77,0,2013,1,"N","Baca County, Colorado","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"62211",77,0,2013,2,"N","Baca County, Colorado","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"62211",77,0,2013,3,"N","Baca County, Colorado","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"622110",78,0,2013,1,"N","Baca County, Colorado","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"622110",78,0,2013,2,"N","Baca County, Colorado","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"622110",78,0,2013,3,"N","Baca County, Colorado","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"623",75,0,2013,1,"N","Baca County, Colorado","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"623",75,0,2013,2,"N","Baca County, Colorado","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"623",75,0,2013,3,"N","Baca County, Colorado","Local Government","Nursing and residential care facilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"6231",76,0,2013,1,"N","Baca County, Colorado","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"6231",76,0,2013,2,"N","Baca County, Colorado","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"6231",76,0,2013,3,"N","Baca County, Colorado","Local Government","Nursing care facilities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"62311",77,0,2013,1,"N","Baca County, Colorado","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"62311",77,0,2013,2,"N","Baca County, Colorado","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"62311",77,0,2013,3,"N","Baca County, Colorado","Local Government","Nursing care facilities","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"623110",78,0,2013,1,"N","Baca County, Colorado","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"623110",78,0,2013,2,"N","Baca County, Colorado","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"623110",78,0,2013,3,"N","Baca County, Colorado","Local Government","Nursing care facilities","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"81",74,0,2013,1,"N","Baca County, Colorado","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"81",74,0,2013,2,"N","Baca County, Colorado","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"81",74,0,2013,3,"N","Baca County, Colorado","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"812",75,0,2013,1,"N","Baca County, Colorado","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"812",75,0,2013,2,"N","Baca County, Colorado","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"812",75,0,2013,3,"N","Baca County, Colorado","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"8122",76,0,2013,1,"N","Baca County, Colorado","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"8122",76,0,2013,2,"N","Baca County, Colorado","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"8122",76,0,2013,3,"N","Baca County, Colorado","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"81222",77,0,2013,1,"N","Baca County, Colorado","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"81222",77,0,2013,2,"N","Baca County, Colorado","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"81222",77,0,2013,3,"N","Baca County, Colorado","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"812220",78,0,2013,1,"N","Baca County, Colorado","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"812220",78,0,2013,2,"N","Baca County, Colorado","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"812220",78,0,2013,3,"N","Baca County, Colorado","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"92",74,0,2013,1,"","Baca County, Colorado","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",6,181,180,178,911674,883070,2648,390
+"08009",3,"92",74,0,2013,2,"","Baca County, Colorado","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,179,181,202,922143,887299,2662,379
+"08009",3,"92",74,0,2013,3,"","Baca County, Colorado","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,206,198,181,938457,904053,2713,370
+"08009",3,"921",75,0,2013,1,"N","Baca County, Colorado","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",3,"921",75,0,2013,2,"N","Baca County, Colorado","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",3,"921",75,0,2013,3,"N","Baca County, Colorado","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",3,"9211",76,0,2013,1,"N","Baca County, Colorado","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",3,"9211",76,0,2013,2,"N","Baca County, Colorado","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",3,"9211",76,0,2013,3,"N","Baca County, Colorado","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",3,"92114",77,0,2013,1,"N","Baca County, Colorado","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",3,"92114",77,0,2013,2,"N","Baca County, Colorado","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",3,"92114",77,0,2013,3,"N","Baca County, Colorado","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",3,"921140",78,0,2013,1,"N","Baca County, Colorado","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",3,"921140",78,0,2013,2,"N","Baca County, Colorado","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",3,"921140",78,0,2013,3,"N","Baca County, Colorado","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",3,"924",75,0,2013,1,"N","Baca County, Colorado","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"924",75,0,2013,2,"N","Baca County, Colorado","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"924",75,0,2013,3,"N","Baca County, Colorado","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"9241",76,0,2013,1,"N","Baca County, Colorado","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"9241",76,0,2013,2,"N","Baca County, Colorado","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"9241",76,0,2013,3,"N","Baca County, Colorado","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"92412",77,0,2013,1,"N","Baca County, Colorado","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"92412",77,0,2013,2,"N","Baca County, Colorado","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"92412",77,0,2013,3,"N","Baca County, Colorado","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"924120",78,0,2013,1,"N","Baca County, Colorado","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",3,"924120",78,0,2013,2,"N","Baca County, Colorado","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",3,"924120",78,0,2013,3,"N","Baca County, Colorado","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"10",71,0,2013,1,"","Baca County, Colorado","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",92,424,433,442,3023741,2475329,41534,537
+"08009",5,"10",71,0,2013,2,"","Baca County, Colorado","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",93,441,435,445,3043760,1453414,28445,532
+"08009",5,"10",71,0,2013,3,"","Baca County, Colorado","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",87,451,451,426,2924437,762821,12077,508
+"08009",5,"101",72,0,2013,1,"","Baca County, Colorado","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",27,97,101,105,680742,671615,17265,518
+"08009",5,"101",72,0,2013,2,"","Baca County, Colorado","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",26,116,105,111,812891,491533,15197,565
+"08009",5,"101",72,0,2013,3,"","Baca County, Colorado","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",25,109,117,104,693593,229043,4872,485
+"08009",5,"1011",73,0,2013,1,"","Baca County, Colorado","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",16,47,51,46,330942,325542,5324,530
+"08009",5,"1011",73,0,2013,2,"","Baca County, Colorado","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",16,51,49,54,353029,177708,3067,529
+"08009",5,"1011",73,0,2013,3,"","Baca County, Colorado","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",16,57,64,55,380031,97561,1776,498
+"08009",5,"1012",73,0,2013,1,"N","Baca County, Colorado","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"08009",5,"1012",73,0,2013,2,"N","Baca County, Colorado","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"08009",5,"1012",73,0,2013,3,"N","Baca County, Colorado","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"08009",5,"1013",73,0,2013,1,"N","Baca County, Colorado","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"1013",73,0,2013,2,"N","Baca County, Colorado","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"1013",73,0,2013,3,"N","Baca County, Colorado","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"102",72,0,2013,1,"","Baca County, Colorado","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",65,327,332,337,2342999,1803714,24269,543
+"08009",5,"102",72,0,2013,2,"","Baca County, Colorado","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",67,325,330,334,2230869,961881,13248,521
+"08009",5,"102",72,0,2013,3,"","Baca County, Colorado","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",62,342,334,322,2230844,533778,7205,516
+"08009",5,"1021",73,0,2013,1,"","Baca County, Colorado","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",28,201,202,205,1622588,1195550,14573,616
+"08009",5,"1021",73,0,2013,2,"","Baca County, Colorado","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",30,194,200,205,1507075,607855,8122,581
+"08009",5,"1021",73,0,2013,3,"","Baca County, Colorado","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",28,206,199,194,1502520,356894,5026,579
+"08009",5,"1022",73,0,2013,1,"N","Baca County, Colorado","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"1022",73,0,2013,2,"N","Baca County, Colorado","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"1022",73,0,2013,3,"N","Baca County, Colorado","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"1023",73,0,2013,1,"","Baca County, Colorado","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",9,49,48,49,379409,316511,4560,600
+"08009",5,"1023",73,0,2013,2,"","Baca County, Colorado","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",8,51,50,50,370355,153809,2128,566
+"08009",5,"1023",73,0,2013,3,"","Baca County, Colorado","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",8,46,44,45,374151,31487,443,640
+"08009",5,"1024",73,0,2013,1,"N","Baca County, Colorado","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"1024",73,0,2013,2,"N","Baca County, Colorado","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"1024",73,0,2013,3,"N","Baca County, Colorado","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"1025",73,0,2013,1,"","Baca County, Colorado","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",6,27,24,25,108353,72790,673,329
+"08009",5,"1025",73,0,2013,2,"","Baca County, Colorado","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",7,26,27,25,114462,51470,464,339
+"08009",5,"1025",73,0,2013,3,"","Baca County, Colorado","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",7,28,27,26,107118,34261,316,305
+"08009",5,"1026",73,0,2013,1,"","Baca County, Colorado","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",8,29,33,33,87704,87704,1279,213
+"08009",5,"1026",73,0,2013,2,"","Baca County, Colorado","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",8,31,31,30,89817,81006,929,225
+"08009",5,"1026",73,0,2013,3,"","Baca County, Colorado","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",7,34,36,31,96813,74456,838,221
+"08009",5,"1027",73,0,2013,1,"","Baca County, Colorado","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",8,14,18,18,90557,90557,2812,418
+"08009",5,"1027",73,0,2013,2,"","Baca County, Colorado","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",8,16,15,17,91056,53101,1477,438
+"08009",5,"1027",73,0,2013,3,"","Baca County, Colorado","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",8,21,21,19,93484,31719,539,354
+"08009",5,"11",74,0,2013,1,"","Baca County, Colorado","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",12,38,43,38,272093,271393,4149,528
+"08009",5,"11",74,0,2013,2,"","Baca County, Colorado","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",12,43,41,45,292803,143032,2214,524
+"08009",5,"11",74,0,2013,3,"","Baca County, Colorado","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",12,48,56,47,316695,75450,1382,484
+"08009",5,"111",75,0,2013,1,"","Baca County, Colorado","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,16,19,15,113609,113609,2152,524
+"08009",5,"111",75,0,2013,2,"","Baca County, Colorado","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,16,17,19,129552,73110,1259,575
+"08009",5,"111",75,0,2013,3,"","Baca County, Colorado","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,20,18,19,136436,30130,683,552
+"08009",5,"1111",76,0,2013,1,"","Baca County, Colorado","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,16,19,15,113609,113609,2152,524
+"08009",5,"1111",76,0,2013,2,"","Baca County, Colorado","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,16,17,19,129552,73110,1259,575
+"08009",5,"1111",76,0,2013,3,"","Baca County, Colorado","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",6,20,18,19,136436,30130,683,552
+"08009",5,"11114",77,0,2013,1,"N","Baca County, Colorado","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"11114",77,0,2013,2,"N","Baca County, Colorado","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"11114",77,0,2013,3,"N","Baca County, Colorado","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"111140",78,0,2013,1,"N","Baca County, Colorado","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"111140",78,0,2013,2,"N","Baca County, Colorado","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"111140",78,0,2013,3,"N","Baca County, Colorado","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"11115",77,0,2013,1,"N","Baca County, Colorado","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"11115",77,0,2013,2,"N","Baca County, Colorado","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"11115",77,0,2013,3,"N","Baca County, Colorado","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"111150",78,0,2013,1,"N","Baca County, Colorado","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"111150",78,0,2013,2,"N","Baca County, Colorado","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"111150",78,0,2013,3,"N","Baca County, Colorado","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"11119",77,0,2013,1,"N","Baca County, Colorado","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"11119",77,0,2013,2,"N","Baca County, Colorado","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"11119",77,0,2013,3,"N","Baca County, Colorado","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"111199",78,0,2013,1,"N","Baca County, Colorado","Private","All other grain farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"111199",78,0,2013,2,"N","Baca County, Colorado","Private","All other grain farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"111199",78,0,2013,3,"N","Baca County, Colorado","Private","All other grain farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"112",75,0,2013,1,"N","Baca County, Colorado","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"112",75,0,2013,2,"N","Baca County, Colorado","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"112",75,0,2013,3,"N","Baca County, Colorado","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"1121",76,0,2013,1,"N","Baca County, Colorado","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"1121",76,0,2013,2,"N","Baca County, Colorado","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"1121",76,0,2013,3,"N","Baca County, Colorado","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"11211",77,0,2013,1,"N","Baca County, Colorado","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"11211",77,0,2013,2,"N","Baca County, Colorado","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"11211",77,0,2013,3,"N","Baca County, Colorado","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"112111",78,0,2013,1,"N","Baca County, Colorado","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"112111",78,0,2013,2,"N","Baca County, Colorado","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"112111",78,0,2013,3,"N","Baca County, Colorado","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"112112",78,0,2013,1,"N","Baca County, Colorado","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"112112",78,0,2013,2,"N","Baca County, Colorado","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"112112",78,0,2013,3,"N","Baca County, Colorado","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"1129",76,0,2013,1,"N","Baca County, Colorado","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"1129",76,0,2013,2,"N","Baca County, Colorado","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"1129",76,0,2013,3,"N","Baca County, Colorado","Private","Other animal production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"11291",77,0,2013,1,"N","Baca County, Colorado","Private","Apiculture","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"11291",77,0,2013,2,"N","Baca County, Colorado","Private","Apiculture","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"11291",77,0,2013,3,"N","Baca County, Colorado","Private","Apiculture","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"112910",78,0,2013,1,"N","Baca County, Colorado","Private","Apiculture","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"112910",78,0,2013,2,"N","Baca County, Colorado","Private","Apiculture","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"112910",78,0,2013,3,"N","Baca County, Colorado","Private","Apiculture","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"115",75,0,2013,1,"N","Baca County, Colorado","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"115",75,0,2013,2,"N","Baca County, Colorado","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"115",75,0,2013,3,"N","Baca County, Colorado","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"1151",76,0,2013,1,"N","Baca County, Colorado","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"1151",76,0,2013,2,"N","Baca County, Colorado","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"1151",76,0,2013,3,"N","Baca County, Colorado","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"11511",77,0,2013,1,"N","Baca County, Colorado","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"11511",77,0,2013,2,"N","Baca County, Colorado","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"11511",77,0,2013,3,"N","Baca County, Colorado","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"115112",78,0,2013,1,"N","Baca County, Colorado","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"115112",78,0,2013,2,"N","Baca County, Colorado","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"115112",78,0,2013,3,"N","Baca County, Colorado","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"21",74,0,2013,1,"","Baca County, Colorado","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,9,8,8,58849,54149,1175,543
+"08009",5,"21",74,0,2013,2,"","Baca County, Colorado","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,8,8,9,60226,34676,853,556
+"08009",5,"21",74,0,2013,3,"","Baca County, Colorado","Private","Mining, quarrying, and oil and gas extraction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,9,8,8,63336,22111,394,585
+"08009",5,"211",75,0,2013,1,"N","Baca County, Colorado","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"211",75,0,2013,2,"N","Baca County, Colorado","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"211",75,0,2013,3,"N","Baca County, Colorado","Private","Oil and gas extraction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"2111",76,0,2013,1,"N","Baca County, Colorado","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"2111",76,0,2013,2,"N","Baca County, Colorado","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"2111",76,0,2013,3,"N","Baca County, Colorado","Private","Oil and gas extraction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"21111",77,0,2013,1,"N","Baca County, Colorado","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"21111",77,0,2013,2,"N","Baca County, Colorado","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"21111",77,0,2013,3,"N","Baca County, Colorado","Private","Oil and gas extraction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"211111",78,0,2013,1,"N","Baca County, Colorado","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"211111",78,0,2013,2,"N","Baca County, Colorado","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"211111",78,0,2013,3,"N","Baca County, Colorado","Private","Crude petroleum and natural gas extraction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"213",75,0,2013,1,"N","Baca County, Colorado","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"213",75,0,2013,2,"N","Baca County, Colorado","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"213",75,0,2013,3,"N","Baca County, Colorado","Private","Support activities for mining","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"2131",76,0,2013,1,"N","Baca County, Colorado","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"2131",76,0,2013,2,"N","Baca County, Colorado","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"2131",76,0,2013,3,"N","Baca County, Colorado","Private","Support activities for mining","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"21311",77,0,2013,1,"N","Baca County, Colorado","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"21311",77,0,2013,2,"N","Baca County, Colorado","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"21311",77,0,2013,3,"N","Baca County, Colorado","Private","Support activities for mining","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"213112",78,0,2013,1,"N","Baca County, Colorado","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"213112",78,0,2013,2,"N","Baca County, Colorado","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"213112",78,0,2013,3,"N","Baca County, Colorado","Private","Support activities for oil and gas operations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"22",74,0,2013,1,"N","Baca County, Colorado","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"22",74,0,2013,2,"N","Baca County, Colorado","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"22",74,0,2013,3,"N","Baca County, Colorado","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"221",75,0,2013,1,"N","Baca County, Colorado","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"221",75,0,2013,2,"N","Baca County, Colorado","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"221",75,0,2013,3,"N","Baca County, Colorado","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"2211",76,0,2013,1,"N","Baca County, Colorado","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"2211",76,0,2013,2,"N","Baca County, Colorado","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"2211",76,0,2013,3,"N","Baca County, Colorado","Private","Power generation and supply","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"22112",77,0,2013,1,"N","Baca County, Colorado","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"22112",77,0,2013,2,"N","Baca County, Colorado","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"22112",77,0,2013,3,"N","Baca County, Colorado","Private","Electric power transmission and distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"221122",78,0,2013,1,"N","Baca County, Colorado","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"221122",78,0,2013,2,"N","Baca County, Colorado","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"221122",78,0,2013,3,"N","Baca County, Colorado","Private","Electric power distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"23",74,0,2013,1,"N","Baca County, Colorado","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"08009",5,"23",74,0,2013,2,"N","Baca County, Colorado","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",9,0,0,0,0,0,0,0
+"08009",5,"23",74,0,2013,3,"N","Baca County, Colorado","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"08009",5,"237",75,0,2013,1,"N","Baca County, Colorado","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"237",75,0,2013,2,"N","Baca County, Colorado","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"237",75,0,2013,3,"N","Baca County, Colorado","Private","Heavy and civil engineering construction","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"2371",76,0,2013,1,"N","Baca County, Colorado","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"2371",76,0,2013,2,"N","Baca County, Colorado","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"2371",76,0,2013,3,"N","Baca County, Colorado","Private","Utility system construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"23711",77,0,2013,1,"","Baca County, Colorado","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,3,4,7,20171,20171,645,332
+"08009",5,"23711",77,0,2013,2,"","Baca County, Colorado","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,5,6,4,26527,23227,779,408
+"08009",5,"23711",77,0,2013,3,"N","Baca County, Colorado","Private","Water and sewer system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"237110",78,0,2013,1,"","Baca County, Colorado","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,3,4,7,20171,20171,645,332
+"08009",5,"237110",78,0,2013,2,"","Baca County, Colorado","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,5,6,4,26527,23227,779,408
+"08009",5,"237110",78,0,2013,3,"N","Baca County, Colorado","Private","Water and sewer system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"23713",77,0,2013,1,"N","Baca County, Colorado","Private","Power and communication system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"23713",77,0,2013,2,"N","Baca County, Colorado","Private","Power and communication system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"23713",77,0,2013,3,"-","Baca County, Colorado","Private","Power and communication system construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"237130",78,0,2013,1,"N","Baca County, Colorado","Private","Power and communication system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"237130",78,0,2013,2,"N","Baca County, Colorado","Private","Power and communication system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"237130",78,0,2013,3,"-","Baca County, Colorado","Private","Power and communication system construction","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"238",75,0,2013,1,"","Baca County, Colorado","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,30,24,27,204796,201069,5873,583
+"08009",5,"238",75,0,2013,2,"","Baca County, Colorado","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,28,31,30,248394,128437,3501,644
+"08009",5,"238",75,0,2013,3,"","Baca County, Colorado","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,32,32,29,229296,47216,2040,569
+"08009",5,"2381",76,0,2013,1,"N","Baca County, Colorado","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"2381",76,0,2013,2,"N","Baca County, Colorado","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"2381",76,0,2013,3,"N","Baca County, Colorado","Private","Building foundation and exterior contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"23811",77,0,2013,1,"N","Baca County, Colorado","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"23811",77,0,2013,2,"N","Baca County, Colorado","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"23811",77,0,2013,3,"N","Baca County, Colorado","Private","Poured concrete structure contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"238111",78,0,2013,1,"N","Baca County, Colorado","Private","Residential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"238111",78,0,2013,2,"N","Baca County, Colorado","Private","Residential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"238111",78,0,2013,3,"N","Baca County, Colorado","Private","Residential poured foundation contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"2382",76,0,2013,1,"N","Baca County, Colorado","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"2382",76,0,2013,2,"N","Baca County, Colorado","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"2382",76,0,2013,3,"N","Baca County, Colorado","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"23821",77,0,2013,1,"N","Baca County, Colorado","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"23821",77,0,2013,2,"N","Baca County, Colorado","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"23821",77,0,2013,3,"N","Baca County, Colorado","Private","Electrical and wiring contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"238211",78,0,2013,1,"N","Baca County, Colorado","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"238211",78,0,2013,2,"N","Baca County, Colorado","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"238211",78,0,2013,3,"N","Baca County, Colorado","Private","Residential electrical contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"2383",76,0,2013,1,"N","Baca County, Colorado","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"2383",76,0,2013,2,"N","Baca County, Colorado","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"2383",76,0,2013,3,"N","Baca County, Colorado","Private","Building finishing contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"23835",77,0,2013,1,"N","Baca County, Colorado","Private","Finish carpentry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"23835",77,0,2013,2,"N","Baca County, Colorado","Private","Finish carpentry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"23835",77,0,2013,3,"N","Baca County, Colorado","Private","Finish carpentry contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"238351",78,0,2013,1,"N","Baca County, Colorado","Private","Residential finish carpentry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"238351",78,0,2013,2,"N","Baca County, Colorado","Private","Residential finish carpentry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"238351",78,0,2013,3,"N","Baca County, Colorado","Private","Residential finish carpentry contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"2389",76,0,2013,1,"N","Baca County, Colorado","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"2389",76,0,2013,2,"N","Baca County, Colorado","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"2389",76,0,2013,3,"N","Baca County, Colorado","Private","Other specialty trade contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"23899",77,0,2013,1,"N","Baca County, Colorado","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"23899",77,0,2013,2,"N","Baca County, Colorado","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"23899",77,0,2013,3,"N","Baca County, Colorado","Private","All other specialty trade contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"238992",78,0,2013,1,"N","Baca County, Colorado","Private","All other nonresidential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"238992",78,0,2013,2,"N","Baca County, Colorado","Private","All other nonresidential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"238992",78,0,2013,3,"N","Baca County, Colorado","Private","All other nonresidential trade contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"31-33",74,0,2013,1,"N","Baca County, Colorado","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"31-33",74,0,2013,2,"N","Baca County, Colorado","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"31-33",74,0,2013,3,"N","Baca County, Colorado","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"311",75,0,2013,1,"N","Baca County, Colorado","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"311",75,0,2013,2,"N","Baca County, Colorado","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"311",75,0,2013,3,"N","Baca County, Colorado","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"3113",76,0,2013,1,"N","Baca County, Colorado","Private","Sugar and confectionery product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"3113",76,0,2013,2,"N","Baca County, Colorado","Private","Sugar and confectionery product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"3113",76,0,2013,3,"N","Baca County, Colorado","Private","Sugar and confectionery product manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"31134",77,0,2013,1,"N","Baca County, Colorado","Private","Nonchocolate confectionery manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"31134",77,0,2013,2,"N","Baca County, Colorado","Private","Nonchocolate confectionery manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"31134",77,0,2013,3,"N","Baca County, Colorado","Private","Nonchocolate confectionery manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"311340",78,0,2013,1,"N","Baca County, Colorado","Private","Nonchocolate confectionery manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"311340",78,0,2013,2,"N","Baca County, Colorado","Private","Nonchocolate confectionery manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"311340",78,0,2013,3,"N","Baca County, Colorado","Private","Nonchocolate confectionery manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"42",74,0,2013,1,"","Baca County, Colorado","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",7,45,44,43,403524,322408,4254,705
+"08009",5,"42",74,0,2013,2,"","Baca County, Colorado","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,45,48,50,489290,152531,2170,790
+"08009",5,"42",74,0,2013,3,"","Baca County, Colorado","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",7,48,44,44,445129,69828,819,755
+"08009",5,"423",75,0,2013,1,"N","Baca County, Colorado","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"423",75,0,2013,2,"N","Baca County, Colorado","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"423",75,0,2013,3,"N","Baca County, Colorado","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4238",76,0,2013,1,"N","Baca County, Colorado","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4238",76,0,2013,2,"N","Baca County, Colorado","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4238",76,0,2013,3,"N","Baca County, Colorado","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"42382",77,0,2013,1,"N","Baca County, Colorado","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"42382",77,0,2013,2,"N","Baca County, Colorado","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"42382",77,0,2013,3,"N","Baca County, Colorado","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"423820",78,0,2013,1,"N","Baca County, Colorado","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"423820",78,0,2013,2,"N","Baca County, Colorado","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"423820",78,0,2013,3,"N","Baca County, Colorado","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4239",76,0,2013,1,"N","Baca County, Colorado","Private","Misc. durable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4239",76,0,2013,2,"N","Baca County, Colorado","Private","Misc. durable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4239",76,0,2013,3,"-","Baca County, Colorado","Private","Misc. durable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"42393",77,0,2013,1,"N","Baca County, Colorado","Private","Recyclable material merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"42393",77,0,2013,2,"N","Baca County, Colorado","Private","Recyclable material merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"42393",77,0,2013,3,"-","Baca County, Colorado","Private","Recyclable material merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"423930",78,0,2013,1,"N","Baca County, Colorado","Private","Recyclable material merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"423930",78,0,2013,2,"N","Baca County, Colorado","Private","Recyclable material merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"423930",78,0,2013,3,"-","Baca County, Colorado","Private","Recyclable material merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"424",75,0,2013,1,"N","Baca County, Colorado","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",5,"424",75,0,2013,2,"","Baca County, Colorado","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,32,34,36,278928,92597,1059,631
+"08009",5,"424",75,0,2013,3,"","Baca County, Colorado","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,36,33,34,296933,61571,686,665
+"08009",5,"4245",76,0,2013,1,"N","Baca County, Colorado","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"4245",76,0,2013,2,"N","Baca County, Colorado","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"4245",76,0,2013,3,"N","Baca County, Colorado","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"42451",77,0,2013,1,"N","Baca County, Colorado","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"42451",77,0,2013,2,"N","Baca County, Colorado","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"42451",77,0,2013,3,"N","Baca County, Colorado","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"424510",78,0,2013,1,"N","Baca County, Colorado","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"424510",78,0,2013,2,"N","Baca County, Colorado","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"424510",78,0,2013,3,"N","Baca County, Colorado","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"4247",76,0,2013,1,"N","Baca County, Colorado","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4247",76,0,2013,2,"N","Baca County, Colorado","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4247",76,0,2013,3,"N","Baca County, Colorado","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"42471",77,0,2013,1,"N","Baca County, Colorado","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"42471",77,0,2013,2,"N","Baca County, Colorado","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"42471",77,0,2013,3,"N","Baca County, Colorado","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"424710",78,0,2013,1,"N","Baca County, Colorado","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"424710",78,0,2013,2,"N","Baca County, Colorado","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"424710",78,0,2013,3,"N","Baca County, Colorado","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4249",76,0,2013,1,"N","Baca County, Colorado","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"4249",76,0,2013,2,"N","Baca County, Colorado","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"4249",76,0,2013,3,"N","Baca County, Colorado","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"42491",77,0,2013,1,"N","Baca County, Colorado","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"42491",77,0,2013,2,"N","Baca County, Colorado","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"42491",77,0,2013,3,"N","Baca County, Colorado","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"424910",78,0,2013,1,"N","Baca County, Colorado","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"424910",78,0,2013,2,"N","Baca County, Colorado","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"424910",78,0,2013,3,"N","Baca County, Colorado","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"425",75,0,2013,1,"-","Baca County, Colorado","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"425",75,0,2013,2,"N","Baca County, Colorado","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"425",75,0,2013,3,"N","Baca County, Colorado","Private","Electronic markets and agents and brokers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4251",76,0,2013,1,"-","Baca County, Colorado","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"4251",76,0,2013,2,"N","Baca County, Colorado","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4251",76,0,2013,3,"N","Baca County, Colorado","Private","Electronic markets and agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"42512",77,0,2013,1,"-","Baca County, Colorado","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"42512",77,0,2013,2,"N","Baca County, Colorado","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"42512",77,0,2013,3,"N","Baca County, Colorado","Private","Wholesale trade agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"425120",78,0,2013,1,"-","Baca County, Colorado","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"425120",78,0,2013,2,"N","Baca County, Colorado","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"425120",78,0,2013,3,"N","Baca County, Colorado","Private","Wholesale trade agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"44-45",74,0,2013,1,"","Baca County, Colorado","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",15,120,122,126,797936,553170,7130,500
+"08009",5,"44-45",74,0,2013,2,"","Baca County, Colorado","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",15,115,117,118,583643,390403,5322,385
+"08009",5,"44-45",74,0,2013,3,"","Baca County, Colorado","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",14,120,116,112,564701,229431,3513,374
+"08009",5,"441",75,0,2013,1,"","Baca County, Colorado","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,12,11,13,82448,82448,749,529
+"08009",5,"441",75,0,2013,2,"","Baca County, Colorado","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,11,11,11,78361,36305,335,548
+"08009",5,"441",75,0,2013,3,"","Baca County, Colorado","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,11,11,11,86032,12197,114,602
+"08009",5,"4413",76,0,2013,1,"","Baca County, Colorado","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,12,11,13,82448,82448,749,529
+"08009",5,"4413",76,0,2013,2,"","Baca County, Colorado","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,11,11,11,78361,36305,335,548
+"08009",5,"4413",76,0,2013,3,"","Baca County, Colorado","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,11,11,11,86032,12197,114,602
+"08009",5,"44131",77,0,2013,1,"","Baca County, Colorado","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,12,11,13,82448,82448,749,529
+"08009",5,"44131",77,0,2013,2,"","Baca County, Colorado","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,11,11,11,78361,36305,335,548
+"08009",5,"44131",77,0,2013,3,"","Baca County, Colorado","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,11,11,11,86032,12197,114,602
+"08009",5,"441310",78,0,2013,1,"","Baca County, Colorado","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,12,11,13,82448,82448,749,529
+"08009",5,"441310",78,0,2013,2,"","Baca County, Colorado","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,11,11,11,78361,36305,335,548
+"08009",5,"441310",78,0,2013,3,"","Baca County, Colorado","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,11,11,11,86032,12197,114,602
+"08009",5,"444",75,0,2013,1,"","Baca County, Colorado","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,26,24,25,138164,137304,2014,425
+"08009",5,"444",75,0,2013,2,"","Baca County, Colorado","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,26,26,25,146883,112904,1735,440
+"08009",5,"444",75,0,2013,3,"","Baca County, Colorado","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,24,25,23,142252,75225,1407,456
+"08009",5,"4441",76,0,2013,1,"N","Baca County, Colorado","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4441",76,0,2013,2,"N","Baca County, Colorado","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4441",76,0,2013,3,"N","Baca County, Colorado","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"44411",77,0,2013,1,"N","Baca County, Colorado","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"44411",77,0,2013,2,"N","Baca County, Colorado","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"44411",77,0,2013,3,"N","Baca County, Colorado","Private","Home centers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"444110",78,0,2013,1,"N","Baca County, Colorado","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"444110",78,0,2013,2,"N","Baca County, Colorado","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"444110",78,0,2013,3,"N","Baca County, Colorado","Private","Home centers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4442",76,0,2013,1,"N","Baca County, Colorado","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"4442",76,0,2013,2,"N","Baca County, Colorado","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"4442",76,0,2013,3,"N","Baca County, Colorado","Private","Lawn and garden equipment and supplies stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"44422",77,0,2013,1,"N","Baca County, Colorado","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"44422",77,0,2013,2,"N","Baca County, Colorado","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"44422",77,0,2013,3,"N","Baca County, Colorado","Private","Nursery, garden, and farm supply stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"444220",78,0,2013,1,"N","Baca County, Colorado","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"444220",78,0,2013,2,"N","Baca County, Colorado","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"444220",78,0,2013,3,"N","Baca County, Colorado","Private","Nursery, garden, and farm supply stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"445",75,0,2013,1,"N","Baca County, Colorado","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"445",75,0,2013,2,"N","Baca County, Colorado","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"445",75,0,2013,3,"N","Baca County, Colorado","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"4451",76,0,2013,1,"N","Baca County, Colorado","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"4451",76,0,2013,2,"N","Baca County, Colorado","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"4451",76,0,2013,3,"N","Baca County, Colorado","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"44511",77,0,2013,1,"N","Baca County, Colorado","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"44511",77,0,2013,2,"N","Baca County, Colorado","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"44511",77,0,2013,3,"N","Baca County, Colorado","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"445110",78,0,2013,1,"N","Baca County, Colorado","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"445110",78,0,2013,2,"N","Baca County, Colorado","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"445110",78,0,2013,3,"N","Baca County, Colorado","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"446",75,0,2013,1,"N","Baca County, Colorado","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"446",75,0,2013,2,"N","Baca County, Colorado","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"446",75,0,2013,3,"N","Baca County, Colorado","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4461",76,0,2013,1,"N","Baca County, Colorado","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4461",76,0,2013,2,"N","Baca County, Colorado","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4461",76,0,2013,3,"N","Baca County, Colorado","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"44611",77,0,2013,1,"N","Baca County, Colorado","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"44611",77,0,2013,2,"N","Baca County, Colorado","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"44611",77,0,2013,3,"N","Baca County, Colorado","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"446110",78,0,2013,1,"N","Baca County, Colorado","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"446110",78,0,2013,2,"N","Baca County, Colorado","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"446110",78,0,2013,3,"N","Baca County, Colorado","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"447",75,0,2013,1,"","Baca County, Colorado","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,25,25,27,128383,106794,1494,385
+"08009",5,"447",75,0,2013,2,"N","Baca County, Colorado","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"447",75,0,2013,3,"N","Baca County, Colorado","Private","Gasoline stations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"4471",76,0,2013,1,"","Baca County, Colorado","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,25,25,27,128383,106794,1494,385
+"08009",5,"4471",76,0,2013,2,"N","Baca County, Colorado","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"4471",76,0,2013,3,"N","Baca County, Colorado","Private","Gasoline stations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"44711",77,0,2013,1,"N","Baca County, Colorado","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"44711",77,0,2013,2,"N","Baca County, Colorado","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"44711",77,0,2013,3,"N","Baca County, Colorado","Private","Gasoline stations with convenience stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"447110",78,0,2013,1,"N","Baca County, Colorado","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"447110",78,0,2013,2,"N","Baca County, Colorado","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"447110",78,0,2013,3,"N","Baca County, Colorado","Private","Gasoline stations with convenience stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"44719",77,0,2013,1,"N","Baca County, Colorado","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"44719",77,0,2013,2,"N","Baca County, Colorado","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"44719",77,0,2013,3,"N","Baca County, Colorado","Private","Other gasoline stations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"447190",78,0,2013,1,"N","Baca County, Colorado","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"447190",78,0,2013,2,"N","Baca County, Colorado","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"447190",78,0,2013,3,"N","Baca County, Colorado","Private","Other gasoline stations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"452",75,0,2013,1,"N","Baca County, Colorado","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"452",75,0,2013,2,"N","Baca County, Colorado","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"452",75,0,2013,3,"N","Baca County, Colorado","Private","General merchandise stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"4529",76,0,2013,1,"N","Baca County, Colorado","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"4529",76,0,2013,2,"N","Baca County, Colorado","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"4529",76,0,2013,3,"N","Baca County, Colorado","Private","Other general merchandise stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"45299",77,0,2013,1,"N","Baca County, Colorado","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"45299",77,0,2013,2,"N","Baca County, Colorado","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"45299",77,0,2013,3,"N","Baca County, Colorado","Private","All other general merchandise stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"452990",78,0,2013,1,"N","Baca County, Colorado","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"452990",78,0,2013,2,"N","Baca County, Colorado","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"452990",78,0,2013,3,"N","Baca County, Colorado","Private","All other general merchandise stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"48-49",74,0,2013,1,"N","Baca County, Colorado","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"08009",5,"48-49",74,0,2013,2,"N","Baca County, Colorado","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"08009",5,"48-49",74,0,2013,3,"N","Baca County, Colorado","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"08009",5,"484",75,0,2013,1,"","Baca County, Colorado","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,24,24,24,265265,214966,2174,850
+"08009",5,"484",75,0,2013,2,"","Baca County, Colorado","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,22,22,24,254130,50431,484,862
+"08009",5,"484",75,0,2013,3,"","Baca County, Colorado","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",5,25,26,25,304004,42309,540,923
+"08009",5,"4841",76,0,2013,1,"N","Baca County, Colorado","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"4841",76,0,2013,2,"N","Baca County, Colorado","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"4841",76,0,2013,3,"N","Baca County, Colorado","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"48412",77,0,2013,1,"N","Baca County, Colorado","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"48412",77,0,2013,2,"N","Baca County, Colorado","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"48412",77,0,2013,3,"N","Baca County, Colorado","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"484121",78,0,2013,1,"N","Baca County, Colorado","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"484121",78,0,2013,2,"N","Baca County, Colorado","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"484121",78,0,2013,3,"N","Baca County, Colorado","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"484122",78,0,2013,1,"N","Baca County, Colorado","Private","General freight trucking, long-distance ltl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"484122",78,0,2013,2,"N","Baca County, Colorado","Private","General freight trucking, long-distance ltl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"484122",78,0,2013,3,"N","Baca County, Colorado","Private","General freight trucking, long-distance ltl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4842",76,0,2013,1,"N","Baca County, Colorado","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"4842",76,0,2013,2,"N","Baca County, Colorado","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"4842",76,0,2013,3,"N","Baca County, Colorado","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"48422",77,0,2013,1,"N","Baca County, Colorado","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"48422",77,0,2013,2,"N","Baca County, Colorado","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"48422",77,0,2013,3,"N","Baca County, Colorado","Private","Other specialized trucking, local","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"484220",78,0,2013,1,"N","Baca County, Colorado","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"484220",78,0,2013,2,"N","Baca County, Colorado","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"484220",78,0,2013,3,"N","Baca County, Colorado","Private","Other specialized trucking, local","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"488",75,0,2013,1,"N","Baca County, Colorado","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"488",75,0,2013,2,"N","Baca County, Colorado","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"488",75,0,2013,3,"N","Baca County, Colorado","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4884",76,0,2013,1,"N","Baca County, Colorado","Private","Support activities for road transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4884",76,0,2013,2,"N","Baca County, Colorado","Private","Support activities for road transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"4884",76,0,2013,3,"N","Baca County, Colorado","Private","Support activities for road transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"48841",77,0,2013,1,"N","Baca County, Colorado","Private","Motor vehicle towing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"48841",77,0,2013,2,"N","Baca County, Colorado","Private","Motor vehicle towing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"48841",77,0,2013,3,"N","Baca County, Colorado","Private","Motor vehicle towing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"488410",78,0,2013,1,"N","Baca County, Colorado","Private","Motor vehicle towing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"488410",78,0,2013,2,"N","Baca County, Colorado","Private","Motor vehicle towing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"488410",78,0,2013,3,"N","Baca County, Colorado","Private","Motor vehicle towing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"51",74,0,2013,1,"N","Baca County, Colorado","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"51",74,0,2013,2,"N","Baca County, Colorado","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"51",74,0,2013,3,"N","Baca County, Colorado","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"511",75,0,2013,1,"N","Baca County, Colorado","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"511",75,0,2013,2,"N","Baca County, Colorado","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"511",75,0,2013,3,"-","Baca County, Colorado","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"5111",76,0,2013,1,"N","Baca County, Colorado","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"5111",76,0,2013,2,"N","Baca County, Colorado","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"5111",76,0,2013,3,"-","Baca County, Colorado","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"51111",77,0,2013,1,"N","Baca County, Colorado","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"51111",77,0,2013,2,"N","Baca County, Colorado","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"51111",77,0,2013,3,"-","Baca County, Colorado","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"511110",78,0,2013,1,"N","Baca County, Colorado","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"511110",78,0,2013,2,"N","Baca County, Colorado","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"511110",78,0,2013,3,"-","Baca County, Colorado","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"517",75,0,2013,1,"N","Baca County, Colorado","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"517",75,0,2013,2,"N","Baca County, Colorado","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"517",75,0,2013,3,"N","Baca County, Colorado","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"5171",76,0,2013,1,"N","Baca County, Colorado","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"5171",76,0,2013,2,"N","Baca County, Colorado","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"5171",76,0,2013,3,"N","Baca County, Colorado","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"51711",77,0,2013,1,"N","Baca County, Colorado","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"51711",77,0,2013,2,"N","Baca County, Colorado","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"51711",77,0,2013,3,"N","Baca County, Colorado","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"517110",78,0,2013,1,"N","Baca County, Colorado","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"517110",78,0,2013,2,"N","Baca County, Colorado","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"517110",78,0,2013,3,"N","Baca County, Colorado","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"52",74,0,2013,1,"N","Baca County, Colorado","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",8,0,0,0,0,0,0,0
+"08009",5,"52",74,0,2013,2,"N","Baca County, Colorado","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"08009",5,"52",74,0,2013,3,"N","Baca County, Colorado","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"08009",5,"522",75,0,2013,1,"","Baca County, Colorado","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,40,40,41,324580,261682,4007,619
+"08009",5,"522",75,0,2013,2,"","Baca County, Colorado","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,40,39,39,317164,112685,1738,620
+"08009",5,"522",75,0,2013,3,"","Baca County, Colorado","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,37,35,36,323800,24117,380,692
+"08009",5,"5221",76,0,2013,1,"","Baca County, Colorado","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,40,40,41,324580,261682,4007,619
+"08009",5,"5221",76,0,2013,2,"","Baca County, Colorado","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,40,39,39,317164,112685,1738,620
+"08009",5,"5221",76,0,2013,3,"","Baca County, Colorado","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,37,35,36,323800,24117,380,692
+"08009",5,"52211",77,0,2013,1,"N","Baca County, Colorado","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"52211",77,0,2013,2,"N","Baca County, Colorado","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"52211",77,0,2013,3,"N","Baca County, Colorado","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"522110",78,0,2013,1,"N","Baca County, Colorado","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"522110",78,0,2013,2,"N","Baca County, Colorado","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"522110",78,0,2013,3,"N","Baca County, Colorado","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"52213",77,0,2013,1,"N","Baca County, Colorado","Private","Credit unions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"52213",77,0,2013,2,"N","Baca County, Colorado","Private","Credit unions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"52213",77,0,2013,3,"N","Baca County, Colorado","Private","Credit unions","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"522130",78,0,2013,1,"N","Baca County, Colorado","Private","Credit unions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"522130",78,0,2013,2,"N","Baca County, Colorado","Private","Credit unions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"522130",78,0,2013,3,"N","Baca County, Colorado","Private","Credit unions","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"524",75,0,2013,1,"N","Baca County, Colorado","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"524",75,0,2013,2,"N","Baca County, Colorado","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"524",75,0,2013,3,"N","Baca County, Colorado","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"5241",76,0,2013,1,"N","Baca County, Colorado","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"5241",76,0,2013,2,"N","Baca County, Colorado","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"5241",76,0,2013,3,"N","Baca County, Colorado","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"52412",77,0,2013,1,"N","Baca County, Colorado","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"52412",77,0,2013,2,"N","Baca County, Colorado","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"52412",77,0,2013,3,"N","Baca County, Colorado","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"524126",78,0,2013,1,"N","Baca County, Colorado","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"524126",78,0,2013,2,"N","Baca County, Colorado","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"524126",78,0,2013,3,"N","Baca County, Colorado","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"5242",76,0,2013,1,"N","Baca County, Colorado","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"5242",76,0,2013,2,"N","Baca County, Colorado","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"5242",76,0,2013,3,"N","Baca County, Colorado","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"52421",77,0,2013,1,"N","Baca County, Colorado","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"52421",77,0,2013,2,"N","Baca County, Colorado","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"52421",77,0,2013,3,"N","Baca County, Colorado","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"524210",78,0,2013,1,"N","Baca County, Colorado","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"524210",78,0,2013,2,"N","Baca County, Colorado","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"524210",78,0,2013,3,"N","Baca County, Colorado","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"53",74,0,2013,1,"N","Baca County, Colorado","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"53",74,0,2013,2,"N","Baca County, Colorado","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"53",74,0,2013,3,"N","Baca County, Colorado","Private","Real estate and rental and leasing","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"531",75,0,2013,1,"N","Baca County, Colorado","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"531",75,0,2013,2,"N","Baca County, Colorado","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"531",75,0,2013,3,"N","Baca County, Colorado","Private","Real estate","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"5312",76,0,2013,1,"N","Baca County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"5312",76,0,2013,2,"N","Baca County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"5312",76,0,2013,3,"N","Baca County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"53121",77,0,2013,1,"N","Baca County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"53121",77,0,2013,2,"N","Baca County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"53121",77,0,2013,3,"N","Baca County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"531210",78,0,2013,1,"N","Baca County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"531210",78,0,2013,2,"N","Baca County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"531210",78,0,2013,3,"N","Baca County, Colorado","Private","Offices of real estate agents and brokers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"54",74,0,2013,1,"N","Baca County, Colorado","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"54",74,0,2013,2,"N","Baca County, Colorado","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"54",74,0,2013,3,"N","Baca County, Colorado","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"541",75,0,2013,1,"N","Baca County, Colorado","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"541",75,0,2013,2,"N","Baca County, Colorado","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"541",75,0,2013,3,"N","Baca County, Colorado","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"5411",76,0,2013,1,"N","Baca County, Colorado","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"5411",76,0,2013,2,"N","Baca County, Colorado","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"5411",76,0,2013,3,"N","Baca County, Colorado","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"54111",77,0,2013,1,"N","Baca County, Colorado","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"54111",77,0,2013,2,"N","Baca County, Colorado","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"54111",77,0,2013,3,"N","Baca County, Colorado","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"541110",78,0,2013,1,"N","Baca County, Colorado","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"541110",78,0,2013,2,"N","Baca County, Colorado","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"541110",78,0,2013,3,"N","Baca County, Colorado","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"5416",76,0,2013,1,"N","Baca County, Colorado","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"5416",76,0,2013,2,"N","Baca County, Colorado","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"5416",76,0,2013,3,"-","Baca County, Colorado","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"54161",77,0,2013,1,"N","Baca County, Colorado","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"54161",77,0,2013,2,"N","Baca County, Colorado","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"54161",77,0,2013,3,"-","Baca County, Colorado","Private","Management consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"541613",78,0,2013,1,"N","Baca County, Colorado","Private","Marketing consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"541613",78,0,2013,2,"N","Baca County, Colorado","Private","Marketing consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"541613",78,0,2013,3,"-","Baca County, Colorado","Private","Marketing consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"5419",76,0,2013,1,"N","Baca County, Colorado","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"5419",76,0,2013,2,"N","Baca County, Colorado","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"5419",76,0,2013,3,"N","Baca County, Colorado","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"54194",77,0,2013,1,"N","Baca County, Colorado","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"54194",77,0,2013,2,"N","Baca County, Colorado","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"54194",77,0,2013,3,"N","Baca County, Colorado","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"541940",78,0,2013,1,"N","Baca County, Colorado","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"541940",78,0,2013,2,"N","Baca County, Colorado","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"541940",78,0,2013,3,"N","Baca County, Colorado","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"61",74,0,2013,1,"-","Baca County, Colorado","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"61",74,0,2013,2,"N","Baca County, Colorado","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"61",74,0,2013,3,"N","Baca County, Colorado","Private","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"611",75,0,2013,1,"-","Baca County, Colorado","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"611",75,0,2013,2,"N","Baca County, Colorado","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"611",75,0,2013,3,"N","Baca County, Colorado","Private","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"6115",76,0,2013,1,"-","Baca County, Colorado","Private","Technical and trade schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"6115",76,0,2013,2,"N","Baca County, Colorado","Private","Technical and trade schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"6115",76,0,2013,3,"N","Baca County, Colorado","Private","Technical and trade schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"61151",77,0,2013,1,"-","Baca County, Colorado","Private","Technical and trade schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"61151",77,0,2013,2,"N","Baca County, Colorado","Private","Technical and trade schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"61151",77,0,2013,3,"N","Baca County, Colorado","Private","Technical and trade schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"611519",78,0,2013,1,"-","Baca County, Colorado","Private","Other technical and trade schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"08009",5,"611519",78,0,2013,2,"N","Baca County, Colorado","Private","Other technical and trade schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"611519",78,0,2013,3,"N","Baca County, Colorado","Private","Other technical and trade schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"62",74,0,2013,1,"","Baca County, Colorado","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,27,24,25,108353,72790,673,329
+"08009",5,"62",74,0,2013,2,"N","Baca County, Colorado","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"08009",5,"62",74,0,2013,3,"N","Baca County, Colorado","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"08009",5,"621",75,0,2013,1,"","Baca County, Colorado","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,11,11,11,81700,51686,489,571
+"08009",5,"621",75,0,2013,2,"N","Baca County, Colorado","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"621",75,0,2013,3,"N","Baca County, Colorado","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"6212",76,0,2013,1,"N","Baca County, Colorado","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"6212",76,0,2013,2,"N","Baca County, Colorado","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"6212",76,0,2013,3,"N","Baca County, Colorado","Private","Offices of dentists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"62121",77,0,2013,1,"N","Baca County, Colorado","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"62121",77,0,2013,2,"N","Baca County, Colorado","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"62121",77,0,2013,3,"N","Baca County, Colorado","Private","Offices of dentists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"621210",78,0,2013,1,"N","Baca County, Colorado","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"621210",78,0,2013,2,"N","Baca County, Colorado","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"621210",78,0,2013,3,"N","Baca County, Colorado","Private","Offices of dentists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"6213",76,0,2013,1,"N","Baca County, Colorado","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"6213",76,0,2013,2,"N","Baca County, Colorado","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"6213",76,0,2013,3,"N","Baca County, Colorado","Private","Offices of other health practitioners","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"62131",77,0,2013,1,"N","Baca County, Colorado","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"62131",77,0,2013,2,"N","Baca County, Colorado","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"62131",77,0,2013,3,"N","Baca County, Colorado","Private","Offices of chiropractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"621310",78,0,2013,1,"N","Baca County, Colorado","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"621310",78,0,2013,2,"N","Baca County, Colorado","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"621310",78,0,2013,3,"N","Baca County, Colorado","Private","Offices of chiropractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"624",75,0,2013,1,"","Baca County, Colorado","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,16,13,14,26653,21104,184,143
+"08009",5,"624",75,0,2013,2,"","Baca County, Colorado","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,15,16,14,30380,24856,217,156
+"08009",5,"624",75,0,2013,3,"","Baca County, Colorado","Private","Social assistance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,15,16,14,26382,16390,129,135
+"08009",5,"6242",76,0,2013,1,"N","Baca County, Colorado","Private","Emergency and other relief services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"6242",76,0,2013,2,"N","Baca County, Colorado","Private","Emergency and other relief services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"6242",76,0,2013,3,"N","Baca County, Colorado","Private","Emergency and other relief services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"62421",77,0,2013,1,"N","Baca County, Colorado","Private","Community food services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"62421",77,0,2013,2,"N","Baca County, Colorado","Private","Community food services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"62421",77,0,2013,3,"N","Baca County, Colorado","Private","Community food services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"624210",78,0,2013,1,"N","Baca County, Colorado","Private","Community food services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"624210",78,0,2013,2,"N","Baca County, Colorado","Private","Community food services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"624210",78,0,2013,3,"N","Baca County, Colorado","Private","Community food services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"62422",77,0,2013,1,"N","Baca County, Colorado","Private","Community housing services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"62422",77,0,2013,2,"N","Baca County, Colorado","Private","Community housing services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"62422",77,0,2013,3,"N","Baca County, Colorado","Private","Community housing services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"624229",78,0,2013,1,"N","Baca County, Colorado","Private","Other community housing services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"624229",78,0,2013,2,"N","Baca County, Colorado","Private","Other community housing services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"624229",78,0,2013,3,"N","Baca County, Colorado","Private","Other community housing services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"6244",76,0,2013,1,"N","Baca County, Colorado","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"6244",76,0,2013,2,"N","Baca County, Colorado","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"6244",76,0,2013,3,"N","Baca County, Colorado","Private","Child day care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"62441",77,0,2013,1,"N","Baca County, Colorado","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"62441",77,0,2013,2,"N","Baca County, Colorado","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"62441",77,0,2013,3,"N","Baca County, Colorado","Private","Child day care services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"624410",78,0,2013,1,"N","Baca County, Colorado","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"624410",78,0,2013,2,"N","Baca County, Colorado","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"624410",78,0,2013,3,"N","Baca County, Colorado","Private","Child day care services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"71",74,0,2013,1,"N","Baca County, Colorado","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"71",74,0,2013,2,"N","Baca County, Colorado","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"71",74,0,2013,3,"N","Baca County, Colorado","Private","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"713",75,0,2013,1,"N","Baca County, Colorado","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"713",75,0,2013,2,"N","Baca County, Colorado","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"713",75,0,2013,3,"N","Baca County, Colorado","Private","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"7139",76,0,2013,1,"N","Baca County, Colorado","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"7139",76,0,2013,2,"N","Baca County, Colorado","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"7139",76,0,2013,3,"N","Baca County, Colorado","Private","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"71399",77,0,2013,1,"N","Baca County, Colorado","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"71399",77,0,2013,2,"N","Baca County, Colorado","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"71399",77,0,2013,3,"N","Baca County, Colorado","Private","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"713990",78,0,2013,1,"N","Baca County, Colorado","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"713990",78,0,2013,2,"N","Baca County, Colorado","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"713990",78,0,2013,3,"N","Baca County, Colorado","Private","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"72",74,0,2013,1,"N","Baca County, Colorado","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"08009",5,"72",74,0,2013,2,"N","Baca County, Colorado","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",7,0,0,0,0,0,0,0
+"08009",5,"72",74,0,2013,3,"N","Baca County, Colorado","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,0,0,0,0,0,0,0
+"08009",5,"721",75,0,2013,1,"N","Baca County, Colorado","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"721",75,0,2013,2,"N","Baca County, Colorado","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"721",75,0,2013,3,"N","Baca County, Colorado","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"7211",76,0,2013,1,"N","Baca County, Colorado","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"7211",76,0,2013,2,"N","Baca County, Colorado","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"7211",76,0,2013,3,"N","Baca County, Colorado","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"72111",77,0,2013,1,"N","Baca County, Colorado","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"72111",77,0,2013,2,"N","Baca County, Colorado","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"72111",77,0,2013,3,"N","Baca County, Colorado","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"721110",78,0,2013,1,"N","Baca County, Colorado","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"721110",78,0,2013,2,"N","Baca County, Colorado","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"721110",78,0,2013,3,"N","Baca County, Colorado","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"7212",76,0,2013,1,"N","Baca County, Colorado","Private","Rv parks and recreational camps","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"7212",76,0,2013,2,"N","Baca County, Colorado","Private","Rv parks and recreational camps","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"7212",76,0,2013,3,"N","Baca County, Colorado","Private","Rv parks and recreational camps","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"72121",77,0,2013,1,"N","Baca County, Colorado","Private","Rv parks and recreational camps","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"72121",77,0,2013,2,"N","Baca County, Colorado","Private","Rv parks and recreational camps","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"72121",77,0,2013,3,"N","Baca County, Colorado","Private","Rv parks and recreational camps","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"721214",78,0,2013,1,"N","Baca County, Colorado","Private","Recreational and vacation camps","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"721214",78,0,2013,2,"N","Baca County, Colorado","Private","Recreational and vacation camps","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"721214",78,0,2013,3,"N","Baca County, Colorado","Private","Recreational and vacation camps","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"722",75,0,2013,1,"","Baca County, Colorado","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,18,22,22,61394,61394,1002,229
+"08009",5,"722",75,0,2013,2,"N","Baca County, Colorado","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"722",75,0,2013,3,"","Baca County, Colorado","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,22,23,18,62467,42950,516,229
+"08009",5,"7225",76,0,2013,1,"","Baca County, Colorado","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,18,22,22,61394,61394,1002,229
+"08009",5,"7225",76,0,2013,2,"N","Baca County, Colorado","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"7225",76,0,2013,3,"","Baca County, Colorado","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,22,23,18,62467,42950,516,229
+"08009",5,"72251",77,0,2013,1,"","Baca County, Colorado","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,18,22,22,61394,61394,1002,229
+"08009",5,"72251",77,0,2013,2,"N","Baca County, Colorado","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"08009",5,"72251",77,0,2013,3,"","Baca County, Colorado","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,22,23,18,62467,42950,516,229
+"08009",5,"722511",78,0,2013,1,"N","Baca County, Colorado","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"722511",78,0,2013,2,"N","Baca County, Colorado","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"722511",78,0,2013,3,"N","Baca County, Colorado","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"722513",78,0,2013,1,"N","Baca County, Colorado","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"722513",78,0,2013,2,"N","Baca County, Colorado","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"08009",5,"722513",78,0,2013,3,"N","Baca County, Colorado","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"81",74,0,2013,1,"","Baca County, Colorado","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",8,14,18,18,90557,90557,2812,418
+"08009",5,"81",74,0,2013,2,"","Baca County, Colorado","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",8,16,15,17,91056,53101,1477,438
+"08009",5,"81",74,0,2013,3,"","Baca County, Colorado","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",8,21,21,19,93484,31719,539,354
+"08009",5,"811",75,0,2013,1,"","Baca County, Colorado","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,12,16,16,85229,85229,2764,447
+"08009",5,"811",75,0,2013,2,"","Baca County, Colorado","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,14,13,15,85586,47631,1427,470
+"08009",5,"811",75,0,2013,3,"","Baca County, Colorado","Private","Repair and maintenance","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,19,19,17,88161,27619,501,370
+"08009",5,"8111",76,0,2013,1,"N","Baca County, Colorado","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"8111",76,0,2013,2,"N","Baca County, Colorado","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"8111",76,0,2013,3,"N","Baca County, Colorado","Private","Automotive repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"81111",77,0,2013,1,"N","Baca County, Colorado","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"81111",77,0,2013,2,"N","Baca County, Colorado","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"81111",77,0,2013,3,"N","Baca County, Colorado","Private","Automotive mechanical and electrical repair","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"811111",78,0,2013,1,"N","Baca County, Colorado","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"811111",78,0,2013,2,"N","Baca County, Colorado","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"811111",78,0,2013,3,"N","Baca County, Colorado","Private","General automotive repair","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"8113",76,0,2013,1,"N","Baca County, Colorado","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"8113",76,0,2013,2,"N","Baca County, Colorado","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"8113",76,0,2013,3,"N","Baca County, Colorado","Private","Commercial machinery repair and maintenance","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"81131",77,0,2013,1,"N","Baca County, Colorado","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"81131",77,0,2013,2,"N","Baca County, Colorado","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"81131",77,0,2013,3,"N","Baca County, Colorado","Private","Commercial machinery repair and maintenance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"811310",78,0,2013,1,"N","Baca County, Colorado","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"811310",78,0,2013,2,"N","Baca County, Colorado","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"811310",78,0,2013,3,"N","Baca County, Colorado","Private","Commercial machinery repair and maintenance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"08009",5,"812",75,0,2013,1,"N","Baca County, Colorado","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"812",75,0,2013,2,"N","Baca County, Colorado","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"812",75,0,2013,3,"N","Baca County, Colorado","Private","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"8122",76,0,2013,1,"N","Baca County, Colorado","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"8122",76,0,2013,2,"N","Baca County, Colorado","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"8122",76,0,2013,3,"N","Baca County, Colorado","Private","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"81221",77,0,2013,1,"N","Baca County, Colorado","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"81221",77,0,2013,2,"N","Baca County, Colorado","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"81221",77,0,2013,3,"N","Baca County, Colorado","Private","Funeral homes and funeral services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"812210",78,0,2013,1,"N","Baca County, Colorado","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"812210",78,0,2013,2,"N","Baca County, Colorado","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"812210",78,0,2013,3,"N","Baca County, Colorado","Private","Funeral homes and funeral services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"813",75,0,2013,1,"N","Baca County, Colorado","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"813",75,0,2013,2,"N","Baca County, Colorado","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"813",75,0,2013,3,"N","Baca County, Colorado","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"8139",76,0,2013,1,"N","Baca County, Colorado","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"8139",76,0,2013,2,"N","Baca County, Colorado","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"8139",76,0,2013,3,"N","Baca County, Colorado","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"81391",77,0,2013,1,"N","Baca County, Colorado","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"81391",77,0,2013,2,"N","Baca County, Colorado","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"81391",77,0,2013,3,"N","Baca County, Colorado","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"813910",78,0,2013,1,"N","Baca County, Colorado","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"813910",78,0,2013,2,"N","Baca County, Colorado","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"08009",5,"813910",78,0,2013,3,"N","Baca County, Colorado","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+

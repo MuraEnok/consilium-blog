@@ -1,0 +1,797 @@
+"area_fips","own_code","industry_code","agglvl_code","size_code","year","qtr","disclosure_code","area_title","own_title","industry_title","agglvl_title","size_title","qtrly_estabs_count","month1_emplvl","month2_emplvl","month3_emplvl","total_qtrly_wages","taxable_qtrly_wages","qtrly_contributions","avg_wkly_wage"
+"20187",0,"10",70,0,2013,1,"","Stanton County, Kansas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",84,716,721,742,5994737,4060254,63897,635
+"20187",0,"10",70,0,2013,2,"","Stanton County, Kansas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",86,737,757,773,6302957,2204059,18665,642
+"20187",0,"10",70,0,2013,3,"","Stanton County, Kansas","Total Covered","Total, all industries","County, Total Covered","All establishment sizes",86,725,718,761,6021466,2071827,15141,630
+"20187",1,"10",71,0,2013,1,"","Stanton County, Kansas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,10,13,10,99375,0,0,695
+"20187",1,"10",71,0,2013,2,"","Stanton County, Kansas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,12,10,13,100942,0,0,666
+"20187",1,"10",71,0,2013,3,"","Stanton County, Kansas","Federal Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",5,9,13,10,103265,0,0,745
+"20187",1,"102",72,0,2013,1,"","Stanton County, Kansas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,10,13,10,99375,0,0,695
+"20187",1,"102",72,0,2013,2,"","Stanton County, Kansas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,12,10,13,100942,0,0,666
+"20187",1,"102",72,0,2013,3,"","Stanton County, Kansas","Federal Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",5,9,13,10,103265,0,0,745
+"20187",1,"1021",73,0,2013,1,"","Stanton County, Kansas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,4,4,4,37958,0,0,730
+"20187",1,"1021",73,0,2013,2,"","Stanton County, Kansas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,4,5,5,32346,0,0,533
+"20187",1,"1021",73,0,2013,3,"","Stanton County, Kansas","Federal Government","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",2,4,5,5,38149,0,0,629
+"20187",1,"1028",73,0,2013,1,"","Stanton County, Kansas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,6,9,6,61417,0,0,675
+"20187",1,"1028",73,0,2013,2,"","Stanton County, Kansas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,8,5,8,68596,0,0,754
+"20187",1,"1028",73,0,2013,3,"","Stanton County, Kansas","Federal Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",3,5,8,5,65116,0,0,835
+"20187",1,"48-49",74,0,2013,1,"","Stanton County, Kansas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,4,4,4,37958,0,0,730
+"20187",1,"48-49",74,0,2013,2,"","Stanton County, Kansas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,4,5,5,32346,0,0,533
+"20187",1,"48-49",74,0,2013,3,"","Stanton County, Kansas","Federal Government","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,4,5,5,38149,0,0,629
+"20187",1,"491",75,0,2013,1,"","Stanton County, Kansas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,4,4,4,37958,0,0,730
+"20187",1,"491",75,0,2013,2,"","Stanton County, Kansas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,4,5,5,32346,0,0,533
+"20187",1,"491",75,0,2013,3,"","Stanton County, Kansas","Federal Government","Postal service","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,4,5,5,38149,0,0,629
+"20187",1,"4911",76,0,2013,1,"","Stanton County, Kansas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,4,4,4,37958,0,0,730
+"20187",1,"4911",76,0,2013,2,"","Stanton County, Kansas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,4,5,5,32346,0,0,533
+"20187",1,"4911",76,0,2013,3,"","Stanton County, Kansas","Federal Government","Postal service","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,4,5,5,38149,0,0,629
+"20187",1,"49111",77,0,2013,1,"","Stanton County, Kansas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,4,4,4,37958,0,0,730
+"20187",1,"49111",77,0,2013,2,"","Stanton County, Kansas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,4,5,5,32346,0,0,533
+"20187",1,"49111",77,0,2013,3,"","Stanton County, Kansas","Federal Government","Postal service","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,4,5,5,38149,0,0,629
+"20187",1,"491110",78,0,2013,1,"","Stanton County, Kansas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,4,4,4,37958,0,0,730
+"20187",1,"491110",78,0,2013,2,"","Stanton County, Kansas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,4,5,5,32346,0,0,533
+"20187",1,"491110",78,0,2013,3,"","Stanton County, Kansas","Federal Government","Postal service","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,4,5,5,38149,0,0,629
+"20187",1,"92",74,0,2013,1,"","Stanton County, Kansas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,9,6,61417,0,0,675
+"20187",1,"92",74,0,2013,2,"","Stanton County, Kansas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,8,5,8,68596,0,0,754
+"20187",1,"92",74,0,2013,3,"","Stanton County, Kansas","Federal Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,5,8,5,65116,0,0,835
+"20187",1,"924",75,0,2013,1,"","Stanton County, Kansas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,2,2,20520,0,0,789
+"20187",1,"924",75,0,2013,2,"","Stanton County, Kansas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,2,2,24753,0,0,952
+"20187",1,"924",75,0,2013,3,"","Stanton County, Kansas","Federal Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,2,2,2,26264,0,0,1010
+"20187",1,"9241",76,0,2013,1,"","Stanton County, Kansas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,2,2,20520,0,0,789
+"20187",1,"9241",76,0,2013,2,"","Stanton County, Kansas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,2,2,24753,0,0,952
+"20187",1,"9241",76,0,2013,3,"","Stanton County, Kansas","Federal Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,2,2,2,26264,0,0,1010
+"20187",1,"92412",77,0,2013,1,"","Stanton County, Kansas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,20520,0,0,789
+"20187",1,"92412",77,0,2013,2,"","Stanton County, Kansas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,24753,0,0,952
+"20187",1,"92412",77,0,2013,3,"","Stanton County, Kansas","Federal Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,2,2,2,26264,0,0,1010
+"20187",1,"924120",78,0,2013,1,"","Stanton County, Kansas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,20520,0,0,789
+"20187",1,"924120",78,0,2013,2,"","Stanton County, Kansas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,24753,0,0,952
+"20187",1,"924120",78,0,2013,3,"","Stanton County, Kansas","Federal Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,2,2,2,26264,0,0,1010
+"20187",1,"926",75,0,2013,1,"","Stanton County, Kansas","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,4,7,4,40897,0,0,629
+"20187",1,"926",75,0,2013,2,"","Stanton County, Kansas","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,6,3,6,43843,0,0,675
+"20187",1,"926",75,0,2013,3,"","Stanton County, Kansas","Federal Government","Administration of economic programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,3,6,3,38852,0,0,747
+"20187",1,"9261",76,0,2013,1,"","Stanton County, Kansas","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,4,7,4,40897,0,0,629
+"20187",1,"9261",76,0,2013,2,"","Stanton County, Kansas","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,6,3,6,43843,0,0,675
+"20187",1,"9261",76,0,2013,3,"","Stanton County, Kansas","Federal Government","Administration of economic programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,3,6,3,38852,0,0,747
+"20187",1,"92611",77,0,2013,1,"","Stanton County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",1,"92611",77,0,2013,2,"","Stanton County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",1,"92611",77,0,2013,3,"","Stanton County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",1,"926110",78,0,2013,1,"","Stanton County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",1,"926110",78,0,2013,2,"","Stanton County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",1,"926110",78,0,2013,3,"","Stanton County, Kansas","Federal Government","Administration of general economic programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",1,"92614",77,0,2013,1,"","Stanton County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,4,7,4,40897,0,0,629
+"20187",1,"92614",77,0,2013,2,"","Stanton County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,6,3,6,43843,0,0,675
+"20187",1,"92614",77,0,2013,3,"","Stanton County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,3,6,3,38852,0,0,747
+"20187",1,"926140",78,0,2013,1,"","Stanton County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,4,7,4,40897,0,0,629
+"20187",1,"926140",78,0,2013,2,"","Stanton County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,6,3,6,43843,0,0,675
+"20187",1,"926140",78,0,2013,3,"","Stanton County, Kansas","Federal Government","Agricultural market and commodity regulation","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,3,6,3,38852,0,0,747
+"20187",2,"10",71,0,2013,1,"N","Stanton County, Kansas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"10",71,0,2013,2,"N","Stanton County, Kansas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"10",71,0,2013,3,"N","Stanton County, Kansas","State Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"102",72,0,2013,1,"N","Stanton County, Kansas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"102",72,0,2013,2,"N","Stanton County, Kansas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"102",72,0,2013,3,"N","Stanton County, Kansas","State Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"1028",73,0,2013,1,"N","Stanton County, Kansas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"1028",73,0,2013,2,"N","Stanton County, Kansas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"1028",73,0,2013,3,"N","Stanton County, Kansas","State Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"92",74,0,2013,1,"N","Stanton County, Kansas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"92",74,0,2013,2,"N","Stanton County, Kansas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"92",74,0,2013,3,"N","Stanton County, Kansas","State Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"922",75,0,2013,1,"N","Stanton County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"922",75,0,2013,2,"N","Stanton County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"922",75,0,2013,3,"N","Stanton County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"9221",76,0,2013,1,"N","Stanton County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"9221",76,0,2013,2,"N","Stanton County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"9221",76,0,2013,3,"N","Stanton County, Kansas","State Government","Justice, public order, and safety activities","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"92213",77,0,2013,1,"N","Stanton County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"92213",77,0,2013,2,"N","Stanton County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"92213",77,0,2013,3,"N","Stanton County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"922130",78,0,2013,1,"N","Stanton County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"922130",78,0,2013,2,"N","Stanton County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",2,"922130",78,0,2013,3,"N","Stanton County, Kansas","State Government","Legal counsel and prosecution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"10",71,0,2013,1,"N","Stanton County, Kansas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"20187",3,"10",71,0,2013,2,"N","Stanton County, Kansas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"20187",3,"10",71,0,2013,3,"N","Stanton County, Kansas","Local Government","Total, all industries","County, Total -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"20187",3,"102",72,0,2013,1,"N","Stanton County, Kansas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"20187",3,"102",72,0,2013,2,"N","Stanton County, Kansas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"20187",3,"102",72,0,2013,3,"N","Stanton County, Kansas","Local Government","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",11,0,0,0,0,0,0,0
+"20187",3,"1022",73,0,2013,1,"N","Stanton County, Kansas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"1022",73,0,2013,2,"N","Stanton County, Kansas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"1022",73,0,2013,3,"N","Stanton County, Kansas","Local Government","Information","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"1025",73,0,2013,1,"","Stanton County, Kansas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,175,177,186,1505347,1505347,1505,646
+"20187",3,"1025",73,0,2013,2,"","Stanton County, Kansas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,171,191,175,1465472,1465472,1465,630
+"20187",3,"1025",73,0,2013,3,"","Stanton County, Kansas","Local Government","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",3,135,138,187,1439157,1439157,1439,722
+"20187",3,"1026",73,0,2013,1,"N","Stanton County, Kansas","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"1026",73,0,2013,2,"N","Stanton County, Kansas","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"1026",73,0,2013,3,"N","Stanton County, Kansas","Local Government","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"1027",73,0,2013,1,"N","Stanton County, Kansas","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"1027",73,0,2013,2,"N","Stanton County, Kansas","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"1027",73,0,2013,3,"N","Stanton County, Kansas","Local Government","Other services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"1028",73,0,2013,1,"N","Stanton County, Kansas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20187",3,"1028",73,0,2013,2,"N","Stanton County, Kansas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20187",3,"1028",73,0,2013,3,"N","Stanton County, Kansas","Local Government","Public administration","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20187",3,"51",74,0,2013,1,"N","Stanton County, Kansas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"51",74,0,2013,2,"N","Stanton County, Kansas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"51",74,0,2013,3,"N","Stanton County, Kansas","Local Government","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"519",75,0,2013,1,"N","Stanton County, Kansas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"519",75,0,2013,2,"N","Stanton County, Kansas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"519",75,0,2013,3,"N","Stanton County, Kansas","Local Government","Other information services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"5191",76,0,2013,1,"N","Stanton County, Kansas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"5191",76,0,2013,2,"N","Stanton County, Kansas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"5191",76,0,2013,3,"N","Stanton County, Kansas","Local Government","Other information services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"51912",77,0,2013,1,"N","Stanton County, Kansas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"51912",77,0,2013,2,"N","Stanton County, Kansas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"51912",77,0,2013,3,"N","Stanton County, Kansas","Local Government","Libraries and archives","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"519120",78,0,2013,1,"N","Stanton County, Kansas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"519120",78,0,2013,2,"N","Stanton County, Kansas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"519120",78,0,2013,3,"N","Stanton County, Kansas","Local Government","Libraries and archives","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"61",74,0,2013,1,"N","Stanton County, Kansas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",3,"61",74,0,2013,2,"N","Stanton County, Kansas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",3,"61",74,0,2013,3,"N","Stanton County, Kansas","Local Government","Educational services","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",3,"611",75,0,2013,1,"N","Stanton County, Kansas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",3,"611",75,0,2013,2,"N","Stanton County, Kansas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",3,"611",75,0,2013,3,"N","Stanton County, Kansas","Local Government","Educational services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",3,"6111",76,0,2013,1,"N","Stanton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",3,"6111",76,0,2013,2,"N","Stanton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",3,"6111",76,0,2013,3,"N","Stanton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",3,"61111",77,0,2013,1,"N","Stanton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",3,"61111",77,0,2013,2,"N","Stanton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",3,"61111",77,0,2013,3,"N","Stanton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",3,"611110",78,0,2013,1,"N","Stanton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",3,"611110",78,0,2013,2,"N","Stanton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",3,"611110",78,0,2013,3,"N","Stanton County, Kansas","Local Government","Elementary and secondary schools","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",3,"62",74,0,2013,1,"N","Stanton County, Kansas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"62",74,0,2013,2,"N","Stanton County, Kansas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"62",74,0,2013,3,"N","Stanton County, Kansas","Local Government","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"622",75,0,2013,1,"N","Stanton County, Kansas","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"622",75,0,2013,2,"N","Stanton County, Kansas","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"622",75,0,2013,3,"N","Stanton County, Kansas","Local Government","Hospitals","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"6221",76,0,2013,1,"N","Stanton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"6221",76,0,2013,2,"N","Stanton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"6221",76,0,2013,3,"N","Stanton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"62211",77,0,2013,1,"N","Stanton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"62211",77,0,2013,2,"N","Stanton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"62211",77,0,2013,3,"N","Stanton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"622110",78,0,2013,1,"N","Stanton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"622110",78,0,2013,2,"N","Stanton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"622110",78,0,2013,3,"N","Stanton County, Kansas","Local Government","General medical and surgical hospitals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"71",74,0,2013,1,"N","Stanton County, Kansas","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"71",74,0,2013,2,"N","Stanton County, Kansas","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"71",74,0,2013,3,"N","Stanton County, Kansas","Local Government","Arts, entertainment, and recreation","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"713",75,0,2013,1,"N","Stanton County, Kansas","Local Government","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"713",75,0,2013,2,"N","Stanton County, Kansas","Local Government","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"713",75,0,2013,3,"N","Stanton County, Kansas","Local Government","Amusements, gambling, and recreation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"7139",76,0,2013,1,"N","Stanton County, Kansas","Local Government","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"7139",76,0,2013,2,"N","Stanton County, Kansas","Local Government","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"7139",76,0,2013,3,"N","Stanton County, Kansas","Local Government","Other amusement and recreation industries","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"71399",77,0,2013,1,"N","Stanton County, Kansas","Local Government","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"71399",77,0,2013,2,"N","Stanton County, Kansas","Local Government","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"71399",77,0,2013,3,"N","Stanton County, Kansas","Local Government","All other amusement and recreation industries","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"713990",78,0,2013,1,"N","Stanton County, Kansas","Local Government","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"713990",78,0,2013,2,"N","Stanton County, Kansas","Local Government","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"713990",78,0,2013,3,"N","Stanton County, Kansas","Local Government","All other amusement and recreation industries","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"81",74,0,2013,1,"N","Stanton County, Kansas","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"81",74,0,2013,2,"N","Stanton County, Kansas","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"81",74,0,2013,3,"N","Stanton County, Kansas","Local Government","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"812",75,0,2013,1,"N","Stanton County, Kansas","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"812",75,0,2013,2,"N","Stanton County, Kansas","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"812",75,0,2013,3,"N","Stanton County, Kansas","Local Government","Personal and laundry services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"8122",76,0,2013,1,"N","Stanton County, Kansas","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"8122",76,0,2013,2,"N","Stanton County, Kansas","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"8122",76,0,2013,3,"N","Stanton County, Kansas","Local Government","Death care services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"81222",77,0,2013,1,"N","Stanton County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"81222",77,0,2013,2,"N","Stanton County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"81222",77,0,2013,3,"N","Stanton County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"812220",78,0,2013,1,"N","Stanton County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"812220",78,0,2013,2,"N","Stanton County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"812220",78,0,2013,3,"N","Stanton County, Kansas","Local Government","Cemeteries and crematories","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"92",74,0,2013,1,"N","Stanton County, Kansas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20187",3,"92",74,0,2013,2,"N","Stanton County, Kansas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20187",3,"92",74,0,2013,3,"N","Stanton County, Kansas","Local Government","Public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20187",3,"921",75,0,2013,1,"N","Stanton County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",3,"921",75,0,2013,2,"N","Stanton County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",3,"921",75,0,2013,3,"N","Stanton County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",3,"9211",76,0,2013,1,"N","Stanton County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",3,"9211",76,0,2013,2,"N","Stanton County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",3,"9211",76,0,2013,3,"N","Stanton County, Kansas","Local Government","Executive, legislative and general government","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",3,"92114",77,0,2013,1,"N","Stanton County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",3,"92114",77,0,2013,2,"N","Stanton County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",3,"92114",77,0,2013,3,"N","Stanton County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",3,"921140",78,0,2013,1,"N","Stanton County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",3,"921140",78,0,2013,2,"N","Stanton County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",3,"921140",78,0,2013,3,"N","Stanton County, Kansas","Local Government","Executive and legislative offices, combined","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",3,"923",75,0,2013,1,"N","Stanton County, Kansas","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"923",75,0,2013,2,"N","Stanton County, Kansas","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"923",75,0,2013,3,"N","Stanton County, Kansas","Local Government","Administration of human resource programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"9231",76,0,2013,1,"N","Stanton County, Kansas","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"9231",76,0,2013,2,"N","Stanton County, Kansas","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"9231",76,0,2013,3,"N","Stanton County, Kansas","Local Government","Administration of human resource programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"92312",77,0,2013,1,"N","Stanton County, Kansas","Local Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"92312",77,0,2013,2,"N","Stanton County, Kansas","Local Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"92312",77,0,2013,3,"N","Stanton County, Kansas","Local Government","Administration of public health programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"923120",78,0,2013,1,"N","Stanton County, Kansas","Local Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"923120",78,0,2013,2,"N","Stanton County, Kansas","Local Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"923120",78,0,2013,3,"N","Stanton County, Kansas","Local Government","Administration of public health programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"924",75,0,2013,1,"N","Stanton County, Kansas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"924",75,0,2013,2,"N","Stanton County, Kansas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"924",75,0,2013,3,"N","Stanton County, Kansas","Local Government","Administration of environmental programs","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"9241",76,0,2013,1,"N","Stanton County, Kansas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"9241",76,0,2013,2,"N","Stanton County, Kansas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"9241",76,0,2013,3,"N","Stanton County, Kansas","Local Government","Administration of environmental programs","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"92412",77,0,2013,1,"N","Stanton County, Kansas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"92412",77,0,2013,2,"N","Stanton County, Kansas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"92412",77,0,2013,3,"N","Stanton County, Kansas","Local Government","Administration of conservation programs","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"924120",78,0,2013,1,"N","Stanton County, Kansas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"924120",78,0,2013,2,"N","Stanton County, Kansas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",3,"924120",78,0,2013,3,"N","Stanton County, Kansas","Local Government","Administration of conservation programs","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"10",71,0,2013,1,"","Stanton County, Kansas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",67,390,391,395,3712133,2364414,61251,728
+"20187",5,"10",71,0,2013,2,"","Stanton County, Kansas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",69,406,412,426,4029574,529265,16032,748
+"20187",5,"10",71,0,2013,3,"","Stanton County, Kansas","Private","Total, all industries","County, Total -- by ownership sector","All establishment sizes",69,436,430,412,3763527,445428,12617,680
+"20187",5,"101",72,0,2013,1,"","Stanton County, Kansas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",22,84,82,84,725090,578551,11012,669
+"20187",5,"101",72,0,2013,2,"","Stanton County, Kansas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",24,84,91,90,792956,102249,3016,691
+"20187",5,"101",72,0,2013,3,"","Stanton County, Kansas","Private","Goods-producing","County, by Domain -- by ownership sector","All establishment sizes",24,92,91,88,867455,123560,3759,739
+"20187",5,"1011",73,0,2013,1,"","Stanton County, Kansas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",16,74,73,75,639141,505833,9846,664
+"20187",5,"1011",73,0,2013,2,"","Stanton County, Kansas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",16,75,80,78,698848,83238,2307,692
+"20187",5,"1011",73,0,2013,3,"","Stanton County, Kansas","Private","Natural resources and mining","County, by Supersector -- by ownership sector","All establishment sizes",16,78,77,76,743595,95050,2892,743
+"20187",5,"1012",73,0,2013,1,"N","Stanton County, Kansas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20187",5,"1012",73,0,2013,2,"N","Stanton County, Kansas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20187",5,"1012",73,0,2013,3,"","Stanton County, Kansas","Private","Construction","County, by Supersector -- by ownership sector","All establishment sizes",5,8,8,6,54646,16754,638,573
+"20187",5,"1013",73,0,2013,1,"N","Stanton County, Kansas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"1013",73,0,2013,2,"N","Stanton County, Kansas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"1013",73,0,2013,3,"","Stanton County, Kansas","Private","Manufacturing","County, by Supersector -- by ownership sector","All establishment sizes",3,6,6,6,69214,11756,229,887
+"20187",5,"102",72,0,2013,1,"","Stanton County, Kansas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",45,306,309,311,2987043,1785863,50239,744
+"20187",5,"102",72,0,2013,2,"","Stanton County, Kansas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",45,322,321,336,3236618,427016,13016,763
+"20187",5,"102",72,0,2013,3,"","Stanton County, Kansas","Private","Service-providing","County, by Domain -- by ownership sector","All establishment sizes",45,344,339,324,2896072,321868,8858,664
+"20187",5,"1021",73,0,2013,1,"","Stanton County, Kansas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",19,206,212,211,2398832,1367689,41352,880
+"20187",5,"1021",73,0,2013,2,"","Stanton County, Kansas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",19,214,217,229,2628612,264334,8508,919
+"20187",5,"1021",73,0,2013,3,"","Stanton County, Kansas","Private","Trade, transportation, and utilities","County, by Supersector -- by ownership sector","All establishment sizes",19,229,221,216,2234907,206885,5738,774
+"20187",5,"1022",73,0,2013,1,"N","Stanton County, Kansas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"1022",73,0,2013,2,"N","Stanton County, Kansas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"1022",73,0,2013,3,"N","Stanton County, Kansas","Private","Information","County, by Supersector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"1023",73,0,2013,1,"","Stanton County, Kansas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",6,34,30,34,340021,208762,3567,801
+"20187",5,"1023",73,0,2013,2,"","Stanton County, Kansas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",6,35,31,36,356060,43763,1414,806
+"20187",5,"1023",73,0,2013,3,"","Stanton County, Kansas","Private","Financial activities","County, by Supersector -- by ownership sector","All establishment sizes",6,37,36,31,362672,21204,762,805
+"20187",5,"1024",73,0,2013,1,"","Stanton County, Kansas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",9,26,26,29,131175,102442,3050,374
+"20187",5,"1024",73,0,2013,2,"","Stanton County, Kansas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",9,31,32,32,138187,53379,1361,336
+"20187",5,"1024",73,0,2013,3,"","Stanton County, Kansas","Private","Professional and business services","County, by Supersector -- by ownership sector","All establishment sizes",9,37,42,40,178360,41385,1116,346
+"20187",5,"1025",73,0,2013,1,"N","Stanton County, Kansas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"1025",73,0,2013,2,"N","Stanton County, Kansas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"1025",73,0,2013,3,"N","Stanton County, Kansas","Private","Education and health services","County, by Supersector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"1026",73,0,2013,1,"","Stanton County, Kansas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",5,22,24,21,37729,37729,1082,130
+"20187",5,"1026",73,0,2013,2,"","Stanton County, Kansas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",5,24,24,23,34921,33921,1023,114
+"20187",5,"1026",73,0,2013,3,"","Stanton County, Kansas","Private","Leisure and hospitality","County, by Supersector -- by ownership sector","All establishment sizes",5,23,25,22,41539,30764,701,137
+"20187",5,"1027",73,0,2013,1,"","Stanton County, Kansas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,7,6,5,23234,23234,604,298
+"20187",5,"1027",73,0,2013,2,"","Stanton County, Kansas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,7,7,6,22116,17128,558,255
+"20187",5,"1027",73,0,2013,3,"","Stanton County, Kansas","Private","Other services","County, by Supersector -- by ownership sector","All establishment sizes",3,8,6,6,26907,13697,418,310
+"20187",5,"11",74,0,2013,1,"","Stanton County, Kansas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",16,74,73,75,639141,505833,9846,664
+"20187",5,"11",74,0,2013,2,"","Stanton County, Kansas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",16,75,80,78,698848,83238,2307,692
+"20187",5,"11",74,0,2013,3,"","Stanton County, Kansas","Private","Agriculture, forestry, fishing and hunting","County, NAICS Sector -- by ownership sector","All establishment sizes",16,78,77,76,743595,95050,2892,743
+"20187",5,"111",75,0,2013,1,"N","Stanton County, Kansas","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"20187",5,"111",75,0,2013,2,"N","Stanton County, Kansas","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"20187",5,"111",75,0,2013,3,"N","Stanton County, Kansas","Private","Crop production","County, NAICS 3-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"20187",5,"1111",76,0,2013,1,"N","Stanton County, Kansas","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"20187",5,"1111",76,0,2013,2,"N","Stanton County, Kansas","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"20187",5,"1111",76,0,2013,3,"N","Stanton County, Kansas","Private","Oilseed and grain farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",10,0,0,0,0,0,0,0
+"20187",5,"11114",77,0,2013,1,"","Stanton County, Kansas","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,15,13,17,140121,107863,3982,719
+"20187",5,"11114",77,0,2013,2,"","Stanton County, Kansas","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,18,19,18,193697,39655,1796,813
+"20187",5,"11114",77,0,2013,3,"","Stanton County, Kansas","Private","Wheat farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",6,21,20,19,194679,48021,2290,749
+"20187",5,"111140",78,0,2013,1,"","Stanton County, Kansas","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,15,13,17,140121,107863,3982,719
+"20187",5,"111140",78,0,2013,2,"","Stanton County, Kansas","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,18,19,18,193697,39655,1796,813
+"20187",5,"111140",78,0,2013,3,"","Stanton County, Kansas","Private","Wheat farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",6,21,20,19,194679,48021,2290,749
+"20187",5,"11115",77,0,2013,1,"","Stanton County, Kansas","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,10,10,10,66007,57945,862,508
+"20187",5,"11115",77,0,2013,2,"","Stanton County, Kansas","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,11,11,11,68693,12184,206,480
+"20187",5,"11115",77,0,2013,3,"","Stanton County, Kansas","Private","Corn farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,10,10,10,86742,15505,287,667
+"20187",5,"111150",78,0,2013,1,"","Stanton County, Kansas","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,10,10,10,66007,57945,862,508
+"20187",5,"111150",78,0,2013,2,"","Stanton County, Kansas","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,11,11,11,68693,12184,206,480
+"20187",5,"111150",78,0,2013,3,"","Stanton County, Kansas","Private","Corn farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,10,10,10,86742,15505,287,667
+"20187",5,"11119",77,0,2013,1,"N","Stanton County, Kansas","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"11119",77,0,2013,2,"N","Stanton County, Kansas","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"11119",77,0,2013,3,"N","Stanton County, Kansas","Private","Other grain farming","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"111191",78,0,2013,1,"N","Stanton County, Kansas","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"111191",78,0,2013,2,"N","Stanton County, Kansas","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"111191",78,0,2013,3,"N","Stanton County, Kansas","Private","Oilseed and grain combination farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"112",75,0,2013,1,"","Stanton County, Kansas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,38,38,37,349344,271813,4438,713
+"20187",5,"112",75,0,2013,2,"","Stanton County, Kansas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,35,35,35,337425,15729,187,742
+"20187",5,"112",75,0,2013,3,"","Stanton County, Kansas","Private","Animal production and aquaculture","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,33,33,34,372696,13633,193,860
+"20187",5,"1121",76,0,2013,1,"","Stanton County, Kansas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,38,38,37,349344,271813,4438,713
+"20187",5,"1121",76,0,2013,2,"","Stanton County, Kansas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,35,35,35,337425,15729,187,742
+"20187",5,"1121",76,0,2013,3,"","Stanton County, Kansas","Private","Cattle ranching and farming","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,33,33,34,372696,13633,193,860
+"20187",5,"11211",77,0,2013,1,"N","Stanton County, Kansas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"11211",77,0,2013,2,"N","Stanton County, Kansas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"11211",77,0,2013,3,"N","Stanton County, Kansas","Private","Beef cattle ranching, farming, and feedlots","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"112111",78,0,2013,1,"N","Stanton County, Kansas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"112111",78,0,2013,2,"N","Stanton County, Kansas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"112111",78,0,2013,3,"N","Stanton County, Kansas","Private","Beef cattle ranching and farming","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"112112",78,0,2013,1,"N","Stanton County, Kansas","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"112112",78,0,2013,2,"N","Stanton County, Kansas","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"112112",78,0,2013,3,"N","Stanton County, Kansas","Private","Cattle feedlots","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"11212",77,0,2013,1,"N","Stanton County, Kansas","Private","Dairy cattle and milk production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"11212",77,0,2013,2,"N","Stanton County, Kansas","Private","Dairy cattle and milk production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"11212",77,0,2013,3,"N","Stanton County, Kansas","Private","Dairy cattle and milk production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"112120",78,0,2013,1,"N","Stanton County, Kansas","Private","Dairy cattle and milk production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"112120",78,0,2013,2,"N","Stanton County, Kansas","Private","Dairy cattle and milk production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"112120",78,0,2013,3,"N","Stanton County, Kansas","Private","Dairy cattle and milk production","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"115",75,0,2013,1,"N","Stanton County, Kansas","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"115",75,0,2013,2,"N","Stanton County, Kansas","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"115",75,0,2013,3,"N","Stanton County, Kansas","Private","Agriculture and forestry support activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"1151",76,0,2013,1,"N","Stanton County, Kansas","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"1151",76,0,2013,2,"N","Stanton County, Kansas","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"1151",76,0,2013,3,"N","Stanton County, Kansas","Private","Support activities for crop production","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"11511",77,0,2013,1,"N","Stanton County, Kansas","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"11511",77,0,2013,2,"N","Stanton County, Kansas","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"11511",77,0,2013,3,"N","Stanton County, Kansas","Private","Support activities for crop production","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"115112",78,0,2013,1,"N","Stanton County, Kansas","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"115112",78,0,2013,2,"N","Stanton County, Kansas","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"115112",78,0,2013,3,"N","Stanton County, Kansas","Private","Soil preparation, planting, and cultivating","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"22",74,0,2013,1,"N","Stanton County, Kansas","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"22",74,0,2013,2,"N","Stanton County, Kansas","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"22",74,0,2013,3,"N","Stanton County, Kansas","Private","Utilities","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"221",75,0,2013,1,"N","Stanton County, Kansas","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"221",75,0,2013,2,"N","Stanton County, Kansas","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"221",75,0,2013,3,"N","Stanton County, Kansas","Private","Utilities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"2212",76,0,2013,1,"N","Stanton County, Kansas","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"2212",76,0,2013,2,"N","Stanton County, Kansas","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"2212",76,0,2013,3,"N","Stanton County, Kansas","Private","Natural gas distribution","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"22121",77,0,2013,1,"N","Stanton County, Kansas","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"22121",77,0,2013,2,"N","Stanton County, Kansas","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"22121",77,0,2013,3,"N","Stanton County, Kansas","Private","Natural gas distribution","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"221210",78,0,2013,1,"N","Stanton County, Kansas","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"221210",78,0,2013,2,"N","Stanton County, Kansas","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"221210",78,0,2013,3,"N","Stanton County, Kansas","Private","Natural gas distribution","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"23",74,0,2013,1,"N","Stanton County, Kansas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20187",5,"23",74,0,2013,2,"N","Stanton County, Kansas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20187",5,"23",74,0,2013,3,"","Stanton County, Kansas","Private","Construction","County, NAICS Sector -- by ownership sector","All establishment sizes",5,8,8,6,54646,16754,638,573
+"20187",5,"236",75,0,2013,1,"N","Stanton County, Kansas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"236",75,0,2013,2,"N","Stanton County, Kansas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"236",75,0,2013,3,"N","Stanton County, Kansas","Private","Construction of buildings","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"2361",76,0,2013,1,"N","Stanton County, Kansas","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"2361",76,0,2013,2,"N","Stanton County, Kansas","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"2361",76,0,2013,3,"N","Stanton County, Kansas","Private","Residential building construction","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"23611",77,0,2013,1,"N","Stanton County, Kansas","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"23611",77,0,2013,2,"N","Stanton County, Kansas","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"23611",77,0,2013,3,"N","Stanton County, Kansas","Private","Residential building construction","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"236115",78,0,2013,1,"N","Stanton County, Kansas","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"236115",78,0,2013,2,"N","Stanton County, Kansas","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"236115",78,0,2013,3,"N","Stanton County, Kansas","Private","New single-family general contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"236118",78,0,2013,1,"N","Stanton County, Kansas","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"236118",78,0,2013,2,"N","Stanton County, Kansas","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"236118",78,0,2013,3,"N","Stanton County, Kansas","Private","Residential remodelers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"238",75,0,2013,1,"N","Stanton County, Kansas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"238",75,0,2013,2,"N","Stanton County, Kansas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"238",75,0,2013,3,"N","Stanton County, Kansas","Private","Specialty trade contractors","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"2382",76,0,2013,1,"N","Stanton County, Kansas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"2382",76,0,2013,2,"N","Stanton County, Kansas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"2382",76,0,2013,3,"N","Stanton County, Kansas","Private","Building equipment contractors","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"23822",77,0,2013,1,"N","Stanton County, Kansas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"23822",77,0,2013,2,"N","Stanton County, Kansas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"23822",77,0,2013,3,"N","Stanton County, Kansas","Private","Plumbing and hvac contractors","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"238221",78,0,2013,1,"-","Stanton County, Kansas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"20187",5,"238221",78,0,2013,2,"N","Stanton County, Kansas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"238221",78,0,2013,3,"N","Stanton County, Kansas","Private","Residential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"238222",78,0,2013,1,"N","Stanton County, Kansas","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"238222",78,0,2013,2,"N","Stanton County, Kansas","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"238222",78,0,2013,3,"N","Stanton County, Kansas","Private","Nonresidential plumbing and hvac contractors","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"31-33",74,0,2013,1,"N","Stanton County, Kansas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"31-33",74,0,2013,2,"N","Stanton County, Kansas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"31-33",74,0,2013,3,"","Stanton County, Kansas","Private","Manufacturing","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,6,6,69214,11756,229,887
+"20187",5,"311",75,0,2013,1,"N","Stanton County, Kansas","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"311",75,0,2013,2,"N","Stanton County, Kansas","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"311",75,0,2013,3,"N","Stanton County, Kansas","Private","Food manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"3116",76,0,2013,1,"N","Stanton County, Kansas","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"3116",76,0,2013,2,"N","Stanton County, Kansas","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"3116",76,0,2013,3,"N","Stanton County, Kansas","Private","Animal slaughtering and processing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"31161",77,0,2013,1,"N","Stanton County, Kansas","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"31161",77,0,2013,2,"N","Stanton County, Kansas","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"31161",77,0,2013,3,"N","Stanton County, Kansas","Private","Animal slaughtering and processing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"311612",78,0,2013,1,"N","Stanton County, Kansas","Private","Meat processed from carcasses","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"311612",78,0,2013,2,"N","Stanton County, Kansas","Private","Meat processed from carcasses","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"311612",78,0,2013,3,"N","Stanton County, Kansas","Private","Meat processed from carcasses","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"333",75,0,2013,1,"-","Stanton County, Kansas","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"20187",5,"333",75,0,2013,2,"N","Stanton County, Kansas","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"333",75,0,2013,3,"N","Stanton County, Kansas","Private","Machinery manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"3339",76,0,2013,1,"-","Stanton County, Kansas","Private","Other general purpose machinery manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"20187",5,"3339",76,0,2013,2,"N","Stanton County, Kansas","Private","Other general purpose machinery manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"3339",76,0,2013,3,"N","Stanton County, Kansas","Private","Other general purpose machinery manufacturing","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"33391",77,0,2013,1,"-","Stanton County, Kansas","Private","Pump and compressor manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"20187",5,"33391",77,0,2013,2,"N","Stanton County, Kansas","Private","Pump and compressor manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"33391",77,0,2013,3,"N","Stanton County, Kansas","Private","Pump and compressor manufacturing","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"333911",78,0,2013,1,"-","Stanton County, Kansas","Private","Pump and pumping equipment manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",0,0,0,0,0,0,0,0
+"20187",5,"333911",78,0,2013,2,"N","Stanton County, Kansas","Private","Pump and pumping equipment manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"333911",78,0,2013,3,"N","Stanton County, Kansas","Private","Pump and pumping equipment manufacturing","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"337",75,0,2013,1,"N","Stanton County, Kansas","Private","Furniture and related product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"337",75,0,2013,2,"N","Stanton County, Kansas","Private","Furniture and related product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"337",75,0,2013,3,"N","Stanton County, Kansas","Private","Furniture and related product manufacturing","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"3371",76,0,2013,1,"N","Stanton County, Kansas","Private","Household and institutional furniture mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"3371",76,0,2013,2,"N","Stanton County, Kansas","Private","Household and institutional furniture mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"3371",76,0,2013,3,"N","Stanton County, Kansas","Private","Household and institutional furniture mfg.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"33711",77,0,2013,1,"N","Stanton County, Kansas","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"33711",77,0,2013,2,"N","Stanton County, Kansas","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"33711",77,0,2013,3,"N","Stanton County, Kansas","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"337110",78,0,2013,1,"N","Stanton County, Kansas","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"337110",78,0,2013,2,"N","Stanton County, Kansas","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"337110",78,0,2013,3,"N","Stanton County, Kansas","Private","Wood kitchen cabinet and countertop mfg.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"42",74,0,2013,1,"","Stanton County, Kansas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,155,161,160,2047171,1110909,32519,992
+"20187",5,"42",74,0,2013,2,"","Stanton County, Kansas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,160,162,172,2199086,178068,5699,1027
+"20187",5,"42",74,0,2013,3,"","Stanton County, Kansas","Private","Wholesale trade","County, NAICS Sector -- by ownership sector","All establishment sizes",8,172,164,160,1833150,141674,3744,853
+"20187",5,"423",75,0,2013,1,"","Stanton County, Kansas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,51,52,50,937273,377277,13765,1414
+"20187",5,"423",75,0,2013,2,"","Stanton County, Kansas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,53,55,56,542285,60009,2307,763
+"20187",5,"423",75,0,2013,3,"","Stanton County, Kansas","Private","Merchant wholesalers, durable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,58,58,53,577160,24810,1090,788
+"20187",5,"4238",76,0,2013,1,"","Stanton County, Kansas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,51,52,50,937273,377277,13765,1414
+"20187",5,"4238",76,0,2013,2,"","Stanton County, Kansas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,53,55,56,542285,60009,2307,763
+"20187",5,"4238",76,0,2013,3,"","Stanton County, Kansas","Private","Machinery and supply merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,58,58,53,577160,24810,1090,788
+"20187",5,"42382",77,0,2013,1,"","Stanton County, Kansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,51,52,50,937273,377277,13765,1414
+"20187",5,"42382",77,0,2013,2,"","Stanton County, Kansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,53,55,56,542285,60009,2307,763
+"20187",5,"42382",77,0,2013,3,"","Stanton County, Kansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,58,58,53,577160,24810,1090,788
+"20187",5,"423820",78,0,2013,1,"","Stanton County, Kansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,51,52,50,937273,377277,13765,1414
+"20187",5,"423820",78,0,2013,2,"","Stanton County, Kansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,53,55,56,542285,60009,2307,763
+"20187",5,"423820",78,0,2013,3,"","Stanton County, Kansas","Private","Farm and garden equip. merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",4,58,58,53,577160,24810,1090,788
+"20187",5,"424",75,0,2013,1,"","Stanton County, Kansas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,104,109,110,1109898,733632,18754,793
+"20187",5,"424",75,0,2013,2,"","Stanton County, Kansas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,107,107,116,1656801,118059,3392,1159
+"20187",5,"424",75,0,2013,3,"","Stanton County, Kansas","Private","Merchant wholesalers, nondurable goods","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,114,106,107,1255990,116864,2654,886
+"20187",5,"4245",76,0,2013,1,"N","Stanton County, Kansas","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4245",76,0,2013,2,"N","Stanton County, Kansas","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4245",76,0,2013,3,"N","Stanton County, Kansas","Private","Farm product raw material merch. whls.","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"42451",77,0,2013,1,"N","Stanton County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"42451",77,0,2013,2,"N","Stanton County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"42451",77,0,2013,3,"N","Stanton County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"424510",78,0,2013,1,"N","Stanton County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"424510",78,0,2013,2,"N","Stanton County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"424510",78,0,2013,3,"N","Stanton County, Kansas","Private","Grain and field bean merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4247",76,0,2013,1,"N","Stanton County, Kansas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"4247",76,0,2013,2,"N","Stanton County, Kansas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"4247",76,0,2013,3,"N","Stanton County, Kansas","Private","Petroleum merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"42471",77,0,2013,1,"N","Stanton County, Kansas","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"42471",77,0,2013,2,"N","Stanton County, Kansas","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"42471",77,0,2013,3,"N","Stanton County, Kansas","Private","Petroleum bulk stations and terminals","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"424710",78,0,2013,1,"N","Stanton County, Kansas","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"424710",78,0,2013,2,"N","Stanton County, Kansas","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"424710",78,0,2013,3,"N","Stanton County, Kansas","Private","Petroleum bulk stations and terminals","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"42472",77,0,2013,1,"N","Stanton County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"42472",77,0,2013,2,"N","Stanton County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"42472",77,0,2013,3,"N","Stanton County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"424720",78,0,2013,1,"N","Stanton County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"424720",78,0,2013,2,"N","Stanton County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"424720",78,0,2013,3,"N","Stanton County, Kansas","Private","Other petroleum merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4249",76,0,2013,1,"N","Stanton County, Kansas","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4249",76,0,2013,2,"N","Stanton County, Kansas","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4249",76,0,2013,3,"N","Stanton County, Kansas","Private","Misc. nondurable goods merchant wholesalers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"42491",77,0,2013,1,"N","Stanton County, Kansas","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"42491",77,0,2013,2,"N","Stanton County, Kansas","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"42491",77,0,2013,3,"N","Stanton County, Kansas","Private","Farm supplies merchant wholesalers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"424910",78,0,2013,1,"N","Stanton County, Kansas","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"424910",78,0,2013,2,"N","Stanton County, Kansas","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"424910",78,0,2013,3,"N","Stanton County, Kansas","Private","Farm supplies merchant wholesalers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"44-45",74,0,2013,1,"","Stanton County, Kansas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",5,36,35,36,206466,154940,5136,445
+"20187",5,"44-45",74,0,2013,2,"","Stanton County, Kansas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",5,39,40,42,238314,67792,2085,455
+"20187",5,"44-45",74,0,2013,3,"","Stanton County, Kansas","Private","Retail trade","County, NAICS Sector -- by ownership sector","All establishment sizes",5,41,41,39,229295,54399,1649,437
+"20187",5,"441",75,0,2013,1,"N","Stanton County, Kansas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"441",75,0,2013,2,"N","Stanton County, Kansas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"441",75,0,2013,3,"N","Stanton County, Kansas","Private","Motor vehicle and parts dealers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4413",76,0,2013,1,"N","Stanton County, Kansas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4413",76,0,2013,2,"N","Stanton County, Kansas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4413",76,0,2013,3,"N","Stanton County, Kansas","Private","Auto parts, accessories, and tire stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"44131",77,0,2013,1,"N","Stanton County, Kansas","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"44131",77,0,2013,2,"N","Stanton County, Kansas","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"44131",77,0,2013,3,"N","Stanton County, Kansas","Private","Automotive parts and accessories stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"441310",78,0,2013,1,"N","Stanton County, Kansas","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"441310",78,0,2013,2,"N","Stanton County, Kansas","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"441310",78,0,2013,3,"N","Stanton County, Kansas","Private","Automotive parts and accessories stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"444",75,0,2013,1,"N","Stanton County, Kansas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"444",75,0,2013,2,"N","Stanton County, Kansas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"444",75,0,2013,3,"N","Stanton County, Kansas","Private","Building material and garden supply stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4441",76,0,2013,1,"N","Stanton County, Kansas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4441",76,0,2013,2,"N","Stanton County, Kansas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4441",76,0,2013,3,"N","Stanton County, Kansas","Private","Building material and supplies dealers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"44413",77,0,2013,1,"N","Stanton County, Kansas","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"44413",77,0,2013,2,"N","Stanton County, Kansas","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"44413",77,0,2013,3,"N","Stanton County, Kansas","Private","Hardware stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"444130",78,0,2013,1,"N","Stanton County, Kansas","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"444130",78,0,2013,2,"N","Stanton County, Kansas","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"444130",78,0,2013,3,"N","Stanton County, Kansas","Private","Hardware stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"445",75,0,2013,1,"N","Stanton County, Kansas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"445",75,0,2013,2,"N","Stanton County, Kansas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"445",75,0,2013,3,"N","Stanton County, Kansas","Private","Food and beverage stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4451",76,0,2013,1,"N","Stanton County, Kansas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4451",76,0,2013,2,"N","Stanton County, Kansas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4451",76,0,2013,3,"N","Stanton County, Kansas","Private","Grocery stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"44511",77,0,2013,1,"N","Stanton County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"44511",77,0,2013,2,"N","Stanton County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"44511",77,0,2013,3,"N","Stanton County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"445110",78,0,2013,1,"N","Stanton County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"445110",78,0,2013,2,"N","Stanton County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"445110",78,0,2013,3,"N","Stanton County, Kansas","Private","Supermarkets and other grocery stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"446",75,0,2013,1,"N","Stanton County, Kansas","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"446",75,0,2013,2,"N","Stanton County, Kansas","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"446",75,0,2013,3,"N","Stanton County, Kansas","Private","Health and personal care stores","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4461",76,0,2013,1,"N","Stanton County, Kansas","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4461",76,0,2013,2,"N","Stanton County, Kansas","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4461",76,0,2013,3,"N","Stanton County, Kansas","Private","Health and personal care stores","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"44611",77,0,2013,1,"N","Stanton County, Kansas","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"44611",77,0,2013,2,"N","Stanton County, Kansas","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"44611",77,0,2013,3,"N","Stanton County, Kansas","Private","Pharmacies and drug stores","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"446110",78,0,2013,1,"N","Stanton County, Kansas","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"446110",78,0,2013,2,"N","Stanton County, Kansas","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"446110",78,0,2013,3,"N","Stanton County, Kansas","Private","Pharmacies and drug stores","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"453",75,0,2013,1,"N","Stanton County, Kansas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"453",75,0,2013,2,"N","Stanton County, Kansas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"453",75,0,2013,3,"N","Stanton County, Kansas","Private","Miscellaneous store retailers","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4531",76,0,2013,1,"N","Stanton County, Kansas","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4531",76,0,2013,2,"N","Stanton County, Kansas","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4531",76,0,2013,3,"N","Stanton County, Kansas","Private","Florists","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"45311",77,0,2013,1,"N","Stanton County, Kansas","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"45311",77,0,2013,2,"N","Stanton County, Kansas","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"45311",77,0,2013,3,"N","Stanton County, Kansas","Private","Florists","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"453110",78,0,2013,1,"N","Stanton County, Kansas","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"453110",78,0,2013,2,"N","Stanton County, Kansas","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"453110",78,0,2013,3,"N","Stanton County, Kansas","Private","Florists","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"48-49",74,0,2013,1,"N","Stanton County, Kansas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20187",5,"48-49",74,0,2013,2,"N","Stanton County, Kansas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20187",5,"48-49",74,0,2013,3,"N","Stanton County, Kansas","Private","Transportation and warehousing","County, NAICS Sector -- by ownership sector","All establishment sizes",5,0,0,0,0,0,0,0
+"20187",5,"484",75,0,2013,1,"N","Stanton County, Kansas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"484",75,0,2013,2,"N","Stanton County, Kansas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"484",75,0,2013,3,"N","Stanton County, Kansas","Private","Truck transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"4841",76,0,2013,1,"N","Stanton County, Kansas","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4841",76,0,2013,2,"N","Stanton County, Kansas","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4841",76,0,2013,3,"N","Stanton County, Kansas","Private","General freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"48412",77,0,2013,1,"N","Stanton County, Kansas","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"48412",77,0,2013,2,"N","Stanton County, Kansas","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"48412",77,0,2013,3,"N","Stanton County, Kansas","Private","General freight trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"484121",78,0,2013,1,"N","Stanton County, Kansas","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"484121",78,0,2013,2,"N","Stanton County, Kansas","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"484121",78,0,2013,3,"N","Stanton County, Kansas","Private","General freight trucking, long-distance tl","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4842",76,0,2013,1,"N","Stanton County, Kansas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4842",76,0,2013,2,"N","Stanton County, Kansas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4842",76,0,2013,3,"N","Stanton County, Kansas","Private","Specialized freight trucking","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"48423",77,0,2013,1,"N","Stanton County, Kansas","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"48423",77,0,2013,2,"N","Stanton County, Kansas","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"48423",77,0,2013,3,"N","Stanton County, Kansas","Private","Other specialized trucking, long-distance","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"484230",78,0,2013,1,"N","Stanton County, Kansas","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"484230",78,0,2013,2,"N","Stanton County, Kansas","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"484230",78,0,2013,3,"N","Stanton County, Kansas","Private","Other specialized trucking, long-distance","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"488",75,0,2013,1,"N","Stanton County, Kansas","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"488",75,0,2013,2,"N","Stanton County, Kansas","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"488",75,0,2013,3,"N","Stanton County, Kansas","Private","Support activities for transportation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"4881",76,0,2013,1,"N","Stanton County, Kansas","Private","Support activities for air transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"4881",76,0,2013,2,"N","Stanton County, Kansas","Private","Support activities for air transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"4881",76,0,2013,3,"N","Stanton County, Kansas","Private","Support activities for air transportation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"48819",77,0,2013,1,"N","Stanton County, Kansas","Private","Other support activities for air transport.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"48819",77,0,2013,2,"N","Stanton County, Kansas","Private","Other support activities for air transport.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"48819",77,0,2013,3,"N","Stanton County, Kansas","Private","Other support activities for air transport.","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"488190",78,0,2013,1,"N","Stanton County, Kansas","Private","Other support activities for air transport.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"488190",78,0,2013,2,"N","Stanton County, Kansas","Private","Other support activities for air transport.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"488190",78,0,2013,3,"N","Stanton County, Kansas","Private","Other support activities for air transport.","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"493",75,0,2013,1,"N","Stanton County, Kansas","Private","Warehousing and storage","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"493",75,0,2013,2,"N","Stanton County, Kansas","Private","Warehousing and storage","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"493",75,0,2013,3,"N","Stanton County, Kansas","Private","Warehousing and storage","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4931",76,0,2013,1,"N","Stanton County, Kansas","Private","Warehousing and storage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4931",76,0,2013,2,"N","Stanton County, Kansas","Private","Warehousing and storage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"4931",76,0,2013,3,"N","Stanton County, Kansas","Private","Warehousing and storage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"49313",77,0,2013,1,"N","Stanton County, Kansas","Private","Farm product warehousing and storage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"49313",77,0,2013,2,"N","Stanton County, Kansas","Private","Farm product warehousing and storage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"49313",77,0,2013,3,"N","Stanton County, Kansas","Private","Farm product warehousing and storage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"493130",78,0,2013,1,"N","Stanton County, Kansas","Private","Farm product warehousing and storage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"493130",78,0,2013,2,"N","Stanton County, Kansas","Private","Farm product warehousing and storage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"493130",78,0,2013,3,"N","Stanton County, Kansas","Private","Farm product warehousing and storage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"51",74,0,2013,1,"N","Stanton County, Kansas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"51",74,0,2013,2,"N","Stanton County, Kansas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"51",74,0,2013,3,"N","Stanton County, Kansas","Private","Information","County, NAICS Sector -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"511",75,0,2013,1,"N","Stanton County, Kansas","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"511",75,0,2013,2,"N","Stanton County, Kansas","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"511",75,0,2013,3,"N","Stanton County, Kansas","Private","Publishing industries, except internet","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5111",76,0,2013,1,"N","Stanton County, Kansas","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5111",76,0,2013,2,"N","Stanton County, Kansas","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5111",76,0,2013,3,"N","Stanton County, Kansas","Private","Newspaper, book, and directory publishers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"51111",77,0,2013,1,"N","Stanton County, Kansas","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"51111",77,0,2013,2,"N","Stanton County, Kansas","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"51111",77,0,2013,3,"N","Stanton County, Kansas","Private","Newspaper publishers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"511110",78,0,2013,1,"N","Stanton County, Kansas","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"511110",78,0,2013,2,"N","Stanton County, Kansas","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"511110",78,0,2013,3,"N","Stanton County, Kansas","Private","Newspaper publishers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"517",75,0,2013,1,"N","Stanton County, Kansas","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"517",75,0,2013,2,"N","Stanton County, Kansas","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"517",75,0,2013,3,"N","Stanton County, Kansas","Private","Telecommunications","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5171",76,0,2013,1,"N","Stanton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5171",76,0,2013,2,"N","Stanton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5171",76,0,2013,3,"N","Stanton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"51711",77,0,2013,1,"N","Stanton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"51711",77,0,2013,2,"N","Stanton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"51711",77,0,2013,3,"N","Stanton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"517110",78,0,2013,1,"N","Stanton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"517110",78,0,2013,2,"N","Stanton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"517110",78,0,2013,3,"N","Stanton County, Kansas","Private","Wired telecommunications carriers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"52",74,0,2013,1,"","Stanton County, Kansas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,34,30,34,340021,208762,3567,801
+"20187",5,"52",74,0,2013,2,"","Stanton County, Kansas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,35,31,36,356060,43763,1414,806
+"20187",5,"52",74,0,2013,3,"","Stanton County, Kansas","Private","Finance and insurance","County, NAICS Sector -- by ownership sector","All establishment sizes",6,37,36,31,362672,21204,762,805
+"20187",5,"522",75,0,2013,1,"N","Stanton County, Kansas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"522",75,0,2013,2,"N","Stanton County, Kansas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"522",75,0,2013,3,"N","Stanton County, Kansas","Private","Credit intermediation and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5221",76,0,2013,1,"N","Stanton County, Kansas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5221",76,0,2013,2,"N","Stanton County, Kansas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5221",76,0,2013,3,"N","Stanton County, Kansas","Private","Depository credit intermediation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"52211",77,0,2013,1,"N","Stanton County, Kansas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"52211",77,0,2013,2,"N","Stanton County, Kansas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"52211",77,0,2013,3,"N","Stanton County, Kansas","Private","Commercial banking","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"522110",78,0,2013,1,"N","Stanton County, Kansas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"522110",78,0,2013,2,"N","Stanton County, Kansas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"522110",78,0,2013,3,"N","Stanton County, Kansas","Private","Commercial banking","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"523",75,0,2013,1,"N","Stanton County, Kansas","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"523",75,0,2013,2,"N","Stanton County, Kansas","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"523",75,0,2013,3,"N","Stanton County, Kansas","Private","Securities, commodity contracts, investments","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5231",76,0,2013,1,"N","Stanton County, Kansas","Private","Securities and commodity contracts brokerage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5231",76,0,2013,2,"N","Stanton County, Kansas","Private","Securities and commodity contracts brokerage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5231",76,0,2013,3,"N","Stanton County, Kansas","Private","Securities and commodity contracts brokerage","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"52312",77,0,2013,1,"N","Stanton County, Kansas","Private","Securities brokerage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"52312",77,0,2013,2,"N","Stanton County, Kansas","Private","Securities brokerage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"52312",77,0,2013,3,"N","Stanton County, Kansas","Private","Securities brokerage","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"523120",78,0,2013,1,"N","Stanton County, Kansas","Private","Securities brokerage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"523120",78,0,2013,2,"N","Stanton County, Kansas","Private","Securities brokerage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"523120",78,0,2013,3,"N","Stanton County, Kansas","Private","Securities brokerage","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"524",75,0,2013,1,"","Stanton County, Kansas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,12,9,13,87177,60776,1821,592
+"20187",5,"524",75,0,2013,2,"","Stanton County, Kansas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,13,9,13,99238,26800,1214,654
+"20187",5,"524",75,0,2013,3,"","Stanton County, Kansas","Private","Insurance carriers and related activities","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,13,13,10,106886,13238,668,685
+"20187",5,"5241",76,0,2013,1,"N","Stanton County, Kansas","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5241",76,0,2013,2,"N","Stanton County, Kansas","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5241",76,0,2013,3,"N","Stanton County, Kansas","Private","Insurance carriers","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"52412",77,0,2013,1,"N","Stanton County, Kansas","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"52412",77,0,2013,2,"N","Stanton County, Kansas","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"52412",77,0,2013,3,"N","Stanton County, Kansas","Private","Direct insurers, except life and health","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"524126",78,0,2013,1,"N","Stanton County, Kansas","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"524126",78,0,2013,2,"N","Stanton County, Kansas","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"524126",78,0,2013,3,"N","Stanton County, Kansas","Private","Direct property and casualty insurers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5242",76,0,2013,1,"N","Stanton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"5242",76,0,2013,2,"N","Stanton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"5242",76,0,2013,3,"N","Stanton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 4-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"52421",77,0,2013,1,"N","Stanton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"52421",77,0,2013,2,"N","Stanton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"52421",77,0,2013,3,"N","Stanton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 5-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"524210",78,0,2013,1,"N","Stanton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"524210",78,0,2013,2,"N","Stanton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"524210",78,0,2013,3,"N","Stanton County, Kansas","Private","Insurance agencies and brokerages","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,0,0,0,0,0,0,0
+"20187",5,"54",74,0,2013,1,"","Stanton County, Kansas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,20,20,19,108389,79656,2450,424
+"20187",5,"54",74,0,2013,2,"","Stanton County, Kansas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,21,21,21,112309,32133,815,411
+"20187",5,"54",74,0,2013,3,"","Stanton County, Kansas","Private","Professional and technical services","County, NAICS Sector -- by ownership sector","All establishment sizes",6,26,29,26,143940,24941,813,410
+"20187",5,"541",75,0,2013,1,"","Stanton County, Kansas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,20,20,19,108389,79656,2450,424
+"20187",5,"541",75,0,2013,2,"","Stanton County, Kansas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,21,21,21,112309,32133,815,411
+"20187",5,"541",75,0,2013,3,"","Stanton County, Kansas","Private","Professional and technical services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",6,26,29,26,143940,24941,813,410
+"20187",5,"5411",76,0,2013,1,"N","Stanton County, Kansas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"5411",76,0,2013,2,"N","Stanton County, Kansas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"5411",76,0,2013,3,"N","Stanton County, Kansas","Private","Legal services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"54111",77,0,2013,1,"N","Stanton County, Kansas","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"54111",77,0,2013,2,"N","Stanton County, Kansas","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"54111",77,0,2013,3,"N","Stanton County, Kansas","Private","Offices of lawyers","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"541110",78,0,2013,1,"N","Stanton County, Kansas","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"541110",78,0,2013,2,"N","Stanton County, Kansas","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"541110",78,0,2013,3,"N","Stanton County, Kansas","Private","Offices of lawyers","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"5412",76,0,2013,1,"N","Stanton County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5412",76,0,2013,2,"N","Stanton County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5412",76,0,2013,3,"N","Stanton County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"54121",77,0,2013,1,"N","Stanton County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"54121",77,0,2013,2,"N","Stanton County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"54121",77,0,2013,3,"N","Stanton County, Kansas","Private","Accounting and bookkeeping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"541219",78,0,2013,1,"N","Stanton County, Kansas","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"541219",78,0,2013,2,"N","Stanton County, Kansas","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"541219",78,0,2013,3,"N","Stanton County, Kansas","Private","Other accounting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5416",76,0,2013,1,"N","Stanton County, Kansas","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5416",76,0,2013,2,"N","Stanton County, Kansas","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5416",76,0,2013,3,"N","Stanton County, Kansas","Private","Management and technical consulting services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"54169",77,0,2013,1,"N","Stanton County, Kansas","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"54169",77,0,2013,2,"N","Stanton County, Kansas","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"54169",77,0,2013,3,"N","Stanton County, Kansas","Private","Other technical consulting services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"541690",78,0,2013,1,"N","Stanton County, Kansas","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"541690",78,0,2013,2,"N","Stanton County, Kansas","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"541690",78,0,2013,3,"N","Stanton County, Kansas","Private","Other technical consulting services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5419",76,0,2013,1,"N","Stanton County, Kansas","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"5419",76,0,2013,2,"N","Stanton County, Kansas","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"5419",76,0,2013,3,"N","Stanton County, Kansas","Private","Other professional and technical services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"54194",77,0,2013,1,"N","Stanton County, Kansas","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"54194",77,0,2013,2,"N","Stanton County, Kansas","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"54194",77,0,2013,3,"N","Stanton County, Kansas","Private","Veterinary services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"541940",78,0,2013,1,"N","Stanton County, Kansas","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"541940",78,0,2013,2,"N","Stanton County, Kansas","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"541940",78,0,2013,3,"N","Stanton County, Kansas","Private","Veterinary services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"54199",77,0,2013,1,"N","Stanton County, Kansas","Private","All other professional and technical services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"54199",77,0,2013,2,"N","Stanton County, Kansas","Private","All other professional and technical services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"54199",77,0,2013,3,"N","Stanton County, Kansas","Private","All other professional and technical services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"541990",78,0,2013,1,"N","Stanton County, Kansas","Private","All other professional and technical services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"541990",78,0,2013,2,"N","Stanton County, Kansas","Private","All other professional and technical services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"541990",78,0,2013,3,"N","Stanton County, Kansas","Private","All other professional and technical services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"56",74,0,2013,1,"","Stanton County, Kansas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,6,6,10,22786,22786,600,239
+"20187",5,"56",74,0,2013,2,"","Stanton County, Kansas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,10,11,11,25878,21246,546,187
+"20187",5,"56",74,0,2013,3,"","Stanton County, Kansas","Private","Administrative and waste services","County, NAICS Sector -- by ownership sector","All establishment sizes",3,11,13,14,34420,16444,303,209
+"20187",5,"561",75,0,2013,1,"","Stanton County, Kansas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,6,6,10,22786,22786,600,239
+"20187",5,"561",75,0,2013,2,"","Stanton County, Kansas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,10,11,11,25878,21246,546,187
+"20187",5,"561",75,0,2013,3,"","Stanton County, Kansas","Private","Administrative and support services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",3,11,13,14,34420,16444,303,209
+"20187",5,"5614",76,0,2013,1,"N","Stanton County, Kansas","Private","Business support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5614",76,0,2013,2,"N","Stanton County, Kansas","Private","Business support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5614",76,0,2013,3,"N","Stanton County, Kansas","Private","Business support services","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"56141",77,0,2013,1,"N","Stanton County, Kansas","Private","Document preparation services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"56141",77,0,2013,2,"N","Stanton County, Kansas","Private","Document preparation services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"56141",77,0,2013,3,"N","Stanton County, Kansas","Private","Document preparation services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"561410",78,0,2013,1,"N","Stanton County, Kansas","Private","Document preparation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"561410",78,0,2013,2,"N","Stanton County, Kansas","Private","Document preparation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"561410",78,0,2013,3,"N","Stanton County, Kansas","Private","Document preparation services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"5617",76,0,2013,1,"N","Stanton County, Kansas","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"5617",76,0,2013,2,"N","Stanton County, Kansas","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"5617",76,0,2013,3,"N","Stanton County, Kansas","Private","Services to buildings and dwellings","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"56172",77,0,2013,1,"N","Stanton County, Kansas","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"56172",77,0,2013,2,"N","Stanton County, Kansas","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"56172",77,0,2013,3,"N","Stanton County, Kansas","Private","Janitorial services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"561720",78,0,2013,1,"N","Stanton County, Kansas","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"561720",78,0,2013,2,"N","Stanton County, Kansas","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"561720",78,0,2013,3,"N","Stanton County, Kansas","Private","Janitorial services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"56173",77,0,2013,1,"N","Stanton County, Kansas","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"56173",77,0,2013,2,"N","Stanton County, Kansas","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"56173",77,0,2013,3,"N","Stanton County, Kansas","Private","Landscaping services","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"561730",78,0,2013,1,"N","Stanton County, Kansas","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"561730",78,0,2013,2,"N","Stanton County, Kansas","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"561730",78,0,2013,3,"N","Stanton County, Kansas","Private","Landscaping services","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"62",74,0,2013,1,"N","Stanton County, Kansas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"62",74,0,2013,2,"N","Stanton County, Kansas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"62",74,0,2013,3,"N","Stanton County, Kansas","Private","Health care and social assistance","County, NAICS Sector -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"621",75,0,2013,1,"N","Stanton County, Kansas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"621",75,0,2013,2,"N","Stanton County, Kansas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"621",75,0,2013,3,"N","Stanton County, Kansas","Private","Ambulatory health care services","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"6211",76,0,2013,1,"N","Stanton County, Kansas","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"6211",76,0,2013,2,"N","Stanton County, Kansas","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"6211",76,0,2013,3,"N","Stanton County, Kansas","Private","Offices of physicians","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"62111",77,0,2013,1,"N","Stanton County, Kansas","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"62111",77,0,2013,2,"N","Stanton County, Kansas","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"62111",77,0,2013,3,"N","Stanton County, Kansas","Private","Offices of physicians","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"621111",78,0,2013,1,"N","Stanton County, Kansas","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"621111",78,0,2013,2,"N","Stanton County, Kansas","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"621111",78,0,2013,3,"N","Stanton County, Kansas","Private","Offices of physicians, except mental health","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"72",74,0,2013,1,"","Stanton County, Kansas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,22,24,21,37729,37729,1082,130
+"20187",5,"72",74,0,2013,2,"","Stanton County, Kansas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,24,24,23,34921,33921,1023,114
+"20187",5,"72",74,0,2013,3,"","Stanton County, Kansas","Private","Accommodation and food services","County, NAICS Sector -- by ownership sector","All establishment sizes",5,23,25,22,41539,30764,701,137
+"20187",5,"721",75,0,2013,1,"N","Stanton County, Kansas","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"721",75,0,2013,2,"N","Stanton County, Kansas","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"721",75,0,2013,3,"N","Stanton County, Kansas","Private","Accommodation","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"7211",76,0,2013,1,"N","Stanton County, Kansas","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"7211",76,0,2013,2,"N","Stanton County, Kansas","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"7211",76,0,2013,3,"N","Stanton County, Kansas","Private","Traveler accommodation","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"72111",77,0,2013,1,"N","Stanton County, Kansas","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"72111",77,0,2013,2,"N","Stanton County, Kansas","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"72111",77,0,2013,3,"N","Stanton County, Kansas","Private","Hotels and motels, except casino hotels","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"721110",78,0,2013,1,"N","Stanton County, Kansas","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"721110",78,0,2013,2,"N","Stanton County, Kansas","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"721110",78,0,2013,3,"N","Stanton County, Kansas","Private","Hotels and motels, except casino hotels","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"722",75,0,2013,1,"N","Stanton County, Kansas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20187",5,"722",75,0,2013,2,"N","Stanton County, Kansas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20187",5,"722",75,0,2013,3,"N","Stanton County, Kansas","Private","Food services and drinking places","County, NAICS 3-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20187",5,"7225",76,0,2013,1,"N","Stanton County, Kansas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20187",5,"7225",76,0,2013,2,"N","Stanton County, Kansas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20187",5,"7225",76,0,2013,3,"N","Stanton County, Kansas","Private","Restaurants","County, NAICS 4-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20187",5,"72251",77,0,2013,1,"N","Stanton County, Kansas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20187",5,"72251",77,0,2013,2,"N","Stanton County, Kansas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20187",5,"72251",77,0,2013,3,"N","Stanton County, Kansas","Private","Restaurants","County, NAICS 5-digit -- by ownership sector","All establishment sizes",4,0,0,0,0,0,0,0
+"20187",5,"722511",78,0,2013,1,"","Stanton County, Kansas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,14,15,14,21350,21350,564,115
+"20187",5,"722511",78,0,2013,2,"","Stanton County, Kansas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,15,17,16,20720,20720,610,100
+"20187",5,"722511",78,0,2013,3,"","Stanton County, Kansas","Private","Full-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",3,14,16,16,27008,19500,430,135
+"20187",5,"722513",78,0,2013,1,"N","Stanton County, Kansas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"722513",78,0,2013,2,"N","Stanton County, Kansas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"722513",78,0,2013,3,"N","Stanton County, Kansas","Private","Limited-service restaurants","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"81",74,0,2013,1,"","Stanton County, Kansas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,6,5,23234,23234,604,298
+"20187",5,"81",74,0,2013,2,"","Stanton County, Kansas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,7,7,6,22116,17128,558,255
+"20187",5,"81",74,0,2013,3,"","Stanton County, Kansas","Private","Other services, except public administration","County, NAICS Sector -- by ownership sector","All establishment sizes",3,8,6,6,26907,13697,418,310
+"20187",5,"813",75,0,2013,1,"N","Stanton County, Kansas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"813",75,0,2013,2,"N","Stanton County, Kansas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"813",75,0,2013,3,"N","Stanton County, Kansas","Private","Membership associations and organizations","County, NAICS 3-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"8139",76,0,2013,1,"N","Stanton County, Kansas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"8139",76,0,2013,2,"N","Stanton County, Kansas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"8139",76,0,2013,3,"N","Stanton County, Kansas","Private","Professional and similar organizations","County, NAICS 4-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"81391",77,0,2013,1,"N","Stanton County, Kansas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"81391",77,0,2013,2,"N","Stanton County, Kansas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"81391",77,0,2013,3,"N","Stanton County, Kansas","Private","Business associations","County, NAICS 5-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"813910",78,0,2013,1,"N","Stanton County, Kansas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"813910",78,0,2013,2,"N","Stanton County, Kansas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"813910",78,0,2013,3,"N","Stanton County, Kansas","Private","Business associations","County, NAICS 6-digit -- by ownership sector","All establishment sizes",2,0,0,0,0,0,0,0
+"20187",5,"814",75,0,2013,1,"N","Stanton County, Kansas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"814",75,0,2013,2,"N","Stanton County, Kansas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"814",75,0,2013,3,"N","Stanton County, Kansas","Private","Private households","County, NAICS 3-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"8141",76,0,2013,1,"N","Stanton County, Kansas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"8141",76,0,2013,2,"N","Stanton County, Kansas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"8141",76,0,2013,3,"N","Stanton County, Kansas","Private","Private households","County, NAICS 4-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"81411",77,0,2013,1,"N","Stanton County, Kansas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"81411",77,0,2013,2,"N","Stanton County, Kansas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"81411",77,0,2013,3,"N","Stanton County, Kansas","Private","Private households","County, NAICS 5-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"814110",78,0,2013,1,"N","Stanton County, Kansas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"814110",78,0,2013,2,"N","Stanton County, Kansas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+"20187",5,"814110",78,0,2013,3,"N","Stanton County, Kansas","Private","Private households","County, NAICS 6-digit -- by ownership sector","All establishment sizes",1,0,0,0,0,0,0,0
+
