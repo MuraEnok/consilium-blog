@@ -10,3 +10,7 @@ library(choroplethr)
   df$value <- df$persistent.poverty + 1
 # create map of US counties with persistent poverty
   choroplethr(df, "county", num_buckets=2, title = "Counties with persistent poverty 2014: Darker Blue = Yes")
+
+
+
+
